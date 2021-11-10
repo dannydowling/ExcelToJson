@@ -8,12 +8,12 @@ namespace ExcelToJson
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {            
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
-            var inFilePath = args[0];
-            var outFilePath = args[1];
+            var inFilePath = "worldairports.xlsx";
+            var outFilePath = "Positions.txt";
 
             using (var inFile = File.Open(inFilePath, FileMode.Open, FileAccess.Read))
             using (var outFile = File.CreateText(outFilePath))
