@@ -49,17 +49,17 @@ namespace ExcelToJson
                             reader.Read();
                         }
 
-
-                        //create a list of the countries in a new file
-                        foreach (var countryName in list.Keys.Distinct())
+                        if (!File.Exists(@".\Positions\Countries.txt"))
                         {
-                            if (!File.Exists(@".\Positions\" + countryName))
+                            File.Create(@".\Positions\Countries.txt");
+                        }
+                        using (var countryWriterStream = (File.CreateText(@".\Positions\Countries.txt")))
+                        {
+                            //create a list of the countries in a file
+                            foreach (var countryName in list.Keys.Distinct())
                             {
-                                File.Create(@".\Positions\" + countryName);
-                            }                            
-                            using (var countryFile = (File.CreateText(@".\Positions\Countries.txt")))
-                            {
-                                using (var writer = new JsonTextWriter(countryFile))
+
+                                using (var writer = new JsonTextWriter(countryWriterStream))
                                 {
                                     try
                                     {
@@ -71,24 +71,25 @@ namespace ExcelToJson
                                     {
                                         reader.NextResult();
                                     }
-
                                 }
-                            };
-                        }
+                            }
+                        };
 
                         //create a list of locations within country files
-                        foreach (var Country in list.Keys.Distinct())
+                        foreach (var countryAsString in list.Keys.Distinct())
                         {
-                            var countryFileString = String.Format(@".\Positions\{0}.txt", Country);
-                            if (!File.Exists(@".\Positions\" + countryFileString))
+                            //here I'm trying to create a file for each country that's distinct in the list of keys.
+
+                            var countryFileNameString = String.Format(@".\Positions\{0}.txt", countryAsString);
+                            if (!File.Exists(countryFileNameString))
                             {
-                                File.Create(@".\Positions\" + countryFileString);
+                                File.Create(countryFileNameString);
                             }
-                            
-                            File.CreateText(@".\Positions\" + countryFileString);
-                            using (var countryFile = (File.CreateText(countryFileString)))
+
+                            File.CreateText(countryFileNameString);
+                            using (var locationStreamWriter = (File.CreateText(countryFileNameString)))
                             {
-                                using (var writer = new JsonTextWriter(countryFile))
+                                using (var writer = new JsonTextWriter(locationStreamWriter))
                                 {
                                     writer.Formatting = Formatting.Indented;
                                     writer.WriteStartArray();
