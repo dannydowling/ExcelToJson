@@ -8,7 +8,7 @@ namespace ExcelToJson
 {
     class Program
     {
-        static void Main()
+        public static void Main()
         {
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
 
@@ -48,93 +48,61 @@ namespace ExcelToJson
                             //if we can't read the record, skip it.
                             reader.Read();
                         }
+                    }
 
-                        if (!File.Exists(@".\Positions\Countries.txt"))
+                CreateCountryLocationFiles(list);
+            }
+
+           void CreateCountryLocationFiles(SortedList<string, Location> list)
+            {
+                //create a list of locations within country files
+                foreach (var countryAsString in list.Keys.Distinct())
+                {
+
+                    using (var locationStreamWriter = new StreamWriter(string.Format(@".\Countries\{0}.txt", countryAsString)))
+                    {
+                        using (var writer = new JsonTextWriter(locationStreamWriter))
                         {
-                            File.Create(@".\Positions\Countries.txt");
-                        }
-                        using (var countryWriterStream = (File.CreateText(@".\Positions\Countries.txt")))
-                        {
-                            //create a list of the countries in a file
-                            foreach (var countryName in list.Keys.Distinct())
+                            writer.Formatting = Formatting.Indented;
+                            writer.WriteStartArray();
+                            foreach (var location in list)
                             {
-
-                                using (var writer = new JsonTextWriter(countryWriterStream))
+                                try
                                 {
-                                    try
-                                    {
-                                        writer.WriteStartObject();
-                                        writer.WritePropertyName("country");
-                                        writer.WriteValue(reader.GetString(6).ToString());
-                                    }
-                                    catch (Exception)
-                                    {
-                                        reader.NextResult();
-                                    }
+                                    writer.WriteStartObject();
+
+                                    writer.WritePropertyName("country");
+                                    writer.WriteValue(location.Value.country);
+
+                                    writer.WritePropertyName("state");
+                                    writer.WriteValue(location.Value.state);
+
+                                    writer.WritePropertyName("city");
+                                    writer.WriteValue(location.Value.city);
+
+                                    writer.WritePropertyName("name");
+                                    writer.WriteValue(location.Value.name);
+
+                                    writer.WritePropertyName("icao");
+                                    writer.WriteValue(location.Value.icao);
+
+                                    writer.WritePropertyName("lat");
+                                    writer.WriteValue(location.Value.lat);
+
+                                    writer.WritePropertyName("lon");
+                                    writer.WriteValue(location.Value.lon);
+
+                                    writer.WriteEndObject();
                                 }
-                            }
-                        };
-
-                        //create a list of locations within country files
-                        foreach (var countryAsString in list.Keys.Distinct())
-                        {
-                            //here I'm trying to create a file for each country that's distinct in the list of keys.
-
-                            var countryFileNameString = String.Format(@".\Positions\{0}.txt", countryAsString);
-                            if (!File.Exists(countryFileNameString))
-                            {
-                                File.Create(countryFileNameString);
-                            }
-
-                            File.CreateText(countryFileNameString);
-                            using (var locationStreamWriter = (File.CreateText(countryFileNameString)))
-                            {
-                                using (var writer = new JsonTextWriter(locationStreamWriter))
+                                catch (Exception)
                                 {
-                                    writer.Formatting = Formatting.Indented;
-                                    writer.WriteStartArray();
-                                    reader.Read(); //skip the headings
-                                    do
-                                    {
-                                        while (reader.Read())
-                                        {
-                                            try
-                                            {
-                                                writer.WriteStartObject();
-                                                writer.WritePropertyName("country");
-                                                writer.WriteValue(reader.GetString(6).ToString());
-
-                                                writer.WritePropertyName("state");
-                                                writer.WriteValue(reader.GetString(0).ToString());
-
-                                                writer.WritePropertyName("city");
-                                                writer.WriteValue(reader.GetString(1).ToString());
-
-                                                writer.WritePropertyName("name");
-                                                writer.WriteValue(reader.GetString(2).ToString());
-
-                                                writer.WritePropertyName("icao");
-                                                writer.WriteValue(reader.GetString(3).ToString());
-
-                                                writer.WritePropertyName("lat");
-                                                writer.WriteValue(reader.GetDouble(4));
-
-                                                writer.WritePropertyName("lon");
-                                                writer.WriteValue(reader.GetDouble(5));
-
-                                                writer.WriteEndObject();
-                                            }
-                                            catch (Exception)
-                                            {
-                                                reader.NextResult();
-                                            }
-                                        }
-                                    } while (reader.NextResult());
-                                    writer.WriteEndArray();
+                                    Console.WriteLine("failed");
                                 }
+                                writer.WriteEndArray();
                             }
                         }
                     }
+                }
             }
         }
     }
