@@ -24,7 +24,7 @@ namespace ExcelToJson
             {
                 using (var reader = ExcelReaderFactory.CreateReader(inFile, new ExcelReaderConfiguration()
                 { FallbackEncoding = Encoding.GetEncoding(1252) }))
-                   
+
                     //try to read the whole document and make classes from it
                     while (reader.Read())
                     {
@@ -47,7 +47,7 @@ namespace ExcelToJson
                             }
 
                             reader.Read();
-                          
+
                         }
 
                         catch (Exception ex)
@@ -61,74 +61,78 @@ namespace ExcelToJson
                     List<Location> separateLocationListsByCountry = new List<Location>();
                     separateLocationListsByCountry = unsortedAllLocations.Where(x => x.country == countryName).ToList();
                     sortedLocations.Add(countryName, separateLocationListsByCountry);
-                }               
-                             
+                }
+
 
                 CreateCountryLocationFiles(sortedLocations);
             }
 
+
             void CreateCountryLocationFiles(SortedList<string, List<Location>> list)
             {
+                List<Location> fileWritingLocations = new List<Location>();
+
                 //get the name of each country
                 foreach (var countryAsString in list.Keys.Distinct())
                 {
-                    
-                    //make a new file to hold them
-                    using (var locationStreamWriter = new StreamWriter(string.Format(@".\Countries\{0}.txt", countryAsString)))
+                    foreach (var listLocation in list.Values)
                     {
-                        using (var writer = new JsonTextWriter(locationStreamWriter))
+
+                        foreach (var location in listLocation)
                         {
-                            writer.Formatting = Formatting.Indented;
-                            writer.WriteStartArray();
+                            fileWritingLocations.AddRange(listLocation.Where(x => x.country == countryAsString).ToList());
 
-                            foreach (var listLocationInCountry in list.Values)
-                            {
-
-                                foreach (var location in listLocationInCountry)
-                                {
-                                    try
-                                    {
-                                        writer.WriteStartObject();
-
-                                        writer.WritePropertyName("country");
-                                        writer.WriteValue(location.country);
-
-                                        writer.WritePropertyName("state");
-                                        writer.WriteValue(location.state);
-
-                                        writer.WritePropertyName("city");
-                                        writer.WriteValue(location.city);
-
-                                        writer.WritePropertyName("name");
-                                        writer.WriteValue(location.name);
-
-                                        writer.WritePropertyName("icao");
-                                        writer.WriteValue(location.icao);
-
-                                        writer.WritePropertyName("lat");
-                                        writer.WriteValue(location.lat);
-
-                                        writer.WritePropertyName("lon");
-                                        writer.WriteValue(location.lon);
-
-                                        writer.WriteEndObject();
-                                    }
-                                    catch (Exception)
-                                    {
-                                        Console.WriteLine("failed");
-                                    }
-                                    finally
-                                    {
-                                        //writer.WriteEndArray();
-                                    }
-                                    
-                                }
-                            }
-
+                            using (var sw = new StreamWriter("./Countries/" + countryAsString + ".txt"))
+                                Write(sw, fileWritingLocations);
                         }
                     }
                 }
             }
         }
+
+        internal static void Write(StreamWriter sw, List<Location> locations)
+        {
+            using (var writer = new JsonTextWriter(sw))
+            {
+                writer.Formatting = Formatting.Indented;
+                writer.WriteStartArray();
+
+                foreach (var location in locations)
+                {
+                    writer.WriteStartObject();
+
+
+                    writer.WritePropertyName("country");
+                    writer.WriteValue(location.country);
+
+                    writer.WritePropertyName("state");
+                    writer.WriteValue(location.state);
+
+                    writer.WritePropertyName("city");
+                    writer.WriteValue(location.city);
+
+                    writer.WritePropertyName("name");
+                    writer.WriteValue(location.name);
+
+                    writer.WritePropertyName("icao");
+                    writer.WriteValue(location.icao);
+
+                    writer.WritePropertyName("lat");
+                    writer.WriteValue(location.lat);
+
+                    writer.WritePropertyName("lon");
+                    writer.WriteValue(location.lon);
+
+                    writer.WriteEndObject();
+                }
+
+            }
+            sw.Close();
+            
+            return;
+        }
+
     }
 }
+
+
