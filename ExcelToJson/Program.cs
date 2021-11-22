@@ -72,10 +72,7 @@ namespace ExcelToJson
                 //get the name of each country
                 foreach (var countryAsString in list.Keys.Distinct())
                 {
-                    //and a list of locations within that country
-                    List<Location> locations = list.Values as List<Location>;
-
-
+                    
                     //make a new file to hold them
                     using (var locationStreamWriter = new StreamWriter(string.Format(@".\Countries\{0}.txt", countryAsString)))
                     {
@@ -83,10 +80,11 @@ namespace ExcelToJson
                         {
                             writer.Formatting = Formatting.Indented;
                             writer.WriteStartArray();
-                            if (locations != null)
+
+                            foreach (var listLocationInCountry in list.Values)
                             {
 
-                                foreach (var location in locations)
+                                foreach (var location in listLocationInCountry)
                                 {
                                     try
                                     {
