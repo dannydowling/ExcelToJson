@@ -117,7 +117,11 @@ namespace ExcelToJson
                                     {
                                         Console.WriteLine("failed");
                                     }
-                                    writer.WriteEndArray();
+                                    finally
+                                    {
+                                        //writer.WriteEndArray();
+                                    }
+                                    
                                 }
                             }
 
