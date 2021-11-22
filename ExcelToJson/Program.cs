@@ -84,9 +84,12 @@ namespace ExcelToJson
 
                             using (var sw = new StreamWriter("./Countries/" + countryAsString + ".txt"))
                                 Write(sw, fileWritingLocations);
+                           
                         }
                     }
+                    fileWritingLocations.RemoveAll(x => x.country == countryAsString);
                 }
+
             }
         }
 
