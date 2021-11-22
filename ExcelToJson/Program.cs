@@ -15,23 +15,22 @@ namespace ExcelToJson
 
             var inFilePath = "worldairports.xlsx";
 
-            List<Location> unsortedAllLocations = new List<Location>();      
+            List<Location> unsortedAllLocations = new List<Location>();
+            List<string> countryNames = new List<string>();     //create something to match against
+            SortedList<string, List<Location>> sortedLocations = new SortedList<string, List<Location>>();
 
             //open the file for reading
             using (var inFile = File.Open(inFilePath, FileMode.Open, FileAccess.Read))
-
             {
-                List<string> countryNames = new List<string>();     //create something to match against
-
                 using (var reader = ExcelReaderFactory.CreateReader(inFile, new ExcelReaderConfiguration()
                 { FallbackEncoding = Encoding.GetEncoding(1252) }))
-                                        
+                   
                     //try to read the whole document and make classes from it
                     while (reader.Read())
                     {
                         try
                         {
-                            Location location = new Location()
+                            unsortedAllLocations.Add(new Location()
                             {
                                 country = reader.GetString(6).ToString(),
                                 state = reader.GetString(0).ToString(),
@@ -40,14 +39,15 @@ namespace ExcelToJson
                                 icao = reader.GetString(3).ToString(),
                                 lat = reader.GetDouble(4),
                                 lon = reader.GetDouble(5)
-                            };
+                            });
 
-                            unsortedAllLocations.Add(location);
-
-                            if (!countryNames.Contains(location.country))
+                            if (!countryNames.Contains(reader.GetString(6).ToString()))
                             {
-                                countryNames.Add(location.country);                 //adding to our list of comparable keys
+                                countryNames.Add(reader.GetString(6).ToString());                 //adding to our list of comparable keys
                             }
+
+                            reader.Read();
+                          
                         }
 
                         catch (Exception ex)
@@ -55,14 +55,11 @@ namespace ExcelToJson
                             Console.WriteLine("issue:{0}", ex.Message);
                         }
                     }
-                SortedList<string, List<Location>> sortedLocations = new SortedList<string, List<Location>>();
-                
-                
 
                 foreach (var countryName in countryNames)
                 {
                     List<Location> separateLocationListsByCountry = new List<Location>();
-                    separateLocationListsByCountry = unsortedAllLocations.TakeWhile(x => x.country == countryName).ToList();
+                    separateLocationListsByCountry = unsortedAllLocations.Where(x => x.country == countryName).ToList();
                     sortedLocations.Add(countryName, separateLocationListsByCountry);
                 }               
                              
@@ -86,41 +83,44 @@ namespace ExcelToJson
                         {
                             writer.Formatting = Formatting.Indented;
                             writer.WriteStartArray();
-
-                            foreach (var location in locations)
+                            if (locations != null)
                             {
-                                try
+
+                                foreach (var location in locations)
                                 {
-                                    writer.WriteStartObject();
+                                    try
+                                    {
+                                        writer.WriteStartObject();
 
-                                    writer.WritePropertyName("country");
-                                    writer.WriteValue(location.country);
+                                        writer.WritePropertyName("country");
+                                        writer.WriteValue(location.country);
 
-                                    writer.WritePropertyName("state");
-                                    writer.WriteValue(location.state);
+                                        writer.WritePropertyName("state");
+                                        writer.WriteValue(location.state);
 
-                                    writer.WritePropertyName("city");
-                                    writer.WriteValue(location.city);
+                                        writer.WritePropertyName("city");
+                                        writer.WriteValue(location.city);
 
-                                    writer.WritePropertyName("name");
-                                    writer.WriteValue(location.name);
+                                        writer.WritePropertyName("name");
+                                        writer.WriteValue(location.name);
 
-                                    writer.WritePropertyName("icao");
-                                    writer.WriteValue(location.icao);
+                                        writer.WritePropertyName("icao");
+                                        writer.WriteValue(location.icao);
 
-                                    writer.WritePropertyName("lat");
-                                    writer.WriteValue(location.lat);
+                                        writer.WritePropertyName("lat");
+                                        writer.WriteValue(location.lat);
 
-                                    writer.WritePropertyName("lon");
-                                    writer.WriteValue(location.lon);
+                                        writer.WritePropertyName("lon");
+                                        writer.WriteValue(location.lon);
 
-                                    writer.WriteEndObject();
+                                        writer.WriteEndObject();
+                                    }
+                                    catch (Exception)
+                                    {
+                                        Console.WriteLine("failed");
+                                    }
+                                    writer.WriteEndArray();
                                 }
-                                catch (Exception)
-                                {
-                                    Console.WriteLine("failed");
-                                }
-                                writer.WriteEndArray();
                             }
 
                         }
