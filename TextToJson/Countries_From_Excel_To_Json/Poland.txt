@@ -1,0 +1,1388 @@
+[
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Warsaw",
+    "name": "Warsaw Chopin Airport",
+    "icao": "EPWA",
+    "lat": 52.1656990051,
+    "lon": 20.9671001433999
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Gdaask",
+    "name": "Gdaask Lech Waiasa Airport",
+    "icao": "EPGD",
+    "lat": 54.3776016235351,
+    "lon": 18.4661998748779
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "Wroclaw",
+    "name": "Copernicus Wroclaw Airport",
+    "icao": "EPWR",
+    "lat": 51.1026992798,
+    "lon": 16.885799408
+  },
+  {
+    "country": "Poland",
+    "state": "Kuyavia-Pomerania",
+    "city": "Bydgoszcz",
+    "name": "Bydgoszcz Ignacy Jan Paderewski Airport",
+    "icao": "EPBY",
+    "lat": 53.0968017577999,
+    "lon": 17.9776992798
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "Goleniow",
+    "name": "Szczecin-GoleniÃ³w \"SolidarnoÅ›Ä‡\" Airport",
+    "icao": "EPSC",
+    "lat": 53.5847015381,
+    "lon": 14.9021997451999
+  },
+  {
+    "country": "Poland",
+    "state": "Subcarpathia",
+    "city": "RzeszÃ³w",
+    "name": "RzeszÃ³w-Jasionka Airport",
+    "icao": "EPRZ",
+    "lat": 50.110001,
+    "lon": 22.018999
+  },
+  {
+    "country": "Poland",
+    "state": "Silesia",
+    "city": "Silesia",
+    "name": "Muchowiec Airport",
+    "icao": "EPKM",
+    "lat": 50.2380981445312,
+    "lon": 19.0342006683349
+  },
+  {
+    "country": "Poland",
+    "state": "Silesia",
+    "city": "CzÄ™stochowa",
+    "name": "CzÄ™stochowa-Rudniki",
+    "icao": "EPCH",
+    "lat": 50.884998,
+    "lon": 19.2047
+  },
+  {
+    "country": "Poland",
+    "state": "Lublin",
+    "city": "BiaÅ‚a Podlaska",
+    "name": "BiaÅ‚a Podlaska Airfield",
+    "icao": "EPBP",
+    "lat": 52.00078,
+    "lon": 23.1325278
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Gdynia",
+    "name": "Oksywie Military Air Base",
+    "icao": "EPOK",
+    "lat": 54.57970047,
+    "lon": 18.51720047
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Warmia-Masuria",
+    "name": "Elblag Airport",
+    "icao": "EPEL",
+    "lat": 54.1408004760742,
+    "lon": 19.4232997894287
+  },
+  {
+    "country": "Poland",
+    "state": "Lublin",
+    "city": "Lublin",
+    "name": "Lublin Radwiec Airfield",
+    "icao": "EPLR",
+    "lat": 51.221901,
+    "lon": 22.394699
+  },
+  {
+    "country": "Poland",
+    "state": "Podlachia",
+    "city": "BiaÅ‚ystok",
+    "name": "BiaÅ‚ystok-Krywlany Airport",
+    "icao": "EPBK",
+    "lat": 53.101398,
+    "lon": 23.170601
+  },
+  {
+    "country": "Poland",
+    "state": "Silesia",
+    "city": "Gliwice",
+    "name": "Lotnisko Gliwice-Trynek",
+    "icao": "EPGL",
+    "lat": 50.269402,
+    "lon": 18.6728
+  },
+  {
+    "country": "Poland",
+    "state": "Swietokrzyskie",
+    "city": "Kielce",
+    "name": "Kielce Maslow Airport",
+    "icao": "EPKA",
+    "lat": 50.896702,
+    "lon": 20.731701
+  },
+  {
+    "country": "Poland",
+    "state": "Lesser Poland",
+    "city": "KrakÃ³w",
+    "name": "Pobiednik Wielki Airport",
+    "icao": "EPKP",
+    "lat": 50.0896987915039,
+    "lon": 20.2017002105712
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Leszno",
+    "name": "Leszno Strzyzewi Airport",
+    "icao": "EPLS",
+    "lat": 51.8349990844726,
+    "lon": 16.5219001770019
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Olsztyn",
+    "name": "Lotnisko Olsztyn-Dajtki",
+    "icao": "EPOD",
+    "lat": 53.77295,
+    "lon": 20.414486
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "OstrÃ³w Wielkopolski",
+    "name": "OstrÃ³w Wielkopolski MichaÅ‚kÃ³w Airport",
+    "icao": "EPOM",
+    "lat": 51.700767,
+    "lon": 17.84663
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "PoznaÅ„",
+    "name": "PoznaÅ„-Kobylnica Airport",
+    "icao": "EPPK",
+    "lat": 52.43389892,
+    "lon": 17.044201
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "WrocÅ‚aw",
+    "name": "WrocÅ‚aw-SzymanÃ³w Airport",
+    "icao": "EPWS",
+    "lat": 51.2061004638671,
+    "lon": 16.9986000061035
+  },
+  {
+    "country": "Poland",
+    "state": "Lublin",
+    "city": "ZamoÅ›Ä‡",
+    "name": "ZamoÅ›Ä‡-Mokre Airport",
+    "icao": "EPZA",
+    "lat": 50.7016983032226,
+    "lon": 23.2043991088867
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Zielona GÃ³ra",
+    "name": "Zielona GÃ³ra-Przylep Airport",
+    "icao": "EPZP",
+    "lat": 51.9789009094238,
+    "lon": 15.4638996124267
+  },
+  {
+    "country": "Poland",
+    "state": "Silesia",
+    "city": "Czechowice-Dziedzice",
+    "name": "Bielsko-Bialo Kaniow Airfield",
+    "icao": "EPKW",
+    "lat": 49.9399986267,
+    "lon": 19.0219993590999
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Babimost",
+    "name": "Zielona GÃ³ra-Babimost Airport",
+    "icao": "EPZG",
+    "lat": 52.1385002136,
+    "lon": 15.7986001968
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Masovia",
+    "name": "Plock Airport",
+    "icao": "EPPL",
+    "lat": 52.562198638916,
+    "lon": 19.7213993072509
+  },
+  {
+    "country": "Poland",
+    "state": "Lublin",
+    "city": "DÄ™blin",
+    "name": "Deblin Military Air Base",
+    "icao": "EPDE",
+    "lat": 51.551399231,
+    "lon": 21.8936004639
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "Jelenia GÃ³ra",
+    "name": "Jelenia GÃ³ra Glider Field",
+    "icao": "EPJG",
+    "lat": 50.898899,
+    "lon": 15.7856
+  },
+  {
+    "country": "Poland",
+    "state": "Lublin",
+    "city": "Lublin",
+    "name": "Åšwidnik Airfield",
+    "icao": "EPSW",
+    "lat": 51.231899,
+    "lon": 22.6903
+  },
+  {
+    "country": "Poland",
+    "state": "Lublin",
+    "city": "MiÄ™dzyrzec Podlaski",
+    "name": "Krzewica Airport",
+    "icao": "PL-0048",
+    "lat": 52.05389,
+    "lon": 22.70056
+  },
+  {
+    "country": "Poland",
+    "state": "Lesser Poland",
+    "city": "Nowy SÄ…cz",
+    "name": "Nowy SÄ…cz-Åososina Dolna Airport",
+    "icao": "EPNL",
+    "lat": 49.7456016541,
+    "lon": 20.6236000061
+  },
+  {
+    "country": "Poland",
+    "state": "Opole",
+    "city": "Opole",
+    "name": "Opole-Polska Nowa WieÅ› Airport",
+    "icao": "EPOP",
+    "lat": 50.633301,
+    "lon": 17.7817
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "PiotrkÃ³w Trybunalski",
+    "name": "PiotrkÃ³w Trybunalski-Bujny Airport",
+    "icao": "EPPT",
+    "lat": 51.3830986,
+    "lon": 19.688299
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "SulejÃ³wek",
+    "name": "GÃ³raszka Airport",
+    "icao": "EPGO",
+    "lat": 52.184441,
+    "lon": 21.281111
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "Szczecin",
+    "name": "Szczecin-DÄ…bie Airport",
+    "icao": "EPSD",
+    "lat": 53.3921012878418,
+    "lon": 14.6337995529174
+  },
+  {
+    "country": "Poland",
+    "state": "Swietokrzyskie",
+    "city": "Swietokrzyskie",
+    "name": "Kazimierza MaÅ‚a",
+    "icao": "PL-0083",
+    "lat": 50.2610779,
+    "lon": 20.5413201
+  },
+  {
+    "country": "Poland",
+    "state": "Lublin",
+    "city": "Lublin",
+    "name": "DepuÅ‚tycze KrÃ³lewskie Airport",
+    "icao": "EPCD",
+    "lat": 51.082067,
+    "lon": 23.437014
+  },
+  {
+    "country": "Poland",
+    "state": "Subcarpathia",
+    "city": "Subcarpathia",
+    "name": "Stara WieÅ› Field",
+    "icao": "PL-0085",
+    "lat": 49.722995,
+    "lon": 22.025378
+  },
+  {
+    "country": "Poland",
+    "state": "Lesser Poland",
+    "city": "Lesser Poland",
+    "name": "KrakÃ³w Rakowice-CzyÅ¼yny Airport",
+    "icao": "EPKC",
+    "lat": 50.084353,
+    "lon": 19.99031
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Greater Poland",
+    "name": "Zborowo",
+    "icao": "EPZB",
+    "lat": 52.3620555556,
+    "lon": 16.6387222222
+  },
+  {
+    "country": "Poland",
+    "state": "Subcarpathia",
+    "city": "Å»ernica",
+    "name": "LÄ…dowisko Å»ernica",
+    "icao": "PL-0115",
+    "lat": 49.362597,
+    "lon": 22.3305947
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "LÄ™bork",
+    "name": "Cewice Air Base",
+    "icao": "EPCE",
+    "lat": 54.416,
+    "lon": 17.7633
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Pobiedziska",
+    "name": "PoznaÅ„-Bednary Airfield",
+    "icao": "PL-0001",
+    "lat": 52.5344,
+    "lon": 17.2187995911
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Greater Poland",
+    "name": "Krzesiny Military Air Base",
+    "icao": "EPKS",
+    "lat": 52.3316993713,
+    "lon": 16.9664001465
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Lodz",
+    "name": "Lask Military Air Base",
+    "icao": "EPLK",
+    "lat": 51.551700592,
+    "lon": 19.1791000365999
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Masovia",
+    "name": "Minsk Mazowiecki Military Air Base",
+    "icao": "EPMM",
+    "lat": 52.1954994202,
+    "lon": 21.6558990479
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Pomerania",
+    "name": "Pruszcz Gdanski Air Base",
+    "icao": "EPPR",
+    "lat": 54.248001,
+    "lon": 18.6716
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "West Pomerania",
+    "name": "Swidwin Military Air Base",
+    "icao": "EPSN",
+    "lat": 53.790599823,
+    "lon": 15.8262996673999
+  },
+  {
+    "country": "Poland",
+    "state": "Kuyavia-Pomerania",
+    "city": "Kuyavia-Pomerania",
+    "name": "Torun Airport",
+    "icao": "EPTO",
+    "lat": 53.0292015075683,
+    "lon": 18.5459003448486
+  },
+  {
+    "country": "Poland",
+    "state": "Kuyavia-Pomerania",
+    "city": "Kuyavia-Pomerania",
+    "name": "Inowroclaw Military Air Base",
+    "icao": "EPIR",
+    "lat": 52.8293991089,
+    "lon": 18.3306007385
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "West Pomerania",
+    "name": "KoÅ‚obrzeg-Bagicz",
+    "icao": "PL-0002",
+    "lat": 54.2007217407,
+    "lon": 15.6869440079
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "AleksandrÃ³w ÅÃ³dzki",
+    "name": "AleksandrÃ³w ÅÃ³dzki Airport",
+    "icao": "PL-0035",
+    "lat": 51.7906,
+    "lon": 19.27
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "BiaÅ‚ogard",
+    "name": "DÄ™bica Air Base",
+    "icao": "PL-0041",
+    "lat": 53.943611,
+    "lon": 15.62028
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "Borne Sulinowo",
+    "name": "Lotnisko Borne Sulinowo",
+    "icao": "EPBS",
+    "lat": 53.576149,
+    "lon": 16.527729
+  },
+  {
+    "country": "Poland",
+    "state": "Kuyavia-Pomerania",
+    "city": "Bydgoszcz",
+    "name": "Bydgoszcz Aeroklub Airfield",
+    "icao": "EPBD",
+    "lat": 53.1031,
+    "lon": 17.955601
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "Czaplinek",
+    "name": "Drahimek Airfield",
+    "icao": "PL-0061",
+    "lat": 53.614404,
+    "lon": 16.185951
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "DarÅ‚owo",
+    "name": "JarosÅ‚awiec Highway Strip",
+    "icao": "PL-0020",
+    "lat": 54.5250015258789,
+    "lon": 16.506399154663
+  },
+  {
+    "country": "Poland",
+    "state": "Lublin",
+    "city": "DÄ™blin",
+    "name": "DÄ™blin-PodlodÃ³w Air Base",
+    "icao": "PL-0042",
+    "lat": 51.62722,
+    "lon": 22.198059
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Grodzisk Wielkopolski",
+    "name": "Granowo Highway Strip",
+    "icao": "PL-0019",
+    "lat": 52.2322006225585,
+    "lon": 16.5969009399414
+  },
+  {
+    "country": "Poland",
+    "state": "Subcarpathia",
+    "city": "KomaÅ„cza",
+    "name": "Smolnik Airstrip",
+    "icao": "PL-0060",
+    "lat": 49.275002,
+    "lon": 22.120279
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "Koszalin",
+    "name": "Mostowo Highway Strip",
+    "icao": "PL-0028",
+    "lat": 54.0691986083984,
+    "lon": 16.5372009277343
+  },
+  {
+    "country": "Poland",
+    "state": "Subcarpathia",
+    "city": "Krosno",
+    "name": "Iwonicz Airfield",
+    "icao": "EPIW",
+    "lat": 49.657799,
+    "lon": 21.817499
+  },
+  {
+    "country": "Poland",
+    "state": "Silesia",
+    "city": "KÅ‚obuck",
+    "name": "Ostrowy  (Åobodno) Highway Strip",
+    "icao": "PL-0030",
+    "lat": 50.9482994079589,
+    "lon": 19.0135993957519
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Leszno",
+    "name": "Leszno  (Rydzyna) Highway Strip",
+    "icao": "PL-0023",
+    "lat": 51.8149986267089,
+    "lon": 16.6238994598388
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "MikoÅ‚ajki",
+    "name": "MikoÅ‚ajki Airport",
+    "icao": "EPMJ",
+    "lat": 53.807781,
+    "lon": 21.55583
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "MirosÅ‚awiec",
+    "name": "MirosÅ‚awiec  (Nowe Laski) Highway Strip",
+    "icao": "PL-0027",
+    "lat": 53.3861007690429,
+    "lon": 16.1569004058837
+  },
+  {
+    "country": "Poland",
+    "state": "Opole",
+    "city": "NamysÅ‚Ã³w",
+    "name": "NamysÅ‚Ã³w Airport",
+    "icao": "PL-0052",
+    "lat": 51.064171,
+    "lon": 17.593611
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Orzysz",
+    "name": "Rostki Airstrip",
+    "icao": "PL-0058",
+    "lat": 53.709721,
+    "lon": 21.909719
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Przasnysz",
+    "name": "Przasnysz Airfield",
+    "icao": "PL-0055",
+    "lat": 53.005001,
+    "lon": 20.93833
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Radom",
+    "name": "Radom-PiastrÃ³w Glider Field",
+    "icao": "EPRP",
+    "lat": 51.478901,
+    "lon": 21.110001
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "Recz",
+    "name": "Jaworze Airport",
+    "icao": "PL-0045",
+    "lat": 53.3113899230957,
+    "lon": 15.7138900756835
+  },
+  {
+    "country": "Poland",
+    "state": "Subcarpathia",
+    "city": "RzeszÃ³w",
+    "name": "RzeszÃ³w Airport",
+    "icao": "EPRJ",
+    "lat": 50.105301,
+    "lon": 22.0481
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "SianÃ³w",
+    "name": "Skibno Airport",
+    "icao": "PL-0059",
+    "lat": 54.244999,
+    "lon": 16.306669
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Sieradz",
+    "name": "Rossoszyca  (Warta) Highway Strip",
+    "icao": "PL-0031",
+    "lat": 51.7038993835449,
+    "lon": 18.7182998657226
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "SobÃ³tka",
+    "name": "MirosÅ‚awice Private Airport",
+    "icao": "EPMR",
+    "lat": 50.9578018188476,
+    "lon": 16.770299911499
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "Åšroda ÅšlÄ…ska",
+    "name": "Åšroda ÅšlÄ…ska  (Komorniki) Highway Strip",
+    "icao": "PL-0032",
+    "lat": 51.162799835205,
+    "lon": 16.6686000823974
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "Szczecin",
+    "name": "Kliniska  (Szczecin) Highway Strip",
+    "icao": "PL-0021",
+    "lat": 53.426700592041,
+    "lon": 14.8042001724243
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "SÅ‚upsk",
+    "name": "DÄ™bnica Kaszubska Highway Strip",
+    "icao": "PL-0017",
+    "lat": 54.3683013916015,
+    "lon": 17.2119007110595
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "TomaszÃ³w Mazowiecki",
+    "name": "Tomaszow Mazowiecki Military Air Base",
+    "icao": "EPTM",
+    "lat": 51.584400177,
+    "lon": 20.0977993011
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Warta",
+    "name": "GoszczanÃ³w Airfield",
+    "icao": "PL-0044",
+    "lat": 51.799198,
+    "lon": 18.493099
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Wejherowo",
+    "name": "Wejherowo Airfield",
+    "icao": "PL-0063",
+    "lat": 54.59111,
+    "lon": 18.200001
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "WrzeÅ›nia",
+    "name": "WrzeÅ›nia Highway Strip",
+    "icao": "PL-0034",
+    "lat": 52.3011016845703,
+    "lon": 17.6224994659423
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Zagan",
+    "name": "Zagan Air Base",
+    "icao": "EPZN",
+    "lat": 51.627499,
+    "lon": 15.4083
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "Zegrze Pomorskie",
+    "name": "Koszalin Zegrze Pomorskie",
+    "icao": "EPKO",
+    "lat": 54.0425,
+    "lon": 16.2656
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "ZÅ‚otoryja",
+    "name": "Brochocin Air Base",
+    "icao": "PL-0038",
+    "lat": 51.203331,
+    "lon": 15.93278
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Pomerania",
+    "name": "Redzikowo Air Base",
+    "icao": "EPSK",
+    "lat": 54.4789009094238,
+    "lon": 17.1075000762939
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Olsztyn",
+    "name": "Olsztyn-Mazury Airport",
+    "icao": "EPSY",
+    "lat": 53.481899,
+    "lon": 20.9377
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Lubusz",
+    "name": "Szprotawa-Wiechlice Air Base",
+    "icao": "PL-0071",
+    "lat": 51.560001373291,
+    "lon": 15.5900001525878
+  },
+  {
+    "country": "Poland",
+    "state": "Podlachia",
+    "city": "Podlachia",
+    "name": "Lotnisko TuroÅ›Å„ KoÅ›cielna",
+    "icao": "PL-0079",
+    "lat": 53.003022,
+    "lon": 23.057806
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Masovia",
+    "name": "Grady Airport",
+    "icao": "EPGY",
+    "lat": 52.837058,
+    "lon": 21.77633
+  },
+  {
+    "country": "Poland",
+    "state": "Subcarpathia",
+    "city": "Subcarpathia",
+    "name": "Sanok Heliport",
+    "icao": "PL-0084",
+    "lat": 49.575593,
+    "lon": 22.20239
+  },
+  {
+    "country": "Poland",
+    "state": "Lesser Poland",
+    "city": "Lesser Poland",
+    "name": "Zator",
+    "icao": "PL-0087",
+    "lat": 49.959944,
+    "lon": 19.402833
+  },
+  {
+    "country": "Poland",
+    "state": "TworzyjanÃ³w Airstrip",
+    "city": "TworzyjanÃ³w Airstrip",
+    "name": "TworzyjanÃ³w Airstrip",
+    "icao": "PL-0090",
+    "lat": 50.922915,
+    "lon": 16.676726
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "Lower Silesia",
+    "name": "Baza Lotnicza JPR â€žBarytâ€",
+    "icao": "PL-0091",
+    "lat": 51.055531,
+    "lon": 16.013636
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Pomerania",
+    "name": "WiÄ™ckowy Airstrip",
+    "icao": "PL-0144",
+    "lat": 54.061846,
+    "lon": 18.363112
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Lubusz",
+    "name": "DobrosuÅ‚Ã³w Airfield",
+    "icao": "PL-0145",
+    "lat": 52.1989335,
+    "lon": 15.1266946
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Lodz",
+    "name": "Kutno",
+    "icao": "PL-0157",
+    "lat": 52.2085919,
+    "lon": 19.3907223
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Masovia",
+    "name": "WalendÃ³w",
+    "icao": "PL-0161",
+    "lat": 52.0805171,
+    "lon": 20.8530837
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Greater Poland",
+    "name": "Nadarzyce Air Base",
+    "icao": "EPNA",
+    "lat": 53.454885,
+    "lon": 16.48946
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Lodz",
+    "name": "BruÅ¼yczka MaÅ‚a",
+    "icao": "PL-0163",
+    "lat": 51.848148,
+    "lon": 19.32928
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Pomerania",
+    "name": "Stary KamieÅ„ Airstrip",
+    "icao": "PL-0168",
+    "lat": 53.7243123,
+    "lon": 19.2051347
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Pomerania",
+    "name": "Rytel-Uboga Airstrip",
+    "icao": "PL-0169",
+    "lat": 53.739132,
+    "lon": 17.830447
+  },
+  {
+    "country": "Poland",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "Konstancin Heliport",
+    "icao": "PL-0139",
+    "lat": 52.108543,
+    "lon": 21.1873297
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "Lower Silesia",
+    "name": "Åšwidnica - KrzczonÃ³w Airstrip",
+    "icao": "EPSS",
+    "lat": 50.8171823,
+    "lon": 16.5818641
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Masovia",
+    "name": "Wola KrakowiaÅ„ska",
+    "icao": "PL-0141",
+    "lat": 52.027223,
+    "lon": 20.807118
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Lubusz",
+    "name": "RÃ³Å¼anki Airstrip",
+    "icao": "PL-0171",
+    "lat": 52.772424,
+    "lon": 15.306475
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Lodz",
+    "name": "LÄ…dowisko LdzaÅ„",
+    "icao": "PL-0172",
+    "lat": 51.58955,
+    "lon": 19.25418
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Lodz",
+    "name": "WieluÅ„-Olewin",
+    "icao": "PL-0174",
+    "lat": 51.214465,
+    "lon": 18.631675
+  },
+  {
+    "country": "Poland",
+    "state": "(unassigned)",
+    "city": "Annowo",
+    "name": "Annowo Airstrip",
+    "icao": "PL-0092",
+    "lat": 52.8033888,
+    "lon": 17.8796775
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "BabiÄ™ta",
+    "name": "BabiÄ™ta",
+    "icao": "EPBB",
+    "lat": 53.6696348,
+    "lon": 21.2527366
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "CheÅ‚mÅ¼yca",
+    "name": "CheÅ‚mÅ¼yca Airstrip",
+    "icao": "PL-0096",
+    "lat": 53.670487,
+    "lon": 19.46115
+  },
+  {
+    "country": "Poland",
+    "state": "Lesser Poland",
+    "city": "Chocznia",
+    "name": "Heli Taxi Chocznia",
+    "icao": "PL-0166",
+    "lat": 49.8806084,
+    "lon": 19.4671623
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Czersk",
+    "name": "Borsk (former military)",
+    "icao": "PL-0004",
+    "lat": 53.951942,
+    "lon": 17.942778
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "DÄ™biczek",
+    "name": "DÄ™biczek Airstrip",
+    "icao": "PL-0170",
+    "lat": 52.267907,
+    "lon": 17.329428
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Debrzno",
+    "name": "Debrzno Air Base",
+    "icao": "PL-0010",
+    "lat": 53.5244445800781,
+    "lon": 17.2591667175292
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "GiÅ¼ycko",
+    "name": "GiÅ¼ycko-Mazury Residence",
+    "icao": "EPGM",
+    "lat": 54.00645,
+    "lon": 21.81824
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "GostyÅ„",
+    "name": "GostyÅ„-Gola Air Base",
+    "icao": "PL-0012",
+    "lat": 51.887222290039,
+    "lon": 16.976110458374
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Gozdnica",
+    "name": "Gozdnica Airfield",
+    "icao": "PL-0069",
+    "lat": 51.4599990844726,
+    "lon": 15.1049995422363
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Grabowiec",
+    "name": "LÄ…dowisko Grabowiec",
+    "icao": "PL-0099",
+    "lat": 51.901197,
+    "lon": 15.2706431
+  },
+  {
+    "country": "Poland",
+    "state": "Subcarpathia",
+    "city": "Horodek",
+    "name": "LÄ…dowisko Horodek",
+    "icao": "PL-0114",
+    "lat": 49.3511993,
+    "lon": 22.4817572
+  },
+  {
+    "country": "Poland",
+    "state": "Lesser Poland",
+    "city": "Jasienna",
+    "name": "Lotnisko Jasienna",
+    "icao": "PL-0106",
+    "lat": 49.7166174,
+    "lon": 20.811703
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Jeziorowskie",
+    "name": "Stare Juchy Landing Site",
+    "icao": "PL-0129",
+    "lat": 53.90725,
+    "lon": 22.233334
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "KÄ™pa",
+    "name": "KÄ™pa",
+    "icao": "PL-0124",
+    "lat": 52.7242707,
+    "lon": 20.4213518
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Konarzyny",
+    "name": "Konarzyny Air Base",
+    "icao": "PL-0148",
+    "lat": 53.825333,
+    "lon": 17.3525
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Konopnica",
+    "name": "Konopnica",
+    "icao": "EPZK",
+    "lat": 51.3601786,
+    "lon": 18.8220574
+  },
+  {
+    "country": "Poland",
+    "state": "Podlachia",
+    "city": "Krynice",
+    "name": "Krynice Kolonia",
+    "icao": "PL-0134",
+    "lat": 53.231111,
+    "lon": 23.044081
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "KukaÅ‚y",
+    "name": "LÄ…dowisko KukaÅ‚y",
+    "icao": "PL-0117",
+    "lat": 51.875631,
+    "lon": 21.003014
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Lisy",
+    "name": "Lisy Airstrip",
+    "icao": "PL-0128",
+    "lat": 54.219442,
+    "lon": 22.044803
+  },
+  {
+    "country": "Poland",
+    "state": "(unassigned)",
+    "city": "LwÃ³wek",
+    "name": "Lotnisko LwÃ³wek",
+    "icao": "PL-0086",
+    "lat": 51.128283,
+    "lon": 15.570464
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Milewo",
+    "name": "Milewo",
+    "icao": "EPMX",
+    "lat": 52.668142,
+    "lon": 20.428175
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Mosina",
+    "name": "Sowiniec",
+    "icao": "PL-0164",
+    "lat": 52.237254,
+    "lon": 16.889057
+  },
+  {
+    "country": "Poland",
+    "state": "(unassigned)",
+    "city": "Mostki",
+    "name": "Mostki Airstrip",
+    "icao": "PL-0107",
+    "lat": 52.2718895,
+    "lon": 15.3697292
+  },
+  {
+    "country": "Poland",
+    "state": "West Pomerania",
+    "city": "MyÅ›libÃ³rz",
+    "name": "MyÅ›libÃ³rz-GiÅ¼yn Airfield",
+    "icao": "EPMY",
+    "lat": 52.9414134,
+    "lon": 15.030036
+  },
+  {
+    "country": "Poland",
+    "state": "Podlachia",
+    "city": "Narew",
+    "name": "Narew Helipad",
+    "icao": "PL-0126",
+    "lat": 52.908916,
+    "lon": 23.539053
+  },
+  {
+    "country": "Poland",
+    "state": "Masovia",
+    "city": "Nowe Miasto nad PilicÄ…",
+    "name": "Nowe Miasto nad Pilica Airfield",
+    "icao": "EPNM",
+    "lat": 51.625,
+    "lon": 20.5349998474121
+  },
+  {
+    "country": "Poland",
+    "state": "Subcarpathia",
+    "city": "Oleszyce",
+    "name": "Oleszyce Airstrip",
+    "icao": "PL-0138",
+    "lat": 50.170308,
+    "lon": 23.057722
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Orneta",
+    "name": "Lotnisko Orneta",
+    "icao": "PL-0151",
+    "lat": 54.126694,
+    "lon": 20.0881201
+  },
+  {
+    "country": "Poland",
+    "state": "Opole",
+    "city": "PawÅ‚owiczki",
+    "name": "LÄ…dowisko PawÅ‚owiczki",
+    "icao": "PL-0112",
+    "lat": 50.2445389,
+    "lon": 18.0243561
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "RogÃ³w-Parcela",
+    "name": "RogÃ³w Airstrip",
+    "icao": "PL-0116",
+    "lat": 51.800561,
+    "lon": 19.857478
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "RÃ³Å¼yniec",
+    "name": "Krzywa Air Base",
+    "icao": "PL-0068",
+    "lat": 51.310001373291,
+    "lon": 15.7250003814697
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Rzepin",
+    "name": "Rzepin Airstrip",
+    "icao": "PL-0121",
+    "lat": 52.3221807,
+    "lon": 14.810701
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "ÅšmiÅ‚owo",
+    "name": "Lotnisko Henryka StokÅ‚osy",
+    "icao": "PL-0100",
+    "lat": 53.1449613,
+    "lon": 16.8826819
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Spytkowo",
+    "name": "BoÅ¼ykowo Airfield",
+    "icao": "PL-0130",
+    "lat": 54.073224,
+    "lon": 21.83375
+  },
+  {
+    "country": "Poland",
+    "state": "Pomerania",
+    "city": "Starogardzka",
+    "name": "Linowiec",
+    "icao": "PL-0105",
+    "lat": 54.007897,
+    "lon": 18.499983
+  },
+  {
+    "country": "Poland",
+    "state": "Lodz",
+    "city": "Suliszew",
+    "name": "Suliszew",
+    "icao": "PL-0159",
+    "lat": 51.925352,
+    "lon": 20.265214
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Åšwiebodzin",
+    "name": "Åšwiebodzin Airstrip",
+    "icao": "PL-0119",
+    "lat": 52.252266,
+    "lon": 15.566415
+  },
+  {
+    "country": "Poland",
+    "state": "Podlachia",
+    "city": "Szorce",
+    "name": "Szorce Airstrip",
+    "icao": "PL-0136",
+    "lat": 53.285388,
+    "lon": 22.674194
+  },
+  {
+    "country": "Poland",
+    "state": "Lesser Poland",
+    "city": "TarnÃ³w",
+    "name": "LÄ…dowisko TarnÃ³w",
+    "icao": "PL-0122",
+    "lat": 50.0022005,
+    "lon": 21.0039163
+  },
+  {
+    "country": "Poland",
+    "state": "Greater Poland",
+    "city": "Ulim",
+    "name": "Ulim",
+    "icao": "PL-0104",
+    "lat": 52.693563,
+    "lon": 15.215912
+  },
+  {
+    "country": "Poland",
+    "state": "Lower Silesia",
+    "city": "Wyszonowice",
+    "name": "Wyszonowice UL",
+    "icao": "PL-0095",
+    "lat": 50.782972,
+    "lon": 17.161753
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Zawiszyn",
+    "name": "Zawiszyn Airfield",
+    "icao": "PL-0127",
+    "lat": 54.277943,
+    "lon": 22.537944
+  },
+  {
+    "country": "Poland",
+    "state": "Warmia-Masuria",
+    "city": "Zyzdrojowa Wola",
+    "name": "Zyzdrojowa Wola",
+    "icao": "PL-0132",
+    "lat": 53.657473,
+    "lon": 21.277417
+  },
+  {
+    "country": "Poland",
+    "state": "Lublin",
+    "city": "Å»Å‚obek",
+    "name": "Å»Å‚obek MaÅ‚y Airfield",
+    "icao": "PL-0137",
+    "lat": 51.454611,
+    "lon": 23.542472
+  },
+  {
+    "country": "Poland",
+    "state": "Lubusz",
+    "city": "Åagowiec",
+    "name": "Åagowiec",
+    "icao": "PL-0098",
+    "lat": 52.33525,
+    "lon": 15.665277
+  }
+]

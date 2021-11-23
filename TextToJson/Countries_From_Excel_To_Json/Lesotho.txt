@@ -1,0 +1,119 @@
+[
+  {
+    "country": "Lesotho",
+    "state": "Thaba-Tseka",
+    "city": "Bobete",
+    "name": "Bobete Airport",
+    "icao": "FXBB",
+    "lat": -29.4249992370605,
+    "lon": 28.6669998168945
+  },
+  {
+    "country": "Lesotho",
+    "state": "Thaba-Tseka",
+    "city": "Kolberg",
+    "name": "Kolberg Airport",
+    "icao": "FXKB",
+    "lat": -29.3803005218505,
+    "lon": 28.4906997680664
+  },
+  {
+    "country": "Lesotho",
+    "state": "Qacha's Nek",
+    "city": "Lebakeng",
+    "name": "Lebakeng Airport",
+    "icao": "FXLK",
+    "lat": -29.8908004760742,
+    "lon": 28.6555995941162
+  },
+  {
+    "country": "Lesotho",
+    "state": "Mokhotlong",
+    "city": "Malefiloane",
+    "name": "Malefiloane Airstrip",
+    "icao": "FXML",
+    "lat": -29.335500717163,
+    "lon": 29.1853008270263
+  },
+  {
+    "country": "Lesotho",
+    "state": "Thaba-Tseka",
+    "city": "Mashai Store",
+    "name": "Mashai Store Airport",
+    "icao": "FXMS",
+    "lat": -29.6830005645751,
+    "lon": 28.7999992370605
+  },
+  {
+    "country": "Lesotho",
+    "state": "Thaba-Tseka",
+    "city": "Matabeng Village",
+    "name": "Matabeng Village Airport",
+    "icao": "FXMV",
+    "lat": -29.8146991729736,
+    "lon": 28.8082008361816
+  },
+  {
+    "country": "Lesotho",
+    "state": "Mohale's Hoek",
+    "city": "Mohale's Hoek",
+    "name": "Mohale's Hoek Airport",
+    "icao": "FXMH",
+    "lat": -30.1445007324218,
+    "lon": 27.4708003997802
+  },
+  {
+    "country": "Lesotho",
+    "state": "Thaba-Tseka",
+    "city": "Mohlanapeng",
+    "name": "Mohlanapeng Airport",
+    "icao": "FXMP",
+    "lat": -29.5830001831054,
+    "lon": 28.6830005645751
+  },
+  {
+    "country": "Lesotho",
+    "state": "Mohale's Hoek",
+    "city": "Nohanas",
+    "name": "Nohanas Airport",
+    "icao": "FXNH",
+    "lat": -30.0669994354248,
+    "lon": 27.8670005798339
+  },
+  {
+    "country": "Lesotho",
+    "state": "Qacha's Nek",
+    "city": "Sehlabathebe",
+    "name": "Sehlabathebe Airport",
+    "icao": "FXSE",
+    "lat": -29.9158000946044,
+    "lon": 29.0387992858886
+  },
+  {
+    "country": "Lesotho",
+    "state": "Qacha's Nek",
+    "city": "Sekakes",
+    "name": "Sekakes Airport",
+    "icao": "FXSK",
+    "lat": -30.0389003753662,
+    "lon": 28.3703002929687
+  },
+  {
+    "country": "Lesotho",
+    "state": "Qacha's Nek",
+    "city": "Tebellong",
+    "name": "Tebellong Airport",
+    "icao": "FXTB",
+    "lat": -30.0499992370605,
+    "lon": 28.4330005645751
+  },
+  {
+    "country": "Lesotho",
+    "state": "Thaba-Tseka",
+    "city": "Thaba-Tseka",
+    "name": "Thaba-Tseka Airport",
+    "icao": "FXTA",
+    "lat": -29.5228004455566,
+    "lon": 28.6158008575439
+  }
+]

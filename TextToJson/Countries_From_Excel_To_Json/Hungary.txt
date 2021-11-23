@@ -1,0 +1,470 @@
+[
+  {
+    "country": "Hungary",
+    "state": "GyÅ‘r-Moson-Sopron",
+    "city": "FertÅ‘szentmiklÃ³s",
+    "name": "FertÅ‘szentmiklÃ³s Airport",
+    "icao": "LHFM",
+    "lat": 47.582802,
+    "lon": 16.8454
+  },
+  {
+    "country": "Hungary",
+    "state": "GyÅ‘r-Moson-Sopron",
+    "city": "GyÅ‘r",
+    "name": "GyÅ‘r-PÃ©r International Airport",
+    "icao": "LHPR",
+    "lat": 47.624401,
+    "lon": 17.813601
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ¡cs-Kiskun",
+    "city": "JakabszÃ¡llÃ¡s",
+    "name": "JakabszÃ¡llÃ¡s Airport",
+    "icao": "LHJK",
+    "lat": 46.747200012207,
+    "lon": 19.6056003570556
+  },
+  {
+    "country": "Hungary",
+    "state": "Baranya",
+    "city": "PÃ©cs-PogÃ¡ny",
+    "name": "PÃ©cs-PogÃ¡ny Airport",
+    "icao": "LHPP",
+    "lat": 45.990898,
+    "lon": 18.240996
+  },
+  {
+    "country": "Hungary",
+    "state": "Hajdu-Bihar",
+    "city": "HajdÃºszoboszlÃ³",
+    "name": "HajdÃºszoboszlÃ³ Airport",
+    "icao": "LHHO",
+    "lat": 47.459202,
+    "lon": 21.391105
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ¡cs-Kiskun",
+    "city": "KiskunfÃ©legyhÃ¡za",
+    "name": "KiskunfÃ©legyhÃ¡za Airport",
+    "icao": "LHKH",
+    "lat": 46.733101,
+    "lon": 19.893299
+  },
+  {
+    "country": "Hungary",
+    "state": "Tolna",
+    "city": "ÅcsÃ©ny",
+    "name": "ÅcsÃ©ny Airport",
+    "icao": "LHOY",
+    "lat": 46.3039016723632,
+    "lon": 18.7691993713378
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ©kÃ©s",
+    "city": "BÃ©kÃ©scsaba",
+    "name": "BÃ©kÃ©scsaba Airfield",
+    "icao": "LHBC",
+    "lat": 46.677132,
+    "lon": 21.161188
+  },
+  {
+    "country": "Hungary",
+    "state": "Budapest",
+    "city": "Budapest",
+    "name": "HÃ¡rmashatÃ¡rhegy Glider Field",
+    "icao": "LHHH",
+    "lat": 47.550301,
+    "lon": 18.978701
+  },
+  {
+    "country": "Hungary",
+    "state": "FejÃ©r",
+    "city": "DunaÃºjvÃ¡ros",
+    "name": "DunaÃºjvÃ¡ros Airfield",
+    "icao": "LHDV",
+    "lat": 46.895802,
+    "lon": 18.9139
+  },
+  {
+    "country": "Hungary",
+    "state": "Borsod-AbaÃºj-ZemplÃ©n",
+    "city": "Miskolc",
+    "name": "Miskolc Airport",
+    "icao": "LHMC",
+    "lat": 48.1369018554687,
+    "lon": 20.7914009094238
+  },
+  {
+    "country": "Hungary",
+    "state": "VeszprÃ©m",
+    "city": "DÃ¡ka",
+    "name": "DÃ¡ka Airport",
+    "icao": "HU-0015",
+    "lat": 47.271801,
+    "lon": 17.4105
+  },
+  {
+    "country": "Hungary",
+    "state": "Heves",
+    "city": "Eger",
+    "name": "Eger Apollo Airfield",
+    "icao": "LHER",
+    "lat": 47.9052,
+    "lon": 20.4055
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ¡cs-Kiskun",
+    "city": "Ã‰rsekcsanÃ¡d",
+    "name": "Ã‰rsekcsanÃ¡d Airport",
+    "icao": "LHEC",
+    "lat": 46.249608,
+    "lon": 18.927609
+  },
+  {
+    "country": "Hungary",
+    "state": "Somogy",
+    "city": "Papkutapuszta",
+    "name": "Papkutapuszta",
+    "icao": "HU-0021",
+    "lat": 46.870577,
+    "lon": 18.041413
+  },
+  {
+    "country": "Hungary",
+    "state": "FejÃ©r",
+    "city": "CsÃ¡kvÃ¡r",
+    "name": "CsÃ¡kvÃ¡r Airport",
+    "icao": "LH58",
+    "lat": 47.3508987427,
+    "lon": 18.4300003052
+  },
+  {
+    "country": "Hungary",
+    "state": "Heves",
+    "city": "GyÃ¶ngyÃ¶s Pipishegy",
+    "name": "GyÃ¶ngyÃ¶s Pipishegy Airport",
+    "icao": "LHGY",
+    "lat": 47.8144989013671,
+    "lon": 19.9776000976562
+  },
+  {
+    "country": "Hungary",
+    "state": "VeszprÃ©m",
+    "city": "SzentkirÃ¡lyszabadja",
+    "name": "SzentkirÃ¡lyszabadja Airport",
+    "icao": "LHSA",
+    "lat": 47.0778999328613,
+    "lon": 17.9683990478515
+  },
+  {
+    "country": "Hungary",
+    "state": "JÃ¡sz-Nagykun-Szolnok",
+    "city": "Szolnok-SzandaszÅ‘lÅ‘s",
+    "name": "Szolnok-SzandaszÅ‘lÅ‘s Sport Airport",
+    "icao": "LHSS",
+    "lat": 47.1444015502929,
+    "lon": 20.1977996826171
+  },
+  {
+    "country": "Hungary",
+    "state": "Vas",
+    "city": "Vas",
+    "name": "Tokorcs Airfield",
+    "icao": "HU-0011",
+    "lat": 47.273391,
+    "lon": 17.106593
+  },
+  {
+    "country": "Hungary",
+    "state": "NogrÃ¡d",
+    "city": "NogrÃ¡d",
+    "name": "BÃ¡tonyterenye-VilÃ¡gosipuszta sportreptÃ©r",
+    "icao": "HU-0019",
+    "lat": 48.025531,
+    "lon": 19.805066
+  },
+  {
+    "country": "Hungary",
+    "state": "NogrÃ¡d",
+    "city": "NogrÃ¡d",
+    "name": "RÃ©tsÃ¡g reptÃ©r",
+    "icao": "HU-0020",
+    "lat": 47.9321175,
+    "lon": 19.1246144
+  },
+  {
+    "country": "Hungary",
+    "state": "PÃ©cs",
+    "city": "PÃ©cs",
+    "name": "PÃ©cs Hospital Heliport",
+    "icao": "HU-0022",
+    "lat": 46.0750033,
+    "lon": 18.20536
+  },
+  {
+    "country": "Hungary",
+    "state": "Pest",
+    "city": "Pest",
+    "name": "DÃ¡ny",
+    "icao": "HU-0026",
+    "lat": 47.50083,
+    "lon": 19.50529
+  },
+  {
+    "country": "Hungary",
+    "state": "Heves",
+    "city": "Heves",
+    "name": "Terpes",
+    "icao": "LHTE",
+    "lat": 47.974924,
+    "lon": 20.146968
+  },
+  {
+    "country": "Hungary",
+    "state": "Pest",
+    "city": "Pest",
+    "name": "CeglÃ©d",
+    "icao": "LHCL",
+    "lat": 47.160833,
+    "lon": 19.878611
+  },
+  {
+    "country": "Hungary",
+    "state": "Somogy",
+    "city": "Somogy",
+    "name": "KadarkÃºt",
+    "icao": "LHKT",
+    "lat": 46.2462,
+    "lon": 17.6088
+  },
+  {
+    "country": "Hungary",
+    "state": "JÃ¡sz-Nagykun-Szolnok",
+    "city": "JÃ¡sz-Nagykun-Szolnok",
+    "name": "SurjÃ¡ny",
+    "icao": "LHSU",
+    "lat": 47.20072,
+    "lon": 20.48079
+  },
+  {
+    "country": "Hungary",
+    "state": "VeszprÃ©m",
+    "city": "VeszprÃ©m",
+    "name": "Tapolca",
+    "icao": "HU-0030",
+    "lat": 46.8671914,
+    "lon": 17.4063802
+  },
+  {
+    "country": "Hungary",
+    "state": "Borsod-AbaÃºj-ZemplÃ©n",
+    "city": "Borsod-AbaÃºj-ZemplÃ©n",
+    "name": "Aranyos",
+    "icao": "HU-0034",
+    "lat": 48.297055,
+    "lon": 21.222908
+  },
+  {
+    "country": "Hungary",
+    "state": "MÃ³rahalom RepÃ¼lÅ‘tÃ©r",
+    "city": "MÃ³rahalom RepÃ¼lÅ‘tÃ©r",
+    "name": "MÃ³rahalom RepÃ¼lÅ‘tÃ©r",
+    "icao": "HU-0043",
+    "lat": 46.251378,
+    "lon": 19.949197
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ¡cs-Kiskun",
+    "city": "Baja",
+    "name": "Baja Airport",
+    "icao": "HU-0013",
+    "lat": 46.1455,
+    "lon": 19.0428
+  },
+  {
+    "country": "Hungary",
+    "state": "Somogy",
+    "city": "BalatonkeresztÃºr",
+    "name": "BalatonkeresztÃºr Airfield",
+    "icao": "HU-0014",
+    "lat": 46.6933,
+    "lon": 17.3974
+  },
+  {
+    "country": "Hungary",
+    "state": "Vas",
+    "city": "BÃ¶",
+    "name": "BÃ¼kfÃ¶rdÃ¶",
+    "icao": "LHBF",
+    "lat": 47.3848,
+    "lon": 16.80264
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ©kÃ©s",
+    "city": "DÃ©vavÃ¡nya",
+    "name": "DÃ©vavÃ¡nya Airfield",
+    "icao": "HU-0044",
+    "lat": 47.011512,
+    "lon": 20.982331
+  },
+  {
+    "country": "Hungary",
+    "state": "Pest",
+    "city": "DunabogdÃ¡ny",
+    "name": "Aeroglobus",
+    "icao": "HU-0035",
+    "lat": 47.7740525,
+    "lon": 19.0615739
+  },
+  {
+    "country": "Hungary",
+    "state": "GyÅ‘r-Moson-Sopron",
+    "city": "FERTÅRÃKOS",
+    "name": "Piusz-Puszta",
+    "icao": "LHFP",
+    "lat": 47.744444,
+    "lon": 16.614167
+  },
+  {
+    "country": "Hungary",
+    "state": "GyÅ‘r-Moson-Sopron",
+    "city": "GyÃµrszentivÃ¡n/BÃµny",
+    "name": "GyÃµrszentivÃ¡n-BÃµny Airport",
+    "icao": "HU-0017",
+    "lat": 47.6672,
+    "lon": 17.784801
+  },
+  {
+    "country": "Hungary",
+    "state": "FejÃ©r",
+    "city": "GyÃºrÃ³",
+    "name": "GyÃºrÃ³ Airport",
+    "icao": "LHGR",
+    "lat": 47.3914,
+    "lon": 18.75786
+  },
+  {
+    "country": "Hungary",
+    "state": "VeszprÃ©m",
+    "city": "HajmÃ¡skÃ©r",
+    "name": "HajmÃ¡skÃ©r repÃ¼lÅ‘tÃ©r",
+    "icao": "HU-0033",
+    "lat": 47.141868,
+    "lon": 17.998214
+  },
+  {
+    "country": "Hungary",
+    "state": "Heves",
+    "city": "Hatvan",
+    "name": "Kerekharaszt",
+    "icao": "HU-0037",
+    "lat": 47.678889,
+    "lon": 19.644167
+  },
+  {
+    "country": "Hungary",
+    "state": "Zala",
+    "city": "HÃ©viz",
+    "name": "HÃ©viz Airfield",
+    "icao": "HU-0012",
+    "lat": 46.809114,
+    "lon": 17.19974
+  },
+  {
+    "country": "Hungary",
+    "state": "CsongrÃ¡d",
+    "city": "HÃ³dmezÅ‘vÃ¡sÃ¡rhely",
+    "name": "HÃ³dmezÅ‘vÃ¡sÃ¡rhely  Airport",
+    "icao": "HU-0005",
+    "lat": 46.456257,
+    "lon": 20.392963
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ¡cs-Kiskun",
+    "city": "Kecel",
+    "name": "Kecel Heliport",
+    "icao": "LHKC",
+    "lat": 46.5363883972168,
+    "lon": 19.2417030334472
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ¡cs-Kiskun",
+    "city": "Kiskunhalas",
+    "name": "Kiskunhalas-FÃ¼zespuszta",
+    "icao": "HU-0040",
+    "lat": 46.368333,
+    "lon": 19.478889
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ¡cs-Kiskun",
+    "city": "MatkÃ³puszta",
+    "name": "MatkÃ³puszta Airfield",
+    "icao": "HU-0003",
+    "lat": 46.800343,
+    "lon": 19.68257
+  },
+  {
+    "country": "Hungary",
+    "state": "BÃ©kÃ©s",
+    "city": "NagyszÃ©nÃ¡s",
+    "name": "NagyszÃ©nÃ¡s",
+    "icao": "LHNS",
+    "lat": 46.6980556,
+    "lon": 20.6686111
+  },
+  {
+    "country": "Hungary",
+    "state": "GyÅ‘r-Moson-Sopron",
+    "city": "PusztacsalÃ¡d",
+    "name": "PusztacsalÃ¡d Airport",
+    "icao": "HU-0008",
+    "lat": 47.493935,
+    "lon": 16.897216
+  },
+  {
+    "country": "Hungary",
+    "state": "CsongrÃ¡d",
+    "city": "Pusztaszer",
+    "name": "Pusztaszer West",
+    "icao": "HU-0042",
+    "lat": 46.546667,
+    "lon": 19.96
+  },
+  {
+    "country": "Hungary",
+    "state": "FejÃ©r",
+    "city": "SÃ¡rszentmihÃ¡ly",
+    "name": "Ãšrhida",
+    "icao": "LHUH",
+    "lat": 47.1263889,
+    "lon": 18.3116667
+  },
+  {
+    "country": "Hungary",
+    "state": "FejÃ©r",
+    "city": "SzÃ©kesfehÃ©rvÃ¡r",
+    "name": "BÃ¶rgÃ¶nd Airfield",
+    "icao": "HU-0007",
+    "lat": 47.12795,
+    "lon": 18.50014
+  },
+  {
+    "country": "Hungary",
+    "state": "Pest",
+    "city": "VeresegyhÃ¡z",
+    "name": "VeresegyhÃ¡z",
+    "icao": "LHVE",
+    "lat": 47.6383333,
+    "lon": 19.2563889
+  }
+]

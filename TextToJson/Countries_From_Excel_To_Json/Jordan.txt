@@ -1,0 +1,47 @@
+[
+  {
+    "country": "Jordan",
+    "state": "Al Mafraq Governorate",
+    "city": "Al Mafraq Governorate",
+    "name": "Prince Hassan Air Base",
+    "icao": "OJHF",
+    "lat": 32.160702,
+    "lon": 37.149399
+  },
+  {
+    "country": "Jordan",
+    "state": "Ma'an Governorate",
+    "city": "Ma'an Governorate",
+    "name": "King Feisal bin Abdul Aziz / Al Jafr Air Base",
+    "icao": "JO-0002",
+    "lat": 30.3435001373291,
+    "lon": 36.1477012634277
+  },
+  {
+    "country": "Jordan",
+    "state": "Az Zarga Governorate",
+    "city": "King Abdullah II Air Base",
+    "name": "King Abdullah II Air Base",
+    "icao": "JO-0001",
+    "lat": 31.9979991912841,
+    "lon": 36.2195014953613
+  },
+  {
+    "country": "Jordan",
+    "state": "Al Mafraq Governorate",
+    "city": "Al Mafraq Governorate",
+    "name": "Wadi El Murbah Highway Strip",
+    "icao": "JO-0005",
+    "lat": 32.730667612,
+    "lon": 38.9783120155
+  },
+  {
+    "country": "Jordan",
+    "state": "Al 'Aqaba Governorate",
+    "city": "Al 'Aqaba Governorate",
+    "name": "Al Quwayrah Highway Strip",
+    "icao": "JO-0008",
+    "lat": 29.8239934904999,
+    "lon": 35.3279650211
+  }
+]

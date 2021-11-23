@@ -1,0 +1,1424 @@
+[
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kinshasa Province",
+    "city": "Kinshasa",
+    "name": "Ndjili International Airport",
+    "icao": "FZAA",
+    "lat": -4.38575,
+    "lon": 15.4446
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Lubumbashi",
+    "name": "Lubumbashi International Airport",
+    "icao": "FZQA",
+    "lat": -11.5913000107,
+    "lon": 27.5308990479
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Sud-Kivu Province",
+    "city": "Sud-Kivu Province",
+    "name": "Bukavu Kavumu Airport",
+    "icao": "FZMA",
+    "lat": -2.30897998809814,
+    "lon": 28.8087997436523
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Orientale Province",
+    "name": "Bunia Airport",
+    "icao": "FZKA",
+    "lat": 1.56571996212005,
+    "lon": 30.2208003997802
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Kananga",
+    "name": "Kananga Airport",
+    "icao": "FZUA",
+    "lat": -5.90005016327,
+    "lon": 22.4692001343
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kinshasa Province",
+    "city": "N'dolo",
+    "name": "Ndolo Airport",
+    "icao": "FZAB",
+    "lat": -4.32666015625,
+    "lon": 15.327500343323
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Katanga Province",
+    "name": "Kolwezi Airport",
+    "icao": "FZQM",
+    "lat": -10.7658996582031,
+    "lon": 25.5056991577148
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Maniema Province",
+    "city": "Kindu",
+    "name": "Kindu Airport",
+    "icao": "FZOA",
+    "lat": -2.91917991638,
+    "lon": 25.9153995513999
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bas-Congo Province",
+    "city": "Bas-Congo Province",
+    "name": "Muanda Airport",
+    "icao": "FZAG",
+    "lat": -5.93086004257202,
+    "lon": 12.3517999649047
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Nord-Kivu Province",
+    "city": "Beni",
+    "name": "Beni Airport",
+    "icao": "FZNP",
+    "lat": 0.575,
+    "lon": 29.4739
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Lodja",
+    "name": "Lodja Airport",
+    "icao": "FZVA",
+    "lat": -3.41700005531311,
+    "lon": 23.4500007629394
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Katanga Province",
+    "name": "Kamina Base Airport",
+    "icao": "FZSA",
+    "lat": -8.6420202255249,
+    "lon": 25.2528991699218
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Maniema Province",
+    "city": "Kasongo",
+    "name": "Kasongo Airport",
+    "icao": "FZOK",
+    "lat": -4.5329999923706,
+    "lon": 26.6170005798339
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Katende",
+    "name": "Katende Airport",
+    "icao": "FZIK",
+    "lat": 0.333000004291534,
+    "lon": 25.5
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Maniema Province",
+    "city": "Kimano Ii",
+    "name": "Kimano Ii Airport",
+    "icao": "FZMP",
+    "lat": -4.38299989700317,
+    "lon": 28.3500003814697
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Lokutu",
+    "name": "Lokutu Airport",
+    "icao": "FZIZ",
+    "lat": 1.11699998378753,
+    "lon": 23.6170005798339
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Manono",
+    "name": "Manono Airport",
+    "icao": "FZRA",
+    "lat": -7.28888988494873,
+    "lon": 27.3943996429443
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Maniema Province",
+    "city": "Punia",
+    "name": "Punia Airport",
+    "icao": "FZOP",
+    "lat": -1.36699998378753,
+    "lon": 26.3330001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Nord-Kivu Province",
+    "city": "Rutshuru",
+    "name": "Rutshuru Airport",
+    "icao": "FZNC",
+    "lat": -1.16700005531311,
+    "lon": 29.4169998168945
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Bandundu Province",
+    "name": "Bandundu Airport",
+    "icao": "FZBO",
+    "lat": -3.31132006645202,
+    "lon": 17.381700515747
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Equateur Province",
+    "name": "Gbadolite Airport",
+    "icao": "FZFD",
+    "lat": 4.25321006774902,
+    "lon": 20.975299835205
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Ilebo",
+    "name": "Ilebo Airport",
+    "icao": "FZVS",
+    "lat": -4.329919,
+    "lon": 20.590124
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Kiri",
+    "name": "Basango Mboliasa Airport",
+    "icao": "FZBT",
+    "lat": -1.43499994277954,
+    "lon": 19.0240001678466
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bas-Congo Province",
+    "city": "Matadi",
+    "name": "Tshimpi Airport",
+    "icao": "FZAM",
+    "lat": -5.79961013793945,
+    "lon": 13.4404001235961
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Nioki",
+    "name": "Nioki Airport",
+    "icao": "FZBI",
+    "lat": -2.71749997138977,
+    "lon": 17.684700012207
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Tshikapa",
+    "name": "Tshikapa Airport",
+    "icao": "FZUK",
+    "lat": -6.43833,
+    "lon": 20.794701
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Orientale Province",
+    "name": "Buta Zega Airport",
+    "icao": "FZKJ",
+    "lat": 2.81835007667541,
+    "lon": 24.7936992645263
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Equateur Province",
+    "name": "Kotakoli Airport",
+    "icao": "FZFP",
+    "lat": 4.15763998031616,
+    "lon": 21.6508998870849
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Abumumbazi",
+    "name": "Abumumbazi Airport",
+    "icao": "FZFE",
+    "lat": 3.695793,
+    "lon": 22.150068
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Aketi",
+    "name": "Aketi Airport",
+    "icao": "FZKN",
+    "lat": 2.730399,
+    "lon": 23.793468
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Ango",
+    "name": "Ango Airport",
+    "icao": "FZKO",
+    "lat": 4.02899980545043,
+    "lon": 25.8619995117187
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Bambili-Dingila",
+    "name": "Bambili-Dingila Airport",
+    "icao": "FZKB",
+    "lat": 3.65000009536743,
+    "lon": 26.1170005798339
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Banza Lute",
+    "name": "Banza Lute Airport",
+    "icao": "FZCL",
+    "lat": -4.19999980926513,
+    "lon": 17.8330001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Basongo",
+    "name": "Basongo Airport",
+    "icao": "FZVR",
+    "lat": -4.315802,
+    "lon": 20.414891
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Bibanga",
+    "name": "Bibanga Airport",
+    "icao": "FZWB",
+    "lat": -6.25336,
+    "lon": 23.945979
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Bikoro",
+    "name": "Bikoro Airport",
+    "icao": "FZBC",
+    "lat": -0.732999980449676,
+    "lon": 18.132999420166
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Bindja",
+    "name": "Bindja Airport",
+    "icao": "FZBQ",
+    "lat": -3.38333010673522,
+    "lon": 19.6597003936767
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Binga",
+    "name": "Binga Airport",
+    "icao": "FZGE",
+    "lat": 2.43300008773803,
+    "lon": 20.5
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Bokela",
+    "name": "Bokela Airport",
+    "icao": "FZDR",
+    "lat": -1.14999997615814,
+    "lon": 21.8999996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Bokungu",
+    "name": "Bokungu Airport",
+    "icao": "FZGF",
+    "lat": -0.683000028133392,
+    "lon": 22.3330001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Bolongonkele",
+    "name": "Bolongonkele Airport",
+    "icao": "FZBP",
+    "lat": -2.79998993873596,
+    "lon": 19.9083003997802
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Bonkita",
+    "name": "Bonkita Airport",
+    "icao": "FZBF",
+    "lat": -3.09999990463256,
+    "lon": 18.7329998016357
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Bosondjo",
+    "name": "Bosondjo Airport",
+    "icao": "FZGB",
+    "lat": 1.86699998378753,
+    "lon": 21.7830009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Boteka",
+    "name": "Boteka Airport",
+    "icao": "FZGT",
+    "lat": -0.31700000166893,
+    "lon": 19.0669994354248
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Bulape",
+    "name": "Bulape Airport",
+    "icao": "FZUL",
+    "lat": -4.61700010299682,
+    "lon": 21.6000003814697
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Dikungu",
+    "name": "Dikungu Airport",
+    "icao": "FZVP",
+    "lat": -4.0329999923706,
+    "lon": 24.466999053955
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Dilolo",
+    "name": "Dilolo Airport",
+    "icao": "FZSI",
+    "lat": -10.7170000076293,
+    "lon": 22.3500003814697
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Dingele",
+    "name": "Dingele Airport",
+    "icao": "FZVD",
+    "lat": -3.59999990463256,
+    "lon": 24.5830001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Doko",
+    "name": "Doko Airport",
+    "icao": "FZJB",
+    "lat": 3.23300004005432,
+    "lon": 29.5669994354248
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Doruma",
+    "name": "Doruma Airport",
+    "icao": "FZJD",
+    "lat": 4.73299980163574,
+    "lon": 27.6830005645751
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Engengele",
+    "name": "Engengele Airport",
+    "icao": "FZFC",
+    "lat": 2.09999990463256,
+    "lon": 22.6972007751464
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Fungurume",
+    "name": "Fungurume Airport",
+    "icao": "FZQF",
+    "lat": -10.5333003997802,
+    "lon": 26.3250007629394
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Gbado",
+    "name": "Gbado Airport",
+    "icao": "FZFV",
+    "lat": 3.88299989700317,
+    "lon": 20.7830009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Goyongo",
+    "name": "Goyongo Airport",
+    "icao": "FZFJ",
+    "lat": 4.18300008773803,
+    "lon": 19.7830009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Gwaka",
+    "name": "Gwaka Airport",
+    "icao": "FZFW",
+    "lat": 2.46700000762939,
+    "lon": 20.1000003814697
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Idumbe",
+    "name": "Idumbe Airport",
+    "icao": "FZVU",
+    "lat": -3.91700005531311,
+    "lon": 21.5830001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Ikela",
+    "name": "Ikela Airport",
+    "icao": "FZGV",
+    "lat": -1.048109,
+    "lon": 23.372501
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Imesse",
+    "name": "Imesse Airport",
+    "icao": "FZFB",
+    "lat": 2.51699995994567,
+    "lon": 18.2830009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Ingende",
+    "name": "Ingende Airport",
+    "icao": "FZEI",
+    "lat": 0.25,
+    "lon": 18.9330005645751
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Isongo",
+    "name": "Isongo Airport",
+    "icao": "FZBH",
+    "lat": -1.39999997615814,
+    "lon": 18.3999996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Ito",
+    "name": "Ito Airport",
+    "icao": "FZCU",
+    "lat": -3.33299994468688,
+    "lon": 17.466999053955
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Kabombo",
+    "name": "Kabombo Airport",
+    "icao": "FZRD",
+    "lat": -7.34999990463256,
+    "lon": 28.0330009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Kahemba",
+    "name": "Kahemba Airport",
+    "icao": "FZCF",
+    "lat": -7.33300018310546,
+    "lon": 19.0170001983642
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Kala",
+    "name": "Kala Airport",
+    "icao": "FZFL",
+    "lat": 3.383611111,
+    "lon": 18.654722222
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Maniema Province",
+    "city": "Kalima",
+    "name": "Kamisuku Airport",
+    "icao": "FZOC",
+    "lat": -2.54999995231628,
+    "lon": 26.6166667938232
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Kalonda",
+    "name": "Kalonda Airport",
+    "icao": "FZUV",
+    "lat": -6.46700000762939,
+    "lon": 20.7999992370605
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Kamatanda",
+    "name": "Kamatanda Airport",
+    "icao": "FZQI",
+    "lat": -10.8330001831054,
+    "lon": 26.75
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Kanene",
+    "name": "Kanene Airport",
+    "icao": "FZSE",
+    "lat": -9.30000019073486,
+    "lon": 24.6669998168945
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Kaniama",
+    "name": "Kaniama Airport",
+    "icao": "FZTK",
+    "lat": -7.58300018310546,
+    "lon": 24.1499996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Kapanga",
+    "name": "Kapanga Airport",
+    "icao": "FZSK",
+    "lat": -8.35000038146972,
+    "lon": 22.5830001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Maniema Province",
+    "city": "Kasese",
+    "name": "Kasese Airport",
+    "icao": "FZOS",
+    "lat": -1.63300001621246,
+    "lon": 27.0499992370605
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Kashia",
+    "name": "Kashia Airport",
+    "icao": "FZWI",
+    "lat": -7.21700000762939,
+    "lon": 23.75
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Katako'kombe",
+    "name": "Katako'kombe Airport",
+    "icao": "FZVG",
+    "lat": -3.46700000762939,
+    "lon": 24.4330005645751
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Katubwe",
+    "name": "Katubwe Airport",
+    "icao": "FZUT",
+    "lat": -6.05000019073486,
+    "lon": 22.6000003814697
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Katwe",
+    "name": "Katwe Airport",
+    "icao": "FZQH",
+    "lat": -10.5500001907348,
+    "lon": 27.8500003814697
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Kempa",
+    "name": "Kempa Airport",
+    "icao": "FZBG",
+    "lat": -2.93300008773803,
+    "lon": 18.3999996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Sud-Kivu Province",
+    "city": "Kiapupe",
+    "name": "Kiapupe Airport",
+    "icao": "FZOF",
+    "lat": -2.90000009536743,
+    "lon": 27.2999992370605
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Kikongo Sur Wamba",
+    "name": "Kikongo Sur Wamba Airport",
+    "icao": "FZCW",
+    "lat": -4.26700019836425,
+    "lon": 17.2670001983642
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Kilomines",
+    "name": "Kilomines Airport",
+    "icao": "FZKF",
+    "lat": 1.81700003147125,
+    "lon": 30.2329998016357
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Kimafu",
+    "name": "Kimafu Airport",
+    "icao": "FZCX",
+    "lat": -4.59999990463256,
+    "lon": 17.5830001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Kimbau",
+    "name": "Kimbau Airport",
+    "icao": "FZDB",
+    "lat": -5.61700010299682,
+    "lon": 17.6000003814697
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bas-Congo Province",
+    "city": "Kimpangu",
+    "name": "Kimpangu Airport",
+    "icao": "FZDU",
+    "lat": -5.83300018310546,
+    "lon": 15.0
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Kipata Katika",
+    "name": "Kipata Katika Airport",
+    "icao": "FZDK",
+    "lat": -5.0329999923706,
+    "lon": 17.6499996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Kipushi",
+    "name": "Kipushi Airport",
+    "icao": "FZWF",
+    "lat": -6.16699981689453,
+    "lon": 25.1830005645751
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Kisengwa",
+    "name": "Kisengwa Airport",
+    "icao": "FZWR",
+    "lat": -6.01700019836425,
+    "lon": 25.882999420166
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Kodoro",
+    "name": "Kodoro Airport",
+    "icao": "FZER",
+    "lat": 1.2829999923706,
+    "lon": 20.3330001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Kole Sur Lukenie",
+    "name": "Kole Sur Lukenie Airport",
+    "icao": "FZVC",
+    "lat": -3.40000009536743,
+    "lon": 22.5330009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Kolokoso",
+    "name": "Kolokoso Airport",
+    "icao": "FZDL",
+    "lat": -4.44999980926513,
+    "lon": 17.4169998168945
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bas-Congo Province",
+    "city": "Konde",
+    "name": "Konde Airport",
+    "icao": "FZAU",
+    "lat": -5.75,
+    "lon": 12.25
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Kutusongo",
+    "name": "Kutusongo Airport",
+    "icao": "FZVF",
+    "lat": -2.66700005531311,
+    "lon": 23.1669998168945
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bas-Congo Province",
+    "city": "Kwilu-Ngongo",
+    "name": "Kwilu-Ngongo Airport",
+    "icao": "FZAW",
+    "lat": -5.5,
+    "lon": 14.6999998092651
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Libenge",
+    "name": "Libenge Airport",
+    "icao": "FZFA",
+    "lat": 3.63299989700317,
+    "lon": 18.632999420166
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Lomela",
+    "name": "Lomela Airport",
+    "icao": "FZVE",
+    "lat": -2.29999995231628,
+    "lon": 23.2670001983642
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Lubao",
+    "name": "Lubao Airport",
+    "icao": "FZWS",
+    "lat": -5.30000019073486,
+    "lon": 25.7329998016357
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Nord-Kivu Province",
+    "city": "Lubero",
+    "name": "Lubero Airport",
+    "icao": "FZNF",
+    "lat": -0.133000001311302,
+    "lon": 29.25
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Lubudi",
+    "name": "Lubudi Airport",
+    "icao": "FZQU",
+    "lat": -9.93299961090087,
+    "lon": 26.0
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Luebo",
+    "name": "Luebo Airport",
+    "icao": "FZUN",
+    "lat": -5.34999990463256,
+    "lon": 21.3330001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Sud-Kivu Province",
+    "city": "Lugushwa",
+    "name": "Lugushwa Airport",
+    "icao": "FZPC",
+    "lat": -3.31699991226196,
+    "lon": 27.882999420166
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Luiza",
+    "name": "Luiza Airport",
+    "icao": "FZUG",
+    "lat": -7.18300008773803,
+    "lon": 22.3999996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Lukombe-Batwa",
+    "name": "Lukombe-Batwa Airport",
+    "icao": "FZVK",
+    "lat": -4.33300018310546,
+    "lon": 22.0830001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Sud-Kivu Province",
+    "city": "Lulingu Tshionka",
+    "name": "Lulingu Tshionka Airport",
+    "icao": "FZOG",
+    "lat": -2.31699991226196,
+    "lon": 27.5499992370605
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Luniemu",
+    "name": "Luniemu Airport",
+    "icao": "FZJN",
+    "lat": -8.19999980926513,
+    "lon": 24.7329998016357
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Lusanga",
+    "name": "Lusanga Airport",
+    "icao": "FZCE",
+    "lat": -4.80000019073486,
+    "lon": 18.716999053955
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Lutshatsha",
+    "name": "Lutshatsha Airport",
+    "icao": "FZUU",
+    "lat": -6.21700000762939,
+    "lon": 22.0830001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Luvua",
+    "name": "Luvua Airport",
+    "icao": "FZRO",
+    "lat": -7.93300008773803,
+    "lon": 28.5330009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Mahagi",
+    "name": "Mahagi Airport",
+    "icao": "FZKC",
+    "lat": 2.16700005531311,
+    "lon": 31.1499996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bas-Congo Province",
+    "city": "Malanga",
+    "name": "Malanga Airport",
+    "icao": "FZDA",
+    "lat": -5.5329999923706,
+    "lon": 14.8500003814697
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Masi Manimba",
+    "name": "Masi Manimba Airport",
+    "icao": "FZCV",
+    "lat": -4.7829999923706,
+    "lon": 17.8500003814697
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Matari",
+    "name": "Matari Airport",
+    "icao": "FZDT",
+    "lat": -6.19999980926513,
+    "lon": 17.6499996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Mazelele",
+    "name": "Mazelele Airport",
+    "icao": "FZDQ",
+    "lat": -7.2829999923706,
+    "lon": 17.0330009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Mokaria-Yamoleka",
+    "name": "Mokaria-Yamoleka Airport",
+    "icao": "FZFH",
+    "lat": 2.11700010299682,
+    "lon": 23.2830009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Mombongo",
+    "name": "Mombongo Airport",
+    "icao": "FZFR",
+    "lat": 1.64999997615814,
+    "lon": 23.1499996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Muambi",
+    "name": "Muambi Airport",
+    "icao": "FZUJ",
+    "lat": -6.68300008773803,
+    "lon": 22.5330009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Mukoy",
+    "name": "Mukoy Airport",
+    "icao": "FZRC",
+    "lat": -7.5329999923706,
+    "lon": 28.7000007629394
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Mulungwishi",
+    "name": "Mulungwishi Airport",
+    "icao": "FZQD",
+    "lat": -10.75,
+    "lon": 26.632999420166
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Munkamba",
+    "name": "Munkamba Airport",
+    "icao": "FZWL",
+    "lat": -5.76700019836425,
+    "lon": 23.0499992370605
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Musese",
+    "name": "Musese Airport",
+    "icao": "FZUO",
+    "lat": -5.5,
+    "lon": 21.4330005645751
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Mushie",
+    "name": "Mushie Airport",
+    "icao": "FZBJ",
+    "lat": -3.0,
+    "lon": 16.9330005645751
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Mutoto",
+    "name": "Mutoto Airport",
+    "icao": "FZUM",
+    "lat": -5.69999980926513,
+    "lon": 23.716999053955
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bas-Congo Province",
+    "city": "Mvula Sanda",
+    "name": "Mvula Sanda Airport",
+    "icao": "FZAY",
+    "lat": -5.63299989700317,
+    "lon": 13.4169998168945
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Mwadingusha",
+    "name": "Mwadingusha Airport",
+    "icao": "FZQJ",
+    "lat": -10.75,
+    "lon": 27.2000007629394
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Mwene-Ditu",
+    "name": "Mwene-Ditu Airport",
+    "icao": "FZWE",
+    "lat": -6.98299980163574,
+    "lon": 23.0830001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Ngumu",
+    "name": "Ngumu Airport",
+    "icao": "FZES",
+    "lat": 1.46700000762939,
+    "lon": 20.2999992370605
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bas-Congo Province",
+    "city": "Nsangi",
+    "name": "Nsangi Airport",
+    "icao": "FZAF",
+    "lat": -5.59999990463256,
+    "lon": 15.3170003890991
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Nyunzu",
+    "name": "Nyunzu Airport",
+    "icao": "FZRN",
+    "lat": -5.93300008773803,
+    "lon": 28.0
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Nzamba",
+    "name": "Nzamba Airport",
+    "icao": "FZDF",
+    "lat": -6.83300018310546,
+    "lon": 17.6669998168945
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Oshwe",
+    "name": "Oshwe Airport",
+    "icao": "FZBD",
+    "lat": -3.423012,
+    "lon": 19.419662
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Pepa",
+    "name": "Pepa Airport",
+    "icao": "FZRJ",
+    "lat": -7.71700000762939,
+    "lon": 29.7999992370605
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Sud-Kivu Province",
+    "city": "Phibraki",
+    "name": "Phibraki Airport",
+    "icao": "FZOT",
+    "lat": -2.93300008773803,
+    "lon": 27.5330009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Popokabaka",
+    "name": "Popokabaka Airport",
+    "icao": "FZCP",
+    "lat": -5.69999980926513,
+    "lon": 16.5830001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Maniema Province",
+    "city": "Saulia",
+    "name": "Saulia Airport",
+    "icao": "FZOR",
+    "lat": -1.5329999923706,
+    "lon": 26.5330009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Semendua",
+    "name": "Semendua Airport",
+    "icao": "FZBS",
+    "lat": -3.18300008773803,
+    "lon": 18.0830001831054
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Katanga Province",
+    "city": "Sominka",
+    "name": "Sominka Airport",
+    "icao": "FZRG",
+    "lat": -7.41699981689453,
+    "lon": 27.1499996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Maniema Province",
+    "city": "Tingi-Tingi",
+    "name": "Tingi-Tingi Airport",
+    "icao": "FZOB",
+    "lat": -0.762499988079071,
+    "lon": 26.6096992492675
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Tono",
+    "name": "Tono Airport",
+    "icao": "FZDE",
+    "lat": -6.55000019073486,
+    "lon": 18.2000007629394
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bas-Congo Province",
+    "city": "Tshela",
+    "name": "Tshela Airport",
+    "icao": "FZAH",
+    "lat": -4.98299980163574,
+    "lon": 12.9329996109008
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Occidental Province",
+    "city": "Tshikaji",
+    "name": "Tshikaji Airport",
+    "icao": "FZUS",
+    "lat": -5.96700000762939,
+    "lon": 22.4169998168945
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Wamba Luadi",
+    "name": "Wamba Luadi Airport",
+    "icao": "FZDD",
+    "lat": -6.55000019073486,
+    "lon": 17.3999996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Kasai-Oriental Province",
+    "city": "Wasolo",
+    "name": "Wasolo Airport",
+    "icao": "FZVL",
+    "lat": -3.95000004768371,
+    "lon": 22.5170001983642
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Watsa",
+    "name": "Watsa Airport",
+    "icao": "FZJI",
+    "lat": 3.0169401168823198,
+    "lon": 29.5592002868652
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Wema",
+    "name": "Wema Airport",
+    "icao": "FZGH",
+    "lat": -0.432999998331069,
+    "lon": 21.6499996185302
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Yangambi",
+    "name": "Yangambi Airport",
+    "icao": "FZIR",
+    "lat": 0.782999992370605,
+    "lon": 24.466999053955
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Yasa Bongo",
+    "name": "Yasa Bongo Airport",
+    "icao": "FZDS",
+    "lat": -4.44999980926513,
+    "lon": 17.7830009460449
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Yemo",
+    "name": "Yemo Airport",
+    "icao": "FZGY",
+    "lat": -0.467000007629394,
+    "lon": 21.9330005645751
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Orientale Province",
+    "name": "Isiro-Ville",
+    "icao": "FZJA",
+    "lat": 2.78221988677978,
+    "lon": 27.6257991790771
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Equateur Province",
+    "name": "Yakoma Airport",
+    "icao": "CD-0007",
+    "lat": 4.075469,
+    "lon": 22.45943
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Boeli",
+    "name": "Boeli Airstrip",
+    "icao": "CD-0021",
+    "lat": 4.169336,
+    "lon": 27.08276
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Bandundu Province",
+    "city": "Bokoro",
+    "name": "Bokoro Airport",
+    "icao": "CD-0020",
+    "lat": -2.884722,
+    "lon": 18.352778
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Equateur Province",
+    "city": "Djolu",
+    "name": "Djolu Airport",
+    "icao": "CD-0004",
+    "lat": 0.63328,
+    "lon": 22.463769
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Epulu",
+    "name": "Epulu Airport",
+    "icao": "CD-0015",
+    "lat": 1.409542,
+    "lon": 28.569931
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Mahagi",
+    "name": "Mahagi Airport",
+    "icao": "CD-0012",
+    "lat": 2.293288,
+    "lon": 31.026256
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Mambasa",
+    "name": "Mambasa Airport",
+    "icao": "CD-0010",
+    "lat": 1.348012,
+    "lon": 29.080458
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Monga",
+    "name": "Monga Airstrip",
+    "icao": "CD-0014",
+    "lat": 4.20151,
+    "lon": 22.824927
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Nagero",
+    "name": "Nagero",
+    "icao": "CD-0003",
+    "lat": 3.746155,
+    "lon": 29.509964
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Nebobongo",
+    "name": "Nebobongo Airport",
+    "icao": "CD-0023",
+    "lat": 2.458075,
+    "lon": 27.63125
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Nia-Nia",
+    "name": "Nia-Nia Airport",
+    "icao": "CD-0016",
+    "lat": 1.399379,
+    "lon": 27.610131
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Poko",
+    "name": "Poko Airport",
+    "icao": "CD-0013",
+    "lat": 3.135479,
+    "lon": 26.885307
+  },
+  {
+    "country": "Congo (Kinshasa)",
+    "state": "Orientale Province",
+    "city": "Zaniwe",
+    "name": "Zaniwe Airport",
+    "icao": "CD-0009",
+    "lat": 3.679098,
+    "lon": 29.127699
+  }
+]

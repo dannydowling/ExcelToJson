@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Togo",
+    "state": "Kara Region",
+    "city": "Niamtougou",
+    "name": "Niamtougou International Airport",
+    "icao": "DXNG",
+    "lat": 9.76733016967773,
+    "lon": 1.09124994277954
+  },
+  {
+    "country": "Togo",
+    "state": "Plateaux Region",
+    "city": "AniÃ©",
+    "name": "Kolokope Airport",
+    "icao": "DXKP",
+    "lat": 7.80000019073486,
+    "lon": 1.2829999923706
+  },
+  {
+    "country": "Togo",
+    "state": "Plateaux Region",
+    "city": "AtakpamÃ©",
+    "name": "Akpaka Airport",
+    "icao": "DXAK",
+    "lat": 7.58300018310546,
+    "lon": 1.11699998378753
+  }
+]

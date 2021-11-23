@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Antigua and Barbuda",
+    "state": "Saint George",
+    "city": "St. John's",
+    "name": "V.C. Bird International Airport",
+    "icao": "TAPA",
+    "lat": 17.1367,
+    "lon": -61.792702
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "state": "Barbuda",
+    "city": "Codrington",
+    "name": "Codrington Airport",
+    "icao": "TAPH",
+    "lat": 17.635799,
+    "lon": -61.828602
+  }
+]

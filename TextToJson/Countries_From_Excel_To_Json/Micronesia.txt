@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Micronesia",
+    "state": "Pohnpei State",
+    "city": "Pohnpei Island",
+    "name": "Pohnpei International Airport",
+    "icao": "PTPN",
+    "lat": 6.98509979248046,
+    "lon": 158.208999633789
+  },
+  {
+    "country": "Micronesia",
+    "state": "Yap State",
+    "city": "Yap Island",
+    "name": "Yap International Airport",
+    "icao": "PTYA",
+    "lat": 9.49891,
+    "lon": 138.082993
+  },
+  {
+    "country": "Micronesia",
+    "state": "Kosrae State",
+    "city": "Okat",
+    "name": "Kosrae International Airport",
+    "icao": "PTSA",
+    "lat": 5.35698,
+    "lon": 162.957993
+  },
+  {
+    "country": "Micronesia",
+    "state": "Yap State",
+    "city": "Woleai Atoll",
+    "name": "Woleai Atoll Airport",
+    "icao": "FM-0001",
+    "lat": 7.37625980377197,
+    "lon": 143.908004760742
+  }
+]

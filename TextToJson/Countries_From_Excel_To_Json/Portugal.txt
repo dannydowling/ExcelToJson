@@ -1,0 +1,956 @@
+[
+  {
+    "country": "Portugal",
+    "state": "Faro District",
+    "city": "Faro",
+    "name": "Faro Airport",
+    "icao": "LPFR",
+    "lat": 37.0144004822,
+    "lon": -7.96590995789
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Cascais",
+    "name": "Cascais Airport",
+    "icao": "LPCS",
+    "lat": 38.724998,
+    "lon": -9.35523
+  },
+  {
+    "country": "Portugal",
+    "state": "Autonomous Region of Azores",
+    "city": "Horta",
+    "name": "Horta Airport",
+    "icao": "LPHR",
+    "lat": 38.5199012756347,
+    "lon": -28.7159004211425
+  },
+  {
+    "country": "Portugal",
+    "state": "Ã‰vora District",
+    "city": "Ã‰vora",
+    "name": "Ã‰vora Airport",
+    "icao": "LPEV",
+    "lat": 38.533501,
+    "lon": -7.88964
+  },
+  {
+    "country": "Portugal",
+    "state": "Coimbra District",
+    "city": "Coimbra",
+    "name": "Aerodromo Municipal de Coimbra",
+    "icao": "LPCO",
+    "lat": 40.158758,
+    "lon": -8.470815
+  },
+  {
+    "country": "Portugal",
+    "state": "Leiria District",
+    "city": "Leiria District",
+    "name": "Monte Real Air Base",
+    "icao": "LPMR",
+    "lat": 39.828335,
+    "lon": -8.8875
+  },
+  {
+    "country": "Portugal",
+    "state": "Aveiro District",
+    "city": "Ovar",
+    "name": "Ovar Air Base",
+    "icao": "LPOV",
+    "lat": 40.915901,
+    "lon": -8.64592
+  },
+  {
+    "country": "Portugal",
+    "state": "Aveiro District",
+    "city": "Aveiro",
+    "name": "SÃ£o Jacinto Airfield",
+    "icao": "LPAV",
+    "lat": 40.656741,
+    "lon": -8.741544
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Torres Vedras",
+    "name": "Santa Cruz Airfield",
+    "icao": "LPSC",
+    "lat": 39.124233,
+    "lon": -9.379821
+  },
+  {
+    "country": "Portugal",
+    "state": "Castelo Branco District",
+    "city": "Castelo Branco",
+    "name": "Aerodromo de Castelo Branco",
+    "icao": "LPCB",
+    "lat": 39.847022,
+    "lon": -7.44111
+  },
+  {
+    "country": "Portugal",
+    "state": "Faro District",
+    "city": "Lagos",
+    "name": "Lagos Airfield ULM",
+    "icao": "PT-0025",
+    "lat": 37.121875,
+    "lon": -8.67879
+  },
+  {
+    "country": "Portugal",
+    "state": "Portalegre District",
+    "city": "Ponte de SÃ´r",
+    "name": "Aerodromo Ponte de Sor",
+    "icao": "LPSO",
+    "lat": 39.211559,
+    "lon": -8.056542
+  },
+  {
+    "country": "Portugal",
+    "state": "Autonomous Region of Azores",
+    "city": "Santa Cruz das Flores",
+    "name": "Flores Airport",
+    "icao": "LPFL",
+    "lat": 39.4552993774414,
+    "lon": -31.131399154663
+  },
+  {
+    "country": "Portugal",
+    "state": "Autonomous Region of Azores",
+    "city": "Pico Island",
+    "name": "Pico Airport",
+    "icao": "LPPI",
+    "lat": 38.554298,
+    "lon": -28.441299
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Vila Franca de Xira",
+    "name": "Alverca Air Base",
+    "icao": "LPAR",
+    "lat": 38.883301,
+    "lon": -9.0301
+  },
+  {
+    "country": "Portugal",
+    "state": "Vila Real District",
+    "city": "Chaves",
+    "name": "Aerodromo de Chaves",
+    "icao": "LPCH",
+    "lat": 41.722356,
+    "lon": -7.463064
+  },
+  {
+    "country": "Portugal",
+    "state": "BraganÃ§a District",
+    "city": "Mogadouro",
+    "name": "Mogadouro Airfield",
+    "icao": "LPMU",
+    "lat": 41.3963,
+    "lon": -6.68348
+  },
+  {
+    "country": "Portugal",
+    "state": "Portalegre District",
+    "city": "Montargil",
+    "name": "Morargil Airfield",
+    "icao": "LPMO",
+    "lat": 38.993532,
+    "lon": -8.14201
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "AlcÃ¡cer do Sal",
+    "name": "Pista da Herdade da Comporta",
+    "icao": "PT-0057",
+    "lat": 38.393944,
+    "lon": -8.788311
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "AlcÃ¡cer do Sal",
+    "name": "Pista da Herdade da Barrosinha",
+    "icao": "PT-0061",
+    "lat": 38.346941,
+    "lon": -8.442607
+  },
+  {
+    "country": "Portugal",
+    "state": "Coimbra District",
+    "city": "Arganil",
+    "name": "AerÃ³dromo de Coja",
+    "icao": "PT-0029",
+    "lat": 40.2748,
+    "lon": -7.9747
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Azambuja",
+    "name": "Aerodromo do AlqueidÃ£o",
+    "icao": "PT-0117",
+    "lat": 39.066847,
+    "lon": -8.804255
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Benavente",
+    "name": "Pista de Bilrete",
+    "icao": "PT-0113",
+    "lat": 38.984165,
+    "lon": -8.766081
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Benavente",
+    "name": "Pista do Porto Alto",
+    "icao": "PT-0120",
+    "lat": 38.9521,
+    "lon": -8.866782
+  },
+  {
+    "country": "Portugal",
+    "state": "Leiria District",
+    "city": "Castanheira de PÃªra",
+    "name": "Aerodromo do Coentral",
+    "icao": "PT-0097",
+    "lat": 40.0767,
+    "lon": -8.158336
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Chamusca",
+    "name": "Pista do Arrepiado",
+    "icao": "PT-0056",
+    "lat": 39.446011,
+    "lon": -8.412019
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Coruche",
+    "name": "Pista de Biscainho BrandÃ£o",
+    "icao": "PT-0110",
+    "lat": 38.941904,
+    "lon": -8.717673
+  },
+  {
+    "country": "Portugal",
+    "state": "Beja District",
+    "city": "Ferreira do Alentejo",
+    "name": "AÃ©rodromo de Ferreira do Alentejo",
+    "icao": "PT-0039",
+    "lat": 38.040061,
+    "lon": -8.10423
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "Montijo",
+    "name": "Aerodromo de Faias",
+    "icao": "PT-0131",
+    "lat": 38.687721,
+    "lon": -8.745375
+  },
+  {
+    "country": "Portugal",
+    "state": "Ã‰vora District",
+    "city": "Odemira",
+    "name": "V.N.Milfontes",
+    "icao": "PT-0137",
+    "lat": 37.675042,
+    "lon": -8.745966
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "OurÃ©m",
+    "name": "Aerodromo de Pias Longas (New)",
+    "icao": "PT-0055",
+    "lat": 39.597207,
+    "lon": -8.567748
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "Palmela",
+    "name": "Pista da Herdade do Rio Frio",
+    "icao": "PT-0065",
+    "lat": 38.680317,
+    "lon": -8.857512
+  },
+  {
+    "country": "Portugal",
+    "state": "Leiria District",
+    "city": "PedrÃ³gÃ£o Grande",
+    "name": "Pista do Sorraia",
+    "icao": "PT-0098",
+    "lat": 39.966636,
+    "lon": -8.157102
+  },
+  {
+    "country": "Portugal",
+    "state": "Leiria District",
+    "city": "Pombal",
+    "name": "AerÃ³dromo de Pombal",
+    "icao": "PT-0033",
+    "lat": 39.885631,
+    "lon": -8.6496927
+  },
+  {
+    "country": "Portugal",
+    "state": "Castelo Branco District",
+    "city": "ProenÃ§a-a-Nova",
+    "name": "AÃ©rodromo Municipal de ProenÃ§a-a-Nova",
+    "icao": "PT-0040",
+    "lat": 39.731217,
+    "lon": -7.87495
+  },
+  {
+    "country": "Portugal",
+    "state": "Ã‰vora District",
+    "city": "Reguengos de Monsaraz",
+    "name": "Campo de Voo do Campinho",
+    "icao": "PT-0094",
+    "lat": 38.359106,
+    "lon": -7.465532
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "SetÃºbal",
+    "name": "Pista da SAPEC (Santa Catarina)",
+    "icao": "PT-0059",
+    "lat": 38.494813,
+    "lon": -8.819296
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Sintra",
+    "name": "Tojeira Airfield",
+    "icao": "PT-0024",
+    "lat": 38.88444,
+    "lon": -9.427868
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Vila Franca de Xira",
+    "name": "Aerodromo da LezÃ­ria",
+    "icao": "PT-0041",
+    "lat": 38.902,
+    "lon": -8.9367
+  },
+  {
+    "country": "Portugal",
+    "state": "Braga District",
+    "city": "Braga",
+    "name": "Braga Municipal Aerodrome",
+    "icao": "LPBR",
+    "lat": 41.5871009827,
+    "lon": -8.44513988494999
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Tancos",
+    "name": "Tancos Airbase",
+    "icao": "LPTN",
+    "lat": 39.475101,
+    "lon": -8.36458
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "SetÃºbal District",
+    "name": "Sines Airport",
+    "icao": "LPSI",
+    "lat": 37.941692,
+    "lon": -8.817301
+  },
+  {
+    "country": "Portugal",
+    "state": "Beja District",
+    "city": "Beja District",
+    "name": "Alentejo Air Park",
+    "icao": "PT-0017",
+    "lat": 37.465556,
+    "lon": -8.737222
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Abrantes",
+    "name": "Pista de Mouriscas",
+    "icao": "PT-0106",
+    "lat": 39.477844,
+    "lon": -8.089349
+  },
+  {
+    "country": "Portugal",
+    "state": "Aveiro District",
+    "city": "Ãgueda",
+    "name": "Aerodromo Municipal de Agueda",
+    "icao": "PT-0026",
+    "lat": 40.548704,
+    "lon": -8.40548
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "AlcÃ¡cer do Sal",
+    "name": "Pista da Coudelaria Herdade do Pinheiro",
+    "icao": "PT-0058",
+    "lat": 38.456513,
+    "lon": -8.71749
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Alcanena",
+    "name": "Pista de Alcanena",
+    "icao": "PT-0087",
+    "lat": 39.471293,
+    "lon": -8.670402
+  },
+  {
+    "country": "Portugal",
+    "state": "Oporto District",
+    "city": "Amarante",
+    "name": "Pista da CorvachÃ£",
+    "icao": "PT-0125",
+    "lat": 41.2321,
+    "lon": -7.977137
+  },
+  {
+    "country": "Portugal",
+    "state": "Viseu District",
+    "city": "Armamar",
+    "name": "Aerodromo de Sao Cosmado",
+    "icao": "PT-0123",
+    "lat": 41.065959,
+    "lon": -7.700687
+  },
+  {
+    "country": "Portugal",
+    "state": "Portalegre District",
+    "city": "Arronches",
+    "name": "Pista de Campo Maior",
+    "icao": "PT-0089",
+    "lat": 39.027327,
+    "lon": -7.130663
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Benavente",
+    "name": "Military Airfield of Alcochete",
+    "icao": "PT-0121",
+    "lat": 38.766933,
+    "lon": -8.802624
+  },
+  {
+    "country": "Portugal",
+    "state": "Braga District",
+    "city": "Cabeceiras de Basto",
+    "name": "Aerodromo de Cabeceiras de Basto",
+    "icao": "PT-0020",
+    "lat": 41.556444,
+    "lon": -7.985086
+  },
+  {
+    "country": "Portugal",
+    "state": "Beja District",
+    "city": "Castro Verde",
+    "name": "Pista da Herdade da Zambujeira",
+    "icao": "PT-0052",
+    "lat": 37.67084,
+    "lon": -8.123743
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Chamusca",
+    "name": "Pista da Chamusca",
+    "icao": "PT-0128",
+    "lat": 39.319425,
+    "lon": -8.516121
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Coruche",
+    "name": "Pista do CouÃ§o",
+    "icao": "PT-0111",
+    "lat": 39.004878,
+    "lon": -8.274207
+  },
+  {
+    "country": "Portugal",
+    "state": "Ã‰vora District",
+    "city": "Ã‰vora",
+    "name": "Pista da Nossa Senhora de Machede",
+    "icao": "PT-0096",
+    "lat": 38.599527,
+    "lon": -7.820549
+  },
+  {
+    "country": "Portugal",
+    "state": "Leiria District",
+    "city": "FÃ¡tima",
+    "name": "FÃ¡tima Salgueira Airstrip",
+    "icao": "PT-0053",
+    "lat": 39.560839,
+    "lon": -8.640919
+  },
+  {
+    "country": "Portugal",
+    "state": "Beja District",
+    "city": "Ferreira do Alentejo",
+    "name": "Pista da Lagoa da Carrasqueira",
+    "icao": "PT-0135",
+    "lat": 37.999375,
+    "lon": -8.231592
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "GrÃ¢ndola",
+    "name": "Pista de Grandola",
+    "icao": "PT-0070",
+    "lat": 38.163218,
+    "lon": -8.538029
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "Moita",
+    "name": "Aerodromo de Alhos Vedros",
+    "icao": "PT-0066",
+    "lat": 38.664905,
+    "lon": -9.027843
+  },
+  {
+    "country": "Portugal",
+    "state": "Portalegre District",
+    "city": "Monforte",
+    "name": "Aerodromo de Monforte",
+    "icao": "PT-0090",
+    "lat": 39.059904,
+    "lon": -7.421753
+  },
+  {
+    "country": "Portugal",
+    "state": "Portalegre District",
+    "city": "Montargil",
+    "name": "Pista do Monte do Lago",
+    "icao": "PT-0030",
+    "lat": 39.07502,
+    "lon": -8.13889
+  },
+  {
+    "country": "Portugal",
+    "state": "Coimbra District",
+    "city": "Montemor-o-velho",
+    "name": "Quinta de FÃ´ja",
+    "icao": "PT-0142",
+    "lat": 40.18503,
+    "lon": -8.704338
+  },
+  {
+    "country": "Portugal",
+    "state": "Viseu District",
+    "city": "MortÃ¡gua",
+    "name": "AerÃ³dromo de Vila MeÃ£",
+    "icao": "PT-0028",
+    "lat": 40.426368,
+    "lon": -8.232252
+  },
+  {
+    "country": "Portugal",
+    "state": "Moura",
+    "city": "Moura",
+    "name": "Pista do Monte das Tezas",
+    "icao": "PT-0085",
+    "lat": 38.10726,
+    "lon": -7.168579
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Ã“bidos",
+    "name": "AerÃ³dromo de Ã“bidos",
+    "icao": "PT-0043",
+    "lat": 39.3907221,
+    "lon": -9.1982199
+  },
+  {
+    "country": "Portugal",
+    "state": "Beja District",
+    "city": "Odemira",
+    "name": "Pista do Cabo SardÃ£o",
+    "icao": "PT-0072",
+    "lat": 37.631286,
+    "lon": -8.763292
+  },
+  {
+    "country": "Portugal",
+    "state": "Portalegre District",
+    "city": "Ponte de SÃ´r",
+    "name": "Pista de Montargil",
+    "icao": "PT-0103",
+    "lat": 39.051902,
+    "lon": -8.142087
+  },
+  {
+    "country": "Portugal",
+    "state": "Ã‰vora District",
+    "city": "Portel",
+    "name": "Campo de Voo da Cerieira",
+    "icao": "PT-0093",
+    "lat": 38.424545,
+    "lon": -7.72326
+  },
+  {
+    "country": "Portugal",
+    "state": "Guarda District",
+    "city": "Sabugal",
+    "name": "Dragoa Airstrip",
+    "icao": "PT-0136",
+    "lat": 40.406895,
+    "lon": -6.997218
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Salvaterra de Magos",
+    "name": "Aerodromo de Muge",
+    "icao": "PT-0114",
+    "lat": 39.097162,
+    "lon": -8.658857
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "Santiago do CacÃ©m",
+    "name": "Pista de Fonte Serne",
+    "icao": "PT-0071",
+    "lat": 37.883254,
+    "lon": -8.448293
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "Sines",
+    "name": "Pista da Sonega",
+    "icao": "PT-0076",
+    "lat": 37.84125,
+    "lon": -8.743787
+  },
+  {
+    "country": "Portugal",
+    "state": "Faro District",
+    "city": "Tavira",
+    "name": "Aerodromo de Tavira ULM",
+    "icao": "PT-0082",
+    "lat": 37.114901,
+    "lon": -7.662749
+  },
+  {
+    "country": "Portugal",
+    "state": "Ã‰vora District",
+    "city": "Vendas Novas",
+    "name": "Regimento Artilharia military airfield",
+    "icao": "PT-0139",
+    "lat": 38.693397,
+    "lon": -8.443196
+  },
+  {
+    "country": "Portugal",
+    "state": "Viana do Castelo District",
+    "city": "Vila Nova de Cerveira",
+    "name": "Aerodromo do Cerval",
+    "icao": "PT-0022",
+    "lat": 41.972958,
+    "lon": -8.673806
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Alenquer",
+    "name": "Ota Air Base",
+    "icao": "LPOT",
+    "lat": 39.087502,
+    "lon": -8.96278
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Abrantes",
+    "name": "Hospital Distrital de Abrantes heliport",
+    "icao": "PT-0007",
+    "lat": 39.456142,
+    "lon": -8.199821
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "AlcÃ¡cer do Sal",
+    "name": "Bombeiros de Alcacer do Sal Heliport",
+    "icao": "PT-0074",
+    "lat": 38.36921,
+    "lon": -8.506197
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Alfragide",
+    "name": "Alfragide Heliport",
+    "icao": "PT-0001",
+    "lat": 38.738392,
+    "lon": -9.215061
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Almada",
+    "name": "Almada Hospital Heliport",
+    "icao": "LPGO",
+    "lat": 38.675075,
+    "lon": -9.177355
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Amadora",
+    "name": "Hospital Amadora Heliport",
+    "icao": "PT-0004",
+    "lat": 38.742144,
+    "lon": -9.245749
+  },
+  {
+    "country": "Portugal",
+    "state": "Beja District",
+    "city": "Beja",
+    "name": "Hospital JosÃ© Joaquim Fernandes heliport",
+    "icao": "PT-0012",
+    "lat": 38.0133361816406,
+    "lon": -7.86944198608398
+  },
+  {
+    "country": "Portugal",
+    "state": "Braga District",
+    "city": "Braga",
+    "name": "Braga Hospital Heliport",
+    "icao": "LPBH",
+    "lat": 41.56855,
+    "lon": -8.399884
+  },
+  {
+    "country": "Portugal",
+    "state": "BraganÃ§a District",
+    "city": "BraganÃ§a",
+    "name": "BraganÃ§a Hospital Helipad",
+    "icao": "LPTM",
+    "lat": 41.80265,
+    "lon": -6.768767
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Carnaxide",
+    "name": "Hospital de Santa Cruz heliport",
+    "icao": "PT-0005",
+    "lat": 38.726135,
+    "lon": -9.234083
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Cascais",
+    "name": "Cascais Marina Heliport",
+    "icao": "PT-0102",
+    "lat": 38.693789,
+    "lon": -9.41472
+  },
+  {
+    "country": "Portugal",
+    "state": "Coimbra District",
+    "city": "Coimbra",
+    "name": "Coimbra University Hospital Helipad",
+    "icao": "LPCI",
+    "lat": 40.219877,
+    "lon": -8.413009
+  },
+  {
+    "country": "Portugal",
+    "state": "Castelo Branco District",
+    "city": "CovilhÃ£",
+    "name": "CovilhÃ£ Hospital Helipad",
+    "icao": "LPCL",
+    "lat": 40.267597,
+    "lon": -7.491298
+  },
+  {
+    "country": "Portugal",
+    "state": "Braga District",
+    "city": "Fafe",
+    "name": "Fafe heliport",
+    "icao": "PT-0003",
+    "lat": 41.456435,
+    "lon": -8.138046
+  },
+  {
+    "country": "Portugal",
+    "state": "Autonomous Region of Madeira",
+    "city": "Funchal",
+    "name": "Dr. NÃ©lio MendonÃ§a Hospital Heliport",
+    "icao": "LPCC",
+    "lat": 32.647638,
+    "lon": -16.92371
+  },
+  {
+    "country": "Portugal",
+    "state": "Viseu District",
+    "city": "Lamego",
+    "name": "Lamego Hospital Heliport",
+    "icao": "PT-0051",
+    "lat": 41.082095,
+    "lon": -7.796558
+  },
+  {
+    "country": "Portugal",
+    "state": "Leiria District",
+    "city": "Leiria",
+    "name": "Hospital Distrital Leiria heliport",
+    "icao": "PT-0010",
+    "lat": 39.744537,
+    "lon": -8.793105
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Lisbon",
+    "name": "Hospital das ForÃ§as Armadas Heliport",
+    "icao": "PT-0079",
+    "lat": 38.767674,
+    "lon": -9.174137
+  },
+  {
+    "country": "Portugal",
+    "state": "Faro District",
+    "city": "Loule",
+    "name": "Loule heliport",
+    "icao": "PT-0015",
+    "lat": 37.131523,
+    "lon": -8.033168
+  },
+  {
+    "country": "Portugal",
+    "state": "Castelo Branco District",
+    "city": "Mirandela",
+    "name": "Mirandela Hospitat Heliport",
+    "icao": "LPMD",
+    "lat": 41.484771,
+    "lon": -7.190643
+  },
+  {
+    "country": "Portugal",
+    "state": "Portalegre District",
+    "city": "Nisa",
+    "name": "Nisa heliport",
+    "icao": "PT-0016",
+    "lat": 39.5149993896484,
+    "lon": -7.65194416046142
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Pernes",
+    "name": "Pernes Heliport",
+    "icao": "PT-0046",
+    "lat": 39.376207,
+    "lon": -8.661629
+  },
+  {
+    "country": "Portugal",
+    "state": "Aveiro District",
+    "city": "Santa Maria Da Feira",
+    "name": "Santa Maria Da Feira heliport",
+    "icao": "PT-0018",
+    "lat": 40.9301490783691,
+    "lon": -8.54239082336425
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Sardoal",
+    "name": "Sardoal Heliport",
+    "icao": "PT-0048",
+    "lat": 39.54254,
+    "lon": -8.160328
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "Sesimbra",
+    "name": "Herdade da ApostiÃ§a Heliport",
+    "icao": "PT-0075",
+    "lat": 38.534118,
+    "lon": -9.126399
+  },
+  {
+    "country": "Portugal",
+    "state": "SetÃºbal District",
+    "city": "Sines",
+    "name": "Sines heliport",
+    "icao": "PT-0019",
+    "lat": 37.9550094604492,
+    "lon": -8.87935829162597
+  },
+  {
+    "country": "Portugal",
+    "state": "SantarÃ©m District",
+    "city": "Tomar",
+    "name": "Tomar HospitalTomar Hospital Helipad",
+    "icao": "LPTH",
+    "lat": 39.610553,
+    "lon": -8.395223
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Torres Vedras",
+    "name": "Torres Vedras Heliport",
+    "icao": "PT-0044",
+    "lat": 39.089058,
+    "lon": -9.263175
+  },
+  {
+    "country": "Portugal",
+    "state": "Viana do Castelo District",
+    "city": "Viana do Castelo",
+    "name": "Viana do Castelo Hospital Helipad",
+    "icao": "LPVC",
+    "lat": 41.697716,
+    "lon": -8.8314976
+  },
+  {
+    "country": "Portugal",
+    "state": "Lisbon District",
+    "city": "Vila Franca de Xira",
+    "name": "Vila Franca de Xira Hospital Helipad",
+    "icao": "LPXR",
+    "lat": 38.977696,
+    "lon": -8.985177
+  }
+]

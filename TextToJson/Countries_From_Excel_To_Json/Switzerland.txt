@@ -1,0 +1,425 @@
+[
+  {
+    "country": "Switzerland",
+    "state": "Canton of Zurich",
+    "city": "Zurich",
+    "name": "Zurich Airport",
+    "icao": "LSZH",
+    "lat": 47.464699,
+    "lon": 8.54917
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of St. Gallen",
+    "city": "Altenrhein",
+    "name": "St Gallen Altenrhein Airport",
+    "icao": "LSZR",
+    "lat": 47.4850006104,
+    "lon": 9.56077003478999
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Grisons",
+    "city": "Canton of Grisons",
+    "name": "Samedan Airport",
+    "icao": "LSZS",
+    "lat": 46.5340995788574,
+    "lon": 9.88411045074462
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Ticino",
+    "city": "Lugano",
+    "name": "Lugano Airport",
+    "icao": "LSZA",
+    "lat": 46.0042991637999,
+    "lon": 8.9105796814
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Solothurn",
+    "city": "Grenchen",
+    "name": "Grenchen Airport",
+    "icao": "LSZG",
+    "lat": 47.181599,
+    "lon": 7.41719
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Vaud",
+    "city": "Lausanne",
+    "name": "Lausanne-BlÃ©cherette Airport",
+    "icao": "LSGL",
+    "lat": 46.5453,
+    "lon": 6.61667
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Ticino",
+    "city": "Locarno",
+    "name": "Locarno Airport",
+    "icao": "LSZL",
+    "lat": 46.1608009338,
+    "lon": 8.87860965729
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of NeuchÃ¢tel",
+    "city": "La Chaux-de-Fonds",
+    "name": "Les Eplatures Airport",
+    "icao": "LSGC",
+    "lat": 47.0839004516999,
+    "lon": 6.79284000397
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Nidwalden",
+    "city": "Buochs",
+    "name": "Buochs Airport",
+    "icao": "LSZC",
+    "lat": 46.974444,
+    "lon": 8.396944
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Vaud",
+    "city": "Bex",
+    "name": "Bex Airport",
+    "icao": "LSGB",
+    "lat": 46.25830078125,
+    "lon": 6.98639011383056
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Fribourg",
+    "city": "Canton of Fribourg",
+    "name": "Gruyeres Airport",
+    "icao": "LSGT",
+    "lat": 46.5942001342773,
+    "lon": 7.09443998336792
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Vaud",
+    "city": "La CÃ´te",
+    "name": "La CÃ´te Airport",
+    "icao": "LSGP",
+    "lat": 46.4063987731933,
+    "lon": 6.2580599784851
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Schwyz",
+    "city": "Canton of Schwyz",
+    "name": "Wangen-Lachen Airfield",
+    "icao": "LSPV",
+    "lat": 47.2047,
+    "lon": 8.8675
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Berne",
+    "city": "Canton of Berne",
+    "name": "Reichenbach Air Base",
+    "icao": "LSGR",
+    "lat": 46.6136016845703,
+    "lon": 7.67778015136718
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Ticino",
+    "city": "Quinto",
+    "name": "Ambri Airport",
+    "icao": "LSPM",
+    "lat": 46.512501,
+    "lon": 8.68978
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of St. Gallen",
+    "city": "Canton of St. Gallen",
+    "name": "Bad Ragaz Airport",
+    "icao": "LSZE",
+    "lat": 47.0149993896484,
+    "lon": 9.48194026947021
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Zurich",
+    "city": "Canton of Zurich",
+    "name": "Flugplatz Hausen am Albis",
+    "icao": "LSZN",
+    "lat": 47.238602,
+    "lon": 8.51556
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Aargau",
+    "city": "Canton of Aargau",
+    "name": "Flugplatz Buttwil",
+    "icao": "LSZU",
+    "lat": 47.264702,
+    "lon": 8.3025
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of NeuchÃ¢tel",
+    "city": "Canton of NeuchÃ¢tel",
+    "name": "AÃ©rodrome de MÃ´tiers",
+    "icao": "LSTO",
+    "lat": 46.916698,
+    "lon": 6.615
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Berne",
+    "city": "Canton of Berne",
+    "name": "Flugplatz Zweisimmen",
+    "icao": "LSTZ",
+    "lat": 46.552502,
+    "lon": 7.38056
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Zurich",
+    "city": "Zurich",
+    "name": "DÃ¼bendorf Air Base",
+    "icao": "LSMD",
+    "lat": 47.398601532,
+    "lon": 8.648229599
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Valais",
+    "city": "Canton of Valais",
+    "name": "Muenster Aero Airport",
+    "icao": "LSPU",
+    "lat": 46.4803009033203,
+    "lon": 8.26333045959472
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Lucerne",
+    "city": "Lucerne",
+    "name": "Flugplatz BeromÃ¼nster",
+    "icao": "LSZO",
+    "lat": 47.189999,
+    "lon": 8.20472
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Jura",
+    "city": "Bressaucourt",
+    "name": "Bressaucourt Airport",
+    "icao": "LSZQ",
+    "lat": 47.392677,
+    "lon": 7.028648
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Fribourg",
+    "city": "Canton of Fribourg",
+    "name": "Payerne Air Base",
+    "icao": "LSMP",
+    "lat": 46.8432,
+    "lon": 6.91506004333
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Berne",
+    "city": "Canton of Berne",
+    "name": "Meiringen Airport",
+    "icao": "LSMM",
+    "lat": 46.7433013916015,
+    "lon": 8.10999965667724
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Berne",
+    "city": "Canton of Berne",
+    "name": "Courtelary Airport",
+    "icao": "LSZJ",
+    "lat": 47.1836013793945,
+    "lon": 7.09082984924316
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Ticino",
+    "city": "Ascona",
+    "name": "Ascona Airport",
+    "icao": "LSZD",
+    "lat": 46.1577987671,
+    "lon": 8.78194046021
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Ticino",
+    "city": "Lodrino",
+    "name": "Lodrino Air Base",
+    "icao": "LSML",
+    "lat": 46.2958984375,
+    "lon": 8.99213027954101
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Thurgau",
+    "city": "Lommis",
+    "name": "Lommis Airfield",
+    "icao": "LSZT",
+    "lat": 47.524399,
+    "lon": 9.00306
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Jura",
+    "city": "Porrentruy",
+    "name": "Porrentruy Airport",
+    "icao": "LSZY",
+    "lat": 47.4105987549,
+    "lon": 7.05167007446
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Schaffhausen",
+    "city": "Canton of Schaffhausen",
+    "name": "Schaffhausen Airport",
+    "icao": "LSPF",
+    "lat": 47.6906013488769,
+    "lon": 8.52694034576416
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Grisons",
+    "city": "Canton of Grisons",
+    "name": "San Vittore Airport",
+    "icao": "LSXV",
+    "lat": 46.2342,
+    "lon": 9.09417
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Berne",
+    "city": "Lauterbrunnen",
+    "name": "Lauterbrunnen Heliport",
+    "icao": "LSXL",
+    "lat": 46.585497,
+    "lon": 7.913509
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Solothurn",
+    "city": "Canton of Solothurn",
+    "name": "Flugplatz Olten",
+    "icao": "LSPO",
+    "lat": 47.34131,
+    "lon": 7.88494
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Thurgau",
+    "city": "Canton of Thurgau",
+    "name": "Sportflugplatz Sitterdorf",
+    "icao": "LSZV",
+    "lat": 47.5089,
+    "lon": 9.26278
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Zurich",
+    "city": "Winterthur",
+    "name": "Winterthur Airport",
+    "icao": "LSPH",
+    "lat": 47.5149993896,
+    "lon": 8.77194023132
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Valais",
+    "city": "Collombey-Muraz",
+    "name": "Collombey-Muraz Heliport",
+    "icao": "LSHC",
+    "lat": 46.268501,
+    "lon": 6.959773
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Berne",
+    "city": "Gsteigwiler",
+    "name": "Gsteigwiler Heliport",
+    "icao": "LSXG",
+    "lat": 46.647697,
+    "lon": 7.878219
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Aargau",
+    "city": "Holziken",
+    "name": "Holziken Heliport",
+    "icao": "LSXH",
+    "lat": 47.3143234252929,
+    "lon": 8.02651405334472
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Vaud",
+    "city": "Leysin",
+    "name": "Leysin  Heliport",
+    "icao": "LSXY",
+    "lat": 46.3418006896972,
+    "lon": 7.02040004730224
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Ticino",
+    "city": "Lodrino",
+    "name": "Lodrino Heliport",
+    "icao": "LSXR",
+    "lat": 46.2901725769043,
+    "lon": 8.99292755126953
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Valais",
+    "city": "Obergoms",
+    "name": "Ulrichen Air Base",
+    "icao": "CH-0007",
+    "lat": 46.50193,
+    "lon": 8.299415
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Lucerne",
+    "city": "Pfaffnau",
+    "name": "Pfaffnau Heliport",
+    "icao": "LSXP",
+    "lat": 47.2351303100585,
+    "lon": 7.91000986099243
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Grisons",
+    "city": "Silvaplana",
+    "name": "Helipad Station Corvatsch",
+    "icao": "CH-0006",
+    "lat": 46.417793,
+    "lon": 9.820909
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Grisons",
+    "city": "St Moritz",
+    "name": "Helipad Klinik Gut (St. Moritz)",
+    "icao": "CH-0005",
+    "lat": 46.4965,
+    "lon": 9.83847
+  },
+  {
+    "country": "Switzerland",
+    "state": "Canton of Aargau",
+    "city": "WÃ¼renlingen",
+    "name": "WÃ¼renlingen Heliport",
+    "icao": "LSXW",
+    "lat": 47.5356140136718,
+    "lon": 8.24610519409179
+  }
+]

@@ -1,0 +1,1937 @@
+[
+  {
+    "country": "China",
+    "state": "Guangdong Province",
+    "city": "Shenzhen",
+    "name": "Shenzhen Bao'an International Airport",
+    "icao": "ZGSZ",
+    "lat": 22.6392993927001,
+    "lon": 113.810997009277
+  },
+  {
+    "country": "China",
+    "state": "Fujian Province",
+    "city": "Xiamen",
+    "name": "Xiamen Gaoqi International Airport",
+    "icao": "ZSAM",
+    "lat": 24.5440006256103,
+    "lon": 118.12799835205
+  },
+  {
+    "country": "China",
+    "state": "Hubei Province",
+    "city": "Wuhan",
+    "name": "Wuhan Tianhe International Airport",
+    "icao": "ZHHH",
+    "lat": 30.7838,
+    "lon": 114.208
+  },
+  {
+    "country": "China",
+    "state": "Shandong Province",
+    "city": "Qingdao",
+    "name": "Liuting Airport",
+    "icao": "ZSQD",
+    "lat": 36.2661018372,
+    "lon": 120.374000549
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Dalian",
+    "name": "Zhoushuizi Airport",
+    "icao": "ZYTL",
+    "lat": 38.9656982421875,
+    "lon": 121.539001464843
+  },
+  {
+    "country": "China",
+    "state": "Tianjin Municipality",
+    "city": "Tianjin",
+    "name": "Tianjin Binhai International Airport",
+    "icao": "ZBTJ",
+    "lat": 39.1244010924999,
+    "lon": 117.346000671
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Nanjing",
+    "name": "Nanjing Lukou Airport",
+    "icao": "ZSNJ",
+    "lat": 31.7420005798339,
+    "lon": 118.861999511718
+  },
+  {
+    "country": "China",
+    "state": "Henan Province",
+    "city": "Zhengzhou",
+    "name": "Zhengzhou Xinzheng International Airport",
+    "icao": "ZHCC",
+    "lat": 34.5196990966999,
+    "lon": 113.841003418
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Harbin",
+    "name": "Taiping Airport",
+    "icao": "ZYHB",
+    "lat": 45.6234016418457,
+    "lon": 126.25
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Shenyang",
+    "name": "Taoxian Airport",
+    "icao": "ZYTX",
+    "lat": 41.6398010253906,
+    "lon": 123.483001708984
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "ÃœrÃ¼mqi",
+    "name": "ÃœrÃ¼mqi Diwopu International Airport",
+    "icao": "ZWWW",
+    "lat": 43.9071006774902,
+    "lon": 87.4741973876953
+  },
+  {
+    "country": "China",
+    "state": "Fujian Province",
+    "city": "Fuzhou",
+    "name": "Fuzhou Changle International Airport",
+    "icao": "ZSFZ",
+    "lat": 25.9351005554199,
+    "lon": 119.66300201416
+  },
+  {
+    "country": "China",
+    "state": "Hainan Province",
+    "city": "Sanya",
+    "name": "Sanya Phoenix International Airport",
+    "icao": "ZJSY",
+    "lat": 18.302900314331,
+    "lon": 109.412002563476
+  },
+  {
+    "country": "China",
+    "state": "Tibet Autonomous Region",
+    "city": "Lhasa",
+    "name": "Lhasa Gonggar Airport",
+    "icao": "ZULS",
+    "lat": 29.2978000641,
+    "lon": 90.9119033813
+  },
+  {
+    "country": "China",
+    "state": "Anhui Province",
+    "city": "Huangshan",
+    "name": "Tunxi International Airport",
+    "icao": "ZSTX",
+    "lat": 29.733299255371,
+    "lon": 118.255996704101
+  },
+  {
+    "country": "China",
+    "state": "Guangdong Province",
+    "city": "Zhuhai",
+    "name": "Zhuhai Jinwan Airport",
+    "icao": "ZGSD",
+    "lat": 22.006399,
+    "lon": 113.375999
+  },
+  {
+    "country": "China",
+    "state": "Jilin Province",
+    "city": "Changchun",
+    "name": "Longjia Airport",
+    "icao": "ZYCC",
+    "lat": 43.9962005615,
+    "lon": 125.684997559
+  },
+  {
+    "country": "China",
+    "state": "Anhui Province",
+    "city": "Hefei",
+    "name": "Hefei Luogang International Airport",
+    "icao": "ZSOF",
+    "lat": 31.7800006866455,
+    "lon": 117.297996520996
+  },
+  {
+    "country": "China",
+    "state": "Zhejiang Province",
+    "city": "Wenzhou",
+    "name": "Wenzhou Longwan International Airport",
+    "icao": "ZSWZ",
+    "lat": 27.912201,
+    "lon": 120.851997
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Hohhot",
+    "name": "Baita International Airport",
+    "icao": "ZBHH",
+    "lat": 40.851398,
+    "lon": 111.823997
+  },
+  {
+    "country": "China",
+    "state": "Guizhou Province",
+    "city": "Guiyang",
+    "name": "Longdongbao Airport",
+    "icao": "ZUGY",
+    "lat": 26.5384998321533,
+    "lon": 106.801002502441
+  },
+  {
+    "country": "China",
+    "state": "Hubei Province",
+    "city": "Yichang",
+    "name": "Yichang Sanxia Airport",
+    "icao": "ZHYC",
+    "lat": 30.55655,
+    "lon": 111.479988
+  },
+  {
+    "country": "China",
+    "state": "Shaanxi Province",
+    "city": "Xi'an",
+    "name": "Xi'an Xiguan Airport",
+    "icao": "ZLSN",
+    "lat": 34.376701,
+    "lon": 109.120003
+  },
+  {
+    "country": "China",
+    "state": "Guangxi Autonomous Region",
+    "city": "Nanning",
+    "name": "Nanning Wuxu Airport",
+    "icao": "ZGNN",
+    "lat": 22.608299255371,
+    "lon": 108.171997070312
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Baotou",
+    "name": "Baotou Airport",
+    "icao": "ZBOW",
+    "lat": 40.560001373291,
+    "lon": 109.997001647949
+  },
+  {
+    "country": "China",
+    "state": "Zhejiang Province",
+    "city": "Huangyan",
+    "name": "Huangyan Luqiao Airport",
+    "icao": "ZSLQ",
+    "lat": 28.5622005462646,
+    "lon": 121.429000854492
+  },
+  {
+    "country": "China",
+    "state": "Qinghai Province",
+    "city": "Xining",
+    "name": "Xining Caojiabu Airport",
+    "icao": "ZLXN",
+    "lat": 36.5275,
+    "lon": 102.042999
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Changzhou",
+    "name": "Changzhou Benniu Airport",
+    "icao": "ZSCG",
+    "lat": 31.919701,
+    "lon": 119.778999
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Nantong",
+    "name": "Nantong Airport",
+    "icao": "CN-NTG",
+    "lat": 32.0708007812,
+    "lon": 120.975997925
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Xiaguan",
+    "name": "Dali Airport",
+    "icao": "ZPDL",
+    "lat": 25.649401,
+    "lon": 100.319
+  },
+  {
+    "country": "China",
+    "state": "Jiangxi Province",
+    "city": "Ji'an",
+    "name": "Jinggangshan Airport",
+    "icao": "CN-0081",
+    "lat": 26.8568992614999,
+    "lon": 114.736999512
+  },
+  {
+    "country": "China",
+    "state": "Shaanxi Province",
+    "city": "Yuncheng",
+    "name": "Yuncheng Guangong Airport",
+    "icao": "ZBYC",
+    "lat": 35.116391,
+    "lon": 111.031388889
+  },
+  {
+    "country": "China",
+    "state": "Hunan Province",
+    "city": "Changsha",
+    "name": "Changsha Huanghua International Airport",
+    "icao": "ZGHA",
+    "lat": 28.1891994475999,
+    "lon": 113.220001221
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Jinghong",
+    "name": "Xishuangbanna Gasa Airport",
+    "icao": "ZPJH",
+    "lat": 21.9738998413085,
+    "lon": 100.76000213623
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Lianyungang",
+    "name": "Lianyungang Airport",
+    "icao": "ZSLG",
+    "lat": 34.571667,
+    "lon": 118.873611
+  },
+  {
+    "country": "China",
+    "state": "Guangdong Province",
+    "city": "Meixian",
+    "name": "Meixian Airport",
+    "icao": "ZGMX",
+    "lat": 24.3500003814697,
+    "lon": 116.133003234863
+  },
+  {
+    "country": "China",
+    "state": "Guangdong Province",
+    "city": "Shantou",
+    "name": "Jieyang Chaoshan International Airport",
+    "icao": "ZGOW",
+    "lat": 23.552,
+    "lon": 116.5033
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Xuzhou",
+    "name": "Xuzhou Guanyin Airport",
+    "icao": "ZSXZ",
+    "lat": 34.059056,
+    "lon": 117.555278
+  },
+  {
+    "country": "China",
+    "state": "Zhejiang Province",
+    "city": "Yiwu",
+    "name": "Yiwu Airport",
+    "icao": "ZSYW",
+    "lat": 29.3446998596,
+    "lon": 120.03199768100001
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Hami",
+    "name": "Hami Airport",
+    "icao": "ZWHM",
+    "lat": 42.8414,
+    "lon": 93.669197
+  },
+  {
+    "country": "China",
+    "state": "Guangxi Autonomous Region",
+    "city": "Wuzhou",
+    "name": "Wuzhou Changzhoudao Airport",
+    "icao": "ZGWZ",
+    "lat": 23.456699,
+    "lon": 111.248001
+  },
+  {
+    "country": "China",
+    "state": "Shandong Province",
+    "city": "Shandong Province",
+    "name": "Qingdao-Cangkou Air Base",
+    "icao": "CN-0100",
+    "lat": 36.1591987609863,
+    "lon": 120.391998291015
+  },
+  {
+    "country": "China",
+    "state": "Zhejiang Province",
+    "city": "Zhejiang Province",
+    "name": "Ningbo Zhangqiao Air Base",
+    "icao": "CN-0165",
+    "lat": 29.9228000640869,
+    "lon": 121.573997497558
+  },
+  {
+    "country": "China",
+    "state": "Hebei Province",
+    "city": "Beijing / Langfang",
+    "name": "Beijing Daxing International Airport",
+    "icao": "ZBAD",
+    "lat": 39.509945,
+    "lon": 116.41092
+  },
+  {
+    "country": "China",
+    "state": "Fuyang",
+    "city": "Fuyang",
+    "name": "Fuyang Xiguan Airport",
+    "icao": "ZSFY",
+    "lat": 32.882157,
+    "lon": 115.734364
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Kunming",
+    "name": "Kunming Wujiaba International Airport",
+    "icao": "CN-0032",
+    "lat": 24.9924,
+    "lon": 102.7435
+  },
+  {
+    "country": "China",
+    "state": "Gansu Province",
+    "city": "Xiahe",
+    "name": "Gannan Xiahe Airport",
+    "icao": "ZLXH",
+    "lat": 34.8105,
+    "lon": 102.6447
+  },
+  {
+    "country": "China",
+    "state": "Jiangxi Province",
+    "city": "Yichun",
+    "name": "Yichun Mingyueshan Airport",
+    "icao": "ZSYC",
+    "lat": 27.8025,
+    "lon": 114.3062
+  },
+  {
+    "country": "China",
+    "state": "Qinghai Province",
+    "city": "Yushu",
+    "name": "Yushu Batang Airport",
+    "icao": "ZYLS",
+    "lat": 32.8363888889,
+    "lon": 97.0363888889
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Hailar",
+    "name": "Hulunbuir Hailar Airport",
+    "icao": "ZBLA",
+    "lat": 49.205002,
+    "lon": 119.824997
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Aksu",
+    "name": "Aksu Airport",
+    "icao": "ZWAK",
+    "lat": 41.262501,
+    "lon": 80.291702
+  },
+  {
+    "country": "China",
+    "state": "Gansu Province",
+    "city": "Dunhuang",
+    "name": "Dunhuang Airport",
+    "icao": "ZLDH",
+    "lat": 40.1610984802246,
+    "lon": 94.8091964721679
+  },
+  {
+    "country": "China",
+    "state": "Sichuan Province",
+    "city": "Guangyuan",
+    "name": "Guangyuan Airport",
+    "icao": "ZUGU",
+    "lat": 32.3911018371582,
+    "lon": 105.702003479003
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Jinzhou",
+    "name": "Jinzhou Airport",
+    "icao": "ZYJZ",
+    "lat": 41.1013984680175,
+    "lon": 121.06199645996
+  },
+  {
+    "country": "China",
+    "state": "Sichuan Province",
+    "city": "Mianyang",
+    "name": "Mianyang Airport",
+    "icao": "ZUMY",
+    "lat": 31.4281005859375,
+    "lon": 104.740997314453
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Mudanjiang",
+    "name": "Mudanjiang Hailang International Airport",
+    "icao": "ZYMD",
+    "lat": 44.5241012573,
+    "lon": 129.569000244
+  },
+  {
+    "country": "China",
+    "state": "Tibet Autonomous Region",
+    "city": "Nyingchi",
+    "name": "Nyingchi Airport",
+    "icao": "ZUNZ",
+    "lat": 29.3033008575439,
+    "lon": 94.3352966308593
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Qiqihar",
+    "name": "Qiqihar Sanjiazi Airport",
+    "icao": "ZYQQ",
+    "lat": 47.2396011352539,
+    "lon": 123.917999267578
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Tongliao",
+    "name": "Tongliao Airport",
+    "icao": "ZBTL",
+    "lat": 43.556702,
+    "lon": 122.199997
+  },
+  {
+    "country": "China",
+    "state": "Jilin Province",
+    "city": "Yanji",
+    "name": "Yanji Chaoyangchuan Airport",
+    "icao": "ZYYJ",
+    "lat": 42.8828010559,
+    "lon": 129.451004028
+  },
+  {
+    "country": "China",
+    "state": "Hunan Province",
+    "city": "Changde",
+    "name": "Changde Airport",
+    "icao": "ZGCD",
+    "lat": 28.9188995361,
+    "lon": 111.63999939
+  },
+  {
+    "country": "China",
+    "state": "Jiangxi Province",
+    "city": "Ganzhou",
+    "name": "Ganzhou Airport",
+    "icao": "ZSGZ",
+    "lat": 25.853333,
+    "lon": 114.778889
+  },
+  {
+    "country": "China",
+    "state": "Jiangxi Province",
+    "city": "Jingdezhen",
+    "name": "Jingdezhen Airport",
+    "icao": "ZSJD",
+    "lat": 29.3386001587,
+    "lon": 117.176002502
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Karamay",
+    "name": "Karamay Airport",
+    "icao": "ZWKM",
+    "lat": 45.46655,
+    "lon": 84.9527
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Kuqa",
+    "name": "Kuqa Airport",
+    "icao": "ZWKC",
+    "lat": 41.677856,
+    "lon": 82.872917
+  },
+  {
+    "country": "China",
+    "state": "Shandong Province",
+    "city": "Linyi",
+    "name": "Shubuling Airport",
+    "icao": "ZSLY",
+    "lat": 35.046100616455,
+    "lon": 118.412002563476
+  },
+  {
+    "country": "China",
+    "state": "Sichuan Province",
+    "city": "Luzhou",
+    "name": "Luzhou Lantian Airport",
+    "icao": "ZULZ",
+    "lat": 28.8522,
+    "lon": 105.392998
+  },
+  {
+    "country": "China",
+    "state": "Sichuan Province",
+    "city": "Nanchong",
+    "name": "Nanchong Gaoping Airport",
+    "icao": "ZUNC",
+    "lat": 30.79545,
+    "lon": 106.1626
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Pu'er",
+    "name": "Pu'er Simao Airport",
+    "icao": "ZPSM",
+    "lat": 22.793301,
+    "lon": 100.959
+  },
+  {
+    "country": "China",
+    "state": "Gansu Province",
+    "city": "Qingyang",
+    "name": "Qingyang Airport",
+    "icao": "ZLQY",
+    "lat": 35.799702,
+    "lon": 107.602997
+  },
+  {
+    "country": "China",
+    "state": "Zhejiang Province",
+    "city": "Quzhou",
+    "name": "Quzhou Airport",
+    "icao": "ZSJU",
+    "lat": 28.965799,
+    "lon": 118.899002
+  },
+  {
+    "country": "China",
+    "state": "Chongqing Municipality",
+    "city": "Wanxian",
+    "name": "Wanxian Airport",
+    "icao": "ZUWX",
+    "lat": 30.8017,
+    "lon": 108.433
+  },
+  {
+    "country": "China",
+    "state": "Shandong Province",
+    "city": "Weifang",
+    "name": "Weifang Airport",
+    "icao": "ZSWF",
+    "lat": 36.646702,
+    "lon": 119.119003
+  },
+  {
+    "country": "China",
+    "state": "Shaanxi Province",
+    "city": "Yan'an",
+    "name": "Yan'an Ershilipu Airport",
+    "icao": "ZLYA",
+    "lat": 36.636902,
+    "lon": 109.554001
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Zhaotong",
+    "name": "Zhaotong Airport",
+    "icao": "ZPZT",
+    "lat": 27.3255996704101,
+    "lon": 103.754997253417
+  },
+  {
+    "country": "China",
+    "state": "Gansu Province",
+    "city": "Jiayuguan",
+    "name": "Jiayuguan Airport",
+    "icao": "ZLJQ",
+    "lat": 39.856899,
+    "lon": 98.3414
+  },
+  {
+    "country": "China",
+    "state": "Anhui Province",
+    "city": "Anqing",
+    "name": "Anqing Tianzhushan Airport",
+    "icao": "ZSAQ",
+    "lat": 30.582199,
+    "lon": 117.050003
+  },
+  {
+    "country": "China",
+    "state": "Hubei Province",
+    "city": "Guanghua",
+    "name": "Guangzhou MR Air Base",
+    "icao": "ZHGH",
+    "lat": 32.3894004821777,
+    "lon": 111.694999694824
+  },
+  {
+    "country": "China",
+    "state": "Hunan Province",
+    "city": "Hengyang",
+    "name": "Hengyang Nanyue Airport",
+    "icao": "ZGHY",
+    "lat": 26.9053,
+    "lon": 112.627998
+  },
+  {
+    "country": "China",
+    "state": "Hebei Province",
+    "city": "Qinhuangdao",
+    "name": "Shanhaiguan Airport",
+    "icao": "ZBSH",
+    "lat": 39.968102,
+    "lon": 119.731003
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Rugao",
+    "name": "Rugao Air Base",
+    "icao": "ZSRG",
+    "lat": 32.257884979248,
+    "lon": 120.501655578613
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Shenyang",
+    "name": "Shenyang Dongta Airport",
+    "icao": "ZYYY",
+    "lat": 41.7844009399414,
+    "lon": 123.496002197265
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Suzhou",
+    "name": "Suzhou Guangfu Airport",
+    "icao": "ZSSZ",
+    "lat": 31.2631,
+    "lon": 120.401001
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Tacheng",
+    "name": "Tacheng Airport",
+    "icao": "ZWTC",
+    "lat": 46.6725006103515,
+    "lon": 83.3407974243164
+  },
+  {
+    "country": "China",
+    "state": "Guangdong Province",
+    "city": "Xingning",
+    "name": "Xingning Airport",
+    "icao": "ZGXN",
+    "lat": 24.1492,
+    "lon": 115.758003
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Liaoning Province",
+    "name": "Laohutun Air Base",
+    "icao": "CN-0003",
+    "lat": 39.6699981689453,
+    "lon": 121.765998840332
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Inner Mongolia Autonomous Region",
+    "name": "Hohhot Air Base",
+    "icao": "CN-0014",
+    "lat": 40.7372016906738,
+    "lon": 111.228996276855
+  },
+  {
+    "country": "China",
+    "state": "Hebei Province",
+    "city": "Hebei Province",
+    "name": "Tangshan Air Base",
+    "icao": "CN-0019",
+    "lat": 39.6563987731933,
+    "lon": 118.136001586914
+  },
+  {
+    "country": "China",
+    "state": "Tianjin Municipality",
+    "city": "Tianjin Municipality",
+    "name": "Yangcun Air Base",
+    "icao": "CN-0021",
+    "lat": 39.3732986450195,
+    "lon": 117.095001220703
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Yunnan Province",
+    "name": "Baoshan Yunduan Airport",
+    "icao": "CN-0027",
+    "lat": 25.053301,
+    "lon": 99.168297
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Yunnan Province",
+    "name": "Luliang Air Base",
+    "icao": "CN-0041",
+    "lat": 24.9883003234863,
+    "lon": 103.641998291015
+  },
+  {
+    "country": "China",
+    "state": "Sichuan Province",
+    "city": "Sichuan Province",
+    "name": "Qionglai Air Base",
+    "icao": "CN-0045",
+    "lat": 30.4899997711181,
+    "lon": 103.46499633789
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Yunnan Province",
+    "name": "Xiangyun Midu Air Base",
+    "icao": "CN-0049",
+    "lat": 25.4452991485595,
+    "lon": 100.735000610351
+  },
+  {
+    "country": "China",
+    "state": "Guangxi Autonomous Region",
+    "city": "Guangxi Autonomous Region",
+    "name": "Baihe Ning Ming Air Base",
+    "icao": "CN-0053",
+    "lat": 22.1205997467041,
+    "lon": 107.125
+  },
+  {
+    "country": "China",
+    "state": "Hainan Province",
+    "city": "Hainan Province",
+    "name": "Foluo Northeast Air Base",
+    "icao": "CN-0057",
+    "lat": 18.6921997070312,
+    "lon": 109.161003112792
+  },
+  {
+    "country": "China",
+    "state": "Guangxi Autonomous Region",
+    "city": "Guangxi Autonomous Region",
+    "name": "Guiping Mengshu Air Base",
+    "icao": "CN-0063",
+    "lat": 23.3307991027832,
+    "lon": 110.009002685546
+  },
+  {
+    "country": "China",
+    "state": "Hainan Province",
+    "city": "Hainan Province",
+    "name": "Jialaishi Air Base",
+    "icao": "CN-0069",
+    "lat": 19.6972007751464,
+    "lon": 109.725997924804
+  },
+  {
+    "country": "China",
+    "state": "Hainan Province",
+    "city": "Hainan Province",
+    "name": "Lingshui Air Base",
+    "icao": "CN-0072",
+    "lat": 18.494400024414,
+    "lon": 109.987998962402
+  },
+  {
+    "country": "China",
+    "state": "Guangdong Province",
+    "city": "Guangdong Province",
+    "name": "Suixi Air Base",
+    "icao": "CN-0080",
+    "lat": 21.3957996368408,
+    "lon": 110.199996948242
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Jiangsu Province",
+    "name": "Baitabu Air Base",
+    "icao": "CN-0089",
+    "lat": 34.5713996887207,
+    "lon": 118.875
+  },
+  {
+    "country": "China",
+    "state": "Shandong Province",
+    "city": "Shandong Province",
+    "name": "Jiaozhou/Jiaocheng Air Base",
+    "icao": "CN-0092",
+    "lat": 36.3306007385253,
+    "lon": 120.024002075195
+  },
+  {
+    "country": "China",
+    "state": "Hebei Province",
+    "city": "Hebei Province",
+    "name": "Jiugucheng Air Base",
+    "icao": "CN-0094",
+    "lat": 37.4900016784668,
+    "lon": 116.11799621582
+  },
+  {
+    "country": "China",
+    "state": "Henan Province",
+    "city": "Henan Province",
+    "name": "Luyang Air Base",
+    "icao": "CN-0097",
+    "lat": 33.684700012207,
+    "lon": 112.890998840332
+  },
+  {
+    "country": "China",
+    "state": "Shandong Province",
+    "city": "Shandong Province",
+    "name": "Wendeng Air Base",
+    "icao": "CN-0103",
+    "lat": 37.2647018432617,
+    "lon": 122.023002624511
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Jiangsu Province",
+    "name": "Xuzhou Daguozhang Air Base",
+    "icao": "CN-0105",
+    "lat": 34.0588989257812,
+    "lon": 117.557998657226
+  },
+  {
+    "country": "China",
+    "state": "Shandong Province",
+    "city": "Shandong Province",
+    "name": "Yidu Air Base",
+    "icao": "CN-0109",
+    "lat": 36.5914001464843,
+    "lon": 118.527000427246
+  },
+  {
+    "country": "China",
+    "state": "Shaanxi Province",
+    "city": "Shaanxi Province",
+    "name": "Baoji Air Base",
+    "icao": "CN-0114",
+    "lat": 34.5317001342773,
+    "lon": 107.47200012207
+  },
+  {
+    "country": "China",
+    "state": "Gansu Province",
+    "city": "Gansu Province",
+    "name": "Ljtao Air Base",
+    "icao": "CN-0125",
+    "lat": 35.3083000183105,
+    "lon": 103.835998535156
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Xinjiang Autonomous Region",
+    "name": "Shihezi Airfield",
+    "icao": "CN-0129",
+    "lat": 44.3328018188476,
+    "lon": 86.11669921875
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Xinjiang Autonomous Region",
+    "name": "Uxxaktal Air Base",
+    "icao": "CN-0133",
+    "lat": 42.1814002990722,
+    "lon": 87.1881027221679
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Xinjiang Autonomous Region",
+    "name": "Wulumuqi Air Base",
+    "icao": "CN-0135",
+    "lat": 43.9502983093,
+    "lon": 87.0785980225
+  },
+  {
+    "country": "China",
+    "state": "Shaanxi Province",
+    "city": "Shaanxi Province",
+    "name": "Xian Air Base",
+    "icao": "CN-0137",
+    "lat": 34.1539001464843,
+    "lon": 108.598999023437
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Xinjiang Autonomous Region",
+    "name": "Yaerbashi Test Range",
+    "icao": "CN-0139",
+    "lat": 43.0772018432617,
+    "lon": 92.8080978393554
+  },
+  {
+    "country": "China",
+    "state": "Zhejiang Province",
+    "city": "Zhejiang Province",
+    "name": "Changzing Air Base",
+    "icao": "CN-0145",
+    "lat": 30.968599319458,
+    "lon": 119.731002807617
+  },
+  {
+    "country": "China",
+    "state": "Fujian Province",
+    "city": "Fujian Province",
+    "name": "Huian Air Base",
+    "icao": "CN-0152",
+    "lat": 25.0261001586914,
+    "lon": 118.806999206542
+  },
+  {
+    "country": "China",
+    "state": "Fujian Province",
+    "city": "Fujian Province",
+    "name": "Longtian/Lung-T'ien Air Base",
+    "icao": "CN-0158",
+    "lat": 25.5727996826171,
+    "lon": 119.459999084472
+  },
+  {
+    "country": "China",
+    "state": "Jiangxi Province",
+    "city": "Jiangxi Province",
+    "name": "Mahuiling Air Base",
+    "icao": "CN-0161",
+    "lat": 29.4771995544433,
+    "lon": 115.802001953125
+  },
+  {
+    "country": "China",
+    "state": "Fujian Province",
+    "city": "Fujian Province",
+    "name": "Zhangzhou/Chang-Chou Airfield",
+    "icao": "CN-0183",
+    "lat": 24.5625,
+    "lon": 117.653999328613
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Inner Mongolia Autonomous Region",
+    "name": "Chifeng Air Base",
+    "icao": "CN-0187",
+    "lat": 42.1589012145996,
+    "lon": 118.842002868652
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Liaoning Province",
+    "name": "Fuxin Air Base",
+    "icao": "CN-0191",
+    "lat": 42.0788993835449,
+    "lon": 121.662002563476
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Heilongjiang Province",
+    "name": "Harbin Air Base",
+    "icao": "CN-0193",
+    "lat": 45.5974998473999,
+    "lon": 126.658996582
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Heilongjiang Province",
+    "name": "Lalin Air Base",
+    "icao": "CN-0198",
+    "lat": 45.2593994140625,
+    "lon": 126.894996643066
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Heilongjiang Province",
+    "name": "Shuangcheng Air Base",
+    "icao": "CN-0207",
+    "lat": 45.4077987670898,
+    "lon": 126.31900024414
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Liaoning Province",
+    "name": "Suizhong Air Base",
+    "icao": "CN-0209",
+    "lat": 40.298900604248,
+    "lon": 120.359001159667
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Liaoning Province",
+    "name": "Yingchenzi/Xinzhaizi-Dalian Air Base",
+    "icao": "CN-0212",
+    "lat": 39.010601,
+    "lon": 121.389999
+  },
+  {
+    "country": "China",
+    "state": "Guizhou Province",
+    "city": "Guizhou Province",
+    "name": "Tongren Fenghuang Airport",
+    "icao": "ZUTR",
+    "lat": 27.883333,
+    "lon": 109.308889
+  },
+  {
+    "country": "China",
+    "state": "Hainan Province",
+    "city": "Hainan Province",
+    "name": "Fiery Cross Reef Airfield",
+    "icao": "CN-0029",
+    "lat": 9.552789,
+    "lon": 112.889554
+  },
+  {
+    "country": "China",
+    "state": "Subi Reef Helipad",
+    "city": "Subi Reef Helipad",
+    "name": "Subi Reef Helipad",
+    "icao": "CN-0031",
+    "lat": 10.913002,
+    "lon": 114.061933
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Inner Mongolia Autonomous Region",
+    "name": "Manzhouli Xijiao Airport",
+    "icao": "ZBMZ",
+    "lat": 49.566667,
+    "lon": 117.33
+  },
+  {
+    "country": "China",
+    "state": "Guodu air base",
+    "city": "Guodu air base",
+    "name": "Guodu air base",
+    "icao": "CN-0083",
+    "lat": 36.001741,
+    "lon": 117.63201
+  },
+  {
+    "country": "China",
+    "state": "(unassigned)",
+    "city": "Anshun",
+    "name": "Anshun Huangguoshu Airport",
+    "icao": "ZUAS",
+    "lat": 26.2605555556,
+    "lon": 105.873333333
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Badanjilin",
+    "name": "Alxa Right Banner Badanjilin Airport",
+    "icao": "RHT",
+    "lat": 39.225,
+    "lon": 101.546
+  },
+  {
+    "country": "China",
+    "state": "Guangxi Autonomous Region",
+    "city": "Baise",
+    "name": "Baise Youjiang Airport",
+    "icao": "CN-0082",
+    "lat": 23.7206001282,
+    "lon": 106.959999084
+  },
+  {
+    "country": "China",
+    "state": "Beijing Municipality",
+    "city": "Beijing",
+    "name": "Beijing Tongxian Air Base",
+    "icao": "CN-0007",
+    "lat": 39.8111114501953,
+    "lon": 116.708335876464
+  },
+  {
+    "country": "China",
+    "state": "Anhui Province",
+    "city": "Bengbu",
+    "name": "Bengbu Airport",
+    "icao": "ZSBB",
+    "lat": 32.8477333333,
+    "lon": 117.320244444
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Bole",
+    "name": "Alashankou Bole (Bortala) airport",
+    "icao": "ZWAX",
+    "lat": 44.895,
+    "lon": 82.3
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Burqin",
+    "name": "Kanas Airport",
+    "icao": "ZWKN",
+    "lat": 48.2223,
+    "lon": 86.9959
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Cangyuan Va Autonomous County",
+    "name": "Cangyuan Washan Airport",
+    "icao": "ZPCW",
+    "lat": 23.273889,
+    "lon": 99.373611
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Changhai",
+    "name": "Changhai Airport",
+    "icao": "ZYCH",
+    "lat": 39.2666666667,
+    "lon": 122.666944444
+  },
+  {
+    "country": "China",
+    "state": "Hunan Province",
+    "city": "Changsha",
+    "name": "Changsha Datuopu Airport/AFB",
+    "icao": "CN-0055",
+    "lat": 28.0688991547,
+    "lon": 112.958000183
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Chaor",
+    "name": "Chaor Airstrip",
+    "icao": "CN-0099",
+    "lat": 48.425954,
+    "lon": 121.387768
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Chenggong",
+    "name": "Chenggong Airport",
+    "icao": "CN-0087",
+    "lat": 24.846346,
+    "lon": 102.801256
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Chifeng",
+    "name": "Ar Horqin Airport",
+    "icao": "AEQ",
+    "lat": 43.87042,
+    "lon": 120.15958
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Dandong",
+    "name": "Donggang Airport",
+    "icao": "CN-0058",
+    "lat": 39.948964,
+    "lon": 124.145162
+  },
+  {
+    "country": "China",
+    "state": "Shaanxi Province",
+    "city": "Danfeng",
+    "name": "Danfeng Airport",
+    "icao": "CN-0073",
+    "lat": 33.708533,
+    "lon": 110.249284
+  },
+  {
+    "country": "China",
+    "state": "Hubei Province",
+    "city": "Dangyang",
+    "name": "Old Dangyang Airport",
+    "icao": "CN-0042",
+    "lat": 30.823,
+    "lon": 111.8121
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Dapu",
+    "name": "Dabao Airbase",
+    "icao": "CN-0088",
+    "lat": 40.5402,
+    "lon": 124.2295
+  },
+  {
+    "country": "China",
+    "state": "Qinghai Province",
+    "city": "Delingha",
+    "name": "Delingha Airport",
+    "icao": "ZLDL",
+    "lat": 37.125286,
+    "lon": 97.268658
+  },
+  {
+    "country": "China",
+    "state": "Hainan Province",
+    "city": "Dongyu Island",
+    "name": "BFA International Convention Center Heliport",
+    "icao": "CN-0038",
+    "lat": 19.140251,
+    "lon": 110.5632
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Erenhot",
+    "name": "Erenhot Saiwusu International Airport",
+    "icao": "ZBER",
+    "lat": 43.4225,
+    "lon": 112.096667
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Fuxin",
+    "name": "Fuxin Airport",
+    "icao": "ZYFX",
+    "lat": 42.069014,
+    "lon": 121.718122
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Fuyun",
+    "name": "Fuyun Koktokay Airport",
+    "icao": "ZWFY",
+    "lat": 46.804169,
+    "lon": 89.512006
+  },
+  {
+    "country": "China",
+    "state": "Sichuan Province",
+    "city": "Garze County",
+    "name": "Garze Gesar Airport",
+    "icao": "ZUGZ",
+    "lat": 31.7575,
+    "lon": 99.554167
+  },
+  {
+    "country": "China",
+    "state": "Qinghai Province",
+    "city": "Golog",
+    "name": "Golog Maqin Airport",
+    "icao": "GMQ",
+    "lat": 34.418066,
+    "lon": 100.301144
+  },
+  {
+    "country": "China",
+    "state": "Guizhou Province",
+    "city": "Guiyang",
+    "name": "Guiyang Air Base",
+    "icao": "CN-0066",
+    "lat": 26.40994,
+    "lon": 106.532264
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Hailar",
+    "name": "Hailar Southwest Airport",
+    "icao": "CN-0098",
+    "lat": 49.164182,
+    "lon": 119.693685
+  },
+  {
+    "country": "China",
+    "state": "Shaanxi Province",
+    "city": "Hanzhong",
+    "name": "Hanzhong Xiguan Airport",
+    "icao": "CN-0065",
+    "lat": 33.063599,
+    "lon": 107.008003
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Harbin",
+    "name": "Shuang Yu Shu Airfield",
+    "icao": "CN-0009",
+    "lat": 45.66,
+    "lon": 126.7
+  },
+  {
+    "country": "China",
+    "state": "Guangxi Autonomous Region",
+    "city": "Hechi",
+    "name": "Hechi Jinchengjiang Airport",
+    "icao": "ZGHC",
+    "lat": 24.805,
+    "lon": 107.6997
+  },
+  {
+    "country": "China",
+    "state": "Hunan Province",
+    "city": "Huaihua",
+    "name": "Zhijiang Airport",
+    "icao": "ZGCJ",
+    "lat": 27.4411111111,
+    "lon": 109.7
+  },
+  {
+    "country": "China",
+    "state": "Guangdong Province",
+    "city": "Huizhou",
+    "name": "Huizhou Airport",
+    "icao": "CN-0068",
+    "lat": 23.0499992371,
+    "lon": 114.599998474
+  },
+  {
+    "country": "China",
+    "state": "Zhejiang Province",
+    "city": "Huzhou",
+    "name": "Deqing Moganshan Airport",
+    "icao": "DEQ",
+    "lat": 30.504264,
+    "lon": 120.107388
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Jinxi",
+    "name": "Jinxi Air Base",
+    "icao": "CN-0194",
+    "lat": 40.7491989135742,
+    "lon": 120.878997802734
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Jixi",
+    "name": "Jixi Xingkaihu Airport",
+    "icao": "ZYJX",
+    "lat": 45.293,
+    "lon": 131.193
+  },
+  {
+    "country": "China",
+    "state": "Sichuan Province",
+    "city": "Kangding",
+    "name": "Kangding Airport",
+    "icao": "ZUKD",
+    "lat": 30.142464,
+    "lon": 101.73872
+  },
+  {
+    "country": "China",
+    "state": "Gansu Province",
+    "city": "Lanzhou",
+    "name": "Lanzhou Air Base",
+    "icao": "CN-0123",
+    "lat": 35.9178009033203,
+    "lon": 104.218002319335
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Liaoyang",
+    "name": "Liaoyang Airbase",
+    "icao": "ZYLY",
+    "lat": 41.277976,
+    "lon": 123.078729
+  },
+  {
+    "country": "China",
+    "state": "Guizhou Province",
+    "city": "Libo County",
+    "name": "Libo Airport",
+    "icao": "ZULB",
+    "lat": 25.4525,
+    "lon": 107.961667
+  },
+  {
+    "country": "China",
+    "state": "Shanxi Province",
+    "city": "Linfen",
+    "name": "Linfen Qiaoli Airport",
+    "icao": "ZBLF",
+    "lat": 36.132629,
+    "lon": 111.641236
+  },
+  {
+    "country": "China",
+    "state": "Gansu Province",
+    "city": "Longnan",
+    "name": "Longnan Chengzhou Airport",
+    "icao": "ZLLN",
+    "lat": 33.788,
+    "lon": 105.797
+  },
+  {
+    "country": "China",
+    "state": "Fujian Province",
+    "city": "Longyan",
+    "name": "Longyan Guanzhishan Airport",
+    "icao": "ZSLD",
+    "lat": 25.6746997833,
+    "lon": 116.747001648
+  },
+  {
+    "country": "China",
+    "state": "Guangdong Province",
+    "city": "Louding City",
+    "name": "Luoding Sulong Airport.",
+    "icao": "ZGLD",
+    "lat": 22.711169,
+    "lon": 111.60134
+  },
+  {
+    "country": "China",
+    "state": "Qinghai Province",
+    "city": "Mengnai",
+    "name": "Huatugou Airport",
+    "icao": "ZLHX",
+    "lat": 38.201984,
+    "lon": 90.841495
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Mohe",
+    "name": "Gu-Lian Airport",
+    "icao": "ZYMH",
+    "lat": 52.9127777777999,
+    "lon": 122.43
+  },
+  {
+    "country": "China",
+    "state": "Jiangxi Province",
+    "city": "Nanchang",
+    "name": "Nanchang Xiangtang Air Base",
+    "icao": "CN-0163",
+    "lat": 28.420799255371,
+    "lon": 115.924003601074
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Ninglang",
+    "name": "Ninglang Luguhu Airport",
+    "icao": "NLH",
+    "lat": 27.5403,
+    "lon": 100.7593
+  },
+  {
+    "country": "China",
+    "state": "Chongqing Municipality",
+    "city": "Qianjiang",
+    "name": "Qianjiang Wulingshan Airport",
+    "icao": "JIQ",
+    "lat": 29.5133333333,
+    "lon": 108.831111111
+  },
+  {
+    "country": "China",
+    "state": "Hainan Province",
+    "city": "Qionghai",
+    "name": "Qionghai Bo'ao Airport",
+    "icao": "ZJQH",
+    "lat": 19.13824,
+    "lon": 110.454775
+  },
+  {
+    "country": "China",
+    "state": "Fujian Province",
+    "city": "Sanming",
+    "name": "Shaxian Airport",
+    "icao": "SQJ",
+    "lat": 26.4263,
+    "lon": 117.8336
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Shache",
+    "name": "Yeerqiang Airport",
+    "icao": "ZWSC",
+    "lat": 38.281055,
+    "lon": 77.075192
+  },
+  {
+    "country": "China",
+    "state": "Shanghai Municipality",
+    "city": "Shanghai",
+    "name": "Shanghai Longhua Airport",
+    "icao": "CN-0171",
+    "lat": 31.166901,
+    "lon": 121.454002
+  },
+  {
+    "country": "China",
+    "state": "Zhejiang Province",
+    "city": "Shanghai",
+    "name": "Aurora Plaza Helipad",
+    "icao": "CN-0078",
+    "lat": 31.234386,
+    "lon": 121.499617
+  },
+  {
+    "country": "China",
+    "state": "Jiangxi Province",
+    "city": "Shangrao",
+    "name": "Shangrao Sanqingshan Airport",
+    "icao": "SQD",
+    "lat": 28.3797,
+    "lon": 117.9643
+  },
+  {
+    "country": "China",
+    "state": "Guangdong Province",
+    "city": "Shaoguan",
+    "name": "Shaoguan Guitou Airport",
+    "icao": "CN-0079",
+    "lat": 24.9785995483,
+    "lon": 113.42099762
+  },
+  {
+    "country": "China",
+    "state": "Liaoning Province",
+    "city": "Shenyang",
+    "name": "Shenyang Beiling Air Base",
+    "icao": "CN-0204",
+    "lat": 41.8708000183105,
+    "lon": 123.439002990722
+  },
+  {
+    "country": "China",
+    "state": "Xinjiang Autonomous Region",
+    "city": "Shihezi",
+    "name": "Huayuan Airport",
+    "icao": "ZGHU",
+    "lat": 44.2421,
+    "lon": 85.8905
+  },
+  {
+    "country": "China",
+    "state": "Tibet Autonomous Region",
+    "city": "Shiquanhe",
+    "name": "Ngari Gunsa Airport",
+    "icao": "ZUAL",
+    "lat": 32.1,
+    "lon": 80.0530555556
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Tahe",
+    "name": "Tahe Airport",
+    "icao": "ZYTH",
+    "lat": 52.2244444444,
+    "lon": 124.720222222
+  },
+  {
+    "country": "China",
+    "state": "Hebei Province",
+    "city": "Tangshan",
+    "name": "Tangshan SannÃ¼he Airport",
+    "icao": "CN-0005",
+    "lat": 39.7178001404,
+    "lon": 118.002624512
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Tengchong",
+    "name": "Tengchong Tuofeng Airport",
+    "icao": "ZUTC",
+    "lat": 24.9380555556,
+    "lon": 98.4858333333
+  },
+  {
+    "country": "China",
+    "state": "Gansu Province",
+    "city": "Tianshui",
+    "name": "Tianshui Maijishan Airport",
+    "icao": "CN-0130",
+    "lat": 34.5593986511,
+    "lon": 105.86000061
+  },
+  {
+    "country": "China",
+    "state": "Jilin Province",
+    "city": "Tonghua",
+    "name": "Tonghua Sanyuanpu Airport",
+    "icao": "ZYTN",
+    "lat": 42.2538888889,
+    "lon": 125.703333333
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Ulanqab",
+    "name": "Ulanqab Jining Airport",
+    "icao": "ZBUC",
+    "lat": 41.129722,
+    "lon": 113.108056
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Urad Middle Banner",
+    "name": "Urad Middle Banner",
+    "icao": "WZQ",
+    "lat": 41.45958,
+    "lon": 108.53454
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Wenshan",
+    "name": "Wenshan Puzhehei Airport",
+    "icao": "ZPWS",
+    "lat": 23.5583,
+    "lon": 104.3255
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Wudalianchi",
+    "name": "Wudalianchi Dedu Airport",
+    "icao": "ZYDU",
+    "lat": 48.445,
+    "lon": 126.133
+  },
+  {
+    "country": "China",
+    "state": "Hubei Province",
+    "city": "Wuhan",
+    "name": "Wuhan Air Base",
+    "icao": "CN-0084",
+    "lat": 30.5986003875999,
+    "lon": 114.241996765
+  },
+  {
+    "country": "China",
+    "state": "Hebei Province",
+    "city": "Xingtai",
+    "name": "Xingtai Dalian Airport",
+    "icao": "ZBXT",
+    "lat": 36.8831,
+    "lon": 114.4293
+  },
+  {
+    "country": "China",
+    "state": "Henan Province",
+    "city": "Xinyang",
+    "name": "Xinyang Minggang Airport",
+    "icao": "CN-0067",
+    "lat": 32.540819,
+    "lon": 114.079141
+  },
+  {
+    "country": "China",
+    "state": "Shanxi Province",
+    "city": "Xinzhou",
+    "name": "Xinzhou Wutaishan Airport",
+    "icao": "ZBXZ",
+    "lat": 38.597456,
+    "lon": 112.969173
+  },
+  {
+    "country": "China",
+    "state": "Guangxi Autonomous Region",
+    "city": "Xuzhou / Teng County",
+    "name": "Wuzhou Xijiang Airport",
+    "icao": "WUZ",
+    "lat": 23.40119,
+    "lon": 111.097612
+  },
+  {
+    "country": "China",
+    "state": "Jiangsu Province",
+    "city": "Yangzhou and Taizhou",
+    "name": "Yangzhou Taizhou Airport",
+    "icao": "ZSYA",
+    "lat": 32.5634,
+    "lon": 119.7198
+  },
+  {
+    "country": "China",
+    "state": "Hebei Province",
+    "city": "Yanqing",
+    "name": "Badaling or YanQing Airport",
+    "icao": "CN-0023",
+    "lat": 40.3786111111,
+    "lon": 115.9375
+  },
+  {
+    "country": "China",
+    "state": "Sichuan Province",
+    "city": "Yibin",
+    "name": "Yibin Wuliangye Airport",
+    "icao": "YBP",
+    "lat": 28.858431,
+    "lon": 104.526157
+  },
+  {
+    "country": "China",
+    "state": "Heilongjiang Province",
+    "city": "Yichun",
+    "name": "Lindu Airport",
+    "icao": "ZYLD",
+    "lat": 47.7520555556,
+    "lon": 129.019125
+  },
+  {
+    "country": "China",
+    "state": "Shanxi Province",
+    "city": "Yongji",
+    "name": "Yongji Airport",
+    "icao": "CN-0037",
+    "lat": 34.8723,
+    "lon": 110.361
+  },
+  {
+    "country": "China",
+    "state": "Beijing Municipality",
+    "city": "Yongning",
+    "name": "Yongning Air Base",
+    "icao": "CN-0022",
+    "lat": 40.5031013488769,
+    "lon": 116.108001708984
+  },
+  {
+    "country": "China",
+    "state": "Hunan Province",
+    "city": "Yongzhou",
+    "name": "Lingling Airport",
+    "icao": "ZGLG",
+    "lat": 26.338661,
+    "lon": 111.610043
+  },
+  {
+    "country": "China",
+    "state": "Yunnan Province",
+    "city": "Yuanjiang",
+    "name": "Lijiang Airport",
+    "icao": "CN-0039",
+    "lat": 23.5847,
+    "lon": 102.010003
+  },
+  {
+    "country": "China",
+    "state": "Hunan Province",
+    "city": "Yueyang",
+    "name": "Yueyang Sanhe Airport",
+    "icao": "YYA",
+    "lat": 29.311699,
+    "lon": 113.281574
+  },
+  {
+    "country": "China",
+    "state": "Inner Mongolia Autonomous Region",
+    "city": "Zhalantun",
+    "name": "Chengjisihan Airport",
+    "icao": "ZBZL",
+    "lat": 47.865833,
+    "lon": 122.767503
+  },
+  {
+    "country": "China",
+    "state": "Hebei Province",
+    "city": "Zhangjiakou",
+    "name": "Zhangjiakou Ningyuan Airport",
+    "icao": "CN-0024",
+    "lat": 40.7386016846,
+    "lon": 114.930000305
+  },
+  {
+    "country": "China",
+    "state": "Henan Province",
+    "city": "Zhengzhou",
+    "name": "Shangjie Airport",
+    "icao": "HSJ",
+    "lat": 34.842153,
+    "lon": 113.273983
+  },
+  {
+    "country": "China",
+    "state": "Ningxia Autonomous Region",
+    "city": "Zhongwei",
+    "name": "Zhongwei Shapotou Airport",
+    "icao": "ZLZW",
+    "lat": 37.573125,
+    "lon": 105.154454
+  },
+  {
+    "country": "China",
+    "state": "Sichuan Province",
+    "city": "Zigong",
+    "name": "Zigong Airport",
+    "icao": "CN-0051",
+    "lat": 29.376484,
+    "lon": 104.625789
+  }
+]

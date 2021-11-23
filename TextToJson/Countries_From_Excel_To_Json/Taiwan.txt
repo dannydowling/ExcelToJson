@@ -1,0 +1,344 @@
+[
+  {
+    "country": "Taiwan",
+    "state": "Tainan City",
+    "city": "Tainan City",
+    "name": "Tainan Airport",
+    "icao": "RCNN",
+    "lat": 22.9503993988037,
+    "lon": 120.206001281738
+  },
+  {
+    "country": "Taiwan",
+    "state": "Kinmen County",
+    "city": "Shang-I",
+    "name": "Kinmen Airport",
+    "icao": "RCBS",
+    "lat": 24.4279,
+    "lon": 118.359001
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taichung (city)",
+    "city": "Taichung City",
+    "name": "Taichung Ching Chuang Kang Airport",
+    "icao": "RCMQ",
+    "lat": 24.264699935913,
+    "lon": 120.621002197265
+  },
+  {
+    "country": "Taiwan",
+    "state": "Pingtung County",
+    "city": "Hengchung",
+    "name": "Hengchun Airport",
+    "icao": "RCKW",
+    "lat": 22.0410995483398,
+    "lon": 120.730003356933
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taoyuan County",
+    "city": "Longtan Township",
+    "name": "Longtan Air Base",
+    "icao": "RCDI",
+    "lat": 24.8551006317138,
+    "lon": 121.237998962402
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taitung County",
+    "city": "Orchid Island",
+    "name": "Lanyu Airport",
+    "icao": "RCLY",
+    "lat": 22.027000427246,
+    "lon": 121.535003662109
+  },
+  {
+    "country": "Taiwan",
+    "state": "Kaohsiung (municipality)",
+    "city": "Pratas Island",
+    "name": "Dongsha Island Airport",
+    "icao": "TW-0002",
+    "lat": 20.7066,
+    "lon": 116.721001
+  },
+  {
+    "country": "Taiwan",
+    "state": "Pingtung County",
+    "city": "Pingtung",
+    "name": "Pingtung North Airport",
+    "icao": "RCSQ",
+    "lat": 22.7001991271972,
+    "lon": 120.4820022583
+  },
+  {
+    "country": "Taiwan",
+    "state": "Lienchiang County",
+    "city": "Beigan Island",
+    "name": "Matsu Beigan Airport",
+    "icao": "RCMT",
+    "lat": 26.224199,
+    "lon": 120.002998
+  },
+  {
+    "country": "Taiwan",
+    "state": "Lienchiang County",
+    "city": "Nangang Island",
+    "name": "Matsu Nangan Airport",
+    "icao": "RCFG",
+    "lat": 26.1598,
+    "lon": 119.958
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taoyuan County",
+    "city": "Johngli City",
+    "name": "Highway Strip 58 60",
+    "icao": "TW-0003",
+    "lat": 24.9762,
+    "lon": 121.223999
+  },
+  {
+    "country": "Taiwan",
+    "state": "Hsinchu (city)",
+    "city": "Hsinchu City",
+    "name": "Hsinchu Air Base",
+    "icao": "RCPO",
+    "lat": 24.8180007935,
+    "lon": 120.939002991
+  },
+  {
+    "country": "Taiwan",
+    "state": "Pingtung County",
+    "city": "Pingtung",
+    "name": "Pingtung South Airport",
+    "icao": "RCDC",
+    "lat": 22.672399520874,
+    "lon": 120.461997985839
+  },
+  {
+    "country": "Taiwan",
+    "state": "Penghu County",
+    "city": "Chi Mei",
+    "name": "Chi Mei Airport",
+    "icao": "TW-CMJ",
+    "lat": 23.2131004333,
+    "lon": 119.417999268
+  },
+  {
+    "country": "Taiwan",
+    "state": "Kaohsiung (municipality)",
+    "city": "Kaohsiung City",
+    "name": "Zuoying Naval Airfield",
+    "icao": "TW-0004",
+    "lat": 22.704999923706,
+    "lon": 120.28099822998
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taitung County",
+    "city": "Lyudao",
+    "name": "Lyudao Airport",
+    "icao": "RCGI",
+    "lat": 22.673900604248,
+    "lon": 121.466003417968
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taichung (city)",
+    "city": "Taichung City",
+    "name": "Taichung Airport",
+    "icao": "RCLG",
+    "lat": 24.1863,
+    "lon": 120.653999
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taitung County",
+    "city": "Taitung City",
+    "name": "Chihhang Air Base",
+    "icao": "RCQS",
+    "lat": 22.7931003570556,
+    "lon": 121.181999206542
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taoyuan County",
+    "city": "Taoyuan City",
+    "name": "Taoyuan Air Base",
+    "icao": "RCGM",
+    "lat": 25.056601,
+    "lon": 121.244263
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taipei County",
+    "city": "Taipei County",
+    "name": "Zhuzi Shan Helipad",
+    "icao": "TW-0031",
+    "lat": 25.215883,
+    "lon": 121.560851
+  },
+  {
+    "country": "Taiwan",
+    "state": "Chiayi County",
+    "city": "Chiayi",
+    "name": "Chiayi Highway Airstrip",
+    "icao": "TW-0007",
+    "lat": 23.538652,
+    "lon": 120.410156
+  },
+  {
+    "country": "Taiwan",
+    "state": "Tainan County",
+    "city": "Guerin",
+    "name": "Guerin Airport",
+    "icao": "RCXY",
+    "lat": 22.981864,
+    "lon": 120.284243
+  },
+  {
+    "country": "Taiwan",
+    "state": "Hsinchu (city)",
+    "city": "Hsinchu",
+    "name": "Hsinchu Air Force Hospital Heliport",
+    "icao": "TW-0011",
+    "lat": 24.816245,
+    "lon": 120.96203
+  },
+  {
+    "country": "Taiwan",
+    "state": "Hualien County",
+    "city": "Hualien City",
+    "name": "Hualien Air Base",
+    "icao": "TW-0006",
+    "lat": 24.0261611938476,
+    "lon": 121.589897155761
+  },
+  {
+    "country": "Taiwan",
+    "state": "Yunlin County",
+    "city": "Huwei",
+    "name": "Huwei Airstrip",
+    "icao": "RCSC",
+    "lat": 23.727958,
+    "lon": 120.428862
+  },
+  {
+    "country": "Taiwan",
+    "state": "Ilan County",
+    "city": "Ilan",
+    "name": "Ilan Airfield",
+    "icao": "RCMS",
+    "lat": 24.730617,
+    "lon": 121.752031
+  },
+  {
+    "country": "Taiwan",
+    "state": "Miaoli County",
+    "city": "Jiali Shan",
+    "name": "Jiali Shan Helipad",
+    "icao": "TW-0013",
+    "lat": 24.464734,
+    "lon": 121.223271
+  },
+  {
+    "country": "Taiwan",
+    "state": "Kaohsiung (municipality)",
+    "city": "Kaohsiung",
+    "name": "Kaohsiung Veteransâ€™ General Hospital Helipad",
+    "icao": "TW-0015",
+    "lat": 22.680648,
+    "lon": 120.322024
+  },
+  {
+    "country": "Taiwan",
+    "state": "Penghu County",
+    "city": "Makung City",
+    "name": "Penghu Airport",
+    "icao": "TW-0001",
+    "lat": 23.518,
+    "lon": 119.583
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taipei County",
+    "city": "New Taipei City",
+    "name": "Shuang Ho Hospital Heliport",
+    "icao": "TW-0020",
+    "lat": 24.992335,
+    "lon": 121.493431
+  },
+  {
+    "country": "Taiwan",
+    "state": "Kinmen County",
+    "city": "Sihong",
+    "name": "Sihong Heliport",
+    "icao": "TW-0021",
+    "lat": 24.430752,
+    "lon": 118.444118
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taichung (city)",
+    "city": "Taichung",
+    "name": "Taichung Veteransâ€™ General Hospital Helipad",
+    "icao": "TW-0022",
+    "lat": 24.1841,
+    "lon": 120.60313
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taitung County",
+    "city": "Taimali",
+    "name": "Taimali Heliport",
+    "icao": "TW-0033",
+    "lat": 22.591106,
+    "lon": 121.000269
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taipei (municipality)",
+    "city": "Taipei",
+    "name": "Far Eastern Memorial Hospital Heliport",
+    "icao": "TW-0010",
+    "lat": 24.997071,
+    "lon": 121.453541
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taipei (municipality)",
+    "city": "Taipei",
+    "name": "Taipei City Hall Helipad",
+    "icao": "TW-0023",
+    "lat": 25.037416,
+    "lon": 121.564598
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taipei (municipality)",
+    "city": "Taipei",
+    "name": "Taipei City Government Fire Bureau Helipad",
+    "icao": "TW-0025",
+    "lat": 25.040744,
+    "lon": 121.56907
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taipei (municipality)",
+    "city": "Taipei",
+    "name": "Taipei Trade Center Helipad",
+    "icao": "TW-0027",
+    "lat": 25.033467,
+    "lon": 121.561098
+  },
+  {
+    "country": "Taiwan",
+    "state": "Taipei County",
+    "city": "Tanshui",
+    "name": "Maritime Patrol Directorate General Helipad",
+    "icao": "TW-0017",
+    "lat": 25.176236,
+    "lon": 121.421446
+  }
+]

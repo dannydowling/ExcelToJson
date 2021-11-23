@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Nauru",
+    "state": "Yaren",
+    "city": "Yaren District",
+    "name": "Nauru International Airport",
+    "icao": "ANYN",
+    "lat": -0.547458,
+    "lon": 166.919006
+  }
+]

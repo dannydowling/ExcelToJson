@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Rwanda",
+    "state": "Kigali Province",
+    "city": "Kigali",
+    "name": "Kigali International Airport",
+    "icao": "HRYR",
+    "lat": -1.96863,
+    "lon": 30.1395
+  },
+  {
+    "country": "Rwanda",
+    "state": "Northern Province",
+    "city": "Ruhengeri",
+    "name": "Ruhengeri Airport",
+    "icao": "HRYU",
+    "lat": -1.5,
+    "lon": 29.632999420166
+  },
+  {
+    "country": "Rwanda",
+    "state": "Western Province",
+    "city": "Gisenyi",
+    "name": "Gisenyi Airport",
+    "icao": "HRYG",
+    "lat": -1.67719995975494,
+    "lon": 29.2588996887207
+  },
+  {
+    "country": "Rwanda",
+    "state": "Eastern Province",
+    "city": "Gabiro",
+    "name": "Gabiro Airport",
+    "icao": "HRYO",
+    "lat": -1.54999995231628,
+    "lon": 30.382999420166
+  }
+]

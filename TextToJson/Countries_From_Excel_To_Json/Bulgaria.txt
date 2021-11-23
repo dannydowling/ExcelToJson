@@ -1,0 +1,587 @@
+[
+  {
+    "country": "Bulgaria",
+    "state": "Pleven Province",
+    "city": "Kamenets",
+    "name": "Kamenets Airport",
+    "icao": "LB42",
+    "lat": 43.3273010253906,
+    "lon": 25.0034008026123
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Pleven Province",
+    "city": "Bohot",
+    "name": "Bohot Airport",
+    "icao": "LBBO",
+    "lat": 43.3063888549804,
+    "lon": 24.6913890838623
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Varna Province",
+    "city": "Izgrev",
+    "name": "Izgrev Airport",
+    "icao": "LBWV",
+    "lat": 43.2772216796875,
+    "lon": 27.7019443511962
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Sofia Province",
+    "city": "Lesnovo",
+    "name": "Lesnovo Airport",
+    "icao": "LBLS",
+    "lat": 42.6344985961914,
+    "lon": 23.6464443206787
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Haskovo Province",
+    "city": "Haskovo",
+    "name": "Malevo Airport",
+    "icao": "BG-HKV",
+    "lat": 41.871799469,
+    "lon": 25.6047992706
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Plovdiv Province",
+    "city": "Konush",
+    "name": "Konush Airstrip",
+    "icao": "LB32",
+    "lat": 42.072399,
+    "lon": 25.053301
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Dobric Province",
+    "city": "Leskovo",
+    "name": "Leskovo Airfield",
+    "icao": "LB33",
+    "lat": 43.726601,
+    "lon": 27.686001
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo Province",
+    "city": "Maslarevo",
+    "name": "Maslarevo Airstrip",
+    "icao": "LB29",
+    "lat": 43.405399,
+    "lon": 25.474001
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Haskovo Province",
+    "city": "Mustrak",
+    "name": "Mustrak Airport",
+    "icao": "LB38",
+    "lat": 41.8400001525878,
+    "lon": 26.309700012207
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Blagoevgrad Province",
+    "city": "Petrich",
+    "name": "Petrich Airport",
+    "icao": "LB45",
+    "lat": 41.4482994079589,
+    "lon": 23.2171001434326
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Pleven Province",
+    "city": "Podem",
+    "name": "Podem Airstrip",
+    "icao": "LB27",
+    "lat": 43.548199,
+    "lon": 24.590401
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Ruse Province",
+    "city": "Ruse",
+    "name": "Ruse Airport",
+    "icao": "LBRS",
+    "lat": 43.6948013306,
+    "lon": 26.0566997528
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Kyustendil Province",
+    "city": "Sapareva Banya",
+    "name": "Stanke Dimitrov Air Base",
+    "icao": "LB22",
+    "lat": 42.311699,
+    "lon": 23.246901
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Sliven Province",
+    "city": "Sliven",
+    "name": "Sliven Airfield",
+    "icao": "LBSL",
+    "lat": 42.646301,
+    "lon": 26.3594
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Dobric Province",
+    "city": "Smolnitsa",
+    "name": "Golyama Smolnitsa Airport",
+    "icao": "LB35",
+    "lat": 43.627899,
+    "lon": 27.694099
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Sofia Province",
+    "city": "Sofia",
+    "name": "Dobroslavtsi Air Base",
+    "icao": "LBSD",
+    "lat": 42.812400817871,
+    "lon": 23.2996006011962
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Dobric Province",
+    "city": "Sokolovo",
+    "name": "Sokolovo Airstrip",
+    "icao": "LB36",
+    "lat": 43.475601,
+    "lon": 28.102699
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Dobric Province",
+    "city": "Stefanovo",
+    "name": "Stefanovo Airstrip",
+    "icao": "LB34",
+    "lat": 43.506901,
+    "lon": 27.8449
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Plovdiv Province",
+    "city": "Stryama",
+    "name": "Stryama Airfield",
+    "icao": "LB30",
+    "lat": 42.285301,
+    "lon": 24.8685
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Targovishte Province",
+    "city": "Targovishte",
+    "name": "Bukhovtsi Airfield",
+    "icao": "LBTG",
+    "lat": 43.3065986633,
+    "lon": 26.7008991240999
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Jambol Province",
+    "city": "Tenevo",
+    "name": "Tenevo Airstrip",
+    "icao": "LB18",
+    "lat": 42.346401,
+    "lon": 26.5739
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Plovdiv Province",
+    "city": "Tsalapita",
+    "name": "Tsalapita Airfield",
+    "icao": "LB11",
+    "lat": 42.188747,
+    "lon": 24.535716
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Jambol Province",
+    "city": "Zimnitsa",
+    "name": "Zimnitsa Airstrip",
+    "icao": "LB19",
+    "lat": 42.600498,
+    "lon": 26.633699
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Razgrad Province",
+    "city": "Razgrad Province",
+    "name": "Ostrovo",
+    "icao": "BG-0023",
+    "lat": 43.6938742,
+    "lon": 26.5799644
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo Province",
+    "city": "Veliko Tarnovo Province",
+    "name": "Polikraishte",
+    "icao": "BG-0026",
+    "lat": 43.199333,
+    "lon": 25.640889
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Razgrad Province",
+    "city": "Razgrad Province",
+    "name": "Blagoevo",
+    "icao": "BG-0028",
+    "lat": 43.4554878,
+    "lon": 26.4316546
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Montana Province",
+    "city": "Montana Province",
+    "name": "Montana",
+    "icao": "LBMO",
+    "lat": 43.3826194,
+    "lon": 23.2632026
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Stara Zagora Province",
+    "city": "Stara Zagora Province",
+    "name": "Daskal Atanasovo",
+    "icao": "LBDA",
+    "lat": 42.3213889,
+    "lon": 25.8936111
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Dobric Province",
+    "city": "Dobric Province",
+    "name": "Orliak Airfield",
+    "icao": "BG-0037",
+    "lat": 43.6344188,
+    "lon": 27.3963294
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Varna Province",
+    "city": "Varna Province",
+    "name": "Suvorovo Airstrip",
+    "icao": "BG-0038",
+    "lat": 43.3587179,
+    "lon": 27.5827284
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Sumen Province",
+    "city": "Sumen Province",
+    "name": "Selskostopansko Airstrip",
+    "icao": "BG-0042",
+    "lat": 43.2364818,
+    "lon": 27.0456557
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Pleven Province",
+    "city": "Pleven Province",
+    "name": "Staroseltsi",
+    "icao": "BG-0053",
+    "lat": 43.531511,
+    "lon": 24.2967868
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Varna Province",
+    "city": "Varna Province",
+    "name": "Karamanite Airstrip",
+    "icao": "BG-0056",
+    "lat": 43.4945283,
+    "lon": 27.4480307
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Sofia Province",
+    "city": "Sofia Province",
+    "name": "Dragoman Airstrip",
+    "icao": "BG-0058",
+    "lat": 42.9335588,
+    "lon": 22.978856
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Pleven Province",
+    "city": "Pleven Province",
+    "name": "Knezha Airstrip",
+    "icao": "BG-0062",
+    "lat": 43.5460038,
+    "lon": 24.0946856
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Sumen Province",
+    "city": "Sumen Province",
+    "name": "Gradishte Airstrip",
+    "icao": "BG-0064",
+    "lat": 43.3339849,
+    "lon": 26.8542546
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Vraca Province",
+    "city": "Vraca Province",
+    "name": "Borovan Airstrip",
+    "icao": "BG-0065",
+    "lat": 43.426891,
+    "lon": 23.77037
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Vraca Province",
+    "city": "Vraca Province",
+    "name": "Krivodol Airstrip",
+    "icao": "BG-0070",
+    "lat": 43.37472,
+    "lon": 23.51036
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Sofia Province",
+    "city": "Belchinski Bani",
+    "name": "Belchinski Bani Airstrip",
+    "icao": "BG-0025",
+    "lat": 42.37488,
+    "lon": 23.39322
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Vidin Province",
+    "city": "Brogovo",
+    "name": "Brogovo Airstrip",
+    "icao": "BG-0034",
+    "lat": 44.132,
+    "lon": 22.659357
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Sofia Province",
+    "city": "Dolna Banya",
+    "name": "Dolna Banya Airport",
+    "icao": "LBDB",
+    "lat": 42.3085289001464,
+    "lon": 23.8204174041748
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Montana Province",
+    "city": "Erden",
+    "name": "Erden Airport",
+    "icao": "LBRD",
+    "lat": 43.499168,
+    "lon": 23.304722
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Vraca Province",
+    "city": "Glozhene",
+    "name": "Glozhene Airfield",
+    "icao": "BG-0007",
+    "lat": 43.679222,
+    "lon": 23.796246
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Blagoevgrad Province",
+    "city": "Gotse Delchev",
+    "name": "Pirin Airfield",
+    "icao": "BG-0052",
+    "lat": 41.564478,
+    "lon": 23.766999
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Jambol Province",
+    "city": "Irechekovo",
+    "name": "Irechekovo Airfield",
+    "icao": "BG-0018",
+    "lat": 42.470249,
+    "lon": 26.733295
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Silistra Province",
+    "city": "Kainardzha",
+    "name": "Kainardzha Airport",
+    "icao": "LBKJ",
+    "lat": 43.970417,
+    "lon": 27.469557
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Vidin Province",
+    "city": "Kapitanovtsi",
+    "name": "Kapitanovtsi Airstrip",
+    "icao": "BG-0035",
+    "lat": 44.055815,
+    "lon": 22.878457
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Pleven Province",
+    "city": "Koynare",
+    "name": "Koynare Airstrip",
+    "icao": "BG-0050",
+    "lat": 43.3710549,
+    "lon": 24.1304424
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Vraca Province",
+    "city": "Kozloduy",
+    "name": "Kozloduy Airfield",
+    "icao": "BG-0008",
+    "lat": 43.763134,
+    "lon": 23.722031
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Pleven Province",
+    "city": "Krushovene",
+    "name": "Krushovene Airfield",
+    "icao": "BG-0010",
+    "lat": 43.623531,
+    "lon": 24.378567
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Burgas Province",
+    "city": "Livada",
+    "name": "Livada Airport",
+    "icao": "BG-0001",
+    "lat": 42.456284,
+    "lon": 27.197334
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Plovdiv Province",
+    "city": "Maritsa",
+    "name": "Maritsa Airfield",
+    "icao": "LBMA",
+    "lat": 42.2652,
+    "lon": 24.7205
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Pleven Province",
+    "city": "Milkovitsa",
+    "name": "Milkovitsa Airfield",
+    "icao": "BG-0011",
+    "lat": 43.634274,
+    "lon": 24.757254
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Dobric Province",
+    "city": "Mogilishte",
+    "name": "Mogilishte Airstrip",
+    "icao": "BG-0045",
+    "lat": 43.4915599,
+    "lon": 28.3519964
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Pazardzhik Province",
+    "city": "Pishtigovo",
+    "name": "Pishtigovo Airstrip",
+    "icao": "BG-0048",
+    "lat": 42.2307252,
+    "lon": 24.4383034
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Plovdiv Province",
+    "city": "Rakovski",
+    "name": "Rakovski Airstrip",
+    "icao": "BG-0047",
+    "lat": 42.293513,
+    "lon": 24.947311
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Burgas Province",
+    "city": "Ravnetz",
+    "name": "Ravnetz Air Base",
+    "icao": "LBBR",
+    "lat": 42.5261001586914,
+    "lon": 27.2695999145507
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Ruse Province",
+    "city": "Ryakhovo",
+    "name": "Ryakhovo Airport",
+    "icao": "BG-0014",
+    "lat": 43.982754,
+    "lon": 26.242744
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Vraca Province",
+    "city": "Selanovtsi",
+    "name": "Selanovtsi Airfield",
+    "icao": "BG-0009",
+    "lat": 43.655277,
+    "lon": 24.010071
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Razgrad Province",
+    "city": "Staro Selishte",
+    "name": "Staro Selishte",
+    "icao": "BG-0029",
+    "lat": 43.6502778,
+    "lon": 26.7541667
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Veliko Tarnovo Province",
+    "city": "Svishtov",
+    "name": "Svishtov Airfield",
+    "icao": "BG-0005",
+    "lat": 43.618179,
+    "lon": 25.283663
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Jambol Province",
+    "city": "Voynika",
+    "name": "Voynika Airfield",
+    "icao": "BG-0019",
+    "lat": 42.377701,
+    "lon": 26.843519
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Vraca Province",
+    "city": "Vratsa",
+    "name": "Vratsa Airport",
+    "icao": "LBVR",
+    "lat": 43.2559,
+    "lon": 23.5327
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Pazardzhik Province",
+    "city": "Yunatsite",
+    "name": "Yunatsite Airstrip",
+    "icao": "BG-0044",
+    "lat": 42.232673,
+    "lon": 24.245056
+  },
+  {
+    "country": "Bulgaria",
+    "state": "Burgas Province",
+    "city": "Zagortsi",
+    "name": "Zagortsi Airfield",
+    "icao": "BG-0004",
+    "lat": 42.403419,
+    "lon": 27.070246
+  }
+]

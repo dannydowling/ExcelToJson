@@ -1,0 +1,227 @@
+[
+  {
+    "country": "Vietnam",
+    "state": "Khanh Hoa Province",
+    "city": "Nha Trang",
+    "name": "Cam Ranh Airport",
+    "icao": "VVCR",
+    "lat": 11.9982004165649,
+    "lon": 109.219001770019
+  },
+  {
+    "country": "Vietnam",
+    "state": "Lao Cai Province",
+    "city": "Can Tho",
+    "name": "Can Tho International Airport",
+    "icao": "VVCT",
+    "lat": 10.085100174,
+    "lon": 105.711997986
+  },
+  {
+    "country": "Vietnam",
+    "state": "Hai Duong Province",
+    "city": "Haiphong",
+    "name": "Cat Bi International Airport",
+    "icao": "VVCI",
+    "lat": 20.8194007873535,
+    "lon": 106.724998474121
+  },
+  {
+    "country": "Vietnam",
+    "state": "Gia Lai Province",
+    "city": "Pleiku",
+    "name": "Pleiku Airport",
+    "icao": "VVPK",
+    "lat": 14.0045003890991,
+    "lon": 108.016998291015
+  },
+  {
+    "country": "Vietnam",
+    "state": "Dong Nai Province",
+    "city": "Bien Hoa",
+    "name": "Bien Hoa Air Base",
+    "icao": "VV02",
+    "lat": 10.9766998291,
+    "lon": 106.818000793
+  },
+  {
+    "country": "Vietnam",
+    "state": "Dac Lac Province",
+    "city": "Buon Ma Thuot",
+    "name": "Buon Ma Thuot Airport",
+    "icao": "VVBM",
+    "lat": 12.668299675,
+    "lon": 108.120002747
+  },
+  {
+    "country": "Vietnam",
+    "state": "Kon Tum Province",
+    "city": "Kontum",
+    "name": "Kontum Airport",
+    "icao": "VN-KON",
+    "lat": 14.3500003814697,
+    "lon": 108.016998291015
+  },
+  {
+    "country": "Vietnam",
+    "state": "Quang Binh Province",
+    "city": "Dong Hoi",
+    "name": "Dong Hoi Airport",
+    "icao": "VN-0001",
+    "lat": 17.515,
+    "lon": 106.590556
+  },
+  {
+    "country": "Vietnam",
+    "state": "Ba Ria - Vung Tau Province",
+    "city": "Vung Tau",
+    "name": "Vung Tau Airport",
+    "icao": "VVVT",
+    "lat": 10.3725004196167,
+    "lon": 107.095001220703
+  },
+  {
+    "country": "Vietnam",
+    "state": "Lai Chau Province",
+    "city": "Dien Bien Phu",
+    "name": "Dien Bien Phu Airport",
+    "icao": "VVDB",
+    "lat": 21.3974990845,
+    "lon": 103.008003235
+  },
+  {
+    "country": "Vietnam",
+    "state": "Tuyen Quang Province",
+    "city": "Phan Rang",
+    "name": "Phan Rang Airport",
+    "icao": "VVPR",
+    "lat": 11.6335000992,
+    "lon": 108.952003479
+  },
+  {
+    "country": "Vietnam",
+    "state": "Son La Province",
+    "city": "Son-La",
+    "name": "Na-San Airport",
+    "icao": "VVNS",
+    "lat": 21.216999053955,
+    "lon": 104.032997131347
+  },
+  {
+    "country": "Vietnam",
+    "state": "Lam Dong Province",
+    "city": "Lam Dong Province",
+    "name": "Cam Ly Airport",
+    "icao": "VVCL",
+    "lat": 11.9502844865,
+    "lon": 108.411004543
+  },
+  {
+    "country": "Vietnam",
+    "state": "Yen Bai Province",
+    "city": "Yen Bai Province",
+    "name": "YÃªn BÃ¡i Air Base",
+    "icao": "VN-0004",
+    "lat": 21.734761,
+    "lon": 104.852673
+  },
+  {
+    "country": "Vietnam",
+    "state": "Ca Mau Province",
+    "city": "Ca Mau City",
+    "name": "CÃ  Mau Airport",
+    "icao": "VVCM",
+    "lat": 9.177667,
+    "lon": 105.177778
+  },
+  {
+    "country": "Vietnam",
+    "state": "Da Nang Municipality",
+    "city": "Da Nang",
+    "name": "Red Beach Airfield",
+    "icao": "VN-0013",
+    "lat": 16.096,
+    "lon": 108.143
+  },
+  {
+    "country": "Vietnam",
+    "state": "Khanh Hoa Province",
+    "city": "Duc My",
+    "name": "Duc My Airstrip",
+    "icao": "VN-0002",
+    "lat": 12.5384566216,
+    "lon": 109.007956982
+  },
+  {
+    "country": "Vietnam",
+    "state": "Kien Giang Province",
+    "city": "Duong Dong",
+    "name": "Phu Quoc Airport",
+    "icao": "VN-0010",
+    "lat": 10.2270002365,
+    "lon": 103.967002869
+  },
+  {
+    "country": "Vietnam",
+    "state": "Ha Tay Province",
+    "city": "Hanoi",
+    "name": "Bach Mai Airfield",
+    "icao": "VN-0003",
+    "lat": 20.9931558228,
+    "lon": 105.832993984
+  },
+  {
+    "country": "Vietnam",
+    "state": "An Giang Province",
+    "city": "Long XuyÃªn",
+    "name": "Long XuyÃªn Airport",
+    "icao": "XLO",
+    "lat": 10.330134,
+    "lon": 105.473144
+  },
+  {
+    "country": "Vietnam",
+    "state": "(unassigned)",
+    "city": "Quang Duc",
+    "name": "Nhon Co Airfield",
+    "icao": "HOO",
+    "lat": 11.9787,
+    "lon": 107.5638
+  },
+  {
+    "country": "Vietnam",
+    "state": "Soc Trang Province",
+    "city": "SÃ³c TrÄƒng",
+    "name": "SÃ³c TrÄƒng Airport",
+    "icao": "SOA",
+    "lat": 9.5814,
+    "lon": 105.9602
+  },
+  {
+    "country": "Vietnam",
+    "state": "(unassigned)",
+    "city": "Spratly Islands (disputed)",
+    "name": "Namyit Island Helipad",
+    "icao": "VN-0006",
+    "lat": 10.178882,
+    "lon": 114.368989
+  },
+  {
+    "country": "Vietnam",
+    "state": "(unassigned)",
+    "city": "Spratly Islands (disputed)",
+    "name": "Great Discovery Reef Helipad",
+    "icao": "VN-0008",
+    "lat": 10.022871,
+    "lon": 113.854429
+  },
+  {
+    "country": "Vietnam",
+    "state": "Vinh Long Province",
+    "city": "Vinh Long",
+    "name": "Vinh Long Airfield",
+    "icao": "XVL",
+    "lat": 10.2509,
+    "lon": 105.9445
+  }
+]

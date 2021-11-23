@@ -1,0 +1,164 @@
+[
+  {
+    "country": "Estonia",
+    "state": "Hiiu County",
+    "city": "KÃ¤rdla",
+    "name": "KÃ¤rdla Airport",
+    "icao": "EEKA",
+    "lat": 58.9907989501953,
+    "lon": 22.8306999206542
+  },
+  {
+    "country": "Estonia",
+    "state": "Harju County",
+    "city": "Tallinn",
+    "name": "Tallinn Linnahall Heliport",
+    "icao": "EECL",
+    "lat": 59.4486198425293,
+    "lon": 24.7532272338867
+  },
+  {
+    "country": "Estonia",
+    "state": "Ida-Viru County",
+    "city": "Narva",
+    "name": "Narva Estonia Airport",
+    "icao": "EENA",
+    "lat": 59.3885993957519,
+    "lon": 28.1135997772216
+  },
+  {
+    "country": "Estonia",
+    "state": "PÃ¤rnu County",
+    "city": "PÃ¤rnu",
+    "name": "PÃ¤rnu Airport",
+    "icao": "EEPU",
+    "lat": 58.4189987182617,
+    "lon": 24.4727993011474
+  },
+  {
+    "country": "Estonia",
+    "state": "Saare County",
+    "city": "Ringsu",
+    "name": "Ruhnu Airfield",
+    "icao": "EERU",
+    "lat": 57.7839012145996,
+    "lon": 23.2660999298095
+  },
+  {
+    "country": "Estonia",
+    "state": "Harju County",
+    "city": "Keila",
+    "name": "Ã„mari Air Base",
+    "icao": "EEEI",
+    "lat": 59.2602996826171,
+    "lon": 24.2084999084472
+  },
+  {
+    "country": "Estonia",
+    "state": "LÃ¤Ã¤ne County",
+    "city": "Haapsalu",
+    "name": "Haapsalu Air Base",
+    "icao": "EE-0002",
+    "lat": 58.911098,
+    "lon": 23.488899
+  },
+  {
+    "country": "Estonia",
+    "state": "Ida-Viru County",
+    "city": "JÃµhvi",
+    "name": "JÃµhvi Airfield",
+    "icao": "EEJI",
+    "lat": 59.329167,
+    "lon": 27.397222
+  },
+  {
+    "country": "Estonia",
+    "state": "LÃ¤Ã¤ne-Viru County",
+    "city": "Kunda",
+    "name": "Kunda Air Base",
+    "icao": "EE-9278",
+    "lat": 59.5367012023925,
+    "lon": 26.3117008209228
+  },
+  {
+    "country": "Estonia",
+    "state": "Rapla County",
+    "city": "Rapla",
+    "name": "Rapla Airfield",
+    "icao": "EERA",
+    "lat": 58.9864006042,
+    "lon": 24.7243995667
+  },
+  {
+    "country": "Estonia",
+    "state": "PÃµlva County",
+    "city": "SuurkÃ¼la",
+    "name": "Ridali Airfield",
+    "icao": "EERI",
+    "lat": 57.9399986267,
+    "lon": 26.9790000916
+  },
+  {
+    "country": "Estonia",
+    "state": "JÃ¤rva County",
+    "city": "Vohma",
+    "name": "Vohma Air Base",
+    "icao": "EE-1612",
+    "lat": 58.6622009277343,
+    "lon": 25.5867004394531
+  },
+  {
+    "country": "Estonia",
+    "state": "Saare County",
+    "city": "Aste",
+    "name": "Aste Air Base",
+    "icao": "EE-0001",
+    "lat": 58.3650016784668,
+    "lon": 22.4449996948242
+  },
+  {
+    "country": "Estonia",
+    "state": "Saare County",
+    "city": "Kuressaare",
+    "name": "Roomassaare Seaplane Base",
+    "icao": "EE-0005",
+    "lat": 58.2133333,
+    "lon": 22.51
+  },
+  {
+    "country": "Estonia",
+    "state": "Saare County",
+    "city": "NÃ¤ssuma",
+    "name": "NÃ¤ssuma Airstrip",
+    "icao": "EE-0003",
+    "lat": 58.2835998535156,
+    "lon": 22.8178005218505
+  },
+  {
+    "country": "Estonia",
+    "state": "LÃ¤Ã¤ne County",
+    "city": "Saare",
+    "name": "Lyckholm Airport",
+    "icao": "EELU",
+    "lat": 59.02211,
+    "lon": 23.57808
+  },
+  {
+    "country": "Estonia",
+    "state": "Saare County",
+    "city": "Salme",
+    "name": "Salme Heliport",
+    "icao": "EESE",
+    "lat": 58.1319444,
+    "lon": 22.2583333
+  },
+  {
+    "country": "Estonia",
+    "state": "(unassigned)",
+    "city": "Vormsi Island",
+    "name": "Vormsi Airfield",
+    "icao": "EEVO",
+    "lat": 58.9851604,
+    "lon": 23.2513723
+  }
+]

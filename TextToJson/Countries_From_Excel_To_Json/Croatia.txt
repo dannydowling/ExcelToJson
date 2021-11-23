@@ -1,0 +1,227 @@
+[
+  {
+    "country": "Croatia",
+    "state": "Dubrovnik-Neretva County",
+    "city": "Dubrovnik",
+    "name": "Dubrovnik Airport",
+    "icao": "LDDU",
+    "lat": 42.5614013671875,
+    "lon": 18.2681999206542
+  },
+  {
+    "country": "Croatia",
+    "state": "Primorje-Gorski Kotar County",
+    "city": "LoÅ¡inj",
+    "name": "LoÅ¡inj Island Airport",
+    "icao": "LDLO",
+    "lat": 44.5657997131,
+    "lon": 14.3930997849
+  },
+  {
+    "country": "Croatia",
+    "state": "Primorje-Gorski Kotar County",
+    "city": "Unije Island",
+    "name": "Unije Airport",
+    "icao": "LDPN",
+    "lat": 44.6282997131347,
+    "lon": 14.2411003112792
+  },
+  {
+    "country": "Croatia",
+    "state": "Split-Dalmatia County",
+    "city": "BraÄ Island",
+    "name": "Bol Airport",
+    "icao": "LDSB",
+    "lat": 43.2857017517089,
+    "lon": 16.6797008514404
+  },
+  {
+    "country": "Croatia",
+    "state": "Osijek-Baranja County",
+    "city": "Osijek",
+    "name": "Osijek Airport",
+    "icao": "LDOS",
+    "lat": 45.4626998901367,
+    "lon": 18.8101997375488
+  },
+  {
+    "country": "Croatia",
+    "state": "Lika-Senj County",
+    "city": "Udbina",
+    "name": "Udbina Air Base",
+    "icao": "LDZU",
+    "lat": 44.5575981140136,
+    "lon": 15.7743997573852
+  },
+  {
+    "country": "Croatia",
+    "state": "Osijek-Baranja County",
+    "city": "ÄŒepin",
+    "name": "Osijek-ÄŒepin Airfield",
+    "icao": "LDOC",
+    "lat": 45.5427778,
+    "lon": 18.6319444
+  },
+  {
+    "country": "Croatia",
+    "state": "Istria County",
+    "city": "Medulin",
+    "name": "Medulin Campanoz Airport",
+    "icao": "LDPM",
+    "lat": 44.8432998657226,
+    "lon": 13.9041996002197
+  },
+  {
+    "country": "Croatia",
+    "state": "Sisak-Moslavina County",
+    "city": "Sisak-Moslavina County",
+    "name": "Sisak",
+    "icao": "LDZS",
+    "lat": 45.465556,
+    "lon": 16.486389
+  },
+  {
+    "country": "Croatia",
+    "state": "Hvar",
+    "city": "Hvar",
+    "name": "Hvar/Jelsa Seaplane Base",
+    "icao": "LDSJ",
+    "lat": 43.172778,
+    "lon": 16.700172
+  },
+  {
+    "country": "Croatia",
+    "state": "Bjelovar-Bilogora County",
+    "city": "Bjelovar",
+    "name": "Bjelovar Brezova Airport",
+    "icao": "LDZJ",
+    "lat": 45.8608016967773,
+    "lon": 16.8358001708984
+  },
+  {
+    "country": "Croatia",
+    "state": "Vukovar-Srijem County",
+    "city": "Vukovar",
+    "name": "Vukovar Borovo N Airport",
+    "icao": "LDOB",
+    "lat": 45.386398,
+    "lon": 18.962799
+  },
+  {
+    "country": "Croatia",
+    "state": "Zadar County",
+    "city": "Zaton",
+    "name": "Sepurine Training Base",
+    "icao": "LD57",
+    "lat": 44.209999,
+    "lon": 15.1632
+  },
+  {
+    "country": "Croatia",
+    "state": "Bjelovar-Bilogora County",
+    "city": "Bjelovar-Bilogora County",
+    "name": "Daruvar",
+    "icao": "HR-0001",
+    "lat": 45.585,
+    "lon": 17.211389
+  },
+  {
+    "country": "Croatia",
+    "state": "Nova RaÄa Airfield",
+    "city": "Nova RaÄa Airfield",
+    "name": "Nova RaÄa Airfield",
+    "icao": "HR-0004",
+    "lat": 45.78696,
+    "lon": 16.96387
+  },
+  {
+    "country": "Croatia",
+    "state": "Gradac Airstrip",
+    "city": "Gradac Airstrip",
+    "name": "Gradac Airstrip",
+    "icao": "HR-0005",
+    "lat": 45.3108972,
+    "lon": 17.8216824
+  },
+  {
+    "country": "Croatia",
+    "state": "Primorje-Gorski Kotar County",
+    "city": "Primorje-Gorski Kotar County",
+    "name": "Mali-Losinj Seaplane Terminal",
+    "icao": "HR-0008",
+    "lat": 44.537284,
+    "lon": 14.456934
+  },
+  {
+    "country": "Croatia",
+    "state": "Osijek-Baranja County",
+    "city": "Osijek-Baranja County",
+    "name": "Mirkovac Airstrip",
+    "icao": "HR-0010",
+    "lat": 45.7310129,
+    "lon": 18.7884716
+  },
+  {
+    "country": "Croatia",
+    "state": "Dubrovnik-Neretva County",
+    "city": "Lumbarda",
+    "name": "Lumbarda Seaplane Terminal",
+    "icao": "LDSM",
+    "lat": 42.923159,
+    "lon": 17.17049
+  },
+  {
+    "country": "Croatia",
+    "state": "(unassigned)",
+    "city": "Novalja",
+    "name": "Novalja Seaplane Terminal",
+    "icao": "LDZN",
+    "lat": 44.5527,
+    "lon": 14.8838
+  },
+  {
+    "country": "Croatia",
+    "state": "Istria County",
+    "city": "Pula",
+    "name": "Pula Seaplane Terminal",
+    "icao": "LDPP",
+    "lat": 44.876066,
+    "lon": 13.846447
+  },
+  {
+    "country": "Croatia",
+    "state": "Primorje-Gorski Kotar County",
+    "city": "Rab",
+    "name": "Rab Seaplane Terminal",
+    "icao": "LDRR",
+    "lat": 44.756391,
+    "lon": 14.764118
+  },
+  {
+    "country": "Croatia",
+    "state": "(unassigned)",
+    "city": "Split",
+    "name": "Split-Resnik Seaplane Base",
+    "icao": "LDSR",
+    "lat": 43.529313,
+    "lon": 16.301927
+  },
+  {
+    "country": "Croatia",
+    "state": "Dubrovnik-Neretva County",
+    "city": "Vela Luka",
+    "name": "KORÄŒULA Vela Luka Seaplane Terminal",
+    "icao": "HR-0002",
+    "lat": 42.959075,
+    "lon": 16.710156
+  },
+  {
+    "country": "Croatia",
+    "state": "Zagreb County",
+    "city": "Zvekovac",
+    "name": "Zvekovac",
+    "icao": "LDZE",
+    "lat": 45.823056,
+    "lon": 16.5
+  }
+]

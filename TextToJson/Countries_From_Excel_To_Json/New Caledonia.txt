@@ -1,0 +1,101 @@
+[
+  {
+    "country": "New Caledonia",
+    "state": "(unassigned)",
+    "city": "ÃŽle des Pins",
+    "name": "ÃŽle des Pins Airport",
+    "icao": "NWWE",
+    "lat": -22.5888996124267,
+    "lon": 167.455993652343
+  },
+  {
+    "country": "New Caledonia",
+    "state": "KonÃ©",
+    "city": "KonÃ©",
+    "name": "KonÃ© Airport",
+    "icao": "NWWD",
+    "lat": -21.0543003082275,
+    "lon": 164.837005615234
+  },
+  {
+    "country": "New Caledonia",
+    "state": "Koumac",
+    "city": "Koumac",
+    "name": "Koumac Airport",
+    "icao": "NWWK",
+    "lat": -20.5463008880615,
+    "lon": 164.255996704101
+  },
+  {
+    "country": "New Caledonia",
+    "state": "OuvÃ©a",
+    "city": "OuvÃ©a",
+    "name": "OuvÃ©a Airport",
+    "icao": "NWWV",
+    "lat": -20.6406002044677,
+    "lon": 166.572998046875
+  },
+  {
+    "country": "New Caledonia",
+    "state": "Tiga",
+    "city": "Tiga",
+    "name": "Tiga Airport",
+    "icao": "NWWA",
+    "lat": -21.0960998535156,
+    "lon": 167.804000854492
+  },
+  {
+    "country": "New Caledonia",
+    "state": "(unassigned)",
+    "city": "Bourail / PoÃ©",
+    "name": "Bourail - PoÃ© Airport",
+    "icao": "NWWB",
+    "lat": -21.6096992492675,
+    "lon": 165.397003173828
+  },
+  {
+    "country": "New Caledonia",
+    "state": "(unassigned)",
+    "city": "Canala",
+    "name": "Canala Airport",
+    "icao": "NWWX",
+    "lat": -21.5202007293701,
+    "lon": 165.97200012207
+  },
+  {
+    "country": "New Caledonia",
+    "state": "(unassigned)",
+    "city": "ÃŽle Ouen",
+    "name": "Edmond CanÃ© Airport",
+    "icao": "NWWO",
+    "lat": -22.460295,
+    "lon": 166.782718
+  },
+  {
+    "country": "New Caledonia",
+    "state": "(unassigned)",
+    "city": "La Foa",
+    "name": "Oua Tom Airport",
+    "icao": "NWWT",
+    "lat": -21.8197002410888,
+    "lon": 165.86099243164
+  },
+  {
+    "country": "New Caledonia",
+    "state": "Ouaco",
+    "city": "Ouaco",
+    "name": "Ouaco Airport",
+    "icao": "NWWY",
+    "lat": -20.8500003814697,
+    "lon": 164.533004760742
+  },
+  {
+    "country": "New Caledonia",
+    "state": "(unassigned)",
+    "city": "Plaine des Lacs",
+    "name": "Plaine des Lacs Airport",
+    "icao": "NWWS",
+    "lat": -22.2670001983642,
+    "lon": 166.917007446289
+  }
+]

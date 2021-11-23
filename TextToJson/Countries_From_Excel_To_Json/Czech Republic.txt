@@ -1,0 +1,1172 @@
+[
+  {
+    "country": "Czech Republic",
+    "state": "Prague (capital city)",
+    "city": "Prague",
+    "name": "VÃ¡clav Havel Airport Prague",
+    "icao": "LKPR",
+    "lat": 50.1008,
+    "lon": 14.26
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Prague (capital city)",
+    "city": "LetÅˆany",
+    "name": "LetÅˆany Airfield",
+    "icao": "LKLT",
+    "lat": 50.131401,
+    "lon": 14.5256
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Pribram",
+    "name": "Pribram Airport",
+    "icao": "LKPM",
+    "lat": 49.7201,
+    "lon": 14.1006
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Carlsbad Region",
+    "city": "Karlovy Vary",
+    "name": "Karlovy Vary International Airport",
+    "icao": "LKKV",
+    "lat": 50.2029991149902,
+    "lon": 12.914999961853
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Moravian-Silesian Region",
+    "city": "Ostrava",
+    "name": "Ostrava Leos JanÃ¡Äek Airport",
+    "icao": "LKMT",
+    "lat": 49.6963005065918,
+    "lon": 18.111099243164
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Zlin Region",
+    "city": "UherskÃ© HradiÅ¡tÄ›",
+    "name": "Kunovice Airport",
+    "icao": "LKKU",
+    "lat": 49.0293998718261,
+    "lon": 17.4396991729736
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "Pardubice",
+    "name": "Pardubice Airport",
+    "icao": "LKPD",
+    "lat": 50.0134010314941,
+    "lon": 15.7385997772216
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "ÄŒeskÃ© BudÄ›jovice",
+    "name": "ÄŒeskÃ© BudÄ›jovice Airport",
+    "icao": "LKCS",
+    "lat": 48.9463996887207,
+    "lon": 14.4274997711181
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "HoÅ™ovice",
+    "name": "HoÅ™ovice Airport",
+    "icao": "LKHV",
+    "lat": 49.8480987548828,
+    "lon": 13.8935003280639
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "MoravskÃ¡ TÅ™ebovÃ¡",
+    "name": "MoravskÃ¡ TÅ™ebovÃ¡ Airport",
+    "icao": "LKMK",
+    "lat": 49.798302,
+    "lon": 16.687799
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "Panensky Tynec",
+    "name": "Panensky Tynec Airport",
+    "icao": "LKPC",
+    "lat": 50.3060989379882,
+    "lon": 13.9342002868652
+  },
+  {
+    "country": "Czech Republic",
+    "state": "VysoÄina Region",
+    "city": "HavlÃ­ÄkÅ¯v Brod",
+    "name": "HavlÃ­ÄkÅ¯v Brod Airport",
+    "icao": "LKHB",
+    "lat": 49.597198486328,
+    "lon": 15.549200057983
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "JindÅ™ichÅ¯v Hradec",
+    "name": "JindÅ™ichÅ¯v Hradec Airport",
+    "icao": "LKJH",
+    "lat": 49.1502990722656,
+    "lon": 14.9710998535156
+  },
+  {
+    "country": "Czech Republic",
+    "state": "PlzeÅˆ Region",
+    "city": "Klatovy",
+    "name": "Klatovy Airport",
+    "icao": "LKKT",
+    "lat": 49.4183006286621,
+    "lon": 13.3219003677368
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Olomouc Region",
+    "city": "PÅ™erov",
+    "name": "PÅ™erov Air Base",
+    "icao": "LKPO",
+    "lat": 49.4258003234863,
+    "lon": 17.4046993255615
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Vodochody",
+    "name": "Vodochody Airport",
+    "icao": "LKVO",
+    "lat": 50.216599,
+    "lon": 14.3958
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Liberec Region",
+    "city": "ÄŒeskÃ¡ LÃ­pa",
+    "name": "ÄŒeskÃ¡ LÃ­pa Airport",
+    "icao": "LKCE",
+    "lat": 50.7094001770019,
+    "lon": 14.5666999816894
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "Chrudim",
+    "name": "Chrudim Airport",
+    "icao": "LKCR",
+    "lat": 49.9364013671875,
+    "lon": 15.7805995941162
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "Hosin",
+    "name": "Hosin Airport",
+    "icao": "LKHS",
+    "lat": 49.0400009155273,
+    "lon": 14.494999885559
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Olomouc Region",
+    "city": "Mikulovice",
+    "name": "Mikulovice Airfield",
+    "icao": "LKMI",
+    "lat": 50.301701,
+    "lon": 17.297501
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "SlanÃ½",
+    "name": "SlanÃ½ Airport",
+    "icao": "LKSN",
+    "lat": 50.216701507568,
+    "lon": 14.088600158691
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "SobÄ›slav",
+    "name": "SobÄ›slav",
+    "icao": "LKSO",
+    "lat": 49.246700286865,
+    "lon": 14.713600158691
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "VlaÅ¡im",
+    "name": "VlaÅ¡im Airfield",
+    "icao": "LKVL",
+    "lat": 49.728901,
+    "lon": 14.8789
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Olomouc Region",
+    "city": "Hranice",
+    "name": "Hranice Airport",
+    "icao": "LKHN",
+    "lat": 49.5461,
+    "lon": 17.7043991
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Hradec KrÃ¡lovÃ© Region",
+    "city": "JaromÄ›Å™",
+    "name": "JaromÄ›Å™ Airport",
+    "icao": "LKJA",
+    "lat": 50.3314018249511,
+    "lon": 15.9539003372192
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "Usti Nad Labem",
+    "name": "Usti Nad Labem Airfield",
+    "icao": "LKUL",
+    "lat": 50.699699,
+    "lon": 13.9697
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "VysokÃ© MÃ½to",
+    "name": "LetiÅ¡tÄ› VysokÃ© MÃ½to",
+    "icao": "LKVM",
+    "lat": 49.926899,
+    "lon": 16.185801
+  },
+  {
+    "country": "Czech Republic",
+    "state": "VysoÄina Region",
+    "city": "KÅ™iÅ¾anov",
+    "name": "KÅ™iÅ¾anov Airport",
+    "icao": "LKKA",
+    "lat": 49.3683013916015,
+    "lon": 16.1161003112792
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Zlin Region",
+    "city": "KromÄ›Å™Ã­Å¾",
+    "name": "KromÄ›Å™Ã­Å¾ Airport",
+    "icao": "LKKM",
+    "lat": 49.285599,
+    "lon": 17.4158
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "Kyjov",
+    "name": "Kyjov Airfield",
+    "icao": "LKKY",
+    "lat": 48.98,
+    "lon": 17.124701
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "MedlÃ¡nky",
+    "name": "MedlÃ¡nky Airfield",
+    "icao": "LKCM",
+    "lat": 49.236698,
+    "lon": 16.555
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Olomouc Region",
+    "city": "Mostkovice",
+    "name": "Stichovice Pluml Airport",
+    "icao": "LKSB",
+    "lat": 49.486099243164,
+    "lon": 17.0555992126464
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Zlin Region",
+    "city": "Otrokovice",
+    "name": "ZlÃ­n Otrokovice Airfield",
+    "icao": "LKOT",
+    "lat": 49.198299,
+    "lon": 17.517799
+  },
+  {
+    "country": "Czech Republic",
+    "state": "VysoÄina Region",
+    "city": "Pribyslav",
+    "name": "Pribyslav Airport",
+    "icao": "LKPI",
+    "lat": 49.5807991027832,
+    "lon": 15.7628002166748
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "SkuteÄ",
+    "name": "SkuteÄ Airfield",
+    "icao": "LKSK",
+    "lat": 49.827801,
+    "lon": 16.0058
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Carlsbad Region",
+    "city": "TouÅ¾im",
+    "name": "TouÅ¾im Airfield",
+    "icao": "LKTO",
+    "lat": 50.086399,
+    "lon": 12.9528
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "ÄŒÃ¡slav",
+    "name": "ÄŒÃ¡slav Air Base",
+    "icao": "LKCV",
+    "lat": 49.9397010803222,
+    "lon": 15.3817996978759
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Olomouc Region",
+    "city": "BohuÅˆovice",
+    "name": "BohuÅˆovice Airport",
+    "icao": "LKBO",
+    "lat": 49.6706008911132,
+    "lon": 17.2950000762939
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Hradec KrÃ¡lovÃ© Region",
+    "city": "Broumov",
+    "name": "Broumov Airport",
+    "icao": "LKBR",
+    "lat": 50.5619010925293,
+    "lon": 16.3428001403808
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "ChoceÅˆ",
+    "name": "ChoceÅˆ Airport",
+    "icao": "LKCO",
+    "lat": 49.9772796630859,
+    "lon": 16.1849212646484
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Moravian-Silesian Region",
+    "city": "Krnov",
+    "name": "Krnov Airport",
+    "icao": "LKKR",
+    "lat": 50.0741996765136,
+    "lon": 17.6947002410888
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Nymburk",
+    "name": "Nymburk Ul Ploch Airport",
+    "icao": "LKNY",
+    "lat": 50.168598,
+    "lon": 15.0525
+  },
+  {
+    "country": "Czech Republic",
+    "state": "PlzeÅˆ Region",
+    "city": "PlanÃ¡",
+    "name": "KÅ™Ã­Å¾enec PlanÃ¡ Airport",
+    "icao": "LKKC",
+    "lat": 49.8706016540527,
+    "lon": 12.7725000381469
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "PodhoÅ™any",
+    "name": "PodhoÅ™any Airport",
+    "icao": "LKPN",
+    "lat": 49.939201355,
+    "lon": 15.5496997833
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "Policka",
+    "name": "Policka Airport",
+    "icao": "LKPA",
+    "lat": 49.7393989562988,
+    "lon": 16.2588996887207
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Hradec KrÃ¡lovÃ© Region",
+    "city": "Velke Porici",
+    "name": "LetiÅ¡tÄ› VelkÃ© PoÅ™Ã­ÄÃ­",
+    "icao": "LKVP",
+    "lat": 50.4678,
+    "lon": 16.205601
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Moravian-Silesian Region",
+    "city": "Zabreh",
+    "name": "Zabreh Ostrava Airport",
+    "icao": "LKZA",
+    "lat": 49.9282989501953,
+    "lon": 18.0783004760742
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "Å½atec",
+    "name": "Å½atec-Macerka Airfield",
+    "icao": "LKZD",
+    "lat": 50.317501,
+    "lon": 13.5128
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "ÃšstÃ­ nad Labem Region",
+    "name": "CharvÃ¡tce",
+    "icao": "CZ-0087",
+    "lat": 50.4336111,
+    "lon": 13.8113889
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Zlin Region",
+    "city": "LuhaÄovice",
+    "name": "LetiÅ¡tÄ› LuhaÄovice",
+    "icao": "CZ-0161",
+    "lat": 49.088188,
+    "lon": 17.718769
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "MÄ›lnÃ­k",
+    "name": "HoÅ™Ã­n Heliport",
+    "icao": "CZ-0031",
+    "lat": 50.344383239746,
+    "lon": 14.4380264282226
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Liberec Region",
+    "city": "Ralsko",
+    "name": "HradÄany Air Base",
+    "icao": "LKHR",
+    "lat": 50.620555877685,
+    "lon": 14.738056182861
+  },
+  {
+    "country": "Czech Republic",
+    "state": "PlzeÅˆ Region",
+    "city": "ErpuÅ¾ice",
+    "name": "ErpuÅ¾ice Airport",
+    "icao": "LKER",
+    "lat": 49.8027992248535,
+    "lon": 13.0381002426147
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Zlin Region",
+    "city": "HoleÅ¡ov",
+    "name": "HoleÅ¡ov Airport",
+    "icao": "LKHO",
+    "lat": 49.3143997,
+    "lon": 17.5688992
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Central Bohemian Region",
+    "name": "Borek",
+    "icao": "CZ-0048",
+    "lat": 50.2108813,
+    "lon": 14.6574049
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Olomouc Region",
+    "city": "Olomouc Region",
+    "name": "PÄ›nÄÃ­n",
+    "icao": "CZ-0050",
+    "lat": 49.5682909,
+    "lon": 16.9991842
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "ÃšstÃ­ nad Labem Region",
+    "name": "Bynovec",
+    "icao": "CZ-0053",
+    "lat": 50.826389,
+    "lon": 14.2675
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Liberec Region",
+    "city": "Liberec Region",
+    "name": "ÄŒeskÃ½ Dub",
+    "icao": "CZ-0056",
+    "lat": 50.678056,
+    "lon": 14.999722
+  },
+  {
+    "country": "Czech Republic",
+    "state": "PlzeÅˆ Region",
+    "city": "PlzeÅˆ Region",
+    "name": "ChotÄ›Å¡ov UL",
+    "icao": "CZ-0062",
+    "lat": 49.651667,
+    "lon": 13.189722
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Carlsbad Region",
+    "city": "Carlsbad Region",
+    "name": "StarÃ¡ voda",
+    "icao": "CZ-0070",
+    "lat": 49.9971221,
+    "lon": 12.5773792
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Zlin Region",
+    "city": "Zlin Region",
+    "name": "ZlÃ­n Å tÃ­pa",
+    "icao": "LKSP",
+    "lat": 49.272778,
+    "lon": 17.746389
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Central Bohemian Region",
+    "name": "BURANOS Aires UL",
+    "icao": "CZ-0072",
+    "lat": 50.008611,
+    "lon": 14.039167
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Zlin Region",
+    "city": "Zlin Region",
+    "name": "SluÅ¡ovice",
+    "icao": "CZ-0075",
+    "lat": 49.2588889,
+    "lon": 17.8133333
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "ÃšstÃ­ nad Labem Region",
+    "name": "Polepy",
+    "icao": "CZ-0078",
+    "lat": 50.5213889,
+    "lon": 14.2716667
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Central Bohemian Region",
+    "name": "SÃ¡zava",
+    "icao": "CZ-0080",
+    "lat": 49.8877778,
+    "lon": 14.9394444
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Central Bohemian Region",
+    "name": "Å kudly",
+    "icao": "CZ-0083",
+    "lat": 50.0219444,
+    "lon": 15.5205556
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "Pardubice Region",
+    "name": "JehnÄ›dÃ­",
+    "icao": "CZ-0085",
+    "lat": 49.965,
+    "lon": 16.3097222
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "South Moravian Region",
+    "name": "Letovice",
+    "icao": "CZ-0088",
+    "lat": 49.5466667,
+    "lon": 16.5986111
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Zlin Region",
+    "city": "Zlin Region",
+    "name": "BorÅ¡ice",
+    "icao": "CZ-0090",
+    "lat": 49.0513889,
+    "lon": 17.3675
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "South Moravian Region",
+    "name": "Boleradice",
+    "icao": "CZ-0093",
+    "lat": 48.9619444,
+    "lon": 16.8316667
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "South Bohemian Region",
+    "name": "Doudleby",
+    "icao": "CZ-0095",
+    "lat": 48.8851123,
+    "lon": 14.4862242
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Carlsbad Region",
+    "city": "Carlsbad Region",
+    "name": "Hory",
+    "icao": "CZ-0096",
+    "lat": 50.21695,
+    "lon": 12.77669
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Carlsbad Region",
+    "city": "Carlsbad Region",
+    "name": "Ostrov",
+    "icao": "CZ-0098",
+    "lat": 50.3366667,
+    "lon": 12.9697222
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Hradec KrÃ¡lovÃ© Region",
+    "city": "Hradec KrÃ¡lovÃ© Region",
+    "name": "ChoteÄ",
+    "icao": "CZ-0100",
+    "lat": 50.4338889,
+    "lon": 15.5305556
+  },
+  {
+    "country": "Czech Republic",
+    "state": "PlzeÅˆ Region",
+    "city": "PlzeÅˆ Region",
+    "name": "PleÅ¡nice",
+    "icao": "CZ-0104",
+    "lat": 49.7722222,
+    "lon": 13.1622222
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "ÃšstÃ­ nad Labem Region",
+    "name": "DuÅ¡nÃ­ky ULM",
+    "icao": "CZ-0109",
+    "lat": 50.4127778,
+    "lon": 14.1980556
+  },
+  {
+    "country": "Czech Republic",
+    "state": "KÃ¡men Air Base",
+    "city": "KÃ¡men Air Base",
+    "name": "KÃ¡men Air Base",
+    "icao": "LKPV",
+    "lat": 49.4177778,
+    "lon": 14.9938889
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Katovice Airstrip",
+    "city": "Katovice Airstrip",
+    "name": "Katovice Airstrip",
+    "icao": "CZ-0113",
+    "lat": 49.2683546,
+    "lon": 13.8007759
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "South Bohemian Region",
+    "name": "Å½eleÄ Airstrip",
+    "icao": "CZ-0131",
+    "lat": 49.3305554,
+    "lon": 14.6588888
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "South Bohemian Region",
+    "name": "NovÃ¡ VÄelnice Airstrip",
+    "icao": "CZ-0134",
+    "lat": 49.2672221,
+    "lon": 15.0777777
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "South Moravian Region",
+    "name": "Strachotice Airstrip",
+    "icao": "CZ-0136",
+    "lat": 48.806369,
+    "lon": 16.162371
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "ÃšstÃ­ nad Labem Region",
+    "name": "Libkovice",
+    "icao": "CZ-0141",
+    "lat": 50.5613889,
+    "lon": 13.6838889
+  },
+  {
+    "country": "Czech Republic",
+    "state": "LetiÅ¡tÄ› KomÃ¡rovice",
+    "city": "LetiÅ¡tÄ› KomÃ¡rovice",
+    "name": "LetiÅ¡tÄ› KomÃ¡rovice",
+    "icao": "CZ-0149",
+    "lat": 49.3396342,
+    "lon": 15.6734886
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Milotice Airstrip",
+    "city": "Milotice Airstrip",
+    "name": "Milotice Airstrip",
+    "icao": "CZ-0150",
+    "lat": 48.9361588,
+    "lon": 17.124342
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Hradec KrÃ¡lovÃ© Region",
+    "city": "Hradec KrÃ¡lovÃ© Region",
+    "name": "LetiÅ¡tÄ› NÃ¡chod",
+    "icao": "CZ-0155",
+    "lat": 50.4130556,
+    "lon": 16.1216667
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "South Bohemian Region",
+    "name": "VodÅˆany Airstrip",
+    "icao": "CZ-0057",
+    "lat": 49.12821,
+    "lon": 14.17325
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "South Moravian Region",
+    "name": "BoÅ™etice Airstrip",
+    "icao": "CZ-0165",
+    "lat": 48.9170378,
+    "lon": 16.8413172
+  },
+  {
+    "country": "Czech Republic",
+    "state": "VysoÄina Region",
+    "city": "VysoÄina Region",
+    "name": "Å eborov Airstrip",
+    "icao": "CZ-0168",
+    "lat": 49.356253,
+    "lon": 15.926403
+  },
+  {
+    "country": "Czech Republic",
+    "state": "(unassigned)",
+    "city": "BÃ¡nov",
+    "name": "LetiÅ¡tÄ› BÃ¡nov",
+    "icao": "CZ-0147",
+    "lat": 48.9833989,
+    "lon": 17.7045864
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Moravian-Silesian Region",
+    "city": "BaÅ¡ka",
+    "name": "BaÅ¡ka",
+    "icao": "CZ-0151",
+    "lat": 49.6430556,
+    "lon": 18.3516667
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "BechynÄ›",
+    "name": "BechynÄ› Air Base",
+    "icao": "LKBC",
+    "lat": 49.2736,
+    "lon": 14.5018
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Bezno",
+    "name": "Bezno Airstrip",
+    "icao": "CZ-0108",
+    "lat": 50.356925,
+    "lon": 14.8068316
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "Blansko",
+    "name": "Hospital Heliport",
+    "icao": "CZ-0004",
+    "lat": 49.3624992370605,
+    "lon": 16.6541671752929
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "Boskovice",
+    "name": "Hospital Heliport",
+    "icao": "CZ-0005",
+    "lat": 49.4896392822265,
+    "lon": 16.6465473175048
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "Brno",
+    "name": "International Business Center Brno Heliport",
+    "icao": "CZ-0006",
+    "lat": 49.2002792358398,
+    "lon": 16.6138896942138
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "Brno",
+    "name": "Teaching Hospital -Building 1 Heliport",
+    "icao": "CZ-0010",
+    "lat": 49.2035408020019,
+    "lon": 16.616600036621
+  },
+  {
+    "country": "Czech Republic",
+    "state": "VysoÄina Region",
+    "city": "BystÅ™ice",
+    "name": "BystÅ™ice",
+    "icao": "CZ-0099",
+    "lat": 49.5227778,
+    "lon": 16.2322222
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "ÄŒeskÃ© BudÄ›jovice",
+    "name": "Factory JihoÄeskÃ© PapÃ­rny Heliport",
+    "icao": "CZ-0001",
+    "lat": 48.9620018005371,
+    "lon": 14.4625310897827
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "Chomutov",
+    "name": "Hospital Heliport",
+    "icao": "CZ-0038",
+    "lat": 50.4533348083496,
+    "lon": 13.4111108779907
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "Chrudim",
+    "name": "Hospital Heliport",
+    "icao": "CZ-0024",
+    "lat": 49.9413871765136,
+    "lon": 15.8083333969116
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Moravian-Silesian Region",
+    "city": "HaÅ¥",
+    "name": "LetiÅ¡tÄ› HaÅ¥ u HluÄÃ­na",
+    "icao": "CZ-0154",
+    "lat": 49.951812,
+    "lon": 18.2651648
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Hradec KrÃ¡lovÃ© Region",
+    "city": "Hradec KrÃ¡lovÃ©",
+    "name": "Teaching Hospital, Clinic Karim - Roof Heliport",
+    "icao": "CZ-0015",
+    "lat": 50.1982536315918,
+    "lon": 15.8285284042358
+  },
+  {
+    "country": "Czech Republic",
+    "state": "VysoÄina Region",
+    "city": "JinoÅ¡ov",
+    "name": "JinoÅ¡ov Airstrip",
+    "icao": "CZ-0146",
+    "lat": 49.2275,
+    "lon": 16.1738889
+  },
+  {
+    "country": "Czech Republic",
+    "state": "VysoÄina Region",
+    "city": "JiÅ™iÄky",
+    "name": "JiÅ™iÄky UL",
+    "icao": "CZ-0065",
+    "lat": 49.552222,
+    "lon": 15.155556
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Zlin Region",
+    "city": "KelÄ",
+    "name": "KelÄ Airstrip",
+    "icao": "CZ-0121",
+    "lat": 49.4577713,
+    "lon": 17.8201705
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "KnÄ›Å¾ice u JiÄÃ­na",
+    "name": "LetiÅ¡tÄ› KnÄ›Å¾ice u JiÄÃ­na",
+    "icao": "CZ-0125",
+    "lat": 50.262998,
+    "lon": 15.297407
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Konojedy",
+    "name": "Konojedy Airstrip",
+    "icao": "CZ-0159",
+    "lat": 49.9511008,
+    "lon": 14.8699442
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Moravian-Silesian Region",
+    "city": "Krnov",
+    "name": "Hospital Heliport",
+    "icao": "CZ-0017",
+    "lat": 50.0971908569335,
+    "lon": 17.6850872039794
+  },
+  {
+    "country": "Czech Republic",
+    "state": "(unassigned)",
+    "city": "LipovÃ¡",
+    "name": "Letiste LipovÃ¡",
+    "icao": "CZ-0145",
+    "lat": 51.0087306,
+    "lon": 14.3438527
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "LitomÄ›Å™ice",
+    "name": "Municipal Hospital Heliport",
+    "icao": "CZ-0039",
+    "lat": 50.5419883728027,
+    "lon": 14.1461763381958
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Olomouc Region",
+    "city": "Litovel",
+    "name": "DÄ›tÅ™ichov OÃ¡za",
+    "icao": "CZ-0101",
+    "lat": 49.7291667,
+    "lon": 17.1180556
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "Miroslav",
+    "name": "Miroslav Aircon UL",
+    "icao": "CZ-0074",
+    "lat": 48.931667,
+    "lon": 16.339722
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "MladÃ¡ Boleslav",
+    "name": "Hospital Heliport",
+    "icao": "CZ-0034",
+    "lat": 50.4191665649414,
+    "lon": 14.9071960449218
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "Neratovice",
+    "name": "Neratovice Heliport",
+    "icao": "CZ-0035",
+    "lat": 50.254165649414,
+    "lon": 14.522777557373
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Olomouc Region",
+    "city": "Olomouc",
+    "name": "TabulovÃ½ Vrch Heliport",
+    "icao": "CZ-0021",
+    "lat": 49.5832901000976,
+    "lon": 17.2207775115966
+  },
+  {
+    "country": "Czech Republic",
+    "state": "(unassigned)",
+    "city": "Opava",
+    "name": "LetiÅ¡tÄ› Opava - KyleÅ¡ovice",
+    "icao": "CZ-0127",
+    "lat": 49.8991666,
+    "lon": 17.9229588
+  },
+  {
+    "country": "Czech Republic",
+    "state": "(unassigned)",
+    "city": "OsiÄiny",
+    "name": "OsiÄiny Airstrip",
+    "icao": "CZ-0129",
+    "lat": 50.0158333,
+    "lon": 14.7722222
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Moravian-Silesian Region",
+    "city": "Ostrava",
+    "name": "The Area Of Fire And Rescue Force Heliport",
+    "icao": "CZ-0019",
+    "lat": 49.8033332824707,
+    "lon": 18.2305564880371
+  },
+  {
+    "country": "Czech Republic",
+    "state": "PlzeÅˆ Region",
+    "city": "PlzeÅˆ-LochotÃ­n",
+    "name": "University Hospital Pilsen Helipad",
+    "icao": "CZ-0026",
+    "lat": 49.76357,
+    "lon": 13.37701
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Central Bohemian Region",
+    "city": "PodÄ›brady",
+    "name": "LetiÅ¡tÄ› PodÄ›brady",
+    "icao": "CZ-0126",
+    "lat": 50.1844783,
+    "lon": 15.1663157
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Moravian-Silesian Region",
+    "city": "Poruba",
+    "name": "Teaching Hospital Heliport",
+    "icao": "CZ-0018",
+    "lat": 49.827220916748,
+    "lon": 18.1569442749023
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Prague (capital city)",
+    "city": "Prague",
+    "name": "Ãšvn/Central Military Hospital StÅ™eÅ¡ovice -Pavilion Ch 2 Heliport",
+    "icao": "CZ-0029",
+    "lat": 50.0888900756835,
+    "lon": 14.3630561828613
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Hradec KrÃ¡lovÃ© Region",
+    "city": "StarÃ¡ Paka",
+    "name": "LetiÅ¡tÄ› StarÃ¡ Paka",
+    "icao": "CZ-0143",
+    "lat": 50.5013889,
+    "lon": 15.4830556
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Hradec KrÃ¡lovÃ© Region",
+    "city": "Studenec",
+    "name": "Studenec Ultralight",
+    "icao": "CZ-0060",
+    "lat": 50.549584,
+    "lon": 15.535908
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "Svitavy",
+    "name": "Area Of Fire And Rescue Force Heliport",
+    "icao": "CZ-0023",
+    "lat": 49.7638893127441,
+    "lon": 16.4624996185302
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Hradec KrÃ¡lovÃ© Region",
+    "city": "Trutnov",
+    "name": "HornÃ­ StarÃ© MÄ›sto Heliport",
+    "icao": "CZ-0011",
+    "lat": 50.5861091613769,
+    "lon": 15.8786106109619
+  },
+  {
+    "country": "Czech Republic",
+    "state": "ÃšstÃ­ nad Labem Region",
+    "city": "ÃšstÃ­ Nad Labem",
+    "name": "Bukov Heliport",
+    "icao": "CZ-0036",
+    "lat": 50.6775016784668,
+    "lon": 14.0238885879516
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Bohemian Region",
+    "city": "VeleÅ¡Ã­n",
+    "name": "LetiÅ¡tÄ› VeleÅ¡Ã­n",
+    "icao": "CZ-0144",
+    "lat": 48.826667,
+    "lon": 14.449167
+  },
+  {
+    "country": "Czech Republic",
+    "state": "South Moravian Region",
+    "city": "VelkÃ© Pavlovice",
+    "name": "VelkÃ© Pavlovice ULM",
+    "icao": "CZ-0128",
+    "lat": 48.880556,
+    "lon": 16.825
+  },
+  {
+    "country": "Czech Republic",
+    "state": "Pardubice Region",
+    "city": "VeselÃ­ u PÅ™elouÄe",
+    "name": "VeselÃ­",
+    "icao": "CZ-0148",
+    "lat": 50.0069444,
+    "lon": 15.6177777
+  }
+]

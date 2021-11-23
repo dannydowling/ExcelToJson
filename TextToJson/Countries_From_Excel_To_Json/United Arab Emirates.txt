@@ -1,0 +1,254 @@
+[
+  {
+    "country": "United Arab Emirates",
+    "state": "Dubai Emirate",
+    "city": "Dubai",
+    "name": "Dubai International Airport",
+    "icao": "OMDB",
+    "lat": 25.2527999878,
+    "lon": 55.3643989563
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Sharjah Emirate",
+    "city": "Sharjah",
+    "name": "Sharjah International Airport",
+    "icao": "OMSJ",
+    "lat": 25.3285999298095,
+    "lon": 55.5172004699707
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Ras al-Khaimah Emirate",
+    "city": "Ras Al Khaimah",
+    "name": "Ras Al Khaimah International Airport",
+    "icao": "OMRK",
+    "lat": 25.6135005950927,
+    "lon": 55.9388008117675
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "Bateen Airport",
+    "icao": "OMAD",
+    "lat": 24.4283008575439,
+    "lon": 54.4580993652343
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "Al Dhafra Air Base",
+    "icao": "OMAM",
+    "lat": 24.2481994629,
+    "lon": 54.5476989745999
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi",
+    "name": "Abu Dhabi Northeast Airport",
+    "icao": "OM11",
+    "lat": 24.5188999176025,
+    "lon": 54.9800987243652
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "Jebel Dhana Airport",
+    "icao": "OMAJ",
+    "lat": 24.187400817871,
+    "lon": 52.6139984130859
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Ras al-Khaimah Emirate",
+    "city": "Ras al-Khaimah Emirate",
+    "name": "Al Saqr Field",
+    "icao": "OMRS",
+    "lat": 25.7527770996093,
+    "lon": 55.9594459533691
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "Buhasa Airport",
+    "icao": "OMAB",
+    "lat": 23.5997009277343,
+    "lon": 53.3793983459472
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Arzanah Island",
+    "name": "Arzanah Airport",
+    "icao": "OMAR",
+    "lat": 24.7805004119873,
+    "lon": 52.5598983764648
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Qarnayn Island",
+    "name": "Qarnayn Airport",
+    "icao": "OMAQ",
+    "lat": 24.9305992126464,
+    "lon": 52.8550987243652
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "Asab Airfield",
+    "icao": "OMAC",
+    "lat": 23.2980995178222,
+    "lon": 54.2216987609863
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Dubai Emirate",
+    "city": "Dubai Emirate",
+    "name": "Dubai Skydive",
+    "icao": "AE-0003",
+    "lat": 25.0898742332,
+    "lon": 55.1366257668
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Umm al-Quwain Emirate",
+    "city": "Umm al-Quwain Emirate",
+    "name": "Kempinski Emirates Palace Twin Heliport",
+    "icao": "AE-0005",
+    "lat": 24.4622678827999,
+    "lon": 54.3205904961
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Dubai Emirate",
+    "city": "Dubai Emirate",
+    "name": "Al Ghuwaifat Border Post helipad",
+    "icao": "AE-0007",
+    "lat": 24.120421,
+    "lon": 51.600595
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "Sir Bani Yas Airport",
+    "icao": "OMBY",
+    "lat": 24.283611,
+    "lon": 52.580278
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Dubai Emirate",
+    "city": "Dubai Emirate",
+    "name": "Palm Jumeirah Heliport",
+    "icao": "AE-0011",
+    "lat": 25.127297,
+    "lon": 55.114092
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "Oceana Palm Jumeirah Helipad",
+    "icao": "AE-0013",
+    "lat": 25.110083,
+    "lon": 55.135169
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "Golden Tulip Al Jazira Helipad",
+    "icao": "AE-0015",
+    "lat": 24.858628,
+    "lon": 54.894996
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "Ghantoot Hotel 2 Helipad",
+    "icao": "AE-0017",
+    "lat": 24.865417,
+    "lon": 54.882283
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "Yasat Higher Airport",
+    "icao": "AE-0024",
+    "lat": 24.221075,
+    "lon": 52.006719
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi Emirate",
+    "name": "KIZAD Airport",
+    "icao": "OMAG",
+    "lat": 24.726505,
+    "lon": 54.832259
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi",
+    "name": "Yas Marina Heliport",
+    "icao": "AE-0020",
+    "lat": 24.468368,
+    "lon": 54.609561
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Abu Dhabi",
+    "name": "Al Mushrif Palace Helipad",
+    "icao": "AE-0022",
+    "lat": 24.452066,
+    "lon": 54.377368
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Baya Al Sila",
+    "name": "Sila Hospitals Helipad",
+    "icao": "AE-0025",
+    "lat": 24.068301,
+    "lon": 51.762519
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Abu Dhabi Emirate",
+    "city": "Delma Island",
+    "name": "Delma Hospital Helipad",
+    "icao": "AE-0009",
+    "lat": 24.4756,
+    "lon": 52.3101
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Dubai Emirate",
+    "city": "Dubai",
+    "name": "Burj al Arab Resort Helipad",
+    "icao": "AE-0002",
+    "lat": 25.141327,
+    "lon": 55.185496
+  },
+  {
+    "country": "United Arab Emirates",
+    "state": "Dubai Emirate",
+    "city": "Dubai",
+    "name": "Schumacher Heliport",
+    "icao": "AE-0010",
+    "lat": 25.221807,
+    "lon": 55.138836
+  }
+]

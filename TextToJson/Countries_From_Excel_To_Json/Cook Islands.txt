@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Cook Islands",
+    "state": "Pukapuka Atoll",
+    "city": "Pukapuka Atoll",
+    "name": "Pukapuka Island Airport",
+    "icao": "NCPK",
+    "lat": -10.9145,
+    "lon": -165.8393
+  },
+  {
+    "country": "Cook Islands",
+    "state": "Manihiki Island",
+    "city": "Manihiki Island",
+    "name": "Manihiki Island Airport",
+    "icao": "NCMH",
+    "lat": -10.3767004013061,
+    "lon": -161.001998901367
+  },
+  {
+    "country": "Cook Islands",
+    "state": "Mitiaro Island",
+    "city": "Mitiaro Island",
+    "name": "Mitiaro Island Airport",
+    "icao": "NCMR",
+    "lat": -19.8425006866455,
+    "lon": -157.703002929687
+  },
+  {
+    "country": "Cook Islands",
+    "state": "Penrhyn Island",
+    "city": "Penrhyn Island",
+    "name": "Tongareva Airport",
+    "icao": "NCPY",
+    "lat": -9.01436996459961,
+    "lon": -158.032409667968
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Palestinian Territory",
+    "state": "Jerusalem Governorate",
+    "city": "Jerusalem",
+    "name": "Jerusalem Airport",
+    "icao": "OJJR",
+    "lat": 31.8647,
+    "lon": 35.2192
+  }
+]

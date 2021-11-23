@@ -1,0 +1,515 @@
+[
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Almaty",
+    "name": "Almaty Airport",
+    "icao": "UAAA",
+    "lat": 43.3521003723144,
+    "lon": 77.0404968261718
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Shymkent",
+    "name": "Shymkent Airport",
+    "icao": "UAII",
+    "lat": 42.364200592041,
+    "lon": 69.4788970947265
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "West Kazakhstan Region",
+    "city": "Uralsk",
+    "name": "Uralsk Airport",
+    "icao": "UARR",
+    "lat": 51.1507987976074,
+    "lon": 51.543098449707
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Akmola Region",
+    "city": "Kokchetav",
+    "name": "Kokchetav Airport",
+    "icao": "KZ-0040",
+    "lat": 53.3241004943847,
+    "lon": 69.3690032958984
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Atyrau Region",
+    "city": "Atyrau",
+    "name": "Atyrau Airport",
+    "icao": "UATG",
+    "lat": 47.121898651123,
+    "lon": 51.8213996887207
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Akmola Region",
+    "city": "Kokshetau",
+    "name": "Kokshetau Airport",
+    "icao": "UACK",
+    "lat": 53.329102,
+    "lon": 69.594597
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "East Kazakhstan Region",
+    "city": "Semey",
+    "name": "Dolon Air Base",
+    "icao": "KZ-7470",
+    "lat": 50.5400009155273,
+    "lon": 79.1900024414062
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Aima Ata",
+    "name": "Boralday Airport",
+    "icao": "UAAR",
+    "lat": 43.3526000976562,
+    "lon": 76.8836975097656
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Ak Dzhar",
+    "name": "Stepnoye East Airport",
+    "icao": "KZ-0055",
+    "lat": 41.6251983642578,
+    "lon": 69.3973999023437
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Almaty",
+    "name": "Zakirovskiy Airport",
+    "icao": "KZ-0019",
+    "lat": 43.448002,
+    "lon": 77.049599
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Kostanay Region",
+    "city": "Arkalyk",
+    "name": "Arkalyk Airport",
+    "icao": "KZ-0002",
+    "lat": 50.2394981384277,
+    "lon": 66.9410018920898
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Akmola Region",
+    "city": "Atbasar",
+    "name": "Atbasar Airport",
+    "icao": "KZ-ATX",
+    "lat": 51.8516998291015,
+    "lon": 68.363296508789
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Badam",
+    "name": "Badam Airport",
+    "icao": "KZ-0004",
+    "lat": 42.391300201416,
+    "lon": 69.2805023193359
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Blinkovo",
+    "name": "Blinkovo Airport",
+    "icao": "KZ-0027",
+    "lat": 42.2555999755859,
+    "lon": 70.1258010864257
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Mangystau Region",
+    "city": "Burynshik",
+    "name": "Burynshik Southeast Airport",
+    "icao": "KZ-0030",
+    "lat": 45.3438987731933,
+    "lon": 51.8268013000488
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Chilik",
+    "name": "Chilik Southeast Airfield",
+    "icao": "KZ-0006",
+    "lat": 43.2235984802246,
+    "lon": 78.7323989868164
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Chubarovka",
+    "name": "Chubarovka Airport",
+    "icao": "KZ-0032",
+    "lat": 42.573501586914,
+    "lon": 69.3644027709961
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Karaganda Region",
+    "city": "Dzhezkazgan",
+    "name": "Dzhezkazgan Airport",
+    "icao": "KZ-0008",
+    "lat": 47.770802,
+    "lon": 67.673401
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Pavlodar Region",
+    "city": "Ekibastuz",
+    "name": "Ekibastuz Airport",
+    "icao": "UASB",
+    "lat": 51.5909996032714,
+    "lon": 75.2149963378906
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Iliysk",
+    "name": "Zhetygen Airport",
+    "icao": "KZ-0011",
+    "lat": 43.733101,
+    "lon": 77.119404
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Karabulak",
+    "name": "Karabulak Airport",
+    "icao": "KZ-0012",
+    "lat": 42.5028991699218,
+    "lon": 69.8031005859375
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Karaganda Region",
+    "city": "Karaganda",
+    "name": "Karaganda Southeast Airport",
+    "icao": "KZ-0035",
+    "lat": 49.8077011108398,
+    "lon": 73.1414031982421
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Karaganda Region",
+    "city": "Karahzal",
+    "name": "Karazhal Airport",
+    "icao": "KZ-0037",
+    "lat": 47.9928016662597,
+    "lon": 70.7748031616211
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Kegen",
+    "name": "Kegan Airport",
+    "icao": "KZ-0038",
+    "lat": 43.0075988769531,
+    "lon": 79.2227020263671
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Kentau",
+    "name": "Kentau Airport",
+    "icao": "KZ-0039",
+    "lat": 43.4883003234863,
+    "lon": 68.4954986572265
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Krasnyy Most",
+    "name": "Krasnyy Most East Airport",
+    "icao": "KZ-0041",
+    "lat": 42.7691001892089,
+    "lon": 69.2799987792968
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Kyzylasker",
+    "name": "Kyzylasker Airport",
+    "icao": "KZ-0042",
+    "lat": 42.608600616455,
+    "lon": 69.5899963378906
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Kyzylorda Region",
+    "city": "Kzyl-Orda",
+    "name": "Kzyl-Orda Airport",
+    "icao": "KZ-0044",
+    "lat": 44.8157005310058,
+    "lon": 65.5569992065429
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Narynkol",
+    "name": "Narynkol Airport",
+    "icao": "KZ-0045",
+    "lat": 42.7200012207031,
+    "lon": 80.1860961914062
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Jambyl Region",
+    "city": "Novotroitskoye",
+    "name": "Novotroitskoye Airport",
+    "icao": "KZ-0046",
+    "lat": 43.702801,
+    "lon": 73.745003
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Obruchevka",
+    "name": "Obruchevka Airport",
+    "icao": "KZ-0047",
+    "lat": 42.51070022583,
+    "lon": 69.1158981323242
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Pervomoyevka",
+    "name": "Pervomoyevka Airport",
+    "icao": "KZ-0048",
+    "lat": 42.0946998596191,
+    "lon": 69.901496887207
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Jambyl Region",
+    "city": "Podgorny",
+    "name": "Podgorny Airport",
+    "icao": "KZ-0050",
+    "lat": 43.1106986999511,
+    "lon": 72.4477996826171
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Sary Agach",
+    "name": "Sary Agach Airport",
+    "icao": "KZ-0052",
+    "lat": 41.456199645996,
+    "lon": 69.1418991088867
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Shardara",
+    "name": "Chardara Airport",
+    "icao": "UA34",
+    "lat": 41.2765007019043,
+    "lon": 67.9710006713867
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Taganassay",
+    "name": "Taganassay Airport",
+    "icao": "KZ-0058",
+    "lat": 42.2181015014648,
+    "lon": 69.0044021606445
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Taldy Kurgan",
+    "name": "Taldykorgan Airport",
+    "icao": "KZ-0016",
+    "lat": 45.1262016296386,
+    "lon": 78.4469985961914
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Tamerlannovka",
+    "name": "Tamerlanovka Airport",
+    "icao": "KZ-0059",
+    "lat": 42.6144981384277,
+    "lon": 69.2490005493164
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Togyzbay",
+    "name": "Togyzbay Airport",
+    "icao": "KZ-0060",
+    "lat": 41.3616981506347,
+    "lon": 68.741096496582
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Turkestan",
+    "name": "Turkestan Airport",
+    "icao": "KZ-0061",
+    "lat": 43.2769012451171,
+    "lon": 68.1903991699218
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "West Kazakhstan Region",
+    "city": "Uralsk",
+    "name": "Uralsk West Airport",
+    "icao": "KZ-0062",
+    "lat": 51.1960983276367,
+    "lon": 51.2994003295898
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Yeskiikan",
+    "name": "Yeskiikan Southeast Airport",
+    "icao": "KZ-0018",
+    "lat": 43.2655982971191,
+    "lon": 68.6427001953125
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "South Kazakhstan Region",
+    "city": "Zhilga",
+    "name": "Zhilga South Airport",
+    "icao": "KZ-0020",
+    "lat": 41.6994018554687,
+    "lon": 69.0046005249023
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Karaganda Region",
+    "city": "Akchatau",
+    "name": "Akchatau Airport",
+    "icao": "KZ-0083",
+    "lat": 47.891086,
+    "lon": 74.054011
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Jambyl Region",
+    "city": "Aksu",
+    "name": "Blagoveshchenskoye-Chu Airport",
+    "icao": "KZ-0076",
+    "lat": 43.259973,
+    "lon": 74.038989
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Aksuyek",
+    "name": "Aksuyek Airport",
+    "icao": "KZ-0065",
+    "lat": 44.6119995117187,
+    "lon": 74.5619964599609
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "East Kazakhstan Region",
+    "city": "Aktogay",
+    "name": "Aktogay Air Base",
+    "icao": "KZ-0066",
+    "lat": 46.8919982910156,
+    "lon": 79.8450012207031
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Baikonur City",
+    "city": "Baikonur",
+    "name": "Yubileyniy Airfield",
+    "icao": "UAON",
+    "lat": 46.0550003051757,
+    "lon": 63.25
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Almaty Region",
+    "city": "Charyn",
+    "name": "Charyn Airfield",
+    "icao": "KZ-0075",
+    "lat": 43.7200012207031,
+    "lon": 79.4749984741211
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Karaganda Region",
+    "city": "Koktas",
+    "name": "Koktas Southwest Airport",
+    "icao": "KZ-0085",
+    "lat": 47.351,
+    "lon": 70.616
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "East Kazakhstan Region",
+    "city": "Kurchatov",
+    "name": "Kurchatov Airfield",
+    "icao": "KZ-0068",
+    "lat": 50.7350006103515,
+    "lon": 78.5400009155273
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Jambyl Region",
+    "city": "Novotroitskoye",
+    "name": "Novotroitskoye West Airfield",
+    "icao": "KZ-0026",
+    "lat": 43.7193,
+    "lon": 73.538
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Akmola Region",
+    "city": "Stepnogorsk",
+    "name": "Stepnogorsk Airport",
+    "icao": "UACS",
+    "lat": 52.326,
+    "lon": 71.8523
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "East Kazakhstan Region",
+    "city": "Tughyl",
+    "name": "Tughyl Airport",
+    "icao": "KZ-0077",
+    "lat": 47.675444,
+    "lon": 84.300148
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "East Kazakhstan Region",
+    "city": "Zaysan",
+    "name": "Zaysan West Airport",
+    "icao": "KZ-0078",
+    "lat": 47.609809,
+    "lon": 84.57742
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Karaganda Region",
+    "city": "Zhayrem",
+    "name": "Sary Su Airport",
+    "icao": "HRC",
+    "lat": 48.3974,
+    "lon": 70.1915
+  },
+  {
+    "country": "Kazakhstan",
+    "state": "Aktobe Region",
+    "city": "Zhem",
+    "name": "Karas Air Base",
+    "icao": "KZ-0071",
+    "lat": 48.7369995117187,
+    "lon": 58.0419998168945
+  }
+]

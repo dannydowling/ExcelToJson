@@ -1,0 +1,164 @@
+[
+  {
+    "country": "Nigeria",
+    "state": "Kaduna",
+    "city": "Kaduna",
+    "name": "Kaduna Airport",
+    "icao": "DNKA",
+    "lat": 10.6960000991821,
+    "lon": 7.32010984420776
+  },
+  {
+    "country": "Nigeria",
+    "state": "Edo",
+    "city": "Benin",
+    "name": "Benin Airport",
+    "icao": "DNBE",
+    "lat": 6.31697988510131,
+    "lon": 5.59950017929077
+  },
+  {
+    "country": "Nigeria",
+    "state": "Delta",
+    "city": "Warri",
+    "name": "Warri Airport",
+    "icao": "NG-QRW",
+    "lat": 5.59611,
+    "lon": 5.81778
+  },
+  {
+    "country": "Nigeria",
+    "state": "Kwara",
+    "city": "Ilorin",
+    "name": "Ilorin International Airport",
+    "icao": "DNIL",
+    "lat": 8.44021034240722,
+    "lon": 4.49391984939575
+  },
+  {
+    "country": "Nigeria",
+    "state": "Sokoto",
+    "city": "Sokoto",
+    "name": "Sadiq Abubakar III International Airport",
+    "icao": "DNSO",
+    "lat": 12.9162998199462,
+    "lon": 5.20719003677368
+  },
+  {
+    "country": "Nigeria",
+    "state": "Borno",
+    "city": "Maiduguri",
+    "name": "Maiduguri International Airport",
+    "icao": "DNMA",
+    "lat": 11.8552999496459,
+    "lon": 13.0809001922607
+  },
+  {
+    "country": "Nigeria",
+    "state": "Delta",
+    "city": "Asaba",
+    "name": "Asaba International Airport",
+    "icao": "DNAS",
+    "lat": 6.204167,
+    "lon": 6.665278
+  },
+  {
+    "country": "Nigeria",
+    "state": "Gombe",
+    "city": "Gombe",
+    "name": "Gombe Lawanti International Airport",
+    "icao": "NG-0003",
+    "lat": 10.2983333332999,
+    "lon": 10.8963888888999
+  },
+  {
+    "country": "Nigeria",
+    "state": "Ondo",
+    "city": "Akure",
+    "name": "Akure Airport",
+    "icao": "DNAK",
+    "lat": 7.24673986434936,
+    "lon": 5.30101013183593
+  },
+  {
+    "country": "Nigeria",
+    "state": "Niger",
+    "city": "Niger",
+    "name": "Shiroro Airport",
+    "icao": "DN50",
+    "lat": 9.88465023040771,
+    "lon": 6.81863021850585
+  },
+  {
+    "country": "Nigeria",
+    "state": "Kaduna",
+    "city": "Kaduna",
+    "name": "Kaduna Old Airport",
+    "icao": "DN53",
+    "lat": 10.5988998413085,
+    "lon": 7.44870996475219
+  },
+  {
+    "country": "Nigeria",
+    "state": "Delta",
+    "city": "Delta",
+    "name": "Escravos Airport",
+    "icao": "DN56",
+    "lat": 5.61673,
+    "lon": 5.188485
+  },
+  {
+    "country": "Nigeria",
+    "state": "Niger",
+    "city": "Bida",
+    "name": "Bida Airport",
+    "icao": "DNBI",
+    "lat": 9.10000038146972,
+    "lon": 6.01700019836425
+  },
+  {
+    "country": "Nigeria",
+    "state": "Katsina",
+    "city": "Katsina",
+    "name": "Katsina Airport",
+    "icao": "DN57",
+    "lat": 13.0078001022,
+    "lon": 7.66044998168999
+  },
+  {
+    "country": "Nigeria",
+    "state": "Delta",
+    "city": "Delta",
+    "name": "Agbara-Otor",
+    "icao": "NG-0001",
+    "lat": 5.52919387817382,
+    "lon": 6.05883121490478
+  },
+  {
+    "country": "Nigeria",
+    "state": "Kebbi",
+    "city": "Birinin Kebbi",
+    "name": "Srr Ahmadu Bello International Airport",
+    "icao": "NG-0005",
+    "lat": 12.480556,
+    "lon": 4.369445
+  },
+  {
+    "country": "Nigeria",
+    "state": "Delta",
+    "city": "Forcados",
+    "name": "Forcados Terminal Airport",
+    "icao": "DNFD",
+    "lat": 5.355,
+    "lon": 5.349002
+  },
+  {
+    "country": "Nigeria",
+    "state": "Taraba",
+    "city": "Suntai",
+    "name": "Suntai Airstrip",
+    "icao": "NG-0008",
+    "lat": 7.909458,
+    "lon": 10.374472
+  }
+]

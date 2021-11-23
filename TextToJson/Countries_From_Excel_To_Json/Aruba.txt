@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Aruba",
+    "state": "Oranjestad",
+    "city": "Oranjestad",
+    "name": "Queen Beatrix International Airport",
+    "icao": "TNCA",
+    "lat": 12.5014,
+    "lon": -70.015198
+  },
+  {
+    "country": "Aruba",
+    "state": "(unassigned)",
+    "city": "Savaneta",
+    "name": "Savaneta Field",
+    "icao": "AW-0001",
+    "lat": 12.452124,
+    "lon": -69.953427
+  }
+]

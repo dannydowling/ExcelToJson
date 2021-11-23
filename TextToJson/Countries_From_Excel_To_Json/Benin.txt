@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Benin",
+    "state": "Atlantique",
+    "city": "Cotonou",
+    "name": "Cadjehoun Airport",
+    "icao": "DBBB",
+    "lat": 6.3572301864624,
+    "lon": 2.38435006141662
+  },
+  {
+    "country": "Benin",
+    "state": "Atakora",
+    "city": "Natitingou",
+    "name": "Natitingou Airport",
+    "icao": "DBBN",
+    "lat": 10.376965,
+    "lon": 1.360507
+  },
+  {
+    "country": "Benin",
+    "state": "Borgou",
+    "city": "Parakou",
+    "name": "Parakou Airport",
+    "icao": "DBBP",
+    "lat": 9.35768985748291,
+    "lon": 2.60967993736267
+  }
+]

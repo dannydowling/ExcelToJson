@@ -1,0 +1,740 @@
+[
+  {
+    "country": "Honduras",
+    "state": "Islas de la Bahia",
+    "city": "Roatan Island",
+    "name": "Juan Manuel Galvez International Airport",
+    "icao": "MHRO",
+    "lat": 16.316799,
+    "lon": -86.523003
+  },
+  {
+    "country": "Honduras",
+    "state": "Atlantida",
+    "city": "La Ceiba",
+    "name": "Goloson International Airport",
+    "icao": "MHLC",
+    "lat": 15.7425,
+    "lon": -86.852997
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "MocorÃ³n",
+    "name": "Mocoron Airport",
+    "icao": "HN-MOR",
+    "lat": 15.0297002792358,
+    "lon": -84.279296875
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Ahuas",
+    "name": "Ahuas Airport",
+    "icao": "MHAH",
+    "lat": 15.4722,
+    "lon": -84.352203
+  },
+  {
+    "country": "Honduras",
+    "state": "Islas de la Bahia",
+    "city": "Utila Island",
+    "name": "Utila Airport",
+    "icao": "MHUT",
+    "lat": 16.1131,
+    "lon": -86.880302
+  },
+  {
+    "country": "Honduras",
+    "state": "Atlantida",
+    "city": "Tela",
+    "name": "Tela Airport",
+    "icao": "MHTE",
+    "lat": 15.7759,
+    "lon": -87.4758
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Brus Laguna",
+    "name": "Brus Laguna Airport",
+    "icao": "MHBL",
+    "lat": 15.7631,
+    "lon": -84.543602
+  },
+  {
+    "country": "Honduras",
+    "state": "Francisco Morazan",
+    "city": "Francisco Morazan",
+    "name": "El Alto Airport",
+    "icao": "MHAL",
+    "lat": 14.493332862854,
+    "lon": -87.1063919067382
+  },
+  {
+    "country": "Honduras",
+    "state": "Francisco Morazan",
+    "city": "Francisco Morazan",
+    "name": "El Cubo Airport",
+    "icao": "MHEC",
+    "lat": 14.4577779769897,
+    "lon": -87.058609008789
+  },
+  {
+    "country": "Honduras",
+    "state": "Francisco Morazan",
+    "city": "Francisco Morazan",
+    "name": "Flefil Airport",
+    "icao": "MHLF",
+    "lat": 14.4233331680297,
+    "lon": -87.1197204589843
+  },
+  {
+    "country": "Honduras",
+    "state": "La Paz",
+    "city": "La Paz",
+    "name": "Los Llanos Airport",
+    "icao": "MHNS",
+    "lat": 14.2105560302734,
+    "lon": -88.0216674804687
+  },
+  {
+    "country": "Honduras",
+    "state": "Colon",
+    "city": "Colon",
+    "name": "Regional Hamer Airport",
+    "icao": "MHRH",
+    "lat": 15.5633325576782,
+    "lon": -86.1913909912109
+  },
+  {
+    "country": "Honduras",
+    "state": "Yoro",
+    "city": "Agua Blanca",
+    "name": "Marcos Perez Airport",
+    "icao": "MHMP",
+    "lat": 15.2861108779907,
+    "lon": -87.8852767944336
+  },
+  {
+    "country": "Honduras",
+    "state": "Choluteca",
+    "city": "Aguacatal",
+    "name": "El Tesoro Airport",
+    "icao": "HN-MST",
+    "lat": 13.2391672134399,
+    "lon": -87.0055541992187
+  },
+  {
+    "country": "Honduras",
+    "state": "El Paraiso",
+    "city": "Apala",
+    "name": "Noveno BatallÃ³n Airport",
+    "icao": "MHNB",
+    "lat": 14.0432996749877,
+    "lon": -86.4207992553711
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Araslaya",
+    "name": "Araslaya Airport",
+    "icao": "MHAY",
+    "lat": 15.7352781295776,
+    "lon": -84.5433349609375
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Auca",
+    "name": "Auca Airport",
+    "icao": "MHUC",
+    "lat": 14.9372215270996,
+    "lon": -83.8441696166992
+  },
+  {
+    "country": "Honduras",
+    "state": "Islas de la Bahia",
+    "city": "Barbareta Island",
+    "name": "Barbareta Airport",
+    "icao": "MHBA",
+    "lat": 16.4330558776855,
+    "lon": -86.1394424438476
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Barra del Patuca",
+    "name": "Barra Del Patuca Airport",
+    "icao": "MHPA",
+    "lat": 15.8013887405395,
+    "lon": -84.2966690063476
+  },
+  {
+    "country": "Honduras",
+    "state": "Choluteca",
+    "city": "Buena Vista",
+    "name": "Sur Agropecuaria Airport",
+    "icao": "MHAG",
+    "lat": 13.25,
+    "lon": -87.3580551147461
+  },
+  {
+    "country": "Honduras",
+    "state": "Olancho",
+    "city": "Cacao",
+    "name": "Aserradero Azacualpa Airport",
+    "icao": "MHAZ",
+    "lat": 14.4333333969116,
+    "lon": -86.0891647338867
+  },
+  {
+    "country": "Honduras",
+    "state": "Cortes",
+    "city": "Canchias",
+    "name": "Guanacastal Airport",
+    "icao": "MHUG",
+    "lat": 14.9155559539794,
+    "lon": -87.8333358764648
+  },
+  {
+    "country": "Honduras",
+    "state": "Lempira",
+    "city": "Candelaria",
+    "name": "La Alondra Airport",
+    "icao": "MHLA",
+    "lat": 14.1088886260986,
+    "lon": -88.5338897705078
+  },
+  {
+    "country": "Honduras",
+    "state": "Olancho",
+    "city": "Catacamas",
+    "name": "Catacamas Airport",
+    "icao": "MHCA",
+    "lat": 14.9169998168945,
+    "lon": -85.9000015258789
+  },
+  {
+    "country": "Honduras",
+    "state": "Santa Barbara",
+    "city": "Choloma",
+    "name": "Choloma Airport",
+    "icao": "MHCM",
+    "lat": 14.8883333206176,
+    "lon": -88.4044418334961
+  },
+  {
+    "country": "Honduras",
+    "state": "Choluteca",
+    "city": "Choluteca",
+    "name": "Santa Barbara Airport",
+    "icao": "MHSZ",
+    "lat": 13.3305559158325,
+    "lon": -87.1544418334961
+  },
+  {
+    "country": "Honduras",
+    "state": "Islas de la Bahia",
+    "city": "Cochino PequeÃ±o Island",
+    "name": "Cochino PequeÃ±o Airport",
+    "icao": "MHCP",
+    "lat": 15.9544439315795,
+    "lon": -86.4986114501953
+  },
+  {
+    "country": "Honduras",
+    "state": "Intibuca",
+    "city": "ConcepciÃ³n",
+    "name": "ConcepciÃ³n Airport",
+    "icao": "MHCC",
+    "lat": 14.0266666411999,
+    "lon": -88.3441696167
+  },
+  {
+    "country": "Honduras",
+    "state": "Copan",
+    "city": "CopÃ¡n Ruinas",
+    "name": "CopÃ¡n Ruinas Airport",
+    "icao": "MHRU",
+    "lat": 14.914885,
+    "lon": -89.007837
+  },
+  {
+    "country": "Honduras",
+    "state": "Colon",
+    "city": "Corocito",
+    "name": "Bonito Oriental Airport",
+    "icao": "HN-0002",
+    "lat": 15.7454004287719,
+    "lon": -85.722900390625
+  },
+  {
+    "country": "Honduras",
+    "state": "Olancho",
+    "city": "Coyoles",
+    "name": "Las Lajas Airport",
+    "icao": "MHLJ",
+    "lat": 14.8947219848632,
+    "lon": -86.574722290039
+  },
+  {
+    "country": "Honduras",
+    "state": "Copan",
+    "city": "Cucuyagua",
+    "name": "Cucuyagua Airport",
+    "icao": "MHUY",
+    "lat": 14.6269435882568,
+    "lon": -88.8763885498046
+  },
+  {
+    "country": "Honduras",
+    "state": "El Paraiso",
+    "city": "Danli",
+    "name": "Ministerios Cristo Te Quiere Airport",
+    "icao": "HN-0003",
+    "lat": 14.087192,
+    "lon": -86.649427
+  },
+  {
+    "country": "Honduras",
+    "state": "Islas de la Bahia",
+    "city": "Del Cisne Island",
+    "name": "Islas Del Cisne Airport",
+    "icao": "MHIC",
+    "lat": 17.407301,
+    "lon": -83.932701
+  },
+  {
+    "country": "Honduras",
+    "state": "Copan",
+    "city": "el agua",
+    "name": "La Estanzuela Airport",
+    "icao": "MHLZ",
+    "lat": 15.0166673660278,
+    "lon": -88.8000030517578
+  },
+  {
+    "country": "Honduras",
+    "state": "Olancho",
+    "city": "El Encinal",
+    "name": "Desvio Potrerillos Airport",
+    "icao": "MHPS",
+    "lat": 14.595832824707,
+    "lon": -86.1500015258789
+  },
+  {
+    "country": "Honduras",
+    "state": "Yoro",
+    "city": "El Guanacaste",
+    "name": "La America Airport",
+    "icao": "MHEI",
+    "lat": 15.6486110687255,
+    "lon": -87.788330078125
+  },
+  {
+    "country": "Honduras",
+    "state": "Olancho",
+    "city": "El Zapato",
+    "name": "Guayape Airport",
+    "icao": "MHGY",
+    "lat": 14.784722328186,
+    "lon": -86.8633346557617
+  },
+  {
+    "country": "Honduras",
+    "state": "Lempira",
+    "city": "Erandique",
+    "name": "Erandique Airport",
+    "icao": "HN-MUG",
+    "lat": 14.235833,
+    "lon": -88.437225
+  },
+  {
+    "country": "Honduras",
+    "state": "Colon",
+    "city": "Farallones",
+    "name": "Payasito Airport",
+    "icao": "MHPY",
+    "lat": 15.8758325576782,
+    "lon": -85.3969421386718
+  },
+  {
+    "country": "Honduras",
+    "state": "Lempira",
+    "city": "Gracias",
+    "name": "Celaque Airport",
+    "icao": "MHGS",
+    "lat": 14.573492,
+    "lon": -88.595801
+  },
+  {
+    "country": "Honduras",
+    "state": "Cortes",
+    "city": "Higuerito",
+    "name": "Higuerito Central Airport",
+    "icao": "HN-MIG",
+    "lat": 15.1883325576782,
+    "lon": -87.9386138916015
+  },
+  {
+    "country": "Honduras",
+    "state": "Yoro",
+    "city": "Horcones",
+    "name": "Agua Caliente Airport",
+    "icao": "MHHO",
+    "lat": 15.430653,
+    "lon": -86.891049
+  },
+  {
+    "country": "Honduras",
+    "state": "Colon",
+    "city": "Iriona",
+    "name": "Iriona Airport",
+    "icao": "MHIR",
+    "lat": 15.9391670227,
+    "lon": -85.13722229
+  },
+  {
+    "country": "Honduras",
+    "state": "Francisco Morazan",
+    "city": "La Canoa",
+    "name": "Aserradero El Encino Airport",
+    "icao": "MHEN",
+    "lat": 14.6619443893432,
+    "lon": -86.9150009155273
+  },
+  {
+    "country": "Honduras",
+    "state": "Olancho",
+    "city": "La Lima",
+    "name": "Hacienda Galeras Airport",
+    "icao": "MHHG",
+    "lat": 14.5988893508911,
+    "lon": -86.4608306884765
+  },
+  {
+    "country": "Honduras",
+    "state": "Colon",
+    "city": "La Puerta",
+    "name": "Izapan Airport",
+    "icao": "MHIZ",
+    "lat": 15.9102783203125,
+    "lon": -85.1711120605468
+  },
+  {
+    "country": "Honduras",
+    "state": "Lempira",
+    "city": "La UniÃ³n",
+    "name": "La Union Airport",
+    "icao": "MHUO",
+    "lat": 14.8080558776855,
+    "lon": -88.4199981689453
+  },
+  {
+    "country": "Honduras",
+    "state": "Santa Barbara",
+    "city": "Las Vegas",
+    "name": "Las Vegas Airport",
+    "icao": "MHLV",
+    "lat": 14.8736114501953,
+    "lon": -88.0744476318359
+  },
+  {
+    "country": "Honduras",
+    "state": "Santa Barbara",
+    "city": "Malera",
+    "name": "San Antonio Malera Airport",
+    "icao": "MHMM",
+    "lat": 14.6719436645507,
+    "lon": -88.2549972534179
+  },
+  {
+    "country": "Honduras",
+    "state": "Colon",
+    "city": "Manga",
+    "name": "El Porvenir Airport",
+    "icao": "MHPV",
+    "lat": 15.530278,
+    "lon": -86.273613
+  },
+  {
+    "country": "Honduras",
+    "state": "Lempira",
+    "city": "Mapulaca",
+    "name": "Mapulaca Airport",
+    "icao": "MHLP",
+    "lat": 14.0341672897338,
+    "lon": -88.6283340454101
+  },
+  {
+    "country": "Honduras",
+    "state": "Comayagua",
+    "city": "Minas de Oro",
+    "name": "Minas De Oro Airport",
+    "icao": "MHIN",
+    "lat": 14.7886114120483,
+    "lon": -87.3497238159179
+  },
+  {
+    "country": "Honduras",
+    "state": "Atlantida",
+    "city": "Monica",
+    "name": "Monica Airport",
+    "icao": "MHMN",
+    "lat": 15.6529998779296,
+    "lon": -87.0876998901367
+  },
+  {
+    "country": "Honduras",
+    "state": "Choluteca",
+    "city": "MonjarÃ¡s",
+    "name": "La Grecia Airport",
+    "icao": "MHLG",
+    "lat": 13.2147216796875,
+    "lon": -87.3636093139648
+  },
+  {
+    "country": "Honduras",
+    "state": "El Paraiso",
+    "city": "Moroceli",
+    "name": "Llanos Del Tigre Airport",
+    "icao": "MHLT",
+    "lat": 14.0766668319702,
+    "lon": -86.8416671752929
+  },
+  {
+    "country": "Honduras",
+    "state": "Choluteca",
+    "city": "Nacaome",
+    "name": "Ciudad Nacaome Airport",
+    "icao": "MHNA",
+    "lat": 13.5294437408447,
+    "lon": -87.3141632080078
+  },
+  {
+    "country": "Honduras",
+    "state": "Ocotepeque",
+    "city": "Nueva Ocotepeque",
+    "name": "Nueva Ocotepeque Airport",
+    "icao": "MHNV",
+    "lat": 14.428889,
+    "lon": -89.193886
+  },
+  {
+    "country": "Honduras",
+    "state": "Yoro",
+    "city": "Olanchito",
+    "name": "El ArrayÃ¡n Airport",
+    "icao": "MHEA",
+    "lat": 15.505556,
+    "lon": -86.574722
+  },
+  {
+    "country": "Honduras",
+    "state": "El Paraiso",
+    "city": "Oropoli",
+    "name": "San Jose Airport",
+    "icao": "MHSJ",
+    "lat": 13.8277778625488,
+    "lon": -86.8102798461914
+  },
+  {
+    "country": "Honduras",
+    "state": "Olancho",
+    "city": "Punuare",
+    "name": "La Herradura Airport",
+    "icao": "MHHE",
+    "lat": 14.7550001144409,
+    "lon": -86.004165649414
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Raya",
+    "name": "Raya Airport",
+    "icao": "MHRY",
+    "lat": 15.0663890838623,
+    "lon": -83.2972183227539
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Rus Rus",
+    "name": "Rus Rus I Airport",
+    "icao": "MHRR",
+    "lat": 14.7130556106567,
+    "lon": -84.4524993896484
+  },
+  {
+    "country": "Honduras",
+    "state": "Choluteca",
+    "city": "San Bernardo",
+    "name": "San Bernardo Airport",
+    "icao": "MHBE",
+    "lat": 13.1019439697265,
+    "lon": -87.1419448852539
+  },
+  {
+    "country": "Honduras",
+    "state": "Francisco Morazan",
+    "city": "San Fernando",
+    "name": "San Fernando Airport",
+    "icao": "MHFN",
+    "lat": 14.113332748413,
+    "lon": -86.9527816772461
+  },
+  {
+    "country": "Honduras",
+    "state": "Comayagua",
+    "city": "San Luis",
+    "name": "San Luis Airport",
+    "icao": "MHAN",
+    "lat": 14.7458333969116,
+    "lon": -87.4052810668945
+  },
+  {
+    "country": "Honduras",
+    "state": "Santa Barbara",
+    "city": "San Luis PajÃ³n",
+    "name": "Luz Y Vida Airport",
+    "icao": "MHLU",
+    "lat": 15.1463890075683,
+    "lon": -88.4444427490234
+  },
+  {
+    "country": "Honduras",
+    "state": "Ocotepeque",
+    "city": "San Marcos",
+    "name": "San Marcos De Ocotepeque Airport",
+    "icao": "MHMO",
+    "lat": 14.4130563735961,
+    "lon": -88.9519424438476
+  },
+  {
+    "country": "Honduras",
+    "state": "Copan",
+    "city": "Santa Rosa de CopÃ¡n",
+    "name": "Santa Rosa de CopÃ¡n Airport",
+    "icao": "MHRS",
+    "lat": 14.777889,
+    "lon": -88.775021
+  },
+  {
+    "country": "Honduras",
+    "state": "La Paz",
+    "city": "Santiago de Puringla",
+    "name": "Santiago De Puringla Airport",
+    "icao": "MHGG",
+    "lat": 14.3675003051757,
+    "lon": -87.911392211914
+  },
+  {
+    "country": "Honduras",
+    "state": "Comayagua",
+    "city": "Siguatepeque",
+    "name": "Alas Del Socorro Airport",
+    "icao": "MHAS",
+    "lat": 14.5930557250976,
+    "lon": -87.8405532836914
+  },
+  {
+    "country": "Honduras",
+    "state": "Colon",
+    "city": "Tocoa",
+    "name": "Tocoa Airport",
+    "icao": "MHTO",
+    "lat": 15.659722328186,
+    "lon": -85.9941635131836
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Tuntuntara",
+    "name": "La Katabila Airport",
+    "icao": "MHTB",
+    "lat": 15.1750001907348,
+    "lon": -83.6822204589843
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Uhi",
+    "name": "Uhi Airport",
+    "icao": "MHUH",
+    "lat": 15.4760999679565,
+    "lon": -83.9113006591796
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Wampusirpi",
+    "name": "Wampusirpi II Airport",
+    "icao": "MHWD",
+    "lat": 15.1591672897338,
+    "lon": -84.5983352661132
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Waplaya",
+    "name": "Waplaya Airport",
+    "icao": "MHWP",
+    "lat": 15.2130556106567,
+    "lon": -84.0686111450195
+  },
+  {
+    "country": "Honduras",
+    "state": "Gracias a Dios",
+    "city": "Wawina",
+    "name": "Wawina Airport",
+    "icao": "MHWW",
+    "lat": 15.4161109924316,
+    "lon": -84.4736099243164
+  },
+  {
+    "country": "Honduras",
+    "state": "Copan",
+    "city": "Hacienda Montecristo",
+    "name": "Hacienda Montecristo Heliport",
+    "icao": "MHMC",
+    "lat": 14.8666667938232,
+    "lon": -88.7583312988281
+  },
+  {
+    "country": "Honduras",
+    "state": "Cortes",
+    "city": "La Lima",
+    "name": "Reginaldo Hammer Airport",
+    "icao": "LLH",
+    "lat": 15.4422,
+    "lon": -87.8988
+  },
+  {
+    "country": "Honduras",
+    "state": "Cortes",
+    "city": "San Pedro Sula",
+    "name": "Coratsa  Heliport",
+    "icao": "MHHC",
+    "lat": 15.4724998474121,
+    "lon": -87.9941635131836
+  },
+  {
+    "country": "Honduras",
+    "state": "Francisco Morazan",
+    "city": "Tegucigalpa",
+    "name": "Las Lomas Heliport",
+    "icao": "MHLL",
+    "lat": 14.08065,
+    "lon": -87.17283
+  },
+  {
+    "country": "Honduras",
+    "state": "Yoro",
+    "city": "Yoro",
+    "name": "Yoro Airport",
+    "icao": "MHYR",
+    "lat": 15.1275,
+    "lon": -87.135
+  }
+]

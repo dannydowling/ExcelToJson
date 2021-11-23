@@ -1,0 +1,83 @@
+[
+  {
+    "country": "Jamaica",
+    "state": "Saint Mary",
+    "city": "Ocho Rios",
+    "name": "Boscobel Aerodrome",
+    "icao": "MKBS",
+    "lat": 18.4041996002197,
+    "lon": -76.9690017700195
+  },
+  {
+    "country": "Jamaica",
+    "state": "Saint Andrew",
+    "city": "Tinson Pen",
+    "name": "Tinson Pen Airport",
+    "icao": "MKTP",
+    "lat": 17.9885997772216,
+    "lon": -76.8237991333007
+  },
+  {
+    "country": "Jamaica",
+    "state": "Saint Catherine",
+    "city": "Saint Catherine",
+    "name": "Worthy Park Airstrip",
+    "icao": "JM-0005",
+    "lat": 18.1449749774,
+    "lon": -77.1578836441
+  },
+  {
+    "country": "Jamaica",
+    "state": "Manchester",
+    "city": "Manchester",
+    "name": "Silent Hill Airstrip",
+    "icao": "JM-0008",
+    "lat": 18.1963619642,
+    "lon": -77.492108345
+  },
+  {
+    "country": "Jamaica",
+    "state": "Saint Elizabeth",
+    "city": "Saint Elizabeth",
+    "name": "Nain Airstrip",
+    "icao": "JM-0010",
+    "lat": 17.9770288591,
+    "lon": -77.6070141792
+  },
+  {
+    "country": "Jamaica",
+    "state": "(unassigned)",
+    "city": "Cornwall County",
+    "name": "Braco Airfield",
+    "icao": "JM-0012",
+    "lat": 18.477164,
+    "lon": -77.488274
+  },
+  {
+    "country": "Jamaica",
+    "state": "Saint Ann",
+    "city": "Golden Grove",
+    "name": "Lydford Airstrip",
+    "icao": "JM-0017",
+    "lat": 18.3341,
+    "lon": -77.1349
+  },
+  {
+    "country": "Jamaica",
+    "state": "Saint Ann",
+    "city": "Moneague",
+    "name": "Moneague Training Camp Airfield",
+    "icao": "JM-0015",
+    "lat": 18.2822,
+    "lon": -77.1054
+  },
+  {
+    "country": "Jamaica",
+    "state": "Clarendon",
+    "city": "Rocky Point",
+    "name": "Rocky Point Airstrip",
+    "icao": "JM-0013",
+    "lat": 17.777,
+    "lon": -77.2602
+  }
+]

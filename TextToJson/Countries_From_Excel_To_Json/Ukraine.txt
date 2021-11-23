@@ -1,0 +1,830 @@
+[
+  {
+    "country": "Ukraine",
+    "state": "Kiev",
+    "city": "Kiev",
+    "name": "Kiev Zhuliany International Airport",
+    "icao": "UKKK",
+    "lat": 50.40194,
+    "lon": 30.45194
+  },
+  {
+    "country": "Ukraine",
+    "state": "Odessa",
+    "city": "Odessa",
+    "name": "Odessa International Airport",
+    "icao": "UKOO",
+    "lat": 46.4267997741699,
+    "lon": 30.6765003204345
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kharkiv",
+    "city": "Kharkiv",
+    "name": "Kharkiv International Airport",
+    "icao": "UKHH",
+    "lat": 49.9248008728027,
+    "lon": 36.2900009155273
+  },
+  {
+    "country": "Ukraine",
+    "state": "Donetsk",
+    "city": "Donetsk",
+    "name": "Donetsk International Airport",
+    "icao": "UKCC",
+    "lat": 48.073601,
+    "lon": 37.7397
+  },
+  {
+    "country": "Ukraine",
+    "state": "Ivano-Frankivsk",
+    "city": "Ivano-Frankivsk",
+    "name": "Ivano-Frankivsk International Airport",
+    "icao": "UKLI",
+    "lat": 48.8842010498046,
+    "lon": 24.6861000061035
+  },
+  {
+    "country": "Ukraine",
+    "state": "Luhansk",
+    "city": "Luhansk",
+    "name": "Luhansk International Airport",
+    "icao": "UKCW",
+    "lat": 48.4174003601,
+    "lon": 39.3740997314
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Kerch",
+    "name": "Kerch Airport",
+    "icao": "UKFK",
+    "lat": 45.372501373291,
+    "lon": 36.4014015197753
+  },
+  {
+    "country": "Ukraine",
+    "state": "Rivne",
+    "city": "Rivne",
+    "name": "Rivne International Airport",
+    "icao": "UKLR",
+    "lat": 50.6071014404296,
+    "lon": 26.1415996551513
+  },
+  {
+    "country": "Ukraine",
+    "state": "Mykolaiv",
+    "city": "Nikolayev",
+    "name": "Mykolaiv International Airport",
+    "icao": "UKON",
+    "lat": 47.0578994750976,
+    "lon": 31.9197998046875
+  },
+  {
+    "country": "Ukraine",
+    "state": "Zaporizhia",
+    "city": "Berdyansk",
+    "name": "Berdyansk Airport",
+    "icao": "UKDB",
+    "lat": 46.814999,
+    "lon": 36.758099
+  },
+  {
+    "country": "Ukraine",
+    "state": "Chernihiv",
+    "city": "Chernihiv",
+    "name": "Chernihiv Air Base",
+    "icao": "UA-0003",
+    "lat": 51.5499992370605,
+    "lon": 31.3166999816894
+  },
+  {
+    "country": "Ukraine",
+    "state": "Rivne",
+    "city": "Dubno",
+    "name": "Dubno Air Base",
+    "icao": "UA-2904",
+    "lat": 50.4500007629394,
+    "lon": 25.8332996368408
+  },
+  {
+    "country": "Ukraine",
+    "state": "Chernihiv",
+    "city": "Gorodnya",
+    "name": "Gorodnya Air Base",
+    "icao": "UA-8322",
+    "lat": 51.883301,
+    "lon": 31.65
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kherson",
+    "city": "Kherson",
+    "name": "Kherson International Airport",
+    "icao": "UKOH",
+    "lat": 46.6758,
+    "lon": 32.506401
+  },
+  {
+    "country": "Ukraine",
+    "state": "Volyn",
+    "city": "Lutsk",
+    "name": "Lutsk Air Base",
+    "icao": "UA-8984",
+    "lat": 50.7886830252999,
+    "lon": 25.3482913971
+  },
+  {
+    "country": "Ukraine",
+    "state": "Zakarpattia",
+    "city": "Mukachev",
+    "name": "Mukachevo Air Base",
+    "icao": "RU-2098",
+    "lat": 48.4000015258789,
+    "lon": 22.6833000183105
+  },
+  {
+    "country": "Ukraine",
+    "state": "Poltava",
+    "city": "Poltava",
+    "name": "Suprunovka Airport",
+    "icao": "UKHP",
+    "lat": 49.5685997009277,
+    "lon": 34.3972015380859
+  },
+  {
+    "country": "Ukraine",
+    "state": "Chernihiv",
+    "city": "Pryluky",
+    "name": "Pryluki Air Base",
+    "icao": "UA-7707",
+    "lat": 50.5666999816894,
+    "lon": 32.3166999816894
+  },
+  {
+    "country": "Ukraine",
+    "state": "Poltava",
+    "city": "Pyriatyn",
+    "name": "Velyka Krucha Air Base",
+    "icao": "UA-6709",
+    "lat": 50.1500015259,
+    "lon": 32.5332984924
+  },
+  {
+    "country": "Ukraine",
+    "state": "Lviv",
+    "city": "Sambir",
+    "name": "Sambir Air Base",
+    "icao": "UA-1901",
+    "lat": 49.5499992370605,
+    "lon": 23.3349990844726
+  },
+  {
+    "country": "Ukraine",
+    "state": "Khmelnytskyi",
+    "city": "Starokostiantyniv",
+    "name": "Starokostiantyniv Air Base",
+    "icao": "UA-2644",
+    "lat": 49.7482986450195,
+    "lon": 27.2733001708984
+  },
+  {
+    "country": "Ukraine",
+    "state": "Sumy",
+    "city": "Sumy",
+    "name": "Sumy Airport",
+    "icao": "UKHS",
+    "lat": 50.858299255371,
+    "lon": 34.7625007629394
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kiev",
+    "city": "Uzin",
+    "name": "Chepelevka Airport",
+    "icao": "UKKH",
+    "lat": 49.790599822998,
+    "lon": 30.4414005279541
+  },
+  {
+    "country": "Ukraine",
+    "state": "Vinnytsia",
+    "city": "Vinnitsa",
+    "name": "Vinnytsia/Gavyryshivka Airport",
+    "icao": "UKWW",
+    "lat": 49.242531,
+    "lon": 28.613778
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Yevpatoriya",
+    "name": "Yevpatoriya Airport",
+    "icao": "UKFV",
+    "lat": 45.225601196289,
+    "lon": 33.3767013549804
+  },
+  {
+    "country": "Ukraine",
+    "state": "Sumy",
+    "city": "Hlukhiv",
+    "name": "Pustogorod Air Base",
+    "icao": "UA-0004",
+    "lat": 51.849998474121,
+    "lon": 34.0499992370605
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kiev (city)",
+    "city": "Kiev (city)",
+    "name": "Hydropark",
+    "icao": "UA-0073",
+    "lat": 50.4580555556,
+    "lon": 30.5683333333
+  },
+  {
+    "country": "Ukraine",
+    "state": "Zhytomyr",
+    "city": "Zhytomyr",
+    "name": "Zhytomyr Airport",
+    "icao": "UKKV",
+    "lat": 50.270556,
+    "lon": 28.738611
+  },
+  {
+    "country": "Ukraine",
+    "state": "Lviv",
+    "city": "Lviv",
+    "name": "Zhalizhnia",
+    "icao": "UA-0075",
+    "lat": 50.4734613,
+    "lon": 24.4743705
+  },
+  {
+    "country": "Ukraine",
+    "state": "Lviv",
+    "city": "Lviv",
+    "name": "Aerodrom Krupske",
+    "icao": "UA-0077",
+    "lat": 49.451556,
+    "lon": 24.043866
+  },
+  {
+    "country": "Ukraine",
+    "state": "Zhytomyr",
+    "city": "Zhytomyr",
+    "name": "Andrushivka",
+    "icao": "UA-0079",
+    "lat": 50.0193428,
+    "lon": 28.9912024
+  },
+  {
+    "country": "Ukraine",
+    "state": "Zhytomyr",
+    "city": "Zhytomyr",
+    "name": "Narodychi",
+    "icao": "UA-0080",
+    "lat": 51.2312512,
+    "lon": 29.0707288
+  },
+  {
+    "country": "Ukraine",
+    "state": "Vinnytsia",
+    "city": "Vinnytsia",
+    "name": "Sutiski",
+    "icao": "UA-0082",
+    "lat": 49.066667,
+    "lon": 28.44166
+  },
+  {
+    "country": "Ukraine",
+    "state": "Vinnytsia",
+    "city": "Vinnytsia",
+    "name": "Filiutka",
+    "icao": "UA-0083",
+    "lat": 49.335903,
+    "lon": 29.270067
+  },
+  {
+    "country": "Ukraine",
+    "state": "Odessa",
+    "city": "Odessa",
+    "name": "Mykolaivka-Novorosiis'ka",
+    "icao": "UA-0084",
+    "lat": 46.1309439,
+    "lon": 29.8746147
+  },
+  {
+    "country": "Ukraine",
+    "state": "Chervonobirka Airstrip",
+    "city": "Chervonobirka Airstrip",
+    "name": "Chervonobirka Airstrip",
+    "icao": "UA-0088",
+    "lat": 50.5880085,
+    "lon": 29.264402
+  },
+  {
+    "country": "Ukraine",
+    "state": "Korostelivka Airstrip",
+    "city": "Korostelivka Airstrip",
+    "name": "Korostelivka Airstrip",
+    "icao": "UA-0090",
+    "lat": 50.5575109,
+    "lon": 28.7814208
+  },
+  {
+    "country": "Ukraine",
+    "state": "Odessa",
+    "city": "Odessa",
+    "name": "Frunzivka Airstrip",
+    "icao": "UA-0096",
+    "lat": 47.3313702,
+    "lon": 29.7908674
+  },
+  {
+    "country": "Ukraine",
+    "state": "Odessa",
+    "city": "Odessa",
+    "name": "Kremydivka Airfield",
+    "icao": "UA-0099",
+    "lat": 46.7478819,
+    "lon": 30.7939414
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kiev",
+    "city": "Kiev",
+    "name": "Mezhigyrya Heliport",
+    "icao": "UA-0101",
+    "lat": 50.621465,
+    "lon": 30.460391
+  },
+  {
+    "country": "Ukraine",
+    "state": "Zhytomyr",
+    "city": "Zhytomyr",
+    "name": "Karabachyn Airstrip",
+    "icao": "UA-0105",
+    "lat": 50.274742,
+    "lon": 29.4414066
+  },
+  {
+    "country": "Ukraine",
+    "state": "Lviv",
+    "city": "Lviv",
+    "name": "Drohobych Airfield",
+    "icao": "UA-0108",
+    "lat": 49.3662916,
+    "lon": 23.5683736
+  },
+  {
+    "country": "Ukraine",
+    "state": "Khmelnytskyi",
+    "city": "Khmelnytskyi",
+    "name": "Rudnya Airstrip",
+    "icao": "UA-0111",
+    "lat": 49.3729435,
+    "lon": 27.5311313
+  },
+  {
+    "country": "Ukraine",
+    "state": "Rivne",
+    "city": "Rivne",
+    "name": "Rafalivka Helicopter Base",
+    "icao": "UA-0118",
+    "lat": 51.360218,
+    "lon": 25.9194958
+  },
+  {
+    "country": "Ukraine",
+    "state": "Ivano-Frankivsk",
+    "city": "Ivano-Frankivsk",
+    "name": "Pidhirya Airfield",
+    "icao": "UA-0126",
+    "lat": 48.788823,
+    "lon": 24.476531
+  },
+  {
+    "country": "Ukraine",
+    "state": "Ivano-Frankivsk",
+    "city": "Ivano-Frankivsk",
+    "name": "Pidverbtsi Airstrip",
+    "icao": "UA-0128",
+    "lat": 48.78682,
+    "lon": 25.217443
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Armyansk",
+    "name": "Perekop Airfield",
+    "icao": "UA-0015",
+    "lat": 46.1580009460449,
+    "lon": 33.716999053955
+  },
+  {
+    "country": "Ukraine",
+    "state": "(unassigned)",
+    "city": "Buzova",
+    "name": "Buzova Glider Field",
+    "icao": "UA-0103",
+    "lat": 50.4017109,
+    "lon": 30.0537175
+  },
+  {
+    "country": "Ukraine",
+    "state": "Ternopil",
+    "city": "Chortkiv",
+    "name": "Chortkiv Air Base",
+    "icao": "UA-0008",
+    "lat": 48.9780006408691,
+    "lon": 25.7420005798339
+  },
+  {
+    "country": "Ukraine",
+    "state": "Chernihiv",
+    "city": "Dobryanka",
+    "name": "Dobryanka Airfield",
+    "icao": "UA-0037",
+    "lat": 52.0830001831054,
+    "lon": 31.1200008392334
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kiev",
+    "city": "Dymer",
+    "name": "Dymer Airstrip",
+    "icao": "UA-0104",
+    "lat": 51.0071035,
+    "lon": 29.9782477
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Dzhankoy",
+    "name": "Dzhankoy Airport",
+    "icao": "UKFY",
+    "lat": 45.7009010314941,
+    "lon": 34.4188995361328
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Foros",
+    "name": "Foros Helipad",
+    "icao": "UA-0043",
+    "lat": 44.3918991088867,
+    "lon": 33.7537002563476
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kherson",
+    "city": "Genichesk",
+    "name": "Genichesk Air Base",
+    "icao": "UA-0017",
+    "lat": 46.208999633789,
+    "lon": 34.7649993896484
+  },
+  {
+    "country": "Ukraine",
+    "state": "(unassigned)",
+    "city": "Hardyshivka",
+    "name": "Hardyshivka Airstrip",
+    "icao": "UA-0115",
+    "lat": 49.898809,
+    "lon": 28.4366135
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kharkiv",
+    "city": "Ivanivka",
+    "name": "Izyum Air Base",
+    "icao": "UA-0045",
+    "lat": 49.2599983215,
+    "lon": 37.1549987792999
+  },
+  {
+    "country": "Ukraine",
+    "state": "Odessa",
+    "city": "Izmail",
+    "name": "Izmail Airport",
+    "icao": "UKOI",
+    "lat": 45.3916664123535,
+    "lon": 28.8016662597656
+  },
+  {
+    "country": "Ukraine",
+    "state": "Khmelnytskyi",
+    "city": "Kamyamka",
+    "name": "Kamyanka Airfield",
+    "icao": "UA-0107",
+    "lat": 48.6955236,
+    "lon": 26.6092885
+  },
+  {
+    "country": "Ukraine",
+    "state": "Odessa",
+    "city": "Kiliya",
+    "name": "Kiliya Airport",
+    "icao": "UA-0033",
+    "lat": 45.4609985351562,
+    "lon": 29.2870006561279
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Kirovskoe",
+    "name": "Kirovskoe Air Base",
+    "icao": "UA-0012",
+    "lat": 45.1669998168945,
+    "lon": 35.1829986572265
+  },
+  {
+    "country": "Ukraine",
+    "state": "Ivano-Frankivsk",
+    "city": "Kolomiya",
+    "name": "Kolomiya Airport",
+    "icao": "UA-0007",
+    "lat": 48.5509986877441,
+    "lon": 25.0419998168945
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Krasnoperekopsk",
+    "name": "Risovoye Airfield",
+    "icao": "UA-0013",
+    "lat": 45.9959983825999,
+    "lon": 33.6809997559
+  },
+  {
+    "country": "Ukraine",
+    "state": "Poltava",
+    "city": "Kremenchuk",
+    "name": "Kakhnovka Airfield",
+    "icao": "UA-0050",
+    "lat": 49.1342,
+    "lon": 33.4766
+  },
+  {
+    "country": "Ukraine",
+    "state": "(unassigned)",
+    "city": "Kryzhopil",
+    "name": "Kryzhopil Airstrip",
+    "icao": "UA-0092",
+    "lat": 48.3587402,
+    "lon": 28.8603972
+  },
+  {
+    "country": "Ukraine",
+    "state": "Odessa",
+    "city": "Limanske",
+    "name": "Limanske Airfield",
+    "icao": "UA-0034",
+    "lat": 46.6699981689453,
+    "lon": 30.0100002288818
+  },
+  {
+    "country": "Ukraine",
+    "state": "Poltava",
+    "city": "Lokhvitsya",
+    "name": "Lokhvitsya Airport",
+    "icao": "UA-0051",
+    "lat": 50.346,
+    "lon": 33.296
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kharkiv",
+    "city": "Lozovaya",
+    "name": "Bliznyuki Air Base",
+    "icao": "UA-0027",
+    "lat": 48.8769989013671,
+    "lon": 36.5499992370605
+  },
+  {
+    "country": "Ukraine",
+    "state": "Luhansk",
+    "city": "Luhansk",
+    "name": "Gostra Mogila Airfield",
+    "icao": "UA-0060",
+    "lat": 48.5313843630999,
+    "lon": 39.3907928466999
+  },
+  {
+    "country": "Ukraine",
+    "state": "Chernivtsi",
+    "city": "Luzhani",
+    "name": "Luzhani Airfield",
+    "icao": "UA-0030",
+    "lat": 48.3839988708496,
+    "lon": 25.7670001983642
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kirovohrad",
+    "city": "Mala Vyska",
+    "name": "Mala Vyska Airfield",
+    "icao": "UA-0068",
+    "lat": 48.632,
+    "lon": 31.616
+  },
+  {
+    "country": "Ukraine",
+    "state": "Zaporizhia",
+    "city": "Melitopol",
+    "name": "Melitopol Air Base",
+    "icao": "UA-0020",
+    "lat": 46.880001,
+    "lon": 35.305
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Miskhor",
+    "name": "Respect Hall Helipad",
+    "icao": "UA-0065",
+    "lat": 44.4324199968,
+    "lon": 34.0802282095
+  },
+  {
+    "country": "Ukraine",
+    "state": "Poltava",
+    "city": "Myrhorod",
+    "name": "Myrhorod Air Base",
+    "icao": "UA-0049",
+    "lat": 49.932,
+    "lon": 33.641
+  },
+  {
+    "country": "Ukraine",
+    "state": "Mykolaiv",
+    "city": "Ochakiv",
+    "name": "Ochakiv Air Base",
+    "icao": "UA-0066",
+    "lat": 46.647786,
+    "lon": 31.553764
+  },
+  {
+    "country": "Ukraine",
+    "state": "Odessa",
+    "city": "Odessa",
+    "name": "Liman Airfield",
+    "icao": "UA-0062",
+    "lat": 46.57851,
+    "lon": 30.703053
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Saki",
+    "name": "Saki Air Base",
+    "icao": "UKFI",
+    "lat": 45.0929985046386,
+    "lon": 33.5950012207031
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Sarabuz",
+    "name": "Gvardeyskoe Air Base",
+    "icao": "UKFG",
+    "lat": 45.1150016784668,
+    "lon": 33.9770011901855
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Sevastopol",
+    "name": "Belbek Air Base",
+    "icao": "UKFB",
+    "lat": 44.688999,
+    "lon": 33.570999
+  },
+  {
+    "country": "Ukraine",
+    "state": "Sevastopol (city)",
+    "city": "Sevastopol",
+    "name": "Khersones Air Base",
+    "icao": "UA-0018",
+    "lat": 44.5800018311,
+    "lon": 33.3950004578
+  },
+  {
+    "country": "Ukraine",
+    "state": "Sevastopol (city)",
+    "city": "Sevastopol",
+    "name": "Yuzhniy Airfield",
+    "icao": "UA-0041",
+    "lat": 44.5800018311,
+    "lon": 33.4959983826
+  },
+  {
+    "country": "Ukraine",
+    "state": "Sevastopol (city)",
+    "city": "Sevastopol",
+    "name": "Kruglaya Bukhta Heliport",
+    "icao": "UA-0063",
+    "lat": 44.6014149349,
+    "lon": 33.4506440163
+  },
+  {
+    "country": "Ukraine",
+    "state": "Luhansk",
+    "city": "Sievierodonetsk",
+    "name": "Sievierodonetsk Airport",
+    "icao": "UKCS",
+    "lat": 48.9003301015,
+    "lon": 38.5416698456
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Simferopol",
+    "name": "Zavodskoe Airfield",
+    "icao": "UKFW",
+    "lat": 44.919998,
+    "lon": 34.063
+  },
+  {
+    "country": "Ukraine",
+    "state": "Kherson",
+    "city": "Skadovsk",
+    "name": "Skadovsk Airport",
+    "icao": "UA-0021",
+    "lat": 46.1269989013671,
+    "lon": 32.9090003967285
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Volnoye",
+    "name": "Karankut Air Base",
+    "icao": "UA-0011",
+    "lat": 45.577999,
+    "lon": 34.282001
+  },
+  {
+    "country": "Ukraine",
+    "state": "Mykolaiv",
+    "city": "Voznesensk",
+    "name": "Voznesensk Air Base",
+    "icao": "UA-0042",
+    "lat": 47.5099983215332,
+    "lon": 31.2549991607666
+  },
+  {
+    "country": "Ukraine",
+    "state": "Rivne",
+    "city": "Vychivka",
+    "name": "Vychivka Helicopter Base",
+    "icao": "UA-0124",
+    "lat": 51.8205394,
+    "lon": 26.2873632
+  },
+  {
+    "country": "Ukraine",
+    "state": "Crimea",
+    "city": "Yalta",
+    "name": "Yalta Heliport",
+    "icao": "UA-0064",
+    "lat": 44.4853005471,
+    "lon": 34.1372251511
+  },
+  {
+    "country": "Ukraine",
+    "state": "Zaporizhia",
+    "city": "Zaporizhia",
+    "name": "Shiroke Airfield",
+    "icao": "UA-0055",
+    "lat": 47.9188730788,
+    "lon": 34.9574661255
+  },
+  {
+    "country": "Ukraine",
+    "state": "Dnipropetrovsk",
+    "city": "Zhovti Vody",
+    "name": "Zhovti Vody Airstrip",
+    "icao": "UA-0071",
+    "lat": 48.350502506,
+    "lon": 33.4442710875999
+  },
+  {
+    "country": "Ukraine",
+    "state": "Zhytomyr",
+    "city": "Zhytomyr",
+    "name": "Ozerne Air Base",
+    "icao": "UKKO",
+    "lat": 50.158298,
+    "lon": 28.7383
+  },
+  {
+    "country": "Ukraine",
+    "state": "Cherkasy",
+    "city": "Zolotonosha",
+    "name": "Palmira Airfield",
+    "icao": "UA-0053",
+    "lat": 49.763,
+    "lon": 32.123
+  }
+]

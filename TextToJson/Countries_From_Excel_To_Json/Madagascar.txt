@@ -1,0 +1,380 @@
+[
+  {
+    "country": "Madagascar",
+    "state": "Antananarivo",
+    "city": "Antananarivo",
+    "name": "Ivato Airport",
+    "icao": "FMMI",
+    "lat": -18.7969,
+    "lon": 47.478802
+  },
+  {
+    "country": "Madagascar",
+    "state": "Antsiranana",
+    "city": "Nosy Be",
+    "name": "Fascene Airport",
+    "icao": "FMNN",
+    "lat": -13.3121004105,
+    "lon": 48.3148002625
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Toliara",
+    "name": "Toliara Airport",
+    "icao": "FMST",
+    "lat": -23.3833999633789,
+    "lon": 43.7285003662109
+  },
+  {
+    "country": "Madagascar",
+    "state": "Antananarivo",
+    "city": "Antananarivo",
+    "name": "Antananarivo Arivonimamo Airport",
+    "icao": "FMMA",
+    "lat": -19.0289993286132,
+    "lon": 47.1717987060546
+  },
+  {
+    "country": "Madagascar",
+    "state": "Antsiranana",
+    "city": "Antsiranana",
+    "name": "Arrachart Airport",
+    "icao": "FMNA",
+    "lat": -12.3493995666503,
+    "lon": 49.2916984558105
+  },
+  {
+    "country": "Madagascar",
+    "state": "Fianarantsoa",
+    "city": "Fianarantsoa",
+    "name": "Fianarantsoa Airport",
+    "icao": "FMSF",
+    "lat": -21.4416007995605,
+    "lon": 47.1116981506347
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "TÃ´lanaro",
+    "name": "TÃ´lanaro Airport",
+    "icao": "FMSD",
+    "lat": -25.0380992889404,
+    "lon": 46.9561004638671
+  },
+  {
+    "country": "Madagascar",
+    "state": "Fianarantsoa",
+    "city": "Ihosy",
+    "name": "Ihosy Airport",
+    "icao": "FMSI",
+    "lat": -22.4047202023999,
+    "lon": 46.1649370193
+  },
+  {
+    "country": "Madagascar",
+    "state": "Mahajanga",
+    "city": "Anjajavy",
+    "name": "Anjajavy Airport",
+    "icao": "MG-0002",
+    "lat": -15.0231,
+    "lon": 47.2325
+  },
+  {
+    "country": "Madagascar",
+    "state": "Antsiranana",
+    "city": "Antsiranana",
+    "name": "Antsirabato Airport",
+    "icao": "FMNH",
+    "lat": -14.9994001388549,
+    "lon": 50.3202018737793
+  },
+  {
+    "country": "Madagascar",
+    "state": "Mahajanga",
+    "city": "Mahajanga",
+    "name": "Besalampy Airport",
+    "icao": "FMNQ",
+    "lat": -16.7445302965,
+    "lon": 44.4824838638
+  },
+  {
+    "country": "Madagascar",
+    "state": "Antsiranana",
+    "city": "Antsiranana",
+    "name": "Sambava Airport",
+    "icao": "FMNS",
+    "lat": -14.2785997390747,
+    "lon": 50.1747016906738
+  },
+  {
+    "country": "Madagascar",
+    "state": "Fianarantsoa",
+    "city": "Fianarantsoa",
+    "name": "Manakara Airport",
+    "icao": "FMSK",
+    "lat": -22.1196994781494,
+    "lon": 48.0217018127441
+  },
+  {
+    "country": "Madagascar",
+    "state": "Fianarantsoa",
+    "city": "Farafangana",
+    "name": "Farafangana Airport",
+    "icao": "FMSG",
+    "lat": -22.8052997589111,
+    "lon": 47.8205986022949
+  },
+  {
+    "country": "Madagascar",
+    "state": "Antsiranana",
+    "city": "Ambanja",
+    "name": "Ambanja Airport",
+    "icao": "FMNJ",
+    "lat": -13.645705,
+    "lon": 48.459427
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Ankavandra",
+    "name": "Ankavandra Airport",
+    "icao": "FMMK",
+    "lat": -18.80501,
+    "lon": 45.273467
+  },
+  {
+    "country": "Madagascar",
+    "state": "Mahajanga",
+    "city": "Maintirano",
+    "name": "Maintirano Airport",
+    "icao": "FMMO",
+    "lat": -18.049999,
+    "lon": 44.033001
+  },
+  {
+    "country": "Madagascar",
+    "state": "Mahajanga",
+    "city": "Mandritsara",
+    "name": "Mandritsara Airport",
+    "icao": "FMNX",
+    "lat": -15.833049,
+    "lon": 48.833284
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Manja",
+    "name": "Manja Airport",
+    "icao": "FMSJ",
+    "lat": -21.426105,
+    "lon": 44.316509
+  },
+  {
+    "country": "Madagascar",
+    "state": "Mahajanga",
+    "city": "Morafenobe",
+    "name": "Morafenobe Airport",
+    "icao": "FMMR",
+    "lat": -17.850083,
+    "lon": 44.920467
+  },
+  {
+    "country": "Madagascar",
+    "state": "Mahajanga",
+    "city": "Port BergÃ©",
+    "name": "Port BergÃ© Airport",
+    "icao": "FMNG",
+    "lat": -15.584286,
+    "lon": 47.623587
+  },
+  {
+    "country": "Madagascar",
+    "state": "Antananarivo",
+    "city": "Tsiroanomandidy",
+    "name": "Tsiroanomandidy Airport",
+    "icao": "FMMX",
+    "lat": -18.759677,
+    "lon": 46.054065
+  },
+  {
+    "country": "Madagascar",
+    "state": "Antsiranana",
+    "city": "Antsiranana",
+    "name": "Andapa Airport",
+    "icao": "FMND",
+    "lat": -14.6517000198364,
+    "lon": 49.6206016540527
+  },
+  {
+    "country": "Madagascar",
+    "state": "Antsiranana",
+    "city": "Antsiranana",
+    "name": "Ampampamena Airport",
+    "icao": "FMNZ",
+    "lat": -13.484816,
+    "lon": 48.632702
+  },
+  {
+    "country": "Madagascar",
+    "state": "Fianarantsoa",
+    "city": "Ambalavao",
+    "name": "Ambalavao Airport",
+    "icao": "FMSA",
+    "lat": -21.8148910187999,
+    "lon": 46.914024353
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toamasina",
+    "city": "Ambohijanahary",
+    "name": "Ambohijanahary Airport",
+    "icao": "FMMJ",
+    "lat": -17.4644789611,
+    "lon": 48.3267116547
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toamasina",
+    "city": "Amparafaravola",
+    "name": "Amparafaravola Airport",
+    "icao": "FMMP",
+    "lat": -17.6545730219,
+    "lon": 48.2144451141
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Ankazoabo",
+    "name": "Ankazoabo Airport",
+    "icao": "FMSZ",
+    "lat": -22.2964423522,
+    "lon": 44.5315361023
+  },
+  {
+    "country": "Madagascar",
+    "state": "Mahajanga",
+    "city": "Befandriana",
+    "name": "Avaratra Airport",
+    "icao": "FMNF",
+    "lat": -15.1999998092651,
+    "lon": 48.4830017089843
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Beroroha",
+    "name": "Antsoa Airport",
+    "icao": "FMSB",
+    "lat": -21.6069837646999,
+    "lon": 45.1360201835999
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toamasina",
+    "city": "Mahanoro",
+    "name": "Mahanoro Airport",
+    "icao": "FMMH",
+    "lat": -19.8330001831054,
+    "lon": 48.7999992370605
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Malaimbandy",
+    "name": "Malaimbandy Airport",
+    "icao": "FMMC",
+    "lat": -20.3553902920999,
+    "lon": 45.5433726311
+  },
+  {
+    "country": "Madagascar",
+    "state": "Fianarantsoa",
+    "city": "Vangaindrano",
+    "name": "Vangaindrano Airport",
+    "icao": "FMSU",
+    "lat": -23.3507665914999,
+    "lon": 47.5817012786999
+  },
+  {
+    "country": "Madagascar",
+    "state": "Mahajanga",
+    "city": "Mahajanga",
+    "name": "Ambatomainty Airport",
+    "icao": "AMY",
+    "lat": -17.6866666667,
+    "lon": 45.6238888889
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Amboasary Sud",
+    "name": "Amboasary Sud Airport",
+    "icao": "MG-0003",
+    "lat": -25.075585,
+    "lon": 46.393433
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Andavadoaka",
+    "name": "Andavadoaka Airport",
+    "icao": "DVD",
+    "lat": -22.06608,
+    "lon": 43.259573
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Ankisatra",
+    "name": "Tsimiroro Airport",
+    "icao": "TZO",
+    "lat": -18.345064,
+    "lon": 45.015643
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Antanimora",
+    "name": "Antanimora Airport",
+    "icao": "MG-0004",
+    "lat": -24.84006,
+    "lon": 45.675457
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Fotadrevo",
+    "name": "Fotadrevo Airport",
+    "icao": "MG-0006",
+    "lat": -24.031299,
+    "lon": 45.026573
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Maromby",
+    "name": "Maromby Airport",
+    "icao": "MG-0011",
+    "lat": -24.382498,
+    "lon": 46.556238
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Tranoroa",
+    "name": "Tranoroa Airport",
+    "icao": "MG-0010",
+    "lat": -24.717074,
+    "lon": 45.059513
+  },
+  {
+    "country": "Madagascar",
+    "state": "Toliara",
+    "city": "Tsihombe",
+    "name": "Tsihombe Airport",
+    "icao": "MG-0008",
+    "lat": -25.338352,
+    "lon": 45.476395
+  }
+]

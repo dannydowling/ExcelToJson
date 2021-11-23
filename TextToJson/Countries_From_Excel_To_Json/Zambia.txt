@@ -1,0 +1,407 @@
+[
+  {
+    "country": "Zambia",
+    "state": "Copperbelt Province",
+    "city": "Ndola",
+    "name": "Simon Mwansa Kapwepwe International Airport",
+    "icao": "FLND",
+    "lat": -12.998100280762,
+    "lon": 28.66489982605
+  },
+  {
+    "country": "Zambia",
+    "state": "Lusaka Province",
+    "city": "Lusaka",
+    "name": "Lusaka City Airport",
+    "icao": "FLLC",
+    "lat": -15.4138002396,
+    "lon": 28.3306999207
+  },
+  {
+    "country": "Zambia",
+    "state": "Central Province",
+    "city": "Central Province",
+    "name": "Mumbwa",
+    "icao": "ZM-0002",
+    "lat": -15.0727451302999,
+    "lon": 27.1867847443
+  },
+  {
+    "country": "Zambia",
+    "state": "Lusaka Province",
+    "city": "Luangwa",
+    "name": "Luangwa Airport",
+    "icao": "ZM-0003",
+    "lat": -15.606715,
+    "lon": 30.395529
+  },
+  {
+    "country": "Zambia",
+    "state": "Eastern Province",
+    "city": "Chipata",
+    "name": "Chipata Airport",
+    "icao": "FLCP",
+    "lat": -13.5583000183105,
+    "lon": 32.5872001647949
+  },
+  {
+    "country": "Zambia",
+    "state": "North-Western Province",
+    "city": "Chanika",
+    "name": "West Seven Airport",
+    "icao": "FLWG",
+    "lat": -11.9126996994018,
+    "lon": 25.6844005584716
+  },
+  {
+    "country": "Zambia",
+    "state": "Northern Province",
+    "city": "Chidulka",
+    "name": "East Five Airport",
+    "icao": "FLEE",
+    "lat": -10.5356998443603,
+    "lon": 33.4071998596191
+  },
+  {
+    "country": "Zambia",
+    "state": "Copperbelt Province",
+    "city": "Chinka",
+    "name": "West One Airport",
+    "icao": "FLWA",
+    "lat": -12.8549003601074,
+    "lon": 27.0722007751464
+  },
+  {
+    "country": "Zambia",
+    "state": "Northern Province",
+    "city": "Chinsali",
+    "name": "Chinsali Airport",
+    "icao": "FLCS",
+    "lat": -10.5329999923706,
+    "lon": 32.0670013427734
+  },
+  {
+    "country": "Zambia",
+    "state": "Northern Province",
+    "city": "Chiwanangala",
+    "name": "East Six Airport",
+    "icao": "FLEF",
+    "lat": -11.1342000960999,
+    "lon": 30.01720047
+  },
+  {
+    "country": "Zambia",
+    "state": "Central Province",
+    "city": "Kabwe",
+    "name": "Milliken Airport",
+    "icao": "FLKW",
+    "lat": -14.4505996704101,
+    "lon": 28.3791999816894
+  },
+  {
+    "country": "Zambia",
+    "state": "Luapula Province",
+    "city": "Kanshela",
+    "name": "East Seven Airport",
+    "icao": "FLEG",
+    "lat": -12.4499998092651,
+    "lon": 29.4829998016357
+  },
+  {
+    "country": "Zambia",
+    "state": "Luapula Province",
+    "city": "Kapu",
+    "name": "East Eight Airport",
+    "icao": "FLEH",
+    "lat": -12.1169996261596,
+    "lon": 29.4500007629394
+  },
+  {
+    "country": "Zambia",
+    "state": "Northern Province",
+    "city": "Kasaba Bay",
+    "name": "Kasaba Bay Airport",
+    "icao": "FLKY",
+    "lat": -8.52499961853027,
+    "lon": 30.6630001068115
+  },
+  {
+    "country": "Zambia",
+    "state": "North-Western Province",
+    "city": "Kasempa",
+    "name": "Kasempa Airport",
+    "icao": "FLPA",
+    "lat": -13.4399995803833,
+    "lon": 25.7859992980957
+  },
+  {
+    "country": "Zambia",
+    "state": "Eastern Province",
+    "city": "Katete",
+    "name": "Katete Airport",
+    "icao": "FLAT",
+    "lat": -14.1203002929687,
+    "lon": 32.0643997192382
+  },
+  {
+    "country": "Zambia",
+    "state": "North-Western Province",
+    "city": "Kauni",
+    "name": "West Six Airport",
+    "icao": "FLWF",
+    "lat": -12.2172002792358,
+    "lon": 27.4904994964599
+  },
+  {
+    "country": "Zambia",
+    "state": "Copperbelt Province",
+    "city": "Luanshya",
+    "name": "Luanshya Zambia Airport",
+    "icao": "FLLA",
+    "lat": -13.1416997909545,
+    "lon": 28.4249992370605
+  },
+  {
+    "country": "Zambia",
+    "state": "Southern Province",
+    "city": "Maamba",
+    "name": "Maamba Airport",
+    "icao": "FLMB",
+    "lat": -17.3670005798339,
+    "lon": 27.1830005645751
+  },
+  {
+    "country": "Zambia",
+    "state": "Northern Province",
+    "city": "Mbala",
+    "name": "Mbala Airport",
+    "icao": "FLBA",
+    "lat": -8.85916996002197,
+    "lon": 31.3363990783691
+  },
+  {
+    "country": "Zambia",
+    "state": "Central Province",
+    "city": "Mkushi",
+    "name": "Mkushi Airport",
+    "icao": "FLMK",
+    "lat": -13.6169996261596,
+    "lon": 29.382999420166
+  },
+  {
+    "country": "Zambia",
+    "state": "Northern Province",
+    "city": "Mporokoso",
+    "name": "Mporokoso Airport",
+    "icao": "FLPK",
+    "lat": -9.3697,
+    "lon": 30.128
+  },
+  {
+    "country": "Zambia",
+    "state": "Western Province",
+    "city": "Mulobezi",
+    "name": "Mulobezi Airport",
+    "icao": "FLMU",
+    "lat": -16.7670001983642,
+    "lon": 25.1830005645751
+  },
+  {
+    "country": "Zambia",
+    "state": "Eastern Province",
+    "city": "Nansolo",
+    "name": "Lukuzi Airport",
+    "icao": "FLKZ",
+    "lat": -12.8119001388549,
+    "lon": 32.06489944458
+  },
+  {
+    "country": "Zambia",
+    "state": "Eastern Province",
+    "city": "Nyimba",
+    "name": "Nyimba Airport",
+    "icao": "FLNY",
+    "lat": -14.5685997009277,
+    "lon": 30.8341007232666
+  },
+  {
+    "country": "Zambia",
+    "state": "Lusaka Province",
+    "city": "Rufansa",
+    "name": "Rufansa Airport",
+    "icao": "FLRU",
+    "lat": -15.0830001831054,
+    "lon": 29.632999420166
+  },
+  {
+    "country": "Zambia",
+    "state": "North-Western Province",
+    "city": "Sakeji",
+    "name": "Sakeji Airport",
+    "icao": "FLSJ",
+    "lat": -11.2327003479003,
+    "lon": 24.3164005279541
+  },
+  {
+    "country": "Zambia",
+    "state": "Luapula Province",
+    "city": "Samfya",
+    "name": "Samfya Airport",
+    "icao": "FLYA",
+    "lat": -11.3653001785278,
+    "lon": 29.5480995178222
+  },
+  {
+    "country": "Zambia",
+    "state": "Central Province",
+    "city": "Serenje",
+    "name": "Serenje Airport",
+    "icao": "FLSE",
+    "lat": -13.198,
+    "lon": 30.2398
+  },
+  {
+    "country": "Zambia",
+    "state": "Western Province",
+    "city": "Sesheke",
+    "name": "Sesheke Airport",
+    "icao": "FLSS",
+    "lat": -17.4762992858886,
+    "lon": 24.3047008514404
+  },
+  {
+    "country": "Zambia",
+    "state": "Northern Province",
+    "city": "Shiwa n'gandu",
+    "name": "Shiwa n'gandu Airport",
+    "icao": "FLSH",
+    "lat": -11.2009000778198,
+    "lon": 31.7481994628906
+  },
+  {
+    "country": "Zambia",
+    "state": "North-Western Province",
+    "city": "Zambezi",
+    "name": "Zambezi Airport",
+    "icao": "FLZB",
+    "lat": -13.537018,
+    "lon": 23.108092
+  },
+  {
+    "country": "Zambia",
+    "state": "Lusaka Province",
+    "city": "Lusaka Province",
+    "name": "Royal Zambesi Lodge Airstrip",
+    "icao": "FLRZ",
+    "lat": -15.7255,
+    "lon": 29.3021
+  },
+  {
+    "country": "Zambia",
+    "state": "North-Western Province",
+    "city": "North-Western Province",
+    "name": "Lufupa Lodge Airstrip",
+    "icao": "ZM-0023",
+    "lat": -14.603896,
+    "lon": 26.168059
+  },
+  {
+    "country": "Zambia",
+    "state": "Southern Province",
+    "city": "Bwanda",
+    "name": "Bwanda Airport",
+    "icao": "ZM-0021",
+    "lat": -16.009561,
+    "lon": 27.249314
+  },
+  {
+    "country": "Zambia",
+    "state": "Lusaka Province",
+    "city": "Kafue",
+    "name": "Kafue Airport",
+    "icao": "ZM-0007",
+    "lat": -15.729562,
+    "lon": 28.093427
+  },
+  {
+    "country": "Zambia",
+    "state": "Central Province",
+    "city": "Kamilonga",
+    "name": "Kamilonga Airport",
+    "icao": "ZM-0011",
+    "lat": -15.003311,
+    "lon": 28.08601
+  },
+  {
+    "country": "Zambia",
+    "state": "Southern Province",
+    "city": "Kamwe",
+    "name": "Kamwe Airport",
+    "icao": "ZM-0019",
+    "lat": -15.930906,
+    "lon": 27.956752
+  },
+  {
+    "country": "Zambia",
+    "state": "Central Province",
+    "city": "Karubwe",
+    "name": "Karubwe Airport",
+    "icao": "ZM-0015",
+    "lat": -15.091233,
+    "lon": 28.274492
+  },
+  {
+    "country": "Zambia",
+    "state": "Lusaka Province",
+    "city": "Lower Zambezi Natational Park",
+    "name": "Jeki Airport",
+    "icao": "FLJK",
+    "lat": -15.6334,
+    "lon": 29.6036
+  },
+  {
+    "country": "Zambia",
+    "state": "Southern Province",
+    "city": "Macha",
+    "name": "Macha Airport",
+    "icao": "ZM-0006",
+    "lat": -16.373833,
+    "lon": 26.800379
+  },
+  {
+    "country": "Zambia",
+    "state": "North-Western Province",
+    "city": "Manyinga",
+    "name": "Loloma Airstrip",
+    "icao": "ZM-0028",
+    "lat": -13.400203,
+    "lon": 24.335572
+  },
+  {
+    "country": "Zambia",
+    "state": "Copperbelt Province",
+    "city": "Mpongwe",
+    "name": "Mpongwe Airport",
+    "icao": "ZM-0014",
+    "lat": -13.636671,
+    "lon": 27.758297
+  },
+  {
+    "country": "Zambia",
+    "state": "Southern Province",
+    "city": "Nakambala",
+    "name": "Nakambala Airport",
+    "icao": "ZM-0018",
+    "lat": -15.774672,
+    "lon": 27.842683
+  },
+  {
+    "country": "Zambia",
+    "state": "Southern Province",
+    "city": "Sinasongwe",
+    "name": "Sinazongwe Airport",
+    "icao": "ZM-0004",
+    "lat": -17.212746,
+    "lon": 27.488112
+  }
+]

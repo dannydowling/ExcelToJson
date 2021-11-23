@@ -1,0 +1,2792 @@
+[
+  {
+    "country": "Papua New Guinea",
+    "state": "National Capital District (Port Moresby)",
+    "city": "Port Moresby",
+    "name": "Port Moresby Jacksons International Airport",
+    "icao": "AYPY",
+    "lat": -9.44338035583496,
+    "lon": 147.220001220703
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Goronka",
+    "name": "Goroka Airport",
+    "icao": "AYGA",
+    "lat": -6.08168983459,
+    "lon": 145.391998291
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Lae",
+    "name": "Nadzab Airport",
+    "icao": "AYNZ",
+    "lat": -6.569803,
+    "lon": 146.725977
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Madang",
+    "name": "Madang Airport",
+    "icao": "AYMD",
+    "lat": -5.20707988739,
+    "lon": 145.789001465
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western Highlands",
+    "city": "Mount Hagen",
+    "name": "Mount Hagen Kagamuga Airport",
+    "icao": "AYMH",
+    "lat": -5.82678985595703,
+    "lon": 144.296005249023
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Bougainville (North Solomons)",
+    "city": "Buka Island",
+    "name": "Buka Airport",
+    "icao": "AYBK",
+    "lat": -5.4223198890686,
+    "lon": 154.67300415039
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Kerema",
+    "name": "Kerema Airport",
+    "icao": "AYKM",
+    "lat": -7.96361017227,
+    "lon": 145.770996094
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Chimbu",
+    "city": "Kundiawa",
+    "name": "Chimbu Airport",
+    "icao": "AYCH",
+    "lat": -6.02429008483886,
+    "lon": 144.970993041992
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Kiunga",
+    "name": "Kiunga Airport",
+    "icao": "AYKI",
+    "lat": -6.12571001052856,
+    "lon": 141.281997680664
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Sandaun (West Sepik)",
+    "name": "Akwom Airstrip",
+    "icao": "PG-0003",
+    "lat": -3.94,
+    "lon": 141.832777778
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Sandaun (West Sepik)",
+    "name": "Yapsiei Airport",
+    "icao": "KPE",
+    "lat": -4.62805555556,
+    "lon": 141.094166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Bufripmin/Usareimin",
+    "name": "Gubil Airstrip",
+    "icao": "PG-0042",
+    "lat": -4.883308,
+    "lon": 141.525381
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Menyamya",
+    "name": "Menyamya Airport",
+    "icao": "MYX",
+    "lat": -7.21166666667,
+    "lon": 146.019361111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Miyanmin",
+    "name": "Miyanmin Airport",
+    "icao": "MPX",
+    "lat": -4.90305555556,
+    "lon": 141.620833333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Balimo",
+    "name": "Balimo Airport",
+    "icao": "PG-OPU",
+    "lat": -8.05000019073,
+    "lon": 142.932998657
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Aitape",
+    "name": "Tadji Airport",
+    "icao": "PG-ATP",
+    "lat": -3.19819180354,
+    "lon": 142.430963516
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Gasmata Island",
+    "name": "Gasmata Island Airport",
+    "icao": "PG-GMI",
+    "lat": -6.27111005783,
+    "lon": 150.330993652
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Kandrian",
+    "name": "Kandrian Airport",
+    "icao": "PG-KDR",
+    "lat": -6.19217,
+    "lon": 149.54783
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Londolovit",
+    "name": "Londolovit Airport",
+    "icao": "AYKY",
+    "lat": -3.04361009598,
+    "lon": 152.628997803
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Obo",
+    "name": "Obo Airport",
+    "icao": "PG-OBX",
+    "lat": -7.59062242136999,
+    "lon": 141.324262619
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Tabubil",
+    "name": "Tabubil Airport",
+    "icao": "AYTB",
+    "lat": -5.27861,
+    "lon": 141.225998
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Hela",
+    "city": "Tari",
+    "name": "Tari Airport",
+    "icao": "AYTA",
+    "lat": -5.84499979019,
+    "lon": 142.947998047
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Anguganak",
+    "name": "Anguganak Airport",
+    "icao": "PG-AKG",
+    "lat": -3.560504,
+    "lon": 142.217307
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Awaba",
+    "name": "Awaba Airport",
+    "icao": "PG-AWB",
+    "lat": -8.00611019135,
+    "lon": 142.748352051
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Bainyik",
+    "name": "Hayfields Airport",
+    "icao": "PG-HYF",
+    "lat": -3.69838,
+    "lon": 143.057902
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Bougainville (North Solomons)",
+    "city": "Buka Island",
+    "name": "Karoola Airport",
+    "icao": "PG-KXR",
+    "lat": -5.1431,
+    "lon": 154.5928
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Chungribu",
+    "name": "Chungribu Airport",
+    "icao": "PG-CVB",
+    "lat": -4.806620121,
+    "lon": 144.714996338
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Kawito",
+    "name": "Kawito Airport",
+    "icao": "PG-KWO",
+    "lat": -7.97700691222999,
+    "lon": 142.823577881
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Lumi",
+    "name": "Lumi Airport",
+    "icao": "PG-LMI",
+    "lat": -3.47683951134,
+    "lon": 142.041292191
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Sule",
+    "name": "Sule Airport",
+    "icao": "PG-ULE",
+    "lat": -4.9747200012207,
+    "lon": 151.296997070312
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Telefomin",
+    "name": "Telefomin Airport",
+    "icao": "PG-TFM",
+    "lat": -5.12608046414999,
+    "lon": 141.641921997
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Northern (Oro)",
+    "name": "Wanigela Airport",
+    "icao": "AGL",
+    "lat": -9.3375,
+    "lon": 149.155555556
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Sandaun (West Sepik)",
+    "name": "Agali Airstrip",
+    "icao": "PG-0001",
+    "lat": -5.34437746364,
+    "lon": 142.214241028
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "East Sepik",
+    "name": "Ama Airport",
+    "icao": "AMF",
+    "lat": -4.10111111111,
+    "lon": 141.67
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "East Sepik",
+    "name": "Anangalo Airstrip",
+    "icao": "PG-0014",
+    "lat": -4.6,
+    "lon": 143.843472222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Milne Bay",
+    "name": "Aragip Airport",
+    "icao": "ARP",
+    "lat": -9.88333333333,
+    "lon": 149.483333333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Northern (Oro)",
+    "name": "Asama Airstrip",
+    "icao": "PG-0017",
+    "lat": -8.02333333333,
+    "lon": 147.271666667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "West New Britain",
+    "name": "Asirim Airport",
+    "icao": "ASZ",
+    "lat": -6.00972222222,
+    "lon": 150.368611111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Sandaun (West Sepik)",
+    "name": "Bimin Airport",
+    "icao": "BIZ",
+    "lat": -5.28611111111,
+    "lon": 142.033055556
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "East Sepik",
+    "name": "Bisorio Airstrip",
+    "icao": "PG-0025",
+    "lat": -4.72166666667,
+    "lon": 142.977222222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Morobe",
+    "name": "Baindoung Airport",
+    "icao": "BDZ",
+    "lat": -6.34722222222,
+    "lon": 146.942222222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Northern (Oro)",
+    "name": "Dodoima Airport",
+    "icao": "DDM",
+    "lat": -8.17736111111,
+    "lon": 147.809444444
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "East Sepik",
+    "name": "Jangit Airstrip",
+    "icao": "PG-0029",
+    "lat": -4.33666666667,
+    "lon": 144.480694444
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Milne Bay",
+    "name": "Cape Vogel Airport",
+    "icao": "CVL",
+    "lat": -9.67,
+    "lon": 150.019722222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Western (Fly River)",
+    "name": "Kuyol Airport",
+    "icao": "KUX",
+    "lat": -5.37236111111,
+    "lon": 141.623888889
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Morobe",
+    "name": "Lengbati Airport",
+    "icao": "LNC",
+    "lat": -6.38461111111,
+    "lon": 147.368638889
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "East Sepik",
+    "name": "Malamaunda Airstrip",
+    "icao": "PG-0034",
+    "lat": -4.91927777778,
+    "lon": 143.161416667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Morobe",
+    "name": "Ogeranang Airport",
+    "icao": "OGE",
+    "lat": -6.46675,
+    "lon": 147.364166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Gulf",
+    "name": "Purari Airstrip",
+    "icao": "PG-0037",
+    "lat": -7.39111111111,
+    "lon": 145.166519
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Enga",
+    "city": "Enga",
+    "name": "Yenkis(Yankisa) Airport",
+    "icao": "YEQ",
+    "lat": -5.10972222222,
+    "lon": 143.917666667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Western (Fly River)",
+    "name": "Sturt Island Airport",
+    "icao": "AYST",
+    "lat": -8.1525,
+    "lon": 142.268444444
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Chimbu",
+    "city": "Chimbu",
+    "name": "Haia Airport",
+    "icao": "AYHA",
+    "lat": -6.707421,
+    "lon": 144.997398
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Enga",
+    "city": "Enga",
+    "name": "Kompiam Airport",
+    "icao": "AYAQ",
+    "lat": -5.38166666667,
+    "lon": 143.924722222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Sandaun (West Sepik)",
+    "name": "Arkosame Airstrip",
+    "icao": "PG-0047",
+    "lat": -3.777177,
+    "lon": 142.622672
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Sandaun (West Sepik)",
+    "name": "Blackwara Airport",
+    "icao": "AYBW",
+    "lat": -2.618211,
+    "lon": 141.091971
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Madang",
+    "name": "Daup Airport",
+    "icao": "DAF",
+    "lat": -4.7403,
+    "lon": 145.9515
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East New Britain",
+    "city": "East New Britain",
+    "name": "Kerevat Airfield",
+    "icao": "PG-0063",
+    "lat": -4.3092,
+    "lon": 152.0122
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Central",
+    "name": "Kais-Udave Helicopter landing site",
+    "icao": "AYUD",
+    "lat": -8.7819,
+    "lon": 147.2785
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "East Sepik",
+    "name": "Kombot Airstrip",
+    "icao": "PG-0088",
+    "lat": -3.486,
+    "lon": 142.704
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Abau",
+    "name": "Abau Airport",
+    "icao": "ABW",
+    "lat": -10.1956,
+    "lon": 148.7389
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Aiome",
+    "name": "Aiome Airport",
+    "icao": "AIE",
+    "lat": -5.145699978,
+    "lon": 144.7307003
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Aiyura Valley",
+    "name": "Aiyura Airport",
+    "icao": "AYU",
+    "lat": -6.33805555556,
+    "lon": 145.904166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Ali",
+    "name": "Ali Airstrip",
+    "icao": "PG-0004",
+    "lat": -7.91666666667,
+    "lon": 142.339166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Amboin",
+    "name": "Karawari Airstrip",
+    "icao": "KRJ",
+    "lat": -4.59666666667,
+    "lon": 143.5225
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Ambulua",
+    "name": "Ambaluwa Airstrip",
+    "icao": "PG-0013",
+    "lat": -5.72027777778,
+    "lon": 144.921111111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Amjenuwa",
+    "name": "Asinuwa Airstrip",
+    "icao": "PG-0056",
+    "lat": -7.0287,
+    "lon": 145.7678
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Amusa",
+    "name": "Gimi Airstrip",
+    "icao": "AYGD",
+    "lat": -6.6482,
+    "lon": 145.4003
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Bougainville (North Solomons)",
+    "city": "Arawa",
+    "name": "Arawa Airport",
+    "icao": "RAW",
+    "lat": -6.22055555556,
+    "lon": 155.571388889
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Arisili",
+    "name": "Arisili Airstrip",
+    "icao": "PG-0077",
+    "lat": -3.55,
+    "lon": 142.847
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Aro",
+    "name": "Aro Airstrip",
+    "icao": "PG-0079",
+    "lat": -7.991,
+    "lon": 147.24
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Hela",
+    "city": "Arou",
+    "name": "Arou Airstrip",
+    "icao": "AYAU",
+    "lat": -5.4951,
+    "lon": 142.5137
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Arufi",
+    "name": "Arufi Airstrip",
+    "icao": "PG-0016",
+    "lat": -8.75388888889,
+    "lon": 141.911388889
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Aseki",
+    "name": "Aseki Airport",
+    "icao": "AEK",
+    "lat": -7.35080485552,
+    "lon": 146.19386673
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Assengseng",
+    "name": "Assengseng Airstrip",
+    "icao": "PG-0019",
+    "lat": -6.02361111111,
+    "lon": 149.785833333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Manus",
+    "city": "Aua Island",
+    "name": "Aua Island Airport",
+    "icao": "AUI",
+    "lat": -1.46055555556,
+    "lon": 143.064722222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Aumo",
+    "name": "Aumo Airport",
+    "icao": "AUV",
+    "lat": -5.73111111111,
+    "lon": 148.445277778
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Bak",
+    "name": "Bak Airstrip",
+    "icao": "AYBB",
+    "lat": -5.2685,
+    "lon": 142.097
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Bambu",
+    "name": "Bambu Airport",
+    "icao": "BCP",
+    "lat": -5.86361111111,
+    "lon": 146.4925
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Jiwaka",
+    "city": "Banz",
+    "name": "Banz Airport",
+    "icao": "BNZ",
+    "lat": -5.807,
+    "lon": 144.623
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Bapi",
+    "name": "Bapi Airstrip",
+    "icao": "PG-0020",
+    "lat": -7.74361111111,
+    "lon": 147.020555556
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Begesin",
+    "name": "Begesin Airstrip",
+    "icao": "AYBS",
+    "lat": -5.3889,
+    "lon": 145.4472
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Bensbach",
+    "name": "Bensbach Airport",
+    "icao": "BSP",
+    "lat": -8.85805555556,
+    "lon": 141.259444444
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Bewani",
+    "name": "Bewani Airport",
+    "icao": "BWP",
+    "lat": -3.02166666667,
+    "lon": 141.165277778
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Biaru",
+    "name": "Biaru Airport",
+    "icao": "AYBR",
+    "lat": -7.6693,
+    "lon": 146.7594
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Biliau",
+    "name": "Biliau Airport",
+    "icao": "BIJ",
+    "lat": -5.578,
+    "lon": 146.339
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Boang Island",
+    "name": "Boang Airport",
+    "icao": "BOV",
+    "lat": -3.3834,
+    "lon": 153.2812
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Boikoa",
+    "name": "Boikoa Airstrip",
+    "icao": "PG-0026",
+    "lat": -7.03861111111,
+    "lon": 145.734166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Bougainville (North Solomons)",
+    "city": "Boku",
+    "name": "Boku Airport",
+    "icao": "BOQ",
+    "lat": -6.5427,
+    "lon": 155.3419
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Chimbu",
+    "city": "Bomai",
+    "name": "Bomai Airport",
+    "icao": "BMH",
+    "lat": -6.37316666667,
+    "lon": 144.637
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Bosset",
+    "name": "Bosset Airport",
+    "icao": "BOT",
+    "lat": -7.237257,
+    "lon": 141.1063222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Boure",
+    "name": "Boure Airstrip",
+    "icao": "PG-0028",
+    "lat": -9.61791666666999,
+    "lon": 148.745833333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Bougainville (North Solomons)",
+    "city": "Buin",
+    "name": "Buin Airport",
+    "icao": "UBI",
+    "lat": -6.72916666667,
+    "lon": 155.683333333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Buki",
+    "name": "Finschhafen Airport",
+    "icao": "FIN",
+    "lat": -6.621750109,
+    "lon": 147.85405
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Bulolo",
+    "name": "Bulolo Airport",
+    "icao": "BUL",
+    "lat": -7.21628667141,
+    "lon": 146.649541855
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Bunam",
+    "name": "Bunam Airstrip",
+    "icao": "AYUN",
+    "lat": -4.6564,
+    "lon": 144.2517
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Bunguwat",
+    "name": "Bunguwat Airstrip",
+    "icao": "AYUT",
+    "lat": -6.005,
+    "lon": 146.7205
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Bunsil - Umboi Island",
+    "name": "Bunsil Airport",
+    "icao": "BXZ",
+    "lat": -5.7243,
+    "lon": 147.8667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Busilmin",
+    "name": "Busilmin Airstrip",
+    "icao": "AYIN",
+    "lat": -4.9166,
+    "lon": 141.1548
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Cape Gloucester",
+    "name": "Cape Gloucester Airport",
+    "icao": "CGC",
+    "lat": -5.458965,
+    "lon": 148.432417
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Cape Rodney",
+    "name": "Cape Rodney Airport",
+    "icao": "PG-0005",
+    "lat": -10.179823004,
+    "lon": 148.379030228
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Castori Islets",
+    "name": "Doini Airport",
+    "icao": "AYDO",
+    "lat": -10.7009,
+    "lon": 150.7218
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Dahamo Village",
+    "name": "Dahamo Airstrip",
+    "icao": "PG-0032",
+    "lat": -5.75319444444,
+    "lon": 141.993611111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Demgulu",
+    "name": "Meselia Airport",
+    "icao": "AYES",
+    "lat": -6.1364,
+    "lon": 149.1183
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Chimbu",
+    "city": "Denglagu Mission",
+    "name": "Keglsugl Airport",
+    "icao": "KEG",
+    "lat": -5.83277777778,
+    "lon": 145.097222222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Dewara",
+    "name": "Dewara Airstrip",
+    "icao": "AYDW",
+    "lat": -8.3802,
+    "lon": 142.4475
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Dimisisi",
+    "name": "Dimisisi Airstrip",
+    "icao": "AYDQ",
+    "lat": -8.6298,
+    "lon": 142.2162
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Dinangat",
+    "name": "Dinangat Airport",
+    "icao": "AYDN",
+    "lat": -6.1546,
+    "lon": 146.6772
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Bougainville (North Solomons)",
+    "city": "Dios",
+    "name": "Dios Airport",
+    "icao": "DOS",
+    "lat": -5.5609,
+    "lon": 154.9616
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Dona",
+    "name": "Dona Airstrip",
+    "icao": "PG-0075",
+    "lat": -7.8465,
+    "lon": 147.6518
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Eleme",
+    "name": "Eleme Airstrip",
+    "icao": "AYEM",
+    "lat": -4.8141,
+    "lon": 143.9103
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Eliptamin",
+    "name": "Eliptamin Airport",
+    "icao": "AYEL",
+    "lat": -5.0412,
+    "lon": 141.6779
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Eloaua Island",
+    "name": "Eloaua Airstrip",
+    "icao": "AYEU",
+    "lat": -1.5601,
+    "lon": 149.6318
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Embessa",
+    "name": "Embessa Airport",
+    "icao": "AYEB",
+    "lat": -9.447,
+    "lon": 148.7628
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Emirau Island",
+    "name": "Emirau Airport",
+    "icao": "PG-0006",
+    "lat": -1.653949991,
+    "lon": 149.9757667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Erave",
+    "name": "Erave Airport",
+    "icao": "PG-0007",
+    "lat": -6.60646315446,
+    "lon": 143.900213242
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Esa'ala",
+    "name": "Esa'ala Airport",
+    "icao": "PG-0008",
+    "lat": -9.87432702318,
+    "lon": 150.954208374
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Fane Mission",
+    "name": "Fane Airport",
+    "icao": "FNE",
+    "lat": -8.54927777778,
+    "lon": 147.085833333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Fiyak",
+    "name": "Fiyak Airstrip",
+    "icao": "PG-0065",
+    "lat": -4.6771,
+    "lon": 141.5666
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Fuma",
+    "name": "Fuma Airport",
+    "icao": "AYFU",
+    "lat": -6.3933,
+    "lon": 142.4408
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Garaina",
+    "name": "Garaina Airport",
+    "icao": "PG-0009",
+    "lat": -7.87562502746,
+    "lon": 147.141265869
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Garove Island",
+    "name": "Witu Airport",
+    "icao": "AYIX",
+    "lat": -4.689522,
+    "lon": 149.440112
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Gawa",
+    "name": "Gawa Airstrip",
+    "icao": "AYGQ",
+    "lat": -5.259,
+    "lon": 142.233
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Geigorobi",
+    "name": "Geigorobi Airstrip",
+    "icao": "AYGE",
+    "lat": -4.1055,
+    "lon": 143.3056
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Gema",
+    "name": "Gema Airstrip",
+    "icao": "AYGM",
+    "lat": -6.8032,
+    "lon": 145.7756
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Jiwaka",
+    "city": "Giramben",
+    "name": "Giramben Airstrip",
+    "icao": "PG-0067",
+    "lat": -5.7835,
+    "lon": 144.5568
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Gobe",
+    "name": "Gobe Airport",
+    "icao": "PG-0010",
+    "lat": -6.8782,
+    "lon": 143.7219
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Gokto",
+    "name": "Gokto Airstrip",
+    "icao": "AYGO",
+    "lat": -4.9136,
+    "lon": 144.49
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East New Britain",
+    "city": "Gonaili",
+    "name": "Gonaili Airport",
+    "icao": "PG-0011",
+    "lat": -5.527716614,
+    "lon": 151.5733333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Guari",
+    "name": "Guari Airport",
+    "icao": "AYGF",
+    "lat": -8.1286,
+    "lon": 146.8722
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Guavi",
+    "name": "Guavi Airstrip",
+    "icao": "AYGY",
+    "lat": -6.87,
+    "lon": 142.7537
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Gubam",
+    "name": "Gubam Airstrip",
+    "icao": "PG-0043",
+    "lat": -8.608765,
+    "lon": 141.919638
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western Highlands",
+    "city": "Gulgubip",
+    "name": "Gulgubip Airport",
+    "icao": "GLP",
+    "lat": -5.2808,
+    "lon": 141.5411
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Gunim",
+    "name": "Kerau Airport",
+    "icao": "KRU",
+    "lat": -8.271612,
+    "lon": 147.071899
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Guriaso",
+    "name": "Guriaso (Keraso) Airport",
+    "icao": "GUE",
+    "lat": -3.583167,
+    "lon": 141.5895
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Habina",
+    "name": "Habina Airstrip",
+    "icao": "AYHN",
+    "lat": -6.6671,
+    "lon": 146.0
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Haewenai",
+    "name": "Haewenai Airstrip",
+    "icao": "AYHW",
+    "lat": -5.7219,
+    "lon": 141.3205
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Heiweni",
+    "name": "Heiweni Airport",
+    "icao": "AYHE",
+    "lat": -7.4223,
+    "lon": 146.4276
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Manus",
+    "city": "Hermit Islands",
+    "name": "Maron Island Airport",
+    "icao": "MNP",
+    "lat": -1.5504,
+    "lon": 145.0168
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Herowana",
+    "name": "Herowena Airstrip",
+    "icao": "AYHX",
+    "lat": -6.6229,
+    "lon": 145.1972
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Honinabi",
+    "name": "Honinabi Airport",
+    "icao": "AYHH",
+    "lat": -16.2457,
+    "lon": 142.1771
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Iamalele, Fergusson Island",
+    "name": "Iamalele Airport",
+    "icao": "IMA",
+    "lat": -9.5107,
+    "lon": 150.5246
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Iboki",
+    "name": "Iboki Airport",
+    "icao": "IBI",
+    "lat": -5.5536,
+    "lon": 149.19
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Idam",
+    "name": "Idam Airstrip",
+    "icao": "PG-0068",
+    "lat": -4.1432,
+    "lon": 141.2592
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Ileg",
+    "name": "Ileg Airport",
+    "icao": "ILX",
+    "lat": -5.4917,
+    "lon": 145.8022
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Imane",
+    "name": "Imane Airport",
+    "icao": "AYII",
+    "lat": -6.7524,
+    "lon": 146.1072
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Inaru",
+    "name": "Inaru Airstrip",
+    "icao": "AYIR",
+    "lat": -4.6316,
+    "lon": 142.8913
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Ioma",
+    "name": "Ioma Airport",
+    "icao": "IOP",
+    "lat": -8.3614,
+    "lon": 147.84
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Iropena",
+    "name": "Iropena Airstrip",
+    "icao": "AYIP",
+    "lat": -5.0333,
+    "lon": 143.87084
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Iteri",
+    "name": "Iteri Airstrip",
+    "icao": "AYIT",
+    "lat": -4.2418,
+    "lon": 141.5234
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Itokama",
+    "name": "Itokama Airport",
+    "icao": "ITK",
+    "lat": -9.201527,
+    "lon": 148.264261
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Josephstaal",
+    "name": "Josephstaal Airport",
+    "icao": "JOP",
+    "lat": -4.74708333333,
+    "lon": 145.007083333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Junkaral",
+    "name": "Junkaral Airstrip",
+    "icao": "PG-0030",
+    "lat": -5.42316666667,
+    "lon": 145.010027778
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Kabori",
+    "name": "Kabori Airstrip",
+    "icao": "PG-0031",
+    "lat": -3.32161111111,
+    "lon": 141.858416667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Kafa",
+    "name": "Kafa Airstrip",
+    "icao": "PG-0039",
+    "lat": -6.58688888889,
+    "lon": 143.515
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Kagua",
+    "name": "Kagua Airport",
+    "icao": "AGK",
+    "lat": -6.39638888889,
+    "lon": 143.853611111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Kairiru Island",
+    "name": "Kairiru Airstrip",
+    "icao": "AYKZ",
+    "lat": -3.3687,
+    "lon": 143.5546
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Kakoro",
+    "name": "Kakoro(Koroko) Airstrip",
+    "icao": "KOR",
+    "lat": -7.83466666667,
+    "lon": 146.5335
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Kanainj",
+    "name": "Kanainj Airport",
+    "icao": "AYKJ",
+    "lat": -5.2903,
+    "lon": 144.7072
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Enga",
+    "city": "Kandep",
+    "name": "Kandep Airport",
+    "icao": "KDP",
+    "lat": -5.84061111111,
+    "lon": 143.507222222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Kapal",
+    "name": "Kapal Airport",
+    "icao": "KPL",
+    "lat": -8.630184,
+    "lon": 142.823756
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Kar",
+    "name": "Kar Airport",
+    "icao": "KAK",
+    "lat": -6.2452,
+    "lon": 143.5516
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Kasonombe",
+    "name": "Kasonombe Airport",
+    "icao": "AYNM",
+    "lat": -6.3819,
+    "lon": 146.9859
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Kauaia",
+    "name": "Kauaia Airstrip",
+    "icao": "PG-0085",
+    "lat": -3.758,
+    "lon": 142.9777
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Kaup Villages",
+    "name": "Kaup Airstrip",
+    "icao": "PG-0089",
+    "lat": -3.8033,
+    "lon": 143.987
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western Highlands",
+    "city": "Kawbenaberi",
+    "name": "Ruti Airport",
+    "icao": "RUU",
+    "lat": -5.33444444444,
+    "lon": 144.256666667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Kelanoa",
+    "name": "Kelanoa Airport",
+    "icao": "KNL",
+    "lat": -6.01,
+    "lon": 147.49
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Kibeni",
+    "name": "Kibeni Airstrip",
+    "icao": "PG-0051",
+    "lat": -7.4846,
+    "lon": 143.8224
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Kibuli",
+    "name": "Kibuli Airstrip",
+    "icao": "PG-0048",
+    "lat": -9.006528,
+    "lon": 142.698056
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Kikinonda",
+    "name": "Kikinonda Airport",
+    "icao": "KIZ",
+    "lat": -8.5284,
+    "lon": 147.9309
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Kilifas",
+    "name": "Kilifas Airstrip",
+    "icao": "PG-0052",
+    "lat": -3.2148,
+    "lon": 141.3642
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Kirinbit",
+    "name": "Kirinbit Airstrip",
+    "icao": "AYRT",
+    "lat": -4.2839,
+    "lon": 143.1512
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Kitava Island",
+    "name": "Kitava Airport",
+    "icao": "KVE",
+    "lat": -8.6285,
+    "lon": 151.327
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Kiwai Island",
+    "name": "Kiwai Airport",
+    "icao": "KWX",
+    "lat": -8.6883,
+    "lon": 143.618
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Klauhau",
+    "name": "Klauhau Airstrip",
+    "icao": "AYLH",
+    "lat": -4.1305,
+    "lon": 142.2495
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Komaio",
+    "name": "Komaio Airport",
+    "icao": "AYOQ",
+    "lat": -7.2714,
+    "lon": 143.5952
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Hela",
+    "city": "Komo",
+    "name": "Komo-Manda Airport",
+    "icao": "KOM",
+    "lat": -6.0682,
+    "lon": 142.8598
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Kondobol",
+    "name": "Kondobol Airport",
+    "icao": "AYDL",
+    "lat": -8.5336,
+    "lon": 142.5049
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Hela",
+    "city": "Kopiago",
+    "name": "Kopiago Airport",
+    "icao": "AYKG",
+    "lat": -5.3883,
+    "lon": 142.4977
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Hela",
+    "city": "Koroba",
+    "name": "Fugwa Airstrip",
+    "icao": "PG-0066",
+    "lat": -5.7169,
+    "lon": 142.6968
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Kosimbi Mission",
+    "name": "Kosimbi Airstrip",
+    "icao": "AYOS",
+    "lat": -3.9522,
+    "lon": 143.1767
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Kungim",
+    "name": "Kungim Airport",
+    "icao": "AYIM",
+    "lat": -5.671,
+    "lon": 141.03
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Kupiano",
+    "name": "Kupiano Airport",
+    "icao": "KUP",
+    "lat": -10.0736,
+    "lon": 148.218
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Kuri",
+    "name": "Kuri Airport",
+    "icao": "AYKU",
+    "lat": -7.135083,
+    "lon": 143.276111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Bougainville (North Solomons)",
+    "city": "Kurwina",
+    "name": "Kurwina Airport",
+    "icao": "KWV",
+    "lat": -5.965,
+    "lon": 155.3604
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Lagoon",
+    "name": "Lagoon Airstrip",
+    "icao": "AYLQ",
+    "lat": -8.8186,
+    "lon": 143.1317
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Enga",
+    "city": "Laiagam",
+    "name": "Laiagam Airport",
+    "icao": "LGM",
+    "lat": -5.4923,
+    "lon": 143.488
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East New Britain",
+    "city": "Leli",
+    "name": "Lele Airstrip",
+    "icao": "AYLE",
+    "lat": -5.2192,
+    "lon": 151.3938
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Leron Plains",
+    "name": "Leron Plains Airport",
+    "icao": "AYLP",
+    "lat": -6.3917,
+    "lon": 146.3434
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Lese",
+    "name": "Lese Airport",
+    "icao": "AYLS",
+    "lat": -8.2799,
+    "lon": 146.2765
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Manus",
+    "city": "Lorengau",
+    "name": "Lorengau Airfield",
+    "icao": "PG-0062",
+    "lat": -2.0201,
+    "lon": 147.2664
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Manus",
+    "city": "Lou Island",
+    "name": "Lou Island Airstrip",
+    "icao": "PG-0084",
+    "lat": -2.378,
+    "lon": 147.3627
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Lowai",
+    "name": "Lowai Airport",
+    "icao": "AYLO",
+    "lat": -6.3344,
+    "lon": 146.6458
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Ludesa Mission",
+    "name": "Bosavi Airstrip",
+    "icao": "PG-0027",
+    "lat": -6.46166666667,
+    "lon": 142.841111111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western Highlands",
+    "city": "Lumusa",
+    "name": "Lumusa Airstrip",
+    "icao": "PG-0033",
+    "lat": -5.52777777778,
+    "lon": 144.065555556
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Maitanakunai",
+    "name": "Open Bay Airport",
+    "icao": "AYOY",
+    "lat": -4.794727,
+    "lon": 151.696195
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Makini",
+    "name": "Makini Airport",
+    "icao": "MPG",
+    "lat": -6.53222222222,
+    "lon": 147.651166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Malalaua",
+    "name": "Malalaua Airport",
+    "icao": "MLQ",
+    "lat": -8.07138888889,
+    "lon": 146.155472222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Mamai",
+    "name": "Mamai Airport",
+    "icao": "MAP",
+    "lat": -10.2908333332999,
+    "lon": 149.519166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Manari",
+    "name": "Manari Airport",
+    "icao": "AYMA",
+    "lat": -9.1908,
+    "lon": 147.6219
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East New Britain",
+    "city": "Manguna",
+    "name": "Manguna Airport",
+    "icao": "AYNG",
+    "lat": -5.577778,
+    "lon": 151.792333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Manumu",
+    "name": "Manumu Airport",
+    "icao": "UUU",
+    "lat": -9.0746,
+    "lon": 147.5735
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Mapaio Village",
+    "name": "Mapaio Airstrip",
+    "icao": "PG-0076",
+    "lat": -7.656,
+    "lon": 145.045
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Marawaka",
+    "name": "Marawaka Airport",
+    "icao": "AYMW",
+    "lat": -6.9736,
+    "lon": 145.8849
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Margarima",
+    "name": "Margarima Airport",
+    "icao": "MGG",
+    "lat": -5.979,
+    "lon": 143.3595
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Membok",
+    "name": "Membok Airstrip",
+    "icao": "AYEK",
+    "lat": -6.4744,
+    "lon": 141.019
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western Highlands",
+    "city": "Menjim",
+    "name": "Menjim Airstrip",
+    "icao": "PG-0093",
+    "lat": -5.502442,
+    "lon": 144.458104
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Moi",
+    "name": "Moi Airstrip",
+    "icao": "AYOX",
+    "lat": -4.1615,
+    "lon": 141.2478
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Mok",
+    "name": "Mok Airport",
+    "icao": "AYMK",
+    "lat": -5.730238,
+    "lon": 149.056583
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Moki",
+    "name": "Moki Airport",
+    "icao": "MJJ",
+    "lat": -5.7181,
+    "lon": 145.2404
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Mougulu",
+    "name": "Mougulu Airport",
+    "icao": "AYML",
+    "lat": -6.280859,
+    "lon": 142.420775
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Mount Boregoro",
+    "name": "Mount Boregoro Helicopter Landing  Site",
+    "icao": "AYRX",
+    "lat": -9.8944,
+    "lon": 148.1069
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Mount Tauwa",
+    "name": "Mount Tauwa Airstrip",
+    "icao": "AYYT",
+    "lat": -6.7293,
+    "lon": 144.303
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Muschu Island",
+    "name": "Muschu Airstrip",
+    "icao": "PG-0082",
+    "lat": -3.4097,
+    "lon": 143.58
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Mutam",
+    "name": "Tapila Airstrip",
+    "icao": "AYTC",
+    "lat": -8.4188,
+    "lon": 142.9043
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Nadunumu",
+    "name": "Nadunumu Airport",
+    "icao": "NDN",
+    "lat": -9.14355555556,
+    "lon": 147.68425
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Namatanai",
+    "name": "Namatanai Airport",
+    "icao": "ATN",
+    "lat": -3.6695,
+    "lon": 152.438
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Chimbu",
+    "city": "Negarbo",
+    "name": "Negarbo(Negabo) Airport",
+    "icao": "AYNE",
+    "lat": -6.567778,
+    "lon": 144.703058
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Nipa",
+    "name": "Nipa Airport",
+    "icao": "NPG",
+    "lat": -6.1454,
+    "lon": 143.4531
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Nomad River",
+    "name": "Nomad River Airport",
+    "icao": "NOM",
+    "lat": -6.294,
+    "lon": 142.234166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Norambi",
+    "name": "Norambi Airstrip.",
+    "icao": "AYRN",
+    "lat": -6.9125,
+    "lon": 145.6731
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Nuguria Island",
+    "name": "Nuguria Airstrip",
+    "icao": "NUG",
+    "lat": -3.4075,
+    "lon": 154.7383
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Obura",
+    "name": "Obura Airstrip",
+    "icao": "AYOD",
+    "lat": -6.5507,
+    "lon": 145.9728
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Okao",
+    "name": "Okao Airport",
+    "icao": "OKV",
+    "lat": -5.55666666667,
+    "lon": 141.032777778
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Olsobip",
+    "name": "Olsobip Airport",
+    "icao": "OLQ",
+    "lat": -5.38972222222,
+    "lon": 141.515277778
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Omaura",
+    "name": "Omaura Airstrip",
+    "icao": "AYUO",
+    "lat": -6.3679,
+    "lon": 145.9902
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Chimbu",
+    "city": "Omkalai",
+    "name": "Omkalai Airport",
+    "icao": "OML",
+    "lat": -6.179,
+    "lon": 144.96
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Onange Mission",
+    "name": "Ononge Airport",
+    "icao": "ONB",
+    "lat": -8.67436111111,
+    "lon": 147.262416667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Ossima",
+    "name": "Ossima Airport",
+    "icao": "OSG",
+    "lat": -2.91555555556,
+    "lon": 141.297305556
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Oum",
+    "name": "Oum Airstrip",
+    "icao": "AYZU",
+    "lat": -4.2684,
+    "lon": 142.1273
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Owenia",
+    "name": "Owena Airstrip",
+    "icao": "PG-0050",
+    "lat": -6.6962,
+    "lon": 145.8094
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Enga",
+    "city": "Paiela",
+    "name": "Paiela Airport",
+    "icao": "PLE",
+    "lat": -5.3725,
+    "lon": 142.976111111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Panasesa Island",
+    "name": "Panasesa Airstrip",
+    "icao": "PG-0070",
+    "lat": -10.739,
+    "lon": 151.7255
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Pasinkap",
+    "name": "Pasinkap Airstrip",
+    "icao": "PG-0036",
+    "lat": -5.01541666667,
+    "lon": 144.842138889
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Pimaga",
+    "name": "Pimaga Airport",
+    "icao": "PMP",
+    "lat": -6.49916666667,
+    "lon": 143.510277778
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Pindiu",
+    "name": "Pindiu Airport",
+    "icao": "PDI",
+    "lat": -6.44513888889,
+    "lon": 147.515833333
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Enga",
+    "city": "Porgera",
+    "name": "Porgera Airport",
+    "icao": "RGE",
+    "lat": -5.4792,
+    "lon": 143.1236
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Hela",
+    "city": "Pori",
+    "name": "Pori Airstrip",
+    "icao": "PG-0071",
+    "lat": -5.5782,
+    "lon": 142.7065
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Puas Mission",
+    "name": "Puas Airport",
+    "icao": "PUA",
+    "lat": -2.395,
+    "lon": 150.2361
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Pukapuki Vilage",
+    "name": "Pukapuki Airstrip",
+    "icao": "PG-0054",
+    "lat": -4.5362,
+    "lon": 142.5176
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Pumani",
+    "name": "Pumani Airport",
+    "icao": "AYPQ",
+    "lat": -9.7469,
+    "lon": 149.4766
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Pureni",
+    "name": "Pureni Airport",
+    "icao": "PUI",
+    "lat": -5.8429,
+    "lon": 142.8279
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East New Britain",
+    "city": "Rabaul",
+    "name": "Lakunai Airfield",
+    "icao": "AYRB",
+    "lat": -4.223,
+    "lon": 152.185
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East New Britain",
+    "city": "Rakanda",
+    "name": "Rakanda Airport",
+    "icao": "RAA",
+    "lat": -4.2096,
+    "lon": 152.4385
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Bougainville (North Solomons)",
+    "city": "Sabah",
+    "name": "Sabah Airport",
+    "icao": "AYSH",
+    "lat": -5.5765,
+    "lon": 155.0489
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Saidor",
+    "name": "Saidor Airport",
+    "icao": "SDI",
+    "lat": -5.62713888889,
+    "lon": 146.462777778
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Salamo",
+    "name": "Salamo Airport",
+    "icao": "SAM",
+    "lat": -9.6701,
+    "lon": 150.7903
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Samanzing",
+    "name": "Samanzing Airstrip",
+    "icao": "AYSZ",
+    "lat": -6.4513,
+    "lon": 147.0673
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Samarai Island",
+    "name": "China Strait Airstrip",
+    "icao": "SQT",
+    "lat": -10.5627777778,
+    "lon": 150.690694444
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Samberigi Mission",
+    "name": "Samberigi Airstrip",
+    "icao": "AYSM",
+    "lat": -6.7193,
+    "lon": 143.9338
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Sangera",
+    "name": "Sangera Airstrip",
+    "icao": "AYSR",
+    "lat": -3.9678,
+    "lon": 143.2763
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Satwag",
+    "name": "Satwag Airport",
+    "icao": "SWG",
+    "lat": -6.13955555556,
+    "lon": 147.279166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "West New Britain",
+    "city": "Sauren",
+    "name": "Sauren Airport",
+    "icao": "AYSV",
+    "lat": -5.9701,
+    "lon": 148.8543
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Sehulea",
+    "name": "Sehulea Airport",
+    "icao": "SXH",
+    "lat": -9.96452777778,
+    "lon": 151.161861111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Selbang",
+    "name": "Selbang Airport",
+    "icao": "AYSO",
+    "lat": -5.315,
+    "lon": 141.752
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Sengapi",
+    "name": "Sengapi Airstrip",
+    "icao": "PG-0038",
+    "lat": -5.12583333333,
+    "lon": 144.323611111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Siawi",
+    "name": "Siawi Airstrip",
+    "icao": "AYZW",
+    "lat": -4.061,
+    "lon": 141.4197
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Sila Mission",
+    "name": "Sila Airport",
+    "icao": "AYSG",
+    "lat": -9.07355555556,
+    "lon": 148.38925
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Silur Mission",
+    "name": "Silur Airport",
+    "icao": "SWR",
+    "lat": -4.52988888888999,
+    "lon": 153.054444444
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Sim",
+    "name": "Sim Airport",
+    "icao": "AYXI",
+    "lat": -7.75,
+    "lon": 146.9273
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Simbari",
+    "name": "Simbari Airstrip",
+    "icao": "AYQB",
+    "lat": -6.9623,
+    "lon": 145.6448
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Sindeni",
+    "name": "Ande Airstrip",
+    "icao": "PG-0015",
+    "lat": -7.02083333333,
+    "lon": 145.822222222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Sinow",
+    "name": "Sinow Airstrip",
+    "icao": "AYQV",
+    "lat": -3.9925,
+    "lon": 141.5537
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Northern (Oro)",
+    "city": "Sinua Valley",
+    "name": "Awala Airstrip",
+    "icao": "PG-0080",
+    "lat": -9.5487,
+    "lon": 148.4156
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Slai",
+    "name": "Slai Airstrip",
+    "icao": "AYLZ",
+    "lat": -4.0322,
+    "lon": 143.1831
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Smok",
+    "name": "Smok Airstrip",
+    "icao": "AYMY",
+    "lat": -3.3158,
+    "lon": 141.2461
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Sopise",
+    "name": "Sopise Airstrip",
+    "icao": "AYZQ",
+    "lat": -6.7887,
+    "lon": 144.1593
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Suame",
+    "name": "Suame Airstrip",
+    "icao": "AYUS",
+    "lat": -8.3684,
+    "lon": 142.5862
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Sugu",
+    "name": "Sugu Airstrip",
+    "icao": "AYXG",
+    "lat": -6.3907,
+    "lon": 143.5565
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Sumwari",
+    "name": "Sumwari Airstrip",
+    "icao": "AYQW",
+    "lat": -4.7508,
+    "lon": 142.3686
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Jiwaka",
+    "city": "Tabibuga",
+    "name": "Tabibuga Airport",
+    "icao": "TBA",
+    "lat": -5.5766,
+    "lon": 144.6508
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Chimbu",
+    "city": "Talbakul",
+    "name": "Talbakul Airstrip",
+    "icao": "AYTL",
+    "lat": -6.3708,
+    "lon": 144.7167
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Tamo",
+    "name": "Tamo Airstrip",
+    "icao": "AYTM",
+    "lat": -4.7246,
+    "lon": 144.1529
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Tapini",
+    "name": "Tapini Airport",
+    "icao": "AYTI",
+    "lat": -8.35666666667,
+    "lon": 146.989166667
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Tarabo",
+    "name": "Tarabo Airport",
+    "icao": "TBQ",
+    "lat": -6.46666666667,
+    "lon": 145.532222222
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Tatau Island",
+    "name": "Mapua(Mabua) Airport",
+    "icao": "MPU",
+    "lat": -2.81138888889,
+    "lon": 151.991111111
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Tauta",
+    "name": "Tauta Airport",
+    "icao": "TUT",
+    "lat": -5.8335,
+    "lon": 145.9341
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Tekadu",
+    "name": "Tekadu Airport",
+    "icao": "AYTZ",
+    "lat": -7.6808,
+    "lon": 146.5503
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Teptep",
+    "name": "Tep Tep Airport",
+    "icao": "AYTP",
+    "lat": -5.9553,
+    "lon": 146.5595
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Tetehui",
+    "name": "Teredau Airport",
+    "icao": "AYTD",
+    "lat": -7.3205,
+    "lon": 144.6384
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Tifalmin",
+    "name": "Tifalmin Airport",
+    "icao": "TFB",
+    "lat": -5.1173,
+    "lon": 141.419
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Tinboli",
+    "name": "Tinboli Airport",
+    "icao": "TCK",
+    "lat": -4.0949,
+    "lon": 143.3838
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "New Ireland",
+    "city": "Tingwon Island",
+    "name": "Tingwon Airport",
+    "icao": "TIG",
+    "lat": -2.6053,
+    "lon": 149.7107
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Tobou",
+    "name": "Tobou Airstrip",
+    "icao": "AYVB",
+    "lat": -6.4026,
+    "lon": 147.4223
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Bougainville (North Solomons)",
+    "city": "Tonu",
+    "name": "Tonu Airport",
+    "icao": "AYVO",
+    "lat": -6.6552,
+    "lon": 155.4326
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Jiwaka",
+    "city": "Tsendiap",
+    "name": "Tsendiap Airstrip",
+    "icao": "AYDP",
+    "lat": -5.3599,
+    "lon": 144.4462
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Tsewi",
+    "name": "Tsewi Airport",
+    "icao": "AYTS",
+    "lat": -7.0695,
+    "lon": 146.1272
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Tsumba Mission",
+    "name": "Tsumba Airstrip",
+    "icao": "AYQU",
+    "lat": -4.6581,
+    "lon": 144.6082
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Umba",
+    "name": "Umba Airport",
+    "icao": "AYUC",
+    "lat": -7.0214,
+    "lon": 145.966
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Upiara",
+    "name": "Upiara Airport",
+    "icao": "AYUR",
+    "lat": -8.5411,
+    "lon": 142.6503
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Usarumpia",
+    "name": "Usarumpia Airstrip",
+    "icao": "AYUX",
+    "lat": -6.9858,
+    "lon": 145.8102
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Usino",
+    "name": "Usino Airport",
+    "icao": "USO",
+    "lat": -5.5276,
+    "lon": 145.371
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Utai",
+    "name": "Utai Airstrip",
+    "icao": "ATUA",
+    "lat": -3.386,
+    "lon": 141.5868
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Vivigani",
+    "name": "Vivigani Airfield",
+    "icao": "VIV",
+    "lat": -9.30333333333,
+    "lon": 150.318888889
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Wa'ahun",
+    "name": "Brugam Airstrip",
+    "icao": "AYUG",
+    "lat": -3.6381,
+    "lon": 142.8379
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Enga",
+    "city": "Wabag",
+    "name": "Wabag Airport",
+    "icao": "WAB",
+    "lat": -5.4915,
+    "lon": 143.72
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Wantoat",
+    "name": "Wantoat Airport",
+    "icao": "WTT",
+    "lat": -6.1325,
+    "lon": 146.467777778
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Milne Bay",
+    "city": "Wapolu",
+    "name": "Wapolu Airport",
+    "icao": "WBC",
+    "lat": -9.3376,
+    "lon": 150.5093
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Wasua",
+    "name": "Wasua Airport",
+    "icao": "WSA",
+    "lat": -8.2836,
+    "lon": 142.8697
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Southern Highlands",
+    "city": "Woposali",
+    "name": "Woposali Airstrip",
+    "icao": "AYVP",
+    "lat": -6.6577,
+    "lon": 144.2974
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Gulf",
+    "city": "Wowobo",
+    "name": "Wowobo Airstrip",
+    "icao": "AYBX",
+    "lat": -7.3405,
+    "lon": 144.5477
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Eastern Highlands",
+    "city": "Wuyabo",
+    "name": "Wuyabo Airstrip",
+    "icao": "AYBY",
+    "lat": -6.8378,
+    "lon": 145.8732
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Yasuru",
+    "name": "Yasuru Airport",
+    "icao": "AYYR",
+    "lat": -6.6015,
+    "lon": 146.1813
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "East Sepik",
+    "city": "Yawa",
+    "name": "Yawa Airstrip",
+    "icao": "AYYV",
+    "lat": -4.1003,
+    "lon": 142.1351
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Western (Fly River)",
+    "city": "Yehebi",
+    "name": "Yehebi Airstrip",
+    "icao": "PG-0072",
+    "lat": -6.3928,
+    "lon": 142.2661
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Yemin",
+    "name": "Yemin Airstrip",
+    "icao": "AYYG",
+    "lat": -3.967,
+    "lon": 142.2912
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Morobe",
+    "city": "Yeva",
+    "name": "Yeva Airport",
+    "icao": "AYXE",
+    "lat": -7.548,
+    "lon": 146.188
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Yili",
+    "name": "Yili Airstrip",
+    "icao": "AYYI",
+    "lat": -3.5322,
+    "lon": 142.1645
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Madang",
+    "city": "Yimnalem",
+    "name": "Yimnalem Airstrip",
+    "icao": "AYYN",
+    "lat": -5.1441,
+    "lon": 144.5956
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Sandaun (West Sepik)",
+    "city": "Yinugen",
+    "name": "Yinugen Airstrip",
+    "icao": "PG-0086",
+    "lat": -3.457,
+    "lon": 142.54
+  },
+  {
+    "country": "Papua New Guinea",
+    "state": "Central",
+    "city": "Yule Island",
+    "name": "Kairuku Airport",
+    "icao": "RKU",
+    "lat": -8.817000054,
+    "lon": 146.5243833
+  }
+]

@@ -1,0 +1,515 @@
+[
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "KoÅ¡ice",
+    "name": "KoÅ¡ice Airport",
+    "icao": "LZKZ",
+    "lat": 48.663101196289,
+    "lon": 21.2411003112792
+  },
+  {
+    "country": "Slovakia",
+    "state": "BanskÃ¡ Bystrica",
+    "city": "SliaÄ",
+    "name": "SliaÄ Airport",
+    "icao": "LZSL",
+    "lat": 48.6377983093261,
+    "lon": 19.1340999603271
+  },
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "Poprad",
+    "name": "Poprad-Tatry Airport",
+    "icao": "LZTT",
+    "lat": 49.073600769,
+    "lon": 20.2411003113
+  },
+  {
+    "country": "Slovakia",
+    "state": "TrenÄÃ­n",
+    "city": "TrenÄÃ­n",
+    "name": "TrenÄÃ­n Airport",
+    "icao": "LZTN",
+    "lat": 48.8650016785,
+    "lon": 17.9923000336
+  },
+  {
+    "country": "Slovakia",
+    "state": "Trnava",
+    "city": "PieÅ¡Å¥any",
+    "name": "PieÅ¡Å¥any Airport",
+    "icao": "LZPP",
+    "lat": 48.6251983642578,
+    "lon": 17.8283996582031
+  },
+  {
+    "country": "Slovakia",
+    "state": "Å½ilina",
+    "city": "Å½ilina",
+    "name": "Å½ilina Airport",
+    "icao": "LZZI",
+    "lat": 49.2314987182999,
+    "lon": 18.6135005951
+  },
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "SpiÅ¡skÃ¡ NovÃ¡ Ves",
+    "name": "SpiÅ¡skÃ¡ NovÃ¡ Ves",
+    "icao": "LZSV",
+    "lat": 48.940833,
+    "lon": 20.533889
+  },
+  {
+    "country": "Slovakia",
+    "state": "BanskÃ¡ Bystrica",
+    "city": "BanskÃ¡ Bystrica",
+    "name": "Ocova airfield",
+    "icao": "LZOC",
+    "lat": 48.595333333333,
+    "lon": 19.265805555556
+  },
+  {
+    "country": "Slovakia",
+    "state": "Bratislava",
+    "city": "Malacky",
+    "name": "KuchyÅˆa Air Base",
+    "icao": "LZMC",
+    "lat": 48.402000427246,
+    "lon": 17.1184005737304
+  },
+  {
+    "country": "Slovakia",
+    "state": "TrenÄÃ­n",
+    "city": "Dubnica nad VÃ¡hom",
+    "name": "Dubnica",
+    "icao": "LZDB",
+    "lat": 48.996899,
+    "lon": 18.1922
+  },
+  {
+    "country": "Slovakia",
+    "state": "PreÅ¡ov",
+    "city": "SvidnÃ­k",
+    "name": "SvidnÃ­k Airport",
+    "icao": "LZSK",
+    "lat": 49.3339004516601,
+    "lon": 21.5702991485595
+  },
+  {
+    "country": "Slovakia",
+    "state": "Å½ilina",
+    "city": "Å½ilina",
+    "name": "RuÅ¾omberok",
+    "icao": "LZRU",
+    "lat": 49.085833,
+    "lon": 19.370278
+  },
+  {
+    "country": "Slovakia",
+    "state": "Trnava",
+    "city": "HoliÄ",
+    "name": "HoliÄ Airport",
+    "icao": "LZHL",
+    "lat": 48.8103,
+    "lon": 17.1338
+  },
+  {
+    "country": "Slovakia",
+    "state": "BanskÃ¡ Bystrica",
+    "city": "ZVOLEN",
+    "name": "Dobra Niva airfield",
+    "icao": "SK-0001",
+    "lat": 48.488716,
+    "lon": 19.101749
+  },
+  {
+    "country": "Slovakia",
+    "state": "Bratislava",
+    "city": "Bratislava",
+    "name": "Vajnory Slovaki Airport",
+    "icao": "LZVB",
+    "lat": 48.2043991089,
+    "lon": 17.1916999817
+  },
+  {
+    "country": "Slovakia",
+    "state": "Nitra",
+    "city": "Nitra",
+    "name": "Å urany",
+    "icao": "LZSY",
+    "lat": 48.075971,
+    "lon": 18.114002
+  },
+  {
+    "country": "Slovakia",
+    "state": "Trnava",
+    "city": "Trnava",
+    "name": "DunajskÃ¡ Streda",
+    "icao": "SK-0003",
+    "lat": 48.018056,
+    "lon": 17.613056
+  },
+  {
+    "country": "Slovakia",
+    "state": "Nitra",
+    "city": "Nitra",
+    "name": "KamennÃ½ Most",
+    "icao": "SK-0005",
+    "lat": 47.863889,
+    "lon": 18.65
+  },
+  {
+    "country": "Slovakia",
+    "state": "Bratislava",
+    "city": "Bratislava",
+    "name": "MalÃ½ Madaras",
+    "icao": "SK-0007",
+    "lat": 48.142222,
+    "lon": 17.377222
+  },
+  {
+    "country": "Slovakia",
+    "state": "Nitra",
+    "city": "Nitra",
+    "name": "TekovskÃ½ HrÃ¡dok",
+    "icao": "SK-0009",
+    "lat": 48.171389,
+    "lon": 18.541667
+  },
+  {
+    "country": "Slovakia",
+    "state": "PreÅ¡ov",
+    "city": "PreÅ¡ov",
+    "name": "Zborov",
+    "icao": "SK-0013",
+    "lat": 49.3741064,
+    "lon": 21.2925752
+  },
+  {
+    "country": "Slovakia",
+    "state": "Å½ilina",
+    "city": "Å½ilina",
+    "name": "ViÅ¡ÅˆovÃ© Airstrip",
+    "icao": "SK-0016",
+    "lat": 49.171375,
+    "lon": 18.778598
+  },
+  {
+    "country": "Slovakia",
+    "state": "Nitra",
+    "city": "Nitra",
+    "name": "BojnÃ¡ Airstrip",
+    "icao": "SK-0017",
+    "lat": 48.5419025,
+    "lon": 18.0526032
+  },
+  {
+    "country": "Slovakia",
+    "state": "Nitra",
+    "city": "Nitra",
+    "name": "Ludanice Airstrip",
+    "icao": "SK-0019",
+    "lat": 48.5100021,
+    "lon": 18.1323556
+  },
+  {
+    "country": "Slovakia",
+    "state": "Letisko SklabinÃ¡",
+    "city": "Letisko SklabinÃ¡",
+    "name": "Letisko SklabinÃ¡",
+    "icao": "SK-0029",
+    "lat": 48.151621,
+    "lon": 19.363439
+  },
+  {
+    "country": "Slovakia",
+    "state": "PreÅ¡ov",
+    "city": "PreÅ¡ov",
+    "name": "ÄŽaÄov Airstrip",
+    "icao": "SK-0038",
+    "lat": 49.147171,
+    "lon": 20.945805
+  },
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "KoÅ¡ice",
+    "name": "Kecerovce Airstrip",
+    "icao": "SK-0041",
+    "lat": 48.833554,
+    "lon": 21.4042387
+  },
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "KoÅ¡ice",
+    "name": "SeleÅ¡ka Airstrip",
+    "icao": "SK-0045",
+    "lat": 48.6214327,
+    "lon": 21.0828401
+  },
+  {
+    "country": "Slovakia",
+    "state": "PreÅ¡ov",
+    "city": "PreÅ¡ov",
+    "name": "HertnÃ­k Airstrip",
+    "icao": "SK-0047",
+    "lat": 49.2111575,
+    "lon": 21.2644107
+  },
+  {
+    "country": "Slovakia",
+    "state": "Novosad Airstrip",
+    "city": "Novosad Airstrip",
+    "name": "Novosad Airstrip",
+    "icao": "SK-0052",
+    "lat": 48.5318014,
+    "lon": 21.7292934
+  },
+  {
+    "country": "Slovakia",
+    "state": "Haniska Airstrip",
+    "city": "Haniska Airstrip",
+    "name": "Haniska Airstrip",
+    "icao": "SK-0056",
+    "lat": 48.6098632,
+    "lon": 21.2486966
+  },
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "KoÅ¡ice",
+    "name": "KalÅ¡a Airstrip",
+    "icao": "SK-0059",
+    "lat": 48.624699,
+    "lon": 21.5060067
+  },
+  {
+    "country": "Slovakia",
+    "state": "PreÅ¡ov",
+    "city": "PreÅ¡ov",
+    "name": "Kamienka/Hniezdne Airstrip",
+    "icao": "SK-0066",
+    "lat": 49.319881,
+    "lon": 20.635033
+  },
+  {
+    "country": "Slovakia",
+    "state": "Å½ilina",
+    "city": "Å½ilina",
+    "name": "MokraÄ Airstrip",
+    "icao": "SK-0070",
+    "lat": 49.0964161,
+    "lon": 19.7334988
+  },
+  {
+    "country": "Slovakia",
+    "state": "BanskÃ¡ Bystrica",
+    "city": "BanskÃ¡ Bystrica",
+    "name": "NevoÄ¾nÃ© Airstrip",
+    "icao": "SK-0076",
+    "lat": 48.6680872,
+    "lon": 18.9349476
+  },
+  {
+    "country": "Slovakia",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "Hatalov Airfield",
+    "icao": "SK-0078",
+    "lat": 48.6515653,
+    "lon": 21.8735885
+  },
+  {
+    "country": "Slovakia",
+    "state": "Nitra",
+    "city": "ChotÃ­n",
+    "name": "ChotÃ­n Airstrip",
+    "icao": "SK-0043",
+    "lat": 47.81415,
+    "lon": 18.194275
+  },
+  {
+    "country": "Slovakia",
+    "state": "(unassigned)",
+    "city": "DolnÃ¡ Å tubÅˆa",
+    "name": "DolnÃ¡ Å tubÅˆa Airstrip",
+    "icao": "SK-0065",
+    "lat": 48.8348083,
+    "lon": 18.843625
+  },
+  {
+    "country": "Slovakia",
+    "state": "TrenÄÃ­n",
+    "city": "DomaniÅ¾a",
+    "name": "DomaniÅ¾a Airfield",
+    "icao": "SK-0046",
+    "lat": 49.0517234,
+    "lon": 18.5533962
+  },
+  {
+    "country": "Slovakia",
+    "state": "Trnava",
+    "city": "DubovÃ¡",
+    "name": "DubovÃ¡",
+    "icao": "LZDV",
+    "lat": 48.3470194444,
+    "lon": 17.3565833333
+  },
+  {
+    "country": "Slovakia",
+    "state": "BanskÃ¡ Bystrica",
+    "city": "HucÃ­n",
+    "name": "HucÃ­n Airstrip",
+    "icao": "SK-0053",
+    "lat": 48.574452,
+    "lon": 20.2916253
+  },
+  {
+    "country": "Slovakia",
+    "state": "BanskÃ¡ Bystrica",
+    "city": "Janova Lehota",
+    "name": "Janova Lehota Airstrip",
+    "icao": "SK-0035",
+    "lat": 48.6375922,
+    "lon": 18.7971249
+  },
+  {
+    "country": "Slovakia",
+    "state": "PreÅ¡ov",
+    "city": "Kamenica nad Cirochou",
+    "name": "Kamenica nad Cirochou Airport",
+    "icao": "LZKC",
+    "lat": 48.937,
+    "lon": 21.9952
+  },
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "KoÅ¡ice",
+    "name": "Bidovce",
+    "icao": "LZBD",
+    "lat": 48.7428027778,
+    "lon": 21.448325
+  },
+  {
+    "country": "Slovakia",
+    "state": "Å½ilina",
+    "city": "KoÅ¡Å¥any nad Turcom",
+    "name": "KoÅ¡Å¥any nad Turcom Airstrip",
+    "icao": "SK-0002",
+    "lat": 49.0167622,
+    "lon": 18.8951041
+  },
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "KrÃ¡Ä¾ovskÃ½ Chlmec",
+    "name": "KrÃ¡Ä¾ovskÃ½ Chlmec Airstrip",
+    "icao": "SK-0061",
+    "lat": 48.413942,
+    "lon": 22.002993
+  },
+  {
+    "country": "Slovakia",
+    "state": "PreÅ¡ov",
+    "city": "Kurov",
+    "name": "Kurov Airstrip",
+    "icao": "SK-0049",
+    "lat": 49.338416,
+    "lon": 21.148804
+  },
+  {
+    "country": "Slovakia",
+    "state": "PreÅ¡ov",
+    "city": "Mirkovce",
+    "name": "Letisko Mirkovce",
+    "icao": "SK-0014",
+    "lat": 48.8914554,
+    "lon": 21.3172417
+  },
+  {
+    "country": "Slovakia",
+    "state": "Nitra",
+    "city": "PohronskÃ½ Ruskov",
+    "name": "Letisko PohronskÃ½ Ruskov",
+    "icao": "SK-0032",
+    "lat": 47.996281,
+    "lon": 18.6731541
+  },
+  {
+    "country": "Slovakia",
+    "state": "(unassigned)",
+    "city": "PrÅ¡a",
+    "name": "Letisko PrÅ¡a",
+    "icao": "SK-0028",
+    "lat": 48.2958642,
+    "lon": 19.7843678
+  },
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "Rozhanovce",
+    "name": "Rozhanovce Airstrip",
+    "icao": "SK-0074",
+    "lat": 48.7515373,
+    "lon": 21.3283962
+  },
+  {
+    "country": "Slovakia",
+    "state": "(unassigned)",
+    "city": "Å irkovce",
+    "name": "Å irkovce Airstrip",
+    "icao": "SK-0050",
+    "lat": 48.2751377,
+    "lon": 20.0921278
+  },
+  {
+    "country": "Slovakia",
+    "state": "KoÅ¡ice",
+    "city": "Streda nad Bodrogom",
+    "name": "Streda nad Bodrogom Airstrip",
+    "icao": "SK-0069",
+    "lat": 48.361893,
+    "lon": 21.746454
+  },
+  {
+    "country": "Slovakia",
+    "state": "BanskÃ¡ Bystrica",
+    "city": "TomÃ¡Å¡ovce",
+    "name": "TomÃ¡Å¡ovce Airstrip",
+    "icao": "SK-0075",
+    "lat": 48.359922,
+    "lon": 19.64294
+  },
+  {
+    "country": "Slovakia",
+    "state": "(unassigned)",
+    "city": "TrebiÅ¡ov",
+    "name": "TrebiÅ¡ov Airstrip",
+    "icao": "SK-0063",
+    "lat": 48.6368914,
+    "lon": 21.7594322
+  },
+  {
+    "country": "Slovakia",
+    "state": "TrenÄÃ­n",
+    "city": "TuÅ¾ina",
+    "name": "TuÅ¾ina Airstrip",
+    "icao": "SK-0044",
+    "lat": 48.893912,
+    "lon": 18.6233162
+  },
+  {
+    "country": "Slovakia",
+    "state": "(unassigned)",
+    "city": "VeÄ¾kÃ¡ Lomnica",
+    "name": "VeÄ¾kÃ¡ Lomnica Airstrip",
+    "icao": "SK-0068",
+    "lat": 49.1065004,
+    "lon": 20.3440287
+  }
+]

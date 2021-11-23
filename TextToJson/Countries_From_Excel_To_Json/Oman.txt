@@ -1,0 +1,137 @@
+[
+  {
+    "country": "Oman",
+    "state": "Dhofar Governorate",
+    "city": "Salalah",
+    "name": "Salalah Airport",
+    "icao": "OOSA",
+    "lat": 17.0387001037597,
+    "lon": 54.0913009643554
+  },
+  {
+    "country": "Oman",
+    "state": "Dhofar Governorate",
+    "city": "Thumrait",
+    "name": "Thumrait Air Base",
+    "icao": "OOTH",
+    "lat": 17.6660003662109,
+    "lon": 54.024600982666
+  },
+  {
+    "country": "Oman",
+    "state": "Ash Sharqlyah Governorate",
+    "city": "Masirah",
+    "name": "Masirah Air Base",
+    "icao": "OOMA",
+    "lat": 20.6753997802734,
+    "lon": 58.8904991149902
+  },
+  {
+    "country": "Oman",
+    "state": "Az Zahirah Governorate",
+    "city": "Fahud",
+    "name": "Fahud Airport",
+    "icao": "OOFD",
+    "lat": 22.354759318,
+    "lon": 56.4841461182
+  },
+  {
+    "country": "Oman",
+    "state": "Dhofar Governorate",
+    "city": "Manston",
+    "name": "Manston Air Base",
+    "icao": "OO42",
+    "lat": 16.990400314331,
+    "lon": 53.3587989807128
+  },
+  {
+    "country": "Oman",
+    "state": "Dhofar Governorate",
+    "city": "Marmul",
+    "name": "Marmul Airport",
+    "icao": "OOMX",
+    "lat": 18.1359996795654,
+    "lon": 55.1820983886718
+  },
+  {
+    "country": "Oman",
+    "state": "Az Zahirah Governorate",
+    "city": "Az Zahirah Governorate",
+    "name": "Lekhwair Airport",
+    "icao": "OOLK",
+    "lat": 22.8049846844,
+    "lon": 55.3733682632
+  },
+  {
+    "country": "Oman",
+    "state": "Ad Dakhillyah Governorate",
+    "city": "Adam",
+    "name": "Adam Airport",
+    "icao": "OM-0002",
+    "lat": 22.4919444444,
+    "lon": 57.3838888889
+  },
+  {
+    "country": "Oman",
+    "state": "Al Batinah Governorate",
+    "city": "Al Masna'ah",
+    "name": "Mussanah Airport",
+    "icao": "OM-0004",
+    "lat": 23.640556,
+    "lon": 57.4875
+  },
+  {
+    "country": "Oman",
+    "state": "Al Wusta Governorate",
+    "city": "Bahja",
+    "name": "Bahja Airport",
+    "icao": "BJQ",
+    "lat": 19.8730555556,
+    "lon": 56.0677777777999
+  },
+  {
+    "country": "Oman",
+    "state": "Musandam Governorate",
+    "city": "Dibba Al-Baya",
+    "name": "Dibba Airport",
+    "icao": "OM-0001",
+    "lat": 25.6142292023,
+    "lon": 56.2444000244
+  },
+  {
+    "country": "Oman",
+    "state": "Al Wusta Governorate",
+    "city": "Duqm",
+    "name": "Ja'Aluni Airport",
+    "icao": "OOJA",
+    "lat": 19.4749,
+    "lon": 57.3083
+  },
+  {
+    "country": "Oman",
+    "state": "Ash Sharqlyah Governorate",
+    "city": "Ibra",
+    "name": "Ibra Airport",
+    "icao": "OOIA",
+    "lat": 22.7327777778,
+    "lon": 58.5136111111
+  },
+  {
+    "country": "Oman",
+    "state": "Al Wusta Governorate",
+    "city": "Mukhaizna Oil Field",
+    "name": "Mukhaizna Airport",
+    "icao": "UKH",
+    "lat": 19.3863888889,
+    "lon": 56.4013888889
+  },
+  {
+    "country": "Oman",
+    "state": "Az Zahirah Governorate",
+    "city": "Yibal Oilfield",
+    "name": "Yibal Airport",
+    "icao": "OOYB",
+    "lat": 22.2014999389648,
+    "lon": 56.0344009399414
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Qatar",
+    "state": "Ad Dawhah Municipality",
+    "city": "Doha",
+    "name": "Hamad International Airport",
+    "icao": "OTHH",
+    "lat": 25.273056,
+    "lon": 51.608056
+  },
+  {
+    "country": "Qatar",
+    "state": "Al Khawr Municipality",
+    "city": "Al Khawr",
+    "name": "Al Khawr Airport",
+    "icao": "OTBK",
+    "lat": 25.629601,
+    "lon": 51.506699
+  }
+]

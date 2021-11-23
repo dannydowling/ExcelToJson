@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Kuwait",
+    "state": "Al Jahra Governorate",
+    "city": "Camp Buehring",
+    "name": "Udairi Army Air Field",
+    "icao": "OKDI",
+    "lat": 29.6975994110107,
+    "lon": 47.4360008239746
+  },
+  {
+    "country": "Kuwait",
+    "state": "Al Ahmadi Governorate",
+    "city": "Ahmed Al Jaber AB",
+    "name": "Ahmed Al Jaber Air Base",
+    "icao": "OKAJ",
+    "lat": 28.9347991943,
+    "lon": 47.7919006347999
+  },
+  {
+    "country": "Kuwait",
+    "state": "Al Ahmadi Governorate",
+    "city": "Camp Arifjan",
+    "name": "Patton Army Heliport",
+    "icao": "OK2A",
+    "lat": 28.8636111111,
+    "lon": 48.1511111111
+  },
+  {
+    "country": "Kuwait",
+    "state": "Al Ahmadi Governorate",
+    "city": "Ras al-Qulayah Naval Base",
+    "name": "Ras al-Qulayah Naval Base Heliport",
+    "icao": "OKNB",
+    "lat": 28.8645000457763,
+    "lon": 48.2728004455566
+  }
+]

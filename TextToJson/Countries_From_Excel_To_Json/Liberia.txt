@@ -1,0 +1,65 @@
+[
+  {
+    "country": "Liberia",
+    "state": "Grand Basaa County",
+    "city": "Buchanan",
+    "name": "Buchanan Airport",
+    "icao": "GLBU",
+    "lat": 5.904167,
+    "lon": -10.058333
+  },
+  {
+    "country": "Liberia",
+    "state": "Sinoe County",
+    "city": "Greenville",
+    "name": "Greenville Sinoe Airport",
+    "icao": "GLGE",
+    "lat": 5.03430986404418,
+    "lon": -9.06680011749267
+  },
+  {
+    "country": "Liberia",
+    "state": "Nimba County",
+    "city": "Nimba",
+    "name": "Nimba Airport",
+    "icao": "GLNA",
+    "lat": 7.5,
+    "lon": -8.60000038146972
+  },
+  {
+    "country": "Liberia",
+    "state": "Grand Cape Mount County",
+    "city": "Robertsport/Cape Mount",
+    "name": "Robertsport/Cape Mount Airport",
+    "icao": "GLCM",
+    "lat": 6.80000019073486,
+    "lon": -11.3669996261596
+  },
+  {
+    "country": "Liberia",
+    "state": "Grand Gedeh County",
+    "city": "Tchien",
+    "name": "Tchien Airport",
+    "icao": "GLTN",
+    "lat": 6.04565048217773,
+    "lon": -8.13872337341308
+  },
+  {
+    "country": "Liberia",
+    "state": "Lofa County",
+    "city": "Beliyela",
+    "name": "Bella Yella Airport",
+    "icao": "BYL",
+    "lat": 7.36916666667,
+    "lon": -9.99372222222
+  },
+  {
+    "country": "Liberia",
+    "state": "Grand Kru County",
+    "city": "Grand Cess",
+    "name": "Grand Cess Airport",
+    "icao": "GRC",
+    "lat": 4.571,
+    "lon": -8.2076
+  }
+]

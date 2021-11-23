@@ -1,0 +1,74 @@
+[
+  {
+    "country": "Maldives",
+    "state": "Haa Dhaalu Atoll",
+    "city": "Haa Dhaalu Atoll",
+    "name": "Hanimaadhoo Airport",
+    "icao": "VRMH",
+    "lat": 6.74422979354858,
+    "lon": 73.1705017089843
+  },
+  {
+    "country": "Maldives",
+    "state": "MalÃ© Capital",
+    "city": "MalÃ© Capital",
+    "name": "Biyadoo Island",
+    "icao": "MV-0001",
+    "lat": 3.92496803919,
+    "lon": 73.4516716003
+  },
+  {
+    "country": "Maldives",
+    "state": "Baa",
+    "city": "Baa Atoll",
+    "name": "Dharavandhoo Airport",
+    "icao": "VRMD",
+    "lat": 5.1561,
+    "lon": 73.1302
+  },
+  {
+    "country": "Maldives",
+    "state": "Raa",
+    "city": "Maamigili",
+    "name": "Villa Airport",
+    "icao": "VRMV",
+    "lat": 3.47055555556,
+    "lon": 72.8358333333
+  },
+  {
+    "country": "Maldives",
+    "state": "Laamu Atoll",
+    "city": "Kadhdhoo",
+    "name": "Kadhdhoo Airport",
+    "icao": "VRMK",
+    "lat": 1.85916996002197,
+    "lon": 73.5218963623046
+  },
+  {
+    "country": "Maldives",
+    "state": "Dhaalu",
+    "city": "Kudahuvadhoo",
+    "name": "Dhaalu Atoll Airport",
+    "icao": "VRMU",
+    "lat": 2.666075,
+    "lon": 72.887118
+  },
+  {
+    "country": "Maldives",
+    "state": "Haa Dhaalu Atoll",
+    "city": "Kulhudhuffushi",
+    "name": "Kulhudhuffushi Airport",
+    "icao": "VRBK",
+    "lat": 6.630762,
+    "lon": 73.067815
+  },
+  {
+    "country": "Maldives",
+    "state": "Thaa",
+    "city": "Thimarafushi",
+    "name": "Thimarafushi Airport",
+    "icao": "VRNT",
+    "lat": 2.211,
+    "lon": 73.1533
+  }
+]

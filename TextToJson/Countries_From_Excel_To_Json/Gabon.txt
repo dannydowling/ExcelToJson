@@ -1,0 +1,182 @@
+[
+  {
+    "country": "Gabon",
+    "state": "Estuaire Province",
+    "city": "Libreville",
+    "name": "Libreville Leon M'ba International Airport",
+    "icao": "FOOL",
+    "lat": 0.458600014448,
+    "lon": 9.41228008269999
+  },
+  {
+    "country": "Gabon",
+    "state": "OgoouÃ©-Maritime Province",
+    "city": "Port Gentil",
+    "name": "Port Gentil Airport",
+    "icao": "FOOG",
+    "lat": -0.711739003658294,
+    "lon": 8.75438022613525
+  },
+  {
+    "country": "Gabon",
+    "state": "Haut-OgoouÃ© Province",
+    "city": "Franceville",
+    "name": "M'Vengue El Hadj Omar Bongo Ondimba International Airport",
+    "icao": "FOON",
+    "lat": -1.65615999698638,
+    "lon": 13.4379997253417
+  },
+  {
+    "country": "Gabon",
+    "state": "OgoouÃ©-Ivindo Province",
+    "city": "Makokou",
+    "name": "Makokou Airport",
+    "icao": "FOOK",
+    "lat": 0.579210996627807,
+    "lon": 12.8908996582031
+  },
+  {
+    "country": "Gabon",
+    "state": "Nyanga Province",
+    "city": "Tchibanga",
+    "name": "Tchibanga Airport",
+    "icao": "FOOT",
+    "lat": -2.84999990463256,
+    "lon": 11.0170001983642
+  },
+  {
+    "country": "Gabon",
+    "state": "Woleu-Ntem Province",
+    "city": "Bitam",
+    "name": "Bitam Airport",
+    "icao": "FOOB",
+    "lat": 2.07563996315002,
+    "lon": 11.493200302124
+  },
+  {
+    "country": "Gabon",
+    "state": "Moyen-OgoouÃ© Province",
+    "city": "Lambarene",
+    "name": "Lambarene Airport",
+    "icao": "FOGR",
+    "lat": -0.704388976097106,
+    "lon": 10.2456998825073
+  },
+  {
+    "country": "Gabon",
+    "state": "Haut-OgoouÃ© Province",
+    "city": "Okondja",
+    "name": "Okondja Airport",
+    "icao": "FOGQ",
+    "lat": -0.665214002132415,
+    "lon": 13.6731004714965
+  },
+  {
+    "country": "Gabon",
+    "state": "NgouniÃ© Province",
+    "city": "Fougamou",
+    "name": "Fougamou Airport",
+    "icao": "FOGF",
+    "lat": -1.2829999923706,
+    "lon": 10.6169996261596
+  },
+  {
+    "country": "Gabon",
+    "state": "Nyanga Province",
+    "city": "Mayumba",
+    "name": "Mayumba Airport",
+    "icao": "FOOY",
+    "lat": -3.45841979980468,
+    "lon": 10.6740760803222
+  },
+  {
+    "country": "Gabon",
+    "state": "Estuaire Province",
+    "city": "Cocobeach",
+    "name": "Cocobeach Airport",
+    "icao": "FOOC",
+    "lat": 1.0,
+    "lon": 9.58300018310546
+  },
+  {
+    "country": "Gabon",
+    "state": "OgoouÃ©-Ivindo Province",
+    "city": "Mekambo",
+    "name": "Mekambo Airport",
+    "icao": "FOOE",
+    "lat": 1.01699995994567,
+    "lon": 13.9329996109008
+  },
+  {
+    "country": "Gabon",
+    "state": "Woleu-Ntem Province",
+    "city": "Mitzic",
+    "name": "Mitzic Airport",
+    "icao": "FOOM",
+    "lat": 0.782999992370605,
+    "lon": 11.5500001907348
+  },
+  {
+    "country": "Gabon",
+    "state": "Haut-OgoouÃ© Province",
+    "city": "Moanda",
+    "name": "Moanda Airport",
+    "icao": "FOOD",
+    "lat": -1.53299999237,
+    "lon": 13.2670001984
+  },
+  {
+    "country": "Gabon",
+    "state": "Moyen-OgoouÃ© Province",
+    "city": "N'DjolÃ©",
+    "name": "Ville Airport",
+    "icao": "FOGJ",
+    "lat": -0.182999998331069,
+    "lon": 10.75
+  },
+  {
+    "country": "Gabon",
+    "state": "OgoouÃ©-Maritime Province",
+    "city": "Sette Cama",
+    "name": "Sette Cama Airport",
+    "icao": "FOOS",
+    "lat": -2.5329999923706,
+    "lon": 9.76700019836425
+  },
+  {
+    "country": "Gabon",
+    "state": "OgoouÃ©-Maritime Province",
+    "city": "OgoouÃ©-Maritime Province",
+    "name": "Manega Airport",
+    "icao": "MGO",
+    "lat": -1.73333,
+    "lon": 10.2167
+  },
+  {
+    "country": "Gabon",
+    "state": "OgoouÃ©-Maritime Province",
+    "city": "Bongo",
+    "name": "Bongo Airport",
+    "icao": "BGP",
+    "lat": -2.1713,
+    "lon": 10.2088
+  },
+  {
+    "country": "Gabon",
+    "state": "OgoouÃ©-Maritime Province",
+    "city": "Iguela",
+    "name": "Tchongorove Airport",
+    "icao": "FOOI",
+    "lat": -1.9223,
+    "lon": 9.3092
+  },
+  {
+    "country": "Gabon",
+    "state": "OgoouÃ©-Lolo Province",
+    "city": "Koulamoutou",
+    "name": "Koulamoutou Airport",
+    "icao": "GA-0001",
+    "lat": -1.106,
+    "lon": 12.503
+  }
+]

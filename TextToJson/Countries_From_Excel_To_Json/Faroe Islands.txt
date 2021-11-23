@@ -1,0 +1,56 @@
+[
+  {
+    "country": "Faroe Islands",
+    "state": "(unassigned)",
+    "city": "Frooba",
+    "name": "Frooba Heliport",
+    "icao": "EKFA",
+    "lat": 61.543701171875,
+    "lon": -6.7744197845458896
+  },
+  {
+    "country": "Faroe Islands",
+    "state": "(unassigned)",
+    "city": "Klaksvik",
+    "name": "Klaksvik Heliport",
+    "icao": "EKKV",
+    "lat": 62.2178497314,
+    "lon": -6.57645463943
+  },
+  {
+    "country": "Faroe Islands",
+    "state": "(unassigned)",
+    "city": "Mykines",
+    "name": "Mykines Heliport",
+    "icao": "EKMS",
+    "lat": 62.1021003723,
+    "lon": -7.6459197998
+  },
+  {
+    "country": "Faroe Islands",
+    "state": "(unassigned)",
+    "city": "SkÃºvoy",
+    "name": "SkÃºvoy Heliport",
+    "icao": "EKSY",
+    "lat": 61.7695999145507,
+    "lon": -6.80341005325317
+  },
+  {
+    "country": "Faroe Islands",
+    "state": "(unassigned)",
+    "city": "StÃ³ra DÃ­mun",
+    "name": "StÃ³ra DÃ­mun Heliport",
+    "icao": "EKSR",
+    "lat": 61.6852989196777,
+    "lon": -6.75850009918212
+  },
+  {
+    "country": "Faroe Islands",
+    "state": "(unassigned)",
+    "city": "TÃ³rshavn/Bodanes",
+    "name": "TÃ³rshavn/Bodanes Heliport",
+    "icao": "EKTB",
+    "lat": 62.0217018127441,
+    "lon": -6.75742006301879
+  }
+]

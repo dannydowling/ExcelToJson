@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Guadeloupe",
+    "state": "Grand Bourg",
+    "city": "Grand Bourg",
+    "name": "Les Bases Airport",
+    "icao": "TFFM",
+    "lat": 15.8687000274658,
+    "lon": -61.2700004577636
+  },
+  {
+    "country": "Guadeloupe",
+    "state": "Basse Terre",
+    "city": "Basse Terre",
+    "name": "Baillif Airport",
+    "icao": "TFFB",
+    "lat": 16.0132999420166,
+    "lon": -61.7421989440918
+  },
+  {
+    "country": "Guadeloupe",
+    "state": "St-FranÃ§ois",
+    "city": "St-FranÃ§ois",
+    "name": "St-FranÃ§ois Airport",
+    "icao": "TFFC",
+    "lat": 16.2577991485595,
+    "lon": -61.2625007629394
+  },
+  {
+    "country": "Guadeloupe",
+    "state": "(unassigned)",
+    "city": "Les Saintes",
+    "name": "Terre-de-Haut Airport",
+    "icao": "TFFS",
+    "lat": 15.86439991,
+    "lon": -61.5806007385
+  }
+]

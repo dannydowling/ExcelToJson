@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Guinea-Bissau",
+    "state": "Bissau Autonomous Sector",
+    "city": "Bissau",
+    "name": "Osvaldo Vieira International Airport",
+    "icao": "GGOV",
+    "lat": 11.8948001861572,
+    "lon": -15.6536998748779
+  },
+  {
+    "country": "Guinea-Bissau",
+    "state": "Tombali Region",
+    "city": "Cufar",
+    "name": "Cufar Airport",
+    "icao": "GGCF",
+    "lat": 11.2878999710083,
+    "lon": -15.1805000305175
+  },
+  {
+    "country": "Guinea-Bissau",
+    "state": "Gabu Region",
+    "city": "Gabu",
+    "name": "Gabu Airport",
+    "icao": "GGGB",
+    "lat": 12.292002,
+    "lon": -14.236044
+  },
+  {
+    "country": "Guinea-Bissau",
+    "state": "Gabu Region",
+    "city": "Piche",
+    "name": "Piche Airport",
+    "icao": "GW-0001",
+    "lat": 12.32008,
+    "lon": -13.958281
+  }
+]

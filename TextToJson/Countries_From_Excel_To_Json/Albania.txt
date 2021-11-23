@@ -1,0 +1,47 @@
+[
+  {
+    "country": "Albania",
+    "state": "Tirana County",
+    "city": "Tirana",
+    "name": "Tirana International Airport Mother Teresa",
+    "icao": "LATI",
+    "lat": 41.4146995544,
+    "lon": 19.7206001282
+  },
+  {
+    "country": "Albania",
+    "state": "LezhÃ« County",
+    "city": "GjadÃ«r",
+    "name": "GjadÃ«r Air Base",
+    "icao": "LAGJ",
+    "lat": 41.895199,
+    "lon": 19.5987
+  },
+  {
+    "country": "Albania",
+    "state": "KorÃ§Ã« County",
+    "city": "KorÃ§Ã«",
+    "name": "KorÃ§Ã« Northwest Airport",
+    "icao": "LAKO",
+    "lat": 40.6456985473632,
+    "lon": 20.7415008544921
+  },
+  {
+    "country": "Albania",
+    "state": "VlorÃ« County",
+    "city": "VlorÃ«",
+    "name": "VlorÃ« Air Base",
+    "icao": "LAVL",
+    "lat": 40.4761009216308,
+    "lon": 19.4741992950439
+  },
+  {
+    "country": "Albania",
+    "state": "Tirana County",
+    "city": "Tirana",
+    "name": "Lapraka Heliport",
+    "icao": "AL-0001",
+    "lat": 41.333302,
+    "lon": 19.7913
+  }
+]

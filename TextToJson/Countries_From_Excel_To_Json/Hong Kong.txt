@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "name": "Hong Kong International Airport Kai Tak",
+    "icao": "VHHX",
+    "lat": 22.3203040432,
+    "lon": 114.198074341
+  },
+  {
+    "country": "Hong Kong",
+    "state": "Hong Kong",
+    "city": "Hong Kong",
+    "name": "Peninsula Hotel Helipad",
+    "icao": "HK-0003",
+    "lat": 22.3001747131347,
+    "lon": 114.172325134277
+  },
+  {
+    "country": "Hong Kong",
+    "state": "(unassigned)",
+    "city": "Hong Kong",
+    "name": "Sha Tin Airfield",
+    "icao": "HK-0001",
+    "lat": 22.3802375793457,
+    "lon": 114.189834594726
+  },
+  {
+    "country": "Hong Kong",
+    "state": "(unassigned)",
+    "city": "Ping Chau Island",
+    "name": "Ping Chau Helipad",
+    "icao": "HK-0004",
+    "lat": 22.5433330535888,
+    "lon": 114.430557250976
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Mauritius",
+    "state": "Vacosa-Phoenix",
+    "city": "Port Mathurin",
+    "name": "Sir Charles Gaetan Duval Airport",
+    "icao": "FIMR",
+    "lat": -19.7577,
+    "lon": 63.361
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Kosovo",
+    "state": "Pristina District",
+    "city": "Batlava",
+    "name": "Batlava-Donja Penduha Air Base",
+    "icao": "LYPT",
+    "lat": 42.849898,
+    "lon": 21.221705
+  },
+  {
+    "country": "Kosovo",
+    "state": "Ferizaj District",
+    "city": "Camp Bondsteel",
+    "name": "Camp Bondsteel Army Heliport",
+    "icao": "LYBS",
+    "lat": 42.365711,
+    "lon": 21.24823
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Niari Department",
+    "city": "Dolisie",
+    "name": "Ngot Nzoungou Airport",
+    "icao": "FCPL",
+    "lat": -4.20635,
+    "lon": 12.6599
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Sangha Department",
+    "city": "Sangha Department",
+    "name": "Ouesso Airport",
+    "icao": "FCOU",
+    "lat": 1.61599004268999,
+    "lon": 16.0379009247
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Cuvette Department",
+    "city": "Owando",
+    "name": "Owando Airport",
+    "icao": "FCOO",
+    "lat": -0.531350016593933,
+    "lon": 15.9500999450683
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Likouala Department",
+    "city": "Impfondo",
+    "name": "Impfondo Airport",
+    "icao": "FCOI",
+    "lat": 1.61699998378753,
+    "lon": 18.0669994354248
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Niari Department",
+    "city": "Mossendjo",
+    "name": "Mossendjo Airport",
+    "icao": "FCMM",
+    "lat": -2.95000004768371,
+    "lon": 12.6999998092651
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Bouenza Department",
+    "city": "Nkayi",
+    "name": "Yokangassi Airport",
+    "icao": "FCBY",
+    "lat": -4.223077,
+    "lon": 13.286347
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Bouenza Department",
+    "city": "Aubeville",
+    "name": "Aubeville Airport",
+    "icao": "FCBU",
+    "lat": -4.26700019836425,
+    "lon": 13.5329999923706
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "LÃ©koumou Department",
+    "city": "Bangamba",
+    "name": "Bangamba Airport",
+    "icao": "FCPB",
+    "lat": -3.68300008773803,
+    "lon": 13.1999998092651
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Likouala Department",
+    "city": "Betou",
+    "name": "Betou Airport",
+    "icao": "FCOT",
+    "lat": 3.04999995231628,
+    "lon": 18.5
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Plateaux Department",
+    "city": "Gamboma",
+    "name": "Gamboma Airport",
+    "icao": "FCOG",
+    "lat": -1.829403,
+    "lon": 15.885237
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Cuvette Department",
+    "city": "Kelle",
+    "name": "Kelle Airport",
+    "icao": "FCOK",
+    "lat": -0.0829999968409538,
+    "lon": 14.5329999923706
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Pool Department",
+    "city": "Kindamba",
+    "name": "Kindamba Airport",
+    "icao": "FCBK",
+    "lat": -3.95000004768371,
+    "lon": 14.5170001983642
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Pool Department",
+    "city": "La Louila",
+    "name": "La Louila Airport",
+    "icao": "FCBA",
+    "lat": -4.08300018310546,
+    "lon": 14.2329998016357
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Plateaux Department",
+    "city": "Lague",
+    "name": "Lague Airport",
+    "icao": "FCBL",
+    "lat": -2.45000004768371,
+    "lon": 14.5329999923706
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "LÃ©koumou Department",
+    "city": "Leganda",
+    "name": "Leganda Airport",
+    "icao": "FCPE",
+    "lat": -3.43300008773803,
+    "lon": 12.9329996109008
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Niari Department",
+    "city": "Loubetsi",
+    "name": "Loubetsi Airport",
+    "icao": "FCPI",
+    "lat": -3.70000004768371,
+    "lon": 12.1330003738403
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Kouilou Department",
+    "city": "Loukanyi",
+    "name": "Loukanyi Airport",
+    "icao": "FCPY",
+    "lat": -4.0329999923706,
+    "lon": 11.5170001983642
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Bouenza Department",
+    "city": "Loutete",
+    "name": "Loutete Airport",
+    "icao": "FCBT",
+    "lat": -4.2829999923706,
+    "lon": 13.8669996261596
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Niari Department",
+    "city": "Marala",
+    "name": "Marala Airport",
+    "icao": "FCMR",
+    "lat": -2.90000009536743,
+    "lon": 12.6330003738403
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Kouilou Department",
+    "city": "N'komo",
+    "name": "N'komo Airport",
+    "icao": "FCPK",
+    "lat": -3.91700005531311,
+    "lon": 11.3830003738403
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Kouilou Department",
+    "city": "Noumbi",
+    "name": "Noumbi Airport",
+    "icao": "FCPN",
+    "lat": -4.15000009536743,
+    "lon": 11.3830003738403
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Niari Department",
+    "city": "Nyanga",
+    "name": "Nyanga Airport",
+    "icao": "FCMS",
+    "lat": -2.86700010299682,
+    "lon": 11.9499998092651
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Cuvette Department",
+    "city": "Okoyo",
+    "name": "Okoyo Airport",
+    "icao": "CG-OKG",
+    "lat": -1.4483300447464,
+    "lon": 15.073300361633
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Niari Department",
+    "city": "Pemo",
+    "name": "Pemo Airport",
+    "icao": "FCPO",
+    "lat": -2.86700010299682,
+    "lon": 12.5329999923706
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Niari Department",
+    "city": "Sidetra",
+    "name": "Sidetra Airport",
+    "icao": "FCMD",
+    "lat": -2.86700010299682,
+    "lon": 12.8669996261596
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Likouala Department",
+    "city": "Enyele",
+    "name": "Enyele Airport",
+    "icao": "CG-0004",
+    "lat": 2.829175,
+    "lon": 18.02458
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Plateaux Department",
+    "city": "Lekana",
+    "name": "Lekana Airport",
+    "icao": "LKC",
+    "lat": -2.313,
+    "lon": 14.606
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Likouala Department",
+    "city": "Matoko",
+    "name": "Matoko Airport",
+    "icao": "CG-0001",
+    "lat": -1.012216,
+    "lon": 17.104403
+  },
+  {
+    "country": "Congo (Brazzaville)",
+    "state": "Likouala Department",
+    "city": "Thanry",
+    "name": "Thanry Airport",
+    "icao": "CG-0005",
+    "lat": 2.651304,
+    "lon": 17.173194
+  }
+]

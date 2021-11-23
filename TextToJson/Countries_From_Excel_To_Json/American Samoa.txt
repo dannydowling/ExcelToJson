@@ -1,0 +1,20 @@
+[
+  {
+    "country": "American Samoa",
+    "state": "(unassigned)",
+    "city": "Ofu Village",
+    "name": "Ofu Village Airport",
+    "icao": "NSAS",
+    "lat": -14.1844,
+    "lon": -169.669998
+  },
+  {
+    "country": "American Samoa",
+    "state": "(unassigned)",
+    "city": "Fitiuta Village",
+    "name": "Fitiuta Airport",
+    "icao": "NSFQ",
+    "lat": -14.2172,
+    "lon": -169.425003
+  }
+]

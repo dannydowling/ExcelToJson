@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Samoa",
+    "state": "A'ana District",
+    "city": "Apia",
+    "name": "Faleolo International Airport",
+    "icao": "NSFA",
+    "lat": -13.829999923706,
+    "lon": -172.007995605468
+  },
+  {
+    "country": "Samoa",
+    "state": "Tuamasaga District",
+    "city": "Apia",
+    "name": "Fagali'i Airport",
+    "icao": "NSFI",
+    "lat": -13.8487,
+    "lon": -171.740005
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "country": "Haiti",
+    "state": "Sud-Est Department",
+    "city": "Jacmel",
+    "name": "Jacmel Airport",
+    "icao": "MTJA",
+    "lat": 18.2411003112792,
+    "lon": -72.5185012817382
+  },
+  {
+    "country": "Haiti",
+    "state": "Nord-Ouest Department",
+    "city": "Port-de-Paix",
+    "name": "Port-de-Paix Airport",
+    "icao": "MTPX",
+    "lat": 19.9335994720459,
+    "lon": -72.8486022949218
+  },
+  {
+    "country": "Haiti",
+    "state": "Sud Department",
+    "city": "Les Cayes",
+    "name": "Les Cayes Airport",
+    "icao": "MTCA",
+    "lat": 18.2710990905761,
+    "lon": -73.7882995605468
+  },
+  {
+    "country": "Haiti",
+    "state": "Grande'Anse Department",
+    "city": "Jeremie",
+    "name": "JÃ©rÃ©mie Airport",
+    "icao": "MTJE",
+    "lat": 18.6630992889404,
+    "lon": -74.1703033447265
+  },
+  {
+    "country": "Haiti",
+    "state": "Ouest Department",
+    "city": "Ouest Department",
+    "name": "Anse-a-Galets Airport",
+    "icao": "HT-0002",
+    "lat": 18.8412122708,
+    "lon": -72.8802323341
+  }
+]

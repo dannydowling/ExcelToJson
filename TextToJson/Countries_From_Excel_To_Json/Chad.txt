@@ -1,0 +1,191 @@
+[
+  {
+    "country": "Chad",
+    "state": "Ouaddai",
+    "city": "Goz-Beida",
+    "name": "Goz-Beida Airport",
+    "icao": "FTTG",
+    "lat": 12.1999998092651,
+    "lon": 21.466999053955
+  },
+  {
+    "country": "Chad",
+    "state": "Moyen-Chari",
+    "city": "Sarh",
+    "name": "Sarh Airport",
+    "icao": "FTTA",
+    "lat": 9.14444,
+    "lon": 18.374399
+  },
+  {
+    "country": "Chad",
+    "state": "Salamat",
+    "city": "Am Timan",
+    "name": "Am Timan Airport",
+    "icao": "FTTN",
+    "lat": 11.0340003967,
+    "lon": 20.2740001677999
+  },
+  {
+    "country": "Chad",
+    "state": "Batha",
+    "city": "Ati",
+    "name": "Ati Airport",
+    "icao": "FTTI",
+    "lat": 13.2389001846313,
+    "lon": 18.3132991790771
+  },
+  {
+    "country": "Chad",
+    "state": "Biltine",
+    "city": "Biltine",
+    "name": "Biltine Airport",
+    "icao": "FTTE",
+    "lat": 14.5170001983642,
+    "lon": 20.8999996185302
+  },
+  {
+    "country": "Chad",
+    "state": "Chari-Baguirmi",
+    "city": "Bokoro",
+    "name": "Bokoro Airport",
+    "icao": "FTTK",
+    "lat": 12.3830003738403,
+    "lon": 17.0669994354248
+  },
+  {
+    "country": "Chad",
+    "state": "Mayo-Kebbi",
+    "city": "Bongor",
+    "name": "Bongor Airport",
+    "icao": "FTTB",
+    "lat": 10.2881002426147,
+    "lon": 15.3810997009277
+  },
+  {
+    "country": "Chad",
+    "state": "Chari-Baguirmi",
+    "city": "Bousso",
+    "name": "Bousso Airport",
+    "icao": "FTTS",
+    "lat": 10.4829998016357,
+    "lon": 16.716999053955
+  },
+  {
+    "country": "Chad",
+    "state": "Borkou-Ennedi-Tibesti",
+    "city": "Fada",
+    "name": "Fada Airport",
+    "icao": "FTTF",
+    "lat": 17.1669998168945,
+    "lon": 21.5669994354248
+  },
+  {
+    "country": "Chad",
+    "state": "Kanem",
+    "city": "Mao",
+    "name": "Mao Airport",
+    "icao": "FTTU",
+    "lat": 14.1456003189086,
+    "lon": 15.3143997192382
+  },
+  {
+    "country": "Chad",
+    "state": "Borkou-Ennedi-Tibesti",
+    "city": "Zouar",
+    "name": "Zouar Airport",
+    "icao": "FTTR",
+    "lat": 20.4500007629394,
+    "lon": 16.5830001831054
+  },
+  {
+    "country": "Chad",
+    "state": "Logone-Oriental",
+    "city": "BaÃ¯bokoum",
+    "name": "BaÃ¯bokoum Airport",
+    "icao": "TD-0003",
+    "lat": 7.765304,
+    "lon": 15.703935
+  },
+  {
+    "country": "Chad",
+    "state": "Logone-Oriental",
+    "city": "Doba",
+    "name": "Doba Airport",
+    "icao": "TD-0002",
+    "lat": 8.701775,
+    "lon": 16.834947
+  },
+  {
+    "country": "Chad",
+    "state": "Biltine",
+    "city": "Iriba",
+    "name": "Iriba Airport",
+    "icao": "TD-0011",
+    "lat": 15.134124,
+    "lon": 22.221355
+  },
+  {
+    "country": "Chad",
+    "state": "Tandjile",
+    "city": "KÃ©lo",
+    "name": "KÃ©lo Airport",
+    "icao": "TD-0005",
+    "lat": 9.31408,
+    "lon": 15.786463
+  },
+  {
+    "country": "Chad",
+    "state": "Moyen-Chari",
+    "city": "Koumra",
+    "name": "Koumra Airport",
+    "icao": "TD-0006",
+    "lat": 8.958891,
+    "lon": 17.635592
+  },
+  {
+    "country": "Chad",
+    "state": "Moyen-Chari",
+    "city": "KyabÃ©",
+    "name": "KyabÃ© Airport",
+    "icao": "TD-0008",
+    "lat": 9.447491,
+    "lon": 18.927636
+  },
+  {
+    "country": "Chad",
+    "state": "Mayo-Kebbi",
+    "city": "LÃ©rÃ©",
+    "name": "LÃ©rÃ© Airport",
+    "icao": "TD-0004",
+    "lat": 9.645894,
+    "lon": 14.173201
+  },
+  {
+    "country": "Chad",
+    "state": "Guera",
+    "city": "Melfi",
+    "name": "Melfi Airport",
+    "icao": "MEF",
+    "lat": 11.060192,
+    "lon": 17.944495
+  },
+  {
+    "country": "Chad",
+    "state": "Moyen-Chari",
+    "city": "Souka Serhir",
+    "name": "Lac Iro Airstrip",
+    "icao": "TD-0012",
+    "lat": 10.146546,
+    "lon": 19.35757
+  },
+  {
+    "country": "Chad",
+    "state": "Salamat",
+    "city": "ZaKouma",
+    "name": "Zakuoma Airport",
+    "icao": "AKM",
+    "lat": 10.8902777778,
+    "lon": 19.8172222222
+  }
+]

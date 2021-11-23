@@ -1,0 +1,3737 @@
+[
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Buenos Aires",
+    "name": "Ministro Pistarini International Airport",
+    "icao": "SAEZ",
+    "lat": -34.8222,
+    "lon": -58.5358
+  },
+  {
+    "country": "Argentina",
+    "state": "Capital federal",
+    "city": "Buenos Aires",
+    "name": "Jorge Newbery Airpark",
+    "icao": "SABE",
+    "lat": -34.5592,
+    "lon": -58.4156
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "San Carlos de Bariloche",
+    "name": "San Carlos De Bariloche Airport",
+    "icao": "SAZS",
+    "lat": -41.151199,
+    "lon": -71.157501
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "Colonia Catriel",
+    "name": "Colonia Catriel Airport",
+    "icao": "SA30",
+    "lat": -37.9101982117,
+    "lon": -67.8349990845
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "San Fernando",
+    "name": "San Fernando Airport",
+    "icao": "SADF",
+    "lat": -34.4532,
+    "lon": -58.5896
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Cordoba",
+    "name": "Ingeniero Ambrosio Taravella Airport",
+    "icao": "SACO",
+    "lat": -31.323601,
+    "lon": -64.208
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "San Julian",
+    "name": "Capitan D Daniel Vazquez Airport",
+    "icao": "SAWJ",
+    "lat": -49.3068,
+    "lon": -67.8026
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Comodoro Rivadavia",
+    "name": "General E. Mosconi Airport",
+    "icao": "SAVC",
+    "lat": -45.7853,
+    "lon": -67.4655
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Mar del Plata",
+    "name": "Ãstor Piazzola International Airport",
+    "icao": "SAZM",
+    "lat": -37.9342,
+    "lon": -57.5733
+  },
+  {
+    "country": "Argentina",
+    "state": "Misiones Province",
+    "city": "Posadas",
+    "name": "Libertador Gral D Jose De San Martin Airport",
+    "icao": "SARP",
+    "lat": -27.3858,
+    "lon": -55.9707
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "El Palomar",
+    "name": "El Palomar Airport",
+    "icao": "SADP",
+    "lat": -34.6099,
+    "lon": -58.6126
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Pergamino",
+    "name": "Pergamino Airport",
+    "icao": "SAAN",
+    "lat": -33.919,
+    "lon": -60.648
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Zarate",
+    "name": "Zarate Airport",
+    "icao": "AR-0383",
+    "lat": -34.12,
+    "lon": -59.0836
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Esquel",
+    "name": "Brigadier Antonio Parodi Airport",
+    "icao": "SAVE",
+    "lat": -42.908000946,
+    "lon": -71.139503479
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Rawson",
+    "name": "Almirante Marco Andres Zar Airport",
+    "icao": "SAVT",
+    "lat": -43.2105,
+    "lon": -65.2703
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "Viedma / Carmen de Patagones",
+    "name": "Gobernador Castello Airport",
+    "icao": "SAVV",
+    "lat": -40.8692,
+    "lon": -63.0004
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Moron",
+    "name": "Moron Airport",
+    "icao": "SADM",
+    "lat": -34.6763,
+    "lon": -58.6428
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Ezpeleta",
+    "name": "Ezpeleta Airport",
+    "icao": "AR-0158",
+    "lat": -34.7464,
+    "lon": -58.2033
+  },
+  {
+    "country": "Argentina",
+    "state": "TucumÃ¡n Province",
+    "city": "San Miguel de TucumÃ¡n",
+    "name": "Teniente Benjamin Matienzo Airport",
+    "icao": "SANT",
+    "lat": -26.8409,
+    "lon": -65.104897
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Chapelco/San Martin de los Andes",
+    "name": "Aviador C. Campos Airport",
+    "icao": "SAZY",
+    "lat": -40.075401,
+    "lon": -71.137299
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Puerto Deseado",
+    "name": "Puerto Deseado Airport",
+    "icao": "SAWD",
+    "lat": -47.7353,
+    "lon": -65.9041
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Santa Cruz",
+    "name": "Santa Cruz Airport",
+    "icao": "SAWU",
+    "lat": -50.0165,
+    "lon": -68.5792
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Gobernador Gregores",
+    "name": "Gobernador Gregores Airport",
+    "icao": "SAWR",
+    "lat": -48.7831,
+    "lon": -70.150002
+  },
+  {
+    "country": "Argentina",
+    "state": "San Luis Province",
+    "city": "Villa Mercedes",
+    "name": "Villa Reynolds Airport",
+    "icao": "SAOR",
+    "lat": -33.7299003601,
+    "lon": -65.3873977661
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Cordoba",
+    "name": "Coronel Olmedo Airport",
+    "icao": "SACD",
+    "lat": -31.4874992371,
+    "lon": -64.1414031982
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "General Rodriguez",
+    "name": "General Rodriguez Airport",
+    "icao": "AR-0175",
+    "lat": -34.497234,
+    "lon": -59.037457
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Isla Martin Garcia",
+    "name": "Isla Martin Garcia Airport",
+    "icao": "SA04",
+    "lat": -34.1821,
+    "lon": -58.2469
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "La Matanza",
+    "name": "Matanza Airport",
+    "icao": "SADZ",
+    "lat": -34.7261,
+    "lon": -58.5011
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Lujan",
+    "name": "LujÃ¡n Airport",
+    "icao": "AR-0252",
+    "lat": -34.5514,
+    "lon": -59.0783
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Quilmes",
+    "name": "Quilmes Airport",
+    "icao": "SADQ",
+    "lat": -34.7064,
+    "lon": -58.2444
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "San Andres de Giles",
+    "name": "San Andres De Giles Airport",
+    "icao": "AR-0031",
+    "lat": -34.4703,
+    "lon": -59.4247
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Santa Isabel - CÃ³rdoba",
+    "name": "Escuela De Aviacion Militar Airport",
+    "icao": "SACE",
+    "lat": -31.4449996948,
+    "lon": -64.2838973999
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Tartagal",
+    "name": "General Enrique Mosconi Airport",
+    "icao": "SAST",
+    "lat": -22.619600296,
+    "lon": -63.7937011719
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Las Heras",
+    "name": "Las Heras Airport",
+    "icao": "SAVH",
+    "lat": -46.5382995604999,
+    "lon": -68.9653015137
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Rio Cuarto",
+    "name": "Area De Material Airport",
+    "icao": "SAOC",
+    "lat": -33.0850982666,
+    "lon": -64.2612991333
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Goya",
+    "name": "Goya Airport",
+    "icao": "SATG",
+    "lat": -29.1058,
+    "lon": -59.2189
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Gualeguaychu",
+    "name": "Gualeguaychu Airport",
+    "icao": "SAAG",
+    "lat": -33.0103,
+    "lon": -58.6131
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Junin",
+    "name": "Junin Airport",
+    "icao": "SAAJ",
+    "lat": -34.5459,
+    "lon": -60.9306
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "La Plata",
+    "name": "La Plata Airport",
+    "icao": "SADL",
+    "lat": -34.9722,
+    "lon": -57.8947
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Reconquista",
+    "name": "Reconquista Airport",
+    "icao": "SATR",
+    "lat": -29.2103,
+    "lon": -59.68
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Alta Gracia",
+    "name": "Alta Gracia Airport",
+    "icao": "AR-0036",
+    "lat": -31.6513996124,
+    "lon": -64.3938980102999
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Arrecifes",
+    "name": "Arrecifes Aeroclub Airport",
+    "icao": "AR-0047",
+    "lat": -34.0833,
+    "lon": -60.0333
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Bell Ville",
+    "name": "Bell Ville Airport",
+    "icao": "SA05",
+    "lat": -32.6599,
+    "lon": -62.702
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Benavidez",
+    "name": "Benavidez Airport",
+    "icao": "AR-0064",
+    "lat": -34.388054,
+    "lon": -58.663887
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Bolivar",
+    "name": "Bolivar Airport",
+    "icao": "SAZI",
+    "lat": -36.1866,
+    "lon": -61.0764
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Bragado",
+    "name": "Bragado Airport",
+    "icao": "AR-0005",
+    "lat": -35.144,
+    "lon": -60.4803
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Carmen de Areco",
+    "name": "Carmen De Areco Airport",
+    "icao": "AR-0086",
+    "lat": -34.4175,
+    "lon": -59.8719
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Chascomus",
+    "name": "Chascomus Airport",
+    "icao": "AR-0100",
+    "lat": -35.5428,
+    "lon": -58.0519
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Chubut",
+    "name": "Jose De San Martin Airport",
+    "icao": "SAWS",
+    "lat": -44.0485992431999,
+    "lon": -70.4589004517
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Colonia Marina",
+    "name": "Estancia El ChaÃ±ar Airport",
+    "icao": "AR-0409",
+    "lat": -31.2887,
+    "lon": -62.4189
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Comandante Luis Piedrabuena",
+    "name": "Comandante Luis Piedrabuena Airport",
+    "icao": "SA33",
+    "lat": -49.9951,
+    "lon": -68.9531
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Dolores",
+    "name": "Dolores Airport",
+    "icao": "SAZD",
+    "lat": -36.3225,
+    "lon": -57.7214
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Florencio Varela",
+    "name": "El Pajaro Airport",
+    "icao": "AR-0137",
+    "lat": -34.8237,
+    "lon": -58.3169
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "General Las Heras",
+    "name": "General Las Heras",
+    "icao": "AR-0170",
+    "lat": -34.9206,
+    "lon": -58.9164
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "General Viamonte",
+    "name": "Los Toldos Airport",
+    "icao": "AR-0176",
+    "lat": -34.9744,
+    "lon": -61.0206
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "La Puntilla",
+    "name": "La Puntilla Airport",
+    "icao": "SA16",
+    "lat": -32.962799,
+    "lon": -68.873703
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Las Flores",
+    "name": "Las Flores Airport",
+    "icao": "SAEL",
+    "lat": -36.0672,
+    "lon": -59.1042
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Navarro",
+    "name": "Navarro Airport",
+    "icao": "AR-0281",
+    "lat": -35.0236,
+    "lon": -59.2858
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Pinamar",
+    "name": "Pinamar Airport",
+    "icao": "AR-0296",
+    "lat": -37.0911,
+    "lon": -56.9783
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "Rio Colorado",
+    "name": "Rio Colorado Airport",
+    "icao": "SAZQ",
+    "lat": -38.995,
+    "lon": -64.1408
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Rio Turbio",
+    "name": "28 de Noviembre Airport",
+    "icao": "SAWT",
+    "lat": -51.605,
+    "lon": -72.2203
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Saladillo",
+    "name": "Saladillo Airport",
+    "icao": "SA36",
+    "lat": -35.6081,
+    "lon": -59.8164
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Salto",
+    "name": "Salto Airport",
+    "icao": "AR-0324",
+    "lat": -34.3069,
+    "lon": -60.2858
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "San Antonio de Areco",
+    "name": "San Antonio De Areco Airport",
+    "icao": "SAAA",
+    "lat": -34.2214,
+    "lon": -59.4422
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "San Miguel Del Monte",
+    "name": "BahÃ­a Agradable Airport",
+    "icao": "AR-0334",
+    "lat": -35.4594,
+    "lon": -58.7636
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "San Pedro",
+    "name": "San Pedro Airport",
+    "icao": "SAVO",
+    "lat": -33.698,
+    "lon": -59.7267
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Santa Rosa",
+    "name": "El Pampero Airport",
+    "icao": "AR-0138",
+    "lat": -36.5928001404,
+    "lon": -64.1866989136
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Venado Tuerto",
+    "name": "La Siesta Airport",
+    "icao": "AR-0232",
+    "lat": -33.6939,
+    "lon": -62.0625
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Villa General Belgrano",
+    "name": "Villa General Belgrano Airport",
+    "icao": "AR-0379",
+    "lat": -31.9652996063,
+    "lon": -64.5643997192
+  },
+  {
+    "country": "Argentina",
+    "state": "Formosa Province",
+    "city": "Formosa",
+    "name": "Formosa Airport",
+    "icao": "SARF",
+    "lat": -26.2127,
+    "lon": -58.2281
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Necochea",
+    "name": "Necochea Airport",
+    "icao": "SAZO",
+    "lat": -38.4831,
+    "lon": -58.8172
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "San Rafael",
+    "name": "Suboficial Ay Santiago Germano Airport",
+    "icao": "SAMR",
+    "lat": -34.588299,
+    "lon": -68.4039
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "El Calafate",
+    "name": "Lago Argentino Airport",
+    "icao": "SAWA",
+    "lat": -50.336102,
+    "lon": -72.248596
+  },
+  {
+    "country": "Argentina",
+    "state": "San Luis Province",
+    "city": "Merlo",
+    "name": "Merlo Airport",
+    "icao": "AR-0004",
+    "lat": -32.3582000732421,
+    "lon": -65.0174026489257
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "General Pico",
+    "name": "General Pico Airport",
+    "icao": "SAZG",
+    "lat": -35.6962013245,
+    "lon": -63.7583007812
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "OrÃ¡n",
+    "name": "OrÃ¡n Airport",
+    "icao": "SASO",
+    "lat": -23.1527996063,
+    "lon": -64.3292007446
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Rincon de los Sauces",
+    "name": "Rincon De Los Sauces Airport",
+    "icao": "SAHS",
+    "lat": -37.3905982971,
+    "lon": -68.9041976929
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Tres Arroyos",
+    "name": "Tres Arroyos Airport",
+    "icao": "SAZH",
+    "lat": -38.3869,
+    "lon": -60.3297
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Villa Dolores",
+    "name": "Villa Dolores Airport",
+    "icao": "SAOD",
+    "lat": -31.9451999664,
+    "lon": -65.1463012695
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Zapala",
+    "name": "Zapala Airport",
+    "icao": "SAHZ",
+    "lat": -38.975498,
+    "lon": -70.113602
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Aguaray, San MartÃ­n",
+    "name": "Finca La Frontera Airport",
+    "icao": "AR-0419",
+    "lat": -22.12351,
+    "lon": -63.29055
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Alejandro Roca",
+    "name": "Alejandro Roca Airport",
+    "icao": "AR-0032",
+    "lat": -33.3488998413,
+    "lon": -63.7299995422
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Alta Gracia",
+    "name": "El Toto Airport",
+    "icao": "AR-0405",
+    "lat": -31.650278,
+    "lon": -64.368889
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Alto Rio Senguerr",
+    "name": "D. Casimiro Szlapelis Airport",
+    "icao": "SAVR",
+    "lat": -45.013599,
+    "lon": -70.812202
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Alumine",
+    "name": "Alumine Airport",
+    "icao": "AR-0037",
+    "lat": -38.9502983093,
+    "lon": -71.0492019653
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Ameghino",
+    "name": "Ameghino Airport",
+    "icao": "AR-0040",
+    "lat": -34.8458,
+    "lon": -62.4817
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Ameghino",
+    "name": "Sigfrido Rohr Aviagro S.R.L. Airport",
+    "icao": "AR-0460",
+    "lat": -34.8306,
+    "lon": -62.4678
+  },
+  {
+    "country": "Argentina",
+    "state": "Catamarca Province",
+    "city": "AndalgalÃ¡",
+    "name": "AndalgalÃ¡ Airport",
+    "icao": "SA35",
+    "lat": -27.6317005157,
+    "lon": -66.3507995605
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Arrecifes",
+    "name": "La Cura Malal Airport",
+    "icao": "AR-0486",
+    "lat": -34.0536,
+    "lon": -60.1369
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Avellaneda",
+    "name": "Presidente Avellaneda Airport",
+    "icao": "AR-0052",
+    "lat": -29.1061,
+    "lon": -59.6569
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Bahia Blanca",
+    "name": "Bahia Blanca Aeroclub Airport",
+    "icao": "AR-0023",
+    "lat": -38.6722,
+    "lon": -62.3522
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Balcarce",
+    "name": "Estancia Los Cardos Airport",
+    "icao": "AR-0150",
+    "lat": -37.7356,
+    "lon": -58.0342
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "Bandera",
+    "name": "Agroservicio DoÃ±a Teresa Airport",
+    "icao": "AR-0201",
+    "lat": -28.8494,
+    "lon": -62.2625
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "Barrancas",
+    "name": "Barrancas Airport",
+    "icao": "AR-0059",
+    "lat": -36.7756004333,
+    "lon": -69.8593978882
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Basavilbaso",
+    "name": "Basavilbaso Airport",
+    "icao": "AR-0060",
+    "lat": -32.3611,
+    "lon": -58.8808
+  },
+  {
+    "country": "Argentina",
+    "state": "Misiones Province",
+    "city": "Bernardo de Irigoyen",
+    "name": "Bernardo De Irigoyen Airport",
+    "icao": "SATI",
+    "lat": -26.281388,
+    "lon": -53.673332
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Bombal",
+    "name": "Gran Ancona Airport",
+    "icao": "AR-0066",
+    "lat": -33.4383,
+    "lon": -61.3017
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Buta Ranquil",
+    "name": "El Porton Airport",
+    "icao": "SA07",
+    "lat": -37.1949996947999,
+    "lon": -69.6094970703
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Cabildo",
+    "name": "Cabildo Airport",
+    "icao": "AR-0071",
+    "lat": -38.4986000061,
+    "lon": -61.8843994141
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Cafayate",
+    "name": "Cafayate Airport",
+    "icao": "SA02",
+    "lat": -26.0561008452999,
+    "lon": -65.9368972778
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Caleta Olivia",
+    "name": "Caleta Olivia Airport",
+    "icao": "AR-0007",
+    "lat": -46.4318008423,
+    "lon": -67.5186004639
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Caleufu",
+    "name": "Caleufu Airport",
+    "icao": "AR-0074",
+    "lat": -40.3939018249511,
+    "lon": -70.9633026123046
+  },
+  {
+    "country": "Argentina",
+    "state": "Jujuy Province",
+    "city": "Calilegua",
+    "name": "Calilegua Airport",
+    "icao": "SA24",
+    "lat": -23.7819004059,
+    "lon": -64.74949646
+  },
+  {
+    "country": "Argentina",
+    "state": "Catamarca Province",
+    "city": "Campo Arenal",
+    "name": "Campo Arenal Airport",
+    "icao": "SA11",
+    "lat": -27.0722999573,
+    "lon": -66.5860977173
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "CaÃ±ada Rosquin",
+    "name": "B&B Servicios Agropecuarios Airport",
+    "icao": "AR-0056",
+    "lat": -32.1147,
+    "lon": -61.6328
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "CaÃ±adon Seco",
+    "name": "CaÃ±adon Seco Airport",
+    "icao": "SA25",
+    "lat": -46.539,
+    "lon": -67.5639
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Capitan Sarmiento",
+    "name": "Capitan Sarmiento Airport",
+    "icao": "AR-0080",
+    "lat": -34.1639,
+    "lon": -59.7311
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "CapitÃ¡n Sarmiento",
+    "name": "San Patricio Airport",
+    "icao": "AR-0485",
+    "lat": -34.0403,
+    "lon": -59.6944
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Carlos Casares",
+    "name": "Carlos Casares Airport",
+    "icao": "AR-0083",
+    "lat": -35.6328,
+    "lon": -61.3842
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Carlos Tejedor",
+    "name": "Carlos Tejedor Airport",
+    "icao": "AR-0085",
+    "lat": -35.4256,
+    "lon": -62.4697
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Castelli",
+    "name": "Castelli Airport",
+    "icao": "AR-0089",
+    "lat": -36.1100006103515,
+    "lon": -57.861946105957
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Chacharramendi",
+    "name": "Chacharramendi Airport",
+    "icao": "AR-0097",
+    "lat": -37.3405990601,
+    "lon": -65.646697998
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Chajari",
+    "name": "Chajari Airport",
+    "icao": "AR-0098",
+    "lat": -30.7542,
+    "lon": -58.0
+  },
+  {
+    "country": "Argentina",
+    "state": "Chaco Province",
+    "city": "Charata",
+    "name": "Charata Airport",
+    "icao": "AR-0009",
+    "lat": -27.2164,
+    "lon": -61.2103
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "Choele Choel",
+    "name": "Choele Choel Airport",
+    "icao": "SA29",
+    "lat": -39.2863998412999,
+    "lon": -65.6102981567
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "Ciudad de Lavalle",
+    "name": "Lanzillota Airport",
+    "icao": "AR-0249",
+    "lat": -32.7214012146,
+    "lon": -68.6342010498
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Concepcion Del Uruguay",
+    "name": "Concepcion Del Uruguay Airport",
+    "icao": "AR-0110",
+    "lat": -32.4519,
+    "lon": -58.3058
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Cordoba/La Mezquita",
+    "name": "La Mezquita Airport",
+    "icao": "AR-0227",
+    "lat": -31.400800705,
+    "lon": -64.3003005981
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Coronel Bogado",
+    "name": "Fumigaciones Campagnucci Airport",
+    "icao": "AR-0421",
+    "lat": -33.3239,
+    "lon": -60.6658
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Coronel Moldes",
+    "name": "Coronel Moldes Airport",
+    "icao": "AR-0396",
+    "lat": -33.616669,
+    "lon": -64.612503
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Coronel Pringles",
+    "name": "Coronel Pringles Airport",
+    "icao": "AR-0114",
+    "lat": -38.0066680908,
+    "lon": -61.331943512
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Coronel Vidal",
+    "name": "Coronel Vidal Airport",
+    "icao": "AR-0115",
+    "lat": -37.4689,
+    "lon": -57.7669
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Corrientes",
+    "name": "Alvear Airport",
+    "icao": "AR-0039",
+    "lat": -29.064722,
+    "lon": -56.541111
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Cosquin",
+    "name": "Santa MarÃ­a Airport",
+    "icao": "AR-0117",
+    "lat": -31.2861003875999,
+    "lon": -64.4552993774
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Curuzu Cuatia",
+    "name": "Curuzu Cuatia Aeroclub Airport",
+    "icao": "AR-0119",
+    "lat": -29.7789,
+    "lon": -58.0958
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Darregueira",
+    "name": "Darregueira Airport",
+    "icao": "AR-0122",
+    "lat": -37.7127990723,
+    "lon": -63.1618995666999
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "El Alamito",
+    "name": "El Alamito Airport",
+    "icao": "AR-0131",
+    "lat": -37.2736129760742,
+    "lon": -70.3897247314453
+  },
+  {
+    "country": "Argentina",
+    "state": "Formosa Province",
+    "city": "El Colorado",
+    "name": "El Colorado Airport",
+    "icao": "SA41",
+    "lat": -26.316686630249,
+    "lon": -59.3397636413574
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "El Corcovado - Esquel",
+    "name": "El Corcovado Airport",
+    "icao": "AR-0134",
+    "lat": -43.5335998535156,
+    "lon": -71.4847030639648
+  },
+  {
+    "country": "Argentina",
+    "state": "Misiones Province",
+    "city": "El Dorado",
+    "name": "El Dorado Airport",
+    "icao": "SATD",
+    "lat": -26.3974990845,
+    "lon": -54.5746994019
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "El Trebol",
+    "name": "El Trebol Airport",
+    "icao": "AR-0139",
+    "lat": -32.2153,
+    "lon": -61.7161
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Esperanza",
+    "name": "Esperanza Airport",
+    "icao": "AR-0141",
+    "lat": -31.4736,
+    "lon": -60.8447
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Esquel",
+    "name": "Lago La Esperanza Airport",
+    "icao": "AR-0237",
+    "lat": -42.217499,
+    "lon": -71.805003
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Esquina",
+    "name": "Esquina Airport",
+    "icao": "AR-0142",
+    "lat": -30.0489,
+    "lon": -59.5353
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Firmat",
+    "name": "Firmat Airport",
+    "icao": "AR-0420",
+    "lat": -33.4661,
+    "lon": -61.4842
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "Frias",
+    "name": "Frias Airport",
+    "icao": "SA45",
+    "lat": -28.6343994141,
+    "lon": -65.1091995239
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Galvez",
+    "name": "Galvez Airport",
+    "icao": "AR-0165",
+    "lat": -32.0322,
+    "lon": -61.1758
+  },
+  {
+    "country": "Argentina",
+    "state": "Chaco Province",
+    "city": "Gancedo",
+    "name": "Pulverizaciones M.H. Airport",
+    "icao": "AR-0452",
+    "lat": -27.4831,
+    "lon": -61.6486
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Gdor. Valentin Virasoro",
+    "name": "Las Marias Airport",
+    "icao": "AR-0245",
+    "lat": -28.1,
+    "lon": -56.05
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "General Alvear",
+    "name": "General Alvear Airport",
+    "icao": "SAMA",
+    "lat": -35.0588989257999,
+    "lon": -67.6928024292
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "General Alvear",
+    "name": "General Alvear Airport",
+    "icao": "AR-0484",
+    "lat": -35.9783,
+    "lon": -59.9061
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "General La Madrid",
+    "name": "General La Madrid Airport",
+    "icao": "AR-0169",
+    "lat": -37.2271995544,
+    "lon": -61.2792015076
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "General Madariaga",
+    "name": "General Madariaga Airport",
+    "icao": "AR-0172",
+    "lat": -37.0392,
+    "lon": -57.1372
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "General Pico",
+    "name": "Cereales Anahi Ruca Airport",
+    "icao": "AR-0094",
+    "lat": -35.6736106873,
+    "lon": -63.7180557251
+  },
+  {
+    "country": "Argentina",
+    "state": "Chaco Province",
+    "city": "General PÃ¬nedo",
+    "name": "General PÃ¬nedo Airport",
+    "icao": "AR-0173",
+    "lat": -27.3394,
+    "lon": -61.2744
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "General Pinto",
+    "name": "General Pinto Airport",
+    "icao": "AR-0174",
+    "lat": -34.7861,
+    "lon": -61.9142
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "General San Martin",
+    "name": "General San Martin (La Pampa) Airport",
+    "icao": "AR-0425",
+    "lat": -37.94972,
+    "lon": -63.6175
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Gobernador Crespo",
+    "name": "Gobernador Crespo Aeroclub Airport",
+    "icao": "AR-0177",
+    "lat": -30.3878,
+    "lon": -60.3656
+  },
+  {
+    "country": "Argentina",
+    "state": "La Rioja Province",
+    "city": "Gobernador Gordillo",
+    "name": "Chamical Airport",
+    "icao": "SACT",
+    "lat": -30.34530067,
+    "lon": -66.29360198
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Goya",
+    "name": "Goya Aeroclub",
+    "icao": "AR-0181",
+    "lat": -29.1678,
+    "lon": -59.2464
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Gualeguay",
+    "name": "Gualeguay Aeroclub Airport",
+    "icao": "AR-0427",
+    "lat": -33.0994,
+    "lon": -59.4172
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "GualeguaychÃº",
+    "name": "Estancia La Providencia Airport",
+    "icao": "AR-0411",
+    "lat": -32.9411,
+    "lon": -58.565
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "GuatrachÃ©",
+    "name": "GuatrachÃ© Airport",
+    "icao": "AR-0428",
+    "lat": -37.682800293,
+    "lon": -63.5508003235
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Huinca Renanco",
+    "name": "Huinca Renanco Airport",
+    "icao": "AR-0199",
+    "lat": -34.8203010559,
+    "lon": -64.3731002808
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Humboldt",
+    "name": "Establecimiento La Adelita Airport",
+    "icao": "AR-0406",
+    "lat": -31.3925,
+    "lon": -61.1431
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Hunter",
+    "name": "Fumigaciones Fredy Airport",
+    "icao": "AR-0422",
+    "lat": -34.2361,
+    "lon": -60.5819
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Ines Indart",
+    "name": "Belingueres AviaciÃ³n Airport",
+    "icao": "AR-0384",
+    "lat": -34.2778,
+    "lon": -60.5044
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Ingeniero Luiggi",
+    "name": "Ingeniero Luiggi Airport",
+    "icao": "AR-0200",
+    "lat": -35.3549995422,
+    "lon": -64.4758300781
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Intendente Alvear",
+    "name": "Azcarate Irastorza Airport",
+    "icao": "AR-0272",
+    "lat": -35.1994,
+    "lon": -63.6008
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Isla Verde",
+    "name": "Don Hector Biondi Airport",
+    "icao": "AR-0207",
+    "lat": -33.2464,
+    "lon": -62.4167
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Ituzaingo",
+    "name": "Ituzaingo Airport",
+    "icao": "SARO",
+    "lat": -27.5261001587,
+    "lon": -56.6333007812
+  },
+  {
+    "country": "Argentina",
+    "state": "San Juan Province",
+    "city": "Jachal",
+    "name": "Jachal Airport",
+    "icao": "SAMJ",
+    "lat": -30.2495002746999,
+    "lon": -68.740196228
+  },
+  {
+    "country": "Argentina",
+    "state": "Misiones Province",
+    "city": "Jardin de AmÃ©rica",
+    "name": "Jardin De AmÃ©rica Airport",
+    "icao": "AR-0210",
+    "lat": -27.0324993134,
+    "lon": -55.1980552673
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Joaquin V. Gonzalez",
+    "name": "Agropecuaria Rio Juramento Airport",
+    "icao": "AR-0212",
+    "lat": -25.1867008209,
+    "lon": -64.0828018188
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Juarez Celman",
+    "name": "Juarez Celman Airport",
+    "icao": "AR-0216",
+    "lat": -31.2113895416,
+    "lon": -64.1613922119
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Junin de Los Andes",
+    "name": "Hosteria San Huberto Airport",
+    "icao": "AR-0431",
+    "lat": -39.7038879395,
+    "lon": -71.1699981689
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "La Consulta",
+    "name": "La Consulta Airport",
+    "icao": "AR-0222",
+    "lat": -33.7308349609375,
+    "lon": -69.1738891601562
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "La Cumbre",
+    "name": "La Cumbre Airport",
+    "icao": "SACC",
+    "lat": -31.0058002471999,
+    "lon": -64.5318984985
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "La Paz",
+    "name": "La Paz Airport",
+    "icao": "SAMP",
+    "lat": -30.7833,
+    "lon": -59.6
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "La Pelada",
+    "name": "La Pelada Airport",
+    "icao": "AR-0231",
+    "lat": -30.9556,
+    "lon": -60.8858
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "La Plata",
+    "name": "Elizalde Airport",
+    "icao": "AR-0140",
+    "lat": -34.9747,
+    "lon": -57.9614
+  },
+  {
+    "country": "Argentina",
+    "state": "Jujuy Province",
+    "city": "La Quiaca",
+    "name": "La Quiaca Airport",
+    "icao": "SAOL",
+    "lat": -22.1506004333,
+    "lon": -65.5774993895999
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Laborde",
+    "name": "Laborde Airport",
+    "icao": "AR-0234",
+    "lat": -33.1567,
+    "lon": -62.8906
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Laguna Larga",
+    "name": "Laguna Larga Airport",
+    "icao": "SACL",
+    "lat": -31.0,
+    "lon": -63.0
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Laprida",
+    "name": "Laprida Airport",
+    "icao": "AR-0241",
+    "lat": -37.518901825,
+    "lon": -60.7769012451
+  },
+  {
+    "country": "Argentina",
+    "state": "Formosa Province",
+    "city": "Las Lomitas",
+    "name": "Alferez Armando Rodriguez Airport",
+    "icao": "SATK",
+    "lat": -24.7213993073,
+    "lon": -60.5488014221
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Las Ovejas",
+    "name": "Las Ovejas Airport",
+    "icao": "AR-0246",
+    "lat": -36.999699,
+    "lon": -70.741897
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Las Parejas",
+    "name": "El Gaucho Airport",
+    "icao": "AR-0135",
+    "lat": -32.6294,
+    "lon": -61.5444
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Las Varillas",
+    "name": "Ginevro Airport",
+    "icao": "AR-0426",
+    "lat": -31.864445,
+    "lon": -62.844166
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Libertad",
+    "name": "La Esmeralda Airport",
+    "icao": "AR-0436",
+    "lat": -29.9939,
+    "lon": -57.8378
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Lincoln",
+    "name": "Lincoln Airport",
+    "icao": "AR-0253",
+    "lat": -34.8911,
+    "lon": -61.5306
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Loberia",
+    "name": "Loberia Airport",
+    "icao": "AR-0255",
+    "lat": -38.1906,
+    "lon": -58.7864
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Loncopue",
+    "name": "Loncopue Airport",
+    "icao": "LCP",
+    "lat": -38.081902,
+    "lon": -70.643898
+  },
+  {
+    "country": "Argentina",
+    "state": "Catamarca Province",
+    "city": "Londres/BelÃ©n",
+    "name": "Londres/BelÃ©n Airport",
+    "icao": "SA44",
+    "lat": -27.7078990936,
+    "lon": -67.0951004028
+  },
+  {
+    "country": "Argentina",
+    "state": "Tierra del Fuego Province",
+    "city": "Los Cerros",
+    "name": "Los Cerros Airport",
+    "icao": "AR-0002",
+    "lat": -54.3441009521484,
+    "lon": -67.8329010009765
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Los Molinos",
+    "name": "Establecimiento La Florencia Airport",
+    "icao": "AR-0407",
+    "lat": -33.0769,
+    "lon": -61.3178
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "LujÃ¡n",
+    "name": "Estancia Villa MarÃ­a",
+    "icao": "AR-0417",
+    "lat": -34.6433,
+    "lon": -59.1272
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Maipu",
+    "name": "Establecimiento El Araza Airport",
+    "icao": "AR-0132",
+    "lat": -36.7756,
+    "lon": -57.6414
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "Maquinchao",
+    "name": "Maquinchao Airport",
+    "icao": "SAVQ",
+    "lat": -41.2430992126,
+    "lon": -68.7078018188
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Mar del Plata",
+    "name": "Club De Planeadores Airport",
+    "icao": "AR-0391",
+    "lat": -38.0153,
+    "lon": -57.6536
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Marcos Juarez",
+    "name": "Marcos Juarez Airport",
+    "icao": "SAOM",
+    "lat": -32.6836,
+    "lon": -62.157801
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Mariano H. Alfonzo",
+    "name": "Agrocelta Servicios Aereos Airport",
+    "icao": "AR-0127",
+    "lat": -33.8867,
+    "lon": -60.8628
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Meliquina",
+    "name": "Meliquina Airport",
+    "icao": "AR-0269",
+    "lat": -40.3353004455566,
+    "lon": -71.3392028808593
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "Mendoza",
+    "name": "Mendoza Airpark",
+    "icao": "SAMQ",
+    "lat": -32.8652992249,
+    "lon": -68.8719024657999
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Merlo",
+    "name": "Merlo Airport",
+    "icao": "SADR",
+    "lat": -34.680283,
+    "lon": -58.742658
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Metan",
+    "name": "MetÃ¡n Airport",
+    "icao": "AR-0273",
+    "lat": -25.5144004822,
+    "lon": -64.9655990601
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Mina Clavero",
+    "name": "Mina Clavero Airport",
+    "icao": "AR-0274",
+    "lat": -31.7331008911,
+    "lon": -64.9856033324999
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Miramar",
+    "name": "Bellamar Airport",
+    "icao": "AR-0063",
+    "lat": -38.3858,
+    "lon": -58.1336
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Monte Caseros",
+    "name": "Timboy Airport",
+    "icao": "AR-0463",
+    "lat": -30.2236,
+    "lon": -57.8444
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Monte Grande",
+    "name": "Monte Grande Airport",
+    "icao": "SADG",
+    "lat": -34.805599,
+    "lon": -58.492001
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Monte Maiz",
+    "name": "Monte Maiz Airport",
+    "icao": "AR-0276",
+    "lat": -33.2103,
+    "lon": -62.6297
+  },
+  {
+    "country": "Argentina",
+    "state": "Misiones Province",
+    "city": "Montecarlo",
+    "name": "Montecarlo Airport",
+    "icao": "AR-0277",
+    "lat": -26.5439,
+    "lon": -54.7239
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Montes de Oca",
+    "name": "Montes De Oca Airport",
+    "icao": "AR-0444",
+    "lat": -32.5811,
+    "lon": -61.8408
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Morteros",
+    "name": "Morteros Airport",
+    "icao": "AR-0280",
+    "lat": -30.6778,
+    "lon": -62.0267
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Necochea",
+    "name": "Iriberri Airport",
+    "icao": "AR-0432",
+    "lat": -38.478789,
+    "lon": -58.804836
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Nogoya",
+    "name": "Juan Carlos Bagur Airport",
+    "icao": "AR-0214",
+    "lat": -32.4186,
+    "lon": -59.8158
+  },
+  {
+    "country": "Argentina",
+    "state": "Misiones Province",
+    "city": "OberÃ¡",
+    "name": "OberÃ¡ Airport",
+    "icao": "SATO",
+    "lat": -27.5181999207,
+    "lon": -55.1241989136
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Olavarria",
+    "name": "Olavarria Aeroclub Airport",
+    "icao": "AR-0026",
+    "lat": -36.9644012451,
+    "lon": -60.2757987976
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Parana",
+    "name": "Parana Club De Planeadores Airport",
+    "icao": "AR-0290",
+    "lat": -31.7314,
+    "lon": -60.22
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Paso de los Indios",
+    "name": "Paso De Los Indios Airport",
+    "icao": "SAVP",
+    "lat": -43.8666992188,
+    "lon": -69.0500030517999
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Pedro Luro",
+    "name": "Pedro Luro Airport",
+    "icao": "AR-0292",
+    "lat": -39.4561,
+    "lon": -62.6747
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Pellegrini",
+    "name": "Pellegrini Airport",
+    "icao": "AR-0293",
+    "lat": -36.2828,
+    "lon": -63.1342
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Pilar",
+    "name": "Pilar Airport",
+    "icao": "SACI",
+    "lat": -31.6819992065,
+    "lon": -63.8638000487999
+  },
+  {
+    "country": "Argentina",
+    "state": "Formosa Province",
+    "city": "Pirane",
+    "name": "Estancia La SalvaciÃ³n Airport",
+    "icao": "AR-0412",
+    "lat": -25.2767,
+    "lon": -58.9375
+  },
+  {
+    "country": "Argentina",
+    "state": "Misiones Province",
+    "city": "Posadas",
+    "name": "Posadas Aeroclub Airport",
+    "icao": "AR-0302",
+    "lat": -27.4174995422363,
+    "lon": -55.9397239685058
+  },
+  {
+    "country": "Argentina",
+    "state": "Chaco Province",
+    "city": "Presidencia Roca",
+    "name": "Estancia La Leonor Airport",
+    "icao": "AR-0410",
+    "lat": -26.1494,
+    "lon": -59.6672
+  },
+  {
+    "country": "Argentina",
+    "state": "Chaco Province",
+    "city": "Presidencia Roque SÃ¡enz PeÃ±a",
+    "name": "Termal Airport",
+    "icao": "AR-0462",
+    "lat": -26.753611,
+    "lon": -60.492222
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Puelches",
+    "name": "Puelches Airport",
+    "icao": "SAZU",
+    "lat": -38.1451034546,
+    "lon": -65.9229431152
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Puerto Deseado",
+    "name": "Puerto Deseado West Airport",
+    "icao": "SA19",
+    "lat": -47.7201004028,
+    "lon": -65.9324035645
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Puerto Ibicuy/Mazuraca",
+    "name": "Mazaruca Airport",
+    "icao": "SAAM",
+    "lat": -33.596001,
+    "lon": -59.266998
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Pujato",
+    "name": "La LucÃ­a Airport",
+    "icao": "AR-0437",
+    "lat": -33.0119,
+    "lon": -61.0608
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Punta Alta",
+    "name": "Punta Alta Airport",
+    "icao": "AR-0308",
+    "lat": -38.8342,
+    "lon": -62.0869
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "Punta de Vacas",
+    "name": "Punta De Vacas Airport",
+    "icao": "SAML",
+    "lat": -32.854598999,
+    "lon": -69.7604980469
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Quemu Quemu",
+    "name": "Quemu Quemu Airport",
+    "icao": "SA12",
+    "lat": -36.0587,
+    "lon": -63.6313
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Quequen",
+    "name": "Moromar Airport",
+    "icao": "AR-0278",
+    "lat": -38.4164,
+    "lon": -58.3839
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Ranchos",
+    "name": "La Igualdad Airport",
+    "icao": "AR-0311",
+    "lat": -35.5133,
+    "lon": -58.3531
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Rauch",
+    "name": "Rauch Airport",
+    "icao": "AR-0027",
+    "lat": -36.7717,
+    "lon": -59.0575
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Rawson",
+    "name": "Rawson Airport",
+    "icao": "AR-0312",
+    "lat": -43.2944,
+    "lon": -65.0644
+  },
+  {
+    "country": "Argentina",
+    "state": "Chaco Province",
+    "city": "Resistencia",
+    "name": "Aeroclub Chaco Airport",
+    "icao": "AR-0008",
+    "lat": -27.6311,
+    "lon": -59.1797
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Ricardone",
+    "name": "Pettilep II Airport",
+    "icao": "AR-0450",
+    "lat": -32.8039,
+    "lon": -60.7989
+  },
+  {
+    "country": "Argentina",
+    "state": "Tierra del Fuego Province",
+    "city": "Rio Bellavista",
+    "name": "Rio Bellavista Airport",
+    "icao": "AR-0003",
+    "lat": -53.9827003479003,
+    "lon": -68.5235977172851
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Rio Cuarto",
+    "name": "Estindher Airport",
+    "icao": "AR-0157",
+    "lat": -33.0931015015,
+    "lon": -64.4291992188
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "Rivadavia",
+    "name": "Aerotec Airport",
+    "icao": "AR-0029",
+    "lat": -33.206943512,
+    "lon": -68.492225647
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Rivadavia",
+    "name": "Rivadavia Airport",
+    "icao": "SASR",
+    "lat": -24.1886005402,
+    "lon": -62.8833999633999
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Rojas",
+    "name": "Rojas Airport",
+    "icao": "AR-0319",
+    "lat": -34.215,
+    "lon": -60.6725
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Rosario",
+    "name": "Pueblo Esther Airport",
+    "icao": "AR-0305",
+    "lat": -33.0817,
+    "lon": -60.5647
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Rosario Del Tala",
+    "name": "Rosario Del Tala Airport",
+    "icao": "AR-0321",
+    "lat": -32.3289,
+    "lon": -59.1906
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Saavedra",
+    "name": "Saavedra Airport",
+    "icao": "AR-0128",
+    "lat": -37.750242,
+    "lon": -62.33425
+  },
+  {
+    "country": "Argentina",
+    "state": "Jujuy Province",
+    "city": "Salar de Cauchari",
+    "name": "Salar De Cauchari Airport",
+    "icao": "SASL",
+    "lat": -24.0191993713,
+    "lon": -66.797203064
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Saldungaray",
+    "name": "Saldungaray Airport",
+    "icao": "AR-0453",
+    "lat": -38.2163887023999,
+    "lon": -61.750831604
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "SalliquelÃ³",
+    "name": "SalliquelÃ³ Airport",
+    "icao": "AR-0323",
+    "lat": -36.756401062,
+    "lon": -62.9444007874
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Salta",
+    "name": "Santa Victoria Airport",
+    "icao": "SA22",
+    "lat": -22.2856998443999,
+    "lon": -62.7136993408
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "San Andres de Giles",
+    "name": "El Mirador",
+    "icao": "AR-0254",
+    "lat": -34.538887,
+    "lon": -59.585278
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "San Antonio Oeste",
+    "name": "(Old) Antoine De Saint Exupery Airport",
+    "icao": "AR-0016",
+    "lat": -40.7401008606,
+    "lon": -64.9804992676
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "San Cayetano",
+    "name": "San Cayetano Heliport",
+    "icao": "AR-0326",
+    "lat": -38.3338890075683,
+    "lon": -59.6302795410156
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "San Cristobal",
+    "name": "San Cristobal Airport",
+    "icao": "AR-0327",
+    "lat": -30.2642,
+    "lon": -61.2203
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "San Francisco",
+    "name": "San Francisco Airport",
+    "icao": "AR-0328",
+    "lat": -31.4142,
+    "lon": -62.1336
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "San Jorge",
+    "name": "Bocca Airport",
+    "icao": "AR-0385",
+    "lat": -31.8711,
+    "lon": -61.9511
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "San JosÃ© de La Dormida",
+    "name": "San JosÃ© De La Dormida Airport",
+    "icao": "AR-0457",
+    "lat": -30.2775001526,
+    "lon": -63.8574981689
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "San Justo",
+    "name": "San Justo Airport",
+    "icao": "AR-0332",
+    "lat": -30.7642,
+    "lon": -60.5653
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Santa Regina",
+    "name": "FortÃ­n De Gainza Airport",
+    "icao": "AR-0162",
+    "lat": -34.5494,
+    "lon": -63.1225
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Serodino",
+    "name": "Fumigaciones Stadler Airport",
+    "icao": "AR-0164",
+    "lat": -32.5786,
+    "lon": -60.9119
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "Sierra Grande",
+    "name": "BahÃ­a Dorada Airport",
+    "icao": "AR-0335",
+    "lat": -41.8428,
+    "lon": -65.0822
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Tandil",
+    "name": "Estancia La Estrella Airport",
+    "icao": "SA13",
+    "lat": -37.5593986511,
+    "lon": -58.6660003661999
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Tandil",
+    "name": "Comandante Eduardo A. Olivero Airport",
+    "icao": "AR-0393",
+    "lat": -37.3666687011718,
+    "lon": -58.9666671752929
+  },
+  {
+    "country": "Argentina",
+    "state": "San Luis Province",
+    "city": "Tilisarao",
+    "name": "Tilisarao Airport",
+    "icao": "AR-0352",
+    "lat": -32.75,
+    "lon": -65.2822036742999
+  },
+  {
+    "country": "Argentina",
+    "state": "Tierra del Fuego Province",
+    "city": "Tolwin (Lago Fagnano)/observatorio MET(TAIS)",
+    "name": "Tolwin Observatory Airport",
+    "icao": "SAWL",
+    "lat": -54.521900177,
+    "lon": -67.1989974976
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Tortugas",
+    "name": "Estancia San Vicente Airport",
+    "icao": "AR-0414",
+    "lat": -32.9989,
+    "lon": -61.7781
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Tostado",
+    "name": "Tostado Airport",
+    "icao": "AR-0356",
+    "lat": -29.2358,
+    "lon": -61.7886
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Trenque Lauquen",
+    "name": "Trenque Lauquen Airport",
+    "icao": "AR-0218",
+    "lat": -36.0158,
+    "lon": -62.6939
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Tres Arroyos",
+    "name": "Petrazzini Airport",
+    "icao": "AR-0447",
+    "lat": -38.3478,
+    "lon": -60.2761
+  },
+  {
+    "country": "Argentina",
+    "state": "TucumÃ¡n Province",
+    "city": "Tucuman",
+    "name": "Los Tucanes Airport",
+    "icao": "AR-0261",
+    "lat": -27.0358333588,
+    "lon": -65.1566696167
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Urdinarrain",
+    "name": "Urdinarrain Airport",
+    "icao": "AR-0372",
+    "lat": -32.6964,
+    "lon": -58.8992
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "Uspallata",
+    "name": "Uspallata Airport",
+    "icao": "SAMU",
+    "lat": -32.538898468,
+    "lon": -69.3458023071
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "Valle Hermoso",
+    "name": "Valle Hermoso Airport",
+    "icao": "SAMH",
+    "lat": -35.1461982727,
+    "lon": -70.2053985596
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Vedia",
+    "name": "Vedia Aeroclub",
+    "icao": "AR-0081",
+    "lat": -34.4817,
+    "lon": -61.4903
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Veinticinco De Mayo",
+    "name": "Veinticinco De Mayo Airport",
+    "icao": "AR-0373",
+    "lat": -35.4464,
+    "lon": -60.0886
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Veronica",
+    "name": "Veronica Airport",
+    "icao": "AR-0375",
+    "lat": -35.4,
+    "lon": -57.3667
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Victorica",
+    "name": "Victorica Airport",
+    "icao": "AR-0377",
+    "lat": -36.2374992370999,
+    "lon": -65.450553894
+  },
+  {
+    "country": "Argentina",
+    "state": "Chaco Province",
+    "city": "Villa Angela",
+    "name": "Villa Angela Airport",
+    "icao": "SARV",
+    "lat": -27.5915,
+    "lon": -60.6864
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Villa de Soto",
+    "name": "Villa De Soto Airport",
+    "icao": "SACS",
+    "lat": -30.8652000426999,
+    "lon": -64.9789962768999
+  },
+  {
+    "country": "Argentina",
+    "state": "San Luis Province",
+    "city": "Villa Mercedes",
+    "name": "Estancia Don Roberto Airport",
+    "icao": "AR-0143",
+    "lat": -34.0013999939,
+    "lon": -65.366897583
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Villa Ocampo",
+    "name": "Villa Ocampo Airport",
+    "icao": "AR-0380",
+    "lat": -28.4969,
+    "lon": -59.3256
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Villaguay",
+    "name": "El JagÃ¼el Airport",
+    "icao": "AR-0402",
+    "lat": -31.7994,
+    "lon": -59.0339
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "YapeyÃº",
+    "name": "YapeyÃº Airport",
+    "icao": "AR-0466",
+    "lat": -29.44393,
+    "lon": -56.823915
+  },
+  {
+    "country": "Argentina",
+    "state": "Tierra del Fuego Province",
+    "city": "BahÃ­a San SebastiÃ¡n",
+    "name": "Planta Cruz Del Sur Heliport",
+    "icao": "AR-0297",
+    "lat": -53.3228,
+    "lon": -68.2658
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "Barreales",
+    "name": "Transener S.A. Heliport",
+    "icao": "AR-0362",
+    "lat": -33.0989,
+    "lon": -68.5819
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "BelÃ©n De Escobar",
+    "name": "Legat S.A. Heliport",
+    "icao": "AR-0250",
+    "lat": -34.3168,
+    "lon": -58.8166
+  },
+  {
+    "country": "Argentina",
+    "state": "Capital federal",
+    "city": "Buenos Aires",
+    "name": "B. Churruca Heliport",
+    "icao": "AR-0057",
+    "lat": -34.6407,
+    "lon": -58.4094
+  },
+  {
+    "country": "Argentina",
+    "state": "Capital federal",
+    "city": "Buenos Aires",
+    "name": "Darsena Sur Heliport",
+    "icao": "AR-0123",
+    "lat": -34.6278,
+    "lon": -58.3515
+  },
+  {
+    "country": "Argentina",
+    "state": "Capital federal",
+    "city": "Buenos Aires",
+    "name": "Fuerza AÃ©rea(Edificio CÃ³ndor) Heliport",
+    "icao": "AR-0163",
+    "lat": -34.5858,
+    "lon": -58.3681
+  },
+  {
+    "country": "Argentina",
+    "state": "Capital federal",
+    "city": "Buenos Aires",
+    "name": "Madero Heliport",
+    "icao": "AR-0263",
+    "lat": -34.6217,
+    "lon": -58.3447
+  },
+  {
+    "country": "Argentina",
+    "state": "Capital federal",
+    "city": "Buenos Aires",
+    "name": "Presidencia De La NaciÃ³n Heliport",
+    "icao": "AR-0303",
+    "lat": -34.6064,
+    "lon": -58.3683
+  },
+  {
+    "country": "Argentina",
+    "state": "Capital federal",
+    "city": "Buenos Aires",
+    "name": "Swiss Medical Heliport",
+    "icao": "AR-0347",
+    "lat": -34.5808,
+    "lon": -58.4294
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Capilla Del SeÃ±or",
+    "name": "Las Araucarias Heliport",
+    "icao": "AR-0242",
+    "lat": -34.3067,
+    "lon": -59.1703
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Carmen De Areco",
+    "name": "San JoaquÃ­n Heliport",
+    "icao": "AR-0330",
+    "lat": -34.3344,
+    "lon": -59.7139
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Catan Lil",
+    "name": "Estancia Santa Isabel Heliport",
+    "icao": "AR-0156",
+    "lat": -39.8847,
+    "lon": -70.5136
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Concepcion Del Uruguay",
+    "name": "La Milagrosa Heliport",
+    "icao": "AR-0228",
+    "lat": -32.4828,
+    "lon": -58.2506
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Cordoba",
+    "name": "Casa De Gobierno Heliport",
+    "icao": "AR-0087",
+    "lat": -31.4306,
+    "lon": -64.1842
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Cordoba",
+    "name": "PolicÃ­a Provincia De CÃ³rdoba Heliport",
+    "icao": "AR-0299",
+    "lat": -31.3994,
+    "lon": -64.1833
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Don Torcuato",
+    "name": "Helicenter Heliport",
+    "icao": "AR-0185",
+    "lat": -34.4975,
+    "lon": -58.6069
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Don Torcuato",
+    "name": "Timen S.A. Heliport",
+    "icao": "AR-0353",
+    "lat": -34.4964,
+    "lon": -58.6078
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Garin",
+    "name": "Miraflores Country Club Heliport",
+    "icao": "AR-0275",
+    "lat": -34.4461,
+    "lon": -58.7342
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "General Villegas",
+    "name": "San Isidro Labrador Heliport",
+    "icao": "AR-0329",
+    "lat": -35.0814,
+    "lon": -63.0822
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Hudson",
+    "name": "Manuel Afonso Heliport",
+    "icao": "AR-0265",
+    "lat": -34.815,
+    "lon": -58.1953
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Intendente Alvear",
+    "name": "Azcarate Irastorza Heliport",
+    "icao": "AR-0055",
+    "lat": -35.1994,
+    "lon": -63.6008
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Junin De Los Andes",
+    "name": "Estancia Palitue Heliport",
+    "icao": "AR-0152",
+    "lat": -39.8528,
+    "lon": -71.0464
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "La Carolina",
+    "name": "La Carolina Heliport",
+    "icao": "AR-0221",
+    "lat": -31.3525,
+    "lon": -64.2828
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "La Matanza",
+    "name": "Oficial Subinspector Gustavo Soarez De Souza Heliport",
+    "icao": "AR-0284",
+    "lat": -34.7236,
+    "lon": -58.515
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "La Plata",
+    "name": "D.P.A.O. Heliport",
+    "icao": "AR-0120",
+    "lat": -34.9597,
+    "lon": -57.8928
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "La Plata",
+    "name": "Policlinico San Martin Heliport",
+    "icao": "AR-0300",
+    "lat": -34.9167,
+    "lon": -57.9167
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Las Lajas",
+    "name": "Estancia Haychol Heliport",
+    "icao": "AR-0144",
+    "lat": -38.6481,
+    "lon": -70.6775
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Lujan",
+    "name": "Sol De Agosto Heliport",
+    "icao": "AR-0343",
+    "lat": -34.5331,
+    "lon": -58.9714
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Monte Buey",
+    "name": "Abel Monteverde Heliport",
+    "icao": "AR-0020",
+    "lat": -32.9208,
+    "lon": -62.4663
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "ParanÃ¡",
+    "name": "Hospital Materno Infantil San Roque Heliport",
+    "icao": "AR-0195",
+    "lat": -31.73,
+    "lon": -60.5217
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "Piedra Del Aguila",
+    "name": "Transener S.A. Heliport",
+    "icao": "AR-0363",
+    "lat": -40.1622,
+    "lon": -70.3917
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Pilar",
+    "name": "Memorial Heliport",
+    "icao": "AR-0270",
+    "lat": -34.4433,
+    "lon": -58.8381
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Puelches",
+    "name": "Transener S.A. Heliport",
+    "icao": "AR-0361",
+    "lat": -38.1472,
+    "lon": -65.8228
+  },
+  {
+    "country": "Argentina",
+    "state": "Tierra del Fuego Province",
+    "city": "Rio Cullen",
+    "name": "Austral Heliport",
+    "icao": "AR-0050",
+    "lat": -52.8936,
+    "lon": -68.3553
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Romang",
+    "name": "Transener S.A. Heliport",
+    "icao": "AR-0365",
+    "lat": -29.4606,
+    "lon": -59.7636
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Salta",
+    "name": "Finca Las Costas Heliport",
+    "icao": "AR-0159",
+    "lat": -24.7703,
+    "lon": -65.4956
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "San Carlos De Bariloche",
+    "name": "Complejo Llao Llao Heliport",
+    "icao": "AR-0109",
+    "lat": -41.0544,
+    "lon": -71.5339
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "San Isidro",
+    "name": "Club Nautico San Isidro Heliport",
+    "icao": "AR-0106",
+    "lat": -34.4614,
+    "lon": -58.5003
+  },
+  {
+    "country": "Argentina",
+    "state": "NeuquÃ©n Province",
+    "city": "San Martin De Los Andes",
+    "name": "Estancia La Candelaria Heliport",
+    "icao": "AR-0145",
+    "lat": -40.0442,
+    "lon": -71.3664
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Santa Cruz",
+    "name": "Estancia San RamÃ³n Airport",
+    "icao": "AR-0154",
+    "lat": -50.303495,
+    "lon": -69.926057
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Santa Cruz",
+    "name": "Heliplataforma Carina Heliport",
+    "icao": "AR-0187",
+    "lat": -52.7572,
+    "lon": -67.2194
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Santa Cruz",
+    "name": "Heliplataforma/Am3 Heliport",
+    "icao": "AR-0189",
+    "lat": -52.5228,
+    "lon": -68.2808
+  },
+  {
+    "country": "Argentina",
+    "state": "Tierra del Fuego Province",
+    "city": "Santa Cruz",
+    "name": "Heliplataforma/Rio Cullen-Hidra Norte Heliport",
+    "icao": "AR-0191",
+    "lat": -52.8206,
+    "lon": -68.2192
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Trenque Lauquen",
+    "name": "Estancia La Chacota Heliport",
+    "icao": "AR-0146",
+    "lat": -35.9133,
+    "lon": -62.6417
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Villa Carlos Paz",
+    "name": "Norberto Cordeiro Heliport",
+    "icao": "AR-0283",
+    "lat": -31.4142,
+    "lon": -64.4969
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Villa Rosa",
+    "name": "Las Chacritas Heliport",
+    "icao": "AR-0243",
+    "lat": -34.405,
+    "lon": -58.8631
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Santa Cruz Province",
+    "name": "Heliplataforma Equipo Modular M-10 Heliport",
+    "icao": "AR-0476",
+    "lat": -52.5489,
+    "lon": -68.3119
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Santa Cruz Province",
+    "name": "HipÃ³lito Yrigoyen Lago Posadas Airport",
+    "icao": "AR-0497",
+    "lat": -47.565833,
+    "lon": -71.74
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Chubut Province",
+    "name": "Punta Delgada Field",
+    "icao": "AR-0499",
+    "lat": -42.764154,
+    "lon": -63.643799
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Chubut Province",
+    "name": "Caleta ValdÃ©s Field",
+    "icao": "AR-0501",
+    "lat": -42.454874,
+    "lon": -63.61908
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Chubut Province",
+    "name": "Gan Gan Field",
+    "icao": "AR-0503",
+    "lat": -42.521363,
+    "lon": -68.287861
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Chubut Province",
+    "name": "Cushamen Field",
+    "icao": "AR-0505",
+    "lat": -42.17195981,
+    "lon": -70.666176
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Corrientes Province",
+    "name": "Loma Alta Airport",
+    "icao": "AR-0626",
+    "lat": -29.049088,
+    "lon": -57.081729
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Santa Fe Province",
+    "name": "El Amargo Airport",
+    "icao": "AR-0646",
+    "lat": -28.742,
+    "lon": -61.741233
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Corrientes Province",
+    "name": "Santa Juana Airport",
+    "icao": "AR-0650",
+    "lat": -28.955846,
+    "lon": -56.742668
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Almirante Brown",
+    "name": "D.P. El Vapor Heliport",
+    "icao": "AR-0571",
+    "lat": -34.83467,
+    "lon": -58.38498
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Ameghino",
+    "name": "Augusto Leguizamon Airport",
+    "icao": "AR-0586",
+    "lat": -34.818011,
+    "lon": -62.477107
+  },
+  {
+    "country": "Argentina",
+    "state": "La Rioja Province",
+    "city": "Anillaco",
+    "name": "Anillaco Airport",
+    "icao": "AR-0622",
+    "lat": -28.795111,
+    "lon": -66.914675
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "Arroyo de la Ventana",
+    "name": "Arroyo de la Ventana Airport",
+    "icao": "AR-0613",
+    "lat": -41.669222,
+    "lon": -66.097071
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Ballivian",
+    "name": "Finca Cuchuy Airport",
+    "icao": "AR-0514",
+    "lat": -23.04,
+    "lon": -63.7211
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Barcaza Yagana",
+    "name": "Heliplataforma Barcaza Yagana Heliport",
+    "icao": "AR-0474",
+    "lat": -52.5225,
+    "lon": -68.2806
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Calchin",
+    "name": "Aerocampo CSA airport",
+    "icao": "CSA",
+    "lat": -31.6614544415,
+    "lon": -63.277130127
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "CaÃ±uelas ",
+    "name": "CaÃ±uelas Gas SA Heliport ",
+    "icao": "AR-0487",
+    "lat": -35.0583,
+    "lon": -58.7883
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Capitan Sarmiento",
+    "name": "Estancia La Elisa Airport",
+    "icao": "AR-0630",
+    "lat": -34.038888,
+    "lon": -59.776944
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Carlos Casares",
+    "name": "Ottaviani Airport",
+    "icao": "AR-0591",
+    "lat": -35.648137,
+    "lon": -61.350425
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Catrilo",
+    "name": "Establecimiento La Maria Pilar Airport",
+    "icao": "AR-0518",
+    "lat": -36.488606,
+    "lon": -63.432958
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Copetonas",
+    "name": "Copetonas Airport",
+    "icao": "AR-0592",
+    "lat": -38.743657,
+    "lon": -60.553332
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "CÃ³rdoba",
+    "name": "Berrini Heliport",
+    "icao": "AR-0467",
+    "lat": -31.4397,
+    "lon": -64.3433
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Coronel Bogado",
+    "name": "Agroservicios Airport",
+    "icao": "AR-0519",
+    "lat": -33.2723,
+    "lon": -60.5707
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Corralito",
+    "name": "Alfomso Mengo Airport",
+    "icao": "AR-0520",
+    "lat": -32.02444,
+    "lon": -64.27944
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Corralito",
+    "name": "Don Moises Airport",
+    "icao": "AR-0593",
+    "lat": -32.039622,
+    "lon": -64.192827
+  },
+  {
+    "country": "Argentina",
+    "state": "Corrientes Province",
+    "city": "Corrientes",
+    "name": "Ita Ibate Airport",
+    "icao": "AR-0522",
+    "lat": -27.44833,
+    "lon": -57.422241
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Coy Aike",
+    "name": "Coy Aike Airport",
+    "icao": "AR-0579",
+    "lat": -51.162246,
+    "lon": -69.487675
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "El TrÃ©bol",
+    "name": "Bernardo's Airport",
+    "icao": "AR-0524",
+    "lat": -32.2506,
+    "lon": -61.6519
+  },
+  {
+    "country": "Argentina",
+    "state": "Tierra del Fuego Province",
+    "city": "Estancia Cullen",
+    "name": "Estancia Cullen South Airport",
+    "icao": "AR-0507",
+    "lat": -52.9435,
+    "lon": -68.4021
+  },
+  {
+    "country": "Argentina",
+    "state": "Tierra del Fuego Province",
+    "city": "Estancia El Roble",
+    "name": "Los Robles Airport",
+    "icao": "AR-0510",
+    "lat": -54.069,
+    "lon": -67.6536
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Estancia La Matilde",
+    "name": "Estancia La Matilde Airport",
+    "icao": "AR-0655",
+    "lat": -29.356949,
+    "lon": -59.872313
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Estancia Traill Sureste",
+    "name": "Traill Southeast Airport",
+    "icao": "AR-0641",
+    "lat": -31.922586,
+    "lon": -61.692139
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Fortin Dragones",
+    "name": "El Desafio",
+    "icao": "AR-0526",
+    "lat": -23.2426,
+    "lon": -63.323
+  },
+  {
+    "country": "Argentina",
+    "state": "Chaco Province",
+    "city": "Gancedo",
+    "name": "Agroaire Airport",
+    "icao": "AR-0495",
+    "lat": -27.476346,
+    "lon": -61.624434
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "General Mosconi",
+    "name": "Finca La Hercilia Airport",
+    "icao": "AR-0527",
+    "lat": -22.6147,
+    "lon": -63.662759
+  },
+  {
+    "country": "Argentina",
+    "state": "Chaco Province",
+    "city": "General Pinedo",
+    "name": "Kalbermatter Airport",
+    "icao": "AR-0528",
+    "lat": -27.26028,
+    "lon": -61.47444
+  },
+  {
+    "country": "Argentina",
+    "state": "Formosa Province",
+    "city": "Ingeniero JuÃ¡rez",
+    "name": "Ingeniero JuÃ¡rez Airport",
+    "icao": "AR-0624",
+    "lat": -23.904822,
+    "lon": -61.820092
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "JosÃ© C. Paz",
+    "name": "Dr. Mariano Moreno Heliport",
+    "icao": "AR-0472",
+    "lat": -34.5631,
+    "lon": -58.7903
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "La Banda",
+    "name": "Pernigotti Heliport",
+    "icao": "AR-0479",
+    "lat": -27.7708,
+    "lon": -64.2278
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "La Plata",
+    "name": "Superficie Heliport",
+    "icao": "AR-0573",
+    "lat": -34.90046,
+    "lon": -57.929486
+  },
+  {
+    "country": "Argentina",
+    "state": "La Rioja Province",
+    "city": "La Rioja",
+    "name": "C.A.P.E. Provincial Police Heliport",
+    "icao": "AR-0574",
+    "lat": -29.4356,
+    "lon": -66.8632
+  },
+  {
+    "country": "Argentina",
+    "state": "Formosa Province",
+    "city": "Laguna Blanca",
+    "name": "Colonel Alfonso Airport",
+    "icao": "AR-0583",
+    "lat": -25.130442,
+    "lon": -58.217977
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Lanteri",
+    "name": "Lanteri Airpiort",
+    "icao": "AR-0600",
+    "lat": -28.86085,
+    "lon": -59.673331
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Las Lajitas",
+    "name": "AeroSoluciones Airport",
+    "icao": "AR-0534",
+    "lat": -24.74889,
+    "lon": -64.235
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Las Rosas",
+    "name": "Horizonte Aplicaciones Areas Airport",
+    "icao": "AR-0602",
+    "lat": -32.521761,
+    "lon": -61.550695
+  },
+  {
+    "country": "Argentina",
+    "state": "Misiones Province",
+    "city": "Leandro N. Alem",
+    "name": "S.A.N.A. Heliport",
+    "icao": "AR-0482",
+    "lat": -27.5494,
+    "lon": -55.3336
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Los Amores",
+    "name": "Los Amores NW Airport",
+    "icao": "AR-0645",
+    "lat": -28.069557,
+    "lon": -60.00947
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "Los Juries",
+    "name": "Los Juries Airport",
+    "icao": "AR-0642",
+    "lat": -28.477432,
+    "lon": -62.1226
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Maggiolo",
+    "name": "Samave Airport",
+    "icao": "AR-0603",
+    "lat": -33.786401,
+    "lon": -62.127806
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "MalbrÃ¡n",
+    "name": "MalbrÃ¡n",
+    "icao": "AR-0651",
+    "lat": -29.356369,
+    "lon": -62.451074
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Necochea",
+    "name": "Pulverizaciones Aerosur Airport",
+    "icao": "AR-0538",
+    "lat": -38.576401,
+    "lon": -58.796429
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Pescanas",
+    "name": "El Recuerdo S.R.L. Airport",
+    "icao": "AR-0604",
+    "lat": -33.10549,
+    "lon": -63.192986
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Piamonte",
+    "name": "La Caldonia Airport",
+    "icao": "AR-0616",
+    "lat": -32.1306,
+    "lon": -61.8935
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "PigÃ¼Ã©",
+    "name": "Servicios Aeronauticos",
+    "icao": "AR-0541",
+    "lat": -37.523004,
+    "lon": -62.452319
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Pilar",
+    "name": "Piero Vara Heliport",
+    "icao": "AR-0490",
+    "lat": -34.4328,
+    "lon": -58.9722
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "PiÃ±ero",
+    "name": "Estancia La Carolina Airport",
+    "icao": "AR-0542",
+    "lat": -33.07558,
+    "lon": -60.715
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "Pinto",
+    "name": "Pinto Airport",
+    "icao": "AR-0639",
+    "lat": -29.152266,
+    "lon": -62.675025
+  },
+  {
+    "country": "Argentina",
+    "state": "Salta Province",
+    "city": "Piquete Cabado",
+    "name": "Finca Porvenir 8 Airport",
+    "icao": "AR-0634",
+    "lat": -24.994562,
+    "lon": -64.341664
+  },
+  {
+    "country": "Argentina",
+    "state": "RÃ­o Negro Province",
+    "city": "Puerto San Antonio Este",
+    "name": "Puerto San Antonio Este Airstrip",
+    "icao": "AR-0619",
+    "lat": -40.799532,
+    "lon": -64.864185
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Punta Roja",
+    "name": "Estancia La Elba",
+    "icao": "AR-0606",
+    "lat": -44.5728,
+    "lon": -65.3706
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Reconquista",
+    "name": "La Lola Airport",
+    "icao": "AR-0656",
+    "lat": -29.261898,
+    "lon": -59.736593
+  },
+  {
+    "country": "Argentina",
+    "state": "Mendoza Province",
+    "city": "RÃ­o Colorado",
+    "name": "Vale Airport",
+    "icao": "AR-0544",
+    "lat": -37.06556,
+    "lon": -69.39556
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Roberts",
+    "name": "Fumigaciones Herbinsec Airport",
+    "icao": "AR-0205",
+    "lat": -35.138611,
+    "lon": -62.705278
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Roberts",
+    "name": "La Amalia",
+    "icao": "AR-0546",
+    "lat": -35.10042,
+    "lon": -62.01656
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Rosario",
+    "name": "Unidad Regional II de Polcia Heliport",
+    "icao": "AR-0637",
+    "lat": -32.99354,
+    "lon": -60.674636
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Rufino",
+    "name": "BSG Airport",
+    "icao": "AR-0547",
+    "lat": -34.24968,
+    "lon": -62.67416
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Saforcada",
+    "name": "Parajon Airport",
+    "icao": "AR-0608",
+    "lat": -34.576385,
+    "lon": -61.005748
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Saladillo",
+    "name": "Abelenda Airport",
+    "icao": "AR-0548",
+    "lat": -35.738533,
+    "lon": -59.76201
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "San Javier",
+    "name": "Aeroclub San Javier",
+    "icao": "AR-0550",
+    "lat": -30.5559,
+    "lon": -59.9907
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "San Marcos",
+    "name": "Chialva S. H. Airport",
+    "icao": "AR-0551",
+    "lat": -32.736945,
+    "lon": -62.531378
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "San MartÃ­n",
+    "name": "Cooperativa de Trabajos Portuarios Limitada Heliport",
+    "icao": "AR-0576",
+    "lat": -32.71915,
+    "lon": -60.72636
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "San NicolÃ¡s",
+    "name": "Miguel Colombise Heliport",
+    "icao": "AR-0489",
+    "lat": -33.3617,
+    "lon": -60.2511
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "San NicolÃ¡s de Los Arroyos",
+    "name": "MetalÃºrgico Heliport",
+    "icao": "AR-0477",
+    "lat": -33.3617,
+    "lon": -60.2511
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Santa Elena",
+    "name": "Santa Elena Airport",
+    "icao": "AR-0585",
+    "lat": -30.976069,
+    "lon": -59.776894
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Santa Rosa",
+    "name": "San Alberto Airport",
+    "icao": "AR-0553",
+    "lat": -36.592071,
+    "lon": -64.220437
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "Santiago del Estero",
+    "name": "Edificio Tribunales Helipad",
+    "icao": "AR-0577",
+    "lat": -27.7813,
+    "lon": -64.265
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Sargento Cabral",
+    "name": "CÃ³ndor del Aire Airport",
+    "icao": "AR-0554",
+    "lat": -33.46587,
+    "lon": -60.62854
+  },
+  {
+    "country": "Argentina",
+    "state": "Chubut Province",
+    "city": "Sarmiento",
+    "name": "Colonia Sarmiento Airport",
+    "icao": "AR-0494",
+    "lat": -45.582371,
+    "lon": -68.999841
+  },
+  {
+    "country": "Argentina",
+    "state": "Entre RÃ­os Province",
+    "city": "Tabossi",
+    "name": "El Ocho Airstrip",
+    "icao": "AR-0617",
+    "lat": -31.799689,
+    "lon": -59.703579
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "TacaÃ±itas",
+    "name": "Estancia Los Pocitos Airport",
+    "icao": "AR-0647",
+    "lat": -28.564387,
+    "lon": -62.524781
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Tandil",
+    "name": "Estancia La Pascuala Heliport",
+    "icao": "AR-0473",
+    "lat": -37.3936,
+    "lon": -58.9661
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "Termas de RÃ­o Hondo",
+    "name": "Termas de RÃ­o Hondo international Airport",
+    "icao": "SANR",
+    "lat": -27.4966,
+    "lon": -64.93595
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Tigre",
+    "name": "Villa La Ã‘ata Heliport",
+    "icao": "AR-0578",
+    "lat": -34.37527,
+    "lon": -58.65576
+  },
+  {
+    "country": "Argentina",
+    "state": "Santiago del Estero Province",
+    "city": "Tintina",
+    "name": "Establecimiento El 21 Airport",
+    "icao": "AR-0556",
+    "lat": -26.8952,
+    "lon": -62.30962
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "TÃ­o Pujio",
+    "name": "TÃ­o Pujio Airport",
+    "icao": "AR-0557",
+    "lat": -32.29307,
+    "lon": -63.40197
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Fe Province",
+    "city": "Tostado",
+    "name": "Agrodistribuidora Airstrip",
+    "icao": "AR-0654",
+    "lat": -29.220089,
+    "lon": -61.760298
+  },
+  {
+    "country": "Argentina",
+    "state": "Santa Cruz Province",
+    "city": "Tres Cerros",
+    "name": "Tres Cerros Airport",
+    "icao": "AR-0611",
+    "lat": -48.138678,
+    "lon": -67.655065
+  },
+  {
+    "country": "Argentina",
+    "state": "La Pampa Province",
+    "city": "Uriburu",
+    "name": "Estancia Los Lobles Airport",
+    "icao": "AR-0559",
+    "lat": -36.552913,
+    "lon": -63.766652
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "VicuÃ±a Mackenna",
+    "name": "Beneficios S.R.L. Airport",
+    "icao": "AR-0563",
+    "lat": -33.93759,
+    "lon": -64.415095
+  },
+  {
+    "country": "Argentina",
+    "state": "Buenos Aires Province",
+    "city": "Vienticinco de Mayo",
+    "name": "Servicios Agroaereos Airport",
+    "icao": "AR-0561",
+    "lat": -35.449205,
+    "lon": -60.160708
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Villa de MarÃ­a de RÃ­o Seco",
+    "name": "Villa de MarÃ­a de RÃ­o Seco Airport",
+    "icao": "AR-0342",
+    "lat": -29.9,
+    "lon": -63.683
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Villa Nueva",
+    "name": "RAIG S.A. Airport",
+    "icao": "AR-0568",
+    "lat": -32.4382,
+    "lon": -63.2893
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Villa Valeria",
+    "name": "Villa Valeria Airport",
+    "icao": "AR-0570",
+    "lat": -34.35653,
+    "lon": -64.90136
+  },
+  {
+    "country": "Argentina",
+    "state": "CÃ³rdoba Province",
+    "city": "Yacanto de Calamuchita",
+    "name": "Roca Heliport",
+    "icao": "AR-0481",
+    "lat": -32.06,
+    "lon": -64.7794
+  }
+]

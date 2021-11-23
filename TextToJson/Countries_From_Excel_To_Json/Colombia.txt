@@ -1,0 +1,3251 @@
+[
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Bogota",
+    "name": "El Dorado International Airport",
+    "icao": "SKBO",
+    "lat": 4.70159,
+    "lon": -74.1469
+  },
+  {
+    "country": "Colombia",
+    "state": "Boli­var Department",
+    "city": "Cartagena",
+    "name": "Rafael Nuiez International Airport",
+    "icao": "SKCG",
+    "lat": 10.4424,
+    "lon": -75.513
+  },
+  {
+    "country": "Colombia",
+    "state": "Antioqua Department",
+    "city": "Medelli­n",
+    "name": "Jose Maria Cordova International Airport",
+    "icao": "SKRG",
+    "lat": 6.16454,
+    "lon": -75.4231
+  },
+  {
+    "country": "Colombia",
+    "state": "AtlÃ¡ntico Department",
+    "city": "Barranquilla",
+    "name": "Ernesto Cortissoz International Airport",
+    "icao": "SKBQ",
+    "lat": 10.8896,
+    "lon": -74.7808
+  },
+  {
+    "country": "Colombia",
+    "state": "Risaralda Department",
+    "city": "Pereira",
+    "name": "MatecaÃ±a International Airport",
+    "icao": "SKPE",
+    "lat": 4.81267,
+    "lon": -75.7395
+  },
+  {
+    "country": "Colombia",
+    "state": "Caldas Department",
+    "city": "Manizales",
+    "name": "La Nubia Airport",
+    "icao": "SKMZ",
+    "lat": 5.0296,
+    "lon": -75.4647
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "MedellÃ­n",
+    "name": "Enrique Olaya Herrera Airport",
+    "icao": "SKMD",
+    "lat": 6.220549,
+    "lon": -75.590582
+  },
+  {
+    "country": "Colombia",
+    "state": "Quindio Department",
+    "city": "Armenia",
+    "name": "El Eden Airport",
+    "icao": "SKAR",
+    "lat": 4.45278,
+    "lon": -75.7664
+  },
+  {
+    "country": "Colombia",
+    "state": "Norte de Santander Department",
+    "city": "CÃºcuta",
+    "name": "Camilo Daza International Airport",
+    "icao": "SKCC",
+    "lat": 7.92757,
+    "lon": -72.5115
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Bucaramanga",
+    "name": "Palonegro Airport",
+    "icao": "SKBG",
+    "lat": 7.1265,
+    "lon": -73.1848
+  },
+  {
+    "country": "Colombia",
+    "state": "NariÃ±o Department",
+    "city": "Pasto",
+    "name": "Antonio Narino Airport",
+    "icao": "SKPS",
+    "lat": 1.39625,
+    "lon": -77.2915
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Villavicencio",
+    "name": "Vanguardia Airport",
+    "icao": "SKVV",
+    "lat": 4.16787,
+    "lon": -73.6138
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Alvarado",
+    "name": "Leticia Airport",
+    "icao": "SK-429",
+    "lat": 4.463611,
+    "lon": -75.033611
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Obando",
+    "name": "Praga Airport",
+    "icao": "SK-464",
+    "lat": 4.589167,
+    "lon": -75.981667
+  },
+  {
+    "country": "Colombia",
+    "state": "Arauca Department",
+    "city": "Arauca",
+    "name": "Santiago Perez Airport",
+    "icao": "SKUC",
+    "lat": 7.06888,
+    "lon": -70.7369
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "BahÃ­a Solano",
+    "name": "JosÃ© Celestino Mutis Airport",
+    "icao": "SKBS",
+    "lat": 6.20292,
+    "lon": -77.3947
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Barrancabermeja",
+    "name": "YariguÃ­es Airport",
+    "icao": "SKEJ",
+    "lat": 7.02433,
+    "lon": -73.8068
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Buenaventura",
+    "name": "Gerardo Tobar LÃ³pez Airport",
+    "icao": "SKBU",
+    "lat": 3.81963,
+    "lon": -76.9898
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Cartago",
+    "name": "Santa Ana Airport",
+    "icao": "SKGO",
+    "lat": 4.75818,
+    "lon": -75.9557
+  },
+  {
+    "country": "Colombia",
+    "state": "Sucre Department",
+    "city": "Corozal",
+    "name": "Las Brujas Airport",
+    "icao": "SKCZ",
+    "lat": 9.33274,
+    "lon": -75.2856
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "El Yopal",
+    "name": "El Yopal Airport",
+    "icao": "SKYP",
+    "lat": 5.31911,
+    "lon": -72.384
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "IbaguÃ©",
+    "name": "Perales Airport",
+    "icao": "SKIB",
+    "lat": 4.42161,
+    "lon": -75.1333
+  },
+  {
+    "country": "Colombia",
+    "state": "NariÃ±o Department",
+    "city": "Ipiales",
+    "name": "San Luis Airport",
+    "icao": "SKIP",
+    "lat": 0.861925,
+    "lon": -77.6718
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "MonterÃ­a",
+    "name": "Los Garzones Airport",
+    "icao": "SKMR",
+    "lat": 8.82374,
+    "lon": -75.8258
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Neiva",
+    "name": "Benito Salas Airport",
+    "icao": "SKNV",
+    "lat": 2.95015,
+    "lon": -75.294
+  },
+  {
+    "country": "Colombia",
+    "state": "GuainÃ­a Department",
+    "city": "Puerto InÃ­rida",
+    "name": "Obando Airport",
+    "icao": "SKPD",
+    "lat": 3.85353,
+    "lon": -67.9062
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "QuibdÃ³",
+    "name": "El CaraÃ±o Airport",
+    "icao": "SKUI",
+    "lat": 5.69076,
+    "lon": -76.6412
+  },
+  {
+    "country": "Colombia",
+    "state": "La Guajira Department",
+    "city": "Riohacha",
+    "name": "Almirante Padilla Airport",
+    "icao": "SKRH",
+    "lat": 11.5262,
+    "lon": -72.926
+  },
+  {
+    "country": "Colombia",
+    "state": "Guaviare Department",
+    "city": "San JosÃ© Del Guaviare",
+    "name": "Jorge E. Gonzalez Torres Airport",
+    "icao": "SKSJ",
+    "lat": 2.57969,
+    "lon": -72.6394
+  },
+  {
+    "country": "Colombia",
+    "state": "NariÃ±o Department",
+    "city": "Tumaco",
+    "name": "La Florida Airport",
+    "icao": "SKCO",
+    "lat": 1.81442,
+    "lon": -78.7492
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Valledupar",
+    "name": "Alfonso LÃ³pez Pumarejo Airport",
+    "icao": "SKVP",
+    "lat": 10.435,
+    "lon": -73.2495
+  },
+  {
+    "country": "Colombia",
+    "state": "Amazonas Department",
+    "city": "La Pedrera",
+    "name": "La Pedrera Airport",
+    "icao": "SKLP",
+    "lat": -1.32861,
+    "lon": -69.5797
+  },
+  {
+    "country": "Colombia",
+    "state": "Putumayo Department",
+    "city": "Puerto LeguÃ­zamo",
+    "name": "Caucaya Airport",
+    "icao": "SKLG",
+    "lat": -0.182278,
+    "lon": -74.7708
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Carepa",
+    "name": "Antonio Roldan Betancourt Airport",
+    "icao": "SKLC",
+    "lat": 7.81196,
+    "lon": -76.7164
+  },
+  {
+    "country": "Colombia",
+    "state": "Sucre Department",
+    "city": "CoveÃ±as",
+    "name": "CoveÃ±as Airport",
+    "icao": "SKCV",
+    "lat": 9.40092,
+    "lon": -75.6913
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "El Banco",
+    "name": "Las Flores Airport",
+    "icao": "SKBC",
+    "lat": 9.04554,
+    "lon": -73.9749
+  },
+  {
+    "country": "Colombia",
+    "state": "BolÃ­var Department",
+    "city": "MaganguÃ©",
+    "name": "Baracoa Airport",
+    "icao": "SKMG",
+    "lat": 9.28474,
+    "lon": -74.8461
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Mariquita",
+    "name": "Mariquita Airport",
+    "icao": "SKQU",
+    "lat": 5.21256,
+    "lon": -74.8836
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Remedios",
+    "name": "Otu Airport",
+    "icao": "SKOT",
+    "lat": 7.01037,
+    "lon": -74.7155
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "TuluÃ¡",
+    "name": "Heriberto GÃ­l MartÃ­nez Airport",
+    "icao": "SKUL",
+    "lat": 4.08836,
+    "lon": -76.2351
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Acacias",
+    "name": "Quebraditas Airport",
+    "icao": "SK-336",
+    "lat": 3.945278,
+    "lon": -73.536667
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "AcandÃ­",
+    "name": "Alcides FernÃ¡ndez Airport",
+    "icao": "SKAD",
+    "lat": 8.51667,
+    "lon": -77.3
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Acaricuara",
+    "name": "Acaricuara Airport",
+    "icao": "SK-471",
+    "lat": 0.533333,
+    "lon": -70.133333
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Aguachica",
+    "name": "El ParaÃ­so Airport",
+    "icao": "AGI",
+    "lat": 8.128611,
+    "lon": -73.584722
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Aguachica",
+    "name": "Calima Airport",
+    "icao": "SK-150",
+    "lat": 8.283333,
+    "lon": -73.645833
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Aguazul",
+    "name": "El Porvenir Airport",
+    "icao": "SK-069",
+    "lat": 5.199722,
+    "lon": -72.406667
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Aguazul",
+    "name": "MarÃ­aangÃ©lica Airport",
+    "icao": "SK-107",
+    "lat": 5.054167,
+    "lon": -72.445278
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Aguazul",
+    "name": "Fasca Main Base Airport",
+    "icao": "SK-077",
+    "lat": 5.155278,
+    "lon": -72.520833
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Alvarado",
+    "name": "Ventaquemada Airport",
+    "icao": "SK-446",
+    "lat": 4.516667,
+    "lon": -74.983333
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Amalfi",
+    "name": "Amalfi Airport",
+    "icao": "SKAM",
+    "lat": 6.91667,
+    "lon": -75.0667
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Ambalema",
+    "name": "El Santuario Airport",
+    "icao": "SK-414",
+    "lat": 4.905278,
+    "lon": -74.785
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Ambalema",
+    "name": "Pajonales Airport",
+    "icao": "SK-433",
+    "lat": 4.759444,
+    "lon": -74.833056
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Andes",
+    "name": "Andes Airport",
+    "icao": "SKAN",
+    "lat": 5.69764,
+    "lon": -75.88038
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Apartado",
+    "name": "Los Planes Airport",
+    "icao": "SK-011",
+    "lat": 7.836111,
+    "lon": -76.647778
+  },
+  {
+    "country": "Colombia",
+    "state": "Amazonas Department",
+    "city": "Arica",
+    "name": "Arica Airport",
+    "icao": "SK-001",
+    "lat": -2.14543733597,
+    "lon": -71.7580604553
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Armenia",
+    "name": "Puerto Nare Airport",
+    "icao": "SKPN",
+    "lat": 6.21002,
+    "lon": -74.5906
+  },
+  {
+    "country": "Colombia",
+    "state": "Quindio Department",
+    "city": "Armenia",
+    "name": "Portugalito Airport",
+    "icao": "SK-374",
+    "lat": 4.385833,
+    "lon": -75.767778
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "Ayapel",
+    "name": "La ConcepciÃ³n Airport",
+    "icao": "SK-201",
+    "lat": 8.119444,
+    "lon": -75.008611
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "Ayapel",
+    "name": "Ayapel Airport",
+    "icao": "SK-198",
+    "lat": 8.3,
+    "lon": -75.15
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "BahÃ­a Cupica",
+    "name": "Bahia Cupica Airport",
+    "icao": "SK-189",
+    "lat": 6.55,
+    "lon": -77.3263
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "Bajo Baud0",
+    "name": "Pizarro Airport",
+    "icao": "SK-195",
+    "lat": 4.975,
+    "lon": -77.375
+  },
+  {
+    "country": "Colombia",
+    "state": "Risaralda Department",
+    "city": "Balboa",
+    "name": "Ingenio Risaralda Airport",
+    "icao": "SK-376",
+    "lat": 4.895556,
+    "lon": -75.915833
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Barranca Bermeja",
+    "name": "La Cascajera Airport",
+    "icao": "SK-385",
+    "lat": 7.171111,
+    "lon": -73.579722
+  },
+  {
+    "country": "Colombia",
+    "state": "La Guajira Department",
+    "city": "Barrancas",
+    "name": "Oreganal Airport",
+    "icao": "SK-251",
+    "lat": 10.979444,
+    "lon": -72.739444
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Barranco Minas",
+    "name": "Barranco Minas Airport",
+    "icao": "SK-209",
+    "lat": 3.483333,
+    "lon": -69.8
+  },
+  {
+    "country": "Colombia",
+    "state": "BolÃ­var Department",
+    "city": "Bayunca",
+    "name": "El Tambo Airport",
+    "icao": "SK-032",
+    "lat": 10.481667,
+    "lon": -75.413611
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Beltran",
+    "name": "Colombaima Airport",
+    "icao": "SK-210",
+    "lat": 4.739167,
+    "lon": -74.805
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Bosconia",
+    "name": "La Palma Airport",
+    "icao": "SK-173",
+    "lat": 9.839444,
+    "lon": -73.867222
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Bosconia",
+    "name": "San Martin Airport",
+    "icao": "SK-184",
+    "lat": 9.955556,
+    "lon": -73.875556
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Buga La Grande",
+    "name": "San Pablo Airport",
+    "icao": "SK-468",
+    "lat": 4.201667,
+    "lon": -76.016944
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Cabuyaro",
+    "name": "Petriba(Guayabal) Airport",
+    "icao": "SK-332",
+    "lat": 4.361667,
+    "lon": -72.827778
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Cabuyaro",
+    "name": "La Arabia Airport",
+    "icao": "SK-296",
+    "lat": 4.393333,
+    "lon": -72.989167
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Cabuyaro",
+    "name": "Yalconia Airport",
+    "icao": "SK-357",
+    "lat": 4.335,
+    "lon": -73.045833
+  },
+  {
+    "country": "Colombia",
+    "state": "Cauca Department",
+    "city": "Caloto",
+    "name": "La Arrobleda Airport",
+    "icao": "SK-138",
+    "lat": 3.125,
+    "lon": -76.431667
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "CampiÃ±a",
+    "name": "Herrera Airport",
+    "icao": "SK-422",
+    "lat": 3.216667,
+    "lon": -75.85
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Campo Alegre",
+    "name": "El Viso Airport",
+    "icao": "SK-235",
+    "lat": 2.734167,
+    "lon": -75.331944
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Campo Alegre",
+    "name": "El Limonar Airport",
+    "icao": "SK-234",
+    "lat": 2.626944,
+    "lon": -75.356944
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Candelaria",
+    "name": "Ingenio Mayaguez Airport",
+    "icao": "SK-455",
+    "lat": 3.395,
+    "lon": -76.326944
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Candelaria",
+    "name": "La Esmeralda Airport",
+    "icao": "SK-459",
+    "lat": 3.379722,
+    "lon": -76.398889
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "CapurganÃ¡",
+    "name": "CapurganÃ¡ Airport",
+    "icao": "SKCA",
+    "lat": 8.63333,
+    "lon": -77.35
+  },
+  {
+    "country": "Colombia",
+    "state": "BolÃ­var Department",
+    "city": "Carmen De Bolivar",
+    "name": "Carmen De Bolivar Airport",
+    "icao": "SKCB",
+    "lat": 9.68417,
+    "lon": -75.1261
+  },
+  {
+    "country": "Colombia",
+    "state": "CaquetÃ¡ Department",
+    "city": "Cartagena Del Chiara",
+    "name": "El PacÃ­fico Airport",
+    "icao": "SKCH",
+    "lat": 1.35,
+    "lon": -74.84
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "CarurÃº",
+    "name": "CarurÃº Airport",
+    "icao": "SKCR",
+    "lat": 1.0136,
+    "lon": -71.2961
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Castilla La Nueva",
+    "name": "La Union Airport",
+    "icao": "SK-313",
+    "lat": 3.331667,
+    "lon": -73.295
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Castilla La Nueva",
+    "name": "San Vicente Airport",
+    "icao": "SK-345",
+    "lat": 3.840833,
+    "lon": -73.456389
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Castilla La Nueva",
+    "name": "El Ruby Airport",
+    "icao": "SK-287",
+    "lat": 3.781111,
+    "lon": -73.481667
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "Cerete",
+    "name": "Los Mochuelos Airport",
+    "icao": "SK-203",
+    "lat": 8.91,
+    "lon": -75.799167
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "ChigorodÃ³",
+    "name": "ChigorodÃ³ Airport",
+    "icao": "SKIG",
+    "lat": 7.68038,
+    "lon": -76.6865
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "Chivolo",
+    "name": "Chivolo Airport",
+    "icao": "SK-256",
+    "lat": 10.016667,
+    "lon": -74.683333
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "CiÃ©naga",
+    "name": "La Ceiba Airport",
+    "icao": "SK-263",
+    "lat": 10.788056,
+    "lon": -74.104444
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "CiÃ©naga",
+    "name": "La Fe Airport",
+    "icao": "SK-266",
+    "lat": 10.854722,
+    "lon": -74.171111
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "CiÃ©naga",
+    "name": "La Ye Airport",
+    "icao": "SK-269",
+    "lat": 11.0025,
+    "lon": -74.211667
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Cimitarra",
+    "name": "Cimitarra Airport",
+    "icao": "SKCM",
+    "lat": 6.367,
+    "lon": -73.967
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Codazzi",
+    "name": "Monteliban Airport",
+    "icao": "SK-178",
+    "lat": 9.886389,
+    "lon": -73.2425
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Codazzi",
+    "name": "Casacara Cayta Airport",
+    "icao": "SK-152",
+    "lat": 9.928056,
+    "lon": -73.253056
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Codazzi",
+    "name": "Ana MarÃ­a Airport",
+    "icao": "SK-143",
+    "lat": 10.0375,
+    "lon": -73.283611
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Codazzi",
+    "name": "La Dilia Airport",
+    "icao": "SK-166",
+    "lat": 9.895,
+    "lon": -73.408889
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "Condoto",
+    "name": "Mandinga Airport",
+    "icao": "SKCD",
+    "lat": 5.08333,
+    "lon": -76.7
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Costa Rica",
+    "name": "La Primavera Airport",
+    "icao": "SK-462",
+    "lat": 3.733333,
+    "lon": -76.216667
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Coyaima",
+    "name": "Tamarindo Airport",
+    "icao": "SK-443",
+    "lat": 3.790278,
+    "lon": -75.081111
+  },
+  {
+    "country": "Colombia",
+    "state": "Norte de Santander Department",
+    "city": "CÃºcuta",
+    "name": "Cinera Airport",
+    "icao": "SK-368",
+    "lat": 8.2,
+    "lon": -72.5
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Cumaral",
+    "name": "La MarÃ­a Airport",
+    "icao": "SK-309",
+    "lat": 4.241389,
+    "lon": -73.217222
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Cumaral",
+    "name": "UmbrÃ­a Airport",
+    "icao": "SK-353",
+    "lat": 4.190556,
+    "lon": -73.261111
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "Cumaribo",
+    "name": "Cumaribo Airport",
+    "icao": "SK-514",
+    "lat": 4.4483,
+    "lon": -69.7807
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Darien",
+    "name": "Darien Calima Airport",
+    "icao": "SK-451",
+    "lat": 3.95,
+    "lon": -76.516667
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "El Carmen",
+    "name": "El Carmen Airport",
+    "icao": "SK-381",
+    "lat": 6.740556,
+    "lon": -73.554444
+  },
+  {
+    "country": "Colombia",
+    "state": "NariÃ±o Department",
+    "city": "El Charco",
+    "name": "Los Mulatos Airport",
+    "icao": "SK-363",
+    "lat": 2.65,
+    "lon": -78.3
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "El Copey",
+    "name": "Bethania Airport",
+    "icao": "SK-147",
+    "lat": 10.116667,
+    "lon": -74.425
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "El Espinal",
+    "name": "Aniversario Estra Airport",
+    "icao": "SK-401",
+    "lat": 4.123056,
+    "lon": -74.910833
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "El Guamo",
+    "name": "La Bastilla Airport",
+    "icao": "SK-424",
+    "lat": 4.093333,
+    "lon": -74.910278
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "El Paso",
+    "name": "La Irlanda Airport",
+    "icao": "SK-169",
+    "lat": 9.619722,
+    "lon": -73.630833
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "El Socorro",
+    "name": "Comuneros Airport",
+    "icao": "SK-380",
+    "lat": 6.386667,
+    "lon": -73.256389
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Espinal",
+    "name": "Nueva York Airport",
+    "icao": "SK-432",
+    "lat": 4.133333,
+    "lon": -74.9
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Flandes",
+    "name": "Aerosport Airport",
+    "icao": "SK-398",
+    "lat": 4.183889,
+    "lon": -74.834722
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Flandes",
+    "name": "San JerÃ³nimo Airport",
+    "icao": "SK-440",
+    "lat": 4.376389,
+    "lon": -74.9
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Fuente De Oro",
+    "name": "CaÃ±o Blanco Airport",
+    "icao": "SK-276",
+    "lat": 3.29,
+    "lon": -73.463333
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Fuente De Oro",
+    "name": "La Luna Airport",
+    "icao": "SK-306",
+    "lat": 3.449167,
+    "lon": -73.584444
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Fuente De Oro",
+    "name": "Halcones Airport",
+    "icao": "SK-294",
+    "lat": 3.373056,
+    "lon": -73.613333
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Fuente De Oro",
+    "name": "Majagual Airport",
+    "icao": "SK-323",
+    "lat": 3.390278,
+    "lon": -73.696389
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "FundaciÃ³n",
+    "name": "Algarrobo Airport",
+    "icao": "SK-255",
+    "lat": 10.235833,
+    "lon": -74.053611
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Gamarra",
+    "name": "Germania Airport",
+    "icao": "SK-161",
+    "lat": 8.333333,
+    "lon": -73.695
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "GarzÃ³n",
+    "name": "San Francisco Airport",
+    "icao": "SK-242",
+    "lat": 2.305,
+    "lon": -75.644444
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Granada",
+    "name": "El Progreso Airport",
+    "icao": "SK-283",
+    "lat": 3.480556,
+    "lon": -73.734444
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Guacari",
+    "name": "San Gerardo Airport",
+    "icao": "SK-466",
+    "lat": 3.633333,
+    "lon": -76.316667
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Guacari",
+    "name": "La .Estrella Airport",
+    "icao": "SK-457",
+    "lat": 3.763056,
+    "lon": -76.349722
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "Guamal",
+    "name": "Guamal Airport",
+    "icao": "SK-261",
+    "lat": 9.15,
+    "lon": -74.233333
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Hato Corozal",
+    "name": "Hato Corozal Airport",
+    "icao": "SKHC",
+    "lat": 6.15,
+    "lon": -71.75
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Hato Corozal",
+    "name": "El Danubio Airport",
+    "icao": "SK-065",
+    "lat": 6.261111,
+    "lon": -71.224722
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Honda",
+    "name": "GanaderÃ­a Airport",
+    "icao": "SK-417",
+    "lat": 5.170278,
+    "lon": -74.764167
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Ibague",
+    "name": "El ParaÃ­so Airport",
+    "icao": "SK-412",
+    "lat": 4.386667,
+    "lon": -75.023333
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Ibague",
+    "name": "El Escobal Airport",
+    "icao": "SK-410",
+    "lat": 4.395556,
+    "lon": -75.070833
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Ibague",
+    "name": "Hato De Opia Airport",
+    "icao": "SK-421",
+    "lat": 4.421667,
+    "lon": -75.083056
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Ibague",
+    "name": "Cruz Verde Airport",
+    "icao": "SK-407",
+    "lat": 4.41,
+    "lon": -75.14
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "Jurado",
+    "name": "Cabo Marzo Airport",
+    "icao": "SK-190",
+    "lat": 6.881389,
+    "lon": -77.680556
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Jurado",
+    "name": "Jurado Airport",
+    "icao": "SK-008",
+    "lat": 6.516667,
+    "lon": -76.6
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "La Gloria",
+    "name": "Las Tapias Airport",
+    "icao": "SK-175",
+    "lat": 8.686667,
+    "lon": -73.765278
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "La Jagua De Ibirico",
+    "name": "Cerro De Piedra Airport",
+    "icao": "SK-153",
+    "lat": 9.562222,
+    "lon": -73.293889
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "La Loma",
+    "name": "Elborrego Airport",
+    "icao": "SK-158",
+    "lat": 9.587778,
+    "lon": -73.455278
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "La Primavera",
+    "name": "El GavilÃ¡n Airport",
+    "icao": "SK-516",
+    "lat": 5.226667,
+    "lon": -69.737222
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "La Primavera",
+    "name": "Rancho Alegre Airport",
+    "icao": "SK-525",
+    "lat": 5.322778,
+    "lon": -69.950556
+  },
+  {
+    "country": "Colombia",
+    "state": "Quindio Department",
+    "city": "La Tebaida",
+    "name": "Las Gaviotas Airport",
+    "icao": "SK-373",
+    "lat": 4.428056,
+    "lon": -75.796944
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "Las Gaviotas",
+    "name": "Las Gaviotas Airport",
+    "icao": "SK-523",
+    "lat": 4.583333,
+    "lon": -70.833333
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "LÃ©rida",
+    "name": "Hacienda GarcÃ­a Airport",
+    "icao": "SK-420",
+    "lat": 4.853889,
+    "lon": -74.889167
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "LÃ©rida",
+    "name": "La Carmelita Airport",
+    "icao": "SK-425",
+    "lat": 4.816111,
+    "lon": -74.931944
+  },
+  {
+    "country": "Colombia",
+    "state": "BolÃ­var Department",
+    "city": "LimÃ³n",
+    "name": "Cicuco Airport",
+    "icao": "SKIO",
+    "lat": 9.26878,
+    "lon": -74.6523
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "Lorica",
+    "name": "San Pablo Airport",
+    "icao": "SK-205",
+    "lat": 9.033333,
+    "lon": -75.7
+  },
+  {
+    "country": "Colombia",
+    "state": "GuainÃ­a Department",
+    "city": "Macanal",
+    "name": "Macanal Airport",
+    "icao": "SK-223",
+    "lat": 2.566667,
+    "lon": -67.583333
+  },
+  {
+    "country": "Colombia",
+    "state": "NariÃ±o Department",
+    "city": "MaguÃ­ PayÃ¡n",
+    "name": "MaguÃ­ PayÃ¡n Airport",
+    "icao": "SK-364",
+    "lat": 1.746389,
+    "lon": -78.165
+  },
+  {
+    "country": "Colombia",
+    "state": "La Guajira Department",
+    "city": "Maicao",
+    "name": "Maicao Airport",
+    "icao": "SKMJ",
+    "lat": 11.3899,
+    "lon": -72.239197
+  },
+  {
+    "country": "Colombia",
+    "state": "AtlÃ¡ntico Department",
+    "city": "ManatÃ­",
+    "name": "El Esfuerzo Airport",
+    "icao": "SK-030",
+    "lat": 10.4552,
+    "lon": -74.9623
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "ManÃ­",
+    "name": "Casanare Airport",
+    "icao": "SKMN",
+    "lat": 4.83333,
+    "lon": -72.2667
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "ManÃ­",
+    "name": "Estero Airport",
+    "icao": "SK-076",
+    "lat": 4.676389,
+    "lon": -72.123611
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "ManÃ­",
+    "name": "Villa Andrea Airport",
+    "icao": "SK-135",
+    "lat": 4.792778,
+    "lon": -72.234444
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "ManÃ­",
+    "name": "TÃ­o Bayo Airport",
+    "icao": "SK-132",
+    "lat": 4.884722,
+    "lon": -72.366944
+  },
+  {
+    "country": "Colombia",
+    "state": "BolÃ­var Department",
+    "city": "MarÃ­a La Baja",
+    "name": "San Pablo - Incora Airport",
+    "icao": "SK-037",
+    "lat": 10.047222,
+    "lon": -75.265278
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Melgar",
+    "name": "Melgar Air Base",
+    "icao": "SKME",
+    "lat": 4.21644,
+    "lon": -74.635
+  },
+  {
+    "country": "Colombia",
+    "state": "Cauca Department",
+    "city": "Micay",
+    "name": "Lopez De Micay Airport",
+    "icao": "SK-140",
+    "lat": 3.04318,
+    "lon": -77.5522
+  },
+  {
+    "country": "Colombia",
+    "state": "Guaviare Department",
+    "city": "Miraflores",
+    "name": "Lagos Del Dorado Airport",
+    "icao": "SK-227",
+    "lat": 1.21,
+    "lon": -71.955
+  },
+  {
+    "country": "Colombia",
+    "state": "Guaviare Department",
+    "city": "Miraflores",
+    "name": "Tres RÃ­os Airport",
+    "icao": "SK-230",
+    "lat": 1.206389,
+    "lon": -72.7325
+  },
+  {
+    "country": "Colombia",
+    "state": "Cauca Department",
+    "city": "Miranda",
+    "name": "Ingenio Incauca Airport",
+    "icao": "SK-137",
+    "lat": 3.268889,
+    "lon": -76.333889
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Teresita Airport",
+    "icao": "SK-500",
+    "lat": 0.738056,
+    "lon": -69.471389
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Wainambi Airport",
+    "icao": "SK-506",
+    "lat": 0.866667,
+    "lon": -69.617222
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Kamanaos Airport",
+    "icao": "SK-479",
+    "lat": 1.726111,
+    "lon": -69.845278
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Santa LucÃ­a Airport",
+    "icao": "SK-495",
+    "lat": 1.3825,
+    "lon": -70.006667
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Los Angele Airport",
+    "icao": "SK-480",
+    "lat": 0.576389,
+    "lon": -70.129722
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Tiquie Airport",
+    "icao": "SK-501",
+    "lat": 0.234167,
+    "lon": -70.168889
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Santa Isabel Airport",
+    "icao": "SK-494",
+    "lat": 0.117778,
+    "lon": -70.193056
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "San Gerardo Airport",
+    "icao": "SK-490",
+    "lat": 0.769722,
+    "lon": -70.284722
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Piedra Ã‘i Airport",
+    "icao": "SK-487",
+    "lat": 0.108611,
+    "lon": -70.326944
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Yapu Airport",
+    "icao": "SK-509",
+    "lat": 0.621667,
+    "lon": -70.351667
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Santa Rita Airport",
+    "icao": "SK-496",
+    "lat": 1.652778,
+    "lon": -70.409722
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Cano ColÃ³ Airport",
+    "icao": "SK-477",
+    "lat": 0.365,
+    "lon": -70.443333
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "San Miguel Airport",
+    "icao": "SK-492",
+    "lat": 0.003889,
+    "lon": -70.497222
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Papunagu Airport",
+    "icao": "SK-486",
+    "lat": 1.907222,
+    "lon": -70.761944
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Cananari Airport",
+    "icao": "SK-476",
+    "lat": 0.545,
+    "lon": -70.928611
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Mitu",
+    "name": "Villa Gladys Airport",
+    "icao": "SK-503",
+    "lat": 0.260556,
+    "lon": -71.356389
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Monfort",
+    "name": "Monfort Airport",
+    "icao": "SK-481",
+    "lat": 0.633333,
+    "lon": -69.75
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "MontelÃ­bano",
+    "name": "Montelibano Airport",
+    "icao": "SKML",
+    "lat": 7.97174,
+    "lon": -75.4325
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Monterrey",
+    "name": "Monterrey Airport",
+    "icao": "SK-109",
+    "lat": 4.906926,
+    "lon": -72.894809
+  },
+  {
+    "country": "Colombia",
+    "state": "Guaviare Department",
+    "city": "Morichal",
+    "name": "Morichal Papanagu Airport",
+    "icao": "SK-228",
+    "lat": 2.0,
+    "lon": -70.883333
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Murindo",
+    "name": "VigÃ­a Del Fuerte Airport",
+    "icao": "SK-025",
+    "lat": 6.583333,
+    "lon": -76.883333
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Mutata",
+    "name": "Mutata Airport",
+    "icao": "SK-014",
+    "lat": 7.253611,
+    "lon": -76.448611
+  },
+  {
+    "country": "Colombia",
+    "state": "BoyacÃ¡ Department",
+    "city": "Muzo",
+    "name": "Muzo Airport",
+    "icao": "SK-040",
+    "lat": 5.547222,
+    "lon": -74.112778
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Natagaima",
+    "name": "San GermÃ¡n Airport",
+    "icao": "SK-438",
+    "lat": 3.650833,
+    "lon": -75.100278
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Nueva Fortuna",
+    "name": "Nueva Fortuna Airport",
+    "icao": "SK-015",
+    "lat": 8.616667,
+    "lon": -76.666667
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Nunchia",
+    "name": "Bizerta Airport",
+    "icao": "SK-052",
+    "lat": 5.4225,
+    "lon": -71.993611
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Nunchia",
+    "name": "Palma Rosa Airport",
+    "icao": "SK-111",
+    "lat": 5.566667,
+    "lon": -72.06
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Nunchia",
+    "name": "El Deshecho Airport",
+    "icao": "SK-066",
+    "lat": 5.621944,
+    "lon": -72.067778
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Nunchia",
+    "name": "La Reforma Airport",
+    "icao": "SK-097",
+    "lat": 5.429444,
+    "lon": -72.163611
+  },
+  {
+    "country": "Colombia",
+    "state": "Putumayo Department",
+    "city": "Orito",
+    "name": "Orito Airport",
+    "icao": "SKOR",
+    "lat": 0.669444,
+    "lon": -76.88
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Orocue",
+    "name": "Orocue Airport",
+    "icao": "SKOE",
+    "lat": 4.79222,
+    "lon": -71.3564
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Orocue",
+    "name": "Buena Vista Airport",
+    "icao": "SK-053",
+    "lat": 4.836111,
+    "lon": -71.502222
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Orocue",
+    "name": "Sardinas Airport",
+    "icao": "SK-126",
+    "lat": 4.983611,
+    "lon": -71.513333
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Orocue",
+    "name": "El Viejo Carmen Airport",
+    "icao": "SK-072",
+    "lat": 4.8875,
+    "lon": -71.568333
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Orocue",
+    "name": "La Candelaria Airport",
+    "icao": "SK-085",
+    "lat": 5.111111,
+    "lon": -71.628056
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Orocue",
+    "name": "La Culebra Airport",
+    "icao": "SK-091",
+    "lat": 4.9025,
+    "lon": -71.634722
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Orocue",
+    "name": "La Pista Airport",
+    "icao": "SK-096",
+    "lat": 4.827778,
+    "lon": -71.6675
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Orocue",
+    "name": "El CaimÃ¡n Airport",
+    "icao": "SK-063",
+    "lat": 4.856389,
+    "lon": -71.683889
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Orocue",
+    "name": "Santa Ana Airport",
+    "icao": "SK-122",
+    "lat": 5.087778,
+    "lon": -71.789722
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Otu",
+    "name": "Remedios C Airport",
+    "icao": "SK-018",
+    "lat": 6.933333,
+    "lon": -74.716667
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Pacoa",
+    "name": "Pacoa Airport",
+    "icao": "SK-484",
+    "lat": 0.066667,
+    "lon": -71.208333
+  },
+  {
+    "country": "Colombia",
+    "state": "Cauca Department",
+    "city": "Padilla",
+    "name": "San Jacinto Airport",
+    "icao": "SK-141",
+    "lat": 3.185833,
+    "lon": -76.326111
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Palermo",
+    "name": "El Juncal Airport",
+    "icao": "SK-233",
+    "lat": 2.846944,
+    "lon": -75.313056
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Palermo",
+    "name": "San Luis Airport",
+    "icao": "SK-243",
+    "lat": 2.929722,
+    "lon": -75.42
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Paratebueno",
+    "name": "La Ponderosa Airport",
+    "icao": "SK-215",
+    "lat": 4.287778,
+    "lon": -73.133889
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Paratebueno",
+    "name": "La Paz Airport",
+    "icao": "SK-214",
+    "lat": 4.297778,
+    "lon": -73.189167
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Paratebueno",
+    "name": "Paratebueno Airport",
+    "icao": "SK-115",
+    "lat": 4.383333,
+    "lon": -73.2
+  },
+  {
+    "country": "Colombia",
+    "state": "Cauca Department",
+    "city": "Patia",
+    "name": "El Guayabx Airport",
+    "icao": "SK-136",
+    "lat": 2.091111,
+    "lon": -76.955
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Paz De Arif",
+    "name": "San Fernandof Airport",
+    "icao": "SK-119",
+    "lat": 5.666667,
+    "lon": -71.683889
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Paz De Ariporo",
+    "name": "La Venganza Airport",
+    "icao": "SK-098",
+    "lat": 6.022778,
+    "lon": -70.8975
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Paz De Ariporo",
+    "name": "Chaparrito Airport",
+    "icao": "SK-056",
+    "lat": 5.56,
+    "lon": -71.217222
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Paz De Ariporo",
+    "name": "CaÃ±o Garza Airport",
+    "icao": "SK-054",
+    "lat": 5.591667,
+    "lon": -71.589444
+  },
+  {
+    "country": "Colombia",
+    "state": "Risaralda Department",
+    "city": "Pereira",
+    "name": "El Diamante Airport",
+    "icao": "SK-375",
+    "lat": 4.823611,
+    "lon": -75.845278
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Piedras",
+    "name": "La Opia Airport",
+    "icao": "SK-427",
+    "lat": 4.451389,
+    "lon": -74.965556
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Piedras",
+    "name": "Santa Ana Airport",
+    "icao": "SK-442",
+    "lat": 4.408333,
+    "lon": -75.021667
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Piedras",
+    "name": "San Javier Airport",
+    "icao": "SK-439",
+    "lat": 4.401389,
+    "lon": -75.035556
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "Pivijay",
+    "name": "La Palestina Airport",
+    "icao": "SK-268",
+    "lat": 10.609722,
+    "lon": -74.298333
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "Planeta Rica",
+    "name": "Planeta Rica Airport",
+    "icao": "SK-204",
+    "lat": 8.398853,
+    "lon": -75.577379
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "Plato",
+    "name": "La Gaviota Airport",
+    "icao": "SK-267",
+    "lat": 9.644444,
+    "lon": -74.425
+  },
+  {
+    "country": "Colombia",
+    "state": "La Guajira Department",
+    "city": "Portete",
+    "name": "Puerto BolÃ­var Airport",
+    "icao": "SKPB",
+    "lat": 12.2215,
+    "lon": -71.9848
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Pradera",
+    "name": "Castilla Central Airport",
+    "icao": "SK-448",
+    "lat": 3.361667,
+    "lon": -76.283056
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Prado",
+    "name": "Las Garzas Airport",
+    "icao": "SK-428",
+    "lat": 3.751111,
+    "lon": -75.9475
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "Puerto CarreÃ±o",
+    "name": "Jibici Airport",
+    "icao": "SK-519",
+    "lat": 4.883889,
+    "lon": -68.356389
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "Puerto CarreÃ±o",
+    "name": "San JosÃ© De Ocune Airport",
+    "icao": "SK-527",
+    "lat": 4.082222,
+    "lon": -70.253889
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "Puerto CarreÃ±o",
+    "name": "La Victoria Airport",
+    "icao": "SK-522",
+    "lat": 3.828056,
+    "lon": -70.589167
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto GaitÃ¡n",
+    "name": "La Plata Airport",
+    "icao": "SK-310",
+    "lat": 3.488056,
+    "lon": -71.375556
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto GaitÃ¡n",
+    "name": "El Rodeo Airport",
+    "icao": "SK-286",
+    "lat": 4.415,
+    "lon": -71.590278
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto GaitÃ¡n",
+    "name": "Las Malvinas Airport",
+    "icao": "SK-318",
+    "lat": 3.770833,
+    "lon": -71.823889
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "Puerto Libertador",
+    "name": "La Esperanza Airport",
+    "icao": "SK-202",
+    "lat": 7.868889,
+    "lon": -75.675556
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto LÃ³pez",
+    "name": "Carimagua Airport",
+    "icao": "SKCI",
+    "lat": 4.56417,
+    "lon": -71.3364
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto LÃ³pez",
+    "name": "YÃ¡taros De MeluÃ¡ Airport",
+    "icao": "SK-358",
+    "lat": 3.793889,
+    "lon": -72.477778
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto LÃ³pez",
+    "name": "Lajitas Airport",
+    "icao": "SK-314",
+    "lat": 4.159167,
+    "lon": -72.910833
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto LÃ³pez",
+    "name": "Los Venados Airport",
+    "icao": "SK-322",
+    "lat": 4.0675,
+    "lon": -73.005
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto LÃ³pez",
+    "name": "Tobasia Airport",
+    "icao": "SK-352",
+    "lat": 4.078611,
+    "lon": -73.079444
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto LÃ³pez",
+    "name": "La Reforma Airport",
+    "icao": "SK-312",
+    "lat": 4.062778,
+    "lon": -73.139167
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto LÃ³pez",
+    "name": "Natalia Airport",
+    "icao": "SK-329",
+    "lat": 4.069722,
+    "lon": -73.180556
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Puerto LÃ³pez",
+    "name": "Puerto Lleras Airport",
+    "icao": "SK-334",
+    "lat": 3.283333,
+    "lon": -73.35
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Puerto Mosquito",
+    "name": "Gamarra Airport",
+    "icao": "SK-160",
+    "lat": 8.20199,
+    "lon": -73.7653
+  },
+  {
+    "country": "Colombia",
+    "state": "CaquetÃ¡ Department",
+    "city": "Puerto Rico",
+    "name": "Puerto Rico Airport",
+    "icao": "SK-045",
+    "lat": 1.916667,
+    "lon": -75.166667
+  },
+  {
+    "country": "Colombia",
+    "state": "Arauca Department",
+    "city": "Puerto RondÃ³n",
+    "name": "RondÃ³n Airport",
+    "icao": "SK-029",
+    "lat": 6.284479,
+    "lon": -71.097732
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Puerto Salgar",
+    "name": "Palanquero Airport",
+    "icao": "SK-218",
+    "lat": 5.483333,
+    "lon": -74.65
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Puerto Wilches",
+    "name": "El Porvenir Airport",
+    "icao": "SK-383",
+    "lat": 7.310278,
+    "lon": -73.578611
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Puerto Wilches",
+    "name": "La Ponderosa Airport",
+    "icao": "SK-386",
+    "lat": 7.274167,
+    "lon": -73.8225
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Puerto Wilches",
+    "name": "Buenos Aires Airport",
+    "icao": "SK-378",
+    "lat": 7.463889,
+    "lon": -76.746111
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "Purificacion",
+    "name": "La MarÃ­a Airport",
+    "icao": "SK-426",
+    "lat": 3.883333,
+    "lon": -74.992778
+  },
+  {
+    "country": "Colombia",
+    "state": "BoyacÃ¡ Department",
+    "city": "Quipama",
+    "name": "Furatena Airport",
+    "icao": "SKFR",
+    "lat": 5.5275,
+    "lon": -74.1869
+  },
+  {
+    "country": "Colombia",
+    "state": "La Guajira Department",
+    "city": "Riohacha",
+    "name": "Cotoprix Airport",
+    "icao": "SK-249",
+    "lat": 11.223611,
+    "lon": -72.836111
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Rionegro",
+    "name": "El Tornillo Airport",
+    "icao": "SK-384",
+    "lat": 7.621667,
+    "lon": -73.6225
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Roldanillo",
+    "name": "Tierra Blanca Airport",
+    "icao": "SK-469",
+    "lat": 4.413056,
+    "lon": -76.123333
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Sabanalarga",
+    "name": "Santa Clara Airport",
+    "icao": "SK-123",
+    "lat": 4.415833,
+    "lon": -72.773889
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "SaldaÃ±a",
+    "name": "Los Mangos Airport",
+    "icao": "SK-431",
+    "lat": 3.915833,
+    "lon": -74.981944
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "San Alberto",
+    "name": "Irho Airport",
+    "icao": "SK-163",
+    "lat": 7.734444,
+    "lon": -73.434167
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "San Alberto",
+    "name": "Hipilandia Airport",
+    "icao": "SK-162",
+    "lat": 7.892778,
+    "lon": -73.462222
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "San Carlos De Guaroa",
+    "name": "La MansiÃ³n Airport",
+    "icao": "SK-308",
+    "lat": 3.779444,
+    "lon": -73.220556
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "San Carlos De Guaroa",
+    "name": "Suescun Airport",
+    "icao": "SK-349",
+    "lat": 3.926111,
+    "lon": -73.254444
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "San Carlos De Guaroa",
+    "name": "El Prado Airport",
+    "icao": "SK-282",
+    "lat": 3.718889,
+    "lon": -73.308611
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "San Gil",
+    "name": "San Gil Airport",
+    "icao": "SKSG",
+    "lat": 6.58444,
+    "lon": -73.1283
+  },
+  {
+    "country": "Colombia",
+    "state": "Guaviare Department",
+    "city": "San JosÃ© Del Guaviare",
+    "name": "Tomachipa Airport",
+    "icao": "SK-229",
+    "lat": 2.308889,
+    "lon": -71.773333
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "San JosÃ© Mulatos",
+    "name": "San JosÃ© Mulatos Airport",
+    "icao": "SK-019",
+    "lat": 8.35,
+    "lon": -76.333333
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "San Juan De Uraba",
+    "name": "San Juan De Uraba Airport",
+    "icao": "SK-020",
+    "lat": 8.766667,
+    "lon": -76.533333
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "San Juan Del CÃ©sar",
+    "name": "San Juan Del CÃ©sar Airport",
+    "icao": "SK-183",
+    "lat": 10.766667,
+    "lon": -73.016667
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "San Luis",
+    "name": "Los Feria GirÃ³n Airport",
+    "icao": "SK-430",
+    "lat": 4.258889,
+    "lon": -75.01
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "San Luis De Palenque",
+    "name": "La Bramadora Airport",
+    "icao": "SK-084",
+    "lat": 5.195556,
+    "lon": -71.7475
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "San Luis De Palenque",
+    "name": "Las Delicias Airport",
+    "icao": "SK-099",
+    "lat": 5.215,
+    "lon": -71.813611
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "San Luis De Palenque",
+    "name": "El Recreo Airport",
+    "icao": "SK-070",
+    "lat": 5.320556,
+    "lon": -72.577778
+  },
+  {
+    "country": "Colombia",
+    "state": "Sucre Department",
+    "city": "San Marcos",
+    "name": "El Algarrobo Airport",
+    "icao": "SK-393",
+    "lat": 8.501111,
+    "lon": -75.070833
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "San MartÃ­n",
+    "name": "Puerto Alvira Airport",
+    "icao": "SK-333",
+    "lat": 2.902778,
+    "lon": -71.749444
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "San Martin",
+    "name": "La Ceiba Airport",
+    "icao": "SK-300",
+    "lat": 3.688889,
+    "lon": -73.2325
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "San Martin",
+    "name": "La Loma Airport",
+    "icao": "SK-305",
+    "lat": 3.674167,
+    "lon": -73.403889
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "San Martin",
+    "name": "La Cacica Airport",
+    "icao": "SK-165",
+    "lat": 7.985833,
+    "lon": -73.577778
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "San Martin",
+    "name": "Los Monjes Airport",
+    "icao": "SK-176",
+    "lat": 7.992778,
+    "lon": -73.675
+  },
+  {
+    "country": "Colombia",
+    "state": "Sucre Department",
+    "city": "San Onofre",
+    "name": "El RincÃ³n De Mucura Airport",
+    "icao": "SK-394",
+    "lat": 9.774167,
+    "lon": -75.638056
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "San Pedro",
+    "name": "Tibiri Airport",
+    "icao": "SK-351",
+    "lat": 3.95,
+    "lon": -71.133333
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "San Pedro",
+    "name": "Chambimbal Airport",
+    "icao": "SK-450",
+    "lat": 3.973056,
+    "lon": -76.2775
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "San Vicente De ChucurÃ­",
+    "name": "San Vicente Airport",
+    "icao": "SK-391",
+    "lat": 6.891,
+    "lon": -73.4295
+  },
+  {
+    "country": "Colombia",
+    "state": "CaquetÃ¡ Department",
+    "city": "San Vicente Del CaguÃ¡n",
+    "name": "Yaguara Airport",
+    "icao": "SKYA",
+    "lat": 1.54417,
+    "lon": -73.9333
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "Santa Catalina",
+    "name": "Santa Catalina Airport",
+    "icao": "SK-207",
+    "lat": 8.5,
+    "lon": -76.175
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "Santa MarÃ­a",
+    "name": "Santa Maria Airport",
+    "icao": "SK-196",
+    "lat": 8.166667,
+    "lon": -77.05
+  },
+  {
+    "country": "Colombia",
+    "state": "BolÃ­var Department",
+    "city": "Santa Rosa Del Sud",
+    "name": "Santa Rosa Del Sud Airport",
+    "icao": "SK-038",
+    "lat": 7.991389,
+    "lon": -74.036111
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "Santa RosalÃ¬a",
+    "name": "Santa RosalÃ¬a Airport",
+    "icao": "SK-528",
+    "lat": 5.233333,
+    "lon": -70.683333
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "Santa RosalÃ¬a",
+    "name": "Cumachagua Airport",
+    "icao": "SK-513",
+    "lat": 4.016667,
+    "lon": -70.883333
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Santafe De AntioquÃ­a",
+    "name": "Rancho Ae Airport",
+    "icao": "SK-017",
+    "lat": 6.522222,
+    "lon": -75.808056
+  },
+  {
+    "country": "Colombia",
+    "state": "Magdalena Department",
+    "city": "Santana",
+    "name": "El EdÃ©n Airport",
+    "icao": "SK-260",
+    "lat": 9.519722,
+    "lon": -74.339167
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Santana Ramos",
+    "name": "Santana Ramos Airport",
+    "icao": "SK-245",
+    "lat": 2.216667,
+    "lon": -75.25
+  },
+  {
+    "country": "Colombia",
+    "state": "Arauca Department",
+    "city": "Saravena",
+    "name": "Los Colonizadores Airport",
+    "icao": "SKSA",
+    "lat": 6.951868,
+    "lon": -71.857179
+  },
+  {
+    "country": "Colombia",
+    "state": "BolÃ­var Department",
+    "city": "Simiti",
+    "name": "Millan Airport",
+    "icao": "SK-035",
+    "lat": 7.928889,
+    "lon": -73.967222
+  },
+  {
+    "country": "Colombia",
+    "state": "BoyacÃ¡ Department",
+    "city": "Sogamoso",
+    "name": "Alberto Lleras Camargo Airport",
+    "icao": "SKSO",
+    "lat": 5.67732,
+    "lon": -72.9703
+  },
+  {
+    "country": "Colombia",
+    "state": "CaquetÃ¡ Department",
+    "city": "Solano",
+    "name": "Solano Airport",
+    "icao": "SK-046",
+    "lat": 0.702022,
+    "lon": -75.2505
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Solita",
+    "name": "Solita Airport",
+    "icao": "SK-348",
+    "lat": 3.016667,
+    "lon": -71.75
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Sopetran",
+    "name": "Sopetran Airport",
+    "icao": "SK-024",
+    "lat": 6.498056,
+    "lon": -75.785278
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Tauramena",
+    "name": "La Envidia Airport",
+    "icao": "SK-092",
+    "lat": 4.413333,
+    "lon": -72.570556
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Tauramena",
+    "name": "Cusiana Airport",
+    "icao": "SK-060",
+    "lat": 4.973889,
+    "lon": -72.636667
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Tauramena",
+    "name": "Tarqui Airport",
+    "icao": "SK-130",
+    "lat": 4.755556,
+    "lon": -72.699167
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Tello",
+    "name": "San Diego Airport",
+    "icao": "SK-241",
+    "lat": 3.066667,
+    "lon": -75.1875
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Tesalia",
+    "name": "Tesalia Airport",
+    "icao": "SK-247",
+    "lat": 2.456389,
+    "lon": -75.450278
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "Tierralta",
+    "name": "Chapinero Airport",
+    "icao": "SK-199",
+    "lat": 7.346944,
+    "lon": -76.079722
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Trinidad",
+    "name": "Trinidad Airport",
+    "icao": "SKTD",
+    "lat": 5.43278,
+    "lon": -71.6625
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Trinidad",
+    "name": "Palmarito Airport",
+    "icao": "SK-113",
+    "lat": 5.332222,
+    "lon": -71.234722
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Trinidad",
+    "name": "Elf Trinidad Airport",
+    "icao": "SK-075",
+    "lat": 5.504444,
+    "lon": -71.770833
+  },
+  {
+    "country": "Colombia",
+    "state": "NariÃ±o Department",
+    "city": "Tumaco",
+    "name": "Guinulero Airport",
+    "icao": "SK-361",
+    "lat": 1.727778,
+    "lon": -78.940278
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Turbo",
+    "name": "Villanueva Airport",
+    "icao": "SK-026",
+    "lat": 7.971667,
+    "lon": -76.629722
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Uerto Salgar",
+    "name": "La Esperanza Airport",
+    "icao": "SK-212",
+    "lat": 5.756111,
+    "lon": -74.513056
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Uribe",
+    "name": "Uribe Airport",
+    "icao": "SK-354",
+    "lat": 3.216667,
+    "lon": -74.4
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Valledupa",
+    "name": "Campo Alegre Airport",
+    "icao": "SK-151",
+    "lat": 10.6475,
+    "lon": -73.148056
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ©sar Department",
+    "city": "Valledupa",
+    "name": "Madaci Airport",
+    "icao": "SK-177",
+    "lat": 10.3275,
+    "lon": -73.371944
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Velez",
+    "name": "Campo Capote Airport",
+    "icao": "SK-379",
+    "lat": 6.75,
+    "lon": -73.916667
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "Villa Claret",
+    "name": "Gilgal Airport",
+    "icao": "SK-193",
+    "lat": 8.333333,
+    "lon": -77.083333
+  },
+  {
+    "country": "Colombia",
+    "state": "Putumayo Department",
+    "city": "Villa GarzÃ³n",
+    "name": "Villa GarzÃ³n Airport",
+    "icao": "SKVG",
+    "lat": 0.978767,
+    "lon": -76.6056
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Villanueva",
+    "name": "Villanueva Airport",
+    "icao": "SKVN",
+    "lat": 4.62472,
+    "lon": -72.9469
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Villanueva",
+    "name": "Santa Helena De Upia Airport",
+    "icao": "SK-124",
+    "lat": 4.35,
+    "lon": -72.760278
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Villanueva",
+    "name": "Soceagro Airport",
+    "icao": "SK-128",
+    "lat": 4.483889,
+    "lon": -72.8225
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Villanueva",
+    "name": "Palmar De Oriente Airport",
+    "icao": "SK-112",
+    "lat": 4.498611,
+    "lon": -72.845833
+  },
+  {
+    "country": "Colombia",
+    "state": "La Guajira Department",
+    "city": "Villanueva",
+    "name": "Villanueva Airport",
+    "icao": "SK-254",
+    "lat": 10.583333,
+    "lon": -73.016667
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Villavicencio",
+    "name": "San Luis De Airport",
+    "icao": "SK-342",
+    "lat": 4.049167,
+    "lon": -73.191111
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Villavicencio",
+    "name": "Neiva York Airport",
+    "icao": "SK-330",
+    "lat": 4.089722,
+    "lon": -73.232778
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Villavicencio",
+    "name": "AndalucÃ­a Airport",
+    "icao": "SK-271",
+    "lat": 3.988056,
+    "lon": -73.299444
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Villavicencio",
+    "name": "La Esmeralda Airport",
+    "icao": "SK-303",
+    "lat": 4.088333,
+    "lon": -73.367778
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Villavicencio",
+    "name": "La Colina Airport",
+    "icao": "SK-301",
+    "lat": 4.064167,
+    "lon": -73.383611
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Villavicencio",
+    "name": "Tapa Chicamocha Airport",
+    "icao": "SK-350",
+    "lat": 4.416667,
+    "lon": -73.4975
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Villavieja",
+    "name": "Sinai Airport",
+    "icao": "SK-246",
+    "lat": 3.332222,
+    "lon": -75.186111
+  },
+  {
+    "country": "Colombia",
+    "state": "Meta Department",
+    "city": "Vista Hermosa",
+    "name": "Vista Hermosa Airport",
+    "icao": "SK-355",
+    "lat": 3.146667,
+    "lon": -73.771111
+  },
+  {
+    "country": "Colombia",
+    "state": "Huila Department",
+    "city": "Yaguara",
+    "name": "La Floresta Airport",
+    "icao": "SK-238",
+    "lat": 2.629722,
+    "lon": -75.576111
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Yopal",
+    "name": "Los Cabros Airport",
+    "icao": "SK-101",
+    "lat": 5.441944,
+    "lon": -72.234444
+  },
+  {
+    "country": "Colombia",
+    "state": "Casanare Department",
+    "city": "Yopal",
+    "name": "Germania Airport",
+    "icao": "SK-078",
+    "lat": 5.186111,
+    "lon": -72.32
+  },
+  {
+    "country": "Colombia",
+    "state": "BolÃ­var Department",
+    "city": "Zambrano",
+    "name": "La Vega Airport",
+    "icao": "SK-034",
+    "lat": 9.856389,
+    "lon": -74.895833
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Zapatoca",
+    "name": "Zapatoca Airport",
+    "icao": "SK-392",
+    "lat": 6.816667,
+    "lon": -73.283333
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Zarzal",
+    "name": "San Marino Airport",
+    "icao": "SK-467",
+    "lat": 4.37695,
+    "lon": -76.0664
+  },
+  {
+    "country": "Colombia",
+    "state": "La Guajira Department",
+    "city": "La Guajira Department",
+    "name": "Airport Punta Espada",
+    "icao": "CO-0001",
+    "lat": 12.075256,
+    "lon": -71.125725
+  },
+  {
+    "country": "Colombia",
+    "state": "Vichada Department",
+    "city": "Vichada Department",
+    "name": "La Gaviota Airport",
+    "icao": "SKGA",
+    "lat": 4.549722,
+    "lon": -70.925
+  },
+  {
+    "country": "Colombia",
+    "state": "Amazonas Department",
+    "city": "Amazonas Department",
+    "name": "Loreto North Airstrip",
+    "icao": "CO-0052",
+    "lat": -3.524,
+    "lon": -70.328
+  },
+  {
+    "country": "Colombia",
+    "state": "CÃ³rdoba Department",
+    "city": "Ayapel",
+    "name": "Patetal Airport",
+    "icao": "CO-0056",
+    "lat": 8.231858,
+    "lon": -75.058043
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "BahÃ­a Solano",
+    "name": "Cupica Airport",
+    "icao": "SKCP",
+    "lat": 6.691944,
+    "lon": -77.477222
+  },
+  {
+    "country": "Colombia",
+    "state": "NariÃ±o Department",
+    "city": "Barbacoas",
+    "name": "Banco De La Republica Heliport",
+    "icao": "CO-0002",
+    "lat": 1.672222,
+    "lon": -78.142222
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Barrancabermeja",
+    "name": "Ecopetrol Heliport",
+    "icao": "CO-0048",
+    "lat": 7.0775,
+    "lon": -73.865
+  },
+  {
+    "country": "Colombia",
+    "state": "AtlÃ¡ntico Department",
+    "city": "Barranquilla",
+    "name": "Banco De La Republica Heliport",
+    "icao": "CO-0029",
+    "lat": 10.989444,
+    "lon": -74.789167
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "BogotÃ¡",
+    "name": "Camara De Comercio De Bogota Heliport",
+    "icao": "CO-0033",
+    "lat": 4.657222,
+    "lon": -74.106944
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "BogotÃ¡",
+    "name": "Caja De Vivienda Militar Heliport",
+    "icao": "CO-0035",
+    "lat": 4.646389,
+    "lon": -74.0975
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "BogotÃ¡",
+    "name": "Centro Internacional Tequendama Heliport",
+    "icao": "CO-0037",
+    "lat": 4.617222,
+    "lon": -74.088333
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Bogota",
+    "name": "Proma Heliport",
+    "icao": "CO-0039",
+    "lat": 4.728056,
+    "lon": -74.084444
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "BogotÃ¡",
+    "name": "Clinica Shaio Heliport",
+    "icao": "CO-0042",
+    "lat": 4.700833,
+    "lon": -74.0675
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Bogota",
+    "name": "I.N.G. Barings Heliport",
+    "icao": "CO-0044",
+    "lat": 4.660556,
+    "lon": -74.054444
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "BogotÃ¡",
+    "name": "Apotema Heliport",
+    "icao": "CO-0046",
+    "lat": 4.693333,
+    "lon": -74.039444
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Bucaramanga",
+    "name": "Fundacion Oftalmologica De Santander Heliport",
+    "icao": "CO-0051",
+    "lat": 7.074722,
+    "lon": -73.115278
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Cali",
+    "name": "Centro Administrativo Municipal Heliport",
+    "icao": "CO-0006",
+    "lat": 3.456389,
+    "lon": -76.536944
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Cali",
+    "name": "Banco De La Republica Heliport",
+    "icao": "CO-0008",
+    "lat": 3.634167,
+    "lon": -76.408889
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Candelaria",
+    "name": "El Pailon Heliport",
+    "icao": "CO-0010",
+    "lat": 3.410556,
+    "lon": -76.350556
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Caucasia",
+    "name": "Banco De La Republica Heliport",
+    "icao": "CO-0027",
+    "lat": 7.989722,
+    "lon": -75.197778
+  },
+  {
+    "country": "Colombia",
+    "state": "ChocÃ³ Department",
+    "city": "Condoto",
+    "name": "Banco De La Republica Heliport",
+    "icao": "CO-0005",
+    "lat": 5.1,
+    "lon": -76.649444
+  },
+  {
+    "country": "Colombia",
+    "state": "Cundinamarca Department",
+    "city": "Cota",
+    "name": "Helicentro Heliport",
+    "icao": "CO-0031",
+    "lat": 4.746389,
+    "lon": -74.146667
+  },
+  {
+    "country": "Colombia",
+    "state": "Santander Department",
+    "city": "Giron",
+    "name": "Isa Giron Heliport",
+    "icao": "CO-0049",
+    "lat": 7.058333,
+    "lon": -73.129722
+  },
+  {
+    "country": "Colombia",
+    "state": "Tolima Department",
+    "city": "IbaguÃ©",
+    "name": "Beneficencia Del Tolima Heliport",
+    "icao": "CO-0026",
+    "lat": 4.443889,
+    "lon": -75.241667
+  },
+  {
+    "country": "Colombia",
+    "state": "Caldas Department",
+    "city": "Manizales",
+    "name": "Banco Cafetero Heliport",
+    "icao": "CO-0024",
+    "lat": 5.070278,
+    "lon": -75.528889
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Medellin",
+    "name": "Fundicion Gutierrez Heliport",
+    "icao": "CO-0017",
+    "lat": 6.25,
+    "lon": -75.578611
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Medellin",
+    "name": "Palacio Municipal Heliport",
+    "icao": "CO-0019",
+    "lat": 6.591389,
+    "lon": -75.576389
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Medellin",
+    "name": "Hospital General De Medellin Heliport",
+    "icao": "CO-0021",
+    "lat": 6.235,
+    "lon": -75.572778
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "MedellÃ­n",
+    "name": "Banco Popular Heliport",
+    "icao": "CO-0023",
+    "lat": 6.252222,
+    "lon": -75.570833
+  },
+  {
+    "country": "Colombia",
+    "state": "Quindio Department",
+    "city": "Montenegro",
+    "name": "Cofa Montenegro Heliport",
+    "icao": "CO-0015",
+    "lat": 4.508333,
+    "lon": -75.786389
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Palmira",
+    "name": "Isa Palmira Heliport",
+    "icao": "CO-0009",
+    "lat": 3.537778,
+    "lon": -76.401111
+  },
+  {
+    "country": "Colombia",
+    "state": "Valle del Cauca Department",
+    "city": "Palmira",
+    "name": "Cofa-Palmira Heliport",
+    "icao": "CO-0013",
+    "lat": 3.514722,
+    "lon": -76.305556
+  },
+  {
+    "country": "Colombia",
+    "state": "AntioquÃ­a Department",
+    "city": "Santa FÃ© de AntioquÃ­a",
+    "name": "Santa FÃ© de AntioquÃ­a Airport",
+    "icao": "SKSF",
+    "lat": 6.500631,
+    "lon": -75.822521
+  },
+  {
+    "country": "Colombia",
+    "state": "VaupÃ©s Department",
+    "city": "Taraira",
+    "name": "Taraira Airstrip",
+    "icao": "CO-0057",
+    "lat": -0.56784,
+    "lon": -69.638809
+  }
+]

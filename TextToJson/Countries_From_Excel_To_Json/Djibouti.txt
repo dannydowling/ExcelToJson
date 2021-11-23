@@ -1,0 +1,47 @@
+[
+  {
+    "country": "Djibouti",
+    "state": "Djibouti",
+    "city": "Djibouti City",
+    "name": "Djibouti-Ambouli Airport",
+    "icao": "HDAM",
+    "lat": 11.5473003387451,
+    "lon": 43.1595001220703
+  },
+  {
+    "country": "Djibouti",
+    "state": "Ali Sabiah",
+    "city": "Ali-Sabieh",
+    "name": "Ali-Sabieh Airport",
+    "icao": "HDAS",
+    "lat": 11.146889,
+    "lon": 42.72
+  },
+  {
+    "country": "Djibouti",
+    "state": "Dikhil",
+    "city": "Dikhil",
+    "name": "Dikhil Airport",
+    "icao": "HDDK",
+    "lat": 11.097958,
+    "lon": 42.350556
+  },
+  {
+    "country": "Djibouti",
+    "state": "Obock",
+    "city": "Obock",
+    "name": "Obock Airport",
+    "icao": "HDOB",
+    "lat": 11.9670000076293,
+    "lon": 43.2669982910156
+  },
+  {
+    "country": "Djibouti",
+    "state": "Tadjoura",
+    "city": "Tadjoura",
+    "name": "Tadjoura Airport",
+    "icao": "HDTJ",
+    "lat": 11.7829999923706,
+    "lon": 42.9169998168945
+  }
+]

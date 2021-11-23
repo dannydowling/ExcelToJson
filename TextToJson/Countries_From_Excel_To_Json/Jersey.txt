@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Jersey",
+    "state": "Saint Helier",
+    "city": "Saint Helier",
+    "name": "Jersey Airport",
+    "icao": "EGJJ",
+    "lat": 49.2079010009765,
+    "lon": -2.19550991058349
+  }
+]

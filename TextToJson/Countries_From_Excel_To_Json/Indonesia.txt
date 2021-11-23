@@ -1,0 +1,2441 @@
+[
+  {
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Denpasar-Bali Island",
+    "name": "Ngurah Rai (Bali) International Airport",
+    "icao": "WADD",
+    "lat": -8.7481698989868,
+    "lon": 115.16699981689
+  },
+  {
+    "country": "Indonesia",
+    "state": "Yogyakarta",
+    "city": "Yogyakarta-Java Island",
+    "name": "Adisutjipto International Airport",
+    "icao": "WARJ",
+    "lat": -7.78818,
+    "lon": 110.431999
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jakarta Raya",
+    "city": "Jakarta",
+    "name": "Halim Perdanakusuma International Airport",
+    "icao": "WIHH",
+    "lat": -6.26661014556884,
+    "lon": 106.890998840332
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Selatan",
+    "city": "Ujung Pandang-Celebes Island",
+    "name": "Hasanuddin International Airport",
+    "icao": "WAAA",
+    "lat": -5.06162977218627,
+    "lon": 119.554000854492
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Tengah",
+    "city": "Semarang-Java Island",
+    "name": "Achmad Yani Airport",
+    "icao": "WARS",
+    "lat": -6.97273,
+    "lon": 110.375
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Utara",
+    "city": "Manado-Celebes Island",
+    "name": "Sam Ratulangi Airport",
+    "icao": "WAMM",
+    "lat": 1.54926002025604,
+    "lon": 124.926002502441
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Bandung-Java Island",
+    "name": "Husein Sastranegara International Airport",
+    "icao": "WICC",
+    "lat": -6.90062999725341,
+    "lon": 107.575996398925
+  },
+  {
+    "country": "Indonesia",
+    "state": "Riau",
+    "city": "Batam Island",
+    "name": "Hang Nadim International Airport",
+    "icao": "WIDD",
+    "lat": 1.12102997303,
+    "lon": 104.119003296
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Barat",
+    "city": "Mataram-Lombok Island",
+    "name": "Selaparang Airport",
+    "icao": "WADA",
+    "lat": -8.56070995330999,
+    "lon": 116.095001221
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Tengah",
+    "city": "Sukarata(Solo)-Java Island",
+    "name": "Adi Sumarmo Wiryokusumo Airport",
+    "icao": "WARQ",
+    "lat": -7.513564,
+    "lon": 110.750494
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Jayapura-Papua Island",
+    "name": "Sentani International Airport",
+    "icao": "WAJJ",
+    "lat": -2.5769500733,
+    "lon": 140.5160064698
+  },
+  {
+    "country": "Indonesia",
+    "state": "Aceh",
+    "city": "Banda Aceh",
+    "name": "Sultan Iskandar Muda International Airport",
+    "icao": "WITT",
+    "lat": 5.52287202401,
+    "lon": 95.4206371307
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Wamena-Papua Island",
+    "name": "Wamena Airport",
+    "icao": "WAJW",
+    "lat": -4.10251,
+    "lon": 138.957001
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatra Barat",
+    "city": "Ketaping/Padang - Sumatra Island",
+    "name": "Minangkabau International Airport",
+    "icao": "WIPT",
+    "lat": -0.786917,
+    "lon": 100.280998
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Labuan Bajo - Flores Island",
+    "name": "Komodo Airport",
+    "icao": "WATO",
+    "lat": -8.48666,
+    "lon": 119.889
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Timika-Papua Island",
+    "name": "Moses Kilangin Airport",
+    "icao": "WABP",
+    "lat": -4.52828,
+    "lon": 136.886993
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Kupang-Timor Island",
+    "name": "El Tari Airport",
+    "icao": "WATT",
+    "lat": -10.1716003417968,
+    "lon": 123.670997619628
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Manokwari-Papua Island",
+    "name": "Rendani Airport",
+    "icao": "WASR",
+    "lat": -0.891833,
+    "lon": 134.048996
+  },
+  {
+    "country": "Indonesia",
+    "state": "Lampung",
+    "city": "Bandar Lampung-Sumatra Island",
+    "name": "Radin Inten II (Branti) Airport",
+    "icao": "WILL",
+    "lat": -5.240556,
+    "lon": 105.175556
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jambi",
+    "city": "Jambi-Sumatra Island",
+    "name": "Sultan Thaha Airport",
+    "icao": "WIPA",
+    "lat": -1.63802,
+    "lon": 103.643997
+  },
+  {
+    "country": "Indonesia",
+    "state": "Bangka Belitung",
+    "city": "Pangkal Pinang-Palaubangka Island",
+    "name": "Pangkal Pinang (Depati Amir) Airport",
+    "icao": "WIPK",
+    "lat": -2.16219997406,
+    "lon": 106.138999939
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Sorong-Papua Island",
+    "name": "Dominique Edward Osok Airport",
+    "icao": "WAXX",
+    "lat": -0.894,
+    "lon": 131.287
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Merauke-Papua Island",
+    "name": "Mopah Airport",
+    "icao": "WAKK",
+    "lat": -8.52029037475586,
+    "lon": 140.417999267578
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tengah",
+    "city": "Palu-Celebes Island",
+    "name": "Mutiara Airport",
+    "icao": "WAML",
+    "lat": -0.918542027473449,
+    "lon": 119.910003662109
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatera Utara",
+    "city": "Gunung Sitoli-Nias Island",
+    "name": "Binaka Airport",
+    "icao": "WIMB",
+    "lat": 1.16638,
+    "lon": 97.704697
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Nabire-Papua Island",
+    "name": "Nabire Airport",
+    "icao": "WABI",
+    "lat": -3.36818,
+    "lon": 135.496002
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tenggara",
+    "city": "Kendari-Celebes Island",
+    "name": "Wolter Monginsidi Airport",
+    "icao": "WAWW",
+    "lat": -4.0816102027893,
+    "lon": 122.417999267578
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Tarakan Island",
+    "name": "Juwata Airport",
+    "icao": "WALR",
+    "lat": 3.326667,
+    "lon": 117.569444
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Sorong-Papua Island",
+    "name": "Jefman Airport",
+    "icao": "WASS",
+    "lat": -0.926358,
+    "lon": 131.121002
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Fakfak-Papua Island",
+    "name": "Fakfak Airport",
+    "icao": "WASF",
+    "lat": -2.92019009590148,
+    "lon": 132.266998291015
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatra Barat",
+    "city": "Padang-Sumatra Island",
+    "name": "Tabing Airport",
+    "icao": "WIMG",
+    "lat": -0.874989,
+    "lon": 100.351997
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku Utara",
+    "city": "Sango-Ternate Island",
+    "name": "Sultan Babullah Airport",
+    "icao": "WAMT",
+    "lat": 0.831414,
+    "lon": 127.380997
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Ende-Flores Island",
+    "name": "Ende (H Hasan Aroeboesman) Airport",
+    "icao": "WATE",
+    "lat": -8.8492898941,
+    "lon": 121.661003113
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Timur",
+    "city": "Malang-Java Island",
+    "name": "Abdul Rachman Saleh Airport",
+    "icao": "WARA",
+    "lat": -7.92655992507999,
+    "lon": 112.714996338
+  },
+  {
+    "country": "Indonesia",
+    "state": "Bangka Belitung",
+    "city": "Tanjung Pandan-Belitung Island",
+    "name": "H.AS. Hanandjoeddin International Airport",
+    "icao": "WIOD",
+    "lat": -2.74572,
+    "lon": 107.754997
+  },
+  {
+    "country": "Indonesia",
+    "state": "Aceh",
+    "city": "Lhok Seumawe-Sumatra Island",
+    "name": "Malikus Saleh Airport",
+    "icao": "WITM",
+    "lat": 5.22667980194091,
+    "lon": 96.9503021240234
+  },
+  {
+    "country": "Indonesia",
+    "state": "Aceh",
+    "city": "Sabang-We Island",
+    "name": "Maimun Saleh Airport",
+    "icao": "WITB",
+    "lat": 5.87412977219,
+    "lon": 95.3396987915
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Selatan",
+    "city": "Makale-Celebes Island",
+    "name": "Makale Airport",
+    "icao": "WAAT",
+    "lat": -3.10935997963,
+    "lon": 119.856002808
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Sarmi-Papua Island",
+    "name": "Sarmi Airport",
+    "icao": "WAJI",
+    "lat": -1.8695499897,
+    "lon": 138.75
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Serui-Japen Island",
+    "name": "Serui Airport",
+    "icao": "WABO",
+    "lat": -1.87557995319366,
+    "lon": 136.240997314453
+  },
+  {
+    "country": "Indonesia",
+    "state": "Bengkulu",
+    "city": "Bengkulu-Sumatra Island",
+    "name": "Fatmawati Soekarno Airport",
+    "icao": "WIPL",
+    "lat": -3.8637,
+    "lon": 102.338997
+  },
+  {
+    "country": "Indonesia",
+    "state": "Riau",
+    "city": "Dumai-Sumatra Island",
+    "name": "Pinang Kampai Airport",
+    "icao": "WIBD",
+    "lat": 1.60919,
+    "lon": 101.433998
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatra Selatan",
+    "city": "Talang Gudang-Sumatra Island",
+    "name": "Pendopo Airport",
+    "icao": "WIPQ",
+    "lat": -3.28607010841369,
+    "lon": 103.879997253417
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Barat",
+    "city": "Bima-Sumbawa Island",
+    "name": "Muhammad Salahuddin Airport",
+    "icao": "WADB",
+    "lat": -8.5396499633789,
+    "lon": 118.68699645996
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Datadawai-Borneo Island",
+    "name": "Datadawai Airport",
+    "icao": "WALJ",
+    "lat": 0.8106,
+    "lon": 114.5306
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Maumere-Flores Island",
+    "name": "Maumere(Wai Oti) Airport",
+    "icao": "WATC",
+    "lat": -8.64064979553,
+    "lon": 122.236999512
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Samarinda",
+    "name": "Temindung Airport",
+    "icao": "WALS",
+    "lat": -0.484531,
+    "lon": 117.156998
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Waingapu-Sumba Island",
+    "name": "Umbu Mehang Kunda Airport",
+    "icao": "WADW",
+    "lat": -9.66922,
+    "lon": 120.302002
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Alor Island",
+    "name": "Mali Airport",
+    "icao": "WATM",
+    "lat": -8.13234043121337,
+    "lon": 124.59700012207
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Selatan",
+    "city": "Stagen - Laut Island",
+    "name": "Gusti Syamsir Alam Airport",
+    "icao": "WAOK",
+    "lat": -3.29472,
+    "lon": 116.165001
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Waikabubak-Sumba Island",
+    "name": "Tambolaka Airport",
+    "icao": "WADT",
+    "lat": -9.40972,
+    "lon": 119.244003
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tengah",
+    "city": "Luwok - Celebes Island",
+    "name": "Syukuran Aminuddin Amir Airport",
+    "icao": "WAMW",
+    "lat": -1.03892,
+    "lon": 122.772003
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tengah",
+    "city": "Poso-Celebes Island",
+    "name": "Kasiguncu Airport",
+    "icao": "WAMP",
+    "lat": -1.41674995422,
+    "lon": 120.657997131
+  },
+  {
+    "country": "Indonesia",
+    "state": "Lampung",
+    "city": "Batu Raja-Sumatra Island",
+    "name": "Gatot Subrato Airport",
+    "icao": "WIPO",
+    "lat": -4.39176988601684,
+    "lon": 104.401000976562
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Bintuni",
+    "name": "Stenkol Airport",
+    "icao": "WASB",
+    "lat": -2.1033,
+    "lon": 133.5164
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Bontang-Borneo Island",
+    "name": "Bontang Airport",
+    "icao": "WRLC",
+    "lat": 0.119691,
+    "lon": 117.474998
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Cirebon-Java Island",
+    "name": "Penggung Airport",
+    "icao": "WICD",
+    "lat": -6.75614023209,
+    "lon": 108.540000916
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Dabra-Papua Island",
+    "name": "Dabra Airport",
+    "icao": "ID-DRH",
+    "lat": -3.2705,
+    "lon": 138.6132
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Enarotali-Papua Island",
+    "name": "Enarotali Airport",
+    "icao": "WABT",
+    "lat": -3.92589998245239,
+    "lon": 136.376998901367
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Illaga-Papua Island",
+    "name": "Illaga Airport",
+    "icao": "WABL",
+    "lat": -3.97648,
+    "lon": 137.6225
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Tengah",
+    "city": "Karimunjawa-Karimunjawa Island",
+    "name": "Dewadaru Airport",
+    "icao": "ID-KWB",
+    "lat": -5.80091,
+    "lon": 110.47838
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Karubaga-Papua Island",
+    "name": "Karubaga Airport",
+    "icao": "ID-KBF",
+    "lat": -3.684,
+    "lon": 138.479
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kelila-Papua Island",
+    "name": "Kelila Airport",
+    "icao": "ID-LLN",
+    "lat": -3.75,
+    "lon": 138.666671752929
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tenggara",
+    "city": "Kolaka",
+    "name": "Pomala Airport",
+    "icao": "ID-PUM",
+    "lat": -4.1810898780823,
+    "lon": 121.61799621582
+  },
+  {
+    "country": "Indonesia",
+    "state": "Aceh",
+    "city": "Lubang-Simeulue Island",
+    "name": "Lasikin Airport",
+    "icao": "WITG",
+    "lat": 2.41027998924255,
+    "lon": 96.3255996704101
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Moanamani-Papua Island",
+    "name": "Moanamani Airport",
+    "icao": "WABD",
+    "lat": -3.98340201377868,
+    "lon": 136.083297729492
+  },
+  {
+    "country": "Indonesia",
+    "state": "Riau",
+    "city": "Pasir Pengarayan-Sumatra Island",
+    "name": "Pasir Pangaraan Airport",
+    "icao": "WIDE",
+    "lat": 0.8454310297966,
+    "lon": 100.370002746582
+  },
+  {
+    "country": "Indonesia",
+    "state": "Aceh",
+    "city": "Peureumeue-Sumatra Island",
+    "name": "Seunagan Airport",
+    "icao": "WITC",
+    "lat": 4.25,
+    "lon": 96.2170028686523
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Seram Island",
+    "name": "Wahai,Seram Island",
+    "icao": "WAPV",
+    "lat": -2.8114,
+    "lon": 129.484
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatera Utara",
+    "city": "Sibolga-Sumatra Island",
+    "name": "Dr Ferdinand Lumban Tobing Airport",
+    "icao": "WIMS",
+    "lat": 1.55594,
+    "lon": 98.888901
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Tasikmalaya-Java Island",
+    "name": "Cibeureum Airport",
+    "icao": "WICM",
+    "lat": -7.34660005569,
+    "lon": 108.246002197
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Tiom-Papua Island",
+    "name": "Tiom Airport",
+    "icao": "ID-TMY",
+    "lat": -3.9256,
+    "lon": 138.4555
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tenggara",
+    "city": "Waha-Tomea Island",
+    "name": "Maranggo Airport",
+    "icao": "WA44",
+    "lat": -5.7645702362061,
+    "lon": 123.91699981689
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tenggara",
+    "city": "Wawooru-Celebes Island",
+    "name": "Ponggaluku Airport",
+    "icao": "WAAL",
+    "lat": -4.3166670799255,
+    "lon": 122.46666717529
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kamiri-Numfoor Island",
+    "name": "Kamiri Airfield",
+    "icao": "ID-0002",
+    "lat": -0.971503973007,
+    "lon": 134.809005737
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Namber-Numfoor Island",
+    "name": "Namber Airfield",
+    "icao": "ID-0001",
+    "lat": -1.0733499527,
+    "lon": 134.830993652
+  },
+  {
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Bali",
+    "name": "Discovery Helipad",
+    "icao": "ID-0015",
+    "lat": -8.72805555556,
+    "lon": 115.166111111
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Papua",
+    "name": "Angguruk Airstrip",
+    "icao": "ID-0026",
+    "lat": -4.2001,
+    "lon": 139.4329
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Timur",
+    "city": "Banyuwangi",
+    "name": "Blimbingsari Airport",
+    "icao": "ID-0011",
+    "lat": -8.31015,
+    "lon": 114.3401
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Beoga",
+    "name": "Beoga Airport",
+    "icao": "ID-0029",
+    "lat": -3.8165,
+    "lon": 137.4252
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Borme",
+    "name": "Borme Airstrip",
+    "icao": "ID-0036",
+    "lat": -4.3945,
+    "lon": 140.4361
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Jila",
+    "name": "Jila Airstrip",
+    "icao": "ID-0071",
+    "lat": -4.24677,
+    "lon": 137.59563
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kanggime",
+    "name": "Kanggime Airstrip",
+    "icao": "ID-0073",
+    "lat": -3.6657,
+    "lon": 138.3619
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kobakma",
+    "name": "Kobakma Airstrip",
+    "icao": "ID-0081",
+    "lat": -3.66634,
+    "lon": 139.0592
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Owi Island",
+    "name": "Owi Airfield",
+    "icao": "ID-0125",
+    "lat": -1.2455,
+    "lon": 136.2091
+  },
+  {
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Pemuteran",
+    "name": "Letkol Wisnu Airstrip",
+    "icao": "ID-0013",
+    "lat": -8.14055555556,
+    "lon": 114.616666667
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Pogapa",
+    "name": "Pogapa Airstrip",
+    "icao": "ID-0121",
+    "lat": -3.752,
+    "lon": 136.8457
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Sela",
+    "name": "Sela Airstrip",
+    "icao": "ID-0133",
+    "lat": -4.5508,
+    "lon": 139.7344
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Sinak",
+    "name": "Sinak Airport",
+    "icao": "NKD",
+    "lat": -3.822,
+    "lon": 137.8406
+  },
+  {
+    "country": "Indonesia",
+    "state": "Aceh",
+    "city": "Takengon",
+    "name": "Rembele Airport",
+    "icao": "WITK",
+    "lat": 4.720833,
+    "lon": 96.849444
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Long Bawan-Borneo Island",
+    "name": "Long Bawan Airport",
+    "icao": "WRLB",
+    "lat": 3.9028,
+    "lon": 115.6921
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Nunukan-Nunukan Island",
+    "name": "Nunukan Airport",
+    "icao": "WRLF",
+    "lat": 4.13333333333,
+    "lon": 117.666666667
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Tanjung Selor-Borneo Island",
+    "name": "Tanjung Harapan Airport",
+    "icao": "WALG",
+    "lat": 2.83583333333,
+    "lon": 117.373611111
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Senggeh",
+    "name": "Senggeh Airport",
+    "icao": "WAJS",
+    "lat": -3.45,
+    "lon": 140.779
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Sugapa-Papua Island",
+    "name": "Bilogai-Sugapa Airport",
+    "icao": "ID-ZGP",
+    "lat": -3.73956,
+    "lon": 137.031998
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Amahai-Seram Island",
+    "name": "Amahai Airport",
+    "icao": "WAPA",
+    "lat": -3.34800004959,
+    "lon": 128.925994873
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Arso-Papua Island",
+    "name": "Arso Airport",
+    "icao": "WAJA",
+    "lat": -2.93333292007446,
+    "lon": 140.783340454101
+  },
+  {
+    "country": "Indonesia",
+    "state": "Lampung",
+    "city": "Astraksetra-Sumatra Island",
+    "name": "Gunung Batin Airport",
+    "icao": "ID-AKQ",
+    "lat": -4.61113977432251,
+    "lon": 105.2320022583
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Atambua-Timor Island",
+    "name": "Haliwen Airport",
+    "icao": "WRKA",
+    "lat": -9.07304954528999,
+    "lon": 124.904998779
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Atinjoe-Papua Island",
+    "name": "Teminabuan Airport",
+    "icao": "WAST",
+    "lat": -1.44472002983093,
+    "lon": 132.02099609375
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Ba'a - Rote Island",
+    "name": "David Constantijn Saudale Airport",
+    "icao": "WRKR",
+    "lat": -10.7673,
+    "lon": 123.0747
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Bajawa-Flores Island",
+    "name": "Pahdameleda Airport",
+    "icao": "WRKB",
+    "lat": -8.8131,
+    "lon": 120.9988
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Bandung-Java Island",
+    "name": "Margahayu Airport",
+    "icao": "WIAK",
+    "lat": -6.98277997971,
+    "lon": 107.572998047
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tenggara",
+    "city": "Bau Bau-Butung Island",
+    "name": "Betoambari Airport",
+    "icao": "WAWB",
+    "lat": -5.48687982559204,
+    "lon": 122.56900024414
+  },
+  {
+    "country": "Indonesia",
+    "state": "Riau",
+    "city": "Bengkalis-Sumatra Island",
+    "name": "Sungai Pakning Bengkalis Airport",
+    "icao": "WIBS",
+    "lat": 1.37000000476837,
+    "lon": 102.139999389648
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatra Selatan",
+    "city": "Bentayan-Sumatra Island",
+    "name": "Bentayan Airport",
+    "icao": "WIPY",
+    "lat": -2.43443,
+    "lon": 104.092003
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Biak-Supiori Island",
+    "name": "Biak Manuhua Airport",
+    "icao": "WABU",
+    "lat": -1.17358994483947,
+    "lon": 136.080001831054
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tengah",
+    "city": "Boalang-Celebes Island",
+    "name": "Boalang Airport",
+    "icao": "ID-BJG",
+    "lat": -0.972895979881286,
+    "lon": 122.144996643066
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Bula-Seram Island",
+    "name": "Bula Airport",
+    "icao": "WAPB",
+    "lat": -3.10996007919311,
+    "lon": 130.509994506835
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Bunju Island",
+    "name": "Bunyu Airport",
+    "icao": "WALV",
+    "lat": 3.45571994781,
+    "lon": 117.866996765
+  },
+  {
+    "country": "Indonesia",
+    "state": "Central Kalimantan",
+    "city": "Buntok-Borneo Island",
+    "name": "Buntok Airport",
+    "icao": "WRBU",
+    "lat": -1.73250997066,
+    "lon": 114.838996887
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Tengah",
+    "city": "Cilacap-Java Island",
+    "name": "Cilacap Wulung Airport",
+    "icao": "ID-0004",
+    "lat": -7.72057008743,
+    "lon": 109.017997742
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Dobo-Warmar Island",
+    "name": "Rar Gwamar Airport",
+    "icao": "WAPD",
+    "lat": -5.77222013473999,
+    "lon": 134.212005615
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Fekfetal / Jerdera-Trangan Island",
+    "name": "Aru Airport",
+    "icao": "WA1B",
+    "lat": -6.57342004776001,
+    "lon": 134.147003173828
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku Utara",
+    "city": "Galela-Celebes Island",
+    "name": "Gamarmalamo Airport",
+    "icao": "WAMA",
+    "lat": 1.83833003044128,
+    "lon": 127.786003112792
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatera Utara",
+    "city": "Helvetia-Sumatra Island",
+    "name": "Helvetia Airport",
+    "icao": "WIMH",
+    "lat": 3.68305993080139,
+    "lon": 98.6442031860351
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Jakarta",
+    "name": "Pulau Panjang Airport",
+    "icao": "ID-0003",
+    "lat": -5.644444,
+    "lon": 106.5625
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Kalabahi-Alor Island",
+    "name": "Kalabahi Airport",
+    "icao": "WRKM",
+    "lat": -8.21666717529296,
+    "lon": 124.566665649414
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Kalijati-Java Island",
+    "name": "Kalijati Airport",
+    "icao": "WIIK",
+    "lat": -6.53139019012,
+    "lon": 107.658996582
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Kambuaya-Papua Island",
+    "name": "Kambuaya Airport",
+    "icao": "ID-KBX",
+    "lat": -1.3169,
+    "lon": 132.2857
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kamur-Papua Island",
+    "name": "Kamur Airport",
+    "icao": "ID-KCD",
+    "lat": -6.1851,
+    "lon": 138.6372
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Tengah",
+    "city": "Karimunjawa",
+    "name": "Dewadaru - Kemujan Island",
+    "icao": "WARU",
+    "lat": -5.80091,
+    "lon": 110.47838
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Kebar-Papua Island",
+    "name": "Kebar Airport",
+    "icao": "WASE",
+    "lat": -0.637100994586944,
+    "lon": 133.128005981445
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Keisah-Papua Island",
+    "name": "Keisah Airport",
+    "icao": "ID-KEA",
+    "lat": -7.66666984558105,
+    "lon": 140.5
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kepi-Papua Island",
+    "name": "Kepi Airport",
+    "icao": "WAKP",
+    "lat": -6.5418,
+    "lon": 139.3318
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Timur",
+    "city": "Ketapang-Madura Island",
+    "name": "Ketapang Airport",
+    "icao": "ID-0005",
+    "lat": -6.89986276626586,
+    "lon": 113.282890319824
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kiman-Papua Island",
+    "name": "Kiman Airport",
+    "icao": "ID-KMM",
+    "lat": -3.66667008399963,
+    "lon": 136.166671752929
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatera Utara",
+    "city": "Kisaran-Sumatra Island",
+    "name": "Kisaran Airport",
+    "icao": "WIML",
+    "lat": 2.97378993034362,
+    "lon": 99.6009979248046
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kokonau-Papua Island",
+    "name": "Kokonau Airport",
+    "icao": "WABN",
+    "lat": -4.71075,
+    "lon": 136.43515
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Utara",
+    "city": "Kotamubagu-Celebes Island",
+    "name": "Kotamubagu/Mopait Airport",
+    "icao": "WAMB",
+    "lat": 0.6835,
+    "lon": 124.2757
+  },
+  {
+    "country": "Indonesia",
+    "state": "Central Kalimantan",
+    "city": "Kuala Pembuang",
+    "name": "Kuala Pembuang Airport",
+    "icao": "WAOL",
+    "lat": -2.86666989326,
+    "lon": 112.532997131
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jambi",
+    "city": "Kuala Tungkal-Sumatra Island",
+    "name": "Kuala Tungkal Airport",
+    "icao": "WIPF",
+    "lat": -0.816667020320892,
+    "lon": 103.466667175292
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku Utara",
+    "city": "Kuripasai-Celebes Island",
+    "name": "Jailolo/Kuripasai Airport",
+    "icao": "WAMD",
+    "lat": 1.11699998378753,
+    "lon": 127.483001708984
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku Utara",
+    "city": "Labuha-Halmahera Island",
+    "name": "Oesman Sadik Airport",
+    "icao": "WAPH",
+    "lat": -0.635259,
+    "lon": 127.501999
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Lereh-Papua Island",
+    "name": "Lereh Airport",
+    "icao": "WAJL",
+    "lat": -3.0795,
+    "lon": 139.952
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Barat",
+    "city": "Lunyuk-Simbawa Island",
+    "name": "Lunyuk Airport",
+    "icao": "ID-LYK",
+    "lat": -8.9889,
+    "lon": 117.2158
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Maikoor Island",
+    "name": "Nangasuri Airport",
+    "icao": "WAPK",
+    "lat": -6.06619977951049,
+    "lon": 134.274002075195
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Maliana-Alor Island",
+    "name": "Maliana airport",
+    "icao": "ID-MPT",
+    "lat": -8.16773986816406,
+    "lon": 125.009002685546
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Selatan",
+    "city": "Malimpung-Celebes Island",
+    "name": "Malimpung Airport",
+    "icao": "WAAG",
+    "lat": -3.7382,
+    "lon": 119.7502
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Malinau-Borneo Island",
+    "name": "Malinau Airport",
+    "icao": "WRLM",
+    "lat": 3.57514,
+    "lon": 116.61967
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Mangkajang-Borneo Island",
+    "name": "Mangkajang Airport",
+    "icao": "WALX",
+    "lat": 2.00750994682,
+    "lon": 117.749000549
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku Utara",
+    "city": "Mangole Island",
+    "name": "Mangole Airport, Falabisahaya",
+    "icao": "WAPE",
+    "lat": -1.87578999996185,
+    "lon": 125.830001831054
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Selatan",
+    "city": "Masamba-Celebes Island",
+    "name": "Andi Jemma Airport",
+    "icao": "WAWM",
+    "lat": -2.55803,
+    "lon": 120.323997
+  },
+  {
+    "country": "Indonesia",
+    "state": "Riau",
+    "city": "Matak Island",
+    "name": "Tarempa Airport",
+    "icao": "WIOM",
+    "lat": 3.34811997413635,
+    "lon": 106.258003234863
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Melak-Borneo Island",
+    "name": "Melak Airport",
+    "icao": "WALE",
+    "lat": -0.203611001372,
+    "lon": 115.760002136
+  },
+  {
+    "country": "Indonesia",
+    "state": "Lampung",
+    "city": "Menggala-Sumatra Island",
+    "name": "Menggala Airport",
+    "icao": "WIAG",
+    "lat": -4.48943996429,
+    "lon": 105.217002869
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Mindiptana-Papua Island",
+    "name": "Mindiptana Airport",
+    "icao": "WAKD",
+    "lat": -5.75,
+    "lon": 140.367004394531
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku Utara",
+    "city": "Modjid-Celebes Island",
+    "name": "Kobok Airport",
+    "icao": "ID-WA98",
+    "lat": 1.10188996791839,
+    "lon": 127.703002929687
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Momi-Papua Island",
+    "name": "Waren Airport",
+    "icao": "WABW",
+    "lat": -1.6285300254822,
+    "lon": 134.12399291992
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Muara Badak-Borneo Island",
+    "name": "Muara Badak Pujangan Airport",
+    "icao": "WALQ",
+    "lat": -0.306075006723,
+    "lon": 117.416000366
+  },
+  {
+    "country": "Indonesia",
+    "state": "Central Kalimantan",
+    "city": "Murateweh-Borneo Island",
+    "name": "Beringin Airport",
+    "icao": "WAOM",
+    "lat": -0.940325021744,
+    "lon": 114.893875122
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Muting",
+    "name": "Muting Airport",
+    "icao": "ID-MUF",
+    "lat": -7.3147,
+    "lon": 140.5668
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Namlea-Buru Island",
+    "name": "Namlea Airport",
+    "icao": "WAPR",
+    "lat": -3.23556995391845,
+    "lon": 127.099998474121
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Namrole-Buru Island",
+    "name": "Namrole Airport",
+    "icao": "WAPG",
+    "lat": -3.8548,
+    "lon": 126.7012
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Obano-Papua Island",
+    "name": "Obano Airport",
+    "icao": "ID-OBD",
+    "lat": -3.9106,
+    "lon": 136.2306
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatera Utara",
+    "city": "Parapat-Sumatra Island",
+    "name": "Sibisa Airport",
+    "icao": "WIMP",
+    "lat": 2.6666669845581,
+    "lon": 98.933334350586
+  },
+  {
+    "country": "Indonesia",
+    "state": "Riau",
+    "city": "Paritsialing-Sumatra Island",
+    "name": "Unknown Airport",
+    "icao": "ID-PPJ",
+    "lat": -0.63333,
+    "lon": 103.300003
+  },
+  {
+    "country": "Indonesia",
+    "state": "Nusa Tenggara Timur",
+    "city": "Sabu-Sawu Island",
+    "name": "Sabu-Tardanu Airport",
+    "icao": "WATS",
+    "lat": -10.4924,
+    "lon": 121.8482
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku Utara",
+    "city": "Sanana-Seram Island",
+    "name": "Emalamo Sanana Airport",
+    "icao": "WAPN",
+    "lat": -2.08050990104675,
+    "lon": 125.967002868652
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Sanggata/Sangkimah",
+    "name": "Sanggata/Sangkimah Airport",
+    "icao": "WRLA",
+    "lat": 0.3847,
+    "lon": 117.543
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Sangkulirang-Borneo Island",
+    "name": "Sangkulirang Airport",
+    "icao": "WRLU",
+    "lat": 1.00089001656,
+    "lon": 117.996002197
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Saumlaki-Yamdena Island",
+    "name": "Saumlaki/Olilit Airport",
+    "icao": "WAPI",
+    "lat": -7.9886097908,
+    "lon": 131.305999756
+  },
+  {
+    "country": "Indonesia",
+    "state": "Bali",
+    "city": "Sawan-Bali Island",
+    "name": "Sawan Airport",
+    "icao": "ID-RZS",
+    "lat": -8.13278007507324,
+    "lon": 115.172996520996
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Sinkawang-Borneo Island",
+    "name": "Singkawang Airport",
+    "icao": "WIOI",
+    "lat": 1.07568001747131,
+    "lon": 109.688003540039
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatra Barat",
+    "city": "Sipora Island",
+    "name": "Rokot Airport",
+    "icao": "WIBR",
+    "lat": -2.0991199016571,
+    "lon": 99.700698852539
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Timur",
+    "city": "Sumenep-Madura Island",
+    "name": "Trunojoyo Airport",
+    "icao": "WART",
+    "lat": -7.0242,
+    "lon": 113.89023
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jambi",
+    "city": "Sungai Penuh",
+    "name": "Departi Parbo Airport",
+    "icao": "ID-KRC",
+    "lat": -2.093,
+    "lon": 101.4683
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Swach",
+    "name": "Waris Airport",
+    "icao": "WAJR",
+    "lat": -3.235,
+    "lon": 140.994
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sumatera Utara",
+    "city": "Tabbing Tinggi-Sumatra Island",
+    "name": "Tebing Tinggi Airport",
+    "icao": "WIMT",
+    "lat": 3.36666703224182,
+    "lon": 99.1166687011718
+  },
+  {
+    "country": "Indonesia",
+    "state": "Riau",
+    "city": "Tanjung Balai-Karinmunbesar Island",
+    "name": "Sei Bati Airport",
+    "icao": "WIBT",
+    "lat": 1.0527,
+    "lon": 103.3931
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tengah",
+    "city": "Tentena-Celebes Island",
+    "name": "Tentena Airport",
+    "icao": "WAMC",
+    "lat": -2.0,
+    "lon": 120.76667022705
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Tengah",
+    "city": "Tjepu-Java Island",
+    "name": "Ngloram Airport",
+    "icao": "WARC",
+    "lat": -7.19484166667,
+    "lon": 111.548166667
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tengah",
+    "city": "Toli Toli-Celebes Island",
+    "name": "Sultan Bantilan Airport",
+    "icao": "WAMI",
+    "lat": 1.123428,
+    "lon": 120.793658
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tengah",
+    "city": "Wuasa-Celebes Island",
+    "name": "Wuasa Airport",
+    "icao": "WAMU",
+    "lat": -1.42499995231628,
+    "lon": 120.31639099121
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Jawa Barat",
+    "name": "Jatiwangi Airport",
+    "icao": "ID-0010",
+    "lat": -6.678375,
+    "lon": 108.252219444
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Papua",
+    "name": "Aboge Airstrip",
+    "icao": "ID-0022",
+    "lat": -6.0634,
+    "lon": 139.267
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Papua",
+    "name": "Akimuga",
+    "icao": "WABC",
+    "lat": -4.6043,
+    "lon": 137.6576
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Papua",
+    "name": "Ambisibil Airstrip",
+    "icao": "ID-0025",
+    "lat": -4.6712,
+    "lon": 140.5746
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Timur",
+    "city": "Jawa Timur",
+    "name": "Kangean Field",
+    "icao": "ID-0170",
+    "lat": -6.86,
+    "lon": 115.299
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku Utara",
+    "city": "Maluku Utara",
+    "name": "Weda Bay Airport",
+    "icao": "ID-0181",
+    "lat": 0.468328,
+    "lon": 127.945101
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Aideralma",
+    "name": "Aideralma Airstrip",
+    "icao": "ID-0171",
+    "lat": -4.3341,
+    "lon": 137.8316
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Alama",
+    "name": "Alama Airstrip",
+    "icao": "ID-0168",
+    "lat": -4.2631,
+    "lon": 137.8922
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Awinbon",
+    "name": "Awinbon Airstrip",
+    "icao": "ID-0178",
+    "lat": -5.168334,
+    "lon": 140.381388
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Bandung",
+    "name": "Santosa Hospital Helipad",
+    "icao": "ID-0140",
+    "lat": -6.915161,
+    "lon": 107.600124
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Basiem",
+    "name": "Basiem Airport",
+    "icao": "ID-0177",
+    "lat": -6.058573,
+    "lon": 138.383542
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Selatan",
+    "city": "Benteng",
+    "name": "Selayar/Aroepala Airport",
+    "icao": "WAWH",
+    "lat": -6.1751,
+    "lon": 120.4362
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Bime",
+    "name": "Bime Airstrip",
+    "icao": "ID-0030",
+    "lat": -4.487,
+    "lon": 140.219
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Binsari",
+    "name": "Binsari Airstrip",
+    "icao": "ID-0031",
+    "lat": -4.726,
+    "lon": 140.7925
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Binuang",
+    "name": "Binuang Airstrip",
+    "icao": "ID-0032",
+    "lat": 3.7147,
+    "lon": 115.8517
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Biri",
+    "name": "Biri Airstrip",
+    "icao": "ID-0033",
+    "lat": -2.87793,
+    "lon": 137.76816
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Bogor",
+    "name": "Semplak Airport",
+    "icao": "WIAJ",
+    "lat": -6.54027777778,
+    "lon": 106.755277778
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Bomomani",
+    "name": "Bomoani Airstrip",
+    "icao": "ID-0035",
+    "lat": -3.9657,
+    "lon": 135.9352
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Buduk Kabul",
+    "name": "Buduk Kabul Airstrip",
+    "icao": "ID-0037",
+    "lat": 3.7978,
+    "lon": 115.7065
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Bugalaga",
+    "name": "Bugalaga Airstrip",
+    "icao": "ID-0038",
+    "lat": -3.6235,
+    "lon": 136.5963
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Comoro",
+    "name": "Comoro Airstrip",
+    "icao": "ID-0040",
+    "lat": -5.9255,
+    "lon": 138.6324
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Danau Bira",
+    "name": "Lake Holmes Airstrip",
+    "icao": "ID-0089",
+    "lat": -2.4716,
+    "lon": 137.9879
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Daufo",
+    "name": "Daufo Airfield",
+    "icao": "ID-0043",
+    "lat": -3.1737,
+    "lon": 137.2544
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Derapos",
+    "name": "Derapos Airstrip",
+    "icao": "ID-0044",
+    "lat": -2.9737,
+    "lon": 137.2234
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Doyo Baru",
+    "name": "Doyo Baru Airport",
+    "icao": "ID-0046",
+    "lat": -2.5388,
+    "lon": 140.4641
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Eaopoto",
+    "name": "Eaopoto Airstrip",
+    "icao": "ID-0047",
+    "lat": -3.9497,
+    "lon": 136.3383
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Engkadik",
+    "name": "Engkadik Airstrip",
+    "icao": "ID-0048",
+    "lat": 0.9797,
+    "lon": 110.0282
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Fef",
+    "name": "Fef Airport",
+    "icao": "ID-0051",
+    "lat": -0.8103,
+    "lon": 132.4326
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Foao",
+    "name": "Foao Airstrip",
+    "icao": "ID-0052",
+    "lat": -3.066,
+    "lon": 139.099
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Fruata",
+    "name": "Fruata Airstrip",
+    "icao": "ID-0053",
+    "lat": -2.9858,
+    "lon": 133.5001
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Geyarek",
+    "name": "Geyarek Airstrip",
+    "icao": "ID-0054",
+    "lat": -4.6504,
+    "lon": 138.75226
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Holuwon",
+    "name": "Holuwon Airstrip",
+    "icao": "ID-0060",
+    "lat": -4.4804,
+    "lon": 139.2741
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Ibele",
+    "name": "Ibele Airstrip",
+    "icao": "ID-0063",
+    "lat": -4.052,
+    "lon": 138.796
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Illaga",
+    "name": "Illaga III Airport",
+    "icao": "ID-0066",
+    "lat": -3.9993,
+    "lon": 137.65317
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Timur",
+    "city": "Jember",
+    "name": "Noto Hadinegoro, Jember Airport",
+    "icao": "ID-0006",
+    "lat": -8.238056,
+    "lon": 113.694439
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kalca",
+    "name": "Nalca Airstrip",
+    "icao": "ID-0101",
+    "lat": -4.3636,
+    "lon": 139.8351
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Keneyan",
+    "name": "Keneyan Airstrip",
+    "icao": "ID-0078",
+    "lat": -4.5995,
+    "lon": 138.3844
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Kerapak",
+    "name": "Kerapak Airstrip",
+    "icao": "ID-0079",
+    "lat": 0.0939,
+    "lon": 111.9083
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Barat",
+    "city": "Kertajati",
+    "name": "Kertajati International Airport",
+    "icao": "WICA",
+    "lat": -6.648924,
+    "lon": 108.166692
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kimaam",
+    "name": "Kimaam Airport",
+    "icao": "KMM",
+    "lat": -7.9781999588,
+    "lon": 138.852005005
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kiwirok",
+    "name": "Kiwirok Airstrip",
+    "icao": "WAJK",
+    "lat": -4.7135,
+    "lon": 140.7407
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Komopa",
+    "name": "Komopa Airstrip",
+    "icao": "ID-0082",
+    "lat": -3.7998,
+    "lon": 136.4775
+  },
+  {
+    "country": "Indonesia",
+    "state": "Lampung",
+    "city": "Krui",
+    "name": "Muhammad Taufiq Kiemas Airport",
+    "icao": "WILP",
+    "lat": -5.211562,
+    "lon": 103.936501
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Kuala Randau",
+    "name": "Kuala Randau Airstrip",
+    "icao": "ID-0085",
+    "lat": -0.5824,
+    "lon": 110.4728
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kustera",
+    "name": "Kustera Airstrip",
+    "icao": "ID-0086",
+    "lat": -2.7467,
+    "lon": 137.92
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kwerba",
+    "name": "Kwerba Airstrip",
+    "icao": "ID-0087",
+    "lat": -2.6434,
+    "lon": 138.4087
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Kwijawagi",
+    "name": "Kwijawagi",
+    "icao": "ID-0088",
+    "lat": -4.0256,
+    "lon": 138.2046
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Landikma",
+    "name": "Landikma Airstrip",
+    "icao": "ID-0090",
+    "lat": -3.8212,
+    "lon": 139.2423
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Langda",
+    "name": "Langda Airstrip",
+    "icao": "ID-0091",
+    "lat": -4.6785,
+    "lon": 139.9745
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Lokok",
+    "name": "Lokok Airstrip",
+    "icao": "ID-0092",
+    "lat": 1.0215,
+    "lon": 110.0505
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Long Alango",
+    "name": "Long Alango Airstrip",
+    "icao": "ID-0093",
+    "lat": 2.9304,
+    "lon": 115.8512
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Long Segar",
+    "name": "Long Segar Airstrip",
+    "icao": "ID-0095",
+    "lat": 0.7981,
+    "lon": 116.8157
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Luban",
+    "name": "Luban Airstrip",
+    "icao": "ID-0096",
+    "lat": -4.2153,
+    "lon": 140.5606
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Lumbis",
+    "name": "Lumbis Airstrip",
+    "icao": "ID-0097",
+    "lat": 4.3038,
+    "lon": 116.2175
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Madya Raya",
+    "name": "Madya Raya Airstrip",
+    "icao": "ID-0098",
+    "lat": -0.865,
+    "lon": 111.6637
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Magoda",
+    "name": "Magoda Airstrip",
+    "icao": "ID-0099",
+    "lat": -3.9906,
+    "lon": 135.8532
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Tengah",
+    "city": "Morowali",
+    "name": "Maleo Airport",
+    "icao": "MOH",
+    "lat": -2.203333,
+    "lon": 121.660278
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jambi",
+    "city": "Muara Bungo",
+    "name": "Muara Bungo Airport",
+    "icao": "WIPI",
+    "lat": -1.1278,
+    "lon": 102.135
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Nanga Mawong",
+    "name": "Nanga Mawong Airstrip",
+    "icao": "ID-0103",
+    "lat": -0.4322,
+    "lon": 112.3271
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Nanga Nyabu",
+    "name": "Nanga Nyabu Airstrip",
+    "icao": "ID-0105",
+    "lat": 1.0152,
+    "lon": 112.714
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Nania",
+    "name": "Nania Airstrip",
+    "icao": "ID-0109",
+    "lat": -4.3627,
+    "lon": 139.3025
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Nian Baru",
+    "name": "Nain Baru Airstrip",
+    "icao": "ID-0108",
+    "lat": 1.4032,
+    "lon": 115.3267
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Nipsan",
+    "name": "Nipsan Airstrip",
+    "icao": "ID-0110",
+    "lat": -4.1141,
+    "lon": 139.6438
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Pagai",
+    "name": "Pagai Airstrip",
+    "icao": "ID-0115",
+    "lat": -3.5362,
+    "lon": 139.7826
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Selatan",
+    "city": "Palopo",
+    "name": "Bua Airport",
+    "icao": "WAFD",
+    "lat": -3.082997,
+    "lon": 120.245018
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Papasena",
+    "name": "Papasena Airstrip",
+    "icao": "ID-0117",
+    "lat": -2.915,
+    "lon": 138.5876
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Pass Valley",
+    "name": "Pass Valley Airstrip",
+    "icao": "ID-0118",
+    "lat": -3.8598,
+    "lon": 139.0989
+  },
+  {
+    "country": "Indonesia",
+    "state": "North Kalimantan",
+    "city": "Pertamina Oil & Gas Corp.",
+    "name": "Datah Dian Airstrip",
+    "icao": "ID-0042",
+    "lat": 2.0062,
+    "lon": 115.152
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Pit",
+    "name": "Pit River Airstrip",
+    "icao": "ID-0120",
+    "lat": -3.9819,
+    "lon": 138.5338
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Poga",
+    "name": "Poga Airstrip",
+    "icao": "ID-0123",
+    "lat": -3.8031,
+    "lon": 138.5823
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Polimo",
+    "name": "Polimo Airstrip",
+    "icao": "ID-0122",
+    "lat": -4.2197,
+    "lon": 139.0339
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Prongkoli",
+    "name": "Prongkoli Airstrip",
+    "icao": "ID-0124",
+    "lat": -4.1889,
+    "lon": 139.3429
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Puldamat",
+    "name": "Puldamat",
+    "icao": "ID-0126",
+    "lat": -4.3196,
+    "lon": 139.8704
+  },
+  {
+    "country": "Indonesia",
+    "state": "Jawa Timur",
+    "city": "Purwosari",
+    "name": "Pandaan Helipad",
+    "icao": "ID-0021",
+    "lat": -7.7683326,
+    "lon": 112.7391373
+  },
+  {
+    "country": "Indonesia",
+    "state": "Sulawesi Selatan",
+    "city": "Rampi",
+    "name": "Onondowa/Rampi Airport",
+    "icao": "ID-0113",
+    "lat": -2.1254,
+    "lon": 120.2967
+  },
+  {
+    "country": "Indonesia",
+    "state": "East Kalimantan",
+    "city": "Sangata",
+    "name": "Tanjung Bara Airport",
+    "icao": "WRLJ",
+    "lat": 0.5605,
+    "lon": 117.64435
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Sape",
+    "name": "Sape Airstrip",
+    "icao": "ID-0131",
+    "lat": -4.7655,
+    "lon": 140.5054
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Saumlaki-Yamdena Island",
+    "name": "Saumlaki/Lolurun Airport",
+    "icao": "ID-0132",
+    "lat": -7.852368,
+    "lon": 131.345413
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Seradala",
+    "name": "Seradala Airstrip",
+    "icao": "ID-0134",
+    "lat": -4.9797,
+    "lon": 139.9035
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Serukam",
+    "name": "Serukam",
+    "icao": "ID-0136",
+    "lat": 0.797,
+    "lon": 109.3317
+  },
+  {
+    "country": "Indonesia",
+    "state": "Aceh",
+    "city": "Singkil",
+    "name": "Syekh Hamzah Fansyuri Airport",
+    "icao": "ID-0139",
+    "lat": 2.2695,
+    "lon": 97.9666
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Soba",
+    "name": "Soba Airstrip",
+    "icao": "ID-0142",
+    "lat": -4.3453,
+    "lon": 139.1791
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Sumtamon",
+    "name": "Sumtamon Airstrip",
+    "icao": "ID-0144",
+    "lat": -4.8083,
+    "lon": 140.1715
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Barat",
+    "city": "Sungai Tontang",
+    "name": "Sungai Tontang Airstrip",
+    "icao": "ID-0145",
+    "lat": -0.73,
+    "lon": 110.378
+  },
+  {
+    "country": "Indonesia",
+    "state": "West Papua",
+    "city": "Taige",
+    "name": "Taige Airstrip",
+    "icao": "ID-0148",
+    "lat": -1.3105,
+    "lon": 133.8517
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Takar",
+    "name": "Takar Airstrip",
+    "icao": "ID-0150",
+    "lat": -2.0375,
+    "lon": 139.113
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Tangma",
+    "name": "Tangma Airstrip",
+    "icao": "ID-0151",
+    "lat": -4.26,
+    "lon": 139.047
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Tayayi",
+    "name": "Tayayi Airstrip",
+    "icao": "ID-0153",
+    "lat": -3.0447,
+    "lon": 137.6217
+  },
+  {
+    "country": "Indonesia",
+    "state": "Kalimantan Selatan",
+    "city": "Teluk Kepayang",
+    "name": "Teluk Kepayang Airport",
+    "icao": "WAOT",
+    "lat": -3.4203,
+    "lon": 115.6867
+  },
+  {
+    "country": "Indonesia",
+    "state": "Maluku",
+    "city": "Tiakur",
+    "name": "Jos Orno Imsula Airport",
+    "icao": "JIO",
+    "lat": -8.13911,
+    "lon": 127.9075
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Turimo",
+    "name": "Turimo Airstrip",
+    "icao": "ID-0156",
+    "lat": -3.2735,
+    "lon": 137.558
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Waff",
+    "name": "Waff Airstrip",
+    "icao": "ID-0157",
+    "lat": -2.3307,
+    "lon": 138.7489
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Walerek",
+    "name": "Walerek Airstrip",
+    "icao": "ID-0158",
+    "lat": -3.9925,
+    "lon": 139.4907
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Wandama",
+    "name": "Wandama Airstrip",
+    "icao": "ID-0160",
+    "lat": -4.5472,
+    "lon": 138.55225
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Wanggemalu",
+    "name": "Wanggemalu Airstrip",
+    "icao": "ID-0161",
+    "lat": -5.4974,
+    "lon": 139.9783
+  },
+  {
+    "country": "Indonesia",
+    "state": "Papua",
+    "city": "Yapil",
+    "name": "Yapil Airstrip",
+    "icao": "ID-0165",
+    "lat": -4.5407,
+    "lon": 140.5667
+  },
+  {
+    "country": "Indonesia",
+    "state": "Yogyakarta",
+    "city": "Yogyakarta",
+    "name": "Yogyakarta International Airport",
+    "icao": "WAHI",
+    "lat": -7.905338,
+    "lon": 110.057264
+  }
+]

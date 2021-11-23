@@ -1,0 +1,92 @@
+[
+  {
+    "country": "Laos",
+    "state": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "name": "Wattay International Airport",
+    "icao": "VLVT",
+    "lat": 17.9883003235,
+    "lon": 102.56300354
+  },
+  {
+    "country": "Laos",
+    "state": "Bokeo Province",
+    "city": "Huay Xai",
+    "name": "Ban Huoeisay Airport",
+    "icao": "VLHS",
+    "lat": 20.2572994232,
+    "lon": 100.43699646
+  },
+  {
+    "country": "Laos",
+    "state": "Louang Namtha Province",
+    "city": "Luang Namtha",
+    "name": "Luang Namtha Airport",
+    "icao": "VLLN",
+    "lat": 20.966999,
+    "lon": 101.400002
+  },
+  {
+    "country": "Laos",
+    "state": "Oudomxai Province",
+    "city": "Oudomsay",
+    "name": "Oudomsay Airport",
+    "icao": "VLOS",
+    "lat": 20.6826992034912,
+    "lon": 101.994003295898
+  },
+  {
+    "country": "Laos",
+    "state": "Xiangkhoang Province",
+    "city": "Xieng Khouang",
+    "name": "Xieng Khouang Airport",
+    "icao": "VLXK",
+    "lat": 19.450001,
+    "lon": 103.157997
+  },
+  {
+    "country": "Laos",
+    "state": "Savannakhet Province",
+    "city": "Savannakhet Province",
+    "name": "Savannakhet Airport",
+    "icao": "VLSK",
+    "lat": 16.5566005706787,
+    "lon": 104.76000213623
+  },
+  {
+    "country": "Laos",
+    "state": "Attapu Province",
+    "city": "Attopeu",
+    "name": "Attopeu Airport",
+    "icao": "VLAP",
+    "lat": 14.793056,
+    "lon": 107.045278
+  },
+  {
+    "country": "Laos",
+    "state": "Phongsali Province",
+    "city": "Phongsali Province",
+    "name": "Muang Ou Tai",
+    "icao": "LA-0003",
+    "lat": 22.1219444444,
+    "lon": 101.799166667
+  },
+  {
+    "country": "Laos",
+    "state": "Phongsali Province",
+    "city": "Phongsaly",
+    "name": "Boun Neau Airport",
+    "icao": "PCQ",
+    "lat": 21.6475,
+    "lon": 101.9
+  },
+  {
+    "country": "Laos",
+    "state": "Bokeo Province",
+    "city": "Xienglom",
+    "name": "Xienglom Airport",
+    "icao": "VLXL",
+    "lat": 19.6203,
+    "lon": 100.815332
+  }
+]

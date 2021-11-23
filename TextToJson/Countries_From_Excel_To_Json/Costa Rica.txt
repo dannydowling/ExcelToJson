@@ -1,0 +1,569 @@
+[
+  {
+    "country": "Costa Rica",
+    "state": "Alajuela",
+    "city": "San Jose",
+    "name": "Juan Santamaria International Airport",
+    "icao": "MROC",
+    "lat": 9.99386024475097,
+    "lon": -84.2088012695312
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Liberia",
+    "name": "Daniel Oduber Quiros International Airport",
+    "icao": "MRLB",
+    "lat": 10.5933,
+    "lon": -85.544403
+  },
+  {
+    "country": "Costa Rica",
+    "state": "San Jose",
+    "city": "San Jose",
+    "name": "Tobias Bolanos International Airport",
+    "icao": "MRPV",
+    "lat": 9.95705032348632,
+    "lon": -84.1398010253906
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Quepos",
+    "name": "Quepos Managua Airport",
+    "icao": "MRQP",
+    "lat": 9.44316005706787,
+    "lon": -84.1297988891601
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Puerto Limon",
+    "name": "Limon International Airport",
+    "icao": "MRLM",
+    "lat": 9.95796012878418,
+    "lon": -83.0220031738281
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Pococi",
+    "name": "Barra del Colorado Airport",
+    "icao": "MRBC",
+    "lat": 10.768699645996,
+    "lon": -83.5856018066406
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Roxana",
+    "name": "Aerotortuguero Airport",
+    "icao": "MRAO",
+    "lat": 10.42,
+    "lon": -83.6095
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Liberia",
+    "name": "La Flor Airport",
+    "icao": "MRLF",
+    "lat": 10.6499996185302,
+    "lon": -85.5329971313476
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Nicoya/Guanacate",
+    "name": "Guanacaste Airport",
+    "icao": "MRNC",
+    "lat": 10.1393995285034,
+    "lon": -85.44580078125
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Puntarenas",
+    "name": "Drake Bay Airport",
+    "icao": "MRDK",
+    "lat": 8.71889019012,
+    "lon": -83.6417007446
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Golfito",
+    "name": "Golfito Airport",
+    "icao": "MRGF",
+    "lat": 8.65400981903076,
+    "lon": -83.1821975708007
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Nicoya",
+    "name": "Nosara Airport",
+    "icao": "MRNS",
+    "lat": 9.97649002075,
+    "lon": -85.6529998779
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Alajuela",
+    "city": "Los Chiles",
+    "name": "Los Chiles Airport",
+    "icao": "MRLC",
+    "lat": 11.0353002548217,
+    "lon": -84.7061004638671
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Abangares",
+    "name": "Monte Alto Airport",
+    "icao": "MRMA",
+    "lat": 10.0833330154418,
+    "lon": -85.2666702270507
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Alajuela",
+    "city": "Alajuela",
+    "name": "Guatuso Airport",
+    "icao": "MRGT",
+    "lat": 10.6833333969116,
+    "lon": -84.8333358764648
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Brasilito",
+    "name": "Flamingo Airport",
+    "icao": "MRFL",
+    "lat": 10.4186000823974,
+    "lon": -85.7826995849609
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "CaÃ±as",
+    "name": "Hacienda La PacÃ­fica Airport",
+    "icao": "MRHP",
+    "lat": 10.4499998092651,
+    "lon": -85.1500015258789
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "CaÃ±as",
+    "name": "Mojica Airport",
+    "icao": "MRMJ",
+    "lat": 10.4307003021,
+    "lon": -85.1745986938
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Carrillo",
+    "name": "Playa Samara/Carrillo Airport",
+    "icao": "MRCR",
+    "lat": 9.8705101013184,
+    "lon": -85.481399536133
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Chorotega",
+    "name": "Dos MarÃ­as Airport",
+    "icao": "MRDM",
+    "lat": 9.92790985107421,
+    "lon": -84.9899978637695
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Guacimo",
+    "name": "Yucatica Airport",
+    "icao": "MRYT",
+    "lat": 10.3333330154418,
+    "lon": -83.6666641235351
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Guanacaste",
+    "name": "La ZampoÃ±a Airport",
+    "icao": "MRLA",
+    "lat": 10.2666673660278,
+    "lon": -85.4333343505859
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Guapiles",
+    "name": "Duacari 2 Airport",
+    "icao": "MRDC",
+    "lat": 10.3514995574951,
+    "lon": -83.630500793457
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Guapiles",
+    "name": "Codela Airport",
+    "icao": "MRCA",
+    "lat": 10.4139995575,
+    "lon": -85.0916976929
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Jaco",
+    "name": "Jaco Airport",
+    "icao": "MRJO",
+    "lat": 9.55527019500732,
+    "lon": -84.556396484375
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Las Trancas",
+    "name": "Las Trancas Airport",
+    "icao": "MRLT",
+    "lat": 10.5670003890991,
+    "lon": -85.5999984741211
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Liberia",
+    "name": "Catsa Airport",
+    "icao": "MECT",
+    "lat": 10.5169439315795,
+    "lon": -85.565559387207
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Liberia",
+    "name": "La Cueva Airport",
+    "icao": "MRLV",
+    "lat": 10.6812000274658,
+    "lon": -85.5280990600586
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "LimÃ³n",
+    "name": "Pandora Airport",
+    "icao": "MRPD",
+    "lat": 9.73217010498046,
+    "lon": -82.9832000732421
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "LimÃ³n",
+    "name": "Bataan (Monte Libano) Airport",
+    "icao": "MRBN",
+    "lat": 10.0833330154418,
+    "lon": -83.316665649414
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "LimÃ³n",
+    "name": "Roxana Farms Airport",
+    "icao": "MRRX",
+    "lat": 10.3081998825073,
+    "lon": -83.7543029785156
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Miramar",
+    "name": "Aranjuez Airport",
+    "icao": "MRAJ",
+    "lat": 10.057268,
+    "lon": -84.807556
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Nicoya",
+    "name": "Talolinga Airport",
+    "icao": "MRTL",
+    "lat": 10.3084001541137,
+    "lon": -85.4683990478515
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Parrita",
+    "name": "Esterillos / Finca Airport",
+    "icao": "MRET",
+    "lat": 9.53333282470703,
+    "lon": -84.4666671752929
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Parrita",
+    "name": "La Yolanda Airport",
+    "icao": "MRLY",
+    "lat": 9.55000019073486,
+    "lon": -84.566665649414
+  },
+  {
+    "country": "Costa Rica",
+    "state": "San Jose",
+    "city": "PÃ©rez ZeledÃ³n",
+    "name": "Santa Fe Airport",
+    "icao": "MRSF",
+    "lat": 9.30000019073486,
+    "lon": -83.6166687011718
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Pococi",
+    "name": "Hacienda La Suerte Airport",
+    "icao": "MRHS",
+    "lat": 10.4499998092651,
+    "lon": -83.6666641235351
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Puntarenas",
+    "name": "Dieciocho Airport",
+    "icao": "MRDO",
+    "lat": 8.90369987487793,
+    "lon": -83.4298019409179
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Puntarenas",
+    "name": "Laurel Airport",
+    "icao": "MRLE",
+    "lat": 8.44040966033935,
+    "lon": -82.9065017700195
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Puntarenas",
+    "name": "Punta Banco Airport",
+    "icao": "MRPO",
+    "lat": 8.35731029510498,
+    "lon": -83.1369018554687
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Puntarenas",
+    "name": "Rancho Nuevo Airport",
+    "icao": "MRRN",
+    "lat": 9.56666660308837,
+    "lon": -84.5166702270507
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Heredia",
+    "city": "Rio Frio / Progreso",
+    "name": "Rio Frio / Progreso Airport",
+    "icao": "MRRF",
+    "lat": 10.3274002075195,
+    "lon": -83.8876037597656
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Alajuela",
+    "city": "San Carlos",
+    "name": "Altamira de San Carlos Airport",
+    "icao": "MRAT",
+    "lat": 10.5166997909545,
+    "lon": -84.36669921875
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Alajuela",
+    "city": "San Carlos",
+    "name": "Frutez - Pital Airport",
+    "icao": "MRFP",
+    "lat": 10.4474000930786,
+    "lon": -84.3690032958984
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Heredia",
+    "city": "San Carlos",
+    "name": "Las Islas Airport",
+    "icao": "MRIS",
+    "lat": 10.5583000183105,
+    "lon": -83.9740982055664
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Heredia",
+    "city": "San Carlos",
+    "name": "Sarapigui Airport",
+    "icao": "MRSQ",
+    "lat": 10.471899986267,
+    "lon": -83.906997680664
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "San Pedro",
+    "name": "San Pedro Airport",
+    "icao": "MRSP",
+    "lat": 10.4179000854492,
+    "lon": -83.7529983520507
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Guanacaste",
+    "city": "Santa Cruz",
+    "name": "Rancho Humo Airport",
+    "icao": "MRRH",
+    "lat": 10.3166666030883,
+    "lon": -85.3333358764648
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Heredia",
+    "city": "Sarapiqui",
+    "name": "Hacienda Rio Cuarto Airport",
+    "icao": "MRHO",
+    "lat": 10.5666666030883,
+    "lon": -84.1500015258789
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Siquirres",
+    "name": "El Carmen de Siquirres Airport",
+    "icao": "MREC",
+    "lat": 10.2019996643066,
+    "lon": -83.4721984863281
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Siquirres",
+    "name": "Las Lomas Airport",
+    "icao": "MRLL",
+    "lat": 10.0666666030883,
+    "lon": -83.5833358764648
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Talamanca",
+    "name": "Shiroles Airport",
+    "icao": "MRSH",
+    "lat": 9.58076953887939,
+    "lon": -82.9598999023437
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Heredia",
+    "city": "TicabÃ¡n",
+    "name": "El Ceibo Airport",
+    "icao": "MREO",
+    "lat": 10.533332824707,
+    "lon": -83.8499984741211
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Alajuela",
+    "city": "Upala",
+    "name": "La Garroba Airport",
+    "icao": "MRLG",
+    "lat": 10.8000001907348,
+    "lon": -84.9166641235351
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Puntarenas",
+    "name": "Colorado Airstrip",
+    "icao": "CR-0003",
+    "lat": 9.011229,
+    "lon": -83.043617
+  },
+  {
+    "country": "Costa Rica",
+    "state": "San Jose",
+    "city": "AltaGracia Resort",
+    "name": "Altagracia Airport",
+    "icao": "MRAG",
+    "lat": 9.332707,
+    "lon": -83.582653
+  },
+  {
+    "country": "Costa Rica",
+    "state": "San Jose",
+    "city": "Area metropolitana",
+    "name": "Helibancosta Heliport",
+    "icao": "MRHB",
+    "lat": 9.93544960021972,
+    "lon": -84.0804977416992
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Marina Resort",
+    "name": "Los SueÃ±os Heliport",
+    "icao": "MRRM",
+    "lat": 9.67749977111816,
+    "lon": -84.6716690063476
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "PenÃ­nsula de Osa",
+    "name": "Sirena Aerodrome",
+    "icao": "MRSN",
+    "lat": 8.4776,
+    "lon": -83.591343
+  },
+  {
+    "country": "Costa Rica",
+    "state": "San Jose",
+    "city": "San Isidro",
+    "name": "Cajuela/San Isidro Airport",
+    "icao": "MRCJ",
+    "lat": 9.38862,
+    "lon": -83.68812
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Limon",
+    "city": "Tortuguero",
+    "name": "Barra del Tortuguero",
+    "icao": "MRBT",
+    "lat": 10.569,
+    "lon": -83.5149
+  },
+  {
+    "country": "Costa Rica",
+    "state": "San Jose",
+    "city": "Trinidad",
+    "name": "Altomonte Airport",
+    "icao": "MRAL",
+    "lat": 9.363861,
+    "lon": -83.626046
+  },
+  {
+    "country": "Costa Rica",
+    "state": "Puntarenas",
+    "city": "Uvita",
+    "name": "Papa Kilo Airport",
+    "icao": "MRPK",
+    "lat": 9.157537,
+    "lon": -83.735446
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "country": "Cameroon",
+    "state": "Littoral Region",
+    "city": "Douala",
+    "name": "Douala International Airport",
+    "icao": "FKKD",
+    "lat": 4.0060801506,
+    "lon": 9.71947956084999
+  },
+  {
+    "country": "Cameroon",
+    "state": "Centre Region",
+    "city": "YaoundÃ©",
+    "name": "YaoundÃ© Airport",
+    "icao": "FKKY",
+    "lat": 3.83604001998901,
+    "lon": 11.5235004425048
+  },
+  {
+    "country": "Cameroon",
+    "state": "West Region",
+    "city": "Bafoussam",
+    "name": "Bafoussam Airport",
+    "icao": "FKKU",
+    "lat": 5.53692007065,
+    "lon": 10.3545999527
+  },
+  {
+    "country": "Cameroon",
+    "state": "North-West Region",
+    "city": "Bamenda",
+    "name": "Bamenda Airport",
+    "icao": "FKKV",
+    "lat": 6.03923988342285,
+    "lon": 10.1225996017456
+  },
+  {
+    "country": "Cameroon",
+    "state": "East Region",
+    "city": "Abong M'bang",
+    "name": "Abong M'bang Airport",
+    "icao": "FKAG",
+    "lat": 3.96700000762939,
+    "lon": 13.1999998092651
+  },
+  {
+    "country": "Cameroon",
+    "state": "Adamaoua Region",
+    "city": "Banyo",
+    "name": "Banyo Airport",
+    "icao": "FKAB",
+    "lat": 6.7749900817871,
+    "lon": 11.8070001602172
+  },
+  {
+    "country": "Cameroon",
+    "state": "East Region",
+    "city": "Bertoua",
+    "name": "Bertoua Airport",
+    "icao": "FKKO",
+    "lat": 4.5486102104187,
+    "lon": 13.7260999679565
+  },
+  {
+    "country": "Cameroon",
+    "state": "East Region",
+    "city": "BÃ©tarÃ© Oya",
+    "name": "BÃ©tarÃ© Oya Airport",
+    "icao": "FKAO",
+    "lat": 5.50416994094848,
+    "lon": 14.0982999801635
+  },
+  {
+    "country": "Cameroon",
+    "state": "South Region",
+    "city": "Ebolowa",
+    "name": "Ebolowa Airport",
+    "icao": "FKKW",
+    "lat": 2.87599992752075,
+    "lon": 11.1850004196167
+  },
+  {
+    "country": "Cameroon",
+    "state": "Centre Region",
+    "city": "Eseka",
+    "name": "Eseka Airport",
+    "icao": "FKKE",
+    "lat": 3.65000009536743,
+    "lon": 10.7829999923706
+  },
+  {
+    "country": "Cameroon",
+    "state": "Far North Region",
+    "city": "KaÃ©lÃ©",
+    "name": "KaÃ©lÃ© Airport",
+    "icao": "FKKH",
+    "lat": 10.0924997329711,
+    "lon": 14.4455995559692
+  },
+  {
+    "country": "Cameroon",
+    "state": "South Region",
+    "city": "Kribi",
+    "name": "Kribi Airport",
+    "icao": "FKKB",
+    "lat": 2.8738899231,
+    "lon": 9.9777803421
+  },
+  {
+    "country": "Cameroon",
+    "state": "South-West Region",
+    "city": "Mamfe",
+    "name": "Mamfe Airport",
+    "icao": "FKKF",
+    "lat": 5.70417022705078,
+    "lon": 9.30638980865478
+  },
+  {
+    "country": "Cameroon",
+    "state": "Far North Region",
+    "city": "Yagoua",
+    "name": "Yagoua Airport",
+    "icao": "FKKJ",
+    "lat": 10.3561000823974,
+    "lon": 15.2371997833251
+  },
+  {
+    "country": "Cameroon",
+    "state": "South-West Region",
+    "city": "Campo",
+    "name": "Campo Airport",
+    "icao": "CM-0001",
+    "lat": 2.341137,
+    "lon": 9.847089
+  },
+  {
+    "country": "Cameroon",
+    "state": "South Region",
+    "city": "Djoum",
+    "name": "Djoum Airport",
+    "icao": "CM-0003",
+    "lat": 2.666859,
+    "lon": 12.666755
+  },
+  {
+    "country": "Cameroon",
+    "state": "East Region",
+    "city": "Mindourou",
+    "name": "Mindourou Airport",
+    "icao": "CM-0009",
+    "lat": 4.122123,
+    "lon": 14.541415
+  },
+  {
+    "country": "Cameroon",
+    "state": "East Region",
+    "city": "Ngola",
+    "name": "Ngola Airport",
+    "icao": "CM-0007",
+    "lat": 3.494501,
+    "lon": 15.332236
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Palau",
+    "state": "Airai",
+    "city": "Babelthuap Island",
+    "name": "Babelthuap Airport",
+    "icao": "PTRO",
+    "lat": 7.36731,
+    "lon": 134.544236
+  }
+]

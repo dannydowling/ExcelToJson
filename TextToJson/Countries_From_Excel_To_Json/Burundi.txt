@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Burundi",
+    "state": "Rutana Province",
+    "city": "Gihohi",
+    "name": "Gihohi Airport",
+    "icao": "HBBK",
+    "lat": -4.0342,
+    "lon": 30.1318
+  },
+  {
+    "country": "Burundi",
+    "state": "Ngozi Province",
+    "city": "Ngozi",
+    "name": "Mwumba Airport",
+    "icao": "BI-0002",
+    "lat": -2.879447,
+    "lon": 29.832178
+  },
+  {
+    "country": "Burundi",
+    "state": "Ruyigi Province",
+    "city": "Ruyigi",
+    "name": "Ruyigi Airport",
+    "icao": "BI-0001",
+    "lat": -3.471335,
+    "lon": 30.231303
+  }
+]

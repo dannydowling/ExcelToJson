@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Bermuda",
+    "state": "(unassigned)",
+    "city": "Boaz Island",
+    "name": "RNAS Boaz Island",
+    "icao": "BM-0001",
+    "lat": 32.32080078125,
+    "lon": -64.8411026000976
+  },
+  {
+    "country": "Bermuda",
+    "state": "(unassigned)",
+    "city": "Morgan's Point",
+    "name": "Naval Air Station Bermuda Annex",
+    "icao": "BM-0002",
+    "lat": 32.2698707580566,
+    "lon": -64.8516159057617
+  }
+]

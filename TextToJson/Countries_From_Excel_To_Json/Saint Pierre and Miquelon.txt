@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Saint Pierre and Miquelon",
+    "state": "Saint-Pierre",
+    "city": "Saint-Pierre",
+    "name": "St Pierre Airport",
+    "icao": "LFVP",
+    "lat": 46.7629013061523,
+    "lon": -56.1730995178222
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "state": "Miquelon-Longlade",
+    "city": "Miquelon",
+    "name": "Miquelon Airport",
+    "icao": "LFVM",
+    "lat": 47.095500946,
+    "lon": -56.3802986145
+  }
+]

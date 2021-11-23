@@ -1,0 +1,515 @@
+[
+  {
+    "country": "Ireland",
+    "state": "County Dublin",
+    "city": "Dublin",
+    "name": "Dublin Airport",
+    "icao": "EIDW",
+    "lat": 53.421299,
+    "lon": -6.27007
+  },
+  {
+    "country": "Ireland",
+    "state": "County Clare",
+    "city": "Shannon",
+    "name": "Shannon Airport",
+    "icao": "EINN",
+    "lat": 52.702,
+    "lon": -8.92482
+  },
+  {
+    "country": "Ireland",
+    "state": "County Cork",
+    "city": "Cork",
+    "name": "Cork Airport",
+    "icao": "EICK",
+    "lat": 51.8413009643554,
+    "lon": -8.49110984802246
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kerry",
+    "city": "Killarney",
+    "name": "Kerry Airport",
+    "icao": "EIKY",
+    "lat": 52.1809005737304,
+    "lon": -9.52377986907959
+  },
+  {
+    "country": "Ireland",
+    "state": "County Mayo",
+    "city": "Charleston",
+    "name": "Ireland West Knock Airport",
+    "icao": "EIKN",
+    "lat": 53.910301208496,
+    "lon": -8.81849002838134
+  },
+  {
+    "country": "Ireland",
+    "state": "County Galway",
+    "city": "Inis MÃ³r",
+    "name": "Inishmore Aerodrome",
+    "icao": "EIIM",
+    "lat": 53.1067008972168,
+    "lon": -9.65361022949218
+  },
+  {
+    "country": "Ireland",
+    "state": "County Longford",
+    "city": "Abbeyshrule",
+    "name": "Abbeyshrule Aerodrome",
+    "icao": "EIAB",
+    "lat": 53.5917015075683,
+    "lon": -7.64555978775024
+  },
+  {
+    "country": "Ireland",
+    "state": "County Offaly",
+    "city": "Birr",
+    "name": "Birr Aerodrome",
+    "icao": "EIBR",
+    "lat": 53.0705986022949,
+    "lon": -7.8983302116394
+  },
+  {
+    "country": "Ireland",
+    "state": "County Laois",
+    "city": "Limetree",
+    "name": "Limetree Airfield",
+    "icao": "IE-0011",
+    "lat": 53.1155,
+    "lon": -7.2443
+  },
+  {
+    "country": "Ireland",
+    "state": "County Donegal",
+    "city": "Donegal",
+    "name": "Donegal Airport",
+    "icao": "EIDL",
+    "lat": 55.0442008972168,
+    "lon": -8.34099960327148
+  },
+  {
+    "country": "Ireland",
+    "state": "County Mayo",
+    "city": "Belmullet",
+    "name": "Belmullet Aerodrome",
+    "icao": "EIBT",
+    "lat": 54.2228012085,
+    "lon": -10.0307998657
+  },
+  {
+    "country": "Ireland",
+    "state": "County Wicklow",
+    "city": "Brittas Bay",
+    "name": "Brittas Bay Airfield",
+    "icao": "EIBB",
+    "lat": 52.858208,
+    "lon": -6.06759
+  },
+  {
+    "country": "Ireland",
+    "state": "County Longford",
+    "city": "Castleforbes",
+    "name": "Castleforbes Airport",
+    "icao": "EICS",
+    "lat": 53.778301,
+    "lon": -7.83528
+  },
+  {
+    "country": "Ireland",
+    "state": "County Meath",
+    "city": "Gormanston",
+    "name": "Gormanston Aerodrome",
+    "icao": "EIGM",
+    "lat": 53.6347999572753,
+    "lon": -6.22770023345947
+  },
+  {
+    "country": "Ireland",
+    "state": "County Carlow",
+    "city": "Hacketstown",
+    "name": "Hacketstown Aerodrome",
+    "icao": "EIHN",
+    "lat": 52.8549995422363,
+    "lon": -6.54722023010253
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kilkenny",
+    "city": "Kilkenny",
+    "name": "Kilkenny Airport",
+    "icao": "EIKK",
+    "lat": 52.6507987976074,
+    "lon": -7.29611015319824
+  },
+  {
+    "country": "Ireland",
+    "state": "County Tipperary",
+    "city": "Killenaule",
+    "name": "Killenaule Airport",
+    "icao": "EIKI",
+    "lat": 52.634261,
+    "lon": -7.635262
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kildare",
+    "city": "Kilrush",
+    "name": "Kildare Aerodrome",
+    "icao": "EIKH",
+    "lat": 53.0635986328125,
+    "lon": -6.85527992248535
+  },
+  {
+    "country": "Ireland",
+    "state": "County Donegal",
+    "city": "Letterkenny",
+    "name": "Letterkenny Airfield",
+    "icao": "EILT",
+    "lat": 54.951302,
+    "lon": -7.67283
+  },
+  {
+    "country": "Ireland",
+    "state": "County Limerick",
+    "city": "Limerick",
+    "name": "Coonagh Aerodrome",
+    "icao": "EICN",
+    "lat": 52.6665000915527,
+    "lon": -8.68183040618896
+  },
+  {
+    "country": "Ireland",
+    "state": "County Cork",
+    "city": "Rathcoole",
+    "name": "Rathcoole Aerodrome",
+    "icao": "EIRT",
+    "lat": 52.105598449707,
+    "lon": -8.98332977294921
+  },
+  {
+    "country": "Ireland",
+    "state": "County Tipperary",
+    "city": "Thurles",
+    "name": "Moyne Aerodrome",
+    "icao": "EIMY",
+    "lat": 52.703098,
+    "lon": -7.70528
+  },
+  {
+    "country": "Ireland",
+    "state": "County Tipperary",
+    "city": "County Tipperary",
+    "name": "Britta's House Airstrip",
+    "icao": "IE-0001",
+    "lat": 52.6039078,
+    "lon": -8.4175884
+  },
+  {
+    "country": "Ireland",
+    "state": "County Dublin",
+    "city": "County Dublin",
+    "name": "Dolly's Grove",
+    "icao": "IE-0004",
+    "lat": 53.4225363,
+    "lon": -6.5461492
+  },
+  {
+    "country": "Ireland",
+    "state": "County Galway",
+    "city": "County Galway",
+    "name": "Clifden",
+    "icao": "IE-0006",
+    "lat": 53.54106,
+    "lon": -10.08394
+  },
+  {
+    "country": "Ireland",
+    "state": "County Mayo",
+    "city": "County Mayo",
+    "name": "Lough Conn Airstrip",
+    "icao": "IE-0008",
+    "lat": 54.0440589,
+    "lon": -9.216109
+  },
+  {
+    "country": "Ireland",
+    "state": "County Meath",
+    "city": "County Meath",
+    "name": "Dowth Hall Airstrip",
+    "icao": "IE-0009",
+    "lat": 53.709054,
+    "lon": -6.438029
+  },
+  {
+    "country": "Ireland",
+    "state": "County Donegal",
+    "city": "County Donegal",
+    "name": "Drumavish Airstrip",
+    "icao": "IE-0016",
+    "lat": 54.78812,
+    "lon": -7.724356
+  },
+  {
+    "country": "Ireland",
+    "state": "County Tipperary",
+    "city": "County Tipperary",
+    "name": "The Forge Airstrip",
+    "icao": "IE-0025",
+    "lat": 52.81052,
+    "lon": -8.13732
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kildare",
+    "city": "County Kildare",
+    "name": "Allenwood Airstrip",
+    "icao": "IE-0027",
+    "lat": 53.267785,
+    "lon": -6.839772
+  },
+  {
+    "country": "Ireland",
+    "state": "County Laois",
+    "city": "County Laois",
+    "name": "Borris-in-Ossory Airstrip",
+    "icao": "IE-0029",
+    "lat": 52.92613,
+    "lon": -7.65352
+  },
+  {
+    "country": "Ireland",
+    "state": "County Wexford",
+    "city": "County Wexford",
+    "name": "Ballyvaloo Airstrip",
+    "icao": "IE-0034",
+    "lat": 52.4144389,
+    "lon": -6.3630581
+  },
+  {
+    "country": "Ireland",
+    "state": "County Meath",
+    "city": "County Meath",
+    "name": "Taggarts Airstrip",
+    "icao": "IE-0035",
+    "lat": 53.449002,
+    "lon": -7.04799
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kildare",
+    "city": "County Kildare",
+    "name": "O'Loughlin Airstrip",
+    "icao": "IE-0038",
+    "lat": 53.17267,
+    "lon": -7.01867
+  },
+  {
+    "country": "Ireland",
+    "state": "County Westmeath",
+    "city": "County Westmeath",
+    "name": "Dorans Airstrip",
+    "icao": "IE-0040",
+    "lat": 53.51968,
+    "lon": -7.67858
+  },
+  {
+    "country": "Ireland",
+    "state": "County Wexford",
+    "city": "County Wexford",
+    "name": "Warrens Airstrip",
+    "icao": "IE-0041",
+    "lat": 52.6402118,
+    "lon": -6.298816
+  },
+  {
+    "country": "Ireland",
+    "state": "County Galway",
+    "city": "County Galway",
+    "name": "Whites Airstrip",
+    "icao": "IE-0043",
+    "lat": 53.66317,
+    "lon": -8.63488
+  },
+  {
+    "country": "Ireland",
+    "state": "County Cork",
+    "city": "County Cork",
+    "name": "Clonakilty Airstrip",
+    "icao": "IE-0046",
+    "lat": 51.6258872,
+    "lon": -8.916197
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kildare",
+    "city": "County Kildare",
+    "name": "Millicent Airfield",
+    "icao": "IE-0049",
+    "lat": 53.27035,
+    "lon": -6.68188
+  },
+  {
+    "country": "Ireland",
+    "state": "County Galway",
+    "city": "County Galway",
+    "name": "Cregboy Airstrip",
+    "icao": "IE-0056",
+    "lat": 53.329,
+    "lon": -8.9605
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kildare",
+    "city": "County Kildare",
+    "name": "Kilbrook Airstrip",
+    "icao": "IE-0059",
+    "lat": 53.423,
+    "lon": -6.7785
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kerry",
+    "city": "Abbeyfeale",
+    "name": "Abbeyfeale Airfield",
+    "icao": "IE-0018",
+    "lat": 52.396374,
+    "lon": -9.338401
+  },
+  {
+    "country": "Ireland",
+    "state": "County Cavan",
+    "city": "Aghnaskeagh",
+    "name": "Lough Sheelin Airstrip",
+    "icao": "IE-0052",
+    "lat": 53.7964,
+    "lon": -7.28455
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kerry",
+    "city": "Ardfert",
+    "name": "Ardfert Airstrip",
+    "icao": "IE-0023",
+    "lat": 52.34653,
+    "lon": -9.76285
+  },
+  {
+    "country": "Ireland",
+    "state": "County Meath",
+    "city": "Ballymakenny",
+    "name": "Carstown Airstrip UL",
+    "icao": "IE-0053",
+    "lat": 53.7668,
+    "lon": -6.3257
+  },
+  {
+    "country": "Ireland",
+    "state": "County Galway",
+    "city": "Ballynageeragh",
+    "name": "Craughwell Airfield",
+    "icao": "IE-0054",
+    "lat": 53.2461,
+    "lon": -8.688
+  },
+  {
+    "country": "Ireland",
+    "state": "County Kerry",
+    "city": "Caherciveen",
+    "name": "Reeroe Airport",
+    "icao": "IE-0002",
+    "lat": 51.933334,
+    "lon": -10.233333
+  },
+  {
+    "country": "Ireland",
+    "state": "County Donegal",
+    "city": "Carnowen",
+    "name": "Coulters Airstrip",
+    "icao": "IE-0017",
+    "lat": 54.82439,
+    "lon": -7.62959
+  },
+  {
+    "country": "Ireland",
+    "state": "County Donegal",
+    "city": "Devlinmore",
+    "name": "Carrigart Airstrip",
+    "icao": "IE-0051",
+    "lat": 55.161563,
+    "lon": -7.710258
+  },
+  {
+    "country": "Ireland",
+    "state": "County Meath",
+    "city": "Dunshaughlin",
+    "name": "Trevet Airfield",
+    "icao": "EITT",
+    "lat": 53.543611,
+    "lon": -6.531944
+  },
+  {
+    "country": "Ireland",
+    "state": "County Cork",
+    "city": "Eniskeane",
+    "name": "Eniskeane Airfield",
+    "icao": "IE-0021",
+    "lat": 51.737526,
+    "lon": -8.863843
+  },
+  {
+    "country": "Ireland",
+    "state": "County Tipperary",
+    "city": "Fethard",
+    "name": "Fethard Airstrip",
+    "icao": "IE-0047",
+    "lat": 52.471738,
+    "lon": -7.734409
+  },
+  {
+    "country": "Ireland",
+    "state": "County Meath",
+    "city": "Moorestown",
+    "name": "Dunslaughlin Airstrip",
+    "icao": "IE-0060",
+    "lat": 53.5192,
+    "lon": -6.6001
+  },
+  {
+    "country": "Ireland",
+    "state": "County Meath",
+    "city": "Navan",
+    "name": "Navan Airfield",
+    "icao": "EIHH",
+    "lat": 53.695489,
+    "lon": -6.654094
+  },
+  {
+    "country": "Ireland",
+    "state": "County Tipperary",
+    "city": "Nenagh",
+    "name": "Erinagh Airport",
+    "icao": "EIER",
+    "lat": 52.8125,
+    "lon": -8.28222179412841
+  },
+  {
+    "country": "Ireland",
+    "state": "County Tipperary",
+    "city": "Toomyvara",
+    "name": "Pallas West Airstrip",
+    "icao": "IE-0062",
+    "lat": 52.8601,
+    "lon": -8.0498
+  },
+  {
+    "country": "Ireland",
+    "state": "County Offaly",
+    "city": "Tullamore",
+    "name": "Spollens Airstrip",
+    "icao": "IE-0036",
+    "lat": 53.29345,
+    "lon": -7.53085
+  }
+]

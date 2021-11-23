@@ -1,0 +1,47 @@
+[
+  {
+    "country": "North Macedonia",
+    "state": "Southwestern Statistical Region",
+    "city": "Ohrid",
+    "name": "Ohrid St. Paul the Apostle Airport",
+    "icao": "LWOH",
+    "lat": 41.18,
+    "lon": 20.7423
+  },
+  {
+    "country": "North Macedonia",
+    "state": "Pelagonia Statistical Region",
+    "city": "Bitola",
+    "name": "Logovardi Airport",
+    "icao": "LW74",
+    "lat": 41.022449,
+    "lon": 21.424006
+  },
+  {
+    "country": "North Macedonia",
+    "state": "Vardar Statistical Region",
+    "city": "Mavrovica",
+    "name": "Mavrovica Airport",
+    "icao": "LW76",
+    "lat": 41.912399,
+    "lon": 21.9554
+  },
+  {
+    "country": "North Macedonia",
+    "state": "Vardar Statistical Region",
+    "city": "Negotino",
+    "name": "Negotino Airfield",
+    "icao": "LW72",
+    "lat": 41.5172,
+    "lon": 22.087099
+  },
+  {
+    "country": "North Macedonia",
+    "state": "(unassigned)",
+    "city": "Å tip",
+    "name": "Suchevo Recreational Airfield",
+    "icao": "MK-0002",
+    "lat": 41.759745,
+    "lon": 22.147781
+  }
+]

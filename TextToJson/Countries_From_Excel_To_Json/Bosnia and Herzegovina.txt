@@ -1,0 +1,92 @@
+[
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Republika Srpska",
+    "city": "Banja Luka",
+    "name": "Banja Luka International Airport",
+    "icao": "LQBK",
+    "lat": 44.9413986206054,
+    "lon": 17.2975006103515
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Federacija Bosna i Hercegovina",
+    "city": "Mostar",
+    "name": "Mostar International Airport",
+    "icao": "LQMO",
+    "lat": 43.282901763916,
+    "lon": 17.8458995819091
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Federacija Bosna i Hercegovina",
+    "city": "Tuzla",
+    "name": "Tuzla International Airport",
+    "icao": "LQTZ",
+    "lat": 44.458698272705,
+    "lon": 18.7248001098632
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Federacija Bosna i Hercegovina",
+    "city": "BihaÄ‡",
+    "name": "BihaÄ‡ sportski aerodrom - Bihac sport Airfield",
+    "icao": "LQBI",
+    "lat": 44.7959367906,
+    "lon": 15.9035682678
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Republika Srpska",
+    "city": "Prijedor",
+    "name": "Prijedor Urije Airport",
+    "icao": "LQPD",
+    "lat": 44.993986,
+    "lon": 16.735457
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Federacija Bosna i Hercegovina",
+    "city": "Tuzla",
+    "name": "Sport airfield Ciljuge",
+    "icao": "BA-0001",
+    "lat": 44.438152313232,
+    "lon": 18.685613632202
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Federacija Bosna i Hercegovina",
+    "city": "Visoko",
+    "name": "Visoko Sport Airfield",
+    "icao": "LQVI",
+    "lat": 44.024792,
+    "lon": 18.0968
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Federacija Bosna i Hercegovina",
+    "city": "Ä†oraliÄ‡i",
+    "name": "Coralci Airport",
+    "icao": "LQCO",
+    "lat": 44.980871,
+    "lon": 15.869373
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Federacija Bosna i Hercegovina",
+    "city": "GlamoÄ",
+    "name": "GlamoÄ Air Base",
+    "icao": "LQGL",
+    "lat": 44.083894,
+    "lon": 16.813588
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "state": "Federacija Bosna i Hercegovina",
+    "city": "ZaluÅ¾ani",
+    "name": "Sportski Aerodrom ZaluÅ¾ani",
+    "icao": "BA-0002",
+    "lat": 44.8482,
+    "lon": 17.222826
+  }
+]

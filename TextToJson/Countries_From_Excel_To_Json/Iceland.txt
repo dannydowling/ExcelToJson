@@ -1,0 +1,317 @@
+[
+  {
+    "country": "Iceland",
+    "state": "Northeastern Region",
+    "city": "Akureyri",
+    "name": "Akureyri Airport",
+    "icao": "BIAR",
+    "lat": 65.6600036621093,
+    "lon": -18.0727005004882
+  },
+  {
+    "country": "Iceland",
+    "state": "Westfjords",
+    "city": "ÃsafjÃ¶rÃ°ur",
+    "name": "ÃsafjÃ¶rÃ°ur Airport",
+    "icao": "BIIS",
+    "lat": 66.0580978393554,
+    "lon": -23.1352996826171
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "HÃ¶fn",
+    "name": "HornafjÃ¶rÃ°ur Airport",
+    "icao": "BIHN",
+    "lat": 64.295601,
+    "lon": -15.2272
+  },
+  {
+    "country": "Iceland",
+    "state": "Northeastern Region",
+    "city": "Thorshofn",
+    "name": "Thorshofn Airport",
+    "icao": "BITN",
+    "lat": 66.2184982299804,
+    "lon": -15.3355998992919
+  },
+  {
+    "country": "Iceland",
+    "state": "Northeastern Region",
+    "city": "Myvatn",
+    "name": "ReykjahlÃ­Ã° Airport",
+    "icao": "BIRL",
+    "lat": 65.6557998657226,
+    "lon": -16.9181003570556
+  },
+  {
+    "country": "Iceland",
+    "state": "Northeastern Region",
+    "city": "BakkafjÃ¶rÃ°ur",
+    "name": "BakkafjÃ¶rÃ°ur Airport",
+    "icao": "BIBK",
+    "lat": 66.0218963623046,
+    "lon": -14.8243999481201
+  },
+  {
+    "country": "Iceland",
+    "state": "Eastern Region",
+    "city": "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur",
+    "name": "FÃ¡skrÃºÃ°sfjÃ¶rÃ°ur Airport",
+    "icao": "BIFF",
+    "lat": 64.9317016602,
+    "lon": -14.0606002808
+  },
+  {
+    "country": "Iceland",
+    "state": "Westfjords",
+    "city": "GjÃ¶gur",
+    "name": "GjÃ¶gur Airport",
+    "icao": "BIGJ",
+    "lat": 65.9953002929687,
+    "lon": -21.3269004821777
+  },
+  {
+    "country": "Iceland",
+    "state": "Northeastern Region",
+    "city": "Hrisey",
+    "name": "Hrisey Airport",
+    "icao": "BIHY",
+    "lat": 66.0,
+    "lon": -18.3999996185302
+  },
+  {
+    "country": "Iceland",
+    "state": "Northeastern Region",
+    "city": "KÃ³pasker",
+    "name": "KÃ³pasker Airport",
+    "icao": "BIKP",
+    "lat": 66.3107986450195,
+    "lon": -16.4666996002197
+  },
+  {
+    "country": "Iceland",
+    "state": "Northeastern Region",
+    "city": "Ã“lafsfjÃ¶rÃ°ur",
+    "name": "Ã“lafsfjÃ¶rÃ°ur Airport",
+    "icao": "BIOF",
+    "lat": 66.0832977294921,
+    "lon": -18.6667003631591
+  },
+  {
+    "country": "Iceland",
+    "state": "Capital Region",
+    "city": "SandskeiÃ°",
+    "name": "SandskeiÃ° Airport",
+    "icao": "BISS",
+    "lat": 64.0607986450195,
+    "lon": -21.5746994018554
+  },
+  {
+    "country": "Iceland",
+    "state": "Western Region",
+    "city": "StykkishÃ³lmur",
+    "name": "StykkishÃ³lmur Airport",
+    "icao": "BIST",
+    "lat": 65.0580978393554,
+    "lon": -22.7942008972167
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "Ãlftaver",
+    "name": "Ãlftaver Airport",
+    "icao": "BIAL",
+    "lat": 63.5400009155273,
+    "lon": -18.4493999481201
+  },
+  {
+    "country": "Iceland",
+    "state": "Westfjords",
+    "city": "Baeir",
+    "name": "Baeir Airport",
+    "icao": "BIBI",
+    "lat": 66.0999984741211,
+    "lon": -22.5669994354248
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "Bakki",
+    "name": "Bakki Airport",
+    "icao": "BIBA",
+    "lat": 63.5560989379882,
+    "lon": -20.1375007629394
+  },
+  {
+    "country": "Iceland",
+    "state": "Western Region",
+    "city": "BÃºÃ°ardalur",
+    "name": "BÃºÃ°ardalur Airport",
+    "icao": "BIBR",
+    "lat": 65.0753021240234,
+    "lon": -21.8003005981445
+  },
+  {
+    "country": "Iceland",
+    "state": "Western Region",
+    "city": "DagverÃ°arÃ¡",
+    "name": "DagverÃ°arÃ¡ Airport",
+    "icao": "BIDA",
+    "lat": 64.745002746582,
+    "lon": -23.7271995544433
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "Einholtsmelar",
+    "name": "Einholtsmelar Airport",
+    "icao": "BIEH",
+    "lat": 64.25,
+    "lon": -20.2999992370605
+  },
+  {
+    "country": "Iceland",
+    "state": "Eastern Region",
+    "city": "FagurhÃ³lsmÃ½ri",
+    "name": "FagurhÃ³lsmÃ½ri Airport",
+    "icao": "BIFM",
+    "lat": 63.874698638916,
+    "lon": -16.6410999298095
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "Geysir",
+    "name": "Geysir Airport",
+    "icao": "BIGE",
+    "lat": 64.3107986450195,
+    "lon": -20.2705993652343
+  },
+  {
+    "country": "Iceland",
+    "state": "Western Region",
+    "city": "GrundarfjÃ¶rÃ°ur",
+    "name": "GrundarfjÃ¶rÃ°ur Airport",
+    "icao": "BIGF",
+    "lat": 64.9914016723632,
+    "lon": -23.2247009277343
+  },
+  {
+    "country": "Iceland",
+    "state": "Eastern Region",
+    "city": "HerÃ°ubreiÃ°arlindir",
+    "name": "HerÃ°ubreiÃ°arlindir Airport",
+    "icao": "BIHE",
+    "lat": 65.1885986328125,
+    "lon": -16.1947002410888
+  },
+  {
+    "country": "Iceland",
+    "state": "Westfjords",
+    "city": "Hrafnseyri",
+    "name": "Hrafnseyri Airport",
+    "icao": "BIHS",
+    "lat": 65.75,
+    "lon": -23.466999053955
+  },
+  {
+    "country": "Iceland",
+    "state": "Northwestern Region",
+    "city": "Hvammstangi",
+    "name": "KrÃ³kstaÃ°armelar Airport",
+    "icao": "BIHV",
+    "lat": 65.2664031982421,
+    "lon": -20.8469009399414
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "HvolsvÃ¶llur",
+    "name": "HvolsvÃ¶llur Airport",
+    "icao": "BIHR",
+    "lat": 63.7538986206054,
+    "lon": -20.2441997528076
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "NÃ½jidalur",
+    "name": "NÃ½jidalur Airport",
+    "icao": "BIND",
+    "lat": 64.7205963134765,
+    "lon": -18.0666999816894
+  },
+  {
+    "country": "Iceland",
+    "state": "Westfjords",
+    "city": "ReykhÃ³lar",
+    "name": "ReykhÃ³lar Airport",
+    "icao": "BIRE",
+    "lat": 65.4526290893554,
+    "lon": -22.2061157226562
+  },
+  {
+    "country": "Iceland",
+    "state": "Western Region",
+    "city": "Rif",
+    "name": "Rif Airport",
+    "icao": "BIRF",
+    "lat": 64.9113998413,
+    "lon": -23.8230991364
+  },
+  {
+    "country": "Iceland",
+    "state": "Western Region",
+    "city": "StÃ³rikroppur",
+    "name": "StÃ³rikroppur Airport",
+    "icao": "BISR",
+    "lat": 64.6343994140625,
+    "lon": -21.4874992370605
+  },
+  {
+    "country": "Iceland",
+    "state": "Eastern Region",
+    "city": "SvÃ­nafell",
+    "name": "SvÃ­nafell Airport",
+    "icao": "BISN",
+    "lat": 64.38330078125,
+    "lon": -15.3832998275756
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "Vatnsnes",
+    "name": "Vatnsnes Airport",
+    "icao": "BIVA",
+    "lat": 64.0330963134765,
+    "lon": -20.6511001586914
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "VÃ­k",
+    "name": "VÃ­k Airport",
+    "icao": "BIVI",
+    "lat": 63.4216995239257,
+    "lon": -18.8882999420166
+  },
+  {
+    "country": "Iceland",
+    "state": "Southern Region",
+    "city": "ÃžÃ³rsmÃ¶rk",
+    "name": "ÃžÃ³rsmÃ¶rk Airport",
+    "icao": "BITM",
+    "lat": 63.6899986267089,
+    "lon": -19.5631008148193
+  },
+  {
+    "country": "Iceland",
+    "state": "Westfjords",
+    "city": "TÃ¡lknafjÃ¶rÃ°ur",
+    "name": "TÃ¡lknafjÃ¶rÃ°ur Airport",
+    "icao": "BITF",
+    "lat": 65.676037,
+    "lon": -24.006114
+  }
+]

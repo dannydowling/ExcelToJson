@@ -1,0 +1,173 @@
+[
+  {
+    "country": "Mali",
+    "state": "Koulikoro Region",
+    "city": "Bamako",
+    "name": "Modibo Keita International Airport",
+    "icao": "GABS",
+    "lat": 12.5335,
+    "lon": -7.94994
+  },
+  {
+    "country": "Mali",
+    "state": "Gao Region",
+    "city": "Timbuktu",
+    "name": "Timbuktu Airport",
+    "icao": "GATB",
+    "lat": 16.7304992675781,
+    "lon": -3.00758004188537
+  },
+  {
+    "country": "Mali",
+    "state": "Mopti Region",
+    "city": "Mopti Region",
+    "name": "Mopti Airport",
+    "icao": "GAMB",
+    "lat": 14.5128002167,
+    "lon": -4.07955980300999
+  },
+  {
+    "country": "Mali",
+    "state": "Kayes Region",
+    "city": "Kayes Region",
+    "name": "Kayes Dag Dag Airport",
+    "icao": "GAKY",
+    "lat": 14.4812002182006,
+    "lon": -11.4043998718261
+  },
+  {
+    "country": "Mali",
+    "state": "Gao Region",
+    "city": "Gao Region",
+    "name": "Tessalit Airport",
+    "icao": "GATS",
+    "lat": 20.2430000305175,
+    "lon": 0.977307975292205
+  },
+  {
+    "country": "Mali",
+    "state": "Kayes Region",
+    "city": "Kayes Region",
+    "name": "Kayes Airport",
+    "icao": "GA1A",
+    "lat": 14.431300163269,
+    "lon": -11.4397001266479
+  },
+  {
+    "country": "Mali",
+    "state": "Kayes Region",
+    "city": "Kita",
+    "name": "Kita Airport",
+    "icao": "GAKT",
+    "lat": 13.0670003890991,
+    "lon": -9.48299980163574
+  },
+  {
+    "country": "Mali",
+    "state": "Kayes Region",
+    "city": "Bafoulabe",
+    "name": "Bafoulabe Airport",
+    "icao": "GABF",
+    "lat": 13.8000001907,
+    "lon": -10.8500003815
+  },
+  {
+    "country": "Mali",
+    "state": "Sikasso Region",
+    "city": "Bougouni",
+    "name": "Bougouni Airport",
+    "icao": "GABG",
+    "lat": 11.4499998092651,
+    "lon": -7.51700019836425
+  },
+  {
+    "country": "Mali",
+    "state": "Gao Region",
+    "city": "Bourem",
+    "name": "Bourem Airport",
+    "icao": "GABR",
+    "lat": 17.0330009460449,
+    "lon": -0.400000005960464
+  },
+  {
+    "country": "Mali",
+    "state": "Koulikoro Region",
+    "city": "Faladie",
+    "name": "Faladie Airport",
+    "icao": "GAFD",
+    "lat": 13.1499996185302,
+    "lon": -8.33300018310546
+  },
+  {
+    "country": "Mali",
+    "state": "Tombouctou Region",
+    "city": "Goundam",
+    "name": "Goundam Airport",
+    "icao": "GAGM",
+    "lat": 16.361400604248,
+    "lon": -3.5997200012207
+  },
+  {
+    "country": "Mali",
+    "state": "SÃ©gou Region",
+    "city": "Ke-Macina",
+    "name": "Ke-Macina Airport",
+    "icao": "GAKM",
+    "lat": 13.9670000076293,
+    "lon": -5.38299989700317
+  },
+  {
+    "country": "Mali",
+    "state": "Sikasso Region",
+    "city": "Koutiala",
+    "name": "Koutiala Airport",
+    "icao": "GAKO",
+    "lat": 12.3830003738403,
+    "lon": -5.46700000762939
+  },
+  {
+    "country": "Mali",
+    "state": "Gao Region",
+    "city": "Menaka",
+    "name": "Menaka Airport",
+    "icao": "GAMK",
+    "lat": 15.8500003815,
+    "lon": 2.43300008774
+  },
+  {
+    "country": "Mali",
+    "state": "Koulikoro Region",
+    "city": "Nara",
+    "name": "Nara Airport",
+    "icao": "GANK",
+    "lat": 15.2170000076293,
+    "lon": -7.26700019836425
+  },
+  {
+    "country": "Mali",
+    "state": "Tombouctou Region",
+    "city": "Niafunke",
+    "name": "Niafunke Airport",
+    "icao": "GANF",
+    "lat": 15.9329996109008,
+    "lon": -4.01700019836425
+  },
+  {
+    "country": "Mali",
+    "state": "Kayes Region",
+    "city": "Nioro du Sahel",
+    "name": "Nioro du Sahel Airport",
+    "icao": "GANR",
+    "lat": 15.2381000518798,
+    "lon": -9.57610988616943
+  },
+  {
+    "country": "Mali",
+    "state": "Sikasso Region",
+    "city": "Sikasso",
+    "name": "Sikasso Airport",
+    "icao": "GASK",
+    "lat": 11.3330001831054,
+    "lon": -5.69999980926513
+  }
+]

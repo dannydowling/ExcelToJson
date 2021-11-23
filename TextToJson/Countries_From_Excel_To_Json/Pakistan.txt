@@ -1,0 +1,650 @@
+[
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "name": "Jinnah International Airport",
+    "icao": "OPKC",
+    "lat": 24.9065,
+    "lon": 67.160797
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Islamabad",
+    "name": "Benazir Bhutto International Airport",
+    "icao": "OPRN",
+    "lat": 33.616699,
+    "lon": 73.099197
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Lahore",
+    "name": "Alama Iqbal International Airport",
+    "icao": "OPLA",
+    "lat": 31.5216007232666,
+    "lon": 74.4036026000976
+  },
+  {
+    "country": "Pakistan",
+    "state": "North-West Frontier",
+    "city": "Peshawar",
+    "name": "Peshawar International Airport",
+    "icao": "OPPS",
+    "lat": 33.9939002990722,
+    "lon": 71.5146026611328
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Multan",
+    "name": "Multan International Airport",
+    "icao": "OPMT",
+    "lat": 30.2031993865966,
+    "lon": 71.4190979003906
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Shorkot",
+    "name": "Rafiqui Air Base",
+    "icao": "OPRQ",
+    "lat": 30.7581005096435,
+    "lon": 72.2825012207031
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Dera Ghazi Khan",
+    "name": "Dera Ghazi Khan Airport",
+    "icao": "OPDG",
+    "lat": 29.9610004425048,
+    "lon": 70.4859008789062
+  },
+  {
+    "country": "Pakistan",
+    "state": "Northern Areas",
+    "city": "Skardu",
+    "name": "Skardu Airport",
+    "icao": "OPSD",
+    "lat": 35.3354988098144,
+    "lon": 75.5360031127929
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Turbat",
+    "name": "Turbat International Airport",
+    "icao": "OPTU",
+    "lat": 25.986400604248,
+    "lon": 63.0302009582519
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Nawabashah",
+    "name": "Shaheed Benazirabad Airport",
+    "icao": "OPNH",
+    "lat": 26.2194,
+    "lon": 68.390099
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Jacobabad",
+    "name": "Shahbaz Air Base",
+    "icao": "OPJA",
+    "lat": 28.2842006683349,
+    "lon": 68.4496994018554
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Loralai",
+    "name": "Loralai Airport",
+    "icao": "OPLL",
+    "lat": 30.3554992675781,
+    "lon": 68.6135025024414
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Murid",
+    "name": "Murid Airport",
+    "icao": "PK-0009",
+    "lat": 32.9099998473999,
+    "lon": 72.7699966431
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Rahwali",
+    "name": "Rahwali Airport",
+    "icao": "OP27",
+    "lat": 32.2389984130859,
+    "lon": 74.1309967041015
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Rajanpur",
+    "name": "Rajanpur Airport",
+    "icao": "OP22",
+    "lat": 29.2639999389648,
+    "lon": 70.1864013671875
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Panjgur",
+    "name": "Panjgur Airport",
+    "icao": "OPPG",
+    "lat": 26.9545001983642,
+    "lon": 64.1324996948242
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Rahim Yar Khan",
+    "name": "Shaikh Zaid Airport",
+    "icao": "OPRK",
+    "lat": 28.3838996887207,
+    "lon": 70.2796020507812
+  },
+  {
+    "country": "Pakistan",
+    "state": "North-West Frontier",
+    "city": "Saidu Sharif",
+    "name": "Saidu Sharif Airport",
+    "icao": "OPSS",
+    "lat": 34.8135986328125,
+    "lon": 72.352798461914
+  },
+  {
+    "country": "Pakistan",
+    "state": "Azad Kashmir",
+    "city": "Muzaffarabad",
+    "name": "Muzaffarabad Airport",
+    "icao": "OPMF",
+    "lat": 34.3390007019043,
+    "lon": 73.5085983276367
+  },
+  {
+    "country": "Pakistan",
+    "state": "Azad Kashmir",
+    "city": "Rawalakot",
+    "name": "Rawalakot Airport",
+    "icao": "OPRT",
+    "lat": 33.8497009277343,
+    "lon": 73.7981033325195
+  },
+  {
+    "country": "Pakistan",
+    "state": "North-West Frontier",
+    "city": "Bannu",
+    "name": "Bannu Airport",
+    "icao": "OPBN",
+    "lat": 32.9729,
+    "lon": 70.527901
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Hyderabad",
+    "name": "Hyderabad Airport",
+    "icao": "OPKD",
+    "lat": 25.3181,
+    "lon": 68.366096
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Khuzdar",
+    "name": "Khuzdar Airport",
+    "icao": "OPKH",
+    "lat": 27.790599823,
+    "lon": 66.6473007202
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Mangla",
+    "name": "Mangla Airport",
+    "icao": "OPMA",
+    "lat": 33.0500984191894,
+    "lon": 73.6383972167968
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Walton",
+    "name": "Walton Airport",
+    "icao": "OPLH",
+    "lat": 31.4948005676269,
+    "lon": 74.3461990356445
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Balochistan",
+    "name": "Bandari Air Base",
+    "icao": "OP12",
+    "lat": 27.8465003967285,
+    "lon": 65.1600036621093
+  },
+  {
+    "country": "Pakistan",
+    "state": "North-West Frontier",
+    "city": "Abbottabad",
+    "name": "Abbottabad Airport",
+    "icao": "OPAB",
+    "lat": 34.200001,
+    "lon": 73.25
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Basal",
+    "name": "Basal Airport",
+    "icao": "PK-0002",
+    "lat": 33.5299987792968,
+    "lon": 72.2600021362304
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Belab",
+    "name": "Belab Airport",
+    "icao": "OP14",
+    "lat": 30.3400001525878,
+    "lon": 70.5567016601562
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Campbellpore",
+    "name": "Campbellpore Airport",
+    "icao": "PK-CWP",
+    "lat": 33.7667007446289,
+    "lon": 72.3668975830078
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Cape Monz",
+    "name": "Cape Monz Airport",
+    "icao": "OPKA",
+    "lat": 24.827932357788,
+    "lon": 66.6644287109375
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Chagai",
+    "name": "Reko Diq Airport",
+    "icao": "PK-REQ",
+    "lat": 29.04692,
+    "lon": 62.196819
+  },
+  {
+    "country": "Pakistan",
+    "state": "Northern Areas",
+    "city": "Chilas",
+    "name": "Chilas Airport",
+    "icao": "OPCL",
+    "lat": 35.426700592,
+    "lon": 74.081703186
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Chuchra",
+    "name": "Thar Airport",
+    "icao": "OP10",
+    "lat": 27.2005004882812,
+    "lon": 69.1538009643554
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Dadu",
+    "name": "Dadu West Airport",
+    "icao": "OP17",
+    "lat": 26.7408008575439,
+    "lon": 67.6666030883789
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Dhingar",
+    "name": "Dhingar Airport",
+    "icao": "OP28",
+    "lat": 29.9232997894287,
+    "lon": 66.7461013793945
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Gharo",
+    "name": "Gharo Airport",
+    "icao": "OPKF",
+    "lat": 24.7290000915527,
+    "lon": 67.5876007080078
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Gujrat",
+    "name": "Gujrat Airport",
+    "icao": "PK-GRT",
+    "lat": 32.603099822998,
+    "lon": 74.0771026611328
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Jam Nida",
+    "name": "Jam Nida Northwest Airport",
+    "icao": "OP1A",
+    "lat": 26.1980991363525,
+    "lon": 67.5037002563476
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Juzzak",
+    "name": "Juzzak Airport",
+    "icao": "OP35",
+    "lat": 29.0405006408691,
+    "lon": 61.6473999023437
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Kalat",
+    "name": "Kalat Airport",
+    "icao": "OPKL",
+    "lat": 29.1333332061767,
+    "lon": 66.5166702270507
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Kandhkot",
+    "name": "Kandhkot Airport",
+    "icao": "OP33",
+    "lat": 28.2740001678466,
+    "lon": 69.2760009765625
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "name": "Korangi Creek Airport",
+    "icao": "OPKK",
+    "lat": 24.7842998504638,
+    "lon": 67.1389999389648
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Khan Bela",
+    "name": "Bela Airport",
+    "icao": "OPBL",
+    "lat": 29.4922008514404,
+    "lon": 71.1184005737304
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Kharan",
+    "name": "Kharan East Airport",
+    "icao": "PK-0006",
+    "lat": 28.6198997497558,
+    "lon": 65.4664993286132
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Mad Jamu Kholelan",
+    "name": "Mad Jamu Airport",
+    "icao": "OP13",
+    "lat": 28.3561992645263,
+    "lon": 70.6001968383789
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Mandi Bahauddin",
+    "name": "Mandi Bahauddin Air Base",
+    "icao": "OP24",
+    "lat": 32.6013984680175,
+    "lon": 73.5083999633789
+  },
+  {
+    "country": "Pakistan",
+    "state": "Federally Administered Tribal Areas",
+    "city": "Miram Shah",
+    "name": "Miram Shah Airport",
+    "icao": "OPMN",
+    "lat": 33.0147018432617,
+    "lon": 70.0643997192382
+  },
+  {
+    "country": "Pakistan",
+    "state": "North-West Frontier",
+    "city": "Nowshera",
+    "name": "Chirat Airport",
+    "icao": "OPCT",
+    "lat": 33.9681015014648,
+    "lon": 71.9674987792968
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Nushki",
+    "name": "Nushki Airport",
+    "icao": "OPNK",
+    "lat": 29.5389995574951,
+    "lon": 66.0233001708984
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Okara",
+    "name": "Okara Cantonment Airstrip",
+    "icao": "OPOK",
+    "lat": 30.7409992218,
+    "lon": 73.3576965332
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Pishin",
+    "name": "Pishin Airport",
+    "icao": "OPPN",
+    "lat": 30.5562000274658,
+    "lon": 66.9854965209961
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Sibi",
+    "name": "Sibi Airport",
+    "icao": "OPSB",
+    "lat": 29.5711994171142,
+    "lon": 67.847900390625
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Sindhri",
+    "name": "Sindhri Tharparkar Airport",
+    "icao": "OPMP",
+    "lat": 25.6828002929687,
+    "lon": 69.0727996826171
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Taftan",
+    "name": "Taftan Airport",
+    "icao": "OPTT",
+    "lat": 28.9641990661621,
+    "lon": 61.595401763916
+  },
+  {
+    "country": "Pakistan",
+    "state": "North-West Frontier",
+    "city": "Tarbela",
+    "name": "Tarbela Dam Airport",
+    "icao": "OPTA",
+    "lat": 33.9860992432,
+    "lon": 72.6113967896
+  },
+  {
+    "country": "Pakistan",
+    "state": "Federally Administered Tribal Areas",
+    "city": "Waana",
+    "name": "Wana Airport",
+    "icao": "OPWN",
+    "lat": 32.3046989440918,
+    "lon": 69.5703964233398
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Wateji",
+    "name": "Wateji Airstrip",
+    "icao": "PK-0012",
+    "lat": 24.8658,
+    "lon": 67.4096
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Dalbandin",
+    "name": "Dalbandin Heliport",
+    "icao": "PK-0003",
+    "lat": 28.8747997283935,
+    "lon": 64.404296875
+  },
+  {
+    "country": "Pakistan",
+    "state": "Northern Areas",
+    "city": "Gilgit",
+    "name": "Gilgit Heliport",
+    "icao": "PK-0004",
+    "lat": 35.9178009033203,
+    "lon": 74.3432998657226
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Gurha Salim",
+    "name": "Gurha Salim Heliport",
+    "icao": "PK-0005",
+    "lat": 32.8813018798828,
+    "lon": 73.6014022827148
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Jungshahi",
+    "name": "Jungshahi Airstrip",
+    "icao": "PK-0017",
+    "lat": 24.8366,
+    "lon": 67.7619
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Karachi",
+    "name": "Chota Malir Airstrips",
+    "icao": "PK-0018",
+    "lat": 24.95,
+    "lon": 67.173
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Larkana",
+    "name": "Larkana Airport",
+    "icao": "PK-0015",
+    "lat": 27.4831,
+    "lon": 68.1926
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Nushki",
+    "name": "Nushki Heliport",
+    "icao": "PK-0010",
+    "lat": 29.5401992797851,
+    "lon": 66.0244979858398
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Sadiqabad",
+    "name": "Khai Airport",
+    "icao": "PK-0026",
+    "lat": 28.273904,
+    "lon": 70.077635
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Saranan",
+    "name": "Saranan Airport",
+    "icao": "PK-0023",
+    "lat": 30.566843,
+    "lon": 66.893477
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Sialkot",
+    "name": "Sialkot Cantonment Airport",
+    "icao": "PK-0013",
+    "lat": 32.5147222222,
+    "lon": 74.5288888889
+  },
+  {
+    "country": "Pakistan",
+    "state": "Balochistan",
+    "city": "Spezand",
+    "name": "Spezand Airfield",
+    "icao": "PK-0024",
+    "lat": 29.916193,
+    "lon": 66.987726
+  },
+  {
+    "country": "Pakistan",
+    "state": "Sindh",
+    "city": "Sujawal",
+    "name": "Sujawal Airport",
+    "icao": "PK-0020",
+    "lat": 24.6141,
+    "lon": 68.0827
+  },
+  {
+    "country": "Pakistan",
+    "state": "North-West Frontier",
+    "city": "Tank",
+    "name": "Tank Airport",
+    "icao": "PK-0022",
+    "lat": 32.19809,
+    "lon": 70.404027
+  },
+  {
+    "country": "Pakistan",
+    "state": "Punjab",
+    "city": "Walton",
+    "name": "Walton Heliport",
+    "icao": "PK-0011",
+    "lat": 31.4897994995117,
+    "lon": 74.3488006591796
+  }
+]

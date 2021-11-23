@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Tonga",
+    "state": "Tongatapu",
+    "city": "Nuku'alofa",
+    "name": "Fua'amotu International Airport",
+    "icao": "NFTF",
+    "lat": -21.2411994934082,
+    "lon": -175.149993896484
+  },
+  {
+    "country": "Tonga",
+    "state": "Vava'",
+    "city": "Vava'u Island",
+    "name": "Vava'u International Airport",
+    "icao": "NFTV",
+    "lat": -18.5853004455566,
+    "lon": -173.962005615234
+  },
+  {
+    "country": "Tonga",
+    "state": "Ha'apai",
+    "city": "Lifuka",
+    "name": "Lifuka Island Airport",
+    "icao": "NFTL",
+    "lat": -19.777000427246,
+    "lon": -174.341003417968
+  },
+  {
+    "country": "Tonga",
+    "state": "Niuas",
+    "city": "Niuatoputapu",
+    "name": "Kuini Lavenia Airport",
+    "icao": "NFTP",
+    "lat": -15.977297,
+    "lon": -173.791089
+  }
+]

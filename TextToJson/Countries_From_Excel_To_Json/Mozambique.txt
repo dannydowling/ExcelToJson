@@ -1,0 +1,434 @@
+[
+  {
+    "country": "Mozambique",
+    "state": "Maputo (city)",
+    "city": "Maputo",
+    "name": "Maputo Airport",
+    "icao": "FQMA",
+    "lat": -25.920799,
+    "lon": 32.572601
+  },
+  {
+    "country": "Mozambique",
+    "state": "Inhambane Province",
+    "city": "Vilanculo",
+    "name": "Vilankulo Airport",
+    "icao": "FQVL",
+    "lat": -22.0184001922607,
+    "lon": 35.3133010864257
+  },
+  {
+    "country": "Mozambique",
+    "state": "Inhambane Province",
+    "city": "Inhambabe",
+    "name": "Inhambane Airport",
+    "icao": "FQIN",
+    "lat": -23.8763999938964,
+    "lon": 35.4085006713867
+  },
+  {
+    "country": "Mozambique",
+    "state": "Zambezia Province",
+    "city": "Quelimane",
+    "name": "Quelimane Airport",
+    "icao": "FQQL",
+    "lat": -17.8554992675781,
+    "lon": 36.86909866333
+  },
+  {
+    "country": "Mozambique",
+    "state": "Gaza Province",
+    "city": "Bilene",
+    "name": "Bilene Airport",
+    "icao": "FQBI",
+    "lat": -25.2659854888916,
+    "lon": 33.238597869873
+  },
+  {
+    "country": "Mozambique",
+    "state": "Maputo Province",
+    "city": "Inhaca",
+    "name": "Inhaca Airport",
+    "icao": "FQIA",
+    "lat": -25.9971446991,
+    "lon": 32.9293518065999
+  },
+  {
+    "country": "Mozambique",
+    "state": "Niassa Province",
+    "city": "Lichinga",
+    "name": "Lichinga Airport",
+    "icao": "FQLC",
+    "lat": -13.274,
+    "lon": 35.2663
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Mueda",
+    "name": "Mueda Airport",
+    "icao": "FQMD",
+    "lat": -11.6729001998901,
+    "lon": 39.5630989074707
+  },
+  {
+    "country": "Mozambique",
+    "state": "Nampula Province",
+    "city": "Nacala",
+    "name": "Nacala Airport",
+    "icao": "FQNC",
+    "lat": -14.4882001876831,
+    "lon": 40.7122001647949
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Montepuez",
+    "name": "Montepuez Airport",
+    "icao": "MTU",
+    "lat": -13.1218996047973,
+    "lon": 39.0527992248535
+  },
+  {
+    "country": "Mozambique",
+    "state": "Inhambane Province",
+    "city": "Santa Carolina",
+    "name": "Paradise Island Airport",
+    "icao": "MZ-0005",
+    "lat": -21.614999771118,
+    "lon": 35.338001251221
+  },
+  {
+    "country": "Mozambique",
+    "state": "Tete Province",
+    "city": "Songo",
+    "name": "Songo Airport",
+    "icao": "FQSG",
+    "lat": -15.6027002334594,
+    "lon": 32.7732009887695
+  },
+  {
+    "country": "Mozambique",
+    "state": "Zambezia Province",
+    "city": "Alto Molocue",
+    "name": "Alto Molocue Airport",
+    "icao": "AME",
+    "lat": -15.6102777778,
+    "lon": 37.6813888889
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Chiure",
+    "name": "Chiure Airport",
+    "icao": "MZ-0033",
+    "lat": -13.407165,
+    "lon": 39.803192
+  },
+  {
+    "country": "Mozambique",
+    "state": "Zambezia Province",
+    "city": "Gile",
+    "name": "Gile Airport",
+    "icao": "MZ-0032",
+    "lat": -16.163767,
+    "lon": 38.360793
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Macomia",
+    "name": "Macomia Airport",
+    "icao": "MZ-0034",
+    "lat": -12.271035,
+    "lon": 40.110719
+  },
+  {
+    "country": "Mozambique",
+    "state": "Sofala Province",
+    "city": "Marromeu",
+    "name": "Marromeu Airport",
+    "icao": "RRM",
+    "lat": -18.2929,
+    "lon": 35.9345
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Meluco",
+    "name": "Meluco Airport",
+    "icao": "MZ-0035",
+    "lat": -12.525447,
+    "lon": 39.654529
+  },
+  {
+    "country": "Mozambique",
+    "state": "Zambezia Province",
+    "city": "Milange",
+    "name": "Milange Airport",
+    "icao": "MZ-0031",
+    "lat": -16.124602,
+    "lon": 35.734548
+  },
+  {
+    "country": "Mozambique",
+    "state": "Tete Province",
+    "city": "Furancungo",
+    "name": "Furancungo Airport",
+    "icao": "FQFU",
+    "lat": -14.9186000823974,
+    "lon": 33.6282997131347
+  },
+  {
+    "country": "Mozambique",
+    "state": "Maputo Province",
+    "city": "Ponta do Ouro",
+    "name": "Ponta do Ouro Airport",
+    "icao": "FQPO",
+    "lat": -26.828552246094,
+    "lon": 32.837707519531
+  },
+  {
+    "country": "Mozambique",
+    "state": "Gaza Province",
+    "city": "Xai-Xai",
+    "name": "Xai-Xai Airport",
+    "icao": "FQXA",
+    "lat": -25.037799835205,
+    "lon": 33.62739944458
+  },
+  {
+    "country": "Mozambique",
+    "state": "Niassa Province",
+    "city": "Niassa Province",
+    "name": "Mbatamila Airport",
+    "icao": "MZ-0001",
+    "lat": -12.169599,
+    "lon": 37.54545
+  },
+  {
+    "country": "Mozambique",
+    "state": "Sofala Province",
+    "city": "Sofala Province",
+    "name": "Buffalo Camp Airstrip",
+    "icao": "MZ-0018",
+    "lat": -20.913318,
+    "lon": 34.283153
+  },
+  {
+    "country": "Mozambique",
+    "state": "Inhambane Province",
+    "city": "Inhambane Province",
+    "name": "Tondo Lodge Airstrip",
+    "icao": "MZ-0022",
+    "lat": -21.425639,
+    "lon": 33.865274
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Cabo Delgado",
+    "name": "Vamizi Airstrip",
+    "icao": "MZ-0047",
+    "lat": -11.030273,
+    "lon": 40.612378
+  },
+  {
+    "country": "Mozambique",
+    "state": "Sofala Province",
+    "city": "Chemba",
+    "name": "Chemba Airport",
+    "icao": "MZ-0043",
+    "lat": -17.167836,
+    "lon": 34.882624
+  },
+  {
+    "country": "Mozambique",
+    "state": "Tete Province",
+    "city": "Fingoe",
+    "name": "Fingoe Airport",
+    "icao": "MZ-0030",
+    "lat": -15.172786,
+    "lon": 31.906405
+  },
+  {
+    "country": "Mozambique",
+    "state": "Zambezia Province",
+    "city": "Gurue",
+    "name": "Gurue Airport",
+    "icao": "VJQ",
+    "lat": -15.5062,
+    "lon": 36.9904
+  },
+  {
+    "country": "Mozambique",
+    "state": "Inhambane Province",
+    "city": "Homoine",
+    "name": "Homoine Airport",
+    "icao": "MZ-0009",
+    "lat": -23.866113,
+    "lon": 35.136698
+  },
+  {
+    "country": "Mozambique",
+    "state": "Sofala Province",
+    "city": "Inhaminga",
+    "name": "Inhaminga Airport",
+    "icao": "IMG",
+    "lat": -18.41,
+    "lon": 35.0045
+  },
+  {
+    "country": "Mozambique",
+    "state": "Inhambane Province",
+    "city": "Mabote",
+    "name": "Mabote Airport",
+    "icao": "MZ-0010",
+    "lat": -22.044039,
+    "lon": 34.158814
+  },
+  {
+    "country": "Mozambique",
+    "state": "Manica Province",
+    "city": "Machasi",
+    "name": "Machasi Airport",
+    "icao": "MZ-0020",
+    "lat": -20.823041,
+    "lon": 33.378488
+  },
+  {
+    "country": "Mozambique",
+    "state": "Manica Province",
+    "city": "Macossa",
+    "name": "Macossa Airport",
+    "icao": "MZ-0037",
+    "lat": -17.86764,
+    "lon": 33.915103
+  },
+  {
+    "country": "Mozambique",
+    "state": "Sofala Province",
+    "city": "Mafambisse",
+    "name": "Mafambisse Airport",
+    "icao": "MZ-0025",
+    "lat": -19.575645,
+    "lon": 34.633552
+  },
+  {
+    "country": "Mozambique",
+    "state": "Zambezia Province",
+    "city": "Maganja",
+    "name": "Maganja da Costa Airport",
+    "icao": "MJS",
+    "lat": -17.3087,
+    "lon": 37.5
+  },
+  {
+    "country": "Mozambique",
+    "state": "Gaza Province",
+    "city": "Malvernia",
+    "name": "Malvernia Airport",
+    "icao": "MZ-0036",
+    "lat": -22.088361,
+    "lon": 31.693199
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Matemo",
+    "name": "Matemo Airport",
+    "icao": "MZ-0013",
+    "lat": -12.201529,
+    "lon": 40.569915
+  },
+  {
+    "country": "Mozambique",
+    "state": "Niassa Province",
+    "city": "Mbamba",
+    "name": "Lugenda Wilderness Camp Airstrip",
+    "icao": "MZ-0017",
+    "lat": -12.288658,
+    "lon": 37.818062
+  },
+  {
+    "country": "Mozambique",
+    "state": "Zambezia Province",
+    "city": "Mopeia",
+    "name": "Mopeia Airport",
+    "icao": "MZ-0042",
+    "lat": -17.977031,
+    "lon": 35.705003
+  },
+  {
+    "country": "Mozambique",
+    "state": "Tete Province",
+    "city": "Mucumbura",
+    "name": "Mucumbura Airport",
+    "icao": "MZ-0039",
+    "lat": -16.187755,
+    "lon": 31.686824
+  },
+  {
+    "country": "Mozambique",
+    "state": "Nampula Province",
+    "city": "Nanatha",
+    "name": "Baixo Pinda Airport",
+    "icao": "MZ-0011",
+    "lat": -14.210912,
+    "lon": 40.696848
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Nangade",
+    "name": "Nangade Airport",
+    "icao": "NND",
+    "lat": -11.073,
+    "lon": 39.68
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Quirimba Island",
+    "name": "Quirimba Airstrip",
+    "icao": "MZ-0046",
+    "lat": -12.429533,
+    "lon": 40.614222
+  },
+  {
+    "country": "Mozambique",
+    "state": "Inhambane Province",
+    "city": "Quissico",
+    "name": "Quissico Airport",
+    "icao": "MZ-0007",
+    "lat": -24.70554,
+    "lon": 34.732691
+  },
+  {
+    "country": "Mozambique",
+    "state": "Manica Province",
+    "city": "Sussundenga",
+    "name": "Sussundenga Airport",
+    "icao": "MZ-0024",
+    "lat": -19.408009,
+    "lon": 33.28094
+  },
+  {
+    "country": "Mozambique",
+    "state": "Cabo Delgado Province",
+    "city": "Tecomaji",
+    "name": "Tecomaji Airport",
+    "icao": "MZ-0015",
+    "lat": -10.776306,
+    "lon": 40.643912
+  },
+  {
+    "country": "Mozambique",
+    "state": "Tete Province",
+    "city": "Zambue",
+    "name": "Zambue Airport",
+    "icao": "MZ-0029",
+    "lat": -15.132704,
+    "lon": 30.802094
+  }
+]

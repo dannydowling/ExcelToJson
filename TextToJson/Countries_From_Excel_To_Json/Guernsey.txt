@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Guernsey",
+    "state": "L'ErÃ©e Aerodrome",
+    "city": "L'ErÃ©e Aerodrome",
+    "name": "L'ErÃ©e Aerodrome",
+    "icao": "GG-0001",
+    "lat": 49.456424,
+    "lon": -2.648456
+  }
+]

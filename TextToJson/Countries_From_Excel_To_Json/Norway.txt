@@ -1,0 +1,1082 @@
+[
+  {
+    "country": "Norway",
+    "state": "Hordaland",
+    "city": "Bergen",
+    "name": "Bergen Airport Flesland",
+    "icao": "ENBR",
+    "lat": 60.29339981,
+    "lon": 5.218140125
+  },
+  {
+    "country": "Norway",
+    "state": "Nord-Trandelag",
+    "city": "Trondheim",
+    "name": "Trondheim Airport Varnes",
+    "icao": "ENVA",
+    "lat": 63.4578018,
+    "lon": 10.9239998
+  },
+  {
+    "country": "Norway",
+    "state": "Troms",
+    "city": "Tromsa",
+    "name": "Tromsa Airport",
+    "icao": "ENTC",
+    "lat": 69.6832962036132,
+    "lon": 18.9188995361328
+  },
+  {
+    "country": "Norway",
+    "state": "Astfold",
+    "city": "Oslo",
+    "name": "Moss Airport, Rygge",
+    "icao": "ENRY",
+    "lat": 59.378817,
+    "lon": 10.785439
+  },
+  {
+    "country": "Norway",
+    "state": "Mare og Romsdal",
+    "city": "Alesund",
+    "name": "Alesund Airport",
+    "icao": "ENAL",
+    "lat": 62.5625,
+    "lon": 6.11969995498657
+  },
+  {
+    "country": "Norway",
+    "state": "Mare og Romsdal",
+    "city": "Molde",
+    "name": "Molde Airport",
+    "icao": "ENML",
+    "lat": 62.744701385498,
+    "lon": 7.2624998092651
+  },
+  {
+    "country": "Norway",
+    "state": "Rogaland",
+    "city": "Karmey",
+    "name": "Haugesund Airport",
+    "icao": "ENHD",
+    "lat": 59.34529876709,
+    "lon": 5.2083601951599
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "Evenes",
+    "name": "Harstad/Narvik Airport, Evenes",
+    "icao": "ENEV",
+    "lat": 68.491302490234,
+    "lon": 16.678100585938
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "Kirkenes",
+    "name": "Kirkenes Airport (HÃ¸ybuktmoen)",
+    "icao": "ENKR",
+    "lat": 69.725799560547,
+    "lon": 29.891300201416
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "Leknes",
+    "name": "Leknes Airport",
+    "icao": "ENLK",
+    "lat": 68.152496337891,
+    "lon": 13.609399795532
+  },
+  {
+    "country": "Norway",
+    "state": "Svalbard",
+    "city": "Longyearbyen",
+    "name": "Svalbard Airport, Longyear",
+    "icao": "ENSB",
+    "lat": 78.246101379395,
+    "lon": 15.465600013733
+  },
+  {
+    "country": "Norway",
+    "state": "Sogn og Fjordane",
+    "city": "Sogndal",
+    "name": "Sogndal Airport",
+    "icao": "ENSG",
+    "lat": 61.156101,
+    "lon": 7.13778
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "Alta",
+    "name": "Alta Airport",
+    "icao": "ENAT",
+    "lat": 69.976097106934,
+    "lon": 23.371700286865
+  },
+  {
+    "country": "Norway",
+    "state": "Telemark",
+    "city": "Notodden",
+    "name": "Notodden Airport",
+    "icao": "ENNO",
+    "lat": 59.565701,
+    "lon": 9.21222
+  },
+  {
+    "country": "Norway",
+    "state": "Hedmark",
+    "city": "Hamar",
+    "name": "Stafsberg Airport",
+    "icao": "ENHA",
+    "lat": 60.8180999755859,
+    "lon": 11.0679998397827
+  },
+  {
+    "country": "Norway",
+    "state": "Oppland",
+    "city": "Oppland",
+    "name": "Leirin Airport",
+    "icao": "ENFG",
+    "lat": 61.015598297119,
+    "lon": 9.2880601882935
+  },
+  {
+    "country": "Norway",
+    "state": "Sogn og Fjordane",
+    "city": "FlorÃ¸",
+    "name": "FlorÃ¸ Airport",
+    "icao": "ENFL",
+    "lat": 61.583599090576,
+    "lon": 5.0247201919556
+  },
+  {
+    "country": "Norway",
+    "state": "Ã˜stfold",
+    "city": "Rakkestad",
+    "name": "Rakkestad Astorp Airport",
+    "icao": "ENRK",
+    "lat": 59.397499,
+    "lon": 11.3469
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "Nordland",
+    "name": "MosjÃ¸en Airport (KjÃ¦rstad)",
+    "icao": "ENMS",
+    "lat": 65.783996582031,
+    "lon": 13.214900016785
+  },
+  {
+    "country": "Norway",
+    "state": "Sogn og Fjordane",
+    "city": "FÃ¸rde",
+    "name": "FÃ¸rde Airport",
+    "icao": "ENBL",
+    "lat": 61.391101837158,
+    "lon": 5.7569398880005
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "SvolvÃ¦r",
+    "name": "SvolvÃ¦r Helle Airport",
+    "icao": "ENSH",
+    "lat": 68.243301391602,
+    "lon": 14.669199943542
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "Hadsel",
+    "name": "Stokmarknes Skagen Airport",
+    "icao": "ENSK",
+    "lat": 68.578826904297,
+    "lon": 15.033416748047
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "Mo i Rana",
+    "name": "Mo i Rana Airport, RÃ¸ssvoll",
+    "icao": "ENRA",
+    "lat": 66.363899230957,
+    "lon": 14.301400184631
+  },
+  {
+    "country": "Norway",
+    "state": "Oppland",
+    "city": "Frya",
+    "name": "Ringebu Airfield Frya",
+    "icao": "ENRI",
+    "lat": 61.545440673,
+    "lon": 10.061588287
+  },
+  {
+    "country": "Norway",
+    "state": "Buskerud",
+    "city": "HÃ¸nefoss",
+    "name": "Eggemoen Airport",
+    "icao": "ENEG",
+    "lat": 60.217300415039,
+    "lon": 10.3239002227783
+  },
+  {
+    "country": "Norway",
+    "state": "Hordaland",
+    "city": "Tjukkebygdi",
+    "name": "BÃ¸moen Airport",
+    "icao": "ENBM",
+    "lat": 60.6389007568359,
+    "lon": 6.5015001296997
+  },
+  {
+    "country": "Norway",
+    "state": "Buskerud",
+    "city": "Dagali",
+    "name": "Geilo Airport Dagali",
+    "icao": "ENDI",
+    "lat": 60.4173011779785,
+    "lon": 8.51834964752197
+  },
+  {
+    "country": "Norway",
+    "state": "Telemark",
+    "city": "Fyresdal",
+    "name": "Fyresdal Airfield",
+    "icao": "ENFY",
+    "lat": 59.2000007629,
+    "lon": 8.08666992187999
+  },
+  {
+    "country": "Norway",
+    "state": "Hedmark",
+    "city": "Tynset",
+    "name": "Tynset Airport",
+    "icao": "ENTY",
+    "lat": 62.2569007873535,
+    "lon": 10.6694002151489
+  },
+  {
+    "country": "Norway",
+    "state": "SÃ¸r-TrÃ¸ndelag",
+    "city": "Ã˜rland",
+    "name": "Ã˜rland Airport",
+    "icao": "ENOL",
+    "lat": 63.6988983154296,
+    "lon": 9.60400009155273
+  },
+  {
+    "country": "Norway",
+    "state": "Hedmark",
+    "city": "Hedmark",
+    "name": "Trysil SÃ¦terÃ¥sen Airport",
+    "icao": "ENTS",
+    "lat": 61.2292785644531,
+    "lon": 12.2664070129394
+  },
+  {
+    "country": "Norway",
+    "state": "Buskerud",
+    "city": "Klanten flyplass",
+    "name": "Gol Airport",
+    "icao": "ENKL",
+    "lat": 60.791066,
+    "lon": 9.048672
+  },
+  {
+    "country": "Norway",
+    "state": "Hordaland",
+    "city": "Ulven",
+    "name": "Os Vaksinen Ulven Airport",
+    "icao": "ENUL",
+    "lat": 60.1922,
+    "lon": 5.4225
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "BerlevÃ¥g",
+    "name": "BerlevÃ¥g Airport",
+    "icao": "ENBV",
+    "lat": 70.871399,
+    "lon": 29.034201
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "Mehamn",
+    "name": "Mehamn Airport",
+    "icao": "ENMH",
+    "lat": 71.02970123291,
+    "lon": 27.826700210571
+  },
+  {
+    "country": "Norway",
+    "state": "Aust-Agder",
+    "city": "Aust-Agder",
+    "name": "Valle Airfield Ã…raksÃ¸yne",
+    "icao": "ENVE",
+    "lat": 59.031723,
+    "lon": 7.554903
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "Hasvik",
+    "name": "Hasvik Airport",
+    "icao": "ENHK",
+    "lat": 70.486701965332,
+    "lon": 22.139699935913
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "VardÃ¸",
+    "name": "VardÃ¸ Airport, Svartnes",
+    "icao": "ENSS",
+    "lat": 70.355400085449,
+    "lon": 31.044900894165
+  },
+  {
+    "country": "Norway",
+    "state": "Hedmark",
+    "city": "Folldal",
+    "name": "Folldal Grimsmoe Airport",
+    "icao": "ENGN",
+    "lat": 62.1175003051757,
+    "lon": 10.1107997894287
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "Saltdal",
+    "name": "Rognan Airport",
+    "icao": "ENRG",
+    "lat": 67.0982971191406,
+    "lon": 15.4111003875732
+  },
+  {
+    "country": "Norway",
+    "state": "Oppland",
+    "city": "Oppland",
+    "name": "BÃ¸verbru Airfield",
+    "icao": "NO-0032",
+    "lat": 60.637222,
+    "lon": 10.677222
+  },
+  {
+    "country": "Norway",
+    "state": "Oppland",
+    "city": "Lesja",
+    "name": "Bjorli Airfield",
+    "icao": "NO-0019",
+    "lat": 62.2350006103515,
+    "lon": 8.24666690826416
+  },
+  {
+    "country": "Norway",
+    "state": "Troms",
+    "city": "Salangen",
+    "name": "Salangen Airfield Elvenes",
+    "icao": "NO-0008",
+    "lat": 68.870697,
+    "lon": 17.978399
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "Hattfjelldal",
+    "name": "Hattfjelldal Airport",
+    "icao": "ENHT",
+    "lat": 65.5947036743164,
+    "lon": 13.9891996383667
+  },
+  {
+    "country": "Norway",
+    "state": "MÃ¸re og Romsdal",
+    "city": "SunndalsÃ¸ra",
+    "name": "Vinnu Airport",
+    "icao": "ENSU",
+    "lat": 62.6582984924316,
+    "lon": 8.66499996185302
+  },
+  {
+    "country": "Norway",
+    "state": "Hordaland",
+    "city": "Hordaland",
+    "name": "Frigg QP Platform",
+    "icao": "ENFR",
+    "lat": 59.8782997131,
+    "lon": 2.06500005722
+  },
+  {
+    "country": "Norway",
+    "state": "MÃ¸re og Romsdal",
+    "city": "Aukra",
+    "name": "Gossen Airfield",
+    "icao": "NO-0018",
+    "lat": 62.8349990844726,
+    "lon": 6.82999992370605
+  },
+  {
+    "country": "Norway",
+    "state": "Ã˜stfold",
+    "city": "Borge",
+    "name": "Torsnes Airfield",
+    "icao": "NO-0027",
+    "lat": 59.195556640625,
+    "lon": 11.0638885498046
+  },
+  {
+    "country": "Norway",
+    "state": "Oppland",
+    "city": "Lillehammer",
+    "name": "Lillehammer MjÃ¸sisen Ice Runway",
+    "icao": "NO-0033",
+    "lat": 61.095,
+    "lon": 10.44
+  },
+  {
+    "country": "Norway",
+    "state": "Hedmark",
+    "city": "Ringsaker",
+    "name": "Mesnali Airfield",
+    "icao": "NO-0024",
+    "lat": 61.083875,
+    "lon": 10.684208
+  },
+  {
+    "country": "Norway",
+    "state": "Akershus",
+    "city": "Ski",
+    "name": "Ski Airfield",
+    "icao": "ENSI",
+    "lat": 59.7063903808593,
+    "lon": 10.881944656372
+  },
+  {
+    "country": "Norway",
+    "state": "Oppland",
+    "city": "SÃ¸ndre Land",
+    "name": "Husodden Airfield",
+    "icao": "NO-0025",
+    "lat": 60.7483329772949,
+    "lon": 10.2399997711181
+  },
+  {
+    "country": "Norway",
+    "state": "SÃ¸r-TrÃ¸ndelag",
+    "city": "FrÃ¸ya",
+    "name": "Flatval Airport",
+    "icao": "ENFA",
+    "lat": 63.7005996704101,
+    "lon": 8.76056957244873
+  },
+  {
+    "country": "Norway",
+    "state": "Svalbard",
+    "city": "Ny-Ã…lesund",
+    "name": "Ny-Ã…lesund Airport (Hamnerabben)",
+    "icao": "ENAS",
+    "lat": 78.9274978638,
+    "lon": 11.8743
+  },
+  {
+    "country": "Norway",
+    "state": "Draupner Platform",
+    "city": "Draupner Platform",
+    "name": "Draupner Platform",
+    "icao": "ENDP",
+    "lat": 58.1880989074707,
+    "lon": 2.47111010551452
+  },
+  {
+    "country": "Norway",
+    "state": "Oseberg A Platform",
+    "city": "Oseberg A Platform",
+    "name": "Oseberg A Platform",
+    "icao": "ENOA",
+    "lat": 60.4914016723632,
+    "lon": 2.82556009292602
+  },
+  {
+    "country": "Norway",
+    "state": "Troll A Platform",
+    "city": "Troll A Platform",
+    "name": "Troll A Platform",
+    "icao": "ENQA",
+    "lat": 60.6450004577636,
+    "lon": 3.7247200012207
+  },
+  {
+    "country": "Norway",
+    "state": "Troll C Platform",
+    "city": "Troll C Platform",
+    "name": "Troll C Platform",
+    "icao": "ENQC",
+    "lat": 60.8857994079589,
+    "lon": 3.60971999168396
+  },
+  {
+    "country": "Norway",
+    "state": "Oseberg South Platform",
+    "city": "Oseberg South Platform",
+    "name": "Oseberg South Platform",
+    "icao": "ENQE",
+    "lat": 60.3897018432617,
+    "lon": 2.79555988311767
+  },
+  {
+    "country": "Norway",
+    "state": "Huldra Platform",
+    "city": "Huldra Platform",
+    "name": "Huldra Platform",
+    "icao": "ENQU",
+    "lat": 60.8553009033,
+    "lon": 2.64861011505
+  },
+  {
+    "country": "Norway",
+    "state": "Veslefrikk B Platform",
+    "city": "Veslefrikk B Platform",
+    "name": "Veslefrikk B Platform",
+    "icao": "ENVF",
+    "lat": 60.7821998596191,
+    "lon": 2.89611005783081
+  },
+  {
+    "country": "Norway",
+    "state": "Ekofisk A Platform",
+    "city": "Ekofisk A Platform",
+    "name": "Ekofisk A Platform",
+    "icao": "ENXA",
+    "lat": 56.5203018188476,
+    "lon": 3.22139000892639
+  },
+  {
+    "country": "Norway",
+    "state": "Cod Platform",
+    "city": "Cod Platform",
+    "name": "Cod Platform",
+    "icao": "ENXC",
+    "lat": 57.0689010620117,
+    "lon": 2.43333005905151
+  },
+  {
+    "country": "Norway",
+    "state": "Edda Platform",
+    "city": "Edda Platform",
+    "name": "Edda Platform",
+    "icao": "ENXE",
+    "lat": 56.4641990661621,
+    "lon": 3.10306000709533
+  },
+  {
+    "country": "Norway",
+    "state": "Gyda Platform",
+    "city": "Gyda Platform",
+    "name": "Gyda Platform",
+    "icao": "ENXG",
+    "lat": 56.9042015075683,
+    "lon": 3.08361005783081
+  },
+  {
+    "country": "Norway",
+    "state": "Valhall Flank South Platform",
+    "city": "Valhall Flank South Platform",
+    "name": "Valhall Flank South Platform",
+    "icao": "ENXJ",
+    "lat": 56.2268981933593,
+    "lon": 3.43583011627197
+  },
+  {
+    "country": "Norway",
+    "state": "Eldfisk A Platform",
+    "city": "Eldfisk A Platform",
+    "name": "Eldfisk A Platform",
+    "icao": "ENXL",
+    "lat": 56.3760986328125,
+    "lon": 3.26444005966186
+  },
+  {
+    "country": "Norway",
+    "state": "Jotun A Platform",
+    "city": "Jotun A Platform",
+    "name": "Jotun A Platform",
+    "icao": "ENXN",
+    "lat": 59.4505996704101,
+    "lon": 2.3652799129486
+  },
+  {
+    "country": "Norway",
+    "state": "Petrojarl Varg Platform",
+    "city": "Petrojarl Varg Platform",
+    "name": "Petrojarl Varg Platform",
+    "icao": "ENXP",
+    "lat": 58.0783004760742,
+    "lon": 1.90999996662139
+  },
+  {
+    "country": "Norway",
+    "state": "Albuskjell A Platform",
+    "city": "Albuskjell A Platform",
+    "name": "Albuskjell A Platform",
+    "icao": "ENXS",
+    "lat": 56.6422004699707,
+    "lon": 2.93861007690429
+  },
+  {
+    "country": "Norway",
+    "state": "Jotun B Platform",
+    "city": "Jotun B Platform",
+    "name": "Jotun B Platform",
+    "icao": "ENXU",
+    "lat": 59.4505996704101,
+    "lon": 2.3652799129486
+  },
+  {
+    "country": "Norway",
+    "state": "ENOR FIR",
+    "city": "ENOR FIR",
+    "name": "ENOR FIR",
+    "icao": "ENXX",
+    "lat": 57.6236000061,
+    "lon": 2.847219944
+  },
+  {
+    "country": "Norway",
+    "state": "Jan Mayen",
+    "city": "Jan Mayen",
+    "name": "Jan Mayensfield",
+    "icao": "ENJA",
+    "lat": 70.9441166,
+    "lon": -8.6520736
+  },
+  {
+    "country": "Norway",
+    "state": "Hedmark",
+    "city": "Hedmark",
+    "name": "LjÃ¸rdalen Flyplass",
+    "icao": "NO-0036",
+    "lat": 61.3561484,
+    "lon": 12.7570594
+  },
+  {
+    "country": "Norway",
+    "state": "Svalbard",
+    "city": "Svalbard",
+    "name": "Hopen Heliport",
+    "icao": "ENHO",
+    "lat": 76.508067,
+    "lon": 25.014337
+  },
+  {
+    "country": "Norway",
+    "state": "Ã˜stfold",
+    "city": "Ã˜stfold",
+    "name": "Eidsberg Airstrip",
+    "icao": "NO-0061",
+    "lat": 59.535537,
+    "lon": 11.243937
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "Nordland",
+    "name": "Svenningdal Airstrip",
+    "icao": "NO-0064",
+    "lat": 65.442929,
+    "lon": 13.407617
+  },
+  {
+    "country": "Norway",
+    "state": "Akershus",
+    "city": "Akershus",
+    "name": "Hurdal Airstrip",
+    "icao": "NO-0071",
+    "lat": 60.3617476,
+    "lon": 11.0915079
+  },
+  {
+    "country": "Norway",
+    "state": "Troms",
+    "city": "Troms",
+    "name": "Villmobakken Airstrip",
+    "icao": "NO-0074",
+    "lat": 70.2121625,
+    "lon": 19.6235079
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "Finnmark",
+    "name": "Veslemoen Airstrip",
+    "icao": "NO-0079",
+    "lat": 70.2900176,
+    "lon": 24.1102749
+  },
+  {
+    "country": "Norway",
+    "state": "Nord-TrÃ¸ndelag",
+    "city": "Nord-TrÃ¸ndelag",
+    "name": "Skogn Flyplass",
+    "icao": "NO-0082",
+    "lat": 63.695658,
+    "lon": 11.226687
+  },
+  {
+    "country": "Norway",
+    "state": "SÃ¸r-TrÃ¸ndelag",
+    "city": "Agdenes",
+    "name": "Agdenes Airfield Breivika",
+    "icao": "NO-0013",
+    "lat": 63.628887,
+    "lon": 9.72749996
+  },
+  {
+    "country": "Norway",
+    "state": "Buskerud",
+    "city": "Ã…l",
+    "name": "Ã…l Heliport, Medical Center",
+    "icao": "ENAH",
+    "lat": 60.629958,
+    "lon": 8.567017
+  },
+  {
+    "country": "Norway",
+    "state": "MÃ¸re og Romsdal",
+    "city": "Ã…lesund",
+    "name": "Ã…lesund Heliport, Hospital",
+    "icao": "ENAX",
+    "lat": 62.462942,
+    "lon": 6.312435
+  },
+  {
+    "country": "Norway",
+    "state": "Hedmark",
+    "city": "Ã…mot",
+    "name": "Rena Airfield LandsÃ¸rkje",
+    "icao": "NO-0023",
+    "lat": 61.18611145,
+    "lon": 11.3725004
+  },
+  {
+    "country": "Norway",
+    "state": "Svalbard",
+    "city": "Barentsburg",
+    "name": "Barentsburg Heliport, Heerodden",
+    "icao": "ENBA",
+    "lat": 78.101318,
+    "lon": 14.195676
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "BÃ¥tsfjord",
+    "name": "Old BÃ¥tsfjord Airport",
+    "icao": "NO-0035",
+    "lat": 70.5996,
+    "lon": 29.6581
+  },
+  {
+    "country": "Norway",
+    "state": "Hordaland",
+    "city": "Bergen",
+    "name": "Haukeland Universitetssykehus Heliport",
+    "icao": "NO-0044",
+    "lat": 60.373145,
+    "lon": 5.358187
+  },
+  {
+    "country": "Norway",
+    "state": "Hordaland",
+    "city": "Bergen",
+    "name": "Herdla Airport",
+    "icao": "NO-0067",
+    "lat": 60.578382,
+    "lon": 4.960047
+  },
+  {
+    "country": "Norway",
+    "state": "Hordaland",
+    "city": "Bergen",
+    "name": "Bergen Heliport, Sandviken",
+    "icao": "NO-0069",
+    "lat": 60.409302,
+    "lon": 5.317071
+  },
+  {
+    "country": "Norway",
+    "state": "Aust-Agder",
+    "city": "Bykle",
+    "name": "Bykle Heliport, Hovden",
+    "icao": "NO-0047",
+    "lat": 59.52691,
+    "lon": 7.368471
+  },
+  {
+    "country": "Norway",
+    "state": "Oppland",
+    "city": "DombÃ¥s",
+    "name": "DombÃ¥s Heliport, Brunshaugen",
+    "icao": "ENDB",
+    "lat": 62.068943,
+    "lon": 9.121084
+  },
+  {
+    "country": "Norway",
+    "state": "Hedmark",
+    "city": "Elverum",
+    "name": "Elverum Heliport, Innlandet Hospital",
+    "icao": "ENEL",
+    "lat": 60.876961,
+    "lon": 11.569628
+  },
+  {
+    "country": "Norway",
+    "state": "Ã˜stfold",
+    "city": "Fredrikstad",
+    "name": "Huseby Airstrip",
+    "icao": "NO-0039",
+    "lat": 59.266927,
+    "lon": 10.810549
+  },
+  {
+    "country": "Norway",
+    "state": "Sogn og Fjordane",
+    "city": "FÃ¸rde",
+    "name": "FÃ¸rde Central Hospital Heliport",
+    "icao": "ENFD",
+    "lat": 61.456302,
+    "lon": 5.890432
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "Gamvik",
+    "name": "Gamvik Airport",
+    "icao": "NO-0075",
+    "lat": 71.078925,
+    "lon": 28.225927
+  },
+  {
+    "country": "Norway",
+    "state": "Troms",
+    "city": "Harstad",
+    "name": "Harstad Heliport, Hospital",
+    "icao": "NO-0049",
+    "lat": 68.795754,
+    "lon": 16.525452
+  },
+  {
+    "country": "Norway",
+    "state": "Rogaland",
+    "city": "Haugesund",
+    "name": "Haugesund Heliport, Haugesund Hospital",
+    "icao": "ENHX",
+    "lat": 59.408763,
+    "lon": 5.279548
+  },
+  {
+    "country": "Norway",
+    "state": "Svalbard",
+    "city": "Herwighamna",
+    "name": "BjÃ¸rnÃ¸ya Heliport",
+    "icao": "ENBJ",
+    "lat": 74.5038889,
+    "lon": 19.0
+  },
+  {
+    "country": "Norway",
+    "state": "Buskerud",
+    "city": "HÃ¸nefoss",
+    "name": "HÃ¸nefoss Heliport, Ringerike Hospital",
+    "icao": "ENRX",
+    "lat": 60.149111,
+    "lon": 10.255219
+  },
+  {
+    "country": "Norway",
+    "state": "Hordaland",
+    "city": "Kinsarvik",
+    "name": "Kinsarvik Heliport, Husemoen",
+    "icao": "NO-0050",
+    "lat": 60.361583,
+    "lon": 6.740877
+  },
+  {
+    "country": "Norway",
+    "state": "Finnmark",
+    "city": "KjÃ¸llefjord",
+    "name": "KjÃ¸llefjord Airport",
+    "icao": "NO-0046",
+    "lat": 70.940661,
+    "lon": 27.348868
+  },
+  {
+    "country": "Norway",
+    "state": "Vest-Agder",
+    "city": "Kristiansand",
+    "name": "Kristiansand Heliport, Hospital",
+    "icao": "NO-0051",
+    "lat": 58.164124,
+    "lon": 7.981816
+  },
+  {
+    "country": "Norway",
+    "state": "Oppland",
+    "city": "Lillehammer",
+    "name": "Lillehammer Heliport, Innlandet Hospital",
+    "icao": "ENLH",
+    "lat": 61.11325,
+    "lon": 10.472165
+  },
+  {
+    "country": "Norway",
+    "state": "Akershus",
+    "city": "LÃ¸renskog",
+    "name": "LÃ¸renskog Heliport, Ahus",
+    "icao": "ENLX",
+    "lat": 59.932138,
+    "lon": 10.986877
+  },
+  {
+    "country": "Norway",
+    "state": "MÃ¸re og Romsdal",
+    "city": "Molde",
+    "name": "Molde Heliport, Hospital",
+    "icao": "NO-0053",
+    "lat": 62.737088,
+    "lon": 7.135475
+  },
+  {
+    "country": "Norway",
+    "state": "Nordland",
+    "city": "Narvik",
+    "name": "Djupvik Heliport",
+    "icao": "NO-0076",
+    "lat": 68.451455,
+    "lon": 17.532497
+  },
+  {
+    "country": "Norway",
+    "state": "Oslo",
+    "city": "Oslo",
+    "name": "LindÃ¸ye Seaplane Base",
+    "icao": "NO-0005",
+    "lat": 59.8909606933593,
+    "lon": 10.7182788848876
+  },
+  {
+    "country": "Norway",
+    "state": "Oslo",
+    "city": "Oslo",
+    "name": "Oslo Heliport, Ullevaal",
+    "icao": "ENUH",
+    "lat": 59.936215,
+    "lon": 10.736541
+  },
+  {
+    "country": "Norway",
+    "state": "Nord-TrÃ¸ndelag",
+    "city": "Overhalla",
+    "name": "Overhalla Airstrip",
+    "icao": "NO-0060",
+    "lat": 64.528154,
+    "lon": 11.989258
+  },
+  {
+    "country": "Norway",
+    "state": "Svalbard",
+    "city": "Pyramiden",
+    "name": "Pyramiden Heliport",
+    "icao": "ENPY",
+    "lat": 78.652322,
+    "lon": 16.337208
+  },
+  {
+    "country": "Norway",
+    "state": "Nord-TrÃ¸ndelag",
+    "city": "SnÃ¥sa",
+    "name": "Graundalen",
+    "icao": "NO-0010",
+    "lat": 64.0169448852539,
+    "lon": 12.682222366333
+  },
+  {
+    "country": "Norway",
+    "state": "Rogaland",
+    "city": "Stavanger",
+    "name": "Stavanger Heliport, University Hospital",
+    "icao": "ENSX",
+    "lat": 58.9521,
+    "lon": 5.730924
+  },
+  {
+    "country": "Norway",
+    "state": "Nord-TrÃ¸ndelag",
+    "city": "Steinkjer",
+    "name": "Henning (Nedre Langli)",
+    "icao": "NO-0011",
+    "lat": 63.9313888549804,
+    "lon": 11.5900001525878
+  },
+  {
+    "country": "Norway",
+    "state": "Sogn og Fjordane",
+    "city": "Stryn",
+    "name": "Stryn Airstrip",
+    "icao": "NO-0054",
+    "lat": 61.910104,
+    "lon": 6.755442
+  },
+  {
+    "country": "Norway",
+    "state": "MÃ¸re og Romsdal",
+    "city": "Surnadal",
+    "name": "Gravvold Airfield",
+    "icao": "NO-0017",
+    "lat": 63.0547218322753,
+    "lon": 8.71416664123535
+  },
+  {
+    "country": "Norway",
+    "state": "Oppland",
+    "city": "SÃ¸r-Fron",
+    "name": "Wadahl",
+    "icao": "NO-0020",
+    "lat": 61.4994430541992,
+    "lon": 9.79833316802978
+  },
+  {
+    "country": "Norway",
+    "state": "Troms",
+    "city": "TromsÃ¸",
+    "name": "TromsÃ¸ Heliport, University Hospital",
+    "icao": "NO-0058",
+    "lat": 69.683925,
+    "lon": 18.984699
+  },
+  {
+    "country": "Norway",
+    "state": "SÃ¸r-TrÃ¸ndelag",
+    "city": "Trondheim",
+    "name": "Trondheim Heliport, Rosten",
+    "icao": "ENRT",
+    "lat": 63.368133,
+    "lon": 10.374015
+  },
+  {
+    "country": "Norway",
+    "state": "Vestfold",
+    "city": "TÃ¸nsberg",
+    "name": "TÃ¸nsberg Heliport, Hospital",
+    "icao": "NO-0057",
+    "lat": 59.273235,
+    "lon": 10.41618
+  }
+]

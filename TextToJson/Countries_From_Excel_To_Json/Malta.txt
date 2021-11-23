@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Malta",
+    "state": "BirÅ¼ebbuÄ¡a",
+    "city": "BirÅ¼ebbuÄ¡a",
+    "name": "Hal Far Airfield",
+    "icao": "MT-0001",
+    "lat": 35.81333,
+    "lon": 14.513379
+  },
+  {
+    "country": "Malta",
+    "state": "Attard",
+    "city": "Attard",
+    "name": "Ta' Qali",
+    "icao": "MT-0003",
+    "lat": 35.896914,
+    "lon": 14.418733
+  }
+]

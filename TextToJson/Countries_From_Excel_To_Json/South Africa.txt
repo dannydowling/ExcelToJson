@@ -1,0 +1,2099 @@
+[
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Cape Town",
+    "name": "Cape Town International Airport",
+    "icao": "FACT",
+    "lat": -33.9648017883,
+    "lon": 18.6016998291
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "name": "Lanseria Airport",
+    "icao": "FALA",
+    "lat": -25.9384994506999,
+    "lon": 27.9260997772
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Port Elizabeth",
+    "name": "Port Elizabeth Airport",
+    "icao": "FAPE",
+    "lat": -33.9849014282,
+    "lon": 25.6173000336
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Mpumalanga",
+    "name": "Kruger Mpumalanga International Airport",
+    "icao": "FAKN",
+    "lat": -25.3831996918,
+    "lon": 31.1056003571
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Johannesburg",
+    "name": "Rand Airport",
+    "icao": "FAGM",
+    "lat": -26.2425003052,
+    "lon": 28.1511993408
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "George",
+    "name": "George Airport",
+    "icao": "FAGG",
+    "lat": -34.0056,
+    "lon": 22.378902
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Nelspruit",
+    "name": "Nelspruit Airport",
+    "icao": "FANS",
+    "lat": -25.5,
+    "lon": 30.9137992859
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Rustenburg",
+    "name": "Rustenburg Airport",
+    "icao": "FARG",
+    "lat": -25.6443004608,
+    "lon": 27.2710990905999
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Kimberley",
+    "name": "Kimberley Airport",
+    "icao": "FAKM",
+    "lat": -28.8027992249,
+    "lon": 24.7651996613
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Potchefstroom",
+    "name": "Potchefstroom Airport",
+    "icao": "FAPS",
+    "lat": -26.670999527,
+    "lon": 27.0818996429
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Stellenbosch",
+    "name": "Stellenbosch Airport",
+    "icao": "FASH",
+    "lat": -33.9799995422,
+    "lon": 18.8199996948
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Pietermaritzburg",
+    "name": "Pietermaritzburg Airport",
+    "icao": "FAPM",
+    "lat": -29.6490001677999,
+    "lon": 30.3987007141
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Parys",
+    "name": "Parys Airport",
+    "icao": "FAPY",
+    "lat": -26.8892993927001,
+    "lon": 27.5034008026123
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Del Fouche",
+    "name": "Springs Airfield",
+    "icao": "FASI",
+    "lat": -26.2494004736,
+    "lon": 28.3982715607
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Durban",
+    "name": "Virginia Airport",
+    "icao": "FAVG",
+    "lat": -29.7705993652343,
+    "lon": 31.0583992004394
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Sishen",
+    "name": "Sishen Airport",
+    "icao": "FASS",
+    "lat": -27.6485996246,
+    "lon": 22.9993000031
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Bain's Vlei",
+    "name": "New Tempe Airport",
+    "icao": "FATP",
+    "lat": -29.0328998565673,
+    "lon": 26.157600402832
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Fisantekraal",
+    "name": "Fisantekraal Airport",
+    "icao": "FAFK",
+    "lat": -33.77,
+    "lon": 18.74
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Secunda",
+    "name": "Secunda Airport",
+    "icao": "FASC",
+    "lat": -26.52409935,
+    "lon": 29.1700992583999
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Bethlehem",
+    "name": "Bethlehem Airport",
+    "icao": "FABM",
+    "lat": -28.2483997345,
+    "lon": 28.3360996246
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Polokwane",
+    "name": "Polokwane International Airport",
+    "icao": "FAPP",
+    "lat": -23.845269,
+    "lon": 29.458615
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Polokwane",
+    "name": "Pietersburg Municipal Airport",
+    "icao": "FAPI",
+    "lat": -23.9260997772,
+    "lon": 29.4843997955
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Hoedspruit",
+    "name": "Hoedspruit Air Force Base Airport",
+    "icao": "FAHS",
+    "lat": -24.3686008452999,
+    "lon": 31.0487003326
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Newcastle",
+    "name": "Newcastle Airport",
+    "icao": "FANC",
+    "lat": -27.7705993652,
+    "lon": 29.9769001006999
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Musina",
+    "name": "Musina(Messina) Airport",
+    "icao": "FAMH",
+    "lat": -22.3560009002999,
+    "lon": 29.9862003326
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Gauteng",
+    "name": "Aviators Paradise Field",
+    "icao": "ZA-0105",
+    "lat": -25.69389,
+    "lon": 27.7825073972
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Mafeking",
+    "name": "Mmabatho International Airport",
+    "icao": "FAMM",
+    "lat": -25.7984008789,
+    "lon": 25.5480003356999
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Richards Bay",
+    "name": "Richards Bay Airport",
+    "icao": "FARB",
+    "lat": -28.7409992218,
+    "lon": 32.0920982361
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Bisho",
+    "name": "Bisho Airport",
+    "icao": "FABE",
+    "lat": -32.8970985413,
+    "lon": 27.2791004180999
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Brakpan",
+    "name": "Brakpan Airport",
+    "icao": "FABB",
+    "lat": -26.2385997772216,
+    "lon": 28.3017997741699
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Heidelburg",
+    "name": "Heidelburg Airport",
+    "icao": "FAHG",
+    "lat": -26.5100002288818,
+    "lon": 28.3899993896484
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Hiltonia",
+    "name": "Syferfontein Airport",
+    "icao": "FASY",
+    "lat": -26.3491992950439,
+    "lon": 27.7793998718261
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Middelburg",
+    "name": "Middelburg Airport",
+    "icao": "FAMB",
+    "lat": -25.6847991943359,
+    "lon": 29.440200805664
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Mossel Bay",
+    "name": "Mossel Bay Airport",
+    "icao": "FAMO",
+    "lat": -34.158298,
+    "lon": 22.058599
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Potgietersus",
+    "name": "Potgietersrus Airport",
+    "icao": "FAQR",
+    "lat": -24.233334,
+    "lon": 28.983334
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Pretoria",
+    "name": "Swartkop Air Force Base",
+    "icao": "FASK",
+    "lat": -25.8097000122,
+    "lon": 28.1646003722999
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Rooiberg",
+    "name": "Rooiberg Airport",
+    "icao": "FARO",
+    "lat": -24.7777888889,
+    "lon": 27.7523361111
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Volksrust",
+    "name": "Volksrust Airport",
+    "icao": "FAVU",
+    "lat": -27.3768997192382,
+    "lon": 29.8600006103515
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Western Cape",
+    "name": "Morningstar",
+    "icao": "ZA-0120",
+    "lat": -33.757978,
+    "lon": 18.550403
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Ladysmith",
+    "name": "Ladysmith Airport",
+    "icao": "FALY",
+    "lat": -28.5816993713,
+    "lon": 29.7497005462999
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Malelane",
+    "name": "Riverside Airport",
+    "icao": "FAMN",
+    "lat": -25.4300003052,
+    "lon": 31.5767002106
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Oudtshoorn",
+    "name": "Oudtshoorn Airport",
+    "icao": "FAOH",
+    "lat": -33.6069984436,
+    "lon": 22.188999176
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Queenstown",
+    "name": "Queenstown Airport",
+    "icao": "FAQT",
+    "lat": -31.9202003479003,
+    "lon": 26.8822002410888
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Saldanha-Vredenburg",
+    "name": "Saldanha /Vredenburg Airport",
+    "icao": "FASD",
+    "lat": -32.964099884,
+    "lon": 17.9692993164
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Belfast",
+    "name": "Sabi Sabi Airport",
+    "icao": "FASE",
+    "lat": -24.9473754341999,
+    "lon": 31.4488477707
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Brits",
+    "name": "Aero Den Airport",
+    "icao": "ZA-0086",
+    "lat": -25.7266674041748,
+    "lon": 27.7397212982177
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Ellisras",
+    "name": "Ellisras Matimba Airport",
+    "icao": "FAER",
+    "lat": -23.7266998291015,
+    "lon": 27.6882991790771
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Frankfort",
+    "name": "Frankfort Airport",
+    "icao": "FAFF",
+    "lat": -27.285400390625,
+    "lon": 28.5153007507324
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Hoedspruit",
+    "name": "Thorny Bush Game Lodge Airport",
+    "icao": "FATB",
+    "lat": -24.4147224426269,
+    "lon": 31.1650009155273
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Louis Trichardt",
+    "name": "Louis Trichardt Airport",
+    "icao": "FALO",
+    "lat": -23.0618991851806,
+    "lon": 29.8647003173828
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Marble Hall",
+    "name": "Marble Hall Airport",
+    "icao": "FAMI",
+    "lat": -24.9890995025634,
+    "lon": 29.2831001281738
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Overberg",
+    "name": "Overberg Airport",
+    "icao": "FAOB",
+    "lat": -34.554901123,
+    "lon": 20.2506999969
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Pofadder",
+    "name": "Pofadder Airport",
+    "icao": "FAPD",
+    "lat": -29.1417007446289,
+    "lon": 19.4130992889404
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Pongola",
+    "name": "Pongola Airport",
+    "icao": "FAPL",
+    "lat": -27.3622,
+    "lon": 31.606701
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Saffier",
+    "name": "Saffier Airport",
+    "icao": "FASJ",
+    "lat": -26.7600002288818,
+    "lon": 27.7600002288818
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Tshipise",
+    "name": "Tshipise Airport",
+    "icao": "ZA-0098",
+    "lat": -22.6193008422851,
+    "lon": 30.1756000518798
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Vanderbijlpark",
+    "name": "Vanderbijlpark Airport",
+    "icao": "FAVP",
+    "lat": -26.6902999877929,
+    "lon": 27.777099609375
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Venetia Mine",
+    "name": "Venetia Airport",
+    "icao": "FAVM",
+    "lat": -22.4480991364,
+    "lon": 29.3376998900999
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Wolmeransstad",
+    "name": "Wolmeransstad Airport",
+    "icao": "FAWD",
+    "lat": -27.1700000762939,
+    "lon": 25.9799995422363
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Gauteng",
+    "name": "Fly Inn Estate",
+    "icao": "ZA-0112",
+    "lat": -25.9711496926,
+    "lon": 28.3502766059
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Ficksburg",
+    "name": "Ficksburg Sentraoes Airport",
+    "icao": "FAFB",
+    "lat": -28.8230991363525,
+    "lon": 27.9088993072509
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Kuruman",
+    "name": "Johan Pienaar Airport",
+    "icao": "FAKU",
+    "lat": -27.4566993713378,
+    "lon": 23.4113998413085
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Robertson",
+    "name": "Robertson Airport",
+    "icao": "FARS",
+    "lat": -33.812198638916,
+    "lon": 19.9027996063232
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Mpumalanga",
+    "name": "Sappi / Ngodwana",
+    "icao": "ZA-0101",
+    "lat": -25.5886783599853,
+    "lon": 30.6223640441894
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Alldays",
+    "name": "Alldays Airport",
+    "icao": "FAAL",
+    "lat": -22.6790008545,
+    "lon": 29.0555000305
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Amerspoort",
+    "name": "Amersfoort Airport",
+    "icao": "ZA-0029",
+    "lat": -27.0200004577636,
+    "lon": 29.8700008392334
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Ardmore",
+    "name": "El Mirador Airport",
+    "icao": "FALQ",
+    "lat": -28.9861106872558,
+    "lon": 29.4797229766845
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Beeshoek",
+    "name": "Tommys Field Airport",
+    "icao": "FATF",
+    "lat": -28.2600002288818,
+    "lon": 22.993200302124
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Britstown",
+    "name": "Britstown Airport",
+    "icao": "ZA-0093",
+    "lat": -30.5833339691162,
+    "lon": 23.5166664123535
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Cape Town",
+    "name": "Ysterplaat Air Force Base",
+    "icao": "FAYP",
+    "lat": -33.9001998901367,
+    "lon": 18.4983005523681
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Carnarvon",
+    "name": "Carnarvon Airport",
+    "icao": "FACN",
+    "lat": -30.9885997772216,
+    "lon": 22.131700515747
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Dunnottar",
+    "name": "Dunnottar Airfield",
+    "icao": "FADR",
+    "lat": -26.3543156175,
+    "lon": 28.466791153
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Fraseburg",
+    "name": "Fraserburg Airport",
+    "icao": "FAFR",
+    "lat": -31.9339008331298,
+    "lon": 21.5025005340576
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Hekpoort",
+    "name": "Blue Mountain Valley Airport",
+    "icao": "ZA-0026",
+    "lat": -25.8575000762939,
+    "lon": 27.6277770996093
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Hibberdene",
+    "name": "Hibberdene Airport",
+    "icao": "FAHH",
+    "lat": -30.6299991607666,
+    "lon": 30.5200004577636
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Hluhluwe",
+    "name": "Hluhluwe Airport",
+    "icao": "FAHL",
+    "lat": -28.0166049887,
+    "lon": 32.2751712799
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Hoopstad",
+    "name": "Hoopstad Airport",
+    "icao": "FAHP",
+    "lat": -27.821699142456,
+    "lon": 25.9169006347656
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Kimberley",
+    "name": "John Weston Airport",
+    "icao": "ZA-0045",
+    "lat": -28.7333335876464,
+    "lon": 24.6666660308837
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Komatipoort",
+    "name": "Komatipoort Airport",
+    "icao": "FAKP",
+    "lat": -25.4402999877929,
+    "lon": 31.9300003051757
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Louis Trichardt Southwest",
+    "name": "Makhado Air Force Base Airport",
+    "icao": "FALM",
+    "lat": -23.1599006652832,
+    "lon": 29.6965007781982
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Otthawa",
+    "name": "Othawa Airport",
+    "icao": "FAOL",
+    "lat": -24.7329998016357,
+    "lon": 31.3999996185302
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Paarl",
+    "name": "Paarl East Airport",
+    "icao": "FAPU",
+    "lat": -33.7107666666999,
+    "lon": 19.0243888889
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Piet Retief",
+    "name": "Piet Retief Airport",
+    "icao": "FAPF",
+    "lat": -26.9969005585,
+    "lon": 30.8407993316999
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Postmasburg",
+    "name": "Posmasburg Soil Airport",
+    "icao": "FAPT",
+    "lat": -28.3386001586914,
+    "lon": 23.0797004699707
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Qolora",
+    "name": "Trennery's Airport",
+    "icao": "FATR",
+    "lat": -32.6385993957519,
+    "lon": 28.4242992401123
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Sace",
+    "name": "Sace Airport",
+    "icao": "FASU",
+    "lat": -25.9568996429443,
+    "lon": 29.2117004394531
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Schweizer Reneke",
+    "name": "Schweizer Reneke Airport",
+    "icao": "FASG",
+    "lat": -27.1630992889404,
+    "lon": 25.2861003875732
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Sparta",
+    "name": "Malamala West Airport",
+    "icao": "ZA-0041",
+    "lat": -24.8080940246582,
+    "lon": 31.5045642852783
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Standerton",
+    "name": "Tutuka Power Station Airport",
+    "icao": "FATT",
+    "lat": -26.776599884,
+    "lon": 29.3388004303
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Stutterheim",
+    "name": "Stutterheim Airport",
+    "icao": "FATM",
+    "lat": -32.566665649414,
+    "lon": 27.4500007629394
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Swartwater",
+    "name": "Swartwater Highway Strip Airport",
+    "icao": "ZA-0080",
+    "lat": -22.8409996032714,
+    "lon": 28.2087001800537
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Thabazimbi",
+    "name": "Thabazimbi Airport",
+    "icao": "FATI",
+    "lat": -24.5760850299,
+    "lon": 27.4196863174
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Ugie",
+    "name": "Ugie Airport",
+    "icao": "FAUG",
+    "lat": -31.2199993133544,
+    "lon": 28.2099990844726
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Ulusaba",
+    "name": "Ulusaba Airport",
+    "icao": "ZA-0069",
+    "lat": -24.7854003906,
+    "lon": 31.3549003601
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Worcester",
+    "name": "Worcester Glider Airport",
+    "icao": "FAWC",
+    "lat": -33.663101196289,
+    "lon": 19.4153003692626
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Zeerust",
+    "name": "Zeerust Airport",
+    "icao": "FAZR",
+    "lat": -25.5990009307861,
+    "lon": 26.0422992706298
+  },
+  {
+    "country": "South Africa",
+    "state": "Lekoa",
+    "city": "Lekoa",
+    "name": "Lekoa Lodge",
+    "icao": "ZA-0169",
+    "lat": -26.945571,
+    "lon": 28.718068
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Sunset Shores",
+    "name": "Sunset Shores Airfield",
+    "icao": "ZA-0113",
+    "lat": -26.8512013063,
+    "lon": 28.198428154
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Harrismith",
+    "name": "Harrismith Airport",
+    "icao": "FAHR",
+    "lat": -28.2350997924804,
+    "lon": 29.1061992645263
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Lime Acres",
+    "name": "Lime Acres Finsch Mine Airport",
+    "icao": "FALC",
+    "lat": -28.3600997924804,
+    "lon": 23.4391002655029
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Aldam",
+    "name": "Aldam Airport",
+    "icao": "ZA-0015",
+    "lat": -28.2688884735107,
+    "lon": 27.1613883972167
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Alldays",
+    "name": "Alldays Safaris Airport",
+    "icao": "ZA-0082",
+    "lat": -22.6672000885009,
+    "lon": 29.315200805664
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Amsterdam",
+    "name": "Amsterdam Airport",
+    "icao": "FAAM",
+    "lat": -26.6333332061767,
+    "lon": 30.6000003814697
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Anton Fourie",
+    "name": "Anton Fourie Farm Airport",
+    "icao": "ZA-0020",
+    "lat": -27.5,
+    "lon": 26.3305549621582
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Askham",
+    "name": "Askham Airport",
+    "icao": "ZA-0054",
+    "lat": -26.9869441986,
+    "lon": 20.7772216797
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Barberton",
+    "name": "Barberton Municipal Airfield",
+    "icao": "FABN",
+    "lat": -25.7786006926999,
+    "lon": 31.0174999236999
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Barkly East",
+    "name": "Barkly East Airport",
+    "icao": "FABF",
+    "lat": -30.9666671752999,
+    "lon": 27.6041660309
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Barrange",
+    "name": "Barrange Airport",
+    "icao": "ZA-0055",
+    "lat": -26.125,
+    "lon": 22.6188888549804
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Belfast",
+    "name": "Belfast Aerodrome",
+    "icao": "FABH",
+    "lat": -25.6587417378,
+    "lon": 30.041577816
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Beulah",
+    "name": "Beulah Airport",
+    "icao": "ZA-0001",
+    "lat": -33.9052772521972,
+    "lon": 24.9569435119628
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Blackie Swart",
+    "name": "Blackie Swart Airport",
+    "icao": "ZA-0039",
+    "lat": -25.5755004882812,
+    "lon": 30.9758605957031
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Blyde Canyon",
+    "name": "Blyde Canyon Airport",
+    "icao": "ZA-0071",
+    "lat": -24.5744438171386,
+    "lon": 30.7772216796875
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Boluispan",
+    "name": "Bosluispan  Airport",
+    "icao": "ZA-0043",
+    "lat": -29.8502769470214,
+    "lon": 18.96555519104
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Bonwa Phala",
+    "name": "Bonwa Phala Airport",
+    "icao": "ZA-0068",
+    "lat": -24.8866672515869,
+    "lon": 28.0472221374511
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Brandfort",
+    "name": "Brandfort Airport",
+    "icao": "ZA-0011",
+    "lat": -28.6903991699218,
+    "lon": 26.420799255371
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Brosterlea Farm",
+    "name": "Brosterlea Farm Airport",
+    "icao": "ZA-0006",
+    "lat": -31.283332824707,
+    "lon": 26.5666675567626
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Bultfontein",
+    "name": "Bultfontein Airport",
+    "icao": "FABU",
+    "lat": -28.273369,
+    "lon": 26.135835
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Burgersdorp",
+    "name": "Burghersdorp Airport",
+    "icao": "FABD",
+    "lat": -30.9775009155273,
+    "lon": 26.3080997467041
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Bushman's Kloof",
+    "name": "Bushmans Kloof Airport",
+    "icao": "FABK",
+    "lat": -32.035,
+    "lon": 19.0435
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Cape Town",
+    "name": "Middelburg 2 Airport",
+    "icao": "FAMC",
+    "lat": -31.5471992492675,
+    "lon": 25.0293998718261
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Carolina",
+    "name": "Forel Airport",
+    "icao": "ZA-0036",
+    "lat": -25.9500007629394,
+    "lon": 30.1166667938232
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Cathcart",
+    "name": "Cathcart Airport",
+    "icao": "FACX",
+    "lat": -32.2871017456054,
+    "lon": 27.1387996673584
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Citrusdal",
+    "name": "Citrusdal Airport",
+    "icao": "FACI",
+    "lat": -32.6176986694335,
+    "lon": 19.0053997039794
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Clanwilliam",
+    "name": "Clanwilliam Airport",
+    "icao": "FACW",
+    "lat": -32.177,
+    "lon": 18.8819
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Colesberg",
+    "name": "Adamsfontein Airport",
+    "icao": "ZA-0042",
+    "lat": -30.5813884735107,
+    "lon": 25.2600002288818
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Cooperton",
+    "name": "Alkantpan Copper Airport",
+    "icao": "FACO",
+    "lat": -29.9064006805419,
+    "lon": 22.3166999816894
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Cradock",
+    "name": "Cradock Airport",
+    "icao": "FACD",
+    "lat": -32.1567001343,
+    "lon": 25.6455993652
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "De Aar",
+    "name": "De Aar Military Airport",
+    "icao": "FADY",
+    "lat": -30.6365089416503,
+    "lon": 23.9197254180908
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Delareyville",
+    "name": "Delareyville Airport",
+    "icao": "FADL",
+    "lat": -26.67919921875,
+    "lon": 25.4747009277343
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Delmas",
+    "name": "Delmas Airport",
+    "icao": "FADE",
+    "lat": -26.1416664123535,
+    "lon": 28.6916675567626
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Dendron",
+    "name": "Dendron Airport",
+    "icao": "FADO",
+    "lat": -23.3805999755859,
+    "lon": 29.32080078125
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Dundee",
+    "name": "Battlefields Airport",
+    "icao": "ZA-0066",
+    "lat": -28.1315269470214,
+    "lon": 30.2904167175292
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Durnacol",
+    "name": "Durnacol Airport",
+    "icao": "FADH",
+    "lat": -28.046100616455,
+    "lon": 30.006399154663
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Dwaalboom",
+    "name": "Dwaalboom Airport",
+    "icao": "FADB",
+    "lat": -24.8071994781494,
+    "lon": 26.8297004699707
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Edenburg",
+    "name": "Edenburg Airport",
+    "icao": "FAED",
+    "lat": -29.75,
+    "lon": 25.8999996185302
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Emmaus",
+    "name": "Glen Grey Airport",
+    "icao": "FAGH",
+    "lat": -28.8333339691162,
+    "lon": 29.4666671752929
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Eshowe",
+    "name": "Eshowe Airport",
+    "icao": "FAES",
+    "lat": -28.880199432373,
+    "lon": 31.4549007415771
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Estcourt",
+    "name": "Estcourt Airport",
+    "icao": "FAEC",
+    "lat": -29.0471992492675,
+    "lon": 29.9106006622314
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Fort Beaufort",
+    "name": "Fort Beaufort Airport",
+    "icao": "FAFO",
+    "lat": -32.7905006408691,
+    "lon": 26.5776996612548
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Fraaiuitzicht",
+    "name": "Fraaiuitzicht Airport",
+    "icao": "FAFU",
+    "lat": -27.3169994354248,
+    "lon": 27.25
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Giant'S Castle Game Reserve",
+    "name": "Giants Castle Airport",
+    "icao": "FAGS",
+    "lat": -29.269699,
+    "lon": 29.566099
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Gifvlei",
+    "name": "Gifvlei Airport",
+    "icao": "FAGJ",
+    "lat": -30.38330078125,
+    "lon": 20.0333003997802
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Gravelotte",
+    "name": "Boulders Game Ranch 2 (Microlight) Airport",
+    "icao": "ZA-0075",
+    "lat": -24.0866661071777,
+    "lon": 30.8438892364501
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Haakdoornboom",
+    "name": "Haakdoornboom Airport",
+    "icao": "FAHK",
+    "lat": -25.5872001647949,
+    "lon": 28.1158008575439
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Harding",
+    "name": "Harding Airport",
+    "icao": "FAHJ",
+    "lat": -30.5666999816894,
+    "lon": 29.88330078125
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Hluhluwe",
+    "name": "Ornate Lake - St Lucia Airport",
+    "icao": "FAON",
+    "lat": -28.044900894165,
+    "lon": 32.425399780273
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Homeward",
+    "name": "Thaba Nchu Tar Airport",
+    "icao": "FATN",
+    "lat": -29.3178005218505,
+    "lon": 26.8227996826171
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Howick",
+    "name": "Howick Airport",
+    "icao": "FAHC",
+    "lat": -29.5527992248535,
+    "lon": 30.2110996246337
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Humansdorp",
+    "name": "Humansdorp Airport",
+    "icao": "FAHD",
+    "lat": -34.0365982055664,
+    "lon": 24.7889003753662
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Ingwavuma",
+    "name": "Ingwavuma Airport",
+    "icao": "FAIV",
+    "lat": -27.1170997619628,
+    "lon": 32.0087013244628
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Jeffreysbaal",
+    "name": "Paradise Beach Airport",
+    "icao": "FAPX",
+    "lat": -34.1027793884277,
+    "lon": 24.8827781677246
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Joubertina",
+    "name": "Joubertina Airport",
+    "icao": "FAJP",
+    "lat": -33.831199645996,
+    "lon": 23.8300991058349
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Jozini",
+    "name": "Jozini Airport",
+    "icao": "ZA-0067",
+    "lat": -27.3500003814697,
+    "lon": 32.1333351135253
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Kagga Kamma Private Game Reserve",
+    "name": "Kagga Kamma Airport",
+    "icao": "FAKA",
+    "lat": -32.7469940185546,
+    "lon": 19.5620994567871
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Kakamas",
+    "name": "Kakamas Airport",
+    "icao": "FAKK",
+    "lat": -28.7999992370605,
+    "lon": 20.632999420166
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Kenhardt",
+    "name": "Kenhardt Airport",
+    "icao": "FAKH",
+    "lat": -29.3267002105712,
+    "lon": 21.1886005401611
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Kenton On Sea",
+    "name": "Kenton on Sea Airport",
+    "icao": "FAKX",
+    "lat": -33.6693,
+    "lon": 26.630899
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Koffee Bay",
+    "name": "Koffee Bay Airport",
+    "icao": "FAKF",
+    "lat": -31.9638996124267,
+    "lon": 29.1490993499755
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Koingnaas",
+    "name": "Koingnaas Airport",
+    "icao": "ZA-KIG",
+    "lat": -30.1877994537353,
+    "lon": 17.2791996002197
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Kokstad",
+    "name": "Kokstad Airport",
+    "icao": "FADM",
+    "lat": -30.5564994812011,
+    "lon": 29.4081993103027
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Komga",
+    "name": "Komga Airport",
+    "icao": "FAKO",
+    "lat": -32.5928001403808,
+    "lon": 27.8757991790771
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Lavino",
+    "name": "Lavino Airport",
+    "icao": "ZA-0040",
+    "lat": -24.8333339691162,
+    "lon": 30.1000003814697
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Lohatlha",
+    "name": "Dippiesfield Airport",
+    "icao": "ZA-0052",
+    "lat": -28.0322227478027,
+    "lon": 23.2027778625488
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Lusikisiki",
+    "name": "Lusikisiki Airport",
+    "icao": "FALK",
+    "lat": -31.36669921875,
+    "lon": 29.5832996368408
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Mafeking",
+    "name": "Manyani Game Lodge Airport",
+    "icao": "FAML",
+    "lat": -25.8166999816894,
+    "lon": 25.7166996002197
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Mafeking",
+    "name": "Mafeking North Airport",
+    "icao": "ZA-0085",
+    "lat": -25.7920570373535,
+    "lon": 25.6110305786132
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Malabar",
+    "name": "Malabar Airport",
+    "icao": "FAMF",
+    "lat": -29.0118999481201,
+    "lon": 23.8474006652832
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Massikier",
+    "name": "Beestekraal Airport",
+    "icao": "ZA-0088",
+    "lat": -25.2999992370605,
+    "lon": 27.533332824707
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Mathase",
+    "name": "Botsalano Airport",
+    "icao": "ZA-0087",
+    "lat": -25.533332824707,
+    "lon": 25.7333335876464
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Matshakatini",
+    "name": "Madimbo Airport",
+    "icao": "FAMP",
+    "lat": -22.3747005462646,
+    "lon": 30.8815994262695
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Mbazwana",
+    "name": "Mbazwana Airport",
+    "icao": "FAMX",
+    "lat": -27.4813995361328,
+    "lon": 32.5938987731933
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "MIddelburg",
+    "name": "Vanggatfontein Airport",
+    "icao": "ZA-0034",
+    "lat": -26.2000007629394,
+    "lon": 28.8166675567626
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Molteno",
+    "name": "Molteno Airport",
+    "icao": "FAMT",
+    "lat": -31.3896007537841,
+    "lon": 26.3484001159667
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Mopane",
+    "name": "Avarel Airport",
+    "icao": "ZA-0083",
+    "lat": -22.5795993804931,
+    "lon": 29.9689006805419
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Mubatuba",
+    "name": "Mubatuba Airport",
+    "icao": "FADK",
+    "lat": -28.3684005737304,
+    "lon": 32.2481002807617
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "New Scotland",
+    "name": "New Scotland Airport",
+    "icao": "ZA-0032",
+    "lat": -26.2999992370605,
+    "lon": 30.7333335876464
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Nongoma",
+    "name": "Nongoma Airport",
+    "icao": "FANA",
+    "lat": -27.9139995574951,
+    "lon": 31.6562004089355
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Olifantshoek",
+    "name": "Jack Duvenhage Airport",
+    "icao": "FAOF",
+    "lat": -27.9617004394531,
+    "lon": 22.7166004180908
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Orkney",
+    "name": "Orkney Airport",
+    "icao": "FAOY",
+    "lat": -26.9839000701904,
+    "lon": 26.6513996124267
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Petrusville",
+    "name": "Petrusville Airport",
+    "icao": "FAPV",
+    "lat": -30.0818004608154,
+    "lon": 24.6795997619628
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Philippolis",
+    "name": "Philippolis Airport",
+    "icao": "ZA-0009",
+    "lat": -30.2159004211425,
+    "lon": 25.2203006744384
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Phinda",
+    "name": "Zulu Inyala Airport",
+    "icao": "FADQ",
+    "lat": -27.8493995666503,
+    "lon": 32.309700012207
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Pietersrus",
+    "name": "Pietersrus Airport",
+    "icao": "FAPW",
+    "lat": -26.6061000823974,
+    "lon": 29.3292007446289
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Port Elizabeth",
+    "name": "Darlington Dam Lodge Airport",
+    "icao": "FADP",
+    "lat": -33.1832008361816,
+    "lon": 25.1931991577148
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Riverview",
+    "name": "Riverview Airport",
+    "icao": "ZA-0064",
+    "lat": -28.4333324432373,
+    "lon": 32.1500015258789
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Sani Pass",
+    "name": "Sani Pass Airport",
+    "icao": "FASA",
+    "lat": -29.6572,
+    "lon": 29.447701
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Santoy",
+    "name": "Black Rock Airport",
+    "icao": "FABP",
+    "lat": -27.129724,
+    "lon": 22.846255
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Schmidtsdrif",
+    "name": "Schmidtsdrif Airport",
+    "icao": "ZA-0046",
+    "lat": -28.6666660308837,
+    "lon": 24.033332824707
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Senekal",
+    "name": "Arizona Airport",
+    "icao": "ZA-0012",
+    "lat": -28.4533329010009,
+    "lon": 27.5249996185302
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Slurry",
+    "name": "Slurry Airport",
+    "icao": "FASW",
+    "lat": -25.8155994415283,
+    "lon": 25.8864002227783
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Somersveld",
+    "name": "Somersveld Airport",
+    "icao": "FALS",
+    "lat": -33.2462272644043,
+    "lon": 18.4799976348876
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Steytlerville",
+    "name": "Steytlerville Airport",
+    "icao": "FALR",
+    "lat": -33.3370018005371,
+    "lon": 24.3213996887207
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Struisbaai",
+    "name": "Andrew's Field Airport",
+    "icao": "FAAF",
+    "lat": -34.7628898620605,
+    "lon": 20.0349159240722
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Tsitsikama",
+    "name": "Tsitsikama Fly Airport",
+    "icao": "FATK",
+    "lat": -34.0847015380859,
+    "lon": 24.2896995544433
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Umzimkulu",
+    "name": "Grange Airport",
+    "icao": "FAGA",
+    "lat": -30.2670001983642,
+    "lon": 29.966999053955
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Upington",
+    "name": "Vastrap Airport",
+    "icao": "FAVS",
+    "lat": -27.8413887023925,
+    "lon": 21.6341667175292
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Vaalputs",
+    "name": "Vaalputs Airport",
+    "icao": "FAVA",
+    "lat": -30.134199142456,
+    "lon": 18.5266990661621
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Vanwyksdorp",
+    "name": "Assegaay Bosch Game Lodge Airport",
+    "icao": "ZA-0090",
+    "lat": -33.7602500915527,
+    "lon": 21.5472221374511
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Viermuisklip",
+    "name": "Holrivier Airport",
+    "icao": "ZA-0092",
+    "lat": -31.5666675567626,
+    "lon": 18.3833332061767
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Vrede",
+    "name": "Vrede Airport",
+    "icao": "FAVD",
+    "lat": -27.4402999877929,
+    "lon": 29.1530990600585
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Wesselsbron",
+    "name": "Wesselbronn Af Airport",
+    "icao": "FAWS",
+    "lat": -27.8467006683349,
+    "lon": 26.3505992889404
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Willowmore",
+    "name": "Bhejane Game Reserve Airport",
+    "icao": "ZA-0002",
+    "lat": -33.1966667175293,
+    "lon": 23.9346675872802
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Winburg",
+    "name": "Winburg Airport",
+    "icao": "FAWN",
+    "lat": -28.5,
+    "lon": 27.0166664123535
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Witputs",
+    "name": "Bells Bank Airport",
+    "icao": "ZA-0051",
+    "lat": -28.1049995422363,
+    "lon": 24.3783340454101
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Western Cape",
+    "name": "Robben Island Airstrip",
+    "icao": "ZA-0107",
+    "lat": -33.8004044125,
+    "lon": 18.3637332916
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Free State",
+    "name": "Vaal Dam Airfield",
+    "icao": "ZA-0152",
+    "lat": -26.94099,
+    "lon": 28.14281
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Western Cape",
+    "name": "Elandspad Airfield",
+    "icao": "ZA-0153",
+    "lat": -34.433548,
+    "lon": 20.722225
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Annakop",
+    "name": "Annakop Airport",
+    "icao": "ZA-0134",
+    "lat": -29.1057,
+    "lon": 19.0791
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Bloemhof",
+    "name": "Bloemhof Airport",
+    "icao": "ZA-0109",
+    "lat": -27.6094,
+    "lon": 25.5794
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Bray",
+    "name": "Kirstonia Airport",
+    "icao": "ZA-0136",
+    "lat": -25.4681,
+    "lon": 23.6971
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Buffelsbank",
+    "name": "Buffels River Airport",
+    "icao": "ZA-0132",
+    "lat": -29.6265,
+    "lon": 17.4522
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Caledon",
+    "name": "Caledon Airfield",
+    "icao": "FACG",
+    "lat": -34.259523,
+    "lon": 19.416214
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Doringbaai",
+    "name": "Doringbaai Airstrip",
+    "icao": "ZA-0124",
+    "lat": -31.8057,
+    "lon": 18.2384
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Gamoep",
+    "name": "Gamoep Airstrip",
+    "icao": "ZA-0130",
+    "lat": -29.9214,
+    "lon": 18.4237
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Garies",
+    "name": "Garies Airport",
+    "icao": "ZA-0128",
+    "lat": -30.6075,
+    "lon": 17.9039
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Groblershoop",
+    "name": "Groblershoop Airport",
+    "icao": "ZA-0141",
+    "lat": -28.912138,
+    "lon": 21.992947
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Hanover",
+    "name": "Hanover Airport",
+    "icao": "ZA-0148",
+    "lat": -31.075719,
+    "lon": 24.452623
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Hondeklip Bay",
+    "name": "Hondeklip Bay Airstrip",
+    "icao": "ZA-0129",
+    "lat": -30.3366,
+    "lon": 17.2896
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Hopetown",
+    "name": "Hopetown Airport",
+    "icao": "ZA-0142",
+    "lat": -29.630074,
+    "lon": 24.095224
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Kuruman",
+    "name": "Kuruman Hospital Heliport",
+    "icao": "ZA-0140",
+    "lat": -27.459904,
+    "lon": 23.443762
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Lady Grey",
+    "name": "Lady Grey Golf Course Airstrip",
+    "icao": "ZA-0147",
+    "lat": -30.706581,
+    "lon": 27.208231
+  },
+  {
+    "country": "South Africa",
+    "state": "Free State",
+    "city": "Luckhof",
+    "name": "Luckhof Airport",
+    "icao": "ZA-0144",
+    "lat": -29.737988,
+    "lon": 24.780042
+  },
+  {
+    "country": "South Africa",
+    "state": "Gauteng",
+    "city": "Midvaal",
+    "name": "Klipriver Airfield, South Africa",
+    "icao": "ZA-0161",
+    "lat": -26.475684,
+    "lon": 28.111032
+  },
+  {
+    "country": "South Africa",
+    "state": "Kwazulu-Natal",
+    "city": "Mooi River",
+    "name": "Treverton College Airstrip",
+    "icao": "ZA-0137",
+    "lat": -29.1944,
+    "lon": 30.0149
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Nababeep",
+    "name": "Nababiep Airport",
+    "icao": "ZA-0131",
+    "lat": -29.524,
+    "lon": 17.781
+  },
+  {
+    "country": "South Africa",
+    "state": "Eastern Cape",
+    "city": "Nelson Mandela Bay",
+    "name": "Pumba air strip",
+    "icao": "ZA-0116",
+    "lat": -33.391911,
+    "lon": 26.346392
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Nossob Rest Camp",
+    "name": "Nossob Airport",
+    "icao": "ZA-0135",
+    "lat": -25.4316,
+    "lon": 20.5975
+  },
+  {
+    "country": "South Africa",
+    "state": "Western Cape",
+    "city": "Nuwerus",
+    "name": "Monosite Airfield",
+    "icao": "ZA-0126",
+    "lat": -31.1227,
+    "lon": 18.6095
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Sendelingsdrif",
+    "name": "Au Beep Flats Airport",
+    "icao": "ZA-0122",
+    "lat": -28.1081,
+    "lon": 16.8936
+  },
+  {
+    "country": "South Africa",
+    "state": "Limpopo",
+    "city": "Shingwedzi",
+    "name": "Shingwedzi Camp Airstrip",
+    "icao": "ZA-0154",
+    "lat": -23.114988,
+    "lon": 31.427508
+  },
+  {
+    "country": "South Africa",
+    "state": "North-West",
+    "city": "Tosca",
+    "name": "Tosca Airport",
+    "icao": "ZA-0139",
+    "lat": -25.875702,
+    "lon": 23.962922
+  },
+  {
+    "country": "South Africa",
+    "state": "Northern Cape",
+    "city": "Vosburg",
+    "name": "Vosburg Airport",
+    "icao": "ZA-0149",
+    "lat": -30.588342,
+    "lon": 22.894196
+  },
+  {
+    "country": "South Africa",
+    "state": "Mpumalanga",
+    "city": "Witbank",
+    "name": "Benics Airport",
+    "icao": "ZA-0106",
+    "lat": -25.8188991547,
+    "lon": 29.2217006683
+  }
+]

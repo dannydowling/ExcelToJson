@@ -1,0 +1,4313 @@
+[
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Frankfurt am Main",
+    "name": "Frankfurt am Main Airport",
+    "icao": "EDDF",
+    "lat": 50.033333,
+    "lon": 8.570556
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Munich",
+    "name": "Munich Airport",
+    "icao": "EDDM",
+    "lat": 48.353802,
+    "lon": 11.7861
+  },
+  {
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "name": "Berlin-Tegel Airport",
+    "icao": "EDDT",
+    "lat": 52.5597,
+    "lon": 13.2877
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "DÃ¼sseldorf",
+    "name": "Dusseldorf Airport",
+    "icao": "EDDL",
+    "lat": 51.289501,
+    "lon": 6.76678
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Berlin",
+    "name": "Berlin-SchÃ¶nefeld Airport",
+    "icao": "EDDB",
+    "lat": 52.380001,
+    "lon": 13.5225
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Cologne",
+    "name": "Cologne Bonn Airport",
+    "icao": "EDDK",
+    "lat": 50.8658981323,
+    "lon": 7.1427397728
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Nuremberg",
+    "name": "Nuremberg Airport",
+    "icao": "EDDN",
+    "lat": 49.498699,
+    "lon": 11.078056
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Hannover",
+    "name": "Hannover Airport",
+    "icao": "EDDV",
+    "lat": 52.461101532,
+    "lon": 9.68507957458
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Weeze",
+    "name": "Weeze Airport",
+    "icao": "EDLV",
+    "lat": 51.6024017334,
+    "lon": 6.14216995239
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Friedrichshafen",
+    "name": "Friedrichshafen Airport",
+    "icao": "EDNY",
+    "lat": 47.6712989806999,
+    "lon": 9.51148986816
+  },
+  {
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "name": "Berlin Tempelhof International Airport",
+    "icao": "EDDI",
+    "lat": 52.473,
+    "lon": 13.4039
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Memmingen",
+    "name": "Memmingen Allgau Airport",
+    "icao": "EDJA",
+    "lat": 47.9888000487999,
+    "lon": 10.2395000458
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Munster",
+    "name": "Munster Osnabruck Airport",
+    "icao": "EDDG",
+    "lat": 52.134601593,
+    "lon": 7.68483018875
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Lubeck",
+    "name": "Lubeck Blankensee Airport",
+    "icao": "EDHL",
+    "lat": 53.8054008484,
+    "lon": 10.7192001343
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-Wurttemberg",
+    "city": "Baden-Baden",
+    "name": "Karlsruhe Baden-Baden Airport",
+    "icao": "EDSB",
+    "lat": 48.7793998718,
+    "lon": 8.08049964905
+  },
+  {
+    "country": "Germany",
+    "state": "Saarland",
+    "city": "Saarbrucken",
+    "name": "Saarbrucken Airport",
+    "icao": "EDDR",
+    "lat": 49.2145996094,
+    "lon": 7.10950994492
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Paderborn",
+    "name": "Paderborn Lippstadt Airport",
+    "icao": "EDLP",
+    "lat": 51.6141014098999,
+    "lon": 8.61631965636999
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Augsburg",
+    "name": "Augsburg Airport",
+    "icao": "EDMA",
+    "lat": 48.425278,
+    "lon": 10.931667
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "MÃ¶nchengladbach",
+    "name": "MÃ¶nchengladbach Airport",
+    "icao": "EDLN",
+    "lat": 51.230278,
+    "lon": 6.504444
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Kassel",
+    "name": "Kassel-Calden Airport",
+    "icao": "EDVK",
+    "lat": 51.417273,
+    "lon": 9.384967
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Frankfurt am Main",
+    "name": "Frankfurt-Egelsbach Airport",
+    "icao": "EDFE",
+    "lat": 49.959999,
+    "lon": 8.645833
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Aachen",
+    "name": "Aachen-MerzbrÃ¼ck Airport",
+    "icao": "EDKA",
+    "lat": 50.823055,
+    "lon": 6.186389
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Donaueschingen",
+    "name": "Donaueschingen-Villingen Airport",
+    "icao": "EDTD",
+    "lat": 47.9733314513999,
+    "lon": 8.52222156525
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Dahlheim",
+    "name": "Flugplatz Dahlemer Binz",
+    "icao": "EDKV",
+    "lat": 50.405555725,
+    "lon": 6.5288891792
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Mengen",
+    "name": "Mengen-Hohentengen Airport",
+    "icao": "EDTM",
+    "lat": 48.0538902282714,
+    "lon": 9.37277793884277
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Westerland",
+    "name": "Westerland Sylt Airport",
+    "icao": "EDXW",
+    "lat": 54.9132003784,
+    "lon": 8.34047031403
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Bitburg",
+    "name": "Bitburg Airport",
+    "icao": "EDRB",
+    "lat": 49.945278,
+    "lon": 6.565
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Rothenburg ob der Tauber",
+    "name": "Rothenburg o. d. T. Airport",
+    "icao": "EDFR",
+    "lat": 49.3883323669433,
+    "lon": 10.2180557250976
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Mainz",
+    "name": "Mainz-Finthen Airport",
+    "icao": "EDFZ",
+    "lat": 49.967499,
+    "lon": 8.147222
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bonn",
+    "name": "Bonn-Hangelar Airport",
+    "icao": "EDKB",
+    "lat": 50.7688903809,
+    "lon": 7.16333293915
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Juist",
+    "name": "Juist Airport",
+    "icao": "EDWJ",
+    "lat": 53.68111038208,
+    "lon": 7.055832862854
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Stadtlohn",
+    "name": "Stadtlohn-Vreden Airfield",
+    "icao": "EDLS",
+    "lat": 51.995834,
+    "lon": 6.840556
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Straubing",
+    "name": "Straubing Airport",
+    "icao": "EDMS",
+    "lat": 48.9008331298828,
+    "lon": 12.5166673660278
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Trier",
+    "name": "Spangdahlem Air Base",
+    "icao": "ETAD",
+    "lat": 49.9726982117,
+    "lon": 6.69250011444
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Leer",
+    "name": "Leer-Papenburg Airport",
+    "icao": "EDWF",
+    "lat": 53.2719421386718,
+    "lon": 7.44166707992553
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Norderney",
+    "name": "Norderney Airport",
+    "icao": "EDWY",
+    "lat": 53.706944,
+    "lon": 7.23
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Altenburg",
+    "name": "Altenburg-Nobitz Airport",
+    "icao": "EDAC",
+    "lat": 50.981945,
+    "lon": 12.506389
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Kiel",
+    "name": "Kiel-Holtenau Airport",
+    "icao": "EDHK",
+    "lat": 54.3794441223144,
+    "lon": 10.1452779769897
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "ZweibrÃ¼cken",
+    "name": "ZweibrÃ¼cken Airport",
+    "icao": "EDRZ",
+    "lat": 49.2094,
+    "lon": 7.40056
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Aalen",
+    "name": "Aalen-Heidenheim/Elchingen Airport",
+    "icao": "EDPA",
+    "lat": 48.7777786254882,
+    "lon": 10.2647218704223
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Aschaffenburg",
+    "name": "Aschaffenburg Airfield",
+    "icao": "EDFC",
+    "lat": 49.938889,
+    "lon": 9.063889
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Wangerooge",
+    "name": "Wangerooge Airport",
+    "icao": "EDWG",
+    "lat": 53.7827796936035,
+    "lon": 7.91388893127441
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Rostock",
+    "name": "Rostock-Laage Airport",
+    "icao": "ETNL",
+    "lat": 53.9182014465,
+    "lon": 12.2783002852999
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Munich",
+    "name": "Flughafen MÃ¼nchen-Riem",
+    "icao": "XMUC",
+    "lat": 48.137798309,
+    "lon": 11.69029999
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bottrop-Kirchhellen",
+    "name": "Dinslaken/Schwarze Heide Airport",
+    "icao": "EDLD",
+    "lat": 51.616112,
+    "lon": 6.865278
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Flensburg",
+    "name": "Flensburg-SchÃ¤ferhaus Airport",
+    "icao": "EDXF",
+    "lat": 54.7733345031738,
+    "lon": 9.3788890838623
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Kulmbach",
+    "name": "Kulmbach Airport",
+    "icao": "EDQK",
+    "lat": 50.1349983215332,
+    "lon": 11.4597215652465
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "MÃ¼nster",
+    "name": "MÃ¼nster-Telgte Airport",
+    "icao": "EDLT",
+    "lat": 51.9444427490234,
+    "lon": 7.77388906478881
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Uetersen",
+    "name": "Uetersen/Heist Airport",
+    "icao": "EDHE",
+    "lat": 53.6463890075683,
+    "lon": 9.70416736602783
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Worms",
+    "name": "Worms Airport",
+    "icao": "EDFV",
+    "lat": 49.606945,
+    "lon": 8.368333
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Kirchheim unter Teck",
+    "name": "Flugplatz Hahnweide",
+    "icao": "EDST",
+    "lat": 48.631944,
+    "lon": 9.430556
+  },
+  {
+    "country": "Germany",
+    "state": "Bremen",
+    "city": "Bremerhaven",
+    "name": "Bremerhaven Airport",
+    "icao": "EDWB",
+    "lat": 53.506943,
+    "lon": 8.572778
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Eisenach",
+    "name": "Eisenach-Kindel Airport",
+    "icao": "EDGE",
+    "lat": 50.991604,
+    "lon": 10.47973
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Backnang",
+    "name": "Backnang-Heiningen Airport",
+    "icao": "EDSH",
+    "lat": 48.919724,
+    "lon": 9.455278
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Eggenfelden",
+    "name": "Eggenfelden Airfield",
+    "icao": "EDME",
+    "lat": 48.396111,
+    "lon": 12.723611
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Idar-Oberstein",
+    "name": "Idar-Oberstein/GÃ¶ttschied Airfield",
+    "icao": "EDRG",
+    "lat": 49.732224,
+    "lon": 7.336111
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Langeoog",
+    "name": "Langeoog Airport",
+    "icao": "EDWL",
+    "lat": 53.7425003051757,
+    "lon": 7.49777793884277
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Magdeburg",
+    "name": "Cochstedt Airport",
+    "icao": "EDBC",
+    "lat": 51.8563995361,
+    "lon": 11.42029953
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Marl",
+    "name": "Marl-LoemÃ¼hle Airfield",
+    "icao": "EDLM",
+    "lat": 51.647202,
+    "lon": 7.16333
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Michelstadt",
+    "name": "Flugplatz Michelstadt/Odenwald",
+    "icao": "EDFO",
+    "lat": 49.678612,
+    "lon": 8.971944
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Mosbach",
+    "name": "Mosbach-Lohrbach Airport",
+    "icao": "EDGM",
+    "lat": 49.3988876342773,
+    "lon": 9.12388896942138
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "MÃ¼hldorf am Inn",
+    "name": "MÃ¼hldorf Airport",
+    "icao": "EDMY",
+    "lat": 48.2794456481933,
+    "lon": 12.5005559921264
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Neheim-HÃ¼sten",
+    "name": "Arnsberg-Menden Airport",
+    "icao": "EDLA",
+    "lat": 51.4838905334472,
+    "lon": 7.89833307266235
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Reichelsheim",
+    "name": "Reichelsheim Airport",
+    "icao": "EDFB",
+    "lat": 50.3358345031738,
+    "lon": 8.87805557250976
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Stendal",
+    "name": "Stendal-Borstel Airport",
+    "icao": "EDOV",
+    "lat": 52.6288871765136,
+    "lon": 11.8186111450195
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Strausberg",
+    "name": "Strausberg Airport",
+    "icao": "EDAY",
+    "lat": 52.5805549621582,
+    "lon": 13.9166669845581
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Traben-Trarbach",
+    "name": "Traben-Trarbach/Mont Royal Airfield",
+    "icao": "EDRM",
+    "lat": 49.967777,
+    "lon": 7.111944
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Wilhelmshaven",
+    "name": "Wilhelmshaven-Mariensiel Airport",
+    "icao": "EDWI",
+    "lat": 53.5022201538085,
+    "lon": 8.05222225189209
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "WÃ¼rzburg",
+    "name": "WÃ¼rzburg-Schenkenturm Airport",
+    "icao": "EDFW",
+    "lat": 49.81778,
+    "lon": 9.8975
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bamberg",
+    "name": "Airport Bamberg-Breitenau",
+    "icao": "EDQA",
+    "lat": 49.920403,
+    "lon": 10.914233
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Berlin",
+    "name": "Berlin Brandenburg Airport (U.C.)",
+    "icao": "BER",
+    "lat": 52.351389,
+    "lon": 13.493889
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Hohenfels Army Air Field",
+    "icao": "ETIH",
+    "lat": 49.2181015014648,
+    "lon": 11.8360996246337
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Magdeburg",
+    "name": "Magdeburg \"City\" Airport",
+    "icao": "EDBM",
+    "lat": 52.073612,
+    "lon": 11.626389
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Damme",
+    "name": "Damme Airfield",
+    "icao": "EDWC",
+    "lat": 52.487499,
+    "lon": 8.185556
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "DonauwÃ¶rth",
+    "name": "DonauwÃ¶rth-Genderkingen Airport",
+    "icao": "EDMQ",
+    "lat": 48.7027778625488,
+    "lon": 10.8511114120483
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Ganderkesee",
+    "name": "Ganderkesee Atlas Airfield",
+    "icao": "EDWQ",
+    "lat": 53.03611,
+    "lon": 8.505556
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Giengen an der Brenz",
+    "name": "Giengen/Brenz Airport",
+    "icao": "EDNG",
+    "lat": 48.6341667175,
+    "lon": 10.2163887024
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Harlesiel",
+    "name": "Flugplatz Harle",
+    "icao": "EDXP",
+    "lat": 53.706669,
+    "lon": 7.820278
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Meinerzhagen",
+    "name": "Meinerzhagen Airport",
+    "icao": "EDKZ",
+    "lat": 51.099998474121,
+    "lon": 7.59999990463256
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Neustadt an der Aisch",
+    "name": "Neustadt/Aisch Airport",
+    "icao": "EDQN",
+    "lat": 49.5875015259,
+    "lon": 10.5775003433
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "RÃ¼gen",
+    "name": "Flugplatz GÃ¼ttin / RÃ¼gen",
+    "icao": "EDCG",
+    "lat": 54.383331,
+    "lon": 13.325556
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Sankt Peter-Ording",
+    "name": "St. Peter-Ording Airport",
+    "icao": "EDXO",
+    "lat": 54.3088874816894,
+    "lon": 8.68694400787353
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Weinheim",
+    "name": "Weinheim/BergstraÃŸe Airport",
+    "icao": "EDGZ",
+    "lat": 49.5675010681152,
+    "lon": 8.61055564880371
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Mecklenburg-Vorpommern",
+    "name": "Schwerin Parchim Airport",
+    "icao": "EDOP",
+    "lat": 53.426998,
+    "lon": 11.7834
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Niederstetten",
+    "name": "Niederstetten Army Air Base",
+    "icao": "ETHN",
+    "lat": 49.391945,
+    "lon": 9.958889
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Laupheim Air Base",
+    "icao": "ETHL",
+    "lat": 48.220299,
+    "lon": 9.91002
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Roth",
+    "name": "Sonderlandeplatz Roth",
+    "icao": "ETHR",
+    "lat": 49.217499,
+    "lon": 11.1002
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "North Rhine-Westphalia",
+    "name": "BrÃ¼ggen Air Base",
+    "icao": "ETUR",
+    "lat": 51.199699,
+    "lon": 6.13208
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Ansbach",
+    "name": "Ansbach-Petersdorf Airport",
+    "icao": "EDQF",
+    "lat": 49.361111,
+    "lon": 10.669444
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bad Oeynhausen",
+    "name": "Porta Westfalica Airport",
+    "icao": "EDVY",
+    "lat": 52.220832824707,
+    "lon": 8.85916709899902
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Breitscheid",
+    "name": "Breitscheid Airport",
+    "icao": "EDGB",
+    "lat": 50.6763877868652,
+    "lon": 8.16944408416748
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Bremgarten",
+    "name": "Bremgarten Airport",
+    "icao": "EDTG",
+    "lat": 47.9027786255,
+    "lon": 7.6177778244
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Coburg",
+    "name": "Coburg-Brandensteinsebene Airport",
+    "icao": "EDQC",
+    "lat": 50.262501,
+    "lon": 10.995556
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Donzdorf",
+    "name": "Donzdorf Airport",
+    "icao": "EDPM",
+    "lat": 48.6780548095703,
+    "lon": 9.8436107635498
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Giebelstadt",
+    "name": "Giebelstadt Airport",
+    "icao": "EDQG",
+    "lat": 49.6480560303,
+    "lon": 9.96638870239
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Gundelfingen a.d.Donau",
+    "name": "Gundelfingen Airport",
+    "icao": "EDMU",
+    "lat": 48.5694427490234,
+    "lon": 10.3588886260986
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "HÃ¶xter",
+    "name": "HÃ¶xter-Holzminden Airport",
+    "icao": "EDVI",
+    "lat": 51.8066673278808,
+    "lon": 9.37833309173584
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "LÃ¼neburg",
+    "name": "LÃ¼neburg Airport",
+    "icao": "EDHG",
+    "lat": 53.2488899230957,
+    "lon": 10.461667060852
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "LÃ¼sse",
+    "name": "LÃ¼sse Airport",
+    "icao": "EDOJ",
+    "lat": 52.1411094665527,
+    "lon": 12.6647224426269
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Mindelheim",
+    "name": "Mindelheim-Mattsies Airfield",
+    "icao": "EDMN",
+    "lat": 48.106945,
+    "lon": 10.525
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Neustadt an der WeinstraÃŸe",
+    "name": "Lachen-Speyerdorf Airport",
+    "icao": "EDRL",
+    "lat": 49.3308334350585,
+    "lon": 8.20972156524658
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Obermehler",
+    "name": "Obermehler-Schlotheim Airport",
+    "icao": "EDCO",
+    "lat": 51.2677764892578,
+    "lon": 10.6347217559814
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Offenburg",
+    "name": "Offenburg Airport",
+    "icao": "EDTO",
+    "lat": 48.4500007629,
+    "lon": 7.92472219467
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Oppenheim",
+    "name": "Oppenheim Airport",
+    "icao": "EDGP",
+    "lat": 49.8416671752929,
+    "lon": 8.37666702270507
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "PeenemÃ¼nde",
+    "name": "PeenemÃ¼nde Airport",
+    "icao": "EDCP",
+    "lat": 54.1577796936,
+    "lon": 13.7744436263999
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Pirna",
+    "name": "Flugplatz Pirna-Pratzschwitz",
+    "icao": "EDAR",
+    "lat": 50.979168,
+    "lon": 13.909722
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Reinsdorf",
+    "name": "Reinsdorf Airport",
+    "icao": "EDOD",
+    "lat": 51.9008331299,
+    "lon": 13.1944437027
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Rendsburg",
+    "name": "Rendsburg-Schachtholm Airfield",
+    "icao": "EDXR",
+    "lat": 54.220001,
+    "lon": 9.599444
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Rottweil",
+    "name": "Rottweil-Zepfenhahn Airport",
+    "icao": "EDSZ",
+    "lat": 48.1863899230957,
+    "lon": 8.72111129760742
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Schmallenberg",
+    "name": "Schmallenberg-Rennefeld Airport",
+    "icao": "EDKR",
+    "lat": 51.1616668701171,
+    "lon": 8.26222229003906
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Storck Barracks",
+    "name": "Illesheim Air Base",
+    "icao": "ETIK",
+    "lat": 49.4738998412999,
+    "lon": 10.3880996704
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Villingen-Schwenningen",
+    "name": "Schwenningen am Neckar Airport",
+    "icao": "EDTS",
+    "lat": 48.0658340453999,
+    "lon": 8.5713891983
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "WalldÃ¼rn",
+    "name": "WalldÃ¼rn Airport",
+    "icao": "EDEW",
+    "lat": 49.5816688537597,
+    "lon": 9.4022216796875
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Weimar ",
+    "name": "Weimar-Umpferstedt Airport",
+    "icao": "EDOU",
+    "lat": 50.9647216796875,
+    "lon": 11.4002780914306
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Zwickau",
+    "name": "Zwickau Airport",
+    "icao": "EDBI",
+    "lat": 50.7016677856445,
+    "lon": 12.4538888931274
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Helgoland",
+    "name": "Helgoland-DÃ¼ne Airport",
+    "icao": "EDXH",
+    "lat": 54.1852798462,
+    "lon": 7.91583299637
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Brandenburg",
+    "name": "Holzdorf Air Base",
+    "icao": "ETSH",
+    "lat": 51.767799,
+    "lon": 13.1677
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Lower Saxony",
+    "name": "BÃ¼ckeburg Air Base",
+    "icao": "ETHB",
+    "lat": 52.2785,
+    "lon": 9.08217
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Coleman Army Air Field",
+    "icao": "ETOR",
+    "lat": 49.563599,
+    "lon": 8.46339
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Rothenburg/Oberlausitz",
+    "name": "Rothenburg/GÃ¶rlitz Airport",
+    "icao": "EDBR",
+    "lat": 51.3633346557617,
+    "lon": 14.9499998092651
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Vilseck Army Air Field",
+    "icao": "ETOI",
+    "lat": 49.6335983276367,
+    "lon": 11.7672004699707
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Allendorf",
+    "name": "Allendorf/Eder Airport",
+    "icao": "EDFQ",
+    "lat": 51.0349998474121,
+    "lon": 8.680832862854
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Altena",
+    "name": "Altena-Hegenscheid Airport",
+    "icao": "EDKD",
+    "lat": 51.3130569458007,
+    "lon": 7.70416688919067
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Ampfing",
+    "name": "Ampfing-Waldkraiburg Airport",
+    "icao": "EDNA",
+    "lat": 48.2636108398437,
+    "lon": 12.4116668701171
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Aschersleben",
+    "name": "Aschersleben Airfield",
+    "icao": "EDCQ",
+    "lat": 51.766945,
+    "lon": 11.498333
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bad Endorf",
+    "name": "Bad Endorf/Jolling Airport",
+    "icao": "EDPC",
+    "lat": 47.9268989563,
+    "lon": 12.2871999741
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Bad Pyrmont",
+    "name": "Hameln-Pyrmont Airport",
+    "icao": "EDVW",
+    "lat": 51.9666671752929,
+    "lon": 9.2916669845581
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bad WÃ¶rishofen",
+    "name": "Bad WÃ¶rishofen-Nord Airport",
+    "icao": "EDNH",
+    "lat": 48.016388,
+    "lon": 10.616111
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Ballenstedt",
+    "name": "Flugplatz Ballenstedt",
+    "icao": "EDCB",
+    "lat": 51.745834,
+    "lon": 11.229722
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Bopfingen",
+    "name": "Bopfingen Airport",
+    "icao": "EDNQ",
+    "lat": 48.8480567932128,
+    "lon": 10.3338890075683
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Borken",
+    "name": "Borken-Hoxfeld Airport",
+    "icao": "EDLY",
+    "lat": 51.8533325195312,
+    "lon": 6.81472206115722
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Brilon",
+    "name": "Brilon/Hochsauerlandkreis Airfield",
+    "icao": "EDKO",
+    "lat": 51.4025,
+    "lon": 8.641667
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Cuxhaven",
+    "name": "Nordholz-Spieka Airfield",
+    "icao": "EDXN",
+    "lat": 53.767223,
+    "lon": 8.643611
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "DinkelsbÃ¼hl",
+    "name": "DinkelsbÃ¼hl-Sinbronn Airport",
+    "icao": "EDND",
+    "lat": 49.0649986267089,
+    "lon": 10.4011106491088
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "EichstÃ¤tt",
+    "name": "EichstÃ¤tt Airport",
+    "icao": "EDPE",
+    "lat": 48.8769454956054,
+    "lon": 11.182222366333
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Gelnhausen",
+    "name": "Gelnhausen Airport",
+    "icao": "EDFG",
+    "lat": 50.19722366333,
+    "lon": 9.17000007629394
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Grabenstetten",
+    "name": "Grabenstetten Airport",
+    "icao": "EDSG",
+    "lat": 48.5361099243,
+    "lon": 9.43694400787
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "GroÃŸenhain",
+    "name": "Flugplatz GroÃŸenhain",
+    "icao": "EDAK",
+    "lat": 51.308056,
+    "lon": 13.555556
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "GÃ¼nzburg",
+    "name": "GÃ¼nzburg-Donauried Airport",
+    "icao": "EDMG",
+    "lat": 48.4866676330566,
+    "lon": 10.283332824707
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Hodenhagen",
+    "name": "Hodenhagen Airport",
+    "icao": "EDVH",
+    "lat": 52.761865,
+    "lon": 9.61056
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Kyritz",
+    "name": "Kyritz Airport",
+    "icao": "EDBK",
+    "lat": 52.918888092041,
+    "lon": 12.4252777099609
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Landshut",
+    "name": "Landshut Airfield",
+    "icao": "EDML",
+    "lat": 48.511665,
+    "lon": 12.033333
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "LÃ¤rz",
+    "name": "Rechlin-LÃ¤rz Airport",
+    "icao": "EDAX",
+    "lat": 53.306388855,
+    "lon": 12.7522220612
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Laucha an der Unstrut",
+    "name": "Laucha Airfield",
+    "icao": "EDBL",
+    "lat": 51.245834,
+    "lon": 11.693333
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Lauterbach",
+    "name": "Lauterbach Airport",
+    "icao": "EDFT",
+    "lat": 50.683334,
+    "lon": 9.410833
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Lichtenfels",
+    "name": "Lichtenfels Airport",
+    "icao": "EDQL",
+    "lat": 50.1486091614,
+    "lon": 11.0480556488
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Limburg an der Lahn",
+    "name": "Elz Airport",
+    "icao": "EDFY",
+    "lat": 50.426944732666,
+    "lon": 8.01111125946045
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Marburg",
+    "name": "Marburg-SchÃ¶nstadt Airport",
+    "icao": "EDFN",
+    "lat": 50.8744430541992,
+    "lon": 8.8149995803833
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Neumarkt in der Oberpfalz",
+    "name": "Neumarkt/Obf. Airport",
+    "icao": "EDPO",
+    "lat": 49.2855567932128,
+    "lon": 11.4430561065673
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Neunkirchen am Brand",
+    "name": "Hetzleser Berg Airport",
+    "icao": "EDQX",
+    "lat": 49.6422233581543,
+    "lon": 11.1622219085693
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Nittenau",
+    "name": "Nittenau-Bruck Airport",
+    "icao": "EDNM",
+    "lat": 49.2224998474121,
+    "lon": 12.296667098999
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Peine",
+    "name": "Peine-Eddesse Airport",
+    "icao": "EDVP",
+    "lat": 52.4025001526,
+    "lon": 10.2288894652999
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Pfarrkirchen",
+    "name": "Pfarrkirchen Airport",
+    "icao": "EDNP",
+    "lat": 48.4202766418457,
+    "lon": 12.864722251892
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Rhinow",
+    "name": "StÃ¶lln-Rhinow Airport",
+    "icao": "EDOR",
+    "lat": 52.7408332824707,
+    "lon": 12.3900003433227
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Rinteln",
+    "name": "Rinteln Airport",
+    "icao": "EDVR",
+    "lat": 52.1752777099609,
+    "lon": 9.0533332824707
+  },
+  {
+    "country": "Germany",
+    "state": "Saarland",
+    "city": "Saarlouis",
+    "name": "Flugplatz Saarlouis-DÃ¼ren",
+    "icao": "EDRJ",
+    "lat": 49.3125,
+    "lon": 6.674444
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Salzgitter",
+    "name": "Salzgitter-SchÃ¤ferstuhl Airport",
+    "icao": "EDVJ",
+    "lat": 52.0302772521972,
+    "lon": 10.3644437789917
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Schmidgaden",
+    "name": "Schmidgaden Airport",
+    "icao": "EDPQ",
+    "lat": 49.429443359375,
+    "lon": 12.0980558395385
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Schwandorf",
+    "name": "Schwandorf Airport",
+    "icao": "EDPF",
+    "lat": 49.3397216796875,
+    "lon": 12.1880559921264
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Schweighofen",
+    "name": "Schweighofen Airport",
+    "icao": "EDRO",
+    "lat": 49.0316658020019,
+    "lon": 7.98999977111816
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Sierksdorf",
+    "name": "Flugplatz Sierksdorf/Hof Altona",
+    "icao": "EDXT",
+    "lat": 54.06778,
+    "lon": 10.743056
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Stralsund",
+    "name": "Stralsund Airport",
+    "icao": "EDBV",
+    "lat": 54.3358345031738,
+    "lon": 13.0433330535888
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Werdohl",
+    "name": "Werdohl-KÃ¼ntrop Airport",
+    "icao": "EDKW",
+    "lat": 51.2972221374511,
+    "lon": 7.81833314895629
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Ansbach Army Heliport",
+    "icao": "ETEB",
+    "lat": 49.3082008361816,
+    "lon": 10.6386995315551
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "SegelfluggelÃ¤nde Farrenberg",
+    "icao": "DE-0114",
+    "lat": 48.3857062575,
+    "lon": 9.076333
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Radolfzell-Stahringen Airport",
+    "icao": "EDSR",
+    "lat": 47.8044444444,
+    "lon": 8.98055555556
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bad WÃ¶rishofen",
+    "name": "Bad WÃ¶rishofen Glider Airfield",
+    "icao": "DE-0072",
+    "lat": 48.02678,
+    "lon": 10.60135
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "DÃ¼sseldorf",
+    "name": "DÃ¼sseldorf-Wolfsaap Airfield",
+    "icao": "DE-0178",
+    "lat": 51.2649,
+    "lon": 6.8539
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Frankfurt am Main",
+    "name": "Air field Rebstock",
+    "icao": "DE-0417",
+    "lat": 50.111029,
+    "lon": 8.613238
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Griesheim",
+    "name": "August-Euler Flugplatz",
+    "icao": "DE-0003",
+    "lat": 49.853757,
+    "lon": 8.586243
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Karlsruhe",
+    "name": "Rheinstetten Glider Field",
+    "icao": "RHST",
+    "lat": 48.9777,
+    "lon": 8.3425
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "MÃ¶nchengladbach",
+    "name": "Wanlo Airfield",
+    "icao": "DE-0210",
+    "lat": 51.101,
+    "lon": 6.3936
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Renningen",
+    "name": "Malmsheim Airfield",
+    "icao": "DE-0315",
+    "lat": 48.7847,
+    "lon": 8.9175
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Welzheim",
+    "name": "Welzheim Airfield",
+    "icao": "DE-0183",
+    "lat": 48.8763,
+    "lon": 9.6537
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Schleswig-Holstein",
+    "name": "Hohn Air Base",
+    "icao": "ETNH",
+    "lat": 54.312199,
+    "lon": 9.53817
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Cuxhaven",
+    "name": "Nordholz Naval Airbase",
+    "icao": "ETMN",
+    "lat": 53.7677001953,
+    "lon": 8.65849971770999
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "North Rhine-Westphalia",
+    "name": "Rheine Bentlage Air Base",
+    "icao": "ETHE",
+    "lat": 52.291199,
+    "lon": 7.387
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Lower Saxony",
+    "name": "Jever Air Base",
+    "icao": "ETNJ",
+    "lat": 53.533501,
+    "lon": 7.88867
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Brandenburg",
+    "name": "Friedersdorf Airport",
+    "icao": "EDCF",
+    "lat": 52.2832984924316,
+    "lon": 13.806900024414
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Brandenburg",
+    "name": "Nauen Airport",
+    "icao": "EDCN",
+    "lat": 52.6278,
+    "lon": 12.9139
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Rhineland-Palatinate",
+    "name": "Baumholder Army Air Field",
+    "icao": "ETEK",
+    "lat": 49.6502990722656,
+    "lon": 7.30006980895996
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Brandenburg",
+    "name": "Cottbus Army Airfield",
+    "icao": "ETHT",
+    "lat": 51.767899,
+    "lon": 14.292
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Lower Saxony",
+    "name": "Meppen Air Base",
+    "icao": "ETWM",
+    "lat": 52.723202,
+    "lon": 7.32633
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Brandenburg",
+    "name": "Briesen Brand Airport",
+    "icao": "EDUC",
+    "lat": 52.036381,
+    "lon": 13.733482
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Ahlhorn",
+    "name": "Ahlhorn Air Force Base",
+    "icao": "ETNA",
+    "lat": 52.882999,
+    "lon": 8.233
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Albstadt",
+    "name": "Albstadt-Degerfeld Airport",
+    "icao": "EDSA",
+    "lat": 48.2497215271,
+    "lon": 9.0625
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Aremberg",
+    "name": "Wershofen/Eifel Airfield",
+    "icao": "EDRV",
+    "lat": 50.451389,
+    "lon": 6.783333
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Babenhausen",
+    "name": "Flugplatz Babenhausen",
+    "icao": "EDEF",
+    "lat": 49.952499,
+    "lon": 8.968056
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Bad Frankenhausen",
+    "name": "Bad Frankenhausen Airport",
+    "icao": "EDOF",
+    "lat": 51.372501373291,
+    "lon": 11.1413888931274
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Bad Langensalza",
+    "name": "Bad Langensalza Airfield",
+    "icao": "EDEB",
+    "lat": 51.129166,
+    "lon": 10.622222
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bad Sassendorf",
+    "name": "Soest/Bad Sassendorf Airport",
+    "icao": "EDLZ",
+    "lat": 51.5780563354492,
+    "lon": 8.2147216796875
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "BartholomÃ¤",
+    "name": "BartholomÃ¤-Amalienhof Airport",
+    "icao": "EDPU",
+    "lat": 48.746666,
+    "lon": 10.005
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Bautzen",
+    "name": "Flugplatz Klix",
+    "icao": "EDCI",
+    "lat": 51.273888,
+    "lon": 14.506389
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Berching",
+    "name": "Berching Airport",
+    "icao": "EDNI",
+    "lat": 49.1305541992187,
+    "lon": 11.4430561065673
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bergneustadt",
+    "name": "Bergneustadt/Auf dem DÃ¼mpel Airport",
+    "icao": "EDKF",
+    "lat": 51.0522232055664,
+    "lon": 7.70722198486328
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "BÃ¶hlen",
+    "name": "BÃ¶hlen Airport",
+    "icao": "EDOE",
+    "lat": 51.2138900756835,
+    "lon": 12.3636112213134
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Bramsche",
+    "name": "Flugplatz Achmer",
+    "icao": "EDXA",
+    "lat": 52.37722,
+    "lon": 7.913333
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Bronkow",
+    "name": "Bronkow Airport",
+    "icao": "EDBQ",
+    "lat": 51.670555114746,
+    "lon": 13.960277557373
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Bruchsal",
+    "name": "Bruchsal Airport",
+    "icao": "EDTC",
+    "lat": 49.1349983215332,
+    "lon": 8.56361103057861
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Burg",
+    "name": "Flugplatz Burg",
+    "icao": "EDBG",
+    "lat": 52.241669,
+    "lon": 11.856111
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Calbe",
+    "name": "Klein MÃ¼hlingen Airport",
+    "icao": "EDOM",
+    "lat": 51.9474983215332,
+    "lon": 11.7697219848632
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Celle",
+    "name": "Celle-Arloh Airport",
+    "icao": "EDVC",
+    "lat": 52.6872215270996,
+    "lon": 10.1113891601562
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Chemnitz",
+    "name": "Chemnitz/Jahnsdorf Airport",
+    "icao": "EDCJ",
+    "lat": 50.747501,
+    "lon": 12.8375
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Dachau",
+    "name": "Dachau-GrÃ¶benried Airport",
+    "icao": "EDMD",
+    "lat": 48.228333,
+    "lon": 11.423056
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Demmin",
+    "name": "Tutow Airport",
+    "icao": "EDUW",
+    "lat": 53.9219436645507,
+    "lon": 13.2188892364501
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Detmold",
+    "name": "Detmold Airport",
+    "icao": "EDLJ",
+    "lat": 51.9408340454101,
+    "lon": 8.90472221374511
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Ebern",
+    "name": "Ebern-Sendelbach Airport",
+    "icao": "EDQR",
+    "lat": 50.0394439697265,
+    "lon": 10.8227777481079
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "EisenhÃ¼ttenstadt",
+    "name": "EisenhÃ¼ttenstadt Airfield",
+    "icao": "EDAE",
+    "lat": 52.195856,
+    "lon": 14.58753
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Finsterwalde",
+    "name": "Finsterwalde/Schacksdorf Airport",
+    "icao": "EDUS",
+    "lat": 51.607498,
+    "lon": 13.743611
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Freiberg",
+    "name": "Langhennersdorf Airport",
+    "icao": "EDOH",
+    "lat": 50.9483337402343,
+    "lon": 13.2616672515869
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Gardelegen",
+    "name": "Gardelegen Airport",
+    "icao": "EDOC",
+    "lat": 52.5272216796875,
+    "lon": 11.3513889312744
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Gerstetten",
+    "name": "Gerstetten Airport",
+    "icao": "EDPT",
+    "lat": 48.6202774047851,
+    "lon": 10.0583333969116
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "GieÃŸen",
+    "name": "GieÃŸen-Reiskirchen Airport",
+    "icao": "EDGR",
+    "lat": 50.5669441223144,
+    "lon": 8.869722366333
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Goldlauter-Heidersbach",
+    "name": "Suhl-Goldlauter Airport",
+    "icao": "EDQS",
+    "lat": 50.6319427490234,
+    "lon": 10.727499961853
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Greiz",
+    "name": "Greiz-Obergrochlitz Airport",
+    "icao": "EDOT",
+    "lat": 50.6444435119628,
+    "lon": 12.1763887405395
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Hasenmoor",
+    "name": "Flugplatz Hartenholm",
+    "icao": "EDHM",
+    "lat": 53.915001,
+    "lon": 10.035556
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Helmbrechts",
+    "name": "OttengrÃ¼ner Heide Airport",
+    "icao": "EDQO",
+    "lat": 50.2258338928222,
+    "lon": 11.7316665649414
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "HoppstÃ¤dten",
+    "name": "HoppstÃ¤dten-Weiersbach Airport",
+    "icao": "EDRH",
+    "lat": 49.6105575561523,
+    "lon": 7.18666696548461
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Hoyerswerda",
+    "name": "Nardt Airfield",
+    "icao": "EDAT",
+    "lat": 51.451111,
+    "lon": 14.199444
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "KarlshÃ¶fen",
+    "name": "KarlshÃ¶fen Airport",
+    "icao": "EDWK",
+    "lat": 53.332778930664,
+    "lon": 9.02833271026611
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "KÃ¼hrstedt",
+    "name": "Flugplatz KÃ¼hrstedt-Bederkesa",
+    "icao": "EDXZ",
+    "lat": 53.568054,
+    "lon": 8.789444
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Langenlonsheim",
+    "name": "Langenlonsheim Airport",
+    "icao": "EDEL",
+    "lat": 49.908332824707,
+    "lon": 7.90777778625488
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "LauenbrÃ¼ck",
+    "name": "LauenbrÃ¼ck Airport",
+    "icao": "EDHU",
+    "lat": 53.2075004577636,
+    "lon": 9.57333278656005
+  },
+  {
+    "country": "Germany",
+    "state": "Bremen",
+    "city": "Lemwerder",
+    "name": "Lemwerder Airport",
+    "icao": "EDWD",
+    "lat": 53.144699,
+    "lon": 8.62444
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "LÃ¼chow",
+    "name": "LÃ¼chow-Rehbeck Airport",
+    "icao": "EDHC",
+    "lat": 53.0161094665527,
+    "lon": 11.1444444656372
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Merseburg",
+    "name": "Flugplatz Merseburg",
+    "icao": "EDAM",
+    "lat": 51.363056,
+    "lon": 11.940833
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Neuburg an der Donau",
+    "name": "Neuburg-Egweil Airport",
+    "icao": "EDNJ",
+    "lat": 48.7819442749023,
+    "lon": 11.2152776718139
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Neumagen",
+    "name": "Neumagen-Dhron Airport",
+    "icao": "EDRD",
+    "lat": 49.8430557250976,
+    "lon": 6.91611099243164
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Neustadt",
+    "name": "Sonderlandeplatz Segeletz",
+    "icao": "EDAI",
+    "lat": 52.826668,
+    "lon": 12.541944
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Nienburg/Weser",
+    "name": "Flugplatz Holzbalge",
+    "icao": "EDXI",
+    "lat": 52.709721,
+    "lon": 9.1625
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Nordhausen",
+    "name": "Flugplatz Nordhausen",
+    "icao": "EDAO",
+    "lat": 51.493057,
+    "lon": 10.833333
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Ochsenfurt",
+    "name": "Ochsenfurt Airport",
+    "icao": "EDGJ",
+    "lat": 49.6736106872558,
+    "lon": 10.0713891983032
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Oschersleben",
+    "name": "Oschersleben Glider Field",
+    "icao": "EDOL",
+    "lat": 52.038055,
+    "lon": 11.205556
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Pattonville",
+    "name": "Pattonville Airport",
+    "icao": "EDTQ",
+    "lat": 48.864166,
+    "lon": 9.224722
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Pellworm",
+    "name": "Pellworm Field",
+    "icao": "EDHP",
+    "lat": 54.5363883972,
+    "lon": 8.68000030518
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Pennewitz",
+    "name": "Pennewitz Airport",
+    "icao": "EDOS",
+    "lat": 50.6694450378418,
+    "lon": 11.0505561828613
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Pfatter",
+    "name": "Griesau Airport",
+    "icao": "EDPG",
+    "lat": 48.9538879394531,
+    "lon": 12.4213886260986
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Plettenberg",
+    "name": "Plettenberg-HÃ¼inghausen Airport",
+    "icao": "EDKP",
+    "lat": 51.1919441223144,
+    "lon": 7.79111099243164
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Prenzlau",
+    "name": "Emmel Airfield Dedelow Airport",
+    "icao": "EDBD",
+    "lat": 53.356388,
+    "lon": 13.783611
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Pritzwalk",
+    "name": "Pritzwalk-Sommersberg Airport",
+    "icao": "EDBU",
+    "lat": 53.1802787780761,
+    "lon": 12.1855564117431
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Rheine",
+    "name": "Rheine-Eschendorf Airport",
+    "icao": "EDXE",
+    "lat": 52.276389,
+    "lon": 7.492778
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Riesa",
+    "name": "Riesa-GÃ¶hlis Airport",
+    "icao": "EDAU",
+    "lat": 51.2936096191,
+    "lon": 13.3561105728
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Rotenburg (WÃ¼mme)",
+    "name": "Weser-WÃ¼mme Airport",
+    "icao": "EDWM",
+    "lat": 53.0538902282714,
+    "lon": 9.20861053466796
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Salzgitter",
+    "name": "Salzgitter-DrÃ¼tte Airport",
+    "icao": "EDVS",
+    "lat": 52.1544456481933,
+    "lon": 10.4266672134399
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Sandersdorf",
+    "name": "Renneritz Airport",
+    "icao": "EDOX",
+    "lat": 51.5941658020019,
+    "lon": 12.2372217178344
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Schameder",
+    "name": "Schameder Airport",
+    "icao": "EDGQ",
+    "lat": 51.0002784729003,
+    "lon": 8.30777835845947
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "SchÃ¶nebeck",
+    "name": "SchÃ¶nebeck-ZackmÃ¼nde Airport",
+    "icao": "EDOZ",
+    "lat": 51.9966659545898,
+    "lon": 11.7908334732055
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "SchwabmÃ¼nchen",
+    "name": "SchwabmÃ¼nchen Airport",
+    "icao": "EDNS",
+    "lat": 48.1791687011718,
+    "lon": 10.7027778625488
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Seebruck",
+    "name": "SchÃ¶nberg Airport",
+    "icao": "EDPK",
+    "lat": 48.0477790832519,
+    "lon": 12.5005559921264
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Simmern",
+    "name": "Nannhausen Airport",
+    "icao": "EDRN",
+    "lat": 49.9702796936,
+    "lon": 7.47916698456
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Sprossen",
+    "name": "Flugplatz Sprossen (Zeitz)",
+    "icao": "EDCH",
+    "lat": 51.043407,
+    "lon": 12.231895
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Stechow-Ferchesar",
+    "name": "Stechow-Ferchesar Airport",
+    "icao": "EDUA",
+    "lat": 52.6505546569824,
+    "lon": 12.4877777099609
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Taucha",
+    "name": "Taucha Airport",
+    "icao": "EDCT",
+    "lat": 51.3950004577636,
+    "lon": 12.5369443893432
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Templin",
+    "name": "Templin/GroÃŸ DÃ¶lln Airport",
+    "icao": "EDUT",
+    "lat": 53.0288009644,
+    "lon": 13.5162000656
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Tornesch",
+    "name": "Ahrenlohe Airport",
+    "icao": "EDHO",
+    "lat": 53.699722290039,
+    "lon": 9.74055576324462
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Treuchtlingen",
+    "name": "Treuchtlingen-Bubenheim Airport",
+    "icao": "EDNT",
+    "lat": 48.9961128234863,
+    "lon": 10.8841667175292
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Vilsbiburg",
+    "name": "Vilsbiburg Airport",
+    "icao": "EDMP",
+    "lat": 48.4261093139648,
+    "lon": 12.3452777862548
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Wahlstedt",
+    "name": "Wahlstedt Airport",
+    "icao": "EDHW",
+    "lat": 53.9694442749023,
+    "lon": 10.2216672897338
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Westerstede",
+    "name": "Westerstede-Felde Airport",
+    "icao": "EDWX",
+    "lat": 53.2886123657226,
+    "lon": 7.93055582046508
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Wiefelstede",
+    "name": "Wiefelstede/Conneforde Airport",
+    "icao": "EDWP",
+    "lat": 53.3213882446289,
+    "lon": 8.07333278656005
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "USAG Schweinfurt",
+    "name": "Schweinfurt Army Heliport",
+    "icao": "ETOA",
+    "lat": 50.0471992493,
+    "lon": 10.170800209
+  },
+  {
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Spandau",
+    "name": "Gatow Airport",
+    "icao": "GWW",
+    "lat": 52.4743995666999,
+    "lon": 13.1380996704
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Brandenburg",
+    "name": "WÃ¼nsdorf Airfield",
+    "icao": "DE-0007",
+    "lat": 52.198001861572,
+    "lon": 13.527000427246
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Segelflugplatz WeiÃŸenburg-WÃ¼lzburg",
+    "icao": "DE-0042",
+    "lat": 49.025851,
+    "lon": 11.018746
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "BÃ¼chig Airfield",
+    "icao": "DE-0077",
+    "lat": 50.4483,
+    "lon": 10.2526
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "North Rhine-Westphalia",
+    "name": "Beelen Airport",
+    "icao": "EDLQ",
+    "lat": 51.9316666666999,
+    "lon": 8.08166666667
+  },
+  {
+    "country": "Germany",
+    "state": "Saarland",
+    "city": "Saarland",
+    "name": "Neunkirchen-Bexbach Airport",
+    "icao": "EDRX",
+    "lat": 49.34,
+    "lon": 7.25333333333
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "SegelfluggelÃ¤nde Altenbachtal",
+    "icao": "DE-0193",
+    "lat": 49.9233333333,
+    "lon": 9.15777777778
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Lower Saxony",
+    "name": "Flugplatz Dankern",
+    "icao": "DE-0195",
+    "lat": 52.8038889,
+    "lon": 7.1602778
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Thuringia",
+    "name": "Dolmar",
+    "icao": "DE-0198",
+    "lat": 50.6125,
+    "lon": 10.4727778
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "North Rhine-Westphalia",
+    "name": "Kerken UL",
+    "icao": "DE-0200",
+    "lat": 51.4388889,
+    "lon": 6.4455556
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "North Rhine-Westphalia",
+    "name": "Agrarflug \"HeliLift\"",
+    "icao": "DE-0217",
+    "lat": 51.7815448,
+    "lon": 7.9069549
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Thuringia",
+    "name": "Bad Bibra",
+    "icao": "DE-0223",
+    "lat": 51.2016667,
+    "lon": 11.4972222
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Berg-Ravensburg",
+    "icao": "DE-0225",
+    "lat": 47.8302778,
+    "lon": 9.54
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "BÃ¶singen",
+    "icao": "DE-0227",
+    "lat": 48.2272222,
+    "lon": 8.5344444
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Ehingen-Schlechtenfeld",
+    "icao": "DE-0229",
+    "lat": 48.2847222,
+    "lon": 9.6733333
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Thuringia",
+    "name": "GÃ¶pfersdorf",
+    "icao": "DE-0232",
+    "lat": 49.887778,
+    "lon": 10.375278
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Hohenthann",
+    "icao": "DE-0235",
+    "lat": 48.6644444,
+    "lon": 12.0536111
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Landau-Ebenberg",
+    "icao": "DE-0237",
+    "lat": 49.1763889,
+    "lon": 8.1361111
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Wildberg",
+    "icao": "DE-0241",
+    "lat": 47.6002778,
+    "lon": 9.7419444
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Arnschwang Ultraleicht",
+    "icao": "DE-0254",
+    "lat": 49.2730556,
+    "lon": 12.7805556
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Mecklenburg-Vorpommern",
+    "name": "Perleberg",
+    "icao": "DE-0256",
+    "lat": 53.0722222222,
+    "lon": 11.8197222222
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Hesse",
+    "name": "Flugplatz Dauborn",
+    "icao": "DE-0274",
+    "lat": 50.3216667,
+    "lon": 8.1938889
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Rhineland-Palatinate",
+    "name": "UL-Fluglatz Ernzen",
+    "icao": "DE-0286",
+    "lat": 49.8288889,
+    "lon": 6.4355556
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Saxony",
+    "name": "Zschorna",
+    "icao": "DE-0294",
+    "lat": 51.3863889,
+    "lon": 12.8202778
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Peiting UL",
+    "icao": "DE-0296",
+    "lat": 47.7575,
+    "lon": 10.9038889
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Neresheim Glider Field",
+    "icao": "DE-0323",
+    "lat": 48.7417,
+    "lon": 10.3277
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Burgebrach ULM",
+    "icao": "DE-0330",
+    "lat": 49.8377778,
+    "lon": 10.7805556
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Thuringia",
+    "name": "Crawinkel",
+    "icao": "DE-0337",
+    "lat": 50.7783333,
+    "lon": 10.8169444
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Thuringia",
+    "name": "Hartenstein-Thierfeld UL",
+    "icao": "DE-0339",
+    "lat": 50.6761111,
+    "lon": 12.6816667
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Sauldorf-Boll UL",
+    "icao": "DE-0341",
+    "lat": 47.9558333,
+    "lon": 9.0294444
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Saxony-Anhalt",
+    "name": "Hasselfelde UL",
+    "icao": "DE-0343",
+    "lat": 51.7044444,
+    "lon": 10.8752778
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Gundelsheim UL",
+    "icao": "DE-0345",
+    "lat": 49.2908333,
+    "lon": 9.1725
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Frankendorf UL",
+    "icao": "DE-0349",
+    "lat": 49.8365058,
+    "lon": 11.0890816
+  },
+  {
+    "country": "Germany",
+    "state": "Segelflugplatz Iserlohn-SÃ¼mmern",
+    "city": "Segelflugplatz Iserlohn-SÃ¼mmern",
+    "name": "Segelflugplatz Iserlohn-SÃ¼mmern",
+    "icao": "DE-0367",
+    "lat": 51.4363889,
+    "lon": 7.6997222
+  },
+  {
+    "country": "Germany",
+    "state": "Saarland",
+    "city": "Saarland",
+    "name": "Schwarzenbach-SÃ¶tern UL",
+    "icao": "DE-0370",
+    "lat": 49.5919444,
+    "lon": 7.0313889
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Mittelfischach UL",
+    "icao": "DE-0376",
+    "lat": 49.0352778,
+    "lon": 9.8725
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Schlierstadt",
+    "icao": "DE-0378",
+    "lat": 49.4435541,
+    "lon": 9.3619443
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bavaria",
+    "name": "Unterschwaningen UL",
+    "icao": "DE-0382",
+    "lat": 49.086013,
+    "lon": 10.634766
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "North Rhine-Westphalia",
+    "name": "Metelen UL",
+    "icao": "DE-0389",
+    "lat": 52.1586111,
+    "lon": 7.2402778
+  },
+  {
+    "country": "Germany",
+    "state": "Malsch-Ettlingen UL",
+    "city": "Malsch-Ettlingen UL",
+    "name": "Malsch-Ettlingen UL",
+    "icao": "DE-0391",
+    "lat": 48.9016667,
+    "lon": 8.3283333
+  },
+  {
+    "country": "Germany",
+    "state": "DÃ¶rzbach-Hohebach UL",
+    "city": "DÃ¶rzbach-Hohebach UL",
+    "name": "DÃ¶rzbach-Hohebach UL",
+    "icao": "DE-0393",
+    "lat": 49.3502778,
+    "lon": 9.7144444
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Baden-WÃ¼rttemberg",
+    "name": "Neuenstadt am Kocher UL",
+    "icao": "DE-0398",
+    "lat": 49.2427777,
+    "lon": 9.3158333
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Mecklenburg-Vorpommern",
+    "name": "Greifswald Hospital Heliport",
+    "icao": "DE-0420",
+    "lat": 54.089077,
+    "lon": 13.408176
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Mecklenburg-Vorpommern",
+    "name": "Meyenburg Cropduster Airstrip",
+    "icao": "DE-0424",
+    "lat": 53.3101318,
+    "lon": 12.2514551
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Brandenburg",
+    "name": "Freyenstein UL",
+    "icao": "DE-0426",
+    "lat": 53.2752777,
+    "lon": 12.3661111
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Lower Saxony",
+    "name": "Oldenburg Police Heliport",
+    "icao": "DE-0431",
+    "lat": 53.2162096,
+    "lon": 8.2177713
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Saxony-Anhalt",
+    "name": "Gerbstedt Airstrip",
+    "icao": "DE-0432",
+    "lat": 51.6368318,
+    "lon": 11.6149507
+  },
+  {
+    "country": "Germany",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "Ahlhorn Highway Strip Autobahn-Notlandeplatz NLP",
+    "icao": "DE-0002",
+    "lat": 52.929984,
+    "lon": 8.173538
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Saxony",
+    "name": "Agrar-Flugfeld Zwochau",
+    "icao": "DE-0427",
+    "lat": 51.46339,
+    "lon": 12.23996
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Mecklenburg-Vorpommern",
+    "name": "Luftsportverein Parchim",
+    "icao": "DE-0433",
+    "lat": 53.41861,
+    "lon": 11.80167
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Schleswig-Holstein",
+    "name": "Christoph 12 Luftrettungszentrum",
+    "icao": "DE-0434",
+    "lat": 54.034939,
+    "lon": 10.562518
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Aachen",
+    "name": "Stolberg-Diepenlinchen Airfield",
+    "icao": "DE-0184",
+    "lat": 50.7704,
+    "lon": 6.2818
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Agathazell",
+    "name": "Agathazell Airfield",
+    "icao": "DE-0094",
+    "lat": 47.553,
+    "lon": 10.2731
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Altdorf near Nuremberg",
+    "name": "Altdorf-Hagenhausen Airfield",
+    "icao": "DE-0051",
+    "lat": 49.387209,
+    "lon": 11.422145
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Altfeld",
+    "name": "Flugplatz Altfeld",
+    "icao": "DE-0049",
+    "lat": 49.831865,
+    "lon": 9.537292
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Ammerbuch",
+    "name": "Flugplatz Poltringen",
+    "icao": "EDSP",
+    "lat": 48.547282,
+    "lon": 8.945918
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "An den sieben Bergen",
+    "name": "Gronau Airfield",
+    "icao": "DE-0107",
+    "lat": 52.0578,
+    "lon": 9.8104
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Antersberg",
+    "name": "Antersberg Airfield",
+    "icao": "DE-0062",
+    "lat": 47.9629,
+    "lon": 11.9955
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Arnsberg",
+    "name": "Oeventrop Airfield",
+    "icao": "DE-0091",
+    "lat": 51.3961,
+    "lon": 8.1445
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "AÃŸlar",
+    "name": "AÃŸlarer HÃ¼tte Airfield",
+    "icao": "DE-0136",
+    "lat": 50.5999,
+    "lon": 8.4439
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Aurich",
+    "name": "Brockzetel Glider Field",
+    "icao": "DE-0109",
+    "lat": 53.4814,
+    "lon": 7.6511
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Bad Bramstedt",
+    "name": "Bad Bramstedt Heliport",
+    "icao": "EDHX",
+    "lat": 53.9428,
+    "lon": 9.9055
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Bad BrÃ¼ckenau",
+    "name": "Oberleichtersbach Airfield",
+    "icao": "DE-0064",
+    "lat": 50.271942,
+    "lon": 9.823622
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Bad Friedrichshall",
+    "name": "Degmarn Airfield",
+    "icao": "DE-0301",
+    "lat": 49.2579,
+    "lon": 9.2745
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Bad Hersfeld",
+    "name": "Langenberg Airfield",
+    "icao": "DE-0154",
+    "lat": 50.7968,
+    "lon": 9.5631
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Bad Marienberg",
+    "name": "Bad Marienberg Airfield",
+    "icao": "DE-0280",
+    "lat": 50.6611,
+    "lon": 8.0276
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Bad Wildungen",
+    "name": "UL-Flugplatz \"Auf der Schaufel\"",
+    "icao": "DE-0283",
+    "lat": 51.0938889,
+    "lon": 9.1483333
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Beilrode",
+    "name": "Torgau-Beilrode Airport",
+    "icao": "EDOG",
+    "lat": 51.570907,
+    "lon": 13.051641
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Berchtesgaden",
+    "name": "Berchtesgaden Hospital Helipad",
+    "icao": "DE-0032",
+    "lat": 47.6403452253,
+    "lon": 13.0060529708999
+  },
+  {
+    "country": "Germany",
+    "state": "Berlin",
+    "city": "Berlin",
+    "name": "SteinstÃ¼cken Helipad",
+    "icao": "DE-0008",
+    "lat": 52.3902015686,
+    "lon": 13.1286001205
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Berneck",
+    "name": "Berneck Airfield",
+    "icao": "DE-0282",
+    "lat": 48.5737,
+    "lon": 9.7291
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Bissendorf",
+    "name": "Fresh Breeze UL",
+    "icao": "DE-0385",
+    "lat": 52.518069,
+    "lon": 9.732115
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Blaubeuren",
+    "name": "UL-Flugplatz SeiÃŸen",
+    "icao": "DE-0324",
+    "lat": 48.413662,
+    "lon": 9.763357
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "BÃ¶blingen",
+    "name": "BÃ¶blingen Flugfeld",
+    "icao": "DE-0429",
+    "lat": 48.689544,
+    "lon": 8.996193
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Brannenburg",
+    "name": "Brannenburg Airfield",
+    "icao": "DE-0074",
+    "lat": 47.74075,
+    "lon": 12.11548
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Braunfels",
+    "name": "Braunfels Airfield",
+    "icao": "DE-0139",
+    "lat": 50.5255,
+    "lon": 8.393
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Bremen",
+    "name": "Tarmstedt Airfield",
+    "icao": "DE-0128",
+    "lat": 53.2514,
+    "lon": 9.1084
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Bremke",
+    "name": "Hellenhagen Airfield",
+    "icao": "DE-0101",
+    "lat": 52.02624,
+    "lon": 9.5628
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "British Armed Forces",
+    "name": "RAF Wildenrath",
+    "icao": "WID",
+    "lat": 51.1141,
+    "lon": 6.2151
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Brodau",
+    "name": "Agrarflugplatz Brodau",
+    "icao": "DE-0414",
+    "lat": 51.4987,
+    "lon": 12.32983
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "BÃ¼ckeburg",
+    "name": "BÃ¼ckeburg-Weinberg Airfield",
+    "icao": "DE-0123",
+    "lat": 52.2511,
+    "lon": 9.0146
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Burgheim LKrs Neuburg",
+    "name": "Flugplatz Burgheim",
+    "icao": "DE-0358",
+    "lat": 48.692206,
+    "lon": 11.033122
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "BÃ¼rstadt",
+    "name": "UL-GelÃ¤nde BÃ¼rstadt",
+    "icao": "DE-0363",
+    "lat": 49.6558333,
+    "lon": 8.4747222
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "CÃ¶lpin",
+    "name": "Schonewald CRC Helipad",
+    "icao": "ETJB",
+    "lat": 53.509955,
+    "lon": 13.43567
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Denkingen",
+    "name": "Klippeneck Airfield",
+    "icao": "DE-0238",
+    "lat": 48.1075,
+    "lon": 8.7627778
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "DonauwÃ¶rth",
+    "name": "Stillberghof Airfield",
+    "icao": "DE-0220",
+    "lat": 48.7309,
+    "lon": 10.834
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Dorsten",
+    "name": "Dorsten Airfield",
+    "icao": "DE-0176",
+    "lat": 51.6621,
+    "lon": 6.9856
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Dottingen",
+    "name": "MÃ¼nsingen-Eisberg Airfield",
+    "icao": "DE-0321",
+    "lat": 48.4093,
+    "lon": 9.4425
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Eggersdorf",
+    "name": "Strausberg Helipad",
+    "icao": "DE-0011",
+    "lat": 52.5248985290527,
+    "lon": 13.8302001953125
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Eimbeckhausen",
+    "name": "Flugplatz Eimbeckhausen",
+    "icao": "DE-0380",
+    "lat": 52.225,
+    "lon": 9.425
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Emmerich",
+    "name": "Emmerich Airfield",
+    "icao": "DE-0179",
+    "lat": 51.8221,
+    "lon": 6.2745
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Erlangen",
+    "name": "Erlangen Ebrardstrasse Helipad",
+    "icao": "DE-0016",
+    "lat": 49.6020011901855,
+    "lon": 11.0225000381469
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Eschwege",
+    "name": "StauffenbÃ¼hl Airfield",
+    "icao": "DE-0165",
+    "lat": 51.1592,
+    "lon": 10.0472
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Fischbek",
+    "name": "Fischbek Airfield",
+    "icao": "DE-0271",
+    "lat": 53.4561,
+    "lon": 9.8317
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Frankfurt am Main",
+    "name": "Frankfurt am Main Accident Hospital Ground Helipad",
+    "icao": "DE-0019",
+    "lat": 50.1441001892089,
+    "lon": 8.70960044860839
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Freiburg",
+    "name": "Kirchzarten Airfield",
+    "icao": "DE-0312",
+    "lat": 47.9509,
+    "lon": 7.9558
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Fulda",
+    "name": "Johannisau Airfield",
+    "icao": "DE-0152",
+    "lat": 50.5368,
+    "lon": 9.6621
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "FÃ¼rth",
+    "name": "FÃ¼rth-Seckendorf Airfield",
+    "icao": "DE-0080",
+    "lat": 49.48152,
+    "lon": 10.8588
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Gedern",
+    "name": "Gedern Airfield",
+    "icao": "DE-0144",
+    "lat": 50.4326,
+    "lon": 9.195
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Geislingen",
+    "name": "Urspring Airfield",
+    "icao": "DE-0246",
+    "lat": 48.553,
+    "lon": 9.9038
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Gersdorf",
+    "name": "Gersdorf UL",
+    "icao": "DE-0409",
+    "lat": 49.0319443,
+    "lon": 11.141111
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "GieÃŸen",
+    "name": "GieÃŸen University Hospital Helipad",
+    "icao": "DE-0214",
+    "lat": 50.5759,
+    "lon": 8.6671
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Gifhorn",
+    "name": "Ummern Airfield",
+    "icao": "DE-0130",
+    "lat": 52.6204,
+    "lon": 10.4092
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Gingen/Fils",
+    "name": "Oppingen-Au Airfield",
+    "icao": "DE-0326",
+    "lat": 48.5566,
+    "lon": 9.8219
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "GÃ¶ppingen",
+    "name": "Gruibingen-Nortel Airfield",
+    "icao": "EDSO",
+    "lat": 48.6212,
+    "lon": 9.6557
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "GÃ¶ssenheim",
+    "name": "UL Flugfeld GÃ¶ssenheim",
+    "icao": "DE-0412",
+    "lat": 50.028245,
+    "lon": 9.772232
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "GrafenwÃ¶hr",
+    "name": "GrafenwÃ¶hr Medevac Helipad",
+    "icao": "DE-0036",
+    "lat": 49.7080555556,
+    "lon": 11.9161111111
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Grevenbroich",
+    "name": "Gustorfer HÃ¶he Airfield",
+    "icao": "DE-0180",
+    "lat": 51.0767,
+    "lon": 6.5475
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Grifte",
+    "name": "EdermÃ¼nde-Grifte Airfield",
+    "icao": "DE-0146",
+    "lat": 51.221,
+    "lon": 9.4475
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "GrÃ¼nstadt",
+    "name": "GrÃ¼nstadt Airfield",
+    "icao": "DE-0233",
+    "lat": 49.5855556,
+    "lon": 8.1388889
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "GÃ¼nzburg",
+    "name": "Legoland Helipad",
+    "icao": "DE-0374",
+    "lat": 48.4259,
+    "lon": 10.298503
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Hagen",
+    "name": "Hof Wahl",
+    "icao": "DE-0362",
+    "lat": 51.3066667,
+    "lon": 7.425
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Halver",
+    "name": "Halver Airfield",
+    "icao": "DE-0181",
+    "lat": 51.1741,
+    "lon": 7.5045
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "HaÃŸloch",
+    "name": "HaÃŸloch Airfield",
+    "icao": "DE-0303",
+    "lat": 49.3553,
+    "lon": 8.2902
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Hayingen",
+    "name": "Hayingen Airfield",
+    "icao": "DE-0304",
+    "lat": 48.2848,
+    "lon": 9.4657
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Heidelberg",
+    "name": "Heidelberg Army Helicopter Base",
+    "icao": "DE-0419",
+    "lat": 49.392397,
+    "lon": 8.651935
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Heilbad Heiligenstadt",
+    "name": "Heilbad Heiligenstadt Airfield",
+    "icao": "EDHD",
+    "lat": 51.40755,
+    "lon": 10.1453
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Heilbronn",
+    "name": "Heilbronn-BÃ¶ckingen Airfield",
+    "icao": "DE-0305",
+    "lat": 49.1223,
+    "lon": 9.1815
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "Heligoland",
+    "name": "Helgoland Heliport",
+    "icao": "DE-0035",
+    "lat": 54.1753083333,
+    "lon": 7.89002777777999
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Helmstedt",
+    "name": "Rote Wiese Glider Field",
+    "icao": "DE-0103",
+    "lat": 52.2336,
+    "lon": 10.9809
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Herbrum",
+    "name": "Alte Ems Airfield",
+    "icao": "DE-0095",
+    "lat": 53.030765,
+    "lon": 7.305385
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Hessisch Lichtenau",
+    "name": "Hessisch Lichtenau Airfield",
+    "icao": "DE-0147",
+    "lat": 51.1888,
+    "lon": 9.7434
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Hienheim",
+    "name": "Hienheim Airfield",
+    "icao": "DE-0089",
+    "lat": 48.87811,
+    "lon": 11.76034
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Hirschaid",
+    "name": "Friesner Warte Airfield",
+    "icao": "DE-0079",
+    "lat": 49.8364,
+    "lon": 11.04644
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Hohenfels",
+    "name": "Hohenfels Hospital Army Helipad",
+    "icao": "ET39",
+    "lat": 49.2241666667,
+    "lon": 11.8347222222
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Holledau",
+    "name": "Hallertau Airfield",
+    "icao": "DE-0087",
+    "lat": 48.64972,
+    "lon": 11.59687
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Homberg",
+    "name": "Homberg/Ohm Airfield",
+    "icao": "DE-0153",
+    "lat": 50.7465,
+    "lon": 9.0192
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "HÃ¶rbach",
+    "name": "HÃ¶rbach Airfield",
+    "icao": "DE-0148",
+    "lat": 50.6683,
+    "lon": 8.2604
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "HÃ¼rtgenwald",
+    "name": "DÃ¼ren-HÃ¼rtgenwald Airfield",
+    "icao": "DE-0177",
+    "lat": 50.6937,
+    "lon": 6.4185
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Ingolstadt",
+    "name": "Etting-Adelmannsberg Glider Field",
+    "icao": "ETT1",
+    "lat": 48.81028,
+    "lon": 11.42096
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Isny im AllgÃ¤u",
+    "name": "Isny Glider Field",
+    "icao": "DE-0311",
+    "lat": 47.7002,
+    "lon": 10.0207
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "Kamenz",
+    "name": "UL-Flugplatz Brauna",
+    "icao": "DE-0357",
+    "lat": 51.283611,
+    "lon": 14.061667
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Karlstadt",
+    "name": "Segelflugplatz Karlstadt-Saupurzel",
+    "icao": "DE-0060",
+    "lat": 49.971234,
+    "lon": 9.790516
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Katensen",
+    "name": "Katensen private UL strip",
+    "icao": "DE-0360",
+    "lat": 52.4411581,
+    "lon": 10.1661266
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Kemnitz",
+    "name": "Kemnitz Heliport",
+    "icao": "DE-0384",
+    "lat": 54.0824235,
+    "lon": 13.5361492
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Kesselweier",
+    "name": "Hilden-Kesselweier Airfield",
+    "icao": "DE-0186",
+    "lat": 51.1873,
+    "lon": 6.9746
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Kirn",
+    "name": "Kirn Airfield",
+    "icao": "DE-0263",
+    "lat": 49.773,
+    "lon": 7.5217
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Kleinhartpenning",
+    "name": "Kleinhartpenning Ultralight Site",
+    "icao": "DE-0069",
+    "lat": 47.8519,
+    "lon": 11.6667
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "KÃ¶ln",
+    "name": "Lindlar Airfield",
+    "icao": "DE-0192",
+    "lat": 50.9952,
+    "lon": 7.3738
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Kremmen",
+    "name": "Sonderlandeplatz Kremmen-Hohenbruch UL",
+    "icao": "DE-0395",
+    "lat": 52.797548,
+    "lon": 13.102406
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Kronach",
+    "name": "Kronach Airfield",
+    "icao": "DE-0058",
+    "lat": 50.243644,
+    "lon": 11.3589
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony-Anhalt",
+    "city": "Kunrau",
+    "name": "Kunrau/Jahrstedt UL",
+    "icao": "DE-0396",
+    "lat": 52.567785,
+    "lon": 10.996051
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "KÃ¼nzelsau",
+    "name": "Hermuthausen Airfield",
+    "icao": "DE-0306",
+    "lat": 49.3146,
+    "lon": 9.7468
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Landsberg am Lech",
+    "name": "Geratshof Airfield",
+    "icao": "DE-0084",
+    "lat": 47.9925,
+    "lon": 10.8442
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Landstuhl",
+    "name": "EÃŸweiler Airfield",
+    "icao": "DE-0272",
+    "lat": 49.5621,
+    "lon": 7.58
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Langenselbold",
+    "name": "Langenselbold Airfield",
+    "icao": "DE-0155",
+    "lat": 50.1764,
+    "lon": 9.0648
+  },
+  {
+    "country": "Germany",
+    "state": "Saxony",
+    "city": "LauÃŸig",
+    "name": "Agrarflugplatz LauÃŸig",
+    "icao": "DE-0415",
+    "lat": 51.5356317,
+    "lon": 12.6423586
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Leibertingen",
+    "name": "Leibertingen Airfield",
+    "icao": "DE-0313",
+    "lat": 48.0445,
+    "lon": 9.0314
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Lohne",
+    "name": "Paradiek Lohne bei Vechta",
+    "icao": "DE-0292",
+    "lat": 52.6680556,
+    "lon": 8.3213889
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "LÃ¼nen",
+    "name": "LÃ¼nen-Lippeweiden Airfield",
+    "icao": "DE-0203",
+    "lat": 51.6171,
+    "lon": 7.501
+  },
+  {
+    "country": "Germany",
+    "state": "Saarland",
+    "city": "Marpingen",
+    "name": "Marpingen Glider Airfield",
+    "icao": "DE-0070",
+    "lat": 49.453,
+    "lon": 7.039
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "MeiÃŸendorf",
+    "name": "Sonderlandeplatz MeiÃŸendorf-Brunsiek",
+    "icao": "DE-0355",
+    "lat": 52.7122879,
+    "lon": 9.8729296
+  },
+  {
+    "country": "Germany",
+    "state": "Mecklenburg-Vorpommern",
+    "city": "Mellenthin (Usedom)",
+    "name": "Mellenthin UL",
+    "icao": "DE-0361",
+    "lat": 53.9175,
+    "lon": 14.0325
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Mellrichstadt",
+    "name": "Bischofsberg Airfield",
+    "icao": "DE-0052",
+    "lat": 50.432470384,
+    "lon": 10.287065506
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Menden",
+    "name": "Menden-Barge Airfield",
+    "icao": "DE-0205",
+    "lat": 51.46,
+    "lon": 7.8376
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Meppen",
+    "name": "Meppen Ludmillenstift Hospital Helipad",
+    "icao": "DE-0026",
+    "lat": 52.6894989013671,
+    "lon": 7.29440021514892
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Metzingen",
+    "name": "Berliner Heide Airfield",
+    "icao": "DE-0111",
+    "lat": 52.6697,
+    "lon": 10.3705
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "MÃ¶ckmÃ¼hl",
+    "name": "MÃ¶ckmÃ¼hl-Korb Airfield",
+    "icao": "DE-0318",
+    "lat": 49.3442,
+    "lon": 9.401
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Morschenich",
+    "name": "Sonderlandeplatz Morschenich",
+    "icao": "DE-0291",
+    "lat": 50.8730556,
+    "lon": 6.5527778
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "MÃ¼nchen",
+    "name": "Warngau Airfield",
+    "icao": "DE-0005",
+    "lat": 47.825011,
+    "lon": 11.703733
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Nagold",
+    "name": "SegelfluggelÃ¤nde Haiterbach",
+    "icao": "DE-0288",
+    "lat": 48.5313889,
+    "lon": 8.6752778
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Naunheim",
+    "name": "Naunheim / Maifeld UL",
+    "icao": "DE-0405",
+    "lat": 50.2580555,
+    "lon": 7.3319443
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Nidda",
+    "name": "Nidda Airfield",
+    "icao": "DE-0168",
+    "lat": 50.4053,
+    "lon": 8.9881
+  },
+  {
+    "country": "Germany",
+    "state": "Schleswig-Holstein",
+    "city": "NiebÃ¼ll",
+    "name": "Aventoft Airfield",
+    "icao": "DE-0278",
+    "lat": 54.8961,
+    "lon": 8.8208
+  },
+  {
+    "country": "Germany",
+    "state": "Thuringia",
+    "city": "Niederwillingen",
+    "name": "Flugplatz Niederwillingen",
+    "icao": "DE-0400",
+    "lat": 50.7799999,
+    "lon": 11.0508333
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Northeim",
+    "name": "Sultmer Berg Airfield",
+    "icao": "DE-0127",
+    "lat": 51.73,
+    "lon": 9.9925
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Nuremberg",
+    "name": "Ottenberg Airfield",
+    "icao": "DE-0092",
+    "lat": 49.3287,
+    "lon": 11.4797
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Oberschleissheim",
+    "name": "Oberschleissheim Heliport",
+    "icao": "EDMX",
+    "lat": 48.23795,
+    "lon": 11.565419
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Oedheim",
+    "name": "Oedheim Heliport",
+    "icao": "EDGO",
+    "lat": 49.2410011291503,
+    "lon": 9.23499965667724
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Offenburg",
+    "name": "Ohlsbach UL",
+    "icao": "DE-0403",
+    "lat": 48.4338888,
+    "lon": 7.9708332
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Ã–hringen",
+    "name": "Baumerlenbach Airfield",
+    "icao": "DE-0281",
+    "lat": 49.231,
+    "lon": 9.421
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "OsnabrÃ¼ck",
+    "name": "OsnabrÃ¼ck Hospital Helipad",
+    "icao": "DE-0025",
+    "lat": 52.2779006958007,
+    "lon": 8.00479984283447
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Peine",
+    "name": "Peine-Glindbruchkippe Airfield",
+    "icao": "DE-0125",
+    "lat": 52.3238,
+    "lon": 10.1815
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Pirmasens",
+    "name": "Bundenthal-Rumbach Airfield",
+    "icao": "DE-0277",
+    "lat": 49.0934,
+    "lon": 7.7941
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Pleidelsheim",
+    "name": "Pleidelsheim Airfield",
+    "icao": "DE-0327",
+    "lat": 48.9564,
+    "lon": 9.1914
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "PlÃ¶tzin",
+    "name": "Flugplatz PlÃ¶tzin",
+    "icao": "DE-0388",
+    "lat": 52.356113,
+    "lon": 12.824636
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Pohlheim",
+    "name": "Pohlheim Airfield",
+    "icao": "DE-0161",
+    "lat": 50.5322,
+    "lon": 8.7334
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "QuakenbrÃ¼ck",
+    "name": "QuakenbrÃ¼ck Airfield",
+    "icao": "DE-0117",
+    "lat": 52.6634,
+    "lon": 7.9249
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Rastatt",
+    "name": "Rastatt Airfield",
+    "icao": "DE-0328",
+    "lat": 48.8742,
+    "lon": 8.2129
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Reiselfingen",
+    "name": "Reiselfingen Airfield",
+    "icao": "DE-0329",
+    "lat": 47.8517,
+    "lon": 8.3715
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Repke",
+    "name": "Schnuckenheide-Repke Airfield",
+    "icao": "DE-0119",
+    "lat": 52.7163,
+    "lon": 10.5336
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Riedlingen",
+    "name": "Flugplatz Riedlingen",
+    "icao": "DE-0293",
+    "lat": 48.1444444,
+    "lon": 9.466666
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "RÃ¼sselsheim",
+    "name": "Hoherodskopf Airfield",
+    "icao": "DE-0149",
+    "lat": 50.5017,
+    "lon": 9.2227
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Salzgitter",
+    "name": "Am Salzgittersee Airfield",
+    "icao": "DE-0096",
+    "lat": 52.1702,
+    "lon": 10.31573
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Sauerland",
+    "name": "Iserlohn-Rheinermark Airfield",
+    "icao": "DE-0187",
+    "lat": 51.4293,
+    "lon": 7.6436
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Schneverdingen",
+    "name": "HÃ¶pen Airfield",
+    "icao": "DE-0104",
+    "lat": 53.1473,
+    "lon": 9.796
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Schwalmstadt",
+    "name": "Ziegenhain Airfield - \"Der Ring\"",
+    "icao": "DE-0173",
+    "lat": 50.9026,
+    "lon": 9.2403
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Schweinfurt",
+    "name": "Grafenrheinfeld Nuclear Power Plant Helipad",
+    "icao": "DE-0027",
+    "lat": 49.9822998046875,
+    "lon": 10.1913995742797
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Siegen",
+    "name": "Siegen-Eisernhardt Airfield",
+    "icao": "DE-0208",
+    "lat": 50.8375,
+    "lon": 8.0141
+  },
+  {
+    "country": "Germany",
+    "state": "Rhineland-Palatinate",
+    "city": "Singhofen",
+    "name": "Singhofen Airfield",
+    "icao": "DE-0251",
+    "lat": 50.2714,
+    "lon": 7.8548
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Sperenberg",
+    "name": "Sperenberg Air Base",
+    "icao": "DE-0009",
+    "lat": 52.1399993896484,
+    "lon": 13.3050003051757
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Staufenberg",
+    "name": "Staufenberg Glider Field",
+    "icao": "DE-0097",
+    "lat": 51.362,
+    "lon": 9.6288
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "StraÃŸham",
+    "name": "StraÃŸham UL",
+    "icao": "DE-0381",
+    "lat": 48.1797222,
+    "lon": 11.9272222
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Sulzbach-Rosenberg",
+    "name": "Fichtelbrunn Airfield",
+    "icao": "DE-0078",
+    "lat": 49.49818,
+    "lon": 11.6595
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Tauberbischofsheim",
+    "name": "Tauberbischofsheim Airfield",
+    "icao": "DE-0250",
+    "lat": 49.6477,
+    "lon": 9.6326
+  },
+  {
+    "country": "Germany",
+    "state": "(unassigned)",
+    "city": "Ternberg",
+    "name": "Paraglider Ternberg",
+    "icao": "DE-0354",
+    "lat": 47.9347398,
+    "lon": 14.3508537
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Tirschenreuth",
+    "name": "Tirschenreuth  Airfield",
+    "icao": "DE-0055",
+    "lat": 49.8739,
+    "lon": 12.3281
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Trostberg",
+    "name": "Trostberg Hospital Helipad",
+    "icao": "DE-0034",
+    "lat": 48.0291332578,
+    "lon": 12.5431895256
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "TÃ¼bingen",
+    "name": "TÃ¼bingen University Hospital Helipad",
+    "icao": "DE-0268",
+    "lat": 48.5297,
+    "lon": 9.0382
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Uehrde",
+    "name": "Flugplatz Uehrde",
+    "icao": "DE-0356",
+    "lat": 52.1008333,
+    "lon": 10.7380556
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "Ulm",
+    "name": "Wilhelmsburg-Kaserne Helipad",
+    "icao": "DE-0375",
+    "lat": 48.4142,
+    "lon": 9.9805
+  },
+  {
+    "country": "Germany",
+    "state": "Bavaria",
+    "city": "UnterwÃ¶ssen",
+    "name": "UnterwÃ¶ssen Airfield",
+    "icao": "DE-0093",
+    "lat": 47.72974,
+    "lon": 12.4382
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Vaihingen an der Enz",
+    "name": "Vaihingen an der Enz Airfield",
+    "icao": "DE-0244",
+    "lat": 48.9362,
+    "lon": 8.9736
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Waldeck",
+    "name": "Waldeck Airfield",
+    "icao": "DE-0218",
+    "lat": 51.2267,
+    "lon": 9.0554
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Walxheim",
+    "name": "Walxheim-Unterschneidheim UL",
+    "icao": "DE-0404",
+    "lat": 48.953631,
+    "lon": 10.323716
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Warburg",
+    "name": "Warburg Airfield",
+    "icao": "DE-0211",
+    "lat": 51.4973,
+    "lon": 9.0876
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Wenzendorf",
+    "name": "Wenzendorf Airfield",
+    "icao": "DE-0132",
+    "lat": 53.3374,
+    "lon": 9.7797
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Wertheim",
+    "name": "Flugplatz Wertheim",
+    "icao": "DE-0369",
+    "lat": 49.725862,
+    "lon": 9.507246
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Wessein",
+    "name": "Steinberg at Wessein Airfield",
+    "icao": "DE-0120",
+    "lat": 52.0838,
+    "lon": 10.018
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Wetzlar",
+    "name": "Garbenheimer Wiesen Airfield",
+    "icao": "DE-0143",
+    "lat": 50.574,
+    "lon": 8.529
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Wiesbaden",
+    "name": "Laufenselden Airfield",
+    "icao": "DE-0156",
+    "lat": 50.2217,
+    "lon": 7.9985
+  },
+  {
+    "country": "Germany",
+    "state": "Baden-WÃ¼rttemberg",
+    "city": "Wildberg",
+    "name": "WÃ¤chtersberg-Hub Glider Airfield",
+    "icao": "DE-0047",
+    "lat": 48.614931,
+    "lon": 8.755457
+  },
+  {
+    "country": "Germany",
+    "state": "North Rhine-Westphalia",
+    "city": "Wissel",
+    "name": "Kleve-Wisseler DÃ¼nen Airfield",
+    "icao": "DE-0045",
+    "lat": 51.769461,
+    "lon": 6.299106
+  },
+  {
+    "country": "Germany",
+    "state": "Brandenburg",
+    "city": "Wittstock",
+    "name": "Wittstock Air Base",
+    "icao": "DE-0028",
+    "lat": 53.201,
+    "lon": 12.524
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "WolfenbÃ¼ttel",
+    "name": "GroÃŸe Wiese Airfield",
+    "icao": "DE-0099",
+    "lat": 52.13704,
+    "lon": 10.5695
+  },
+  {
+    "country": "Germany",
+    "state": "Lower Saxony",
+    "city": "Wolfsburg",
+    "name": "StÃ¼de Bernsteinsee Airfield",
+    "icao": "DE-0126",
+    "lat": 52.5638,
+    "lon": 10.6853
+  },
+  {
+    "country": "Germany",
+    "state": "Saarland",
+    "city": "Wustweiler",
+    "name": "FSV Illtal Airfield",
+    "icao": "DE-0134",
+    "lat": 49.41,
+    "lon": 7.0547
+  },
+  {
+    "country": "Germany",
+    "state": "Hesse",
+    "city": "Zellhausen",
+    "name": "Zellhausen Gliderport",
+    "icao": "DE-0041",
+    "lat": 50.018845,
+    "lon": 8.984376
+  }
+]

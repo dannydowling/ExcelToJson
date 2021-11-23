@@ -1,0 +1,56 @@
+[
+  {
+    "country": "Luxembourg",
+    "state": "Luxembourg",
+    "city": "Luxembourg",
+    "name": "Luxembourg-Findel International Airport",
+    "icao": "ELLX",
+    "lat": 49.6233333,
+    "lon": 6.2044444
+  },
+  {
+    "country": "Luxembourg",
+    "state": "Luxembourg",
+    "city": "Luxembourg",
+    "name": "Centre Hospitalier de Luxembourg Helipad",
+    "icao": "LU-0003",
+    "lat": 49.619279,
+    "lon": 6.102534
+  },
+  {
+    "country": "Luxembourg",
+    "state": "Luxembourg",
+    "city": "Luxembourg",
+    "name": "HÃ´pital Kirchberg heliport",
+    "icao": "LU-0006",
+    "lat": 49.632616,
+    "lon": 6.177118
+  },
+  {
+    "country": "Luxembourg",
+    "state": "Diekirch",
+    "city": "Medernach",
+    "name": "Medernach / Kitzebour ULM",
+    "icao": "LU-0002",
+    "lat": 49.7891998291,
+    "lon": 6.24110984802
+  },
+  {
+    "country": "Luxembourg",
+    "state": "Luxembourg",
+    "city": "Esch-Sur-Alzette",
+    "name": "Centre Hospitalier Emile Mayrisch Heliport",
+    "icao": "LU-0004",
+    "lat": 49.500911,
+    "lon": 5.982146
+  },
+  {
+    "country": "Luxembourg",
+    "state": "Diekirch",
+    "city": "Ettelbruck",
+    "name": "Ettelbruck heliport",
+    "icao": "LU-0001",
+    "lat": 49.85432,
+    "lon": 6.094475
+  }
+]

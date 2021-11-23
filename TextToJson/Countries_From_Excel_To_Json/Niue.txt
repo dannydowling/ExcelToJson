@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Niue",
+    "state": "Alofi",
+    "city": "Alofi",
+    "name": "Niue International Airport",
+    "icao": "NIUE",
+    "lat": -19.0790309906005,
+    "lon": -169.925598144531
+  }
+]

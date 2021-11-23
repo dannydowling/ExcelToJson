@@ -1,0 +1,110 @@
+[
+  {
+    "country": "Fiji",
+    "state": "Northern",
+    "city": "Savusavu",
+    "name": "Savusavu Airport",
+    "icao": "NFNS",
+    "lat": -16.8027992249,
+    "lon": 179.341003418
+  },
+  {
+    "country": "Fiji",
+    "state": "Western",
+    "city": "Western",
+    "name": "Ba Airport",
+    "icao": "NFFA",
+    "lat": -17.535056,
+    "lon": 177.680917
+  },
+  {
+    "country": "Fiji",
+    "state": "Western",
+    "city": "Treasure Island Resort",
+    "name": "Treasure Island Seaplane Base",
+    "icao": "NFRS",
+    "lat": -17.6554,
+    "lon": 177.2654
+  },
+  {
+    "country": "Fiji",
+    "state": "Eastern",
+    "city": "Koro Island",
+    "name": "Koro Island Airport",
+    "icao": "NFNO",
+    "lat": -17.3458003998,
+    "lon": 179.42199707
+  },
+  {
+    "country": "Fiji",
+    "state": "Eastern",
+    "city": "Lakeba Island",
+    "name": "Lakeba Island Airport",
+    "icao": "NFNK",
+    "lat": -18.1991996765,
+    "lon": -178.817001343
+  },
+  {
+    "country": "Fiji",
+    "state": "Western",
+    "city": "Malolo Lailai Island",
+    "name": "Malolo Lailai Island Airport",
+    "icao": "NFFO",
+    "lat": -17.7779006958,
+    "lon": 177.197006226
+  },
+  {
+    "country": "Fiji",
+    "state": "Eastern",
+    "city": "Vunisea",
+    "name": "Vunisea Airport",
+    "icao": "NFKD",
+    "lat": -19.0580997466999,
+    "lon": 178.156997681
+  },
+  {
+    "country": "Fiji",
+    "state": "Northern",
+    "city": "Kaibu Island",
+    "name": "Kaibu Island Airport",
+    "icao": "NFKB",
+    "lat": -17.2541999816894,
+    "lon": -179.488998413085
+  },
+  {
+    "country": "Fiji",
+    "state": "Western",
+    "city": "Vatukoula",
+    "name": "Vatukoula Airport",
+    "icao": "NFNV",
+    "lat": -17.5,
+    "lon": 177.841995239257
+  },
+  {
+    "country": "Fiji",
+    "state": "Eastern",
+    "city": "Wakaya Island",
+    "name": "Wakaya Island Airport",
+    "icao": "NFNW",
+    "lat": -17.6170005798339,
+    "lon": 179.016998291015
+  },
+  {
+    "country": "Fiji",
+    "state": "Northern",
+    "city": "Bua",
+    "name": "Bui-Dama Airport",
+    "icao": "NFNU",
+    "lat": -16.8598,
+    "lon": 178.6232
+  },
+  {
+    "country": "Fiji",
+    "state": "Western",
+    "city": "Nanuya Lailai Island",
+    "name": "Blue Lagoon Seaplane Base",
+    "icao": "BXL",
+    "lat": -16.943,
+    "lon": 177.368
+  }
+]

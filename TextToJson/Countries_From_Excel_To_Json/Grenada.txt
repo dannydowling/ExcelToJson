@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Grenada",
+    "state": "Saint George",
+    "city": "Saint George's",
+    "name": "Point Salines International Airport",
+    "icao": "TGPY",
+    "lat": 12.0041999816894,
+    "lon": -61.7862014770507
+  },
+  {
+    "country": "Grenada",
+    "state": "Saint Patrick",
+    "city": "Carriacou Island",
+    "name": "Lauriston Airport",
+    "icao": "TGPZ",
+    "lat": 12.4760999679565,
+    "lon": -61.472801208496
+  }
+]

@@ -1,0 +1,209 @@
+[
+  {
+    "country": "Nepal",
+    "state": "Bagmati",
+    "city": "Kathmandu",
+    "name": "Tribhuvan International Airport",
+    "icao": "VNKT",
+    "lat": 27.6966,
+    "lon": 85.3591
+  },
+  {
+    "country": "Nepal",
+    "state": "Sagarmatha",
+    "city": "Lukla",
+    "name": "Lukla Airport",
+    "icao": "VNLK",
+    "lat": 27.6868991851806,
+    "lon": 86.7296981811523
+  },
+  {
+    "country": "Nepal",
+    "state": "Karnali",
+    "city": "Jumla",
+    "name": "Jumla Airport",
+    "icao": "VNJL",
+    "lat": 29.2742,
+    "lon": 82.193298
+  },
+  {
+    "country": "Nepal",
+    "state": "Rapti",
+    "city": "Dang",
+    "name": "Tulsipur Airport",
+    "icao": "VNDG",
+    "lat": 28.111099243164,
+    "lon": 82.2941970825195
+  },
+  {
+    "country": "Nepal",
+    "state": "Lumbini",
+    "city": "Bhairawa",
+    "name": "Gautam Buddha Airport",
+    "icao": "VNBW",
+    "lat": 27.505685,
+    "lon": 83.416293
+  },
+  {
+    "country": "Nepal",
+    "state": "Mechi",
+    "city": "Bhadrapur",
+    "name": "Bhadrapur Airport",
+    "icao": "VNCG",
+    "lat": 26.5708007812,
+    "lon": 88.0795974731
+  },
+  {
+    "country": "Nepal",
+    "state": "Narayani",
+    "city": "Meghauli",
+    "name": "Meghauli Airport",
+    "icao": "VNMG",
+    "lat": 27.5774,
+    "lon": 84.22875
+  },
+  {
+    "country": "Nepal",
+    "state": "Gandaki",
+    "city": "Ngawal",
+    "name": "Manang Airport",
+    "icao": "VNMA",
+    "lat": 28.641399,
+    "lon": 84.089203
+  },
+  {
+    "country": "Nepal",
+    "state": "Rapti",
+    "city": "Rukumkot",
+    "name": "Rukum Chaurjahari Airport",
+    "icao": "VNRK",
+    "lat": 28.627001,
+    "lon": 82.195
+  },
+  {
+    "country": "Nepal",
+    "state": "Karnali",
+    "city": "Simikot",
+    "name": "Simikot Airport",
+    "icao": "VNST",
+    "lat": 29.9710998535156,
+    "lon": 81.8189010620117
+  },
+  {
+    "country": "Nepal",
+    "state": "Bheri",
+    "city": "Surkhet",
+    "name": "Surkhet Airport",
+    "icao": "VNSK",
+    "lat": 28.586,
+    "lon": 81.636002
+  },
+  {
+    "country": "Nepal",
+    "state": "Kosi",
+    "city": "Tumling Tar",
+    "name": "Tumling Tar Airport",
+    "icao": "VNTR",
+    "lat": 27.315001,
+    "lon": 87.193298
+  },
+  {
+    "country": "Nepal",
+    "state": "Dhawalagiri",
+    "city": "Baglung",
+    "name": "Baglung Airport",
+    "icao": "VNBL",
+    "lat": 28.2127990722656,
+    "lon": 83.6662979125976
+  },
+  {
+    "country": "Nepal",
+    "state": "Seti",
+    "city": "Bajura",
+    "name": "Bajura Airport",
+    "icao": "VNBR",
+    "lat": 29.5020008087158,
+    "lon": 81.6689987182617
+  },
+  {
+    "country": "Nepal",
+    "state": "Kosi",
+    "city": "Bhojpur",
+    "name": "Bhojpur Airport",
+    "icao": "VNBJ",
+    "lat": 27.1473999023437,
+    "lon": 87.050796508789
+  },
+  {
+    "country": "Nepal",
+    "state": "Gandaki",
+    "city": "Gorkha",
+    "name": "Palungtar Airport",
+    "icao": "VNGK",
+    "lat": 28.0385,
+    "lon": 84.4664
+  },
+  {
+    "country": "Nepal",
+    "state": "Janakpur",
+    "city": "Jiri",
+    "name": "Jiri Airport",
+    "icao": "VNJI",
+    "lat": 27.626313,
+    "lon": 86.230581
+  },
+  {
+    "country": "Nepal",
+    "state": "Sagarmatha",
+    "city": "Lamidanda",
+    "name": "Lamidanda Airport",
+    "icao": "VNLD",
+    "lat": 27.2530994415283,
+    "lon": 86.6699981689453
+  },
+  {
+    "country": "Nepal",
+    "state": "Bagmati",
+    "city": "Langtang",
+    "name": "Langtang Airport",
+    "icao": "VNLT",
+    "lat": 28.2000007629394,
+    "lon": 85.5830001831054
+  },
+  {
+    "country": "Nepal",
+    "state": "Seti",
+    "city": "Silgadi Doti",
+    "name": "Silgadi Doti Airport",
+    "icao": "VNDT",
+    "lat": 29.2630996704101,
+    "lon": 80.9359970092773
+  },
+  {
+    "country": "Nepal",
+    "state": "Seti",
+    "city": "Tikapur",
+    "name": "Tikapur Airport",
+    "icao": "VNTP",
+    "lat": 28.5219,
+    "lon": 81.123
+  },
+  {
+    "country": "Nepal",
+    "state": "Sagarmatha",
+    "city": "Sagarmatha",
+    "name": "Kangel Danda Airport",
+    "icao": "VNKL",
+    "lat": 27.4106333137,
+    "lon": 86.6465950012
+  },
+  {
+    "country": "Nepal",
+    "state": "Mechi",
+    "city": "Taplejung",
+    "name": "Taplejung Airport",
+    "icao": "VNTJ",
+    "lat": 27.3509,
+    "lon": 87.69525
+  }
+]

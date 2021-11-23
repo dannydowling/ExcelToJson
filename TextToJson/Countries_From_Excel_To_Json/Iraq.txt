@@ -1,0 +1,326 @@
+[
+  {
+    "country": "Iraq",
+    "state": "Arbil Governorate",
+    "city": "Arbil",
+    "name": "Erbil International Airport",
+    "icao": "ORER",
+    "lat": 36.2375984191894,
+    "lon": 43.9631996154785
+  },
+  {
+    "country": "Iraq",
+    "state": "Basra Governorate",
+    "city": "Basrah",
+    "name": "Basrah International Airport",
+    "icao": "ORMM",
+    "lat": 30.5491008758544,
+    "lon": 47.6621017456054
+  },
+  {
+    "country": "Iraq",
+    "state": "Baghdad Governorate",
+    "city": "Taji",
+    "name": "Al Taji Army Air Field",
+    "icao": "ORTI",
+    "lat": 33.5238990783691,
+    "lon": 44.2566986083984
+  },
+  {
+    "country": "Iraq",
+    "state": "Wasit Governorate",
+    "city": "Wasit Governorate",
+    "name": "Kut Al Hayy East Air Base",
+    "icao": "IQ-0030",
+    "lat": 32.1168403625488,
+    "lon": 46.3822402954101
+  },
+  {
+    "country": "Iraq",
+    "state": "Wasit Governorate",
+    "city": "Al Cut",
+    "name": "Ubaydah Bin Al Jarrah Airport",
+    "icao": "ORUB",
+    "lat": 32.4819984436035,
+    "lon": 45.7570991516113
+  },
+  {
+    "country": "Iraq",
+    "state": "Ninawa Governorate",
+    "city": "Mosul",
+    "name": "Mosul International Airport",
+    "icao": "ORBM",
+    "lat": 36.305801,
+    "lon": 43.1474
+  },
+  {
+    "country": "Iraq",
+    "state": "Ninawa Governorate",
+    "city": "Qayyarah",
+    "name": "Qayyarah West Airport",
+    "icao": "ORQW",
+    "lat": 35.76720047,
+    "lon": 43.1250991820999
+  },
+  {
+    "country": "Iraq",
+    "state": "Salah ad Din Governorate",
+    "city": "Tikrit",
+    "name": "Al Sahra Army Air Field",
+    "icao": "ORSH",
+    "lat": 34.6731986999511,
+    "lon": 43.5429992675781
+  },
+  {
+    "country": "Iraq",
+    "state": "Duhok Governorate",
+    "city": "Bamarni",
+    "name": "Bamarni Airport",
+    "icao": "ORBB",
+    "lat": 37.0988006591796,
+    "lon": 43.2666015625
+  },
+  {
+    "country": "Iraq",
+    "state": "Arbil Governorate",
+    "city": "Bashur",
+    "name": "Bashur Airfield",
+    "icao": "ORBR",
+    "lat": 36.5336990356,
+    "lon": 44.3399009705
+  },
+  {
+    "country": "Iraq",
+    "state": "Kirkuk Governorate",
+    "city": "Kirkuk Governorate",
+    "name": "Al Fathah Air Base",
+    "icao": "IQ-0001",
+    "lat": 35.135398864746,
+    "lon": 43.7252006530761
+  },
+  {
+    "country": "Iraq",
+    "state": "Babil Governorate",
+    "city": "Babil Governorate",
+    "name": "Al Iskandariyah New Airport",
+    "icao": "IQ-0003",
+    "lat": 32.9691925048828,
+    "lon": 44.2712745666503
+  },
+  {
+    "country": "Iraq",
+    "state": "Al-Anbar Governorate",
+    "city": "Al-Anbar Governorate",
+    "name": "Al Muhammadi Airport",
+    "icao": "IQ-0005",
+    "lat": 33.4408798217773,
+    "lon": 42.9133071899414
+  },
+  {
+    "country": "Iraq",
+    "state": "Wasit Governorate",
+    "city": "Wasit Governorate",
+    "name": "An Numaniyah Air Base",
+    "icao": "IQ-0007",
+    "lat": 32.5062866210937,
+    "lon": 45.3266716003418
+  },
+  {
+    "country": "Iraq",
+    "state": "Al-Anbar Governorate",
+    "city": "Al-Anbar Governorate",
+    "name": "Ar Rutbah Highway Strip",
+    "icao": "IQ-0009",
+    "lat": 33.0590324401855,
+    "lon": 40.3966407775878
+  },
+  {
+    "country": "Iraq",
+    "state": "Al-Muthanna Governorate",
+    "city": "Al-Muthanna Governorate",
+    "name": "As Salman North Air Base",
+    "icao": "IQ-0011",
+    "lat": 30.6469955444335,
+    "lon": 44.569709777832
+  },
+  {
+    "country": "Iraq",
+    "state": "Basra Governorate",
+    "city": "Basra Governorate",
+    "name": "Basrah Maqal Airport",
+    "icao": "IQ-0014",
+    "lat": 30.5681915283203,
+    "lon": 47.7720527648925
+  },
+  {
+    "country": "Iraq",
+    "state": "Al-Anbar Governorate",
+    "city": "Al-Anbar Governorate",
+    "name": "H1 New Air Base",
+    "icao": "IQ-0016",
+    "lat": 33.8186988830566,
+    "lon": 41.432201385498
+  },
+  {
+    "country": "Iraq",
+    "state": "Al-Anbar Governorate",
+    "city": "Al-Anbar Governorate",
+    "name": "H3 Air Base",
+    "icao": "IQ-0018",
+    "lat": 32.9293823242187,
+    "lon": 39.7451019287109
+  },
+  {
+    "country": "Iraq",
+    "state": "Al-Anbar Governorate",
+    "city": "Al-Anbar Governorate",
+    "name": "H3 Northwest AFB",
+    "icao": "IQ-0020",
+    "lat": 33.0745697021484,
+    "lon": 39.5996170043945
+  },
+  {
+    "country": "Iraq",
+    "state": "Al-Anbar Governorate",
+    "city": "Al-Anbar Governorate",
+    "name": "Habbaniyah Airport",
+    "icao": "IQ-0022",
+    "lat": 33.374225616455,
+    "lon": 43.564395904541
+  },
+  {
+    "country": "Iraq",
+    "state": "Basra Governorate",
+    "city": "Basra Governorate",
+    "name": "Jalibah Southeast Air Base",
+    "icao": "IQ-0024",
+    "lat": 30.5465183258056,
+    "lon": 46.6027793884277
+  },
+  {
+    "country": "Iraq",
+    "state": "Kirkuk Governorate",
+    "city": "Kirkuk Governorate",
+    "name": "K1 Air Base",
+    "icao": "IQ-0026",
+    "lat": 35.5131912231445,
+    "lon": 44.2836265563964
+  },
+  {
+    "country": "Iraq",
+    "state": "Babil Governorate",
+    "city": "Babil Governorate",
+    "name": "Karbala Northeast Airport",
+    "icao": "IQ-0028",
+    "lat": 32.7554664611816,
+    "lon": 44.1275520324707
+  },
+  {
+    "country": "Iraq",
+    "state": "Al-Anbar Governorate",
+    "city": "Al-Anbar Governorate",
+    "name": "Mudaysis Air Base",
+    "icao": "IQ-0032",
+    "lat": 32.4106712341,
+    "lon": 41.9474945068
+  },
+  {
+    "country": "Iraq",
+    "state": "Dhi Qar Governorate",
+    "city": "Dhi Qar Governorate",
+    "name": "Qalat Sikar Air Base",
+    "icao": "IQ-0035",
+    "lat": 31.8349819183349,
+    "lon": 46.3048400878906
+  },
+  {
+    "country": "Iraq",
+    "state": "Ninawa Governorate",
+    "city": "Ninawa Governorate",
+    "name": "Qayyarah South Airport",
+    "icao": "IQ-0037",
+    "lat": 35.7570724487304,
+    "lon": 43.2646331787109
+  },
+  {
+    "country": "Iraq",
+    "state": "Al-Anbar Governorate",
+    "city": "Al-Anbar Governorate",
+    "name": "Ruwayshid Air Base",
+    "icao": "IQ-0040",
+    "lat": 32.4061126708984,
+    "lon": 39.1236114501953
+  },
+  {
+    "country": "Iraq",
+    "state": "Ninawa Governorate",
+    "city": "Ninawa Governorate",
+    "name": "Sahl Sinjar Air Base",
+    "icao": "IQ-0042",
+    "lat": 35.8592643737793,
+    "lon": 42.1421394348144
+  },
+  {
+    "country": "Iraq",
+    "state": "Diyala Governorate",
+    "city": "Diyala Governorate",
+    "name": "Salum Air Base",
+    "icao": "IQ-0044",
+    "lat": 34.1640739440918,
+    "lon": 44.7469482421875
+  },
+  {
+    "country": "Iraq",
+    "state": "Salah ad Din Governorate",
+    "city": "Salah ad Din Governorate",
+    "name": "Samarra West Air Field",
+    "icao": "IQ-0046",
+    "lat": 34.3063125610351,
+    "lon": 43.2598266601562
+  },
+  {
+    "country": "Iraq",
+    "state": "Wasit Governorate",
+    "city": "Wasit Governorate",
+    "name": "Shayka Mazhar Air Base",
+    "icao": "IQ-0048",
+    "lat": 32.9290390014648,
+    "lon": 44.6297912597656
+  },
+  {
+    "country": "Iraq",
+    "state": "Diyala Governorate",
+    "city": "Diyala Governorate",
+    "name": "Subakhu Air Field",
+    "icao": "IQ-0050",
+    "lat": 33.9344749450683,
+    "lon": 45.1013679504394
+  },
+  {
+    "country": "Iraq",
+    "state": "Salah ad Din Governorate",
+    "city": "Salah ad Din Governorate",
+    "name": "Tikrit South Airport",
+    "icao": "IQ-0053",
+    "lat": 34.5346412658691,
+    "lon": 43.6775741577148
+  },
+  {
+    "country": "Iraq",
+    "state": "Najaf Governorate",
+    "city": "Najaf Governorate",
+    "name": "Wadi Al Khirr New Air Base",
+    "icao": "IQ-0055",
+    "lat": 31.417402267456,
+    "lon": 43.1823616027832
+  },
+  {
+    "country": "Iraq",
+    "state": "Basra Governorate",
+    "city": "Basra Governorate",
+    "name": "Umm Qasr Airport",
+    "icao": "ORUQ",
+    "lat": 30.0181435212,
+    "lon": 47.9246163368
+  }
+]

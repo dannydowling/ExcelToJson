@@ -1,0 +1,2144 @@
+[
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Comodoro Arturo Merino BenÃ­tez International Airport",
+    "icao": "SCEL",
+    "lat": -33.3930015563964,
+    "lon": -70.7857971191406
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Punta Arenas",
+    "name": "Pdte. Carlos IbaÃ±ez del Campo Airport",
+    "icao": "SCCI",
+    "lat": -53.002602,
+    "lon": -70.854599
+  },
+  {
+    "country": "Chile",
+    "state": "Antofagasta Region",
+    "city": "Calama",
+    "name": "El Loa Airport",
+    "icao": "SCCF",
+    "lat": -22.4981994628906,
+    "lon": -68.9036026000976
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "La Serena-Coquimbo",
+    "name": "La Florida Airport",
+    "icao": "SCSE",
+    "lat": -29.916201,
+    "lon": -71.199501
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Concepcion",
+    "name": "Carriel Sur Airport",
+    "icao": "SCIE",
+    "lat": -36.772701,
+    "lon": -73.063103
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Temuco",
+    "name": "Maquehue Airport",
+    "icao": "SCTC",
+    "lat": -38.766799926758,
+    "lon": -72.637100219727
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Eulogio SÃ¡nchez Airport",
+    "icao": "SCTB",
+    "lat": -33.456298828125,
+    "lon": -70.5466995239257
+  },
+  {
+    "country": "Chile",
+    "state": "Arica and Parinacota Region",
+    "city": "Arica",
+    "name": "Chacalluta Airport",
+    "icao": "SCAR",
+    "lat": -18.348499,
+    "lon": -70.338699
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Puerto Natales",
+    "name": "Tte. Julio Gallardo Airport",
+    "icao": "SCNT",
+    "lat": -51.6715011596679,
+    "lon": -72.5283966064453
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Cochrane",
+    "name": "Cochrane Airport",
+    "icao": "SCHR",
+    "lat": -47.2438011169433,
+    "lon": -72.5884017944336
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Valdivia",
+    "name": "Pichoy Airport",
+    "icao": "SCVD",
+    "lat": -39.6500015259,
+    "lon": -73.0860977173
+  },
+  {
+    "country": "Chile",
+    "state": "Atacama Region",
+    "city": "ChaÃ±aral",
+    "name": "ChaÃ±aral Airport",
+    "icao": "SCRA",
+    "lat": -26.3325004577636,
+    "lon": -70.6072998046875
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Coyhaique",
+    "name": "Teniente Vidal Airport",
+    "icao": "SCCY",
+    "lat": -45.5942001342773,
+    "lon": -72.1061019897461
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Isla Santa Maria",
+    "name": "Puerto Sur Airport",
+    "icao": "SCIS",
+    "lat": -37.0261116027832,
+    "lon": -73.5069427490234
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "OlmuÃ©",
+    "name": "OlmuÃ© Airport",
+    "icao": "SCOM",
+    "lat": -32.997093,
+    "lon": -71.17169
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Rengo",
+    "name": "Los Gomeros Airport",
+    "icao": "SCGM",
+    "lat": -34.3611106872558,
+    "lon": -70.8819427490234
+  },
+  {
+    "country": "Chile",
+    "state": "Atacama Region",
+    "city": "El Salvador",
+    "name": "Ricardo GarcÃ­a Posada Airport",
+    "icao": "SCES",
+    "lat": -26.3111000061035,
+    "lon": -69.7651977539062
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Valdivia",
+    "name": "Las MarÃ­as Airport",
+    "icao": "SCVL",
+    "lat": -39.7969017029,
+    "lon": -73.2416992188
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Chillan",
+    "name": "Gral. Bernardo OÂ´Higgins Airport",
+    "icao": "SCCH",
+    "lat": -36.5825004577636,
+    "lon": -72.0314025878906
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Talca",
+    "name": "Panguilemo Airport",
+    "icao": "SCTL",
+    "lat": -35.3777999877929,
+    "lon": -71.6016998291015
+  },
+  {
+    "country": "Chile",
+    "state": "Antofagasta Region",
+    "city": "Taltal",
+    "name": "Las Breas Airport",
+    "icao": "SCTT",
+    "lat": -25.5643005371093,
+    "lon": -70.3759002685546
+  },
+  {
+    "country": "Chile",
+    "state": "Antofagasta Region",
+    "city": "Tocopilla",
+    "name": "Barriles Airport",
+    "icao": "SCBE",
+    "lat": -22.1410999298095,
+    "lon": -70.0628967285156
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Achao",
+    "name": "Tolquien Airport",
+    "icao": "SCAH",
+    "lat": -42.4494018555,
+    "lon": -73.5246963501
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Alto Palena",
+    "name": "Alto Palena Airport",
+    "icao": "SCAP",
+    "lat": -43.6119003296,
+    "lon": -71.806098938
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Ancud",
+    "name": "Pupelde Airport",
+    "icao": "SCAC",
+    "lat": -41.904251,
+    "lon": -73.796571
+  },
+  {
+    "country": "Chile",
+    "state": "Antofagasta Region",
+    "city": "Antofagasta",
+    "name": "Aguas Blancas Airport",
+    "icao": "SCGU",
+    "lat": -24.1364002227783,
+    "lon": -69.8285980224609
+  },
+  {
+    "country": "Chile",
+    "state": "Antofagasta Region",
+    "city": "Antofagasta",
+    "name": "Paranal Airport",
+    "icao": "SCPA",
+    "lat": -24.6394004821777,
+    "lon": -70.3488998413086
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Arauco",
+    "name": "La Playa Airport",
+    "icao": "SCLY",
+    "lat": -37.2163887023925,
+    "lon": -73.2330551147461
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Ayacara",
+    "name": "Ayacara Airport",
+    "icao": "SCAY",
+    "lat": -42.310832,
+    "lon": -72.790275
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Bahia Inutil",
+    "name": "Pampa Guanaco Airport",
+    "icao": "SCBI",
+    "lat": -54.049977,
+    "lon": -68.809193
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Bahia Posesion",
+    "name": "PosesiÃ³n Airport",
+    "icao": "SCBS",
+    "lat": -52.2999992370605,
+    "lon": -68.9333343505859
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Bulnes",
+    "name": "Rucamalen Airport",
+    "icao": "SCUR",
+    "lat": -36.8119430541992,
+    "lon": -72.1672210693359
+  },
+  {
+    "country": "Chile",
+    "state": "Atacama Region",
+    "city": "Caldera",
+    "name": "Caldera Airport",
+    "icao": "SCCL",
+    "lat": -27.0781002044677,
+    "lon": -70.7953033447265
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "Casablanca",
+    "name": "Fundo Loma Larga Airport",
+    "icao": "SCFL",
+    "lat": -33.2799987792968,
+    "lon": -71.3792037963867
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "Casablanca",
+    "name": "El Tapihue Airport",
+    "icao": "SCTW",
+    "lat": -33.3202781677246,
+    "lon": -71.3361129760742
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Cauquenes",
+    "name": "Alto Cauquenes Airport",
+    "icao": "SCCN",
+    "lat": -35.8802795410156,
+    "lon": -72.3272247314453
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Cerro Castillo",
+    "name": "Cerro Castillo Airport",
+    "icao": "SCPY",
+    "lat": -51.262222290039,
+    "lon": -72.3375015258789
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Cerro Sombrero",
+    "name": "Franco Bianco Airport",
+    "icao": "SCSB",
+    "lat": -52.7366981506347,
+    "lon": -69.3336029052734
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Chaiten",
+    "name": "Vodudahue Airport",
+    "icao": "SCDH",
+    "lat": -42.4888877868652,
+    "lon": -72.3505554199218
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Chaiten",
+    "name": "Caleta Gonzalo Airport",
+    "icao": "SCGN",
+    "lat": -42.5636100769043,
+    "lon": -72.5997238159179
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Chaiten",
+    "name": "Tic Toc Airport",
+    "icao": "SCHT",
+    "lat": -43.6130561828613,
+    "lon": -72.8974990844726
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Chaiten",
+    "name": "PillÃ¡n Airport",
+    "icao": "SCPN",
+    "lat": -42.5461120605468,
+    "lon": -72.4941635131836
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Chile Chico",
+    "name": "Leones Airport",
+    "icao": "SCLO",
+    "lat": -46.7655563354492,
+    "lon": -72.8183364868164
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Chillan",
+    "name": "Fundo El Carmen Airport",
+    "icao": "SCFK",
+    "lat": -36.6413879394531,
+    "lon": -72.0166702270507
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Cholguan",
+    "name": "Siberia Airport",
+    "icao": "SCGS",
+    "lat": -37.1772232055664,
+    "lon": -72.079719543457
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Chonchi",
+    "name": "Los Calafates Airport",
+    "icao": "SCFS",
+    "lat": -42.6788902282714,
+    "lon": -73.8966674804687
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Choshuenco",
+    "name": "Molco Airport",
+    "icao": "SCCM",
+    "lat": -39.8250007629394,
+    "lon": -72.0824966430664
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Cochamo",
+    "name": "RincÃ³n Bonito Airport",
+    "icao": "SCBT",
+    "lat": -42.0288887023925,
+    "lon": -72.0961074829101
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Cochrane",
+    "name": "Lago Vargas Airport",
+    "icao": "SCVS",
+    "lat": -47.6772232055664,
+    "lon": -73.0677795410156
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "Combarbala",
+    "name": "Pedro Villarroel C. Airport",
+    "icao": "SCCB",
+    "lat": -31.2219448089599,
+    "lon": -71.0702743530273
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Cumpeo",
+    "name": "Lontuecito Airport",
+    "icao": "SCUP",
+    "lat": -35.2822227478027,
+    "lon": -71.2363891601562
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Cunco",
+    "name": "Los Guayes Airport",
+    "icao": "SCGY",
+    "lat": -39.0530548095703,
+    "lon": -71.9936141967773
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Cunco",
+    "name": "Lago Colico Airport",
+    "icao": "SCLK",
+    "lat": -39.0574989318847,
+    "lon": -72.0741653442382
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Curico",
+    "name": "Los Lirios Airport",
+    "icao": "SCKI",
+    "lat": -34.9038887023925,
+    "lon": -71.2013854980468
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Duao",
+    "name": "San Damian Airport",
+    "icao": "SCDM",
+    "lat": -34.8780555725097,
+    "lon": -72.1455535888671
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Duqueco",
+    "name": "San Lorenzo Airport",
+    "icao": "SCDQ",
+    "lat": -37.5233345031738,
+    "lon": -71.7261123657226
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Entrada Baker",
+    "name": "Entrada Baker Airport",
+    "icao": "SCEB",
+    "lat": -47.1841659545898,
+    "lon": -71.9761123657226
+  },
+  {
+    "country": "Chile",
+    "state": "Atacama Region",
+    "city": "Freirina",
+    "name": "Freirina Airport",
+    "icao": "SCFF",
+    "lat": -28.5263881683349,
+    "lon": -71.0619430541992
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Frutillar",
+    "name": "AÃ±orada Airport",
+    "icao": "SCAA",
+    "lat": -41.0427780151,
+    "lon": -73.0475006104
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Frutillar",
+    "name": "Fundo TehuÃ©n Airport",
+    "icao": "SCFI",
+    "lat": -41.0950012207031,
+    "lon": -73.1266632080078
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Futaleufu",
+    "name": "FutaleufÃº Airport",
+    "icao": "SCFT",
+    "lat": -43.1892013549804,
+    "lon": -71.8510971069336
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "Illapel",
+    "name": "AucÃ³ Airport",
+    "icao": "SCIL",
+    "lat": -31.5778007507324,
+    "lon": -71.1108016967773
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Isla Butachauques",
+    "name": "Butachauques Airport",
+    "icao": "SCIB",
+    "lat": -42.3083343505859,
+    "lon": -73.142219543457
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Isla Las Huichas",
+    "name": "Caleta Andrade Airport",
+    "icao": "SCIH",
+    "lat": -45.147777,
+    "lon": -73.508614
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Isla Mocha",
+    "name": "Isla Mocha Airport",
+    "icao": "SCIM",
+    "lat": -38.3849983215332,
+    "lon": -73.868896484375
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Isla Quenac",
+    "name": "Quenac Airport",
+    "icao": "SCQE",
+    "lat": -42.4672241210937,
+    "lon": -73.3358306884765
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Isla Talcan",
+    "name": "Isla Talcan Airport",
+    "icao": "SCIK",
+    "lat": -42.7466659545898,
+    "lon": -72.9705581665039
+  },
+  {
+    "country": "Chile",
+    "state": "Antofagasta Region",
+    "city": "La Chimba",
+    "name": "La Chimba Airport",
+    "icao": "SCMB",
+    "lat": -23.5536003113,
+    "lon": -70.3961029053
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "La Junta",
+    "name": "La Junta Airport",
+    "icao": "SCLJ",
+    "lat": -43.9752769470214,
+    "lon": -72.4130554199218
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "La Ligua",
+    "name": "Diego Portales Airport",
+    "icao": "SCLQ",
+    "lat": -32.4524993896484,
+    "lon": -71.2588882446289
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "La Union",
+    "name": "Punta Galera Airport",
+    "icao": "SCGA",
+    "lat": -40.0018997192382,
+    "lon": -73.6964035034179
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "La Union",
+    "name": "Los Maitenes de Villa Vieja Airport",
+    "icao": "SCVV",
+    "lat": -40.3163986206054,
+    "lon": -72.9772033691406
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Lago Brown",
+    "name": "Lago Brown Airport",
+    "icao": "SCBR",
+    "lat": -47.3919448852539,
+    "lon": -72.3174972534179
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Lago Caburga",
+    "name": "Llollenorte Airport",
+    "icao": "SCKB",
+    "lat": -39.0574989318847,
+    "lon": -71.6897201538086
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Lago Ranco",
+    "name": "Las Bandurrias Airport",
+    "icao": "SCXR",
+    "lat": -40.3199996948242,
+    "lon": -72.2249984741211
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Lago Verde",
+    "name": "Cacique Blanco Airport",
+    "icao": "SCBC",
+    "lat": -44.2311096191406,
+    "lon": -71.8641662597656
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Laguna San Rafael",
+    "name": "Laguna San Rafael Airport",
+    "icao": "SCRF",
+    "lat": -46.6388893127441,
+    "lon": -73.8499984741211
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Lampa",
+    "name": "Lipangui Airport",
+    "icao": "SCKL",
+    "lat": -33.3311119079589,
+    "lon": -70.8499984741211
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Lautaro",
+    "name": "Esperanza Airport",
+    "icao": "SCLS",
+    "lat": -38.5488891601562,
+    "lon": -72.1458358764648
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Lebu",
+    "name": "Los Pehuenches Airport",
+    "icao": "SCLB",
+    "lat": -37.6580543518066,
+    "lon": -73.6294479370117
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Llanada Grande",
+    "name": "Llanada Grande Airport",
+    "icao": "SCLD",
+    "lat": -41.86669921875,
+    "lon": -71.9344024658203
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Llico",
+    "name": "Torca Airport",
+    "icao": "SCLI",
+    "lat": -34.783332824707,
+    "lon": -72.0508346557617
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Llifen",
+    "name": "Calcurrupe Airport",
+    "icao": "SCLF",
+    "lat": -40.2442016601562,
+    "lon": -72.2369003295898
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Lolol",
+    "name": "Palo Alto Airport",
+    "icao": "SCAO",
+    "lat": -34.733055114746,
+    "lon": -71.7408370971679
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Lonquimay",
+    "name": "Lolco Airport",
+    "icao": "SCCU",
+    "lat": -38.1580543518066,
+    "lon": -71.4238891601562
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "Los Andes",
+    "name": "San Rafael Airport",
+    "icao": "SCAN",
+    "lat": -32.8142013549804,
+    "lon": -70.6466979980468
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Los Angeles",
+    "name": "Cholguahue Airport",
+    "icao": "SCGH",
+    "lat": -37.4697227478027,
+    "lon": -72.1386108398437
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Los Sauces",
+    "name": "Guadaba Airport",
+    "icao": "SCGB",
+    "lat": -37.9777793884277,
+    "lon": -72.929443359375
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Marchigue",
+    "name": "La Esperanza Airport",
+    "icao": "SCMH",
+    "lat": -34.2872238159179,
+    "lon": -71.5583343505859
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Melinka",
+    "name": "Melinka Airport",
+    "icao": "SCMK",
+    "lat": -43.8950004577636,
+    "lon": -73.7388916015625
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Melipilla",
+    "name": "Melipilla Airport",
+    "icao": "SCMP",
+    "lat": -33.6738891601562,
+    "lon": -71.1936111450195
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "Mialqui",
+    "name": "Los Tricahues Airport",
+    "icao": "SCMI",
+    "lat": -30.7374992370605,
+    "lon": -70.8597259521484
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Molina",
+    "name": "Los Petiles Airport",
+    "icao": "SCLP",
+    "lat": -35.2155570983886,
+    "lon": -71.1086120605468
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Molina",
+    "name": "ViÃ±a San Pedro Airport",
+    "icao": "SCMV",
+    "lat": -35.1058349609375,
+    "lon": -71.3277740478515
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Mulchen",
+    "name": "Poco a Poco Airport",
+    "icao": "SCPP",
+    "lat": -37.8488883972168,
+    "lon": -72.0083312988281
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Ã‘adis",
+    "name": "Ã‘adis Airport",
+    "icao": "SCND",
+    "lat": -47.4730567932128,
+    "lon": -72.9519424438476
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Navarino",
+    "name": "Yendegaia Airport",
+    "icao": "SCNY",
+    "lat": -54.8313903808593,
+    "lon": -68.8316650390625
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Osorno",
+    "name": "Callipulli Airport",
+    "icao": "SCCP",
+    "lat": -40.620277,
+    "lon": -72.84639
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Osorno",
+    "name": "Pilauco Airport",
+    "icao": "SCOP",
+    "lat": -40.5691680908203,
+    "lon": -73.1299972534179
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "Ovalle",
+    "name": "Santa Rosa de TabalÃ­ Airport",
+    "icao": "SCOT",
+    "lat": -30.6765003204345,
+    "lon": -71.4010009765625
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "Ovalle",
+    "name": "Santa Adriana Airport",
+    "icao": "SCAD",
+    "lat": -30.6286106109619,
+    "lon": -71.2730560302734
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "Ovalle",
+    "name": "Estancia Los Loros Airport",
+    "icao": "SCOA",
+    "lat": -30.7894439697265,
+    "lon": -71.6183319091796
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Paillaco",
+    "name": "Calpulli Airport",
+    "icao": "SCPL",
+    "lat": -40.1288986206054,
+    "lon": -72.6616973876953
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Paine",
+    "name": "Mansel Airport",
+    "icao": "SCMN",
+    "lat": -33.8572006226,
+    "lon": -70.7703018188
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Palmilla",
+    "name": "Agua Santa Airport",
+    "icao": "SCAG",
+    "lat": -34.5514755847,
+    "lon": -71.3358914852
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Panguipulli",
+    "name": "Papageno Airport",
+    "icao": "SCNG",
+    "lat": -39.5505981445312,
+    "lon": -72.290298461914
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Panimavida",
+    "name": "Panimavida Airport",
+    "icao": "SCIV",
+    "lat": -35.7569007873535,
+    "lon": -71.4041976928711
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Parral",
+    "name": "El Salto Airport",
+    "icao": "SCEO",
+    "lat": -36.1302795410156,
+    "lon": -71.8574981689453
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Pelarco",
+    "name": "La Reforma Airport",
+    "icao": "SCFO",
+    "lat": -35.4580574035644,
+    "lon": -71.2811126708984
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Peulla",
+    "name": "Peulla Airport",
+    "icao": "SCPU",
+    "lat": -41.0541648864746,
+    "lon": -72.0083312988281
+  },
+  {
+    "country": "Chile",
+    "state": "TarapacÃ¡ Region",
+    "city": "Pica",
+    "name": "Coposa Airport",
+    "icao": "SCKP",
+    "lat": -20.7505,
+    "lon": -68.683502
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Pichidegua",
+    "name": "Almahue Airport",
+    "icao": "SCHG",
+    "lat": -34.3986129760742,
+    "lon": -71.371109008789
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Pichilemu",
+    "name": "Pichilemu Airport",
+    "icao": "SCPM",
+    "lat": -34.3941650390625,
+    "lon": -72.0191650390625
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Pirque",
+    "name": "El Principal Airport",
+    "icao": "SCEP",
+    "lat": -33.724998474121,
+    "lon": -70.5102996826171
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Pucon",
+    "name": "Curimanque Airport",
+    "icao": "SCKQ",
+    "lat": -39.3269462585449,
+    "lon": -72.0272216796875
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Puerto Cisnes",
+    "name": "Puerto Cisnes Airport",
+    "icao": "SCPK",
+    "lat": -44.7458343505859,
+    "lon": -72.7005538940429
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Puerto Guadal",
+    "name": "Meseta Cosmelli Airport",
+    "icao": "SCMC",
+    "lat": -46.7455558776855,
+    "lon": -72.5261077880859
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Puerto Ingeniero IbaÃ±ez",
+    "name": "Puerto Ingeniero IbaÃ±ez Airport",
+    "icao": "SCII",
+    "lat": -46.285831451416,
+    "lon": -71.9477767944336
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Puerto Marin Balmaceda",
+    "name": "Puerto MarÃ­n Balmaceda Airport",
+    "icao": "SCMA",
+    "lat": -43.7863883972168,
+    "lon": -72.9502792358398
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Puerto Octay",
+    "name": "Las Araucarias Airport",
+    "icao": "SCOC",
+    "lat": -40.9930572509765,
+    "lon": -72.6597213745117
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Puerto Sanchez",
+    "name": "Puerto SanchÃ©z Airport",
+    "icao": "SCSZ",
+    "lat": -46.599998474121,
+    "lon": -72.6166687011718
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Puerto Varas",
+    "name": "Don Dobri Airport",
+    "icao": "SCDD",
+    "lat": -41.2347221374511,
+    "lon": -72.5149993896484
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Punta Arenas",
+    "name": "Sandra Scabini Airport",
+    "icao": "SCNS",
+    "lat": -52.3961105346679,
+    "lon": -69.7569427490234
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Purranque",
+    "name": "Corte Alto Airport",
+    "icao": "SCPR",
+    "lat": -40.9433326721191,
+    "lon": -73.1699981689453
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Puyehue",
+    "name": "La Capilla Airport",
+    "icao": "SCYC",
+    "lat": -40.6277770996093,
+    "lon": -72.762222290039
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Puyuhuapi",
+    "name": "Puyuhuapi Airport",
+    "icao": "SCPH",
+    "lat": -44.3856010437011,
+    "lon": -72.5942001342773
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Queilen",
+    "name": "QueilÃ©n Airport",
+    "icao": "SCQX",
+    "lat": -42.8930549621582,
+    "lon": -73.4763870239257
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Quellon",
+    "name": "QuellÃ³n Airport",
+    "icao": "SCON",
+    "lat": -43.1366996765136,
+    "lon": -73.6350021362304
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Quino",
+    "name": "La Colmena Airport",
+    "icao": "SCQC",
+    "lat": -38.3330574035644,
+    "lon": -72.5869445800781
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Rapel",
+    "name": "Rapelhuapi Airport",
+    "icao": "SCRP",
+    "lat": -34.1058006286621,
+    "lon": -71.5128021240234
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Rapel",
+    "name": "La Estrella Airport",
+    "icao": "SCRL",
+    "lat": -34.2011108398437,
+    "lon": -71.4816665649414
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "ReÃ±ihue",
+    "name": "ReÃ±ihÃºe Airport",
+    "icao": "SCRH",
+    "lat": -42.5855560302734,
+    "lon": -72.4944458007812
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Retiro",
+    "name": "Las Alpacas Airport",
+    "icao": "SCAJ",
+    "lat": -36.145278930664,
+    "lon": -71.7630538940429
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Retiro",
+    "name": "San Guillermo Airport",
+    "icao": "SCGI",
+    "lat": -36.0011100769043,
+    "lon": -71.8294448852539
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Retiro",
+    "name": "El Almendro Airport",
+    "icao": "SCRT",
+    "lat": -35.9605560302734,
+    "lon": -71.7933349609375
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Rio Bueno",
+    "name": "Cotreumo Airport",
+    "icao": "SCBN",
+    "lat": -40.4006004333496,
+    "lon": -72.6613998413086
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Rio Bueno",
+    "name": "RucaÃ±anco Airport",
+    "icao": "SCRQ",
+    "lat": -40.5219001770019,
+    "lon": -72.7727966308593
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Rio Cisnes",
+    "name": "Estancia RÃ­o Cisnes Airport",
+    "icao": "SCRE",
+    "lat": -44.5,
+    "lon": -71.321662902832
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Rio Claro",
+    "name": "Bellavista Airport",
+    "icao": "SCBV",
+    "lat": -35.1897239685058,
+    "lon": -71.2966690063476
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Rio Murta",
+    "name": "RÃ­o Murta Airport",
+    "icao": "SCRU",
+    "lat": -46.4533348083496,
+    "lon": -72.6883316040039
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "RÃ­o Negro",
+    "name": "RÃ­o Negro Airport",
+    "icao": "SCRN",
+    "lat": -41.962223,
+    "lon": -72.453888
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Romeral",
+    "name": "Santa BÃ¡rbara Airport",
+    "icao": "SCRO",
+    "lat": -34.9588890075683,
+    "lon": -71.1827774047851
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Sagrada Familia",
+    "name": "Los Cedros Airport",
+    "icao": "SCED",
+    "lat": -35.1549987792968,
+    "lon": -71.5852813720703
+  },
+  {
+    "country": "Chile",
+    "state": "Antofagasta Region",
+    "city": "SalarÂ De Atacama",
+    "name": "Minsal Airport",
+    "icao": "SCSM",
+    "lat": -23.585277557373,
+    "lon": -68.3827743530273
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "San Carlos",
+    "name": "Santa Marta Airport",
+    "icao": "SCKA",
+    "lat": -36.4930572509765,
+    "lon": -71.8969421386718
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "San Clemente",
+    "name": "Colorado Airport",
+    "icao": "SCSK",
+    "lat": -35.6630554199218,
+    "lon": -71.3036117553711
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "San Felipe",
+    "name": "VÃ­ctor LafÃ³n Airport",
+    "icao": "SCSF",
+    "lat": -32.7458000183105,
+    "lon": -70.7050018310546
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "San Fernando",
+    "name": "San Fernando Airport",
+    "icao": "SCSD",
+    "lat": -34.5657997131347,
+    "lon": -70.9682998657226
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "San Javier",
+    "name": "El ParrÃ³n Airport",
+    "icao": "SCJV",
+    "lat": -35.548053741455,
+    "lon": -71.7761077880859
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "San Javier",
+    "name": "Santa MarÃ­a de Mingre Airport",
+    "icao": "SCMG",
+    "lat": -35.570556640625,
+    "lon": -72.0038909912109
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "San Pablo",
+    "name": "Quilpe Airport",
+    "icao": "SCSQ",
+    "lat": -40.3411102294921,
+    "lon": -73.3172225952148
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "San Pedro",
+    "name": "Verfrut Airport",
+    "icao": "SCVF",
+    "lat": -34.0072212219238,
+    "lon": -71.3919448852539
+  },
+  {
+    "country": "Chile",
+    "state": "Antofagasta Region",
+    "city": "San Pedro De Atacama",
+    "name": "San Pedro de Atacama Airport",
+    "icao": "SCPE",
+    "lat": -22.9216995239257,
+    "lon": -68.1584014892578
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Santa Cruz",
+    "name": "Aerosanta Cruz Airport",
+    "icao": "SCUZ",
+    "lat": -34.6491661071777,
+    "lon": -71.3861083984375
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "La Victoria de Chacabuco Airport",
+    "icao": "SCVH",
+    "lat": -33.0508346557617,
+    "lon": -70.7088851928711
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Teno",
+    "name": "Alempue Airport",
+    "icao": "SCAM",
+    "lat": -34.8650016784668,
+    "lon": -71.1019439697265
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Til Til",
+    "name": "Alberto Santos Dumont Airport",
+    "icao": "SCSA",
+    "lat": -33.0286102294921,
+    "lon": -70.8799972534179
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Timaukel",
+    "name": "Azopardo Airport",
+    "icao": "SCAZ",
+    "lat": -54.4797210693359,
+    "lon": -68.9366683959961
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Tirua",
+    "name": "Lequecahue Airport",
+    "icao": "SCQK",
+    "lat": -38.3516654968261,
+    "lon": -73.4886093139648
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "Tongoy",
+    "name": "Tongoy Airport",
+    "icao": "SCTG",
+    "lat": -30.2663879394531,
+    "lon": -71.4836120605468
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Tortel",
+    "name": "RÃ­o Bravo Airport",
+    "icao": "SCRB",
+    "lat": -47.9858322143554,
+    "lon": -73.1388854980468
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Traiguen",
+    "name": "TraiguÃ©n Airport",
+    "icao": "SCTR",
+    "lat": -38.2713890075683,
+    "lon": -72.6624984741211
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Vichuquen",
+    "name": "Cuatro Pantanos Airport",
+    "icao": "SCVQ",
+    "lat": -34.8372230529785,
+    "lon": -72.0650024414062
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Victoria",
+    "name": "MarÃ­a Ester Airport",
+    "icao": "SCVO",
+    "lat": -38.2319450378418,
+    "lon": -72.4833297729492
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "VicuÃ±a",
+    "name": "El Indio Airport",
+    "icao": "SCVC",
+    "lat": -29.8344440460205,
+    "lon": -70.0461120605468
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Vilcun",
+    "name": "Malla Airport",
+    "icao": "SCVY",
+    "lat": -38.6913871765136,
+    "lon": -72.2855529785156
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "Villa O'Higgins",
+    "name": "Villa O'Higgins Airport",
+    "icao": "SCOH",
+    "lat": -48.4692115783691,
+    "lon": -72.5643157958984
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Villarrica",
+    "name": "Villarrica Airport",
+    "icao": "SCVI",
+    "lat": -39.3125,
+    "lon": -72.0622253417968
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "ViÃ±a Del Mar",
+    "name": "Rodelillo Airport",
+    "icao": "SCRD",
+    "lat": -33.0680999755859,
+    "lon": -71.557502746582
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Yumbel",
+    "name": "Trilahue Airport",
+    "icao": "SCYB",
+    "lat": -37.1172218322753,
+    "lon": -72.4111099243164
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "Zapallar",
+    "name": "Casas Viejas Airport",
+    "icao": "SCZC",
+    "lat": -32.5952758789062,
+    "lon": -71.3472213745117
+  },
+  {
+    "country": "Chile",
+    "state": "Antofagasta Region",
+    "city": "Antofagasta",
+    "name": "Eso Heliport",
+    "icao": "SHES",
+    "lat": -24.6383342742919,
+    "lon": -70.3847198486328
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "Casablanca",
+    "name": "Lo Ovalle Heliport",
+    "icao": "SHOV",
+    "lat": -33.2508316040039,
+    "lon": -71.3683319091796
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Concepcion",
+    "name": "Hospital ClÃ­nico Regional de ConcepciÃ³n Heliport",
+    "icao": "SHHC",
+    "lat": -36.8208351135253,
+    "lon": -73.0350036621093
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Curacavi",
+    "name": "La Aurora Heliport",
+    "icao": "SHAU",
+    "lat": -33.4252777099609,
+    "lon": -71.0230560302734
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Farellones",
+    "name": "Valle Nevado Heliport",
+    "icao": "SHDO",
+    "lat": -33.3638877868652,
+    "lon": -70.2516632080078
+  },
+  {
+    "country": "Chile",
+    "state": "TarapacÃ¡ Region",
+    "city": "Iquique",
+    "name": "Cuartel Gral. VI DivisiÃ³n de Ejercito Heliport",
+    "icao": "SHIQ",
+    "lat": -20.2299995422363,
+    "lon": -70.1449966430664
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Las Cabras",
+    "name": "Rapel Heliport",
+    "icao": "SHRP",
+    "lat": -34.212776184082,
+    "lon": -71.4530563354492
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Magallanes",
+    "name": "BaterÃ­a Dungenes NÂº 1 Heliport",
+    "icao": "SHDG",
+    "lat": -52.3808326721191,
+    "lon": -68.4313888549804
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Magallanes",
+    "name": "Cerro Sombrero Heliport",
+    "icao": "SHSB",
+    "lat": -52.7666664123535,
+    "lon": -69.2888870239257
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "Papudo",
+    "name": "Papudo Heliport",
+    "icao": "SHPP",
+    "lat": -32.5002784729003,
+    "lon": -71.4591674804687
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Pirque",
+    "name": "Nazareno Heliport",
+    "icao": "SHNZ",
+    "lat": -33.6527786254882,
+    "lon": -70.5272216796875
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Posesion",
+    "name": "PosesiÃ³n 5 Heliport",
+    "icao": "SHSI",
+    "lat": -52.2683334350585,
+    "lon": -69.0733337402343
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Punta Arenas",
+    "name": "Catalina Norte 1 Heliport",
+    "icao": "SHNC",
+    "lat": -52.5636100769043,
+    "lon": -68.675552368164
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Punta Catalina",
+    "name": "Punta Catalina Heliport",
+    "icao": "SHPU",
+    "lat": -52.5458335876464,
+    "lon": -68.7583312988281
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Punta Catalina",
+    "name": "Skua 4 Heliport",
+    "icao": "SHSU",
+    "lat": -52.3758316040039,
+    "lon": -68.7886123657226
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Nazareno II Heliport",
+    "icao": "SHAH",
+    "lat": -33.4000015258789,
+    "lon": -70.5738983154296
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Banco Exterior Heliport",
+    "icao": "SHBE",
+    "lat": -33.4361114501953,
+    "lon": -70.6449966430664
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Banco Santander Heliport",
+    "icao": "SHBS",
+    "lat": -33.4361114501953,
+    "lon": -70.6513900756836
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "ClÃ­nica Las Condes Heliport",
+    "icao": "SHCC",
+    "lat": -33.3852767944335,
+    "lon": -70.5308303833007
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Edificio Bank Boston Heliport",
+    "icao": "SHEC",
+    "lat": -33.4124984741,
+    "lon": -70.5911102295
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Escuela de Investigaciones Policiales Heliport",
+    "icao": "SHEI",
+    "lat": -33.4594459533691,
+    "lon": -70.7166671752929
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "El Conquistador Heliport",
+    "icao": "SHEQ",
+    "lat": -33.3705558776855,
+    "lon": -70.6505584716796
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Gertrudis EcheÃ±ique Heliport",
+    "icao": "SHGE",
+    "lat": -33.4136123657226,
+    "lon": -70.5897216796875
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Hospital de Carabineros Heliport",
+    "icao": "SHHI",
+    "lat": -33.417763,
+    "lon": -70.528879
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Hospital Militar Heliport",
+    "icao": "SHHM",
+    "lat": -33.4152793884277,
+    "lon": -70.6033325195312
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Hospital San JosÃ© Heliport",
+    "icao": "SHJO",
+    "lat": -33.4086112976074,
+    "lon": -70.6522216796875
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Las Americas Heliport",
+    "icao": "SHLA",
+    "lat": -33.4358329772949,
+    "lon": -70.6433334350586
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "ClÃ­nica Santa MarÃ­a Heliport",
+    "icao": "SHMA",
+    "lat": -33.4322204589843,
+    "lon": -70.6283340454101
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Ministerio de Defensa Nacional Heliport",
+    "icao": "SHMD",
+    "lat": -33.4352760314941,
+    "lon": -70.6380538940429
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Nueva de Lyon Heliport",
+    "icao": "SHNL",
+    "lat": -33.4174995422363,
+    "lon": -70.6080551147461
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Santiago Centro Heliport",
+    "icao": "SHSC",
+    "lat": -33.439167022705,
+    "lon": -70.6480560302734
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Edificio Torre Santa MarÃ­a Heliport",
+    "icao": "SHSM",
+    "lat": -33.4166679382324,
+    "lon": -70.6166687011718
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Edificio Torre San RamÃ³n Heliport",
+    "icao": "SHSR",
+    "lat": -33.4166679382324,
+    "lon": -70.603889465332
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Edificio Corporativo CTC Heliport",
+    "icao": "SHTC",
+    "lat": -33.4369430541992,
+    "lon": -70.6324996948242
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Subteniente Marcelo Topali Heliport",
+    "icao": "SHTO",
+    "lat": -33.4388885498046,
+    "lon": -70.6350021362304
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "Temuco",
+    "name": "Hospital Regional de Temuco Heliport",
+    "icao": "SHSS",
+    "lat": -38.7358322143554,
+    "lon": -72.5983352661132
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Valdivia",
+    "name": "Quinn Heliport",
+    "icao": "SHQN",
+    "lat": -39.8525009155273,
+    "lon": -73.2572021484375
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "ViÃ±a Del Mar",
+    "name": "Las Salinas Heliport",
+    "icao": "SHLS",
+    "lat": -32.9958343505859,
+    "lon": -71.5472259521484
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Yerbas Buenas",
+    "name": "Esmeralda Heliport",
+    "icao": "SHEE",
+    "lat": -35.7200012207031,
+    "lon": -71.5097198486328
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "Zapallar",
+    "name": "Cachagua Heliport",
+    "icao": "SHCG",
+    "lat": -32.5788879394531,
+    "lon": -71.4544448852539
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Magallanes Region",
+    "name": "Oazy Harbour Airport",
+    "icao": "CL-0005",
+    "lat": -52.5427,
+    "lon": -70.535
+  },
+  {
+    "country": "Chile",
+    "state": "AysÃ©n Region",
+    "city": "AysÃ©n",
+    "name": "RÃ­o Exploradores Airport",
+    "icao": "SCEX",
+    "lat": -46.353611,
+    "lon": -73.327778
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "Cartagena",
+    "name": "ViÃ±a Matetic Heliport",
+    "icao": "SHVM",
+    "lat": -33.469444,
+    "lon": -71.399167
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Coihueco",
+    "name": "Pullami Airport",
+    "icao": "SCPI",
+    "lat": -36.586667,
+    "lon": -71.807778
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "El Chaiten",
+    "name": "Poyo Airport",
+    "icao": "SCYO",
+    "lat": -42.226667,
+    "lon": -72.693611
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Futrono",
+    "name": "Golfo Azul Airport",
+    "icao": "SCGF",
+    "lat": -40.140833,
+    "lon": -72.283611
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Hualanne",
+    "name": "Los Coipos Airport",
+    "icao": "SCOI",
+    "lat": -34.912778,
+    "lon": -71.660833
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Isla De Maipo",
+    "name": "Los Paltos Heliport",
+    "icao": "SHAL",
+    "lat": -33.725556,
+    "lon": -70.930278
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Las Condes",
+    "name": "Isidora 3000 Heliport",
+    "icao": "SHIS",
+    "lat": -33.413889,
+    "lon": -70.597778
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Longavi",
+    "name": "Las Moras Airport",
+    "icao": "SCMS",
+    "lat": -36.010278,
+    "lon": -71.594444
+  },
+  {
+    "country": "Chile",
+    "state": "Maule Region",
+    "city": "Molina",
+    "name": "El BaÃºl Airstrip",
+    "icao": "SCBU",
+    "lat": -35.341435,
+    "lon": -70.9108
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Onaisin",
+    "name": "Onaisin Airport",
+    "icao": "CL-0006",
+    "lat": -53.3812,
+    "lon": -69.293
+  },
+  {
+    "country": "Chile",
+    "state": "Coquimbo Region",
+    "city": "Ovalle",
+    "name": "Santa Rosa De TabalÃ­ Heliport",
+    "icao": "SHOT",
+    "lat": -30.679444,
+    "lon": -71.408611
+  },
+  {
+    "country": "Chile",
+    "state": "ValparaÃ­so Region",
+    "city": "Puchuncavi",
+    "name": "Aguas Blancas Heliport",
+    "icao": "SHAB",
+    "lat": -32.665556,
+    "lon": -71.440278
+  },
+  {
+    "country": "Chile",
+    "state": "Los Lagos Region",
+    "city": "Purranque",
+    "name": "Cuyumaique Airport",
+    "icao": "SCYU",
+    "lat": -40.940556,
+    "lon": -73.011667
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Rapel",
+    "name": "Las Aguilas Oriente Airport",
+    "icao": "SCMR",
+    "lat": -34.169167,
+    "lon": -71.531111
+  },
+  {
+    "country": "Chile",
+    "state": "Los RÃ­os Region",
+    "city": "Rio Bueno",
+    "name": "PurrahuÃ­n Airport",
+    "icao": "SCRR",
+    "lat": -40.365278,
+    "lon": -72.776667
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "San Gregorio",
+    "name": "Tres Chorrillos Airport",
+    "icao": "SCTH",
+    "lat": -52.525278,
+    "lon": -70.723889
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "San Pedro",
+    "name": "La CabaÃ±a Heliport",
+    "icao": "SHME",
+    "lat": -33.974615,
+    "lon": -71.388481
+  },
+  {
+    "country": "Chile",
+    "state": "BÃ­o-BÃ­o Region",
+    "city": "Santa Barbara",
+    "name": "Santa Luisa Airport",
+    "icao": "SCTA",
+    "lat": -37.743889,
+    "lon": -71.71
+  },
+  {
+    "country": "Chile",
+    "state": "O'Higgins Region",
+    "city": "Santa Cruz",
+    "name": "La Puerta Airport",
+    "icao": "SCPT",
+    "lat": -34.613056,
+    "lon": -71.375833
+  },
+  {
+    "country": "Chile",
+    "state": "Magallanes Region",
+    "city": "Santa Maria",
+    "name": "Cinco de Enero Airport",
+    "icao": "CL-0004",
+    "lat": -52.595,
+    "lon": -70.3521
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Los Cerrillos Military Heliport",
+    "icao": "SHFA",
+    "lat": -33.496389,
+    "lon": -70.695278
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Clinica Alemana Helipad",
+    "icao": "CL-0008",
+    "lat": -33.392103,
+    "lon": -70.572969
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "EjÃ©rcito Bicentenario Helipad",
+    "icao": "SHEB",
+    "lat": -33.457784,
+    "lon": -70.657424
+  },
+  {
+    "country": "Chile",
+    "state": "Santiago Metropolitan Region",
+    "city": "Santiago",
+    "name": "Moneda Bicentenario Heliport",
+    "icao": "SHSP",
+    "lat": -33.442778,
+    "lon": -70.655
+  },
+  {
+    "country": "Chile",
+    "state": "AraucanÃ­a Region",
+    "city": "VilcÃºn",
+    "name": "La VerÃ³nica Airport",
+    "icao": "SCRV",
+    "lat": -38.611389,
+    "lon": -72.128889
+  }
+]

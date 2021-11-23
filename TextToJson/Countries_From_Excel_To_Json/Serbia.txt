@@ -1,0 +1,209 @@
+[
+  {
+    "country": "Serbia",
+    "state": "Srem",
+    "city": "Batajnica",
+    "name": "Batajnica Air Base",
+    "icao": "LYBT",
+    "lat": 44.935299,
+    "lon": 20.2575
+  },
+  {
+    "country": "Serbia",
+    "state": "Beograd (city)",
+    "city": "Belgrade",
+    "name": "Airport Lisicji Jarak",
+    "icao": "LYBJ",
+    "lat": 44.9397222,
+    "lon": 20.4455556
+  },
+  {
+    "country": "Serbia",
+    "state": "RaÅ¡ka",
+    "city": "Kraljevo",
+    "name": "Kraljevo Brege",
+    "icao": "LYKA",
+    "lat": 43.7318,
+    "lon": 20.717969
+  },
+  {
+    "country": "Serbia",
+    "state": "Central Banat",
+    "city": "Zrenjanin",
+    "name": "Zrenjanin Airport",
+    "icao": "LYZR",
+    "lat": 45.339756,
+    "lon": 20.454078
+  },
+  {
+    "country": "Serbia",
+    "state": "Zlatibor",
+    "city": "UÅ¾ice",
+    "name": "Ponikve Airport",
+    "icao": "LY88",
+    "lat": 43.898899,
+    "lon": 19.697701
+  },
+  {
+    "country": "Serbia",
+    "state": "South Banat",
+    "city": "Bela Crkva",
+    "name": "Bela Crkva Airport",
+    "icao": "RS-0001",
+    "lat": 44.925166,
+    "lon": 21.370155
+  },
+  {
+    "country": "Serbia",
+    "state": "Toplica",
+    "city": "Bojnik",
+    "name": "Bojnik Airport",
+    "icao": "RS-0002",
+    "lat": 42.997299,
+    "lon": 21.721901
+  },
+  {
+    "country": "Serbia",
+    "state": "Bor",
+    "city": "Bor",
+    "name": "Bor Airport",
+    "icao": "LY89",
+    "lat": 44.0182,
+    "lon": 22.1371
+  },
+  {
+    "country": "Serbia",
+    "state": "RaÅ¡ka",
+    "city": "Kraljevo",
+    "name": "Morava Airport",
+    "icao": "LYKV",
+    "lat": 43.818298,
+    "lon": 20.5872
+  },
+  {
+    "country": "Serbia",
+    "state": "Beograd (city)",
+    "city": "Beograd (city)",
+    "name": "BanjiÄki Vis Heliport",
+    "icao": "RS-0009",
+    "lat": 44.7623,
+    "lon": 20.4714
+  },
+  {
+    "country": "Serbia",
+    "state": "ParacÃ­n",
+    "city": "ParacÃ­n",
+    "name": "ParacÃ­n",
+    "icao": "LYPN",
+    "lat": 43.8663889,
+    "lon": 21.4869444
+  },
+  {
+    "country": "Serbia",
+    "state": "South Banat",
+    "city": "South Banat",
+    "name": "VrÅ¡aÄki Ritovi Airstrip",
+    "icao": "RS-0013",
+    "lat": 45.1594444,
+    "lon": 21.185
+  },
+  {
+    "country": "Serbia",
+    "state": "Aerodrom Vojka Nova Pazova",
+    "city": "Aerodrom Vojka Nova Pazova",
+    "name": "Aerodrom Vojka Nova Pazova",
+    "icao": "RS-0005",
+    "lat": 44.9343253,
+    "lon": 20.1716347
+  },
+  {
+    "country": "Serbia",
+    "state": "Moravica",
+    "city": "ÄŒaÄak",
+    "name": "ÄŒaÄak-Preljina Airport",
+    "icao": "LYCA",
+    "lat": 43.8981,
+    "lon": 20.435
+  },
+  {
+    "country": "Serbia",
+    "state": "Srem",
+    "city": "Progar",
+    "name": "Progar Airstrip",
+    "icao": "RS-0014",
+    "lat": 44.7231987,
+    "lon": 20.1748266
+  },
+  {
+    "country": "Serbia",
+    "state": "Zlatibor",
+    "city": "Sjenica",
+    "name": "Sjenica Air Base",
+    "icao": "RS-0004",
+    "lat": 43.273784,
+    "lon": 20.046188
+  },
+  {
+    "country": "Serbia",
+    "state": "West BaÄka",
+    "city": "Sombor",
+    "name": "Backi Monostor Airfield",
+    "icao": "RS-0006",
+    "lat": 45.7850337,
+    "lon": 19.0191747
+  },
+  {
+    "country": "Serbia",
+    "state": "Srem",
+    "city": "Sremska Mitrovica",
+    "name": "Veliki Radinci Airfield",
+    "icao": "LYSM",
+    "lat": 45.037453,
+    "lon": 19.660661
+  },
+  {
+    "country": "Serbia",
+    "state": "Srem",
+    "city": "SurÄin",
+    "name": "SurÄin Airstrip",
+    "icao": "RS-0011",
+    "lat": 44.768889,
+    "lon": 20.304722
+  },
+  {
+    "country": "Serbia",
+    "state": "(unassigned)",
+    "city": "Titel",
+    "name": "Titel Airstrip",
+    "icao": "RS-0012",
+    "lat": 45.1975,
+    "lon": 20.2788889
+  },
+  {
+    "country": "Serbia",
+    "state": "Rasina",
+    "city": "Trstenik",
+    "name": "Trstenik Airport",
+    "icao": "LYTR",
+    "lat": 43.614189,
+    "lon": 21.030217
+  },
+  {
+    "country": "Serbia",
+    "state": "Kolubara",
+    "city": "Valjevo",
+    "name": "Divci Airport",
+    "icao": "LYVA",
+    "lat": 44.297817,
+    "lon": 20.021913
+  },
+  {
+    "country": "Serbia",
+    "state": "Beograd (city)",
+    "city": "Zemun Polje",
+    "name": "Aerodrom \"13.Maj\"",
+    "icao": "RS-0003",
+    "lat": 44.876444,
+    "lon": 20.305917
+  }
+]

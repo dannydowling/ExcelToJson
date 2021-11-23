@@ -1,0 +1,11 @@
+[
+  {
+    "country": "British Indian Ocean Territory",
+    "state": "(unassigned)",
+    "city": "Diego Garcia",
+    "name": "Diego Garcia Naval Support Facility",
+    "icao": "FJDG",
+    "lat": -7.31327,
+    "lon": 72.411102
+  }
+]

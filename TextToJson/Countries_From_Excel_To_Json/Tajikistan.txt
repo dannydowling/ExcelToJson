@@ -1,0 +1,74 @@
+[
+  {
+    "country": "Tajikistan",
+    "state": "Sughd Region",
+    "city": "Khudzhand",
+    "name": "Khudzhand Airport",
+    "icao": "UTDL",
+    "lat": 40.2154006958007,
+    "lon": 69.6947021484375
+  },
+  {
+    "country": "Tajikistan",
+    "state": "Sughd Region",
+    "city": "Isfara",
+    "name": "Isfara Airport",
+    "icao": "UT1A",
+    "lat": 40.1206016540527,
+    "lon": 70.6752014160156
+  },
+  {
+    "country": "Tajikistan",
+    "state": "Gorno-Badakhshan Autonomous Region",
+    "city": "Khorog",
+    "name": "Khorog Airport",
+    "icao": "UT1C",
+    "lat": 37.502222,
+    "lon": 71.513333
+  },
+  {
+    "country": "Tajikistan",
+    "state": "Khatlon Region",
+    "city": "Kulyab",
+    "name": "Kulob Airport",
+    "icao": "UTDK",
+    "lat": 37.9880981445312,
+    "lon": 69.8050003051757
+  },
+  {
+    "country": "Tajikistan",
+    "state": "Khatlon Region",
+    "city": "Dusti",
+    "name": "Dusti Airfield",
+    "icao": "TJ-0002",
+    "lat": 37.3699989318847,
+    "lon": 68.6839981079101
+  },
+  {
+    "country": "Tajikistan",
+    "state": "Districts of Republican Subordination",
+    "city": "Dzhirgatal",
+    "name": "Dzhirgatal Airport",
+    "icao": "TJ-0001",
+    "lat": 39.2299995422363,
+    "lon": 71.2149963378906
+  },
+  {
+    "country": "Tajikistan",
+    "state": "Districts of Republican Subordination",
+    "city": "Garm",
+    "name": "Garm Airport",
+    "icao": "TJ-0005",
+    "lat": 39.0038888889,
+    "lon": 70.2902777778
+  },
+  {
+    "country": "Tajikistan",
+    "state": "Sughd Region",
+    "city": "Panjakent",
+    "name": "Penjikent Airport",
+    "icao": "TJ-0004",
+    "lat": 39.4822222221999,
+    "lon": 67.6055555556
+  }
+]

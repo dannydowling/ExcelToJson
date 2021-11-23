@@ -1,0 +1,164 @@
+[
+  {
+    "country": "Guyana",
+    "state": "Demerara-Mahaica",
+    "city": "Georgetown",
+    "name": "Cheddi Jagan International Airport",
+    "icao": "SYCJ",
+    "lat": 6.4985499382019,
+    "lon": -58.2541007995605
+  },
+  {
+    "country": "Guyana",
+    "state": "Demerara-Mahaica",
+    "city": "Ogle",
+    "name": "Eugene F. Correira International Airport",
+    "icao": "SYGO",
+    "lat": 6.80628,
+    "lon": -58.1059
+  },
+  {
+    "country": "Guyana",
+    "state": "Upper Takutu-Upper Essequibo",
+    "city": "Lethem",
+    "name": "Lethem Airport",
+    "icao": "SYLT",
+    "lat": 3.37276,
+    "lon": -59.789398
+  },
+  {
+    "country": "Guyana",
+    "state": "Potaro-Siparuni",
+    "city": "Orinduik",
+    "name": "Orinduik Airport",
+    "icao": "SYOR",
+    "lat": 4.72527,
+    "lon": -60.035
+  },
+  {
+    "country": "Guyana",
+    "state": "Upper Takutu-Upper Essequibo",
+    "city": "Aishalton",
+    "name": "Aishalton Airport",
+    "icao": "SYAH",
+    "lat": 2.48653006553649,
+    "lon": -59.3134002685546
+  },
+  {
+    "country": "Guyana",
+    "state": "Upper Takutu-Upper Essequibo",
+    "city": "Apoteri",
+    "name": "Apoteri Airport",
+    "icao": "SYAP",
+    "lat": 4.01387977600097,
+    "lon": -58.6049995422363
+  },
+  {
+    "country": "Guyana",
+    "state": "Upper Takutu-Upper Essequibo",
+    "city": "Awaruwaunau",
+    "name": "Awaruwaunau Airport",
+    "icao": "SYAW",
+    "lat": 2.65000009536743,
+    "lon": -59.2000007629394
+  },
+  {
+    "country": "Guyana",
+    "state": "Upper Takutu-Upper Essequibo",
+    "city": "Karasabai",
+    "name": "Karasabai Airport",
+    "icao": "SYKS",
+    "lat": 4.03332996368408,
+    "lon": -59.5332984924316
+  },
+  {
+    "country": "Guyana",
+    "state": "Potaro-Siparuni",
+    "city": "Kato",
+    "name": "Kato Airport",
+    "icao": "SYKT",
+    "lat": 4.64915990829467,
+    "lon": -59.8321990966796
+  },
+  {
+    "country": "Guyana",
+    "state": "Upper Demerara-Berbice",
+    "city": "Kwakwani",
+    "name": "Kwakwani Airport",
+    "icao": "SYKW",
+    "lat": 5.28332996368408,
+    "lon": -58.0499992370605
+  },
+  {
+    "country": "Guyana",
+    "state": "Potaro-Siparuni",
+    "city": "Mahdia",
+    "name": "Mahdia Airport",
+    "icao": "SYMD",
+    "lat": 5.27749013900756,
+    "lon": -59.1511001586914
+  },
+  {
+    "country": "Guyana",
+    "state": "Potaro-Siparuni",
+    "city": "Monkey Mountain",
+    "name": "Monkey Mountain Airport",
+    "icao": "SYMM",
+    "lat": 4.48332977294921,
+    "lon": -59.6833000183105
+  },
+  {
+    "country": "Guyana",
+    "state": "Cuyuni-Mazaruni",
+    "city": "Paruma",
+    "name": "Paruma Airport",
+    "icao": "SYPR",
+    "lat": 5.8154501914978,
+    "lon": -61.0554008483886
+  },
+  {
+    "country": "Guyana",
+    "state": "Potaro-Siparuni",
+    "city": "Potaro-Siparuni",
+    "name": "Cipo Airstrip",
+    "icao": "SYCP",
+    "lat": 4.81955,
+    "lon": -60.025623
+  },
+  {
+    "country": "Guyana",
+    "state": "Upper Takutu-Upper Essequibo",
+    "city": "Dadanawa",
+    "name": "Dadanawa Airport",
+    "icao": "SYDW",
+    "lat": 2.82555,
+    "lon": -59.5242
+  },
+  {
+    "country": "Guyana",
+    "state": "Potaro-Siparuni",
+    "city": "Paramakatoi",
+    "name": "Paramakatoi Airport",
+    "icao": "SYPM",
+    "lat": 4.6975,
+    "lon": -59.7125
+  },
+  {
+    "country": "Guyana",
+    "state": "Upper Takutu-Upper Essequibo",
+    "city": "Sand Creek",
+    "name": "Sand Creek Airport",
+    "icao": "SYSC",
+    "lat": 2.9913,
+    "lon": -59.51
+  },
+  {
+    "country": "Guyana",
+    "state": "East Berbice-Corentyne",
+    "city": "Skeldon",
+    "name": "Skeldon Airport",
+    "icao": "SYSK",
+    "lat": 5.8599,
+    "lon": -57.14894
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Equatorial Guinea",
+    "state": "Bioko Norte",
+    "city": "Malabo",
+    "name": "Malabo Airport",
+    "icao": "FGSL",
+    "lat": 3.75527000427246,
+    "lon": 8.70872020721435
+  },
+  {
+    "country": "Equatorial Guinea",
+    "state": "Centro Sur",
+    "city": "MÃ©douneu, Gabon",
+    "name": "MÃ©douneu Airport",
+    "icao": "MDV",
+    "lat": 1.0085,
+    "lon": 10.7552
+  },
+  {
+    "country": "Equatorial Guinea",
+    "state": "Wele-Nzas",
+    "city": "Mongomo",
+    "name": "Mongomo Airport",
+    "icao": "GQ-0001",
+    "lat": 1.636607,
+    "lon": 11.302458
+  },
+  {
+    "country": "Equatorial Guinea",
+    "state": "Annobon",
+    "city": "San Antonio de PalÃ©",
+    "name": "AnnobÃ³n Airport",
+    "icao": "FGAB",
+    "lat": -1.410277,
+    "lon": 5.621944
+  }
+]

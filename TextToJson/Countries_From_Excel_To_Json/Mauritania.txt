@@ -1,0 +1,101 @@
+[
+  {
+    "country": "Mauritania",
+    "state": "Nouakchott Region",
+    "city": "Nouakchott",
+    "name": "Nouakchott International Airport",
+    "icao": "GQNN",
+    "lat": 18.0982,
+    "lon": -15.9485
+  },
+  {
+    "country": "Mauritania",
+    "state": "Adrar Region",
+    "city": "Atar",
+    "name": "Atar International Airport",
+    "icao": "GQPA",
+    "lat": 20.5067996978759,
+    "lon": -13.0431995391845
+  },
+  {
+    "country": "Mauritania",
+    "state": "Nouakchott Region",
+    "city": "Nouakchott",
+    "name": "Nouakchottâ€“Oumtounsy International Airport",
+    "icao": "GQNO",
+    "lat": 18.31,
+    "lon": -15.9697222
+  },
+  {
+    "country": "Mauritania",
+    "state": "Dakhlet Nouadhibou Region",
+    "city": "Nouadhibou",
+    "name": "Nouadhibou International Airport",
+    "icao": "GQPP",
+    "lat": 20.9330997467041,
+    "lon": -17.0300006866455
+  },
+  {
+    "country": "Mauritania",
+    "state": "Tiris Zemmour Region",
+    "city": "ZouÃ©rate",
+    "name": "Tazadit Airport",
+    "icao": "GQPZ",
+    "lat": 22.756399,
+    "lon": -12.4836
+  },
+  {
+    "country": "Mauritania",
+    "state": "Assaba Region",
+    "city": "Kiffa",
+    "name": "Kiffa Airport",
+    "icao": "GQNF",
+    "lat": 16.59,
+    "lon": -11.4062
+  },
+  {
+    "country": "Mauritania",
+    "state": "Tagant Region",
+    "city": "Tidjikja",
+    "name": "Tidjikja Airport",
+    "icao": "GQND",
+    "lat": 18.570101,
+    "lon": -11.4235
+  },
+  {
+    "country": "Mauritania",
+    "state": "Brakna Region",
+    "city": "Boghe",
+    "name": "Abbaye Airport",
+    "icao": "GQNE",
+    "lat": 16.6333141326904,
+    "lon": -14.2000007629394
+  },
+  {
+    "country": "Mauritania",
+    "state": "Brakna Region",
+    "city": "Moudjeria",
+    "name": "Letfotar Airport",
+    "icao": "GQNL",
+    "lat": 17.75,
+    "lon": -12.5
+  },
+  {
+    "country": "Mauritania",
+    "state": "Hodh ech Chargui Region",
+    "city": "Timbreda",
+    "name": "Dahara Airport",
+    "icao": "GQNM",
+    "lat": 16.2999992370605,
+    "lon": -8.05000019073486
+  },
+  {
+    "country": "Mauritania",
+    "state": "Hodh ech Chargui Region",
+    "city": "NÃ©ma",
+    "name": "Old NÃ©ma Airport",
+    "icao": "MR-0001",
+    "lat": 16.6057,
+    "lon": -7.2835
+  }
+]

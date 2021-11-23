@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Isle of Man",
+    "state": "(unassigned)",
+    "city": "Castletown",
+    "name": "Isle of Man Airport",
+    "icao": "EGNS",
+    "lat": 54.0833015441894,
+    "lon": -4.6238899230957
+  },
+  {
+    "country": "Isle of Man",
+    "state": "(unassigned)",
+    "city": "Andreas, IoM",
+    "name": "Ballavoddan House Airstrip",
+    "icao": "IM-0004",
+    "lat": 54.356006,
+    "lon": -4.438477
+  },
+  {
+    "country": "Isle of Man",
+    "state": "(unassigned)",
+    "city": "Douglas",
+    "name": "Noble's Hospital Heliport",
+    "icao": "IM-0005",
+    "lat": 54.1703682,
+    "lon": -4.507838
+  },
+  {
+    "country": "Isle of Man",
+    "state": "(unassigned)",
+    "city": "Jurby",
+    "name": "RAF Jurby",
+    "icao": "IM-0002",
+    "lat": 54.354,
+    "lon": -4.5238
+  }
+]

@@ -1,0 +1,461 @@
+[
+  {
+    "country": "North Korea",
+    "state": "Pyongyang (capital city)",
+    "city": "Pyongyang",
+    "name": "Pyongyang Sunan International Airport",
+    "icao": "ZKPY",
+    "lat": 39.224098,
+    "lon": 125.669998
+  },
+  {
+    "country": "North Korea",
+    "state": "North Hamgyong Province",
+    "city": "Chongjin",
+    "name": "Chongjin Airport",
+    "icao": "KP-0001",
+    "lat": 41.8013000487999,
+    "lon": 129.854995728
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hwanghae Province",
+    "city": "Haeju",
+    "name": "Haeju Airfield",
+    "icao": "KP-0002",
+    "lat": 38.00739,
+    "lon": 125.777321
+  },
+  {
+    "country": "North Korea",
+    "state": "North Hwanghae Province",
+    "city": "North Hwanghae Province",
+    "name": "Taebukpo Ri Airport",
+    "icao": "KP-0007",
+    "lat": 38.333801,
+    "lon": 126.869003
+  },
+  {
+    "country": "North Korea",
+    "state": "North Hwanghae Province",
+    "city": "North Hwanghae Province",
+    "name": "Ayang Ni Highway Strip",
+    "icao": "KP-0037",
+    "lat": 38.251763,
+    "lon": 125.964067
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hwanghae Province",
+    "city": "Ch'o do",
+    "name": "Ch'o do Airport",
+    "icao": "KP-0099",
+    "lat": 38.551953,
+    "lon": 124.83261
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hamgyong Province",
+    "city": "Changjin",
+    "name": "Changjin Air Force Base",
+    "icao": "KP-0036",
+    "lat": 40.364375,
+    "lon": 127.264252
+  },
+  {
+    "country": "North Korea",
+    "state": "North Hamgyong Province",
+    "city": "Chongjin",
+    "name": "Sungam ni Airport",
+    "icao": "KP-0044",
+    "lat": 41.674386,
+    "lon": 129.676437
+  },
+  {
+    "country": "North Korea",
+    "state": "Kangwon Province",
+    "city": "Hoeyang",
+    "name": "Hyon-ni Airport",
+    "icao": "KP-0019",
+    "lat": 38.613517,
+    "lon": 127.452393
+  },
+  {
+    "country": "North Korea",
+    "state": "North Hwanghae Province",
+    "city": "Hwasong-ni",
+    "name": "Wong Yo Ri Highway Strip",
+    "icao": "KP-0024",
+    "lat": 38.59404,
+    "lon": 126.526558
+  },
+  {
+    "country": "North Korea",
+    "state": "Ryanggang Province",
+    "city": "Hyesan",
+    "name": "Hyesan Airport",
+    "icao": "KP-0060",
+    "lat": 41.377581,
+    "lon": 128.203583
+  },
+  {
+    "country": "North Korea",
+    "state": "Kangwon Province",
+    "city": "Ichon",
+    "name": "Ichon Airport",
+    "icao": "KP-0034",
+    "lat": 38.48225,
+    "lon": 126.858788
+  },
+  {
+    "country": "North Korea",
+    "state": "Kangwon Province",
+    "city": "Kojo",
+    "name": "Kojo Highway Strip Airfield",
+    "icao": "KP-0057",
+    "lat": 38.836632,
+    "lon": 127.861977
+  },
+  {
+    "country": "North Korea",
+    "state": "North Hwanghae Province",
+    "city": "Koksan",
+    "name": "Koksan Air Base",
+    "icao": "KP-0015",
+    "lat": 38.690201,
+    "lon": 126.606003
+  },
+  {
+    "country": "North Korea",
+    "state": "North Pyongan Province",
+    "city": "Kusong",
+    "name": "Panghyon Airport",
+    "icao": "KP-0031",
+    "lat": 39.927444,
+    "lon": 125.207748
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hwanghae Province",
+    "city": "Kwail",
+    "name": "Kwail Air Base",
+    "icao": "KP-0039",
+    "lat": 38.425487,
+    "lon": 125.019093
+  },
+  {
+    "country": "North Korea",
+    "state": "Pyongyang (capital city)",
+    "city": "Mirim",
+    "name": "Mirim Airbase",
+    "icao": "KP-0011",
+    "lat": 39.017583,
+    "lon": 125.844913
+  },
+  {
+    "country": "North Korea",
+    "state": "North Hamgyong Province",
+    "city": "Myonggan",
+    "name": "Kuktong Airport",
+    "icao": "KP-0056",
+    "lat": 41.249741,
+    "lon": 129.563699
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hwanghae Province",
+    "city": "Nuchon Ni",
+    "name": "Nuchon Ni Highway Strip",
+    "icao": "KP-0052",
+    "lat": 38.232045,
+    "lon": 126.264153
+  },
+  {
+    "country": "North Korea",
+    "state": "South Pyongan Province",
+    "city": "Onchon",
+    "name": "Onchon Airport",
+    "icao": "KP-0023",
+    "lat": 38.909402,
+    "lon": 125.232553
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hwanghae Province",
+    "city": "Ongjin",
+    "name": "Ongjin Airport",
+    "icao": "KP-0050",
+    "lat": 37.93225,
+    "lon": 125.419664
+  },
+  {
+    "country": "North Korea",
+    "state": "Ryanggang Province",
+    "city": "Paegam",
+    "name": "Paegam Airstrip",
+    "icao": "KP-0049",
+    "lat": 41.943835,
+    "lon": 128.851111
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hamgyong Province",
+    "city": "Phungsong-ri",
+    "name": "Yong Hung Highway Airstrip",
+    "icao": "KP-0040",
+    "lat": 39.482282,
+    "lon": 127.322102
+  },
+  {
+    "country": "North Korea",
+    "state": "North Hwanghae Province",
+    "city": "Pyongsul Li",
+    "name": "Pyongsul Li Airstrip",
+    "icao": "KP-0048",
+    "lat": 38.719369,
+    "lon": 126.721072
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hwanghae Province",
+    "city": "Sinwon",
+    "name": "Ihyon Airstrip",
+    "icao": "KP-0059",
+    "lat": 38.130269,
+    "lon": 125.849204
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hamgyong Province",
+    "city": "SÅndÅng-ni",
+    "name": "Sondok Airport",
+    "icao": "ZKSD",
+    "lat": 39.745201,
+    "lon": 127.473999
+  },
+  {
+    "country": "North Korea",
+    "state": "South Pyongan Province",
+    "city": "Sunchon",
+    "name": "Sunchon Air Base",
+    "icao": "ZKSC",
+    "lat": 39.415699,
+    "lon": 125.894997
+  },
+  {
+    "country": "North Korea",
+    "state": "North Pyongan Province",
+    "city": "Taechon",
+    "name": "Taechon Airport",
+    "icao": "KP-0006",
+    "lat": 39.9039,
+    "lon": 125.491997
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hwanghae Province",
+    "city": "Taetan",
+    "name": "T'aet'an-pihaengjang Airport",
+    "icao": "KP-0005",
+    "lat": 38.131113,
+    "lon": 125.233154
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hamgyong Province",
+    "city": "TÅksan-dong",
+    "name": "Toksan Air Base",
+    "icao": "KP-0025",
+    "lat": 39.996257,
+    "lon": 127.611694
+  },
+  {
+    "country": "North Korea",
+    "state": "Kangwon Province",
+    "city": "Tongchon",
+    "name": "Kuum-ni Airport",
+    "icao": "KP-0013",
+    "lat": 38.864707,
+    "lon": 127.904034
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hwanghae Province",
+    "city": "Unchon Up",
+    "name": "Unchon Up Airport",
+    "icao": "KP-0064",
+    "lat": 38.548316,
+    "lon": 125.337203
+  },
+  {
+    "country": "North Korea",
+    "state": "Kangwon Province",
+    "city": "Wonsan",
+    "name": "Wonsan Kalma International Airport",
+    "icao": "ZKWS",
+    "lat": 39.166801,
+    "lon": 127.486
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hamgyong Province",
+    "city": "Cheagun-dong",
+    "name": "Pâ€™yongnyung-Ni Helicopter Base",
+    "icao": "KP-0079",
+    "lat": 40.969416,
+    "lon": 129.248378
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hamgyong Province",
+    "city": "Hamhung",
+    "name": "Yonpo Air Base",
+    "icao": "KP-0003",
+    "lat": 39.792215,
+    "lon": 127.535906
+  },
+  {
+    "country": "North Korea",
+    "state": "Ryanggang Province",
+    "city": "Hwangsuwon",
+    "name": "Hwangsuwon Highway Strip Airstrip",
+    "icao": "KP-0072",
+    "lat": 40.672013,
+    "lon": 128.141098
+  },
+  {
+    "country": "North Korea",
+    "state": "North Pyongan Province",
+    "city": "Hyangsan",
+    "name": "Hyangsan Airport",
+    "icao": "KP-0067",
+    "lat": 40.028699,
+    "lon": 126.192741
+  },
+  {
+    "country": "North Korea",
+    "state": "Rason (special city)",
+    "city": "Kanjin (Rajin)",
+    "name": "Kanjin (Rajin) Heliport",
+    "icao": "KP-0087",
+    "lat": 42.21942,
+    "lon": 130.316927
+  },
+  {
+    "country": "North Korea",
+    "state": "North Hwanghae Province",
+    "city": "Koksan",
+    "name": "Koksan 2 Highway Strip",
+    "icao": "KP-0068",
+    "lat": 38.663481,
+    "lon": 126.586618
+  },
+  {
+    "country": "North Korea",
+    "state": "Kangwon Province",
+    "city": "Kumgang",
+    "name": "Kumgang Airfield",
+    "icao": "KP-0073",
+    "lat": 38.564295,
+    "lon": 128.004155
+  },
+  {
+    "country": "North Korea",
+    "state": "Kangwon Province",
+    "city": "Masikryong",
+    "name": "Masikryong Ski Resort Heliport",
+    "icao": "KP-0071",
+    "lat": 39.062549,
+    "lon": 127.249958
+  },
+  {
+    "country": "North Korea",
+    "state": "(unassigned)",
+    "city": "Nuchon Ni",
+    "name": "Nuchon Ni Airfield",
+    "icao": "KP-0075",
+    "lat": 38.23791,
+    "lon": 126.1203
+  },
+  {
+    "country": "North Korea",
+    "state": "South Pyongan Province",
+    "city": "Panghyon",
+    "name": "Panghyon Highway Strip 2",
+    "icao": "KP-0077",
+    "lat": 39.813662,
+    "lon": 125.149727
+  },
+  {
+    "country": "North Korea",
+    "state": "Pyongyang (capital city)",
+    "city": "Pyongyang",
+    "name": "Pyongyang Elite Airfield",
+    "icao": "KP-0026",
+    "lat": 39.049552,
+    "lon": 125.80543
+  },
+  {
+    "country": "North Korea",
+    "state": "Pyongyang (capital city)",
+    "city": "Pyongyang",
+    "name": "Okryu Childrensâ€™ Hospital Heliport",
+    "icao": "KP-0089",
+    "lat": 39.023826,
+    "lon": 125.783168
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hamgyong Province",
+    "city": "Riwon-gun",
+    "name": "Riwon Airbase",
+    "icao": "KP-0038",
+    "lat": 40.359822,
+    "lon": 128.720584
+  },
+  {
+    "country": "North Korea",
+    "state": "North Pyongan Province",
+    "city": "Sangwon Ni",
+    "name": "Sangwon Ni Highway Strip",
+    "icao": "KP-0065",
+    "lat": 40.122978,
+    "lon": 125.87122
+  },
+  {
+    "country": "North Korea",
+    "state": "South Pyongan Province",
+    "city": "Sunan-Up",
+    "name": "Sunan-Up North Highway Strip Airfield",
+    "icao": "KP-0081",
+    "lat": 39.255643,
+    "lon": 125.705674
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hamgyong Province",
+    "city": "Tanchon",
+    "name": "Tanchon South Airstrip",
+    "icao": "KP-0082",
+    "lat": 40.400523,
+    "lon": 128.855596
+  },
+  {
+    "country": "North Korea",
+    "state": "Kangwon Province",
+    "city": "Wonsan",
+    "name": "Kang Da Ri Highway Strip",
+    "icao": "KP-0070",
+    "lat": 39.015216,
+    "lon": 127.406194
+  },
+  {
+    "country": "North Korea",
+    "state": "South Hwanghae Province",
+    "city": "Yong Hung",
+    "name": "Yong Hung Highway Reserve Strip Airfield",
+    "icao": "KP-0083",
+    "lat": 39.538767,
+    "lon": 127.288499
+  }
+]

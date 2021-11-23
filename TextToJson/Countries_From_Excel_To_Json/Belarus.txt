@@ -1,0 +1,272 @@
+[
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Minsk",
+    "name": "Minsk 1 Airport",
+    "icao": "UMMM",
+    "lat": 53.864498,
+    "lon": 27.5397
+  },
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Minsk Voblast",
+    "name": "Lipki Air Base",
+    "icao": "BY-0014",
+    "lat": 53.913545,
+    "lon": 27.708775
+  },
+  {
+    "country": "Belarus",
+    "state": "Homiel Voblast",
+    "city": "Gomel",
+    "name": "Gomel Airport",
+    "icao": "UMGG",
+    "lat": 52.527000427246,
+    "lon": 31.0167007446289
+  },
+  {
+    "country": "Belarus",
+    "state": "Mahilyow Voblast",
+    "city": "Mogilev",
+    "name": "Mogilev Airport",
+    "icao": "UMOO",
+    "lat": 53.9548988342285,
+    "lon": 30.095100402832
+  },
+  {
+    "country": "Belarus",
+    "state": "Brest Voblast",
+    "city": "Brest",
+    "name": "Brest Airport",
+    "icao": "UMBB",
+    "lat": 52.108299,
+    "lon": 23.8981
+  },
+  {
+    "country": "Belarus",
+    "state": "Vitsebsk Voblast",
+    "city": "Vitebsk",
+    "name": "Vitebsk Vostochny Airport",
+    "icao": "UMII",
+    "lat": 55.126499176025,
+    "lon": 30.349599838257
+  },
+  {
+    "country": "Belarus",
+    "state": "Homiel Voblast",
+    "city": "Kalinovichi",
+    "name": "Bobrovichi Air Base",
+    "icao": "BY-0003",
+    "lat": 52.2783012390136,
+    "lon": 29.3600006103515
+  },
+  {
+    "country": "Belarus",
+    "state": "Vitsebsk Voblast",
+    "city": "Orsha",
+    "name": "Balbasovo Air Base",
+    "icao": "BY-0001",
+    "lat": 54.4399986267089,
+    "lon": 30.2966995239257
+  },
+  {
+    "country": "Belarus",
+    "state": "Homiel Voblast",
+    "city": "Gomel",
+    "name": "Pribytki Air Base",
+    "icao": "BY-4247",
+    "lat": 52.3050003051757,
+    "lon": 31.1632995605468
+  },
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Maladzyechna",
+    "name": "Maladzyechna Air Base",
+    "icao": "BY-1210",
+    "lat": 54.2482986450195,
+    "lon": 26.8717002868652
+  },
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Minsk",
+    "name": "Minsk Machulishchy Air Base",
+    "icao": "UMLI",
+    "lat": 53.7733,
+    "lon": 27.58
+  },
+  {
+    "country": "Belarus",
+    "state": "Vitsebsk Voblast",
+    "city": "Polatsk",
+    "name": "Borovtsy Air Base",
+    "icao": "BY-0004",
+    "lat": 55.6082992554,
+    "lon": 28.6783008575
+  },
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Talacyn",
+    "name": "Bobr Air Base",
+    "icao": "BY-0002",
+    "lat": 54.375,
+    "lon": 29.3766994476318
+  },
+  {
+    "country": "Belarus",
+    "state": "Vitsebsk Voblast",
+    "city": "Vitsebsk Voblast",
+    "name": "Aerodrom Kukoviatsino",
+    "icao": "BY-0012",
+    "lat": 55.1609946,
+    "lon": 29.974589
+  },
+  {
+    "country": "Belarus",
+    "state": "Homiel Voblast",
+    "city": "Homiel Voblast",
+    "name": "Mozyr",
+    "icao": "BY-0013",
+    "lat": 51.9858414,
+    "lon": 29.157581
+  },
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Minsk Voblast",
+    "name": "Komsomolskaya Airstrip",
+    "icao": "BY-0026",
+    "lat": 53.213143,
+    "lon": 27.36075
+  },
+  {
+    "country": "Belarus",
+    "state": "Brest Voblast",
+    "city": "Brest Voblast",
+    "name": "KliepaÄy Airstrip",
+    "icao": "BY-0029",
+    "lat": 52.7040425,
+    "lon": 24.3782919
+  },
+  {
+    "country": "Belarus",
+    "state": "Vitsebsk Voblast",
+    "city": "Vitsebsk Voblast",
+    "name": "Suklina Airstrip",
+    "icao": "BY-0031",
+    "lat": 55.2516188,
+    "lon": 27.9213048
+  },
+  {
+    "country": "Belarus",
+    "state": "Mahilyow Voblast",
+    "city": "Babruysk",
+    "name": "Bobruisk Aeroclub",
+    "icao": "BY-0023",
+    "lat": 53.21033,
+    "lon": 29.129039
+  },
+  {
+    "country": "Belarus",
+    "state": "Brest Voblast",
+    "city": "Barysava",
+    "name": "Borisovo Air Base",
+    "icao": "UMBK",
+    "lat": 52.164,
+    "lon": 24.3999
+  },
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Drozdy",
+    "name": "Drozdy Heliport",
+    "icao": "BY-0021",
+    "lat": 53.9506,
+    "lon": 27.5053
+  },
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Dzerzhinsky",
+    "name": "Dzerzhinsky Highway Strip",
+    "icao": "BY-0022",
+    "lat": 53.68874,
+    "lon": 27.339573
+  },
+  {
+    "country": "Belarus",
+    "state": "Mahilyow Voblast",
+    "city": "Gorki",
+    "name": "Gorki",
+    "icao": "BY-0016",
+    "lat": 54.30052,
+    "lon": 30.948463
+  },
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Kokhanovichi",
+    "name": "Kokhanovichi Airfield",
+    "icao": "BY-0017",
+    "lat": 55.85734,
+    "lon": 28.09827
+  },
+  {
+    "country": "Belarus",
+    "state": "Mahilyow Voblast",
+    "city": "Krichaw",
+    "name": "Bel Airfield",
+    "icao": "BY-0008",
+    "lat": 53.779817,
+    "lon": 31.66495
+  },
+  {
+    "country": "Belarus",
+    "state": "Hrodna Voblast",
+    "city": "Lida",
+    "name": "Lida Air Base",
+    "icao": "BY-0009",
+    "lat": 53.877,
+    "lon": 25.377
+  },
+  {
+    "country": "Belarus",
+    "state": "Mahilyow Voblast",
+    "city": "Mazalovo",
+    "name": "Mazalovo Airstrip",
+    "icao": "BY-0032",
+    "lat": 53.973285,
+    "lon": 31.58801
+  },
+  {
+    "country": "Belarus",
+    "state": "Brest Voblast",
+    "city": "Pruzhany",
+    "name": "Pruzhany Air Base",
+    "icao": "UMNV",
+    "lat": 52.5822957317999,
+    "lon": 24.379863739
+  },
+  {
+    "country": "Belarus",
+    "state": "Vitsebsk Voblast",
+    "city": "Vidzy",
+    "name": "Vidzy Airstrip",
+    "icao": "BY-0028",
+    "lat": 55.37879,
+    "lon": 26.626022
+  },
+  {
+    "country": "Belarus",
+    "state": "Minsk Voblast",
+    "city": "Voigovka",
+    "name": "Voigovka Airfield",
+    "icao": "BY-0025",
+    "lat": 53.621279,
+    "lon": 27.550494
+  }
+]

@@ -1,0 +1,137 @@
+[
+  {
+    "country": "Belize",
+    "state": "Belize District",
+    "city": "Belize City",
+    "name": "Belize City Municipal Airport",
+    "icao": "BZ-TZA",
+    "lat": 17.5163898468017,
+    "lon": -88.1944427490234
+  },
+  {
+    "country": "Belize",
+    "state": "Belize District",
+    "city": "Caye Caulker",
+    "name": "Caye Caulker Airport",
+    "icao": "BZ-CUK",
+    "lat": 17.7346992492675,
+    "lon": -88.0325012207031
+  },
+  {
+    "country": "Belize",
+    "state": "Stann Creek District",
+    "city": "Placencia",
+    "name": "Placencia Airport",
+    "icao": "BZ-PLJ",
+    "lat": 16.5369567871093,
+    "lon": -88.3615112304687
+  },
+  {
+    "country": "Belize",
+    "state": "Toledo District",
+    "city": "Punta Gorda",
+    "name": "Punta Gorda Airport",
+    "icao": "BZ-PND",
+    "lat": 16.102399826,
+    "lon": -88.8082962036
+  },
+  {
+    "country": "Belize",
+    "state": "Orange Walk District",
+    "city": "Orange Walk",
+    "name": "Orange Walk Airport",
+    "icao": "BZ-ORZ",
+    "lat": 18.0467662811,
+    "lon": -88.5838699341
+  },
+  {
+    "country": "Belize",
+    "state": "Stann Creek District",
+    "city": "Big Creek",
+    "name": "Big Creek Airport",
+    "icao": "BZ-BGK",
+    "lat": 16.5193691253662,
+    "lon": -88.4079132080078
+  },
+  {
+    "country": "Belize",
+    "state": "Stann Creek District",
+    "city": "Independence",
+    "name": "Independence Airport",
+    "icao": "BZ-INB",
+    "lat": 16.5345001220703,
+    "lon": -88.4412994384765
+  },
+  {
+    "country": "Belize",
+    "state": "Cayo District",
+    "city": "San Ignacio",
+    "name": "Matthew Spain Airport",
+    "icao": "BZ-SQS",
+    "lat": 17.1859,
+    "lon": -89.0098
+  },
+  {
+    "country": "Belize",
+    "state": "Corozal District",
+    "city": "Santa Cruz",
+    "name": "Santa Cruz Airport",
+    "icao": "BZ-STU",
+    "lat": 18.2721004486084,
+    "lon": -88.456298828125
+  },
+  {
+    "country": "Belize",
+    "state": "Corozal District",
+    "city": "Sartaneja",
+    "name": "Sartaneja Airport",
+    "icao": "BZ-SJX",
+    "lat": 18.3561000823974,
+    "lon": -88.1307983398437
+  },
+  {
+    "country": "Belize",
+    "state": "Cayo District",
+    "city": "Cayo District",
+    "name": "Privassion Airstrip",
+    "icao": "BZ-0007",
+    "lat": 17.039,
+    "lon": -88.9547
+  },
+  {
+    "country": "Belize",
+    "state": "Corozal District",
+    "city": "Consejo",
+    "name": "Consejo Shores Airport",
+    "icao": "BZ-0004",
+    "lat": 18.456596,
+    "lon": -88.305407
+  },
+  {
+    "country": "Belize",
+    "state": "Orange Walk District",
+    "city": "Gallon Jug",
+    "name": "Chan Chich Airstrip",
+    "icao": "BZ-0001",
+    "lat": 17.5664,
+    "lon": -89.0468
+  },
+  {
+    "country": "Belize",
+    "state": "Cayo District",
+    "city": "Maya Flats",
+    "name": "San Ignacio Town (Maya Flats) Airstrip",
+    "icao": "MZMF",
+    "lat": 17.104872,
+    "lon": -89.101129
+  },
+  {
+    "country": "Belize",
+    "state": "Orange Walk District",
+    "city": "San Felipe",
+    "name": "San Felipe Airstrip",
+    "icao": "BZ-0003",
+    "lat": 17.88531,
+    "lon": -88.887286
+  }
+]

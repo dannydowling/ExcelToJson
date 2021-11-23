@@ -1,0 +1,299 @@
+[
+  {
+    "country": "Romania",
+    "state": "Bucharest",
+    "city": "Bucharest",
+    "name": "Baneasa International Airport",
+    "icao": "LRBS",
+    "lat": 44.5032005310058,
+    "lon": 26.1021003723144
+  },
+  {
+    "country": "Romania",
+    "state": "TimiÅŸ",
+    "city": "TimiÅŸoara",
+    "name": "TimiÅŸoara Traian Vuia Airport",
+    "icao": "LRTR",
+    "lat": 45.8098983764648,
+    "lon": 21.3379001617431
+  },
+  {
+    "country": "Romania",
+    "state": "Sibiu",
+    "city": "Sibiu",
+    "name": "Sibiu International Airport",
+    "icao": "LRSB",
+    "lat": 45.7855987548828,
+    "lon": 24.0912990570068
+  },
+  {
+    "country": "Romania",
+    "state": "ConstanÅ£a",
+    "city": "ConstanÅ£a",
+    "name": "Mihail KogÄƒlniceanu International Airport",
+    "icao": "LRCK",
+    "lat": 44.3622016906738,
+    "lon": 28.4883003234863
+  },
+  {
+    "country": "Romania",
+    "state": "Suceava",
+    "city": "Suceava",
+    "name": "Suceava Stefan cel Mare Airport",
+    "icao": "LRSV",
+    "lat": 47.6875,
+    "lon": 26.3540992736816
+  },
+  {
+    "country": "Romania",
+    "state": "Dolj",
+    "city": "Craiova",
+    "name": "Craiova Airport",
+    "icao": "LRCV",
+    "lat": 44.3180999755859,
+    "lon": 23.8885993957519
+  },
+  {
+    "country": "Romania",
+    "state": "MureÅŸ",
+    "city": "TÃ¢rgu MureÅŸ",
+    "name": "Transilvania TÃ¢rgu MureÅŸ International Airport",
+    "icao": "LRTM",
+    "lat": 46.4677009582519,
+    "lon": 24.4125003814697
+  },
+  {
+    "country": "Romania",
+    "state": "BacÄƒu",
+    "city": "BacÄƒu",
+    "name": "BacÄƒu Airport",
+    "icao": "LRBC",
+    "lat": 46.5219001770019,
+    "lon": 26.9102993011474
+  },
+  {
+    "country": "Romania",
+    "state": "Bihor",
+    "city": "Oradea",
+    "name": "Oradea International Airport",
+    "icao": "LROD",
+    "lat": 47.0252990722656,
+    "lon": 21.9025001525878
+  },
+  {
+    "country": "Romania",
+    "state": "ConstanÅ£a",
+    "city": "ConstanÅ£a",
+    "name": "Tuzla Romania Airfield",
+    "icao": "LRTZ",
+    "lat": 43.9842,
+    "lon": 28.609699
+  },
+  {
+    "country": "Romania",
+    "state": "Suceava",
+    "city": "Floreni",
+    "name": "Floreni Airfield",
+    "icao": "LRFL",
+    "lat": 47.363094,
+    "lon": 25.210346
+  },
+  {
+    "country": "Romania",
+    "state": "Suceava",
+    "city": "RÄƒdÄƒuÈ›i",
+    "name": "Aerodrom Fratauti",
+    "icao": "RO-0003",
+    "lat": 47.885278,
+    "lon": 25.899167
+  },
+  {
+    "country": "Romania",
+    "state": "Arad",
+    "city": "Arad",
+    "name": "Arad International Airport",
+    "icao": "LRAR",
+    "lat": 46.1766014099121,
+    "lon": 21.261999130249
+  },
+  {
+    "country": "Romania",
+    "state": "MaramureÅŸ",
+    "city": "Baia Mare",
+    "name": "MaramureÈ™ International Airport",
+    "icao": "LRBM",
+    "lat": 47.660598,
+    "lon": 23.467252
+  },
+  {
+    "country": "Romania",
+    "state": "Caras-Severin",
+    "city": "CaransebeÅŸ",
+    "name": "CaransebeÅŸ Airport",
+    "icao": "LRCS",
+    "lat": 45.4199981689453,
+    "lon": 22.2532997131347
+  },
+  {
+    "country": "Romania",
+    "state": "BistriÅ£a-NÄƒsÄƒud",
+    "city": "BistriÅ£a-NÄƒsÄƒud",
+    "name": "Ineu \"King's Land\" field",
+    "icao": "RO-0004",
+    "lat": 47.079167,
+    "lon": 22.100278
+  },
+  {
+    "country": "Romania",
+    "state": "BrÄƒila",
+    "city": "Ianca",
+    "name": "Ianca Air Base",
+    "icao": "LR79",
+    "lat": 45.158699,
+    "lon": 27.430901
+  },
+  {
+    "country": "Romania",
+    "state": "BraÅŸov",
+    "city": "BraÅŸov",
+    "name": "Aerodrom Ghimbav",
+    "icao": "RO-0010",
+    "lat": 45.6978996,
+    "lon": 25.5283994
+  },
+  {
+    "country": "Romania",
+    "state": "BraÅŸov",
+    "city": "BraÅŸov",
+    "name": "Aerodrom Prejmer",
+    "icao": "RO-0011",
+    "lat": 45.6976714,
+    "lon": 25.7797231
+  },
+  {
+    "country": "Romania",
+    "state": "IalomiÅ£a",
+    "city": "Alexeni",
+    "name": "Aerodromul Alexeni",
+    "icao": "RO-0014",
+    "lat": 44.704857,
+    "lon": 26.720739
+  },
+  {
+    "country": "Romania",
+    "state": "Arad",
+    "city": "Arad",
+    "name": "Aerodromul Charlie Bravo Siria",
+    "icao": "RO-0009",
+    "lat": 46.26433,
+    "lon": 21.604521
+  },
+  {
+    "country": "Romania",
+    "state": "BistriÅ£a-NÄƒsÄƒud",
+    "city": "BistriÈ›a",
+    "name": "BistriÈ›a Airfield",
+    "icao": "LRBN",
+    "lat": 47.158575,
+    "lon": 24.552311
+  },
+  {
+    "country": "Romania",
+    "state": "BraÅŸov",
+    "city": "BraÈ™ov",
+    "name": "Aerodromul SÃ¢npetru-BraÈ™ov",
+    "icao": "RO-0006",
+    "lat": 45.718956,
+    "lon": 25.634199
+  },
+  {
+    "country": "Romania",
+    "state": "BraÅŸov",
+    "city": "BraÈ™ov",
+    "name": "BraÈ™ov-Ghimbav International Airport (U.C.)",
+    "icao": "LROV",
+    "lat": 45.70558,
+    "lon": 25.522871
+  },
+  {
+    "country": "Romania",
+    "state": "Sibiu",
+    "city": "CisnÄƒdie",
+    "name": "Aerodromul MÄƒgura",
+    "icao": "LRCD",
+    "lat": 45.737222,
+    "lon": 24.165278
+  },
+  {
+    "country": "Romania",
+    "state": "Giurgiu",
+    "city": "Comana",
+    "name": "Comana Airstrip",
+    "icao": "RO-0019",
+    "lat": 44.2002778,
+    "lon": 26.1397222
+  },
+  {
+    "country": "Romania",
+    "state": "ConstanÅ£a",
+    "city": "CostineÈ™ti",
+    "name": "Aerodromul CostineÈ™ti",
+    "icao": "RO-0012",
+    "lat": 43.9261539,
+    "lon": 28.6318939
+  },
+  {
+    "country": "Romania",
+    "state": "Dolj",
+    "city": "Craiova",
+    "name": "Aeroclubul Balta-Verde",
+    "icao": "RO-0013",
+    "lat": 44.285839,
+    "lon": 23.791537
+  },
+  {
+    "country": "Romania",
+    "state": "SÄƒlaj",
+    "city": "Crasna",
+    "name": "Aerodrom Crasna",
+    "icao": "RO-0031",
+    "lat": 47.1679879,
+    "lon": 22.8559184
+  },
+  {
+    "country": "Romania",
+    "state": "Harghita",
+    "city": "LÄƒzarea",
+    "name": "LÄƒzarea Airstrip",
+    "icao": "RO-0022",
+    "lat": 46.7261196,
+    "lon": 25.5141861
+  },
+  {
+    "country": "Romania",
+    "state": "Harghita",
+    "city": "Miercurea Ciuc",
+    "name": "Aerodromul Ciceu-Andras",
+    "icao": "RO-0027",
+    "lat": 46.3927664,
+    "lon": 25.7776699
+  },
+  {
+    "country": "Romania",
+    "state": "MureÅŸ",
+    "city": "TÃ¢rgu MureÈ™",
+    "name": "Aeroportul Sportiv Elie Carafoli",
+    "icao": "RO-0008",
+    "lat": 46.53441,
+    "lon": 24.5346447
+  },
+  {
+    "country": "Romania",
+    "state": "ArgeÅŸ",
+    "city": "Topoloveni",
+    "name": "Aerodromul Topoloveni",
+    "icao": "RO-0025",
+    "lat": 44.7966246,
+    "lon": 25.0896598
+  }
+]

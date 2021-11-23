@@ -1,0 +1,920 @@
+[
+  {
+    "country": "Bolivia",
+    "state": "Chuquisaca Department",
+    "city": "Sucre",
+    "name": "Juana Azurduy De Padilla Airport",
+    "icao": "SLSU",
+    "lat": -19.007099,
+    "lon": -65.288696
+  },
+  {
+    "country": "Bolivia",
+    "state": "Tarija Department",
+    "city": "Tarija",
+    "name": "Capitan Oriel Lea Plaza Airport",
+    "icao": "SLTJ",
+    "lat": -21.5557003021,
+    "lon": -64.7013015747
+  },
+  {
+    "country": "Bolivia",
+    "state": "PotosÃ­ Department",
+    "city": "Quijarro",
+    "name": "Uyuni Airport",
+    "icao": "SLUY",
+    "lat": -20.4463005065999,
+    "lon": -66.8483963013
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "GuayaramerÃ­n",
+    "name": "CapitÃ¡n de Av. Emilio BeltrÃ¡n Airport",
+    "icao": "SLGY",
+    "lat": -10.820599556,
+    "lon": -65.3455963135
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Riberalta",
+    "name": "CapitÃ¡n Av. Selin Zeitun Lopez Airport",
+    "icao": "SLRI",
+    "lat": -11.0,
+    "lon": -66.0
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "San Borja",
+    "name": "CapitÃ¡n Av. German Quiroga G. Airport",
+    "icao": "SLSB",
+    "lat": -14.8591995239257,
+    "lon": -66.7375030517578
+  },
+  {
+    "country": "Bolivia",
+    "state": "Pando Department",
+    "city": "Puerto Rico/Manuripi",
+    "name": "Puerto Rico Airport",
+    "icao": "SLPR",
+    "lat": -11.107663,
+    "lon": -67.551155
+  },
+  {
+    "country": "Bolivia",
+    "state": "Tarija Department",
+    "city": "Bermejo",
+    "name": "Bermejo Airport",
+    "icao": "SLBJ",
+    "lat": -22.7733001709,
+    "lon": -64.3128967285
+  },
+  {
+    "country": "Bolivia",
+    "state": "PotosÃ­ Department",
+    "city": "PotosÃ­",
+    "name": "Capitan Nicolas Rojas Airport",
+    "icao": "SLPO",
+    "lat": -19.543331,
+    "lon": -65.723734
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Santa Cruz Department",
+    "name": "San Rafael Airport",
+    "icao": "SLSF",
+    "lat": -17.2891,
+    "lon": -62.304
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "A. IbaÃ±ez",
+    "name": "Collpa Airport",
+    "icao": "SLCY",
+    "lat": -17.5650005340576,
+    "lon": -63.1747016906738
+  },
+  {
+    "country": "Bolivia",
+    "state": "Oruro Department",
+    "city": "Abaroa",
+    "name": "Collpani Airport",
+    "icao": "SLCL",
+    "lat": -18.8916664123535,
+    "lon": -66.783332824707
+  },
+  {
+    "country": "Bolivia",
+    "state": "La Paz Department",
+    "city": "Apolo",
+    "name": "Apolo Airport",
+    "icao": "SLAP",
+    "lat": -14.7356004714965,
+    "lon": -68.4119033813476
+  },
+  {
+    "country": "Bolivia",
+    "state": "La Paz Department",
+    "city": "Aroma",
+    "name": "Villa Aroma Airport",
+    "icao": "SLVA",
+    "lat": -17.3666667938232,
+    "lon": -67.75
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "AscensiÃ³n de Guarayos",
+    "name": "AscenciÃ³n De Guarayos Airport",
+    "icao": "SLAS",
+    "lat": -15.9302997589111,
+    "lon": -63.1567001342773
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Ballivian",
+    "name": "Angora Airport",
+    "icao": "SLAN",
+    "lat": -14.4322996139526,
+    "lon": -65.768798828125
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Ballivian",
+    "name": "El Salvador Airport",
+    "icao": "SLEV",
+    "lat": -14.4982995986938,
+    "lon": -66.7629013061523
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Ballivian",
+    "name": "La India Airport",
+    "icao": "SLLI",
+    "lat": -13.5738334655761,
+    "lon": -66.8356704711914
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Ballivian",
+    "name": "Buena Hora Airport",
+    "icao": "SLBH",
+    "lat": -12.1333332061767,
+    "lon": -66.533332824707
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Ballivian",
+    "name": "Fatima Airport",
+    "icao": "SLFA",
+    "lat": -15.3333330154418,
+    "lon": -66.8000030517578
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Ballivian",
+    "name": "Urusi Airport",
+    "icao": "SLUS",
+    "lat": -14.3166666030883,
+    "lon": -66.1666641235351
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Baures",
+    "name": "Baures Airport",
+    "icao": "BO-BVL",
+    "lat": -13.5833330154,
+    "lon": -63.5833320618
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Caraparicito",
+    "name": "Lagunillas Airport",
+    "icao": "SLLS",
+    "lat": -19.6000003814697,
+    "lon": -63.6500015258789
+  },
+  {
+    "country": "Bolivia",
+    "state": "Cochabamba Department",
+    "city": "Carrasco",
+    "name": "Bulo Bulo Airport",
+    "icao": "SLBB",
+    "lat": -17.2573337554931,
+    "lon": -64.3666687011718
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Cercado",
+    "name": "San Juan Estancias Airport",
+    "icao": "SLJN",
+    "lat": -14.1666669845581,
+    "lon": -64.7666702270507
+  },
+  {
+    "country": "Bolivia",
+    "state": "Cochabamba Department",
+    "city": "Chimore",
+    "name": "Chimore Airport",
+    "icao": "SLCH",
+    "lat": -16.976834,
+    "lon": -65.145568
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Chiquitos",
+    "name": "Tres Cruces Airport",
+    "icao": "SLTC",
+    "lat": -17.3604,
+    "lon": -62.2796
+  },
+  {
+    "country": "Bolivia",
+    "state": "La Paz Department",
+    "city": "Copacabana",
+    "name": "Copacabana Airport",
+    "icao": "SLCC",
+    "lat": -16.1910991668701,
+    "lon": -69.0955963134765
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Cordillera",
+    "name": "Abopo Airport",
+    "icao": "SLAB",
+    "lat": -18.6319999694824,
+    "lon": -62.9392013549804
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Cordillera",
+    "name": "Charagua Airport",
+    "icao": "SLCG",
+    "lat": -19.7856006622314,
+    "lon": -63.1884002685546
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Cordillera",
+    "name": "Espino Airport",
+    "icao": "SLEI",
+    "lat": -19.2999000549316,
+    "lon": -63.208999633789
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Cordillera",
+    "name": "Izozog Airport",
+    "icao": "SLIZ",
+    "lat": -18.663833618164,
+    "lon": -63.0023345947265
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Cordillera",
+    "name": "Guirapembi Airport",
+    "icao": "SLGP",
+    "lat": -18.0559997558593,
+    "lon": -63.1631660461425
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "De MontaÃ±o",
+    "name": "Villa Vista Montano Airport",
+    "icao": "SLBV",
+    "lat": -13.8500003814697,
+    "lon": -66.3666687011718
+  },
+  {
+    "country": "Bolivia",
+    "state": "La Paz Department",
+    "city": "Franz Tamayo",
+    "name": "Tuichi Airport",
+    "icao": "SLTX",
+    "lat": -14.3166666030883,
+    "lon": -68.5833358764648
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "German Busch",
+    "name": "Rincon Del Tigre Airport",
+    "icao": "SLRX",
+    "lat": -18.2008342742919,
+    "lon": -58.1699981689453
+  },
+  {
+    "country": "Bolivia",
+    "state": "PotosÃ­ Department",
+    "city": "Gral. Ballivian",
+    "name": "Arampampa Airport",
+    "icao": "SLAM",
+    "lat": -17.8833332061767,
+    "lon": -66.0999984741211
+  },
+  {
+    "country": "Bolivia",
+    "state": "Tarija Department",
+    "city": "Gran Chaco",
+    "name": "Caigua Airport",
+    "icao": "SLCI",
+    "lat": -21.1666660308837,
+    "lon": -63.6333351135253
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Guanacos",
+    "name": "Palmar Airport",
+    "icao": "SLPA",
+    "lat": -18.9716663360595,
+    "lon": -62.9753341674804
+  },
+  {
+    "country": "Bolivia",
+    "state": "Chuquisaca Department",
+    "city": "H. Silez",
+    "name": "Huacareta Airport",
+    "icao": "SLHC",
+    "lat": -20.3908004760742,
+    "lon": -64.0154037475586
+  },
+  {
+    "country": "Bolivia",
+    "state": "Chuquisaca Department",
+    "city": "Hernando Siles",
+    "name": "Cerrillos Airport",
+    "icao": "SLER",
+    "lat": -20.0166664123535,
+    "lon": -64.033332824707
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Ichilo",
+    "name": "San Carlos Airport",
+    "icao": "SLZC",
+    "lat": -17.4333324432373,
+    "lon": -63.6833343505859
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Itenes",
+    "name": "Buen Retiro Itenez Airport",
+    "icao": "SLBR",
+    "lat": -13.4166669845581,
+    "lon": -63.4833335876464
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Itenes",
+    "name": "Bella Vista Itenez Airport",
+    "icao": "SLBS",
+    "lat": -14.2677001953125,
+    "lon": -64.2990036010742
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Itenes",
+    "name": "Ibori Airport",
+    "icao": "SLIR",
+    "lat": -13.0500001907348,
+    "lon": -63.6666679382324
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Itenes",
+    "name": "San Pedro Richard Airport",
+    "icao": "SLZJ",
+    "lat": -14.2166662216186,
+    "lon": -63.6500015258789
+  },
+  {
+    "country": "Bolivia",
+    "state": "La Paz Department",
+    "city": "Iturralde",
+    "name": "Chive Airport",
+    "icao": "SLCX",
+    "lat": -12.377833366394,
+    "lon": -68.5676651000976
+  },
+  {
+    "country": "Bolivia",
+    "state": "Chuquisaca Department",
+    "city": "J. Mendoza",
+    "name": "Padilla Airport",
+    "icao": "SLPL",
+    "lat": -19.2994003295898,
+    "lon": -64.2940979003906
+  },
+  {
+    "country": "Bolivia",
+    "state": "Oruro Department",
+    "city": "La Joya",
+    "name": "Intiraymi Airport",
+    "icao": "SLIY",
+    "lat": -17.8083324432373,
+    "lon": -67.4433364868164
+  },
+  {
+    "country": "Bolivia",
+    "state": "Oruro Department",
+    "city": "Ladislao Cabrera",
+    "name": "Salinas Airport",
+    "icao": "SLSJ",
+    "lat": -19.5,
+    "lon": -67.3333358764648
+  },
+  {
+    "country": "Bolivia",
+    "state": "La Paz Department",
+    "city": "Larecaja",
+    "name": "Teoponte Airport",
+    "icao": "SLTE",
+    "lat": -15.4983329772949,
+    "lon": -67.816665649414
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Las Juntas",
+    "name": "Yabog Airport",
+    "icao": "SLYG",
+    "lat": -18.654499053955,
+    "lon": -63.1328010559082
+  },
+  {
+    "country": "Bolivia",
+    "state": "Chuquisaca Department",
+    "city": "Luis Calvo",
+    "name": "El Porvenir Sur Airport",
+    "icao": "SLPW",
+    "lat": -20.7546997070312,
+    "lon": -63.2094001770019
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "M. Caballero",
+    "name": "Comarapa Airport",
+    "icao": "SLCR",
+    "lat": -17.9136009216308,
+    "lon": -64.5177993774414
+  },
+  {
+    "country": "Bolivia",
+    "state": "Pando Department",
+    "city": "Madre De Dios",
+    "name": "Blanca Flor Airport",
+    "icao": "SLBF",
+    "lat": -11.7272,
+    "lon": -66.9263
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Mamore",
+    "name": "Choreti, Bolivia, South America Airport",
+    "icao": "SLCT",
+    "lat": -13.5144996643066,
+    "lon": -64.9652023315429
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "MamorÃ©",
+    "name": "Bella UniÃ³n Airport",
+    "icao": "SLBN",
+    "lat": -13.6333332061767,
+    "lon": -65.283332824707
+  },
+  {
+    "country": "Bolivia",
+    "state": "Pando Department",
+    "city": "Manuripi",
+    "name": "Manuripi Airport",
+    "icao": "SLMN",
+    "lat": -11.7384996414184,
+    "lon": -68.3546676635742
+  },
+  {
+    "country": "Bolivia",
+    "state": "Cochabamba Department",
+    "city": "Mizque",
+    "name": "Mizque Airport",
+    "icao": "SLMZ",
+    "lat": -17.9309997558593,
+    "lon": -65.3802032470703
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Moira",
+    "name": "Florida Airport",
+    "icao": "SLFL",
+    "lat": -14.6141662597656,
+    "lon": -61.1974983215332
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Moxos",
+    "name": "Flor De Oro Airport",
+    "icao": "SLFO",
+    "lat": -13.5548000335693,
+    "lon": -61.0041007995605
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Moxos",
+    "name": "Santiago Airport",
+    "icao": "SLTG",
+    "lat": -15.2278003692626,
+    "lon": -65.4501037597656
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Moxos",
+    "name": "La Esperanza Airport",
+    "icao": "SLEZ",
+    "lat": -14.7666664123535,
+    "lon": -65.533332824707
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Moxos",
+    "name": "San Lorenzo Airport",
+    "icao": "SLLZ",
+    "lat": -15.3833332061767,
+    "lon": -65.75
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Moxos",
+    "name": "Santa Catalina Airport",
+    "icao": "SLIN",
+    "lat": -15.5,
+    "lon": -65.9166641235351
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Nacif",
+    "name": "San Francisco Naciff Airport",
+    "icao": "SLZF",
+    "lat": -13.7486000061035,
+    "lon": -64.4536972045898
+  },
+  {
+    "country": "Bolivia",
+    "state": "PotosÃ­ Department",
+    "city": "Nor Lipez",
+    "name": "Cerdas Airport",
+    "icao": "SLCS",
+    "lat": -20.8083333333,
+    "lon": -66.4011111111
+  },
+  {
+    "country": "Bolivia",
+    "state": "La Paz Department",
+    "city": "Nor Yungas",
+    "name": "Caranavi Airport",
+    "icao": "SLVI",
+    "lat": -15.75,
+    "lon": -67.566665649414
+  },
+  {
+    "country": "Bolivia",
+    "state": "Oruro Department",
+    "city": "Oruro",
+    "name": "Totora Airport",
+    "icao": "SLTO",
+    "lat": -17.7981662750244,
+    "lon": -68.0934982299804
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Riberalta",
+    "name": "Riberalta Airport",
+    "icao": "BO-0002",
+    "lat": -11.0103998184204,
+    "lon": -66.0734024047851
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "San Ignacio de Velasco",
+    "name": "CapitÃ¡n Av. Juan Cochamanidis S. Airport",
+    "icao": "SLSI",
+    "lat": -16.3836002349853,
+    "lon": -60.9627990722656
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "San JoaquÃ­n",
+    "name": "San JoaquÃ­n Airport",
+    "icao": "SLJO",
+    "lat": -13.0528,
+    "lon": -64.661697
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "San MatÃ­as",
+    "name": "San MatÃ­as Airport",
+    "icao": "SLTI",
+    "lat": -16.3391990661621,
+    "lon": -58.4019012451171
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "San Rafael",
+    "name": "Tita Airport",
+    "icao": "SLTW",
+    "lat": -18.4664001464843,
+    "lon": -62.1119995117187
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "San RamÃ³n / MamorÃ©",
+    "name": "San RamÃ³n Airport",
+    "icao": "SLRA",
+    "lat": -13.2639,
+    "lon": -64.603897
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Santiago de Chiquitos",
+    "name": "Santiago De Chiquitos Airport",
+    "icao": "SLSQ",
+    "lat": -18.3458003997802,
+    "lon": -59.6048011779785
+  },
+  {
+    "country": "Bolivia",
+    "state": "PotosÃ­ Department",
+    "city": "Sud Chichas",
+    "name": "Tupiza Airport",
+    "icao": "SLTZ",
+    "lat": -21.3446998596191,
+    "lon": -65.6156005859375
+  },
+  {
+    "country": "Bolivia",
+    "state": "La Paz Department",
+    "city": "Sud Yungas",
+    "name": "Santa Ana De Huachi Airport",
+    "icao": "SLSH",
+    "lat": -15.4833335876464,
+    "lon": -67.4833297729492
+  },
+  {
+    "country": "Bolivia",
+    "state": "Tarija Department",
+    "city": "Tesoro",
+    "name": "El Condor Airport",
+    "icao": "SLEK",
+    "lat": -21.7008342742919,
+    "lon": -63.4568328857421
+  },
+  {
+    "country": "Bolivia",
+    "state": "Tarija Department",
+    "city": "Tesoro",
+    "name": "Tesoro/La Vertiente Airport",
+    "icao": "SLVT",
+    "lat": -21.2666664123535,
+    "lon": -63.3583335876464
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Vallegrande",
+    "name": "CapitÃ¡n Av. Vidal Villagomez Toledo Airport",
+    "icao": "SLVG",
+    "lat": -18.4825000762939,
+    "lon": -64.0994033813476
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Velasco",
+    "name": "Refugio Airport",
+    "icao": "SLRF",
+    "lat": -14.7627000808715,
+    "lon": -61.0320014953613
+  },
+  {
+    "country": "Bolivia",
+    "state": "Oruro Department",
+    "city": "Velasco",
+    "name": "Mangabalito Airport",
+    "icao": "SLMB",
+    "lat": -13.7878332138061,
+    "lon": -68.3546676635742
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Velasco",
+    "name": "Porvenir Norte Airport",
+    "icao": "SLPN",
+    "lat": -13.9873332977294,
+    "lon": -61.5456657409668
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "El Cocal Airport",
+    "icao": "SLEA",
+    "lat": -13.5593996047973,
+    "lon": -66.0790023803711
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "San Carlos Gutierrez Airport",
+    "icao": "SLSD",
+    "lat": -14.5611000061035,
+    "lon": -65.5271987915039
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "Venecia Airport",
+    "icao": "SLVE",
+    "lat": -14.6359996795654,
+    "lon": -66.7502975463867
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "El Cairo Airport",
+    "icao": "SLEC",
+    "lat": -13.7833337783813,
+    "lon": -66.4000015258789
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "El Peru Airport",
+    "icao": "SLEP",
+    "lat": -14.6046667098999,
+    "lon": -65.6183319091796
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "Josuani Airport",
+    "icao": "SLJS",
+    "lat": -13.0833330154418,
+    "lon": -66.1666641235351
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "Nieve Airport",
+    "icao": "SLNV",
+    "lat": -14.0166664123535,
+    "lon": -65.8000030517578
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "Palmira Airport",
+    "icao": "SLPM",
+    "lat": -13.737951,
+    "lon": -66.409333
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "Retiro Airport",
+    "icao": "SLRR",
+    "lat": -14.4833335876464,
+    "lon": -66.3499984741211
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Yacuma",
+    "name": "Santa Rita Airport",
+    "icao": "SLRT",
+    "lat": -13.9333333969116,
+    "lon": -66.3333358764648
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Santa Cruz Department",
+    "name": "Dalmacia Airport",
+    "icao": "SLDL",
+    "lat": -17.4426,
+    "lon": -62.2442
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "El Mojar",
+    "name": "El Mojar Airport",
+    "icao": "BO-0006",
+    "lat": -12.4274,
+    "lon": -65.5061
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Espiritu",
+    "name": "Espiritu Airstrip",
+    "icao": "BO-0014",
+    "lat": -16.226916,
+    "lon": -60.546454
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Loreto",
+    "name": "Loreto Airport",
+    "icao": "BO-0013",
+    "lat": -15.190029,
+    "lon": -64.757926
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Puerto Leigue",
+    "name": "San Juan de Beni Airport",
+    "icao": "BO-0003",
+    "lat": -14.2626,
+    "lon": -64.8721
+  },
+  {
+    "country": "Bolivia",
+    "state": "El Beni Department",
+    "city": "Santa Rosa de Vigo",
+    "name": "Mayo Mayo Airport",
+    "icao": "BO-0005",
+    "lat": -12.2974,
+    "lon": -65.0986
+  },
+  {
+    "country": "Bolivia",
+    "state": "Santa Cruz Department",
+    "city": "Tres Personas",
+    "name": "Tres Personas Airport",
+    "icao": "BO-0011",
+    "lat": -14.130654,
+    "lon": -61.820904
+  },
+  {
+    "country": "Bolivia",
+    "state": "Chuquisaca Department",
+    "city": "Yamparaez",
+    "name": "AlcantarÃ­ Airport",
+    "icao": "SLAL",
+    "lat": -19.246835,
+    "lon": -65.149611
+  }
+]

@@ -1,0 +1,1613 @@
+[
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Mombasa",
+    "name": "Mombasa Moi International Airport",
+    "icao": "HKMO",
+    "lat": -4.03483009338378,
+    "lon": 39.5942001342773
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Eldoret",
+    "name": "Eldoret International Airport",
+    "icao": "HKEL",
+    "lat": 0.404457986354827,
+    "lon": 35.238899230957
+  },
+  {
+    "country": "Kenya",
+    "state": "North-Eastern Province",
+    "city": "Wajir",
+    "name": "Wajir Airport",
+    "icao": "HKWJ",
+    "lat": 1.73324,
+    "lon": 40.091599
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Malindi",
+    "name": "Malindi Airport",
+    "icao": "HKML",
+    "lat": -3.22931003570556,
+    "lon": 40.1016998291015
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Funzi Island",
+    "name": "Funzi Island Airport",
+    "icao": "KE-0115",
+    "lat": -4.573672,
+    "lon": 39.447079
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kichwa Tembo",
+    "name": "Masai Mara Airport",
+    "icao": "KE-6024",
+    "lat": 1.26666700839996,
+    "lon": 35.0333290100097
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Lokichar",
+    "name": "Lokichar Airport",
+    "icao": "KE-6937",
+    "lat": 2.38333296775817,
+    "lon": 35.6500015258789
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kichwa Tembo",
+    "name": "Kichwa Tembo Airport",
+    "icao": "KE-0133",
+    "lat": -1.263497,
+    "lon": 35.027533
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Amboseli National Park",
+    "name": "Amboseli Airport",
+    "icao": "HKAM",
+    "lat": -2.64505004882812,
+    "lon": 37.2531013488769
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Samburu",
+    "name": "Buffalo Spring",
+    "icao": "HKSB",
+    "lat": 0.530583,
+    "lon": 37.534195
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Coast Province",
+    "name": "Kulalu Ranch Airport",
+    "icao": "KE-6028",
+    "lat": -3.083333,
+    "lon": 39.416668
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Solio Ranch Airport",
+    "icao": "KE-6151",
+    "lat": -0.245167002081871,
+    "lon": 36.8848876953125
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Laikipia Ranch Airport",
+    "icao": "KE-6320",
+    "lat": 0.583333015441894,
+    "lon": 36.4333343505859
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Muridjo Ranch Airport",
+    "icao": "KE-0036",
+    "lat": 0.647221982479095,
+    "lon": 36.8508605957031
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Hall Hall Airport",
+    "icao": "KE-0042",
+    "lat": 0.933332979679107,
+    "lon": 37.066665649414
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Eastern Province",
+    "name": "Ibis Farm Airport",
+    "icao": "KE-0045",
+    "lat": 0.0472779981791973,
+    "lon": 37.2008323669433
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Coast Province",
+    "name": "Kore Galana Ranch Airport",
+    "icao": "KE-0067",
+    "lat": -2.73333311080932,
+    "lon": 39.533332824707
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Arroket",
+    "name": "Arroket Airport",
+    "icao": "KE-6012",
+    "lat": -0.623426,
+    "lon": 35.065867
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Balesa",
+    "name": "Balesa Airport",
+    "icao": "KE-6013",
+    "lat": 3.646972,
+    "lon": 37.350861
+  },
+  {
+    "country": "Kenya",
+    "state": "North-Eastern Province",
+    "city": "Banisa",
+    "name": "Banisa Airport",
+    "icao": "KE-6656",
+    "lat": 3.89431905746459,
+    "lon": 40.3209915161132
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Borana",
+    "name": "Borana Airport",
+    "icao": "KE-6894",
+    "lat": 0.230582997202873,
+    "lon": 37.2841682434082
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Bura",
+    "name": "Bura East Airport",
+    "icao": "HKBR",
+    "lat": -1.10000002384185,
+    "lon": 39.9500007629394
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Chepgoiven",
+    "name": "Chepgoiven Airport",
+    "icao": "KE-0007",
+    "lat": -0.386000007390975,
+    "lon": 35.3341102600097
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Congrieve",
+    "name": "Congrieve Airfield",
+    "icao": "KE-0020",
+    "lat": -0.483944,
+    "lon": 36.124359
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Cottar's Camp",
+    "name": "Cottar's Camp Airport",
+    "icao": "KE-6088",
+    "lat": -1.49522697925567,
+    "lon": 35.4121170043945
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Didima Bule",
+    "name": "Didima Bule Airport",
+    "icao": "KE-6058",
+    "lat": -2.36916708946228,
+    "lon": 39.6175842285156
+  },
+  {
+    "country": "Kenya",
+    "state": "North-Eastern Province",
+    "city": "El Wak",
+    "name": "El Wak Airport",
+    "icao": "HKEW",
+    "lat": 2.812043,
+    "lon": 40.932484
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Eliye Springs",
+    "name": "Eliye Springs Airport",
+    "icao": "HKES",
+    "lat": 3.21667003631591,
+    "lon": 35.9667015075683
+  },
+  {
+    "country": "Kenya",
+    "state": "Nairobi Province",
+    "city": "Embakasi",
+    "name": "Embakasi Airport",
+    "icao": "HKSA",
+    "lat": -1.29821896553039,
+    "lon": 36.9155464172363
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Embu",
+    "name": "Embu Airport",
+    "icao": "HKEM",
+    "lat": -0.57327,
+    "lon": 37.49726
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Gaitu",
+    "name": "Gaitu Airport",
+    "icao": "KE-6050",
+    "lat": -0.0527219995856285,
+    "lon": 37.7341957092285
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Garba Tula",
+    "name": "Garba Tula Airport",
+    "icao": "HKGT",
+    "lat": 0.533333,
+    "lon": 38.516667
+  },
+  {
+    "country": "Kenya",
+    "state": "North-Eastern Province",
+    "city": "Garissa",
+    "name": "Garissa Airport",
+    "icao": "HKGA",
+    "lat": -0.463508009910583,
+    "lon": 39.6483001708984
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Garsen",
+    "name": "Garsen Airport",
+    "icao": "KE-0071",
+    "lat": -2.26805591583251,
+    "lon": 40.0937767028808
+  },
+  {
+    "country": "Kenya",
+    "state": "Nyanza Province",
+    "city": "Homa Bay",
+    "name": "Homa Bay Airport",
+    "icao": "HKHB",
+    "lat": -0.600000023841857,
+    "lon": 34.466999053955
+  },
+  {
+    "country": "Kenya",
+    "state": "North-Eastern Province",
+    "city": "Hulugho",
+    "name": "Hulugho Airport",
+    "icao": "KE-6951",
+    "lat": -1.13597202301025,
+    "lon": 41.0509719848632
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Il Ngwesi",
+    "name": "Il Ngwesi Airport",
+    "icao": "KE-0052",
+    "lat": 0.197249993681907,
+    "lon": 37.467529296875
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Isiolo",
+    "name": "Isiolo Airport",
+    "icao": "HKIS",
+    "lat": 0.338170945644378,
+    "lon": 37.5916938781738
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kajiado",
+    "name": "Kajiado Airport",
+    "icao": "KE-6596",
+    "lat": -1.85000002384185,
+    "lon": 36.783332824707
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Kalacha South",
+    "name": "Kalacha South Airport",
+    "icao": "KE-6074",
+    "lat": 3.01999998092651,
+    "lon": 37.4483337402343
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kalokol",
+    "name": "Kalokol Airport",
+    "icao": "HKFG",
+    "lat": 3.49161,
+    "lon": 35.836777
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Kambi Ya",
+    "name": "Kambi Ya Samaki Airport",
+    "icao": "KE-6907",
+    "lat": -2.31666707992553,
+    "lon": 37.9166679382324
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kamok",
+    "name": "Kamok Airport",
+    "icao": "KE-6027",
+    "lat": 0.013944000005722,
+    "lon": 36.8008346557617
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Kangetchwa",
+    "name": "Kangetchwa Airport",
+    "icao": "KE-0059",
+    "lat": -3.17936396598815,
+    "lon": 38.1310119628906
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kapedo",
+    "name": "Kapedo Airport",
+    "icao": "KE-0018",
+    "lat": 1.16386103630065,
+    "lon": 36.0841674804687
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kigio (Malewa)",
+    "name": "Kigio (Malewa) Airport",
+    "icao": "KE-0030",
+    "lat": -0.56777799129486,
+    "lon": 36.3833618164062
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Kilifi",
+    "name": "Kilifi Plantation Farm Airport",
+    "icao": "KE-6095",
+    "lat": -3.63333296775817,
+    "lon": 39.849998474121
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Kiunga",
+    "name": "Kiunga Airport",
+    "icao": "KE-KIU",
+    "lat": -1.74382901191711,
+    "lon": 41.4843444824218
+  },
+  {
+    "country": "Kenya",
+    "state": "North-Eastern Province",
+    "city": "Komofodo Galana",
+    "name": "Komofodo Galana Ranch Airport",
+    "icao": "KE-6061",
+    "lat": 2.55250000953674,
+    "lon": 39.6675834655761
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kongoni",
+    "name": "Kongoni Airport",
+    "icao": "KE-0023",
+    "lat": -0.866666972637176,
+    "lon": 36.2333335876464
+  },
+  {
+    "country": "Kenya",
+    "state": "Central Province",
+    "city": "Laburra",
+    "name": "Laburra Airport",
+    "icao": "KE-0041",
+    "lat": -0.298471,
+    "lon": 36.947185
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Lake Baringo",
+    "name": "Lake Baringo Airport",
+    "icao": "KE-LBN",
+    "lat": 0.66610300540924,
+    "lon": 36.104190826416
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Lali Galana",
+    "name": "Lali Galana Airport",
+    "icao": "KE-6077",
+    "lat": -3.13577795028686,
+    "lon": 39.3008880615234
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Lewa Downs",
+    "name": "Lewa Downs Airport",
+    "icao": "KE-6885",
+    "lat": 0.195346,
+    "lon": 37.470331
+  },
+  {
+    "country": "Kenya",
+    "state": "North-Eastern Province",
+    "city": "Liboi",
+    "name": "Liboi Airport",
+    "icao": "KE-LBK",
+    "lat": 0.348333001136779,
+    "lon": 40.8816986083984
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Loitokitok",
+    "name": "Loitokitok Airport",
+    "icao": "HKLT",
+    "lat": -2.90988492965698,
+    "lon": 37.5261077880859
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Lokori",
+    "name": "Lokori Airport",
+    "icao": "KE-6007",
+    "lat": 1.966667,
+    "lon": 36.016668
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Lothagah",
+    "name": "Lothagah Airport",
+    "icao": "KE-6036",
+    "lat": 3.033333,
+    "lon": 36.049999
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Magadi",
+    "name": "Magadi Airport",
+    "icao": "HKMG",
+    "lat": -1.94805705547332,
+    "lon": 36.283332824707
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Maji Mazuri",
+    "name": "Maji Mazuri Airport",
+    "icao": "KE-6089",
+    "lat": 0.933333,
+    "lon": 35.166668
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Maktau",
+    "name": "Maktau Gate Airport",
+    "icao": "KE-0057",
+    "lat": -3.40816688537597,
+    "lon": 38.1196670532226
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Manyatta",
+    "name": "Manyatta Airport",
+    "icao": "KE-0028",
+    "lat": -0.494715,
+    "lon": 36.352908
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Mara",
+    "name": "Mara North Conservancy Airstrip",
+    "icao": "KE-6087",
+    "lat": -1.14542,
+    "lon": 35.124922
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Maralal",
+    "name": "Maralal Airport",
+    "icao": "KE-6396",
+    "lat": 1.09945094585418,
+    "lon": 36.6950950622558
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Masalani",
+    "name": "Masalani (Fanjaa) Airport",
+    "icao": "KE-6920",
+    "lat": -1.69565498828887,
+    "lon": 40.1257209777832
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Mbirikani",
+    "name": "Mbirikani Airport",
+    "icao": "KE-0053",
+    "lat": -2.56083297729492,
+    "lon": 37.5410003662109
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Menengai",
+    "name": "Menengai Airport",
+    "icao": "KE-6040",
+    "lat": -0.236028000712394,
+    "lon": 36.000804901123
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Meru-Kinna",
+    "name": "Mulika Lodge Airport",
+    "icao": "KE-0060",
+    "lat": 0.165083006024,
+    "lon": 38.1951408386
+  },
+  {
+    "country": "Kenya",
+    "state": "Nyanza Province",
+    "city": "Mfangano Island",
+    "name": "Mfangano Airport",
+    "icao": "KE-0001",
+    "lat": -0.4665,
+    "lon": 34.063998
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Mitunguu",
+    "name": "Mitunguu Airport",
+    "icao": "KE-6109",
+    "lat": -0.109682999551296,
+    "lon": 37.7901000976562
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Mount Kenya",
+    "name": "Mount Kenya Game Ranch Airport",
+    "icao": "KE-6883",
+    "lat": -0.045436,
+    "lon": 37.129827
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Moyale (Lower)",
+    "name": "Moyale Airport",
+    "icao": "HKMY",
+    "lat": 3.46972,
+    "lon": 39.101398
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Mulika",
+    "name": "Meru Mulika Airport",
+    "icao": "HKMK",
+    "lat": 0.229567,
+    "lon": 38.171412
+  },
+  {
+    "country": "Kenya",
+    "state": "Central Province",
+    "city": "Mweiga",
+    "name": "Marrian's Airport",
+    "icao": "KE-6646",
+    "lat": -0.340590000152587,
+    "lon": 36.9135246276855
+  },
+  {
+    "country": "Kenya",
+    "state": "Nairobi Province",
+    "city": "Nairobi",
+    "name": "Moi Air Base",
+    "icao": "HKRE",
+    "lat": -1.27726995944999,
+    "lon": 36.8623008728
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Naivasha",
+    "name": "Naivasha Airport",
+    "icao": "HKNV",
+    "lat": -0.787953,
+    "lon": 36.433494
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Nakuru",
+    "name": "Nakuru Airport",
+    "icao": "HKNK",
+    "lat": -0.298067,
+    "lon": 36.159302
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Nakuru",
+    "name": "Delamare Camp Airport",
+    "icao": "KE-0024",
+    "lat": -0.402556002140045,
+    "lon": 36.2360572814941
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Nanyuki West",
+    "name": "Nanyuki West Airport",
+    "icao": "KE-0037",
+    "lat": -0.141092,
+    "lon": 36.914995
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Ndabibi",
+    "name": "Ndabibi Airport",
+    "icao": "KE-0021",
+    "lat": -0.743035018444061,
+    "lon": 36.1722221374511
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Ndovu",
+    "name": "Ndovu Airport",
+    "icao": "KE-6042",
+    "lat": 2.0137779712677,
+    "lon": 38.634220123291
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Ngerende",
+    "name": "Ngerende Airport",
+    "icao": "KE-6066",
+    "lat": -1.083519,
+    "lon": 35.18565
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Nginyang",
+    "name": "Nginyang (Kinkang) Airport",
+    "icao": "KE-6647",
+    "lat": 0.966666996479034,
+    "lon": 36.0166664123535
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Ngore Ngore",
+    "name": "Ngore Ngore Airport",
+    "icao": "KE-6044",
+    "lat": -1.83594405651092,
+    "lon": 37.784194946289
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Njoro",
+    "name": "Njoro Country Club Airport",
+    "icao": "KE-0013",
+    "lat": -0.335999995470047,
+    "lon": 35.9174728393554
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Nkreta",
+    "name": "Nkreta Airport",
+    "icao": "KE-6046",
+    "lat": -1.01666700839996,
+    "lon": 35.8333320617675
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "North Horr",
+    "name": "Beverley Airport",
+    "icao": "KE-6127",
+    "lat": 3.316666,
+    "lon": 37.066666
+  },
+  {
+    "country": "Kenya",
+    "state": "Western Province",
+    "city": "Nzoia",
+    "name": "Nzoia Airport",
+    "icao": "KE-0002",
+    "lat": 0.133332997560501,
+    "lon": 34.0833320617675
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Olerai",
+    "name": "Olerai Airport",
+    "icao": "KE-0011",
+    "lat": 0.985943973064422,
+    "lon": 35.5508041381835
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Oleshabani",
+    "name": "Oleshabani Airport",
+    "icao": "KE-0012",
+    "lat": -0.972346007823944,
+    "lon": 35.7467231750488
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Oserian",
+    "name": "Oserian Naivasha Airport",
+    "icao": "KE-6081",
+    "lat": -0.852639019489288,
+    "lon": 36.2674713134765
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rumuruti",
+    "name": "Rumuruti Airport",
+    "icao": "KE-6152",
+    "lat": 0.277594000101089,
+    "lon": 36.533332824707
+  },
+  {
+    "country": "Kenya",
+    "state": "Nyanza Province",
+    "city": "Rusinga",
+    "name": "Rusinga Airport",
+    "icao": "KE-0003",
+    "lat": -0.412667006254196,
+    "lon": 34.1425018310546
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Rutundu",
+    "name": "Rutundu Airport",
+    "icao": "KE-0051",
+    "lat": -0.0526540018618106,
+    "lon": 37.464542388916
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Shekiko",
+    "name": "Shekiko Airport",
+    "icao": "KE-6064",
+    "lat": -2.56666707992553,
+    "lon": 40.349998474121
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Shimba Hills",
+    "name": "Shimba Hills Airport",
+    "icao": "KE-6878",
+    "lat": -1.23569405078887,
+    "lon": 39.4175567626953
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Shompole",
+    "name": "Shompole (Dry Lake) Airport",
+    "icao": "KE-0016",
+    "lat": -2.02033305168151,
+    "lon": 36.0391120910644
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Sigor",
+    "name": "Sigor Airport",
+    "icao": "KE-6155",
+    "lat": 1.483333,
+    "lon": 35.466667
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Sololo",
+    "name": "Sololo Airport",
+    "icao": "KE-6650",
+    "lat": 3.5545470714569,
+    "lon": 38.6436347961425
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "SOY-Chemoset",
+    "name": "Soy-Chemoset Airport",
+    "icao": "KE-6068",
+    "lat": 0.713889002799987,
+    "lon": 36.8675003051757
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Sukuta Mugie",
+    "name": "Mugie Ranch Airport",
+    "icao": "KE-0032",
+    "lat": 0.714812,
+    "lon": 36.586594
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Taita Hills",
+    "name": "Taita Hills Airport",
+    "icao": "KE-6053",
+    "lat": -3.51238894462585,
+    "lon": 38.2502212524414
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Tassia",
+    "name": "Tassia Airport",
+    "icao": "KE-0047",
+    "lat": 0.426221996545791,
+    "lon": 37.3340263366699
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Taveta",
+    "name": "Taveta Airport",
+    "icao": "KE-6576",
+    "lat": -3.39476490020751,
+    "lon": 37.6977577209472
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Todenyang",
+    "name": "Todenyang Airport",
+    "icao": "KE-6166",
+    "lat": 4.53025007247924,
+    "lon": 35.9175262451171
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Voi",
+    "name": "Voi Park Airport",
+    "icao": "KE-6175",
+    "lat": -3.36272192001342,
+    "lon": 38.605167388916
+  },
+  {
+    "country": "Kenya",
+    "state": "Central Province",
+    "city": "Wanguru (Thiba)",
+    "name": "Wanguru (Thiba) Airport",
+    "icao": "KE-0048",
+    "lat": -0.696676015853881,
+    "lon": 37.3746185302734
+  },
+  {
+    "country": "Kenya",
+    "state": "Western Province",
+    "city": "Webuye",
+    "name": "Webuye Airport",
+    "icao": "HKWE",
+    "lat": 0.616999983787536,
+    "lon": 34.7830009460449
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Ngare Ndare Airstrip",
+    "icao": "KE-0073",
+    "lat": 0.231557,
+    "lon": 37.364159
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Eastern Province",
+    "name": "Tana River Rapids Airport",
+    "icao": "KE-0082",
+    "lat": -0.069552,
+    "lon": 38.382484
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Eastern Province",
+    "name": "Rojewero River Airport",
+    "icao": "KE-0084",
+    "lat": 0.118977,
+    "lon": 38.268425
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Eastern Province",
+    "name": "Asako Airport",
+    "icao": "KE-0090",
+    "lat": -0.107107,
+    "lon": 39.046973
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Cottars Mara Airport",
+    "icao": "KE-0107",
+    "lat": -1.680954,
+    "lon": 35.344401
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Kamogi Ranch Airstrip",
+    "icao": "KE-0127",
+    "lat": 0.601706,
+    "lon": 36.73699
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Coast Province",
+    "name": "Kilalinda Airport",
+    "icao": "KE-0136",
+    "lat": -2.627593,
+    "lon": 38.338681
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Langata Enerit Airstrip",
+    "icao": "KE-0149",
+    "lat": -1.536513,
+    "lon": 36.020637
+  },
+  {
+    "country": "Kenya",
+    "state": "Central Province",
+    "city": "Central Province",
+    "name": "Limuru Airstrip",
+    "icao": "KE-0154",
+    "lat": -1.106687,
+    "lon": 36.688778
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Coast Province",
+    "name": "Lugard Falls South Airport",
+    "icao": "KE-0158",
+    "lat": -3.048607,
+    "lon": 38.689626
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Eastern Province",
+    "name": "Mawingo Airprot",
+    "icao": "KE-0162",
+    "lat": -0.043734,
+    "lon": 37.145506
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Eastern Province",
+    "name": "Meriti Oil Rig Airstrip",
+    "icao": "KE-0164",
+    "lat": 1.089888,
+    "lon": 38.600205
+  },
+  {
+    "country": "Kenya",
+    "state": "Western Province",
+    "city": "Western Province",
+    "name": "Mount Elgon Orchards Airstrip",
+    "icao": "KE-0166",
+    "lat": 1.209714,
+    "lon": 34.796225
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Mpala Research Center Airstrip",
+    "icao": "KE-0168",
+    "lat": 0.29012,
+    "lon": 36.892436
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Mukenye Ranch Airstrip",
+    "icao": "KE-0170",
+    "lat": 0.251711,
+    "lon": 36.805338
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Nariokotome Airport",
+    "icao": "KE-0174",
+    "lat": 4.114254,
+    "lon": 35.840039
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Ol Donyo Laro Airport",
+    "icao": "KE-0180",
+    "lat": -1.813717,
+    "lon": 36.018261
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Ol Seki Airstrip",
+    "icao": "KE-0182",
+    "lat": -1.378382,
+    "lon": 35.378453
+  },
+  {
+    "country": "Kenya",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "Oseur Airstrip",
+    "icao": "KE-0184",
+    "lat": -1.606288,
+    "lon": 35.436835
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Saguta Naibor Ranch Airstrip",
+    "icao": "KE-0187",
+    "lat": 0.431231,
+    "lon": 36.729133
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Eastern Province",
+    "name": "Shaba Lodge Airport",
+    "icao": "KE-0191",
+    "lat": 0.658176,
+    "lon": 37.700377
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Rift Valley Province",
+    "name": "Sirocco Airstrip",
+    "icao": "KE-0194",
+    "lat": -0.721299,
+    "lon": 36.28709
+  },
+  {
+    "country": "Kenya",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "Tinderet Teas Estate Airstrip",
+    "icao": "KE-0199",
+    "lat": -0.017443,
+    "lon": 35.351428
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Coast Province",
+    "name": "Tsavo Safari Camp Airstrip",
+    "icao": "KE-0201",
+    "lat": -2.638919,
+    "lon": 38.364736
+  },
+  {
+    "country": "Kenya",
+    "state": "North-Eastern Province",
+    "city": "Arabia",
+    "name": "Arabia Airport",
+    "icao": "KE-0089",
+    "lat": 3.566973,
+    "lon": 41.511833
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Bachuma",
+    "name": "Bachuma Gate Airport",
+    "icao": "KE-0092",
+    "lat": -3.663575,
+    "lon": 38.945339
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Baragoi",
+    "name": "Baragoi West Airport",
+    "icao": "KE-0093",
+    "lat": 1.807578,
+    "lon": 36.679137
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Bogani",
+    "name": "Bogani Airport",
+    "icao": "KE-0100",
+    "lat": -1.014198,
+    "lon": 35.342806
+  },
+  {
+    "country": "Kenya",
+    "state": "Nyanza Province",
+    "city": "Bomet",
+    "name": "Bomet Airport",
+    "icao": "KE-0101",
+    "lat": -0.776471,
+    "lon": 35.318411
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Bura West",
+    "name": "Bura West Airport",
+    "icao": "KE-0081",
+    "lat": -1.189574,
+    "lon": 39.81448
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Bute",
+    "name": "Bute Moyale Airport",
+    "icao": "KE-0103",
+    "lat": 3.337517,
+    "lon": 39.41424
+  },
+  {
+    "country": "Kenya",
+    "state": "North-Eastern Province",
+    "city": "Dadaab",
+    "name": "Dadaab Airstrip",
+    "icao": "KE-0108",
+    "lat": 0.058189,
+    "lon": 40.318055
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Dol Dol",
+    "name": "Dol Dol Airport",
+    "icao": "KE-0109",
+    "lat": 0.367944,
+    "lon": 37.141442
+  },
+  {
+    "country": "Kenya",
+    "state": "(unassigned)",
+    "city": "Engelesha",
+    "name": "Engelesha Airport",
+    "icao": "KE-0112",
+    "lat": 0.510757,
+    "lon": 36.294394
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Gatab",
+    "name": "Gatab Lower Airport",
+    "icao": "KE-0117",
+    "lat": 2.636477,
+    "lon": 36.932055
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Habaswein",
+    "name": "Habaswein Airport",
+    "icao": "KE-0120",
+    "lat": 1.016215,
+    "lon": 39.505836
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Ileret",
+    "name": "Ileret Town Airport",
+    "icao": "KE-0122",
+    "lat": 4.304698,
+    "lon": 36.235572
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Kamburu",
+    "name": "Kamburu Airport",
+    "icao": "KE-0126",
+    "lat": -0.823913,
+    "lon": 37.715869
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Karagita",
+    "name": "Airspray Naivasha Airfield",
+    "icao": "KE-0086",
+    "lat": -0.802034,
+    "lon": 36.411967
+  },
+  {
+    "country": "Kenya",
+    "state": "(unassigned)",
+    "city": "Karamaini",
+    "name": "Bobs Harries Airport",
+    "icao": "KE-0099",
+    "lat": -1.040713,
+    "lon": 36.992879
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Kargi",
+    "name": "Belatrix Kargi Airport",
+    "icao": "KE-0097",
+    "lat": 2.505995,
+    "lon": 37.565966
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Kasigau",
+    "name": "Kasigau Gate Airport",
+    "icao": "KE-0129",
+    "lat": -3.85072,
+    "lon": 38.515401
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kataboi",
+    "name": "Kataboi Airport",
+    "icao": "KE-0130",
+    "lat": 3.756125,
+    "lon": 35.833843
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Katilu",
+    "name": "Katilu Airport",
+    "icao": "KE-0131",
+    "lat": 2.284583,
+    "lon": 35.429495
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kauro",
+    "name": "Kauro Airstrip",
+    "icao": "KE-0079",
+    "lat": 1.06402,
+    "lon": 37.720198
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kedong",
+    "name": "Kedong Airport",
+    "icao": "KE-0132",
+    "lat": -1.299226,
+    "lon": 36.475029
+  },
+  {
+    "country": "Kenya",
+    "state": "Nyanza Province",
+    "city": "Kericho",
+    "name": "Marinyn Airport",
+    "icao": "KE-0161",
+    "lat": -0.436093,
+    "lon": 35.298761
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kijabe",
+    "name": "Kijabe Airport",
+    "icao": "KE-0135",
+    "lat": -0.956812,
+    "lon": 36.592155
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kipsin",
+    "name": "Kipsin Airstrip",
+    "icao": "KE-0139",
+    "lat": 0.598082,
+    "lon": 37.319715
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kongoni",
+    "name": "Kongoni Game Valley Airport",
+    "icao": "KE-0142",
+    "lat": -0.843317,
+    "lon": 36.259475
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Korr",
+    "name": "Korr AIM Airstrip",
+    "icao": "KE-0144",
+    "lat": 2.007568,
+    "lon": 37.492219
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kowop",
+    "name": "Kowop Airstrip",
+    "icao": "KE-0145",
+    "lat": 2.00616,
+    "lon": 36.8299
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kuluo",
+    "name": "Kuluo Airport",
+    "icao": "KE-0146",
+    "lat": -1.12471,
+    "lon": 35.197795
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Kuti",
+    "name": "Kuti Airport",
+    "icao": "KE-0147",
+    "lat": 0.645962,
+    "lon": 36.427784
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Lenana",
+    "name": "Private Airstrip near Lenana",
+    "icao": "KE-0076",
+    "lat": -0.162177994847297,
+    "lon": 37.4458999633789
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Lentille",
+    "name": "Lentille Airport",
+    "icao": "KE-0153",
+    "lat": 0.504473,
+    "lon": 37.006397
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Log Logo",
+    "name": "Log Logo Airstrip",
+    "icao": "KE-0077",
+    "lat": 1.994582,
+    "lon": 37.916434
+  },
+  {
+    "country": "Kenya",
+    "state": "Nyanza Province",
+    "city": "MacAlder Mines",
+    "name": "MacAlder Airport",
+    "icao": "KE-0205",
+    "lat": -0.957591,
+    "lon": 34.306287
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Manyani",
+    "name": "Manyani Airport",
+    "icao": "KE-0160",
+    "lat": -3.094749,
+    "lon": 38.476476
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Marsabit",
+    "name": "Segel Airprot",
+    "icao": "KE-0190",
+    "lat": 2.544761,
+    "lon": 37.944126
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Mutomo",
+    "name": "Mutomo Airport",
+    "icao": "KE-0171",
+    "lat": -1.846779,
+    "lon": 38.204732
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Mwatate",
+    "name": "Mwatate Airport",
+    "icao": "KE-0172",
+    "lat": -3.517815,
+    "lon": 38.442556
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Naivasha",
+    "name": "Barton's Naivasha Airport",
+    "icao": "KE-0095",
+    "lat": -0.795118,
+    "lon": 36.295698
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Nanyuki",
+    "name": "Laikipia Air Base",
+    "icao": "KE-0075",
+    "lat": 0.032933,
+    "lon": 37.026901
+  },
+  {
+    "country": "Kenya",
+    "state": "Coast Province",
+    "city": "Ngao",
+    "name": "Ngao Airport",
+    "icao": "KE-0177",
+    "lat": -2.42834,
+    "lon": 40.193087
+  },
+  {
+    "country": "Kenya",
+    "state": "(unassigned)",
+    "city": "Rongai",
+    "name": "Carzan Rongai Airport",
+    "icao": "KE-0104",
+    "lat": -0.191457,
+    "lon": 35.864189
+  },
+  {
+    "country": "Kenya",
+    "state": "Eastern Province",
+    "city": "Seder",
+    "name": "Seder Airport",
+    "icao": "KE-0189",
+    "lat": 2.314229,
+    "lon": 36.88698
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Sigor",
+    "name": "Sigor Airport",
+    "icao": "KE-0193",
+    "lat": 1.58209,
+    "lon": 35.471191
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Sware",
+    "name": "Sware Airport",
+    "icao": "KE-0198",
+    "lat": 1.077515,
+    "lon": 37.092131
+  },
+  {
+    "country": "Kenya",
+    "state": "Western Province",
+    "city": "Tawi",
+    "name": "Tawi airfield",
+    "icao": "HKTW",
+    "lat": -2.73,
+    "lon": 37.427
+  },
+  {
+    "country": "Kenya",
+    "state": "Rift Valley Province",
+    "city": "Turi",
+    "name": "St. Andrews School Airstrip",
+    "icao": "KE-0197",
+    "lat": -0.273941,
+    "lon": 35.767293
+  }
+]

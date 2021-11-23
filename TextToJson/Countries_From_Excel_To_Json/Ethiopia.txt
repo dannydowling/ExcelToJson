@@ -1,0 +1,227 @@
+[
+  {
+    "country": "Ethiopia",
+    "state": "Addis Ababa",
+    "city": "Addis Ababa",
+    "name": "Addis Ababa Bole International Airport",
+    "icao": "HAAB",
+    "lat": 8.97789001465,
+    "lon": 38.7993011474999
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Amara",
+    "city": "Lalibela",
+    "name": "Lalibella Airport",
+    "icao": "HALL",
+    "lat": 11.9750003814697,
+    "lon": 38.9799995422363
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Benshangul-Gumaz",
+    "city": "Asosa",
+    "name": "Asosa Airport",
+    "icao": "HASO",
+    "lat": 10.0185003280639,
+    "lon": 34.5862998962402
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Gambela Peoples",
+    "city": "Gambela",
+    "name": "Gambella Airport",
+    "icao": "HAGM",
+    "lat": 8.12876033782959,
+    "lon": 34.5630989074707
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Gambela Peoples",
+    "city": "Dembidollo",
+    "name": "Dembidollo Airport",
+    "icao": "HADD",
+    "lat": 8.55399990081787,
+    "lon": 34.8580017089843
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Gambela Peoples",
+    "city": "Gore",
+    "name": "Gore Airport",
+    "icao": "HAGR",
+    "lat": 8.1614,
+    "lon": 35.5529
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Amara",
+    "city": "Debre Tabor",
+    "name": "Debre Tabor Airport",
+    "icao": "HADT",
+    "lat": 11.9670000076293,
+    "lon": 38.0
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Oromia",
+    "city": "Dodola",
+    "name": "Dodola Airport",
+    "icao": "HADO",
+    "lat": 7.02055978775024,
+    "lon": 39.0511016845703
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Oromia",
+    "city": "Fincha",
+    "name": "Fincha Airport",
+    "icao": "HAFN",
+    "lat": 9.58300018310546,
+    "lon": 37.349998474121
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Oromia",
+    "city": "Ghinnir",
+    "name": "Ghinnir Airport",
+    "icao": "HAGH",
+    "lat": 7.15000009537,
+    "lon": 40.716999054
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Oromia",
+    "city": "Goba",
+    "name": "Robe Airport",
+    "icao": "HAGB",
+    "lat": 7.1160634,
+    "lon": 40.0463033
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Somali",
+    "city": "Kelafo",
+    "name": "Kelafo East Airport",
+    "icao": "HAKL",
+    "lat": 5.65700006484985,
+    "lon": 44.349998474121
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Benshangul-Gumaz",
+    "city": "Mendi",
+    "name": "Mendi Airport",
+    "icao": "HAMN",
+    "lat": 9.76700019836425,
+    "lon": 35.099998474121
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Amara",
+    "city": "Metema",
+    "name": "Metema Airport",
+    "icao": "HAMM",
+    "lat": 12.9329996108999,
+    "lon": 36.1669998169
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Oromia",
+    "city": "Nekemte",
+    "name": "Nekemte Airport",
+    "icao": "HANK",
+    "lat": 9.05000019073486,
+    "lon": 36.599998474121
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Oromia",
+    "city": "Sheik Hussein",
+    "name": "Sheik Hussein Airport",
+    "icao": "HASH",
+    "lat": 7.15000009536743,
+    "lon": 40.5670013427734
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Oromia",
+    "city": "Waca",
+    "name": "Waca Airport",
+    "icao": "HAWC",
+    "lat": 7.16699981689453,
+    "lon": 37.1669998168945
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Southern Nations, Nationalities and Peoples",
+    "city": "Southern Nations, Nationalities and Peoples",
+    "name": "Ganada Airport",
+    "icao": "ET-0003",
+    "lat": 5.337166,
+    "lon": 37.022991
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Somali",
+    "city": "Jijiga",
+    "name": "Old Jijiga Airport",
+    "icao": "ET-0001",
+    "lat": 9.3615,
+    "lon": 42.7887
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Southern Nations, Nationalities and Peoples",
+    "city": "Kibbish Wells",
+    "name": "Kibbish Wells Airport",
+    "icao": "ET-0002",
+    "lat": 5.296,
+    "lon": 35.8682
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Amara",
+    "city": "Mekane Selam",
+    "name": "Mekane Selam Airport",
+    "icao": "HAMA",
+    "lat": 10.7254,
+    "lon": 38.7415
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Oromia",
+    "city": "Moyale",
+    "name": "Moyale Airport",
+    "icao": "MYS",
+    "lat": 3.5623,
+    "lon": 39.0433
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Oromia",
+    "city": "Negele Borana",
+    "name": "Negele Airport",
+    "icao": "HANG",
+    "lat": 5.2897,
+    "lon": 39.7023
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Afar",
+    "city": "Semera",
+    "name": "Semera Airport",
+    "icao": "HASM",
+    "lat": 11.7875,
+    "lon": 40.9915
+  },
+  {
+    "country": "Ethiopia",
+    "state": "Southern Nations, Nationalities and Peoples",
+    "city": "Tum",
+    "name": "Tum Airport",
+    "icao": "TUJ",
+    "lat": 6.26,
+    "lon": 35.5184
+  }
+]

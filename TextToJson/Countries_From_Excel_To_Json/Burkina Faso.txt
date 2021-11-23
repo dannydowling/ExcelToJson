@@ -1,0 +1,299 @@
+[
+  {
+    "country": "Burkina Faso",
+    "state": "Kadiogo",
+    "city": "Ouagadougou",
+    "name": "Ouagadougou Airport",
+    "icao": "DFFD",
+    "lat": 12.3532,
+    "lon": -1.51242
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Zoundweogo",
+    "city": "Manga",
+    "name": "Manga Airport",
+    "icao": "DFCM",
+    "lat": 11.6669998168945,
+    "lon": -1.06700003147125
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Soum",
+    "city": "Aribinda",
+    "name": "Aribinda Airport",
+    "icao": "DFOY",
+    "lat": 14.2170000076,
+    "lon": -0.883000016212
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Tapoa",
+    "city": "Arly",
+    "name": "Arly Airport",
+    "icao": "DFER",
+    "lat": 11.5970001220703,
+    "lon": 1.48300004005432
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Comoe",
+    "city": "Banfora",
+    "name": "Banfora Airport",
+    "icao": "DFOB",
+    "lat": 10.6829996109008,
+    "lon": -4.71700000762939
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Sanmatenga",
+    "city": "Barsalogho",
+    "name": "Barsalogho Airport",
+    "icao": "DFCB",
+    "lat": 13.3999996185302,
+    "lon": -1.06700003147125
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Noumbiel",
+    "city": "Batie",
+    "name": "Batie Airport",
+    "icao": "DFCE",
+    "lat": 9.88300037384033,
+    "lon": -2.91700005531311
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Gnagna",
+    "city": "Bogande",
+    "name": "Bogande Airport",
+    "icao": "DFEB",
+    "lat": 12.9829998016357,
+    "lon": -0.166999995708465
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Namentenga",
+    "city": "Boulsa",
+    "name": "Boulsa Airport",
+    "icao": "DFEA",
+    "lat": 12.6499996185302,
+    "lon": -0.566999971866607
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Mouhoun",
+    "city": "Dedougou",
+    "name": "Dedougou Airport",
+    "icao": "DFOD",
+    "lat": 12.458999633789,
+    "lon": -3.49000000953674
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Tapoa",
+    "city": "Diapaga",
+    "name": "Diapaga Airport",
+    "icao": "DFED",
+    "lat": 12.060324,
+    "lon": 1.784631
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Bougouriba",
+    "city": "Diebougou",
+    "name": "Diebougou Airport",
+    "icao": "DFOU",
+    "lat": 10.9499998092651,
+    "lon": -3.25
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Soum",
+    "city": "Djibo",
+    "name": "Djibo Airport",
+    "icao": "DFCJ",
+    "lat": 14.1000003814697,
+    "lon": -1.63300001621246
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Seno",
+    "city": "Dori",
+    "name": "Dori Airport",
+    "icao": "DFEE",
+    "lat": 14.0329999923706,
+    "lon": -0.032999999821186
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Poni",
+    "city": "Gaoua",
+    "name": "Gaoua Airport",
+    "icao": "DFOG",
+    "lat": 10.384059,
+    "lon": -3.163454
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Oudalan",
+    "city": "Gorom-Gorom",
+    "name": "Gorom-Gorom Airport",
+    "icao": "DFEG",
+    "lat": 14.4499998092651,
+    "lon": -0.232999995350837
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Tapoa",
+    "city": "Kantchari",
+    "name": "Kantchari Airport",
+    "icao": "DFEL",
+    "lat": 12.4670000076293,
+    "lon": 1.5
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Kouritenga",
+    "city": "Koupela",
+    "name": "Koupela Airport",
+    "icao": "DFEK",
+    "lat": 12.1669998168945,
+    "lon": -0.300000011920928
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Comoe",
+    "city": "Loumana",
+    "name": "Loumana Airport",
+    "icao": "DFOL",
+    "lat": 10.5670003890991,
+    "lon": -5.34999990463256
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Kenedougou",
+    "city": "Orodara",
+    "name": "Orodara Airport",
+    "icao": "DFOR",
+    "lat": 10.9829998016357,
+    "lon": -4.93300008773803
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Yatenga",
+    "city": "Ouahigouya",
+    "name": "Ouahigouya Airport",
+    "icao": "DFCC",
+    "lat": 13.5670003890991,
+    "lon": -2.41700005531311
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Kompienga",
+    "city": "Pama",
+    "name": "Pama Airport",
+    "icao": "DFEP",
+    "lat": 11.25,
+    "lon": 0.699999988079071
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Nahouri",
+    "city": "Po",
+    "name": "Po Airport",
+    "icao": "DFCP",
+    "lat": 11.1499996185302,
+    "lon": -1.14999997615814
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Bale",
+    "city": "Poura",
+    "name": "Poura Airport",
+    "icao": "DFCR",
+    "lat": 11.6169996261596,
+    "lon": -2.75
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Mouhoun",
+    "city": "Safane",
+    "name": "Safane Airport",
+    "icao": "DFOF",
+    "lat": 12.1499996185302,
+    "lon": -3.18300008773803
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Yatenga",
+    "city": "Seguenega",
+    "name": "Seguenega Airport",
+    "icao": "DFCS",
+    "lat": 13.4329996109008,
+    "lon": -2.0
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Sanguie",
+    "city": "Tenado",
+    "name": "Tenado Airport",
+    "icao": "DFCT",
+    "lat": 12.1999998092651,
+    "lon": -2.58299994468688
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Boulgou",
+    "city": "Tenkodogo",
+    "name": "Tenkodogo Airport",
+    "icao": "DFET",
+    "lat": 11.8000001907348,
+    "lon": -0.367000013589859
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Loroum",
+    "city": "Titao",
+    "name": "Titao Airport",
+    "icao": "DFCI",
+    "lat": 13.7670001983642,
+    "lon": -2.08299994468688
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Passore",
+    "city": "Yako",
+    "name": "Yako Airport",
+    "icao": "DFCY",
+    "lat": 12.9499998092651,
+    "lon": -2.2829999923706
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Boulgou",
+    "city": "ZabrÃ©",
+    "name": "ZabrÃ© Airport",
+    "icao": "DFEZ",
+    "lat": 11.1669998168945,
+    "lon": -0.616999983787536
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Ganzourgou",
+    "city": "Zorgo",
+    "name": "Zorgo Airport",
+    "icao": "DFEO",
+    "lat": 12.25,
+    "lon": -0.616999983787536
+  },
+  {
+    "country": "Burkina Faso",
+    "state": "Oudalan",
+    "city": "Essakane Gold Mine",
+    "name": "Iamgold - Peta Barabe Airfield",
+    "icao": "BF-0001",
+    "lat": 14.3663888889,
+    "lon": 0.0869444444444
+  }
+]

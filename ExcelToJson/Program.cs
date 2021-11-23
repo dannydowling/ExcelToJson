@@ -77,15 +77,12 @@ namespace ExcelToJson
                 {
                     foreach (var listLocation in list.Values)
                     {
-
-                        foreach (var location in listLocation)
-                        {
+                       
                             fileWritingLocations.AddRange(listLocation.Where(x => x.country == countryAsString).ToList());
 
                             using (var sw = new StreamWriter("./Countries/" + countryAsString + ".txt"))
                                 Write(sw, fileWritingLocations);
-                           
-                        }
+                                                  
                     }
                     fileWritingLocations.RemoveAll(x => x.country == countryAsString);
                 }

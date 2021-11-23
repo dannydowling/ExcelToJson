@@ -1,0 +1,371 @@
+[
+  {
+    "country": "Burma",
+    "state": "Mandalay Division",
+    "city": "Mandalay",
+    "name": "Mandalay International Airport",
+    "icao": "VYMD",
+    "lat": 21.702199935913,
+    "lon": 95.9778976440429
+  },
+  {
+    "country": "Burma",
+    "state": "Tanintharyi Division",
+    "city": "Dawei",
+    "name": "Dawei Airport",
+    "icao": "VYDW",
+    "lat": 14.1038999557495,
+    "lon": 98.2035980224609
+  },
+  {
+    "country": "Burma",
+    "state": "Tanintharyi Division",
+    "city": "Mkeik",
+    "name": "Myeik Airport",
+    "icao": "VYME",
+    "lat": 12.4398002624511,
+    "lon": 98.6214981079101
+  },
+  {
+    "country": "Burma",
+    "state": "Rakhine State",
+    "city": "Sittwe",
+    "name": "Sittwe Airport",
+    "icao": "VYSW",
+    "lat": 20.1326999664306,
+    "lon": 92.8725967407226
+  },
+  {
+    "country": "Burma",
+    "state": "Mandalay Division",
+    "city": "Anisakan",
+    "name": "Anisakan Airport",
+    "icao": "VYAS",
+    "lat": 21.9554004669189,
+    "lon": 96.4060974121093
+  },
+  {
+    "country": "Burma",
+    "state": "Mandalay Division",
+    "city": "Meiktila",
+    "name": "Meiktila Air Base",
+    "icao": "VYML",
+    "lat": 20.8864002227783,
+    "lon": 95.8927917480468
+  },
+  {
+    "country": "Burma",
+    "state": "Mandalay Division",
+    "city": "Pyinmana",
+    "name": "Naypyidaw Airport",
+    "icao": "VYEL",
+    "lat": 19.623501,
+    "lon": 96.200996
+  },
+  {
+    "country": "Burma",
+    "state": "Shan State",
+    "city": "Kengtung",
+    "name": "Kengtung Airport",
+    "icao": "VYKG",
+    "lat": 21.3015995025634,
+    "lon": 99.636001586914
+  },
+  {
+    "country": "Burma",
+    "state": "Rakhine State",
+    "city": "Kyaukpyu",
+    "name": "Kyaukpyu Airport",
+    "icao": "VYKP",
+    "lat": 19.426399230957,
+    "lon": 93.534797668457
+  },
+  {
+    "country": "Burma",
+    "state": "Kayah State",
+    "city": "Loikaw",
+    "name": "Loikaw Airport",
+    "icao": "VYLK",
+    "lat": 19.691499710083,
+    "lon": 97.2147979736328
+  },
+  {
+    "country": "Burma",
+    "state": "Kachin State",
+    "city": "Myitkyina",
+    "name": "Myitkyina Airport",
+    "icao": "VYMK",
+    "lat": 25.3836002349853,
+    "lon": 97.3518981933593
+  },
+  {
+    "country": "Burma",
+    "state": "Kachin State",
+    "city": "Putao",
+    "name": "Putao Airport",
+    "icao": "VYPT",
+    "lat": 27.3299007415771,
+    "lon": 97.4263000488281
+  },
+  {
+    "country": "Burma",
+    "state": "Shan State",
+    "city": "Tachileik",
+    "name": "Tachileik Airport",
+    "icao": "VYTL",
+    "lat": 20.4838008880615,
+    "lon": 99.9354019165039
+  },
+  {
+    "country": "Burma",
+    "state": "Mon State",
+    "city": "Mawlamyine",
+    "name": "Mawlamyine Airport",
+    "icao": "VYMM",
+    "lat": 16.4447002410888,
+    "lon": 97.6606979370117
+  },
+  {
+    "country": "Burma",
+    "state": "Magway Division",
+    "city": "Pakhokku",
+    "name": "Pakhokku Airport",
+    "icao": "VYPU",
+    "lat": 21.4043,
+    "lon": 95.11125
+  },
+  {
+    "country": "Burma",
+    "state": "Shan State",
+    "city": "Shan State",
+    "name": "Momeik Airport",
+    "icao": "VYMO",
+    "lat": 23.0925006866455,
+    "lon": 96.6453018188476
+  },
+  {
+    "country": "Burma",
+    "state": "Shan State",
+    "city": "Namsang",
+    "name": "Namsang Airport",
+    "icao": "VYNS",
+    "lat": 20.8904991149902,
+    "lon": 97.7359008789062
+  },
+  {
+    "country": "Burma",
+    "state": "Rakhine State",
+    "city": "Aeng",
+    "name": "Ann Airport",
+    "icao": "VYAN",
+    "lat": 19.769199,
+    "lon": 94.0261
+  },
+  {
+    "country": "Burma",
+    "state": "Yangon Division",
+    "city": "Coco Island",
+    "name": "Coco Island Airport",
+    "icao": "VYCI",
+    "lat": 14.1415004730224,
+    "lon": 93.3684997558593
+  },
+  {
+    "country": "Burma",
+    "state": "Magway Division",
+    "city": "Gangaw",
+    "name": "Gangaw Airport",
+    "icao": "VYGG",
+    "lat": 22.1746997833251,
+    "lon": 94.1343994140625
+  },
+  {
+    "country": "Burma",
+    "state": "Sagaing Division",
+    "city": "Kalemyo",
+    "name": "Kalay Airport",
+    "icao": "VYKL",
+    "lat": 23.1888008117675,
+    "lon": 94.0511016845703
+  },
+  {
+    "country": "Burma",
+    "state": "Magway Division",
+    "city": "Kyauktu",
+    "name": "Kyauktu Airport",
+    "icao": "VYKU",
+    "lat": 21.3999996185302,
+    "lon": 94.13330078125
+  },
+  {
+    "country": "Burma",
+    "state": "Shan State",
+    "city": "Langhko",
+    "name": "Langkho Airport",
+    "icao": "MM-0003",
+    "lat": 20.3500003814697,
+    "lon": 98.0166702270507
+  },
+  {
+    "country": "Burma",
+    "state": "Magway Division",
+    "city": "Magway",
+    "name": "New Magway Airport",
+    "icao": "VY02",
+    "lat": 20.153600692749,
+    "lon": 94.9686965942382
+  },
+  {
+    "country": "Burma",
+    "state": "Rakhine State",
+    "city": "Manaung",
+    "name": "Manaung Airport",
+    "icao": "VYMN",
+    "lat": 18.8458003997802,
+    "lon": 93.6889038085937
+  },
+  {
+    "country": "Burma",
+    "state": "Mandalay Division",
+    "city": "Mandalay",
+    "name": "Chanmyathazi Airport",
+    "icao": "VYCZ",
+    "lat": 21.9405002593994,
+    "lon": 96.089599609375
+  },
+  {
+    "country": "Burma",
+    "state": "Shan State",
+    "city": "Mong Tong",
+    "name": "Mong Tong Airport",
+    "icao": "VYMT",
+    "lat": 20.2966995239257,
+    "lon": 98.8989028930664
+  },
+  {
+    "country": "Burma",
+    "state": "Shan State",
+    "city": "Mongpyin",
+    "name": "Mongpyin Airport",
+    "icao": "VYMP",
+    "lat": 21.3500003814697,
+    "lon": 99.0329971313476
+  },
+  {
+    "country": "Burma",
+    "state": "Sagaing Division",
+    "city": "Monywar",
+    "name": "Monywar Airport",
+    "icao": "VYMY",
+    "lat": 22.221638,
+    "lon": 95.093479
+  },
+  {
+    "country": "Burma",
+    "state": "Rakhine State",
+    "city": "Myauk U",
+    "name": "Myauk U Airport",
+    "icao": "VYMU",
+    "lat": 20.5669994354248,
+    "lon": 93.1999969482421
+  },
+  {
+    "country": "Burma",
+    "state": "Chin State",
+    "city": "Paletwa",
+    "name": "Paletwa Airport",
+    "icao": "VYPE",
+    "lat": 21.2999992370605,
+    "lon": 92.9169998168945
+  },
+  {
+    "country": "Burma",
+    "state": "Magway Division",
+    "city": "Pauk",
+    "name": "Pauk Airport",
+    "icao": "VYPK",
+    "lat": 21.4491996765136,
+    "lon": 94.4869003295898
+  },
+  {
+    "country": "Burma",
+    "state": "Bago Division",
+    "city": "Pegu",
+    "name": "Bago Airport",
+    "icao": "MM-0001",
+    "lat": 17.2996006011962,
+    "lon": 96.4337997436523
+  },
+  {
+    "country": "Burma",
+    "state": "Sagaing Division",
+    "city": "Phonngbyin",
+    "name": "Phonngbyin Airport",
+    "icao": "VYPB",
+    "lat": 24.25,
+    "lon": 94.7829971313476
+  },
+  {
+    "country": "Burma",
+    "state": "Sagaing Division",
+    "city": "Pinlebu",
+    "name": "Pinlebu Airport",
+    "icao": "VYPL",
+    "lat": 24.0830001831054,
+    "lon": 95.3669967651367
+  },
+  {
+    "country": "Burma",
+    "state": "Bago Division",
+    "city": "Pye",
+    "name": "Pyay Airport",
+    "icao": "VYPY",
+    "lat": 18.824499130249,
+    "lon": 95.265998840332
+  },
+  {
+    "country": "Burma",
+    "state": "Sagaing Division",
+    "city": "Salingyi",
+    "name": "Salingyi Airport",
+    "icao": "VYSL",
+    "lat": 22.1000003814697,
+    "lon": 95.0169982910156
+  },
+  {
+    "country": "Burma",
+    "state": "Magway Division",
+    "city": "Saw",
+    "name": "Saw Airport",
+    "icao": "VYSA",
+    "lat": 21.1669998168945,
+    "lon": 94.1669998168945
+  },
+  {
+    "country": "Burma",
+    "state": "Kachin State",
+    "city": "Tanai",
+    "name": "Tanai Airport",
+    "icao": "VYTN",
+    "lat": 26.3670005798339,
+    "lon": 96.7330017089843
+  },
+  {
+    "country": "Burma",
+    "state": "Shan State",
+    "city": "Tanyang",
+    "name": "Tanyang Airport",
+    "icao": "VYTY",
+    "lat": 22.4829998016357,
+    "lon": 98.4000015258789
+  },
+  {
+    "country": "Burma",
+    "state": "Mon State",
+    "city": "Ye",
+    "name": "Ye Airport",
+    "icao": "VYYE",
+    "lat": 15.3000001907348,
+    "lon": 97.8669967651367
+  }
+]

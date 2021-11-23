@@ -1,0 +1,308 @@
+[
+  {
+    "country": "Panama",
+    "state": "PanamÃ¡ Oeste Province",
+    "city": "PanamÃ¡ City",
+    "name": "Panama Pacific International Airport",
+    "icao": "MPHO",
+    "lat": 8.91479,
+    "lon": -79.599602
+  },
+  {
+    "country": "Panama",
+    "state": "Bocas del Toro Province",
+    "city": "Isla ColÃ³n",
+    "name": "Bocas Del Toro International Airport",
+    "icao": "MPBO",
+    "lat": 9.3408498764038,
+    "lon": -82.2508010864257
+  },
+  {
+    "country": "Panama",
+    "state": "PanamÃ¡ Province",
+    "city": "Contadora Island",
+    "name": "Contadora Airport",
+    "icao": "PA-OTD",
+    "lat": 8.6287603378296,
+    "lon": -79.034698486328
+  },
+  {
+    "country": "Panama",
+    "state": "Kuna Yala Indigenous Region",
+    "city": "El Porvenir",
+    "name": "El Porvenir Airport",
+    "icao": "MPVR",
+    "lat": 9.558,
+    "lon": -78.947
+  },
+  {
+    "country": "Panama",
+    "state": "DariÃ©n Province",
+    "city": "Bahia PiÃ±a",
+    "name": "Bahia PiÃ±a Airport",
+    "icao": "PA-BFQ",
+    "lat": 7.58300018310546,
+    "lon": -78.1999969482421
+  },
+  {
+    "country": "Panama",
+    "state": "DariÃ©n Province",
+    "city": "Boca de SÃ¡balo",
+    "name": "Sambu Airport",
+    "icao": "PA-SAX",
+    "lat": 8.01700019836425,
+    "lon": -78.1999969482421
+  },
+  {
+    "country": "Panama",
+    "state": "DariÃ©n Province",
+    "city": "JaquÃ©",
+    "name": "JaquÃ© Airport",
+    "icao": "MPJE",
+    "lat": 7.51777982711792,
+    "lon": -78.1572036743164
+  },
+  {
+    "country": "Panama",
+    "state": "Veraguas Province",
+    "city": "Santiago",
+    "name": "Ruben Cantu Airport",
+    "icao": "MPSA",
+    "lat": 8.08559989929199,
+    "lon": -80.9452972412109
+  },
+  {
+    "country": "Panama",
+    "state": "CoclÃ© Province",
+    "city": "Aguadulce",
+    "name": "Aguadulce Airport",
+    "icao": "PA-0002",
+    "lat": 8.25164985656738,
+    "lon": -80.5653991699218
+  },
+  {
+    "country": "Panama",
+    "state": "Kuna Yala Indigenous Region",
+    "city": "Alligandi",
+    "name": "Alligandi Airport",
+    "icao": "PA-0003",
+    "lat": 9.2226,
+    "lon": -78.0236
+  },
+  {
+    "country": "Panama",
+    "state": "PanamÃ¡ Province",
+    "city": "Calzada Larga",
+    "name": "Calzada Larga Airport",
+    "icao": "MP23",
+    "lat": 9.1662797927856,
+    "lon": -79.545097351074
+  },
+  {
+    "country": "Panama",
+    "state": "Kuna Yala Indigenous Region",
+    "city": "Carti",
+    "name": "Carti Airport",
+    "icao": "PA-0004",
+    "lat": 9.31346988678,
+    "lon": -79.101600647
+  },
+  {
+    "country": "Panama",
+    "state": "Bocas del Toro Province",
+    "city": "Changuinola",
+    "name": "Finca 67 Airport",
+    "icao": "MP17",
+    "lat": 9.43441009521484,
+    "lon": -82.4990997314453
+  },
+  {
+    "country": "Panama",
+    "state": "Bocas del Toro Province",
+    "city": "Dos CaÃ±os",
+    "name": "Finca 45 Airport",
+    "icao": "MP02",
+    "lat": 9.54333019256591,
+    "lon": -82.7338027954101
+  },
+  {
+    "country": "Panama",
+    "state": "ChiriquÃ­ Province",
+    "city": "Finca Blanco",
+    "name": "Finca Blanco Airport",
+    "icao": "PA-0006",
+    "lat": 8.39013004302978,
+    "lon": -82.8678970336914
+  },
+  {
+    "country": "Panama",
+    "state": "ChiriquÃ­ Province",
+    "city": "Finca JaguÃ¡",
+    "name": "Finca Ceiba Airport",
+    "icao": "MP01",
+    "lat": 8.35499954223632,
+    "lon": -82.8364028930664
+  },
+  {
+    "country": "Panama",
+    "state": "ColÃ³n Province",
+    "city": "Fort Sherman",
+    "name": "Fort Sherman Airport",
+    "icao": "MPFS",
+    "lat": 9.36509037017822,
+    "lon": -79.9497985839843
+  },
+  {
+    "country": "Panama",
+    "state": "Bocas del Toro Province",
+    "city": "Guabito",
+    "name": "Deborah Airport",
+    "icao": "MP27",
+    "lat": 9.51613998413086,
+    "lon": -82.5954971313476
+  },
+  {
+    "country": "Panama",
+    "state": "CoclÃ© Province",
+    "city": "Ingenio Santa Rosa",
+    "name": "Ingenio Santa Rosa Airport",
+    "icao": "MP22",
+    "lat": 8.1952199935913,
+    "lon": -80.6586990356445
+  },
+  {
+    "country": "Panama",
+    "state": "PanamÃ¡ Province",
+    "city": "Isla del Rey",
+    "name": "San Miguel Airport",
+    "icao": "PA-0017",
+    "lat": 8.4566,
+    "lon": -78.9339
+  },
+  {
+    "country": "Panama",
+    "state": "PanamÃ¡ Province",
+    "city": "La Joya",
+    "name": "La Joya Airport",
+    "icao": "PA-0008",
+    "lat": 9.13856029510498,
+    "lon": -79.2401962280273
+  },
+  {
+    "country": "Panama",
+    "state": "Kuna Yala Indigenous Region",
+    "city": "Mulatupo",
+    "name": "Mulatupo Airport",
+    "icao": "PA-0011",
+    "lat": 8.9453,
+    "lon": -77.7331
+  },
+  {
+    "country": "Panama",
+    "state": "DariÃ©n Province",
+    "city": "Nurna",
+    "name": "CorazÃ³n de JesÃºs Airport",
+    "icao": "PA-0005",
+    "lat": 9.01721954345703,
+    "lon": -77.9806976318359
+  },
+  {
+    "country": "Panama",
+    "state": "Kuna Yala Indigenous Region",
+    "city": "PlayÃ³n Chico",
+    "name": "PlayÃ³n Chico Airport",
+    "icao": "PA-0013",
+    "lat": 9.30518416129999,
+    "lon": -78.235874176
+  },
+  {
+    "country": "Panama",
+    "state": "ChiriquÃ­ Province",
+    "city": "Puerto Armuelles",
+    "name": "Puerto Armuelles Airport",
+    "icao": "PA-AML",
+    "lat": 8.2680597305298,
+    "lon": -82.864898681641
+  },
+  {
+    "country": "Panama",
+    "state": "PanamÃ¡ Province",
+    "city": "Punta Cocos",
+    "name": "Punta Cocos Airport",
+    "icao": "MP26",
+    "lat": 8.22484970092773,
+    "lon": -78.9044036865234
+  },
+  {
+    "country": "Panama",
+    "state": "CoclÃ© Province",
+    "city": "RÃ­o Hato",
+    "name": "Scarlett Martinez International Airport",
+    "icao": "MPRH",
+    "lat": 8.375880241394,
+    "lon": -80.127899169922
+  },
+  {
+    "country": "Panama",
+    "state": "PanamÃ¡ Province",
+    "city": "Rio Sidra",
+    "name": "Rio Sidra Airport",
+    "icao": "PA-0015",
+    "lat": 9.31678962707519,
+    "lon": -79.2829971313476
+  },
+  {
+    "country": "Panama",
+    "state": "Kuna Yala Indigenous Region",
+    "city": "RÃ­o Tigre",
+    "name": "RÃ­o Tigre Airport",
+    "icao": "PA-0016",
+    "lat": 9.25088024139404,
+    "lon": -78.4987030029296
+  },
+  {
+    "country": "Panama",
+    "state": "Kuna Yala Indigenous Region",
+    "city": "Tupile",
+    "name": "Tupile Airport",
+    "icao": "PA-0019",
+    "lat": 9.24658012390136,
+    "lon": -78.3625030517578
+  },
+  {
+    "country": "Panama",
+    "state": "DariÃ©n Province",
+    "city": "Yaviza",
+    "name": "Yaviza Airport",
+    "icao": "PA-0022",
+    "lat": 8.1528,
+    "lon": -77.687
+  },
+  {
+    "country": "Panama",
+    "state": "Kuna Yala Indigenous Region",
+    "city": "Isla Tupile",
+    "name": "Tupile Airport",
+    "icao": "TUE",
+    "lat": 9.4468,
+    "lon": -78.5757
+  },
+  {
+    "country": "Panama",
+    "state": "PanamÃ¡ Province",
+    "city": "Isla Viveros",
+    "name": "Viveros Island Airport",
+    "icao": "IVI",
+    "lat": 8.4693,
+    "lon": -79.0016
+  },
+  {
+    "country": "Panama",
+    "state": "Kuna Yala Indigenous Region",
+    "city": "Ustupo",
+    "name": "Ustupo Airport",
+    "icao": "UTU",
+    "lat": 9.1283,
+    "lon": -77.9337
+  }
+]

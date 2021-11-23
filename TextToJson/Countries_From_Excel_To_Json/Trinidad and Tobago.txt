@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Trinidad and Tobago",
+    "state": "Tunapuna-Piarco",
+    "city": "Port of Spain",
+    "name": "Piarco International Airport",
+    "icao": "TTPP",
+    "lat": 10.5953998565673,
+    "lon": -61.3372001647949
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "state": "Western Tobago",
+    "city": "Scarborough",
+    "name": "Tobago-Crown Point Airport",
+    "icao": "TTCP",
+    "lat": 11.1497001647949,
+    "lon": -60.8321990966796
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "state": "Couva-Tabaquite-Talparo",
+    "city": "Couva",
+    "name": "Camden Airfield",
+    "icao": "TT-TT01",
+    "lat": 10.4263,
+    "lon": -61.439701
+  }
+]

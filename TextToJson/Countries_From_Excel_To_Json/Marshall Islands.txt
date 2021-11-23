@@ -1,0 +1,155 @@
+[
+  {
+    "country": "Marshall Islands",
+    "state": "Majuro",
+    "city": "Majuro Atoll",
+    "name": "Marshall Islands International Airport",
+    "icao": "PKMJ",
+    "lat": 7.06476020812988,
+    "lon": 171.272003173828
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Eniwetok",
+    "city": "Eniwetok Atoll",
+    "name": "Eniwetok Airport",
+    "icao": "PKMA",
+    "lat": 11.3407001495361,
+    "lon": 162.328002929687
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Ailinglapalap",
+    "city": "Ailinglapalap Atoll",
+    "name": "Jeh Airport",
+    "icao": "MH-JEJ",
+    "lat": 7.56535005569,
+    "lon": 168.962005615
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Aur",
+    "city": "Aur Atoll",
+    "name": "Aur Island Airport",
+    "icao": "MH-AUL",
+    "lat": 8.14527988433837,
+    "lon": 171.17300415039
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Jaluit",
+    "city": "Jabor Jaluit Atoll",
+    "name": "Jaluit Airport",
+    "icao": "MH-UIT",
+    "lat": 5.90924,
+    "lon": 169.636993
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Maloelap",
+    "city": "Kaben",
+    "name": "Kaben Airport",
+    "icao": "MH-KBT",
+    "lat": 8.90056037902832,
+    "lon": 170.843994140625
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Kili",
+    "city": "Kili Island",
+    "name": "Kili Airport",
+    "icao": "Q51",
+    "lat": 5.644515,
+    "lon": 169.119507
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Likiep",
+    "city": "Likiep Island",
+    "name": "Likiep Airport",
+    "icao": "MH-LIK",
+    "lat": 9.82316,
+    "lon": 169.307999
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Mili",
+    "city": "Mili Island",
+    "name": "Mili Island Airport",
+    "icao": "MLIP",
+    "lat": 6.08333,
+    "lon": 171.733002
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Rongelap",
+    "city": "Rongelap Island",
+    "name": "Rongelap Island Airport",
+    "icao": "MH-RNP",
+    "lat": 11.1572,
+    "lon": 166.886993
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Ujae",
+    "city": "Ujae Atoll",
+    "name": "Ujae Atoll Airport",
+    "icao": "UJAP",
+    "lat": 8.92805957794,
+    "lon": 165.761993408
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Ailinglapalap",
+    "city": "Woja",
+    "name": "Woja Airport",
+    "icao": "MH-WJA",
+    "lat": 7.45083333333,
+    "lon": 168.55
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Wotje",
+    "city": "Wotje Atoll",
+    "name": "Wotje Atoll Airport",
+    "icao": "MH-WTE",
+    "lat": 9.458333,
+    "lon": 170.238611
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Arno",
+    "city": "Arno Atoll",
+    "name": "Ine Airport",
+    "icao": "N20",
+    "lat": 7.005553,
+    "lon": 171.656959
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Lae",
+    "city": "Lae Island",
+    "name": "Lae Island Airport",
+    "icao": "MH-LML",
+    "lat": 8.92111015319824,
+    "lon": 166.264999389648
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Ailinglapalap",
+    "city": "Bigatyelang Island",
+    "name": "Ailinglaplap Airok Airport",
+    "icao": "AIP",
+    "lat": 7.279422,
+    "lon": 168.8257
+  },
+  {
+    "country": "Marshall Islands",
+    "state": "Aur",
+    "city": "Tabal Island",
+    "name": "Tabal Airstrip",
+    "icao": "TBV",
+    "lat": 8.3027,
+    "lon": 171.1615
+  }
+]

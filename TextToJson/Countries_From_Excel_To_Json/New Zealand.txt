@@ -1,0 +1,1001 @@
+[
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Queenstown",
+    "name": "Queenstown International Airport",
+    "icao": "NZQN",
+    "lat": -45.0210990906,
+    "lon": 168.738998413
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Dunedin",
+    "name": "Dunedin Airport",
+    "icao": "NZDN",
+    "lat": -45.9281005859375,
+    "lon": 170.197998046875
+  },
+  {
+    "country": "New Zealand",
+    "state": "Nelson Region",
+    "city": "Nelson",
+    "name": "Nelson Airport",
+    "icao": "NZNS",
+    "lat": -41.2983016967773,
+    "lon": 173.220993041992
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Otago Region",
+    "name": "Wanaka Airport",
+    "icao": "NZWF",
+    "lat": -44.722198486328,
+    "lon": 169.24600219727
+  },
+  {
+    "country": "New Zealand",
+    "state": "Manawatu-Wanganui Region",
+    "city": "Manawatu-Wanganui Region",
+    "name": "Palmerston North Airport",
+    "icao": "NZPM",
+    "lat": -40.3205986022949,
+    "lon": 175.617004394531
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Kaikoura Airport",
+    "icao": "NZKI",
+    "lat": -42.4249992370605,
+    "lon": 173.604995727539
+  },
+  {
+    "country": "New Zealand",
+    "state": "Southland Region",
+    "city": "Southland Region",
+    "name": "Milford Sound Airport",
+    "icao": "NZMF",
+    "lat": -44.6733016967773,
+    "lon": 167.92300415039
+  },
+  {
+    "country": "New Zealand",
+    "state": "Wellington Region",
+    "city": "Wellington Region",
+    "name": "Paraparaumu Airport",
+    "icao": "NZPP",
+    "lat": -40.9047012329101,
+    "lon": 174.988998413085
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "West Coast Region",
+    "name": "Hokitika Airfield",
+    "icao": "NZHK",
+    "lat": -42.7136001586914,
+    "lon": 170.985000610351
+  },
+  {
+    "country": "New Zealand",
+    "state": "Taranaki Region",
+    "city": "New Plymouth",
+    "name": "New Plymouth Airport",
+    "icao": "NZNP",
+    "lat": -39.0085983276367,
+    "lon": 174.179000854492
+  },
+  {
+    "country": "New Zealand",
+    "state": "Marlborough Region",
+    "city": "Blenheim",
+    "name": "Woodbourne Airport",
+    "icao": "NZWB",
+    "lat": -41.5182991027832,
+    "lon": 173.869995117187
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Otago Region",
+    "name": "Oamaru Airport",
+    "icao": "NZOU",
+    "lat": -44.9700012207031,
+    "lon": 171.082000732421
+  },
+  {
+    "country": "New Zealand",
+    "state": "Northland Region",
+    "city": "Northland Region",
+    "name": "Whangarei Airport",
+    "icao": "NZWR",
+    "lat": -35.7682991027832,
+    "lon": 174.365005493164
+  },
+  {
+    "country": "New Zealand",
+    "state": "Gisborne Region",
+    "city": "Gisborne",
+    "name": "Gisborne Airport",
+    "icao": "NZGS",
+    "lat": -38.6632995605468,
+    "lon": 177.977996826171
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Mount Cook Airport",
+    "icao": "NZMC",
+    "lat": -43.7649993896484,
+    "lon": 170.132995605468
+  },
+  {
+    "country": "New Zealand",
+    "state": "Marlborough Region",
+    "city": "Blenheim",
+    "name": "Omaka Blenheim Airport",
+    "icao": "NZOM",
+    "lat": -41.5400009155273,
+    "lon": 173.921997070312
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "West Coast Region",
+    "name": "Westport Airport",
+    "icao": "NZWS",
+    "lat": -41.7380981445312,
+    "lon": 171.580993652343
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Ashburton Aerodrome",
+    "icao": "NZAS",
+    "lat": -43.9033012390136,
+    "lon": 171.796997070312
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "West Coast Region",
+    "name": "Greymouth Airport",
+    "icao": "NZGM",
+    "lat": -42.4617004394531,
+    "lon": 171.190002441406
+  },
+  {
+    "country": "New Zealand",
+    "state": "Hawke's Bay Region",
+    "city": "Bridge Pa",
+    "name": "Hastings Aerodrome",
+    "icao": "NZHS",
+    "lat": -39.646702,
+    "lon": 176.766998
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Christchurch",
+    "name": "Wigram Airport",
+    "icao": "NZWG",
+    "lat": -43.5511016846,
+    "lon": 172.552993774
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Hurunui District Council",
+    "name": "Culverden",
+    "icao": "NZ-0013",
+    "lat": -42.767650604248,
+    "lon": 172.891967773437
+  },
+  {
+    "country": "New Zealand",
+    "state": "Southland Region",
+    "city": "Oban",
+    "name": "Ryan's Creek Aerodrome",
+    "icao": "NZRC",
+    "lat": -46.8997,
+    "lon": 168.100998
+  },
+  {
+    "country": "New Zealand",
+    "state": "Northland Region",
+    "city": "Kerikeri",
+    "name": "Kerikeri Airport",
+    "icao": "NZKK",
+    "lat": -35.2627983093261,
+    "lon": 173.912002563476
+  },
+  {
+    "country": "New Zealand",
+    "state": "Manawatu-Wanganui Region",
+    "city": "Wanganui",
+    "name": "Wanganui Airport",
+    "icao": "NZWU",
+    "lat": -39.9622001647949,
+    "lon": 175.024993896484
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Auckland Region",
+    "name": "RNZAF Base Auckland-Whenuapai",
+    "icao": "NZWP",
+    "lat": -36.787799835205,
+    "lon": 174.630004882812
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Forest Field Aerodrome",
+    "icao": "NZFF",
+    "lat": -43.3857994079589,
+    "lon": 172.36099243164
+  },
+  {
+    "country": "New Zealand",
+    "state": "Tasman Region",
+    "city": "Tasman Region",
+    "name": "Motueka Airport",
+    "icao": "NZMK",
+    "lat": -41.1232986450195,
+    "lon": 172.988998413085
+  },
+  {
+    "country": "New Zealand",
+    "state": "Southland Region",
+    "city": "Southland Region",
+    "name": "Te Anau Airport",
+    "icao": "NZTZ",
+    "lat": -45.4627990723,
+    "lon": 167.701004028
+  },
+  {
+    "country": "New Zealand",
+    "state": "Marlborough Region",
+    "city": "Koromiko",
+    "name": "Picton Aerodrome",
+    "icao": "NZPN",
+    "lat": -41.346099853516,
+    "lon": 173.95599365234
+  },
+  {
+    "country": "New Zealand",
+    "state": "Bay of Plenty Region",
+    "city": "Bay of Plenty Region",
+    "name": "Whakatane Airport",
+    "icao": "NZWK",
+    "lat": -37.9206008911132,
+    "lon": 176.914001464843
+  },
+  {
+    "country": "New Zealand",
+    "state": "Northland Region",
+    "city": "Kaitaia",
+    "name": "Kaitaia Airport",
+    "icao": "NZKT",
+    "lat": -35.0699996948242,
+    "lon": 173.285003662109
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "West Coast Region",
+    "name": "Haast Aerodrome",
+    "icao": "NZHT",
+    "lat": -43.8652992248535,
+    "lon": 169.04100036621
+  },
+  {
+    "country": "New Zealand",
+    "state": "Hawke's Bay Region",
+    "city": "Hawke's Bay Region",
+    "name": "Kowhai Aerodrome",
+    "icao": "NZKY",
+    "lat": -39.8460998535156,
+    "lon": 176.42300415039
+  },
+  {
+    "country": "New Zealand",
+    "state": "Southland Region",
+    "city": "Southland Region",
+    "name": "Martins Bay Aerodrome",
+    "icao": "NZMJ",
+    "lat": -44.3657989501953,
+    "lon": 168.018005371093
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Omarama Glider Airport",
+    "icao": "NZOA",
+    "lat": -44.4866981506347,
+    "lon": 169.98599243164
+  },
+  {
+    "country": "New Zealand",
+    "state": "Bay of Plenty Region",
+    "city": "Bay of Plenty Region",
+    "name": "Rangitaiki Airfield",
+    "icao": "NZRK",
+    "lat": -38.8863983154296,
+    "lon": 176.363998413085
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Otago Region",
+    "name": "Taieri Airport",
+    "icao": "NZTI",
+    "lat": -45.8600006103515,
+    "lon": 170.358001708984
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Mesopotamia Station Airstrip",
+    "icao": "NZ-0001",
+    "lat": -43.6411705017089,
+    "lon": 170.902374267578
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Arrowsmith Station",
+    "icao": "NZ-0002",
+    "lat": -43.4663429260253,
+    "lon": 171.162353515625
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "West Coast Region",
+    "name": "Lake Haupiri/Gloriavale Christian Community Airport",
+    "icao": "NZ-0005",
+    "lat": -42.6012001038,
+    "lon": 171.699005127
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Dunsandel",
+    "icao": "NZ-0007",
+    "lat": -43.6836891174316,
+    "lon": 172.149002075195
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Otago Region",
+    "name": "Dingleburn Station Airstrip",
+    "icao": "NZ-0010",
+    "lat": -44.4380989074707,
+    "lon": 169.391006469726
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Worthy Lodge airstrip (Ladbrooks)",
+    "icao": "NZ-0011",
+    "lat": -43.6393508911132,
+    "lon": 172.525405883789
+  },
+  {
+    "country": "New Zealand",
+    "state": "Taranaki Region",
+    "city": "Hawera",
+    "name": "Hawera Airport",
+    "icao": "NZHA",
+    "lat": -39.5532989501953,
+    "lon": 174.266998291015
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Lake Taupo",
+    "name": "Lake Taupo Water Airport",
+    "icao": "NZLT",
+    "lat": -38.7317008972168,
+    "lon": 176.035003662109
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Rangitata Island",
+    "name": "Rangitata Island Airport",
+    "icao": "NZRI",
+    "lat": -44.0849990844726,
+    "lon": 171.41600036621
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Te Kuiti",
+    "name": "Te Kuiti Airfield",
+    "icao": "NZTT",
+    "lat": -38.3032989501953,
+    "lon": 175.147003173828
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Auckland City",
+    "name": "Mechanics Bay Heliport",
+    "icao": "NZMB",
+    "lat": -36.8465256281,
+    "lon": 174.787872434
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "North Shore City",
+    "name": "North Shore Hospital Heliport",
+    "icao": "NZJN",
+    "lat": -36.7817001342773,
+    "lon": 174.759002685546
+  },
+  {
+    "country": "New Zealand",
+    "state": "Bay of Plenty Region",
+    "city": "Rotorua",
+    "name": "Rotorua Lakefront Heliport",
+    "icao": "NZLF",
+    "lat": -38.1293983459472,
+    "lon": 176.253005981445
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Auckland Region",
+    "name": "Auckland Hobsonville Airport",
+    "icao": "NZHB",
+    "lat": -36.791698455811,
+    "lon": 174.66400146484
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Otago Region",
+    "name": "Cromwell Racecourse Aerodrome",
+    "icao": "NZCS",
+    "lat": -45.048599243164,
+    "lon": 169.171005249023
+  },
+  {
+    "country": "New Zealand",
+    "state": "Manawatu-Wanganui Region",
+    "city": "Manawatu-Wanganui Region",
+    "name": "Foxpine Aerodrome",
+    "icao": "NZFP",
+    "lat": -40.4566993713378,
+    "lon": 175.27000427246
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Waikato Region",
+    "name": "Great Mercury Airport",
+    "icao": "NZGR",
+    "lat": -36.5974998474121,
+    "lon": 175.766998291015
+  },
+  {
+    "country": "New Zealand",
+    "state": "Northland Region",
+    "city": "Northland Region",
+    "name": "Kaikohe Airport",
+    "icao": "NZKO",
+    "lat": -35.4510993957519,
+    "lon": 173.817001342773
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "West Coast Region",
+    "name": "Karamea Airport",
+    "icao": "NZKM",
+    "lat": -41.2366981506347,
+    "lon": 172.104995727539
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Waikato Region",
+    "name": "Kelly Field",
+    "icao": "NZKC",
+    "lat": -37.2560997009277,
+    "lon": 175.072006225585
+  },
+  {
+    "country": "New Zealand",
+    "state": "Tasman Region",
+    "city": "Tasman Region",
+    "name": "Lake Station Airport",
+    "icao": "NZLE",
+    "lat": -41.7592010498046,
+    "lon": 172.746002197265
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Otago Region",
+    "name": "Makarora Airstrip",
+    "icao": "NZMW",
+    "lat": -44.2317008972168,
+    "lon": 169.229995727539
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Waikato Region",
+    "name": "Matarangi Airport",
+    "icao": "NZAG",
+    "lat": -36.7317008972168,
+    "lon": 175.649993896484
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Auckland Region",
+    "name": "Okiwi Station Airport",
+    "icao": "NZOX",
+    "lat": -36.1464004516601,
+    "lon": 175.419006347656
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Auckland Region",
+    "name": "Parakai Aerodrome",
+    "icao": "NZPI",
+    "lat": -36.6519012451171,
+    "lon": 174.436004638671
+  },
+  {
+    "country": "New Zealand",
+    "state": "Northland Region",
+    "city": "Northland Region",
+    "name": "Ruawai Aerodrome",
+    "icao": "NZRW",
+    "lat": -36.0971984863281,
+    "lon": 173.977005004882
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Waikato Region",
+    "name": "Te Aroha Airfield",
+    "icao": "NZTA",
+    "lat": -37.4747009277343,
+    "lon": 175.61799621582
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Waikato Region",
+    "name": "Thames Aerodrome",
+    "icao": "NZTH",
+    "lat": -37.1567001342773,
+    "lon": 175.550003051757
+  },
+  {
+    "country": "New Zealand",
+    "state": "Bay of Plenty Region",
+    "city": "Bay of Plenty Region",
+    "name": "Waihi Beach Airport",
+    "icao": "NZWV",
+    "lat": -37.4300003051757,
+    "lon": 175.951995849609
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Canterbury Region",
+    "name": "Waimate Airport",
+    "icao": "NZWM",
+    "lat": -44.7900009155273,
+    "lon": 171.091995239257
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Waikato Region",
+    "name": "Wharepapa South Airport",
+    "icao": "NZES",
+    "lat": -38.1483001708984,
+    "lon": 175.550003051757
+  },
+  {
+    "country": "New Zealand",
+    "state": "Marlborough Region",
+    "city": "Marlborough Region",
+    "name": "Cape Campbell airstrip",
+    "icao": "NZ-0016",
+    "lat": -41.7458992004394,
+    "lon": 174.272003173828
+  },
+  {
+    "country": "New Zealand",
+    "state": "Southland Region",
+    "city": "Centre Bush",
+    "name": "Centre Bush Aerodrome",
+    "icao": "NZCB",
+    "lat": -46.0400009155273,
+    "lon": 168.31199645996
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Claris",
+    "name": "Great Barrier Aerodrome",
+    "icao": "NZGB",
+    "lat": -36.2414016723632,
+    "lon": 175.47200012207
+  },
+  {
+    "country": "New Zealand",
+    "state": "Wellington Region",
+    "city": "Martinborough",
+    "name": "Martinborough Airport",
+    "icao": "NZMT",
+    "lat": -41.2141990661621,
+    "lon": 175.48599243164
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Pikes Point",
+    "name": "Pikes Point Airport",
+    "icao": "NZPK",
+    "lat": -36.9282989502,
+    "lon": 174.81199646
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Taharoa",
+    "name": "Taharoa Aerodrome",
+    "icao": "NZTS",
+    "lat": -38.1810989379882,
+    "lon": 174.70799255371
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "West Coast Region",
+    "name": "Neils Beach",
+    "icao": "NZ-0017",
+    "lat": -43.9976921081543,
+    "lon": 168.660385131835
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Otago Region",
+    "name": "Glenshe Airstrip",
+    "icao": "NZ-0021",
+    "lat": -45.0419,
+    "lon": 170.2403
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Aukland",
+    "name": "ASB Bank Centre Heliport",
+    "icao": "NZBC",
+    "lat": -36.8498992919921,
+    "lon": 174.761993408203
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Aukland",
+    "name": "Middlemore Hospital Helipad",
+    "icao": "NZ-0023",
+    "lat": -36.9632,
+    "lon": 174.8452
+  },
+  {
+    "country": "New Zealand",
+    "state": "Marlborough Region",
+    "city": "Blenheim",
+    "name": "Wairau Hospital Heliport",
+    "icao": "NZJB",
+    "lat": -41.5368995666503,
+    "lon": 173.94400024414
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Christchurch",
+    "name": "Burwood Hospital Heliport",
+    "icao": "NZBW",
+    "lat": -43.4796981811523,
+    "lon": 172.68699645996
+  },
+  {
+    "country": "New Zealand",
+    "state": "Canterbury Region",
+    "city": "Christchurch",
+    "name": "Garden City Heliport",
+    "icao": "NZGI",
+    "lat": -43.4933013916015,
+    "lon": 172.54800415039
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Cromwell",
+    "name": "Cromwell/Louburn Airport",
+    "icao": "NZ-0022",
+    "lat": -44.9791,
+    "lon": 169.2176
+  },
+  {
+    "country": "New Zealand",
+    "state": "Northland Region",
+    "city": "Dargaville",
+    "name": "Dargaville Hospital Heliport",
+    "icao": "NZJE",
+    "lat": -35.9289016723632,
+    "lon": 173.876007080078
+  },
+  {
+    "country": "New Zealand",
+    "state": "Otago Region",
+    "city": "Dunedin",
+    "name": "Dunedin City Heliport",
+    "icao": "NZDC",
+    "lat": -45.88330078125,
+    "lon": 170.507995605468
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "Fox",
+    "name": "Fox Heliport",
+    "icao": "NZFH",
+    "lat": -43.4631,
+    "lon": 170.0
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "Franz Josef Glacier",
+    "name": "Franz Josef Heliport",
+    "icao": "NZFR",
+    "lat": -43.37657,
+    "lon": 170.19396
+  },
+  {
+    "country": "New Zealand",
+    "state": "Gisborne Region",
+    "city": "Gisborne",
+    "name": "Gisborne Hospital Heliport",
+    "icao": "NZJG",
+    "lat": -38.6411018371582,
+    "lon": 178.003997802734
+  },
+  {
+    "country": "New Zealand",
+    "state": "West Coast Region",
+    "city": "Gorge River",
+    "name": "Gorge River Airstrip",
+    "icao": "NZ-0018",
+    "lat": -44.1845736433999,
+    "lon": 168.192443848
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Hamilton",
+    "name": "Jennian Hangar, Waikato Hospital Heliport",
+    "icao": "NZ-0019",
+    "lat": -37.806281,
+    "lon": 175.280897
+  },
+  {
+    "country": "New Zealand",
+    "state": "Southland Region",
+    "city": "Invercargill",
+    "name": "Southland - Kew Hospital Heliport",
+    "icao": "NZJS",
+    "lat": -46.437198638916,
+    "lon": 168.358993530273
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Kaikoura Island",
+    "name": "Motu Kaikoura Island Aerodrome",
+    "icao": "NZKD",
+    "lat": -36.1781005859375,
+    "lon": 175.324005126953
+  },
+  {
+    "country": "New Zealand",
+    "state": "Northland Region",
+    "city": "Kaitaia",
+    "name": "Kaitaia Hospital Heliport",
+    "icao": "NZJK",
+    "lat": -35.1183013916015,
+    "lon": 173.261001586914
+  },
+  {
+    "country": "New Zealand",
+    "state": "Wellington Region",
+    "city": "Masterton",
+    "name": "Wairarapa Hospital Heliport",
+    "icao": "NZMH",
+    "lat": -40.9474983215332,
+    "lon": 175.675003051757
+  },
+  {
+    "country": "New Zealand",
+    "state": "Taranaki Region",
+    "city": "Maui A Platform",
+    "name": "Maui A Heliport",
+    "icao": "NZUA",
+    "lat": -39.5583000183105,
+    "lon": 173.449996948242
+  },
+  {
+    "country": "New Zealand",
+    "state": "Nelson Region",
+    "city": "Nelson",
+    "name": "Nelson Hospital Heliport",
+    "icao": "NZNH",
+    "lat": -41.2882995605468,
+    "lon": 173.272003173828
+  },
+  {
+    "country": "New Zealand",
+    "state": "Taranaki Region",
+    "city": "New Plymouth",
+    "name": "Taranaki Base Hospital Heliport",
+    "icao": "NZJQ",
+    "lat": -39.0732994079589,
+    "lon": 174.054992675781
+  },
+  {
+    "country": "New Zealand",
+    "state": "Southland Region",
+    "city": "Ocean Beach",
+    "name": "Ocean Beach Heliport",
+    "icao": "NZOB",
+    "lat": -46.5896987915039,
+    "lon": 168.305999755859
+  },
+  {
+    "country": "New Zealand",
+    "state": "(unassigned)",
+    "city": "Pitt Island",
+    "name": "Pitt Island Airstrip",
+    "icao": "NZ-0026",
+    "lat": -44.293668,
+    "lon": -176.203505
+  },
+  {
+    "country": "New Zealand",
+    "state": "Southland Region",
+    "city": "Raratoka Island",
+    "name": "Center Island Airstrip",
+    "icao": "NZ-0020",
+    "lat": -46.4549,
+    "lon": 167.8495
+  },
+  {
+    "country": "New Zealand",
+    "state": "Northland Region",
+    "city": "Rawene",
+    "name": "Rawene Hospital Heliport",
+    "icao": "NZJW",
+    "lat": -35.4082984924316,
+    "lon": 173.516662597656
+  },
+  {
+    "country": "New Zealand",
+    "state": "Manawatu-Wanganui Region",
+    "city": "Taumarunui",
+    "name": "Taumarunui Hospital Heliport",
+    "icao": "NZJT",
+    "lat": -38.8897018432617,
+    "lon": 175.251007080078
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Taupo",
+    "name": "Taupo Hospital Heliport",
+    "icao": "NZJZ",
+    "lat": -38.6986007690429,
+    "lon": 176.098999023437
+  },
+  {
+    "country": "New Zealand",
+    "state": "Bay of Plenty Region",
+    "city": "Tauranga",
+    "name": "Tauranga Hospital Heliport",
+    "icao": "NZJA",
+    "lat": -37.7057991027832,
+    "lon": 176.149002075195
+  },
+  {
+    "country": "New Zealand",
+    "state": "Gisborne Region",
+    "city": "Te Puia Springs",
+    "name": "Te Puia Springs Hospital Heliport",
+    "icao": "NZJP",
+    "lat": -38.0548160757999,
+    "lon": 178.304291368
+  },
+  {
+    "country": "New Zealand",
+    "state": "Waikato Region",
+    "city": "Tokoroa",
+    "name": "Tokoroa Hospital Heliport",
+    "icao": "NZJX",
+    "lat": -38.2318992614746,
+    "lon": 175.86099243164
+  },
+  {
+    "country": "New Zealand",
+    "state": "Hawke's Bay Region",
+    "city": "Wairoa",
+    "name": "Wairoa Hospital Heliport",
+    "icao": "NZJY",
+    "lat": -39.0424995422363,
+    "lon": 177.414001464843
+  },
+  {
+    "country": "New Zealand",
+    "state": "Auckland Region",
+    "city": "Waitakere",
+    "name": "Waitakere Hospital Heliport",
+    "icao": "NZJV",
+    "lat": -36.8706016540527,
+    "lon": 174.630996704101
+  },
+  {
+    "country": "New Zealand",
+    "state": "Wellington Region",
+    "city": "Wellington",
+    "name": "Kenepuru Hospital Heliport",
+    "icao": "NZKH",
+    "lat": -41.1450004577636,
+    "lon": 174.835006713867
+  },
+  {
+    "country": "New Zealand",
+    "state": "Wellington Region",
+    "city": "Wellington",
+    "name": "Wellington Hospital Heliport",
+    "icao": "NZWH",
+    "lat": -41.3083000183105,
+    "lon": 174.779006958007
+  },
+  {
+    "country": "New Zealand",
+    "state": "Northland Region",
+    "city": "Whangarei",
+    "name": "Whangarei Hospital Heliport",
+    "icao": "NZJR",
+    "lat": -35.7346992492675,
+    "lon": 174.302993774414
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "country": "Belgium",
+    "state": "Hainaut",
+    "city": "Brussels",
+    "name": "Brussels South Charleroi Airport",
+    "icao": "EBCI",
+    "lat": 50.459202,
+    "lon": 4.45382
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Antwerp",
+    "name": "Antwerp International Airport (Deurne)",
+    "icao": "EBAW",
+    "lat": 51.1893997192,
+    "lon": 4.46027994156
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Ostend",
+    "name": "Ostend-Bruges International Airport",
+    "icao": "EBOS",
+    "lat": 51.1988983153999,
+    "lon": 2.8622200489
+  },
+  {
+    "country": "Belgium",
+    "state": "Liage",
+    "city": "Liage",
+    "name": "Liage Airport",
+    "icao": "EBLG",
+    "lat": 50.6374015808105,
+    "lon": 5.4432201385498
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Wevelgem",
+    "name": "Wevelgem Airport",
+    "icao": "EBKT",
+    "lat": 50.817199707,
+    "lon": 3.20472002029
+  },
+  {
+    "country": "Belgium",
+    "state": "Limburg",
+    "city": "Genk",
+    "name": "Genk Zwartberg Airfield",
+    "icao": "EBZW",
+    "lat": 51.0154,
+    "lon": 5.52647
+  },
+  {
+    "country": "Belgium",
+    "state": "East Flanders",
+    "city": "Ursel",
+    "name": "Ursel Air Base",
+    "icao": "EBUL",
+    "lat": 51.1441993713378,
+    "lon": 3.47555994987487
+  },
+  {
+    "country": "Belgium",
+    "state": "LiÃ¨ge",
+    "city": "Spa",
+    "name": "Spa (la SauveniÃ¨re) Airfield",
+    "icao": "EBSP",
+    "lat": 50.482498,
+    "lon": 5.9103
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Balen",
+    "name": "Balen-Keiheuvel Airfield",
+    "icao": "EBKH",
+    "lat": 51.180957,
+    "lon": 5.221124
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Brasschaat",
+    "name": "Brasschaat Airfield",
+    "icao": "EBBT",
+    "lat": 51.34259,
+    "lon": 4.503451
+  },
+  {
+    "country": "Belgium",
+    "state": "Luxembourg",
+    "city": "Saint Hubert",
+    "name": "St Hubert Airfield",
+    "icao": "EBSH",
+    "lat": 50.0359,
+    "lon": 5.40425
+  },
+  {
+    "country": "Belgium",
+    "state": "Limburg",
+    "city": "Sint Truiden",
+    "name": "Brustem Airfield Sint Truiden",
+    "icao": "EBST",
+    "lat": 50.791901,
+    "lon": 5.20167
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Zoersel",
+    "name": "Zoersel (Oostmalle) Airfield",
+    "icao": "EBZR",
+    "lat": 51.264702,
+    "lon": 4.75333
+  },
+  {
+    "country": "Belgium",
+    "state": "Hainaut",
+    "city": "Saint Ghislain",
+    "name": "Saint-Ghislain Airfield",
+    "icao": "EBSG",
+    "lat": 50.4575,
+    "lon": 3.82028
+  },
+  {
+    "country": "Belgium",
+    "state": "Namur",
+    "city": "Cerfontaine",
+    "name": "Cerfontaine Airfield",
+    "icao": "EBCF",
+    "lat": 50.152802,
+    "lon": 4.38722
+  },
+  {
+    "country": "Belgium",
+    "state": "Flemish Brabant",
+    "city": "Grimbergen",
+    "name": "Grimbergen Airfield",
+    "icao": "EBGB",
+    "lat": 50.948546,
+    "lon": 4.39181
+  },
+  {
+    "country": "Belgium",
+    "state": "Flemish Brabant",
+    "city": "Diest",
+    "name": "Schaffen Airfield",
+    "icao": "EBDT",
+    "lat": 50.999199,
+    "lon": 5.06556
+  },
+  {
+    "country": "Belgium",
+    "state": "Flemish Brabant",
+    "city": "Tienen",
+    "name": "Goetsenhoven Airfield",
+    "icao": "EBTN",
+    "lat": 50.7817,
+    "lon": 4.95778
+  },
+  {
+    "country": "Belgium",
+    "state": "Namur",
+    "city": "Florennes",
+    "name": "Florennes Air Base",
+    "icao": "EBFS",
+    "lat": 50.2433013916,
+    "lon": 4.64583015442
+  },
+  {
+    "country": "Belgium",
+    "state": "Luxembourg",
+    "city": "Arlon",
+    "name": "Arlon-Sterpenich ULM",
+    "icao": "EBAR",
+    "lat": 49.6628,
+    "lon": 5.88694
+  },
+  {
+    "country": "Belgium",
+    "state": "Luxembourg",
+    "city": "Bertrix",
+    "name": "Jehonville Air Base",
+    "icao": "EBBX",
+    "lat": 49.8917007446289,
+    "lon": 5.22388982772827
+  },
+  {
+    "country": "Belgium",
+    "state": "LiÃ¨ge",
+    "city": "BÃ¼llingen",
+    "name": "BÃ¼llingen ULM",
+    "icao": "EBBN",
+    "lat": 50.415001,
+    "lon": 6.27639
+  },
+  {
+    "country": "Belgium",
+    "state": "East Flanders",
+    "city": "Geraardsbergen",
+    "name": "Overboelare Airfield",
+    "icao": "EBGG",
+    "lat": 50.7556,
+    "lon": 3.86389
+  },
+  {
+    "country": "Belgium",
+    "state": "Hainaut",
+    "city": "Tournai",
+    "name": "Tournai/Maubray Glider Field",
+    "icao": "EBTY",
+    "lat": 50.531611,
+    "lon": 3.497382
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Bruges",
+    "name": "Az Sint-Jan Heliport",
+    "icao": "EBSJ",
+    "lat": 51.2205063161,
+    "lon": 3.19609344006
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Antwerpen",
+    "name": "Kiel heliport",
+    "icao": "EBAK",
+    "lat": 51.200153,
+    "lon": 4.359219
+  },
+  {
+    "country": "Belgium",
+    "state": "Limburg",
+    "city": "Lummen",
+    "name": "Lummen heliport",
+    "icao": "EBLU",
+    "lat": 50.991943359375,
+    "lon": 5.2388892173767
+  },
+  {
+    "country": "Belgium",
+    "state": "Flemish Brabant",
+    "city": "Meerbeek",
+    "name": "Meerbeek heliport",
+    "icao": "EBME",
+    "lat": 50.873756,
+    "lon": 4.596889
+  },
+  {
+    "country": "Belgium",
+    "state": "Walloon Brabant",
+    "city": "Beauvechain",
+    "name": "Beauvechain Air Base",
+    "icao": "EBBE",
+    "lat": 50.7585983276367,
+    "lon": 4.76833009719848
+  },
+  {
+    "country": "Belgium",
+    "state": "Hainaut",
+    "city": "ChiÃ¨vres",
+    "name": "ChiÃ¨vres Air Base",
+    "icao": "EBCV",
+    "lat": 50.5758018493652,
+    "lon": 3.83100008964538
+  },
+  {
+    "country": "Belgium",
+    "state": "LiÃ¨ge",
+    "city": "Lierneux",
+    "name": "Lierneux ULM",
+    "icao": "EBLI",
+    "lat": 50.286701,
+    "lon": 5.83639
+  },
+  {
+    "country": "Belgium",
+    "state": "East Flanders",
+    "city": "Ninove",
+    "name": "Outer ULM",
+    "icao": "EBNO",
+    "lat": 50.8544006347999,
+    "lon": 3.98528003693
+  },
+  {
+    "country": "Belgium",
+    "state": "Luxembourg",
+    "city": "Saint Hubert",
+    "name": "Saint Hubert Air Base",
+    "icao": "EBSU",
+    "lat": 50.0344009399414,
+    "lon": 5.44081020355224
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Veurne",
+    "name": "Veurne heliport",
+    "icao": "EBVE",
+    "lat": 51.0222206115722,
+    "lon": 2.6800000667572
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Brugge",
+    "name": "Sint-Lucas heliport",
+    "icao": "EBSS",
+    "lat": 51.185001373291,
+    "lon": 3.25111103057861
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Knokke-Heist",
+    "name": "Westkapelle heliport",
+    "icao": "EBKW",
+    "lat": 51.32222366333,
+    "lon": 3.2930560112
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Kuurne",
+    "name": "Kuurne Heliport",
+    "icao": "EBKU",
+    "lat": 50.859402,
+    "lon": 3.25667
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Oostdijckbank",
+    "name": "Oostdijckbank platform heliport",
+    "icao": "EBOO",
+    "lat": 51.2744445800781,
+    "lon": 2.44749999046325
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Antwerp",
+    "name": "Oud-Turnhout",
+    "icao": "EBOT",
+    "lat": 51.323558854,
+    "lon": 5.01796245575
+  },
+  {
+    "country": "Belgium",
+    "state": "LiÃ¨ge",
+    "city": "'S Gravenvoeren",
+    "name": "'S Gravenvoeren heliport",
+    "icao": "EBSN",
+    "lat": 50.764771,
+    "lon": 5.786845
+  },
+  {
+    "country": "Belgium",
+    "state": "East Flanders",
+    "city": "Aalst",
+    "name": "Meldert heliport",
+    "icao": "EBAT",
+    "lat": 50.92683,
+    "lon": 4.112962
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Antwerpen",
+    "name": "AZ Middelheim heliport",
+    "icao": "EBMD",
+    "lat": 51.181674,
+    "lon": 4.421096
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Bonheiden",
+    "name": "Imelda Hospital Helipad",
+    "icao": "BE-0007",
+    "lat": 51.01767,
+    "lon": 4.55819
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Brecht",
+    "name": "Keysers heliport",
+    "icao": "EBBH",
+    "lat": 51.3430557250976,
+    "lon": 4.62194395065307
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Brecht",
+    "name": "Brecht/Vochten Heliport",
+    "icao": "BE-0008",
+    "lat": 51.332,
+    "lon": 4.62466
+  },
+  {
+    "country": "Belgium",
+    "state": "Brussels-Capital Region",
+    "city": "Brussels",
+    "name": "ULB heliport",
+    "icao": "EBUB",
+    "lat": 50.8130569458007,
+    "lon": 4.26138877868652
+  },
+  {
+    "country": "Belgium",
+    "state": "Namur",
+    "city": "Ciney",
+    "name": "Sovet Airfield",
+    "icao": "BE-0003",
+    "lat": 50.286667,
+    "lon": 5.040278
+  },
+  {
+    "country": "Belgium",
+    "state": "East Flanders",
+    "city": "Evergem",
+    "name": "Evergem / Belzele Heliport",
+    "icao": "EBEB",
+    "lat": 51.100833,
+    "lon": 3.653611
+  },
+  {
+    "country": "Belgium",
+    "state": "Namur",
+    "city": "Fernelmont",
+    "name": "Dompire heliport",
+    "icao": "EBFD",
+    "lat": 50.550835,
+    "lon": 4.996389
+  },
+  {
+    "country": "Belgium",
+    "state": "Hainaut",
+    "city": "Froidchapelle",
+    "name": "Froidchapelle Glider Field",
+    "icao": "BE-0001",
+    "lat": 50.176388,
+    "lon": 4.352222
+  },
+  {
+    "country": "Belgium",
+    "state": "Walloon Brabant",
+    "city": "Genappe",
+    "name": "Baisy-Thy ULM",
+    "icao": "EBBY",
+    "lat": 50.568611145,
+    "lon": 4.4347219467
+  },
+  {
+    "country": "Belgium",
+    "state": "Limburg",
+    "city": "Halen",
+    "name": "Halen heliport",
+    "icao": "EBHL",
+    "lat": 50.9308319091796,
+    "lon": 5.0813889503479
+  },
+  {
+    "country": "Belgium",
+    "state": "Flemish Brabant",
+    "city": "Holsbeek",
+    "name": "Holsbeek heliport",
+    "icao": "EBHO",
+    "lat": 50.919676,
+    "lon": 4.768925
+  },
+  {
+    "country": "Belgium",
+    "state": "Limburg",
+    "city": "Houthalen",
+    "name": "Houthalen heliport",
+    "icao": "EBHT",
+    "lat": 51.0149993896484,
+    "lon": 5.36250019073486
+  },
+  {
+    "country": "Belgium",
+    "state": "LiÃ¨ge",
+    "city": "LiÃ¨ge",
+    "name": "Citadelle heliport",
+    "icao": "EBLC",
+    "lat": 50.6534271240234,
+    "lon": 5.57761096954345
+  },
+  {
+    "country": "Belgium",
+    "state": "LiÃ¨ge",
+    "city": "Lierneu",
+    "name": "Bra heliport",
+    "icao": "EBMS",
+    "lat": 50.3216247558593,
+    "lon": 5.73115396499633
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Lint",
+    "name": "Lint Heliport",
+    "icao": "BE-0010",
+    "lat": 51.136214,
+    "lon": 4.47898
+  },
+  {
+    "country": "Belgium",
+    "state": "Hainaut",
+    "city": "Loverval",
+    "name": "Grand HÃ´pital de Charleroi (GHDC Asbl) Heliport",
+    "icao": "EBGE",
+    "lat": 50.37581,
+    "lon": 4.486308
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Malle",
+    "name": "Westmalle heliport",
+    "icao": "EBMA",
+    "lat": 51.287224,
+    "lon": 4.714167
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Meulebeke",
+    "name": "Meulebeke Heliport",
+    "icao": "EBLM",
+    "lat": 50.931667,
+    "lon": 3.293889
+  },
+  {
+    "country": "Belgium",
+    "state": "East Flanders",
+    "city": "Michelbeke",
+    "name": "Brakel/Michelbeke Heliport",
+    "icao": "EBBM",
+    "lat": 50.830885,
+    "lon": 3.774096
+  },
+  {
+    "country": "Belgium",
+    "state": "Limburg",
+    "city": "Neerpelt",
+    "name": "Neerpelt/Tilburgs Heliport",
+    "icao": "BE-0011",
+    "lat": 51.240015,
+    "lon": 5.417956
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Oostende",
+    "name": "Oostende heliport",
+    "icao": "EBNH",
+    "lat": 51.1944427490234,
+    "lon": 2.85472202301025
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Ranst",
+    "name": "Engels heliport",
+    "icao": "EBEN",
+    "lat": 51.2116661071777,
+    "lon": 4.58083295822143
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Ranst",
+    "name": "Ranst/Lymar Heliport",
+    "icao": "EBLY",
+    "lat": 51.210662,
+    "lon": 4.576811
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Roeselare",
+    "name": "Beveren heliport",
+    "icao": "EBRB",
+    "lat": 50.981667,
+    "lon": 3.125833
+  },
+  {
+    "country": "Belgium",
+    "state": "Flemish Brabant",
+    "city": "Rotselaar",
+    "name": "Rotselaar heliport",
+    "icao": "EBVU",
+    "lat": 50.939167022705,
+    "lon": 4.73055601119995
+  },
+  {
+    "country": "Belgium",
+    "state": "Antwerp",
+    "city": "Schilde",
+    "name": "'s Gravenwezel heliport",
+    "icao": "EBAS",
+    "lat": 51.2469444274902,
+    "lon": 4.54277801513671
+  },
+  {
+    "country": "Belgium",
+    "state": "East Flanders",
+    "city": "Temse",
+    "name": "Temse heliport",
+    "icao": "EBTE",
+    "lat": 51.141666,
+    "lon": 4.197222
+  },
+  {
+    "country": "Belgium",
+    "state": "West Flanders",
+    "city": "Wingene",
+    "name": "Wingene/Zwevezele Heliport",
+    "icao": "EBWZ",
+    "lat": 51.052033,
+    "lon": 3.238951
+  }
+]

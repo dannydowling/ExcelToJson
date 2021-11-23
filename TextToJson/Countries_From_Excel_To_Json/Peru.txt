@@ -1,0 +1,704 @@
+[
+  {
+    "country": "PerÃº",
+    "state": "Cuzco Region",
+    "city": "Cusco",
+    "name": "Alejandro Velasco Astete International Airport",
+    "icao": "SPZO",
+    "lat": -13.5356998444,
+    "lon": -71.9387969971
+  },
+  {
+    "country": "PerÃº",
+    "state": "La Libertad Region",
+    "city": "Trujillo",
+    "name": "Capitan FAP Carlos Martinez De Pinillos International Airport",
+    "icao": "SPRU",
+    "lat": -8.08141040802002,
+    "lon": -79.1088027954101
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ica Region",
+    "city": "Nazca",
+    "name": "Maria Reiche Neuman Airport",
+    "icao": "SPZA",
+    "lat": -14.8540000916,
+    "lon": -74.9615020752
+  },
+  {
+    "country": "PerÃº",
+    "state": "Tacna Region",
+    "city": "Tacna",
+    "name": "Coronel FAP Carlos Ciriani Santa Rosa International Airport",
+    "icao": "SPTN",
+    "lat": -18.0533008575,
+    "lon": -70.2758026123
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ucayali Region",
+    "city": "Pucallpa",
+    "name": "Cap FAP David Abenzur Rengifo International Airport",
+    "icao": "SPCL",
+    "lat": -8.37794017791748,
+    "lon": -74.5743026733398
+  },
+  {
+    "country": "PerÃº",
+    "state": "Piura Region",
+    "city": "Talara",
+    "name": "Capitan Montes Airport",
+    "icao": "SPYL",
+    "lat": -4.5766401290894,
+    "lon": -81.254096984863
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ucayali Region",
+    "city": "Atalaya",
+    "name": "Teniente General Gerardo PÃ©rez Pinedo Airport",
+    "icao": "SPAY",
+    "lat": -10.7291,
+    "lon": -73.766502
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Andoas",
+    "name": "Alferez FAP Alfredo Vladimir Sara Bauer Airport",
+    "icao": "SPAS",
+    "lat": -2.79612994194,
+    "lon": -76.4665985107
+  },
+  {
+    "country": "PerÃº",
+    "state": "Lima Region",
+    "city": "Chorrillos",
+    "name": "Las Palmas Air Base",
+    "icao": "SPLP",
+    "lat": -12.16069984436,
+    "lon": -76.998901367188
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Yurimaguas",
+    "name": "Moises Benzaquen Rengifo Airport",
+    "icao": "SPMS",
+    "lat": -5.8937702178955,
+    "lon": -76.1182022094726
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ayacucho Region",
+    "city": "Ayacucho",
+    "name": "Coronel FAP Alfredo Mendivil Duarte Airport",
+    "icao": "SPHO",
+    "lat": -13.154800415039,
+    "lon": -74.2043991088867
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ancash Region",
+    "city": "Chimbote",
+    "name": "Teniente FAP Jaime A De Montreuil Morales Airport",
+    "icao": "SPEO",
+    "lat": -9.14960956573486,
+    "lon": -78.5238037109375
+  },
+  {
+    "country": "PerÃº",
+    "state": "Pasco Region",
+    "city": "Pozuzo",
+    "name": "Pozuzo Airport",
+    "icao": "SPPO",
+    "lat": -10.0700998306274,
+    "lon": -75.5500030517578
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "JuanjuÃ­",
+    "name": "Juanjui Airport",
+    "icao": "SPJI",
+    "lat": -7.16909980773925,
+    "lon": -76.7285995483398
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ica Region",
+    "city": "Pisco",
+    "name": "CapitÃ¡n FAP RenÃ¡n ElÃ­as Olivera International Airport",
+    "icao": "SPSO",
+    "lat": -13.7448997497558,
+    "lon": -76.2202987670898
+  },
+  {
+    "country": "PerÃº",
+    "state": "Amazonas Region",
+    "city": "Chachapoyas",
+    "name": "Chachapoyas Airport",
+    "icao": "SPPY",
+    "lat": -6.20180988311767,
+    "lon": -77.8561019897461
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Loreto Region",
+    "name": "El Estrecho Airport",
+    "icao": "SPEE",
+    "lat": -2.45406007766723,
+    "lon": -72.6706008911132
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Loreto Region",
+    "name": "GÃ¼eppiÂ­ Airport",
+    "icao": "SPGP",
+    "lat": -0.11905600130558,
+    "lon": -75.2479019165039
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ancash Region",
+    "city": "Ancash",
+    "name": "Caraz Airport",
+    "icao": "SPAA",
+    "lat": -9.05142879486084,
+    "lon": -77.8101425170898
+  },
+  {
+    "country": "PerÃº",
+    "state": "La Libertad Region",
+    "city": "Ascope",
+    "name": "Casa Grande Airport",
+    "icao": "SPCG",
+    "lat": -7.74388885498046,
+    "lon": -79.1863861083984
+  },
+  {
+    "country": "PerÃº",
+    "state": "Amazonas Region",
+    "city": "Bagua",
+    "name": "Ciro Alegria Airport",
+    "icao": "SPAC",
+    "lat": -4.56699991226196,
+    "lon": -77.9169998168945
+  },
+  {
+    "country": "PerÃº",
+    "state": "Piura Region",
+    "city": "Bayovar",
+    "name": "Bayovar",
+    "icao": "SPBY",
+    "lat": -5.8307499885559,
+    "lon": -81.0258026123046
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "Bellavista",
+    "name": "Huallaga Airport",
+    "icao": "SPBL",
+    "lat": -7.06056022644043,
+    "lon": -76.5821990966796
+  },
+  {
+    "country": "PerÃº",
+    "state": "Arequipa Region",
+    "city": "Camana",
+    "name": "Camana Airport",
+    "icao": "SPAM",
+    "lat": -16.632999420166,
+    "lon": -72.6829986572265
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ancash Region",
+    "city": "Casma",
+    "name": "Casma Airport",
+    "icao": "SPSA",
+    "lat": -9.44999980926513,
+    "lon": -78.3000030517578
+  },
+  {
+    "country": "PerÃº",
+    "state": "Cajamarca Region",
+    "city": "CelendÃ­n",
+    "name": "CelendÃ­n Airport",
+    "icao": "SPLD",
+    "lat": -6.86759996414184,
+    "lon": -78.14990234375
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "Chazuta",
+    "name": "Chazuta Airport",
+    "icao": "SPZT",
+    "lat": -6.57416677474975,
+    "lon": -76.1366653442382
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ica Region",
+    "city": "Chincha",
+    "name": "San Regis Airport",
+    "icao": "SPRG",
+    "lat": -13.5166664123535,
+    "lon": -76.0999984741211
+  },
+  {
+    "country": "PerÃº",
+    "state": "Huancavelica Region",
+    "city": "Choclococha",
+    "name": "Laguna Choclococha Airport",
+    "icao": "SPNH",
+    "lat": -13.1656999588012,
+    "lon": -75.0719985961914
+  },
+  {
+    "country": "PerÃº",
+    "state": "Cajamarca Region",
+    "city": "Chota",
+    "name": "Chota Airport",
+    "icao": "SPCT",
+    "lat": -6.55000019073486,
+    "lon": -78.6500015258789
+  },
+  {
+    "country": "PerÃº",
+    "state": "Lima Region",
+    "city": "Collique Bajo",
+    "name": "Collique Airport",
+    "icao": "SPOL",
+    "lat": -11.9287004470825,
+    "lon": -77.0610961914062
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Contamana",
+    "name": "Contamana Airport",
+    "icao": "SPCM",
+    "lat": -7.33666992188,
+    "lon": -74.9914016723999
+  },
+  {
+    "country": "PerÃº",
+    "state": "Tumbes Region",
+    "city": "Contralmirante Villar",
+    "name": "Zorritos Airport",
+    "icao": "SPOS",
+    "lat": -3.67373991012573,
+    "lon": -80.6523971557617
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "El Dorado",
+    "name": "San JosÃ© de Sisa Airport",
+    "icao": "SPSJ",
+    "lat": -6.61648988723754,
+    "lon": -76.6884002685546
+  },
+  {
+    "country": "PerÃº",
+    "state": "Amazonas Region",
+    "city": "El Valor",
+    "name": "Hacienda El Valor Airport",
+    "icao": "SPVA",
+    "lat": -5.66249990463256,
+    "lon": -78.6447219848632
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ucayali Region",
+    "city": "Esperanza",
+    "name": "Puerto Esperanza Airport",
+    "icao": "SPEP",
+    "lat": -9.7681303024292,
+    "lon": -70.7064971923828
+  },
+  {
+    "country": "PerÃº",
+    "state": "Cuzco Region",
+    "city": "Fausa",
+    "name": "Fausa Airport",
+    "icao": "SPFA",
+    "lat": -14.7094001770019,
+    "lon": -71.7311019897461
+  },
+  {
+    "country": "PerÃº",
+    "state": "Madre de Dios Region",
+    "city": "Fortaleza",
+    "name": "Alerta Airport",
+    "icao": "SPAR",
+    "lat": -11.6829996109008,
+    "lon": -69.3330001831054
+  },
+  {
+    "country": "PerÃº",
+    "state": "La Libertad Region",
+    "city": "Huamachuco",
+    "name": "Huamachuco Airport",
+    "icao": "SPUC",
+    "lat": -7.81808,
+    "lon": -78.02834
+  },
+  {
+    "country": "PerÃº",
+    "state": "Piura Region",
+    "city": "Huancabamba",
+    "name": "Huancabamba Airport",
+    "icao": "SPAB",
+    "lat": -5.25677013397216,
+    "lon": -79.4429016113281
+  },
+  {
+    "country": "PerÃº",
+    "state": "HuÃ¡nuco Region",
+    "city": "HuÃ¡nuco Viejo",
+    "name": "HuÃ¡nuco Viejo Airport",
+    "icao": "SPHV",
+    "lat": -9.92632007598877,
+    "lon": -76.233901977539
+  },
+  {
+    "country": "PerÃº",
+    "state": "Madre de Dios Region",
+    "city": "IÃ±apari",
+    "name": "IÃ±apari Airport",
+    "icao": "SPIN",
+    "lat": -10.9790000915527,
+    "lon": -69.5594024658203
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Intuto",
+    "name": "Intuto Airport",
+    "icao": "SPNT",
+    "lat": -3.58299994468688,
+    "lon": -74.75
+  },
+  {
+    "country": "PerÃº",
+    "state": "Pasco Region",
+    "city": "Iscozasin",
+    "name": "Iscozasin Airport",
+    "icao": "SPEN",
+    "lat": -10.1829996109008,
+    "lon": -75.1500015258789
+  },
+  {
+    "country": "PerÃº",
+    "state": "Madre de Dios Region",
+    "city": "Lagarto",
+    "name": "Lagarto Nuevo Airport",
+    "icao": "SPLG",
+    "lat": -12.6415996551513,
+    "lon": -69.8375015258789
+  },
+  {
+    "country": "PerÃº",
+    "state": "Madre de Dios Region",
+    "city": "Leon Velarde",
+    "name": "Shiringayoc/Hacienda Hda Mejia Airport",
+    "icao": "SPOV",
+    "lat": -11.9,
+    "lon": -69.167
+  },
+  {
+    "country": "PerÃº",
+    "state": "Piura Region",
+    "city": "Lobitos",
+    "name": "Lobitos Airport",
+    "icao": "SPLT",
+    "lat": -4.44861125946044,
+    "lon": -81.2755584716796
+  },
+  {
+    "country": "PerÃº",
+    "state": "Madre de Dios Region",
+    "city": "Manu",
+    "name": "Manu Airport",
+    "icao": "SPNU",
+    "lat": -12.2829999923706,
+    "lon": -70.8830032348632
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Nauta",
+    "name": "Nauta Airport",
+    "icao": "SPTA",
+    "lat": -4.53329992294311,
+    "lon": -73.5500030517578
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Orellana",
+    "name": "Orellana Airport",
+    "icao": "SPON",
+    "lat": -6.89674997329711,
+    "lon": -75.1521987915039
+  },
+  {
+    "country": "PerÃº",
+    "state": "Piura Region",
+    "city": "Paita Wesr",
+    "name": "Paita Airport",
+    "icao": "SPIT",
+    "lat": -5.08594989776611,
+    "lon": -81.1528015136718
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "Palmas del Espino",
+    "name": "Palmas del Espino Airport",
+    "icao": "SPPN",
+    "lat": -8.29259014129638,
+    "lon": -76.4395980834961
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Pampa Hermosa",
+    "name": "Pampa Hermosa Airport",
+    "icao": "SPPH",
+    "lat": -7.19999980926513,
+    "lon": -75.3000030517578
+  },
+  {
+    "country": "PerÃº",
+    "state": "Lima Region",
+    "city": "Paramonga",
+    "name": "Paramonga Airport",
+    "icao": "SPPG",
+    "lat": -10.6669998168945,
+    "lon": -77.8330001831054
+  },
+  {
+    "country": "PerÃº",
+    "state": "La Libertad Region",
+    "city": "Pataz",
+    "name": "Pias Airport",
+    "icao": "SPIS",
+    "lat": -7.92062,
+    "lon": -77.52518
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "Picota",
+    "name": "Picota Airport",
+    "icao": "SPAP",
+    "lat": -6.90000009536743,
+    "lon": -76.3830032348632
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "Plaza Saposoa",
+    "name": "Saposoa Airport",
+    "icao": "SPOA",
+    "lat": -6.96003007888793,
+    "lon": -76.7684020996093
+  },
+  {
+    "country": "PerÃº",
+    "state": "Pasco Region",
+    "city": "Porvenir",
+    "name": "PalcazÃº Airport",
+    "icao": "SPPZ",
+    "lat": -9.89583301544189,
+    "lon": -75.1177749633789
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "Pucacaca",
+    "name": "Pucacaca Airport",
+    "icao": "SPCP",
+    "lat": -6.83300018310546,
+    "lon": -76.3330001831054
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ucayali Region",
+    "city": "Puerto Breu",
+    "name": "Tipishsa Airport",
+    "icao": "SPPB",
+    "lat": -9.53306007385253,
+    "lon": -72.7568969726562
+  },
+  {
+    "country": "PerÃº",
+    "state": "Cuzco Region",
+    "city": "Quince Mil",
+    "name": "Quince Air Base",
+    "icao": "SPIL",
+    "lat": -13.2333002090454,
+    "lon": -70.753303527832
+  },
+  {
+    "country": "PerÃº",
+    "state": "Pasco Region",
+    "city": "RicrÃ¡n",
+    "name": "RicrÃ¡n Airport",
+    "icao": "SPNR",
+    "lat": -10.7779502868652,
+    "lon": -76.2513122558593
+  },
+  {
+    "country": "PerÃº",
+    "state": "Amazonas Region",
+    "city": "Rodriguez de Mendoza",
+    "name": "San Nicolas Airport",
+    "icao": "SPLN",
+    "lat": -6.39231014251709,
+    "lon": -77.5011978149414
+  },
+  {
+    "country": "PerÃº",
+    "state": "Amazonas Region",
+    "city": "San Francisco de Yeso",
+    "name": "San Francisco Airport",
+    "icao": "SPSF",
+    "lat": -6.6166801452637,
+    "lon": -77.766700744629
+  },
+  {
+    "country": "PerÃº",
+    "state": "JunÃ­n Region",
+    "city": "Satipo",
+    "name": "Satipo Airport",
+    "icao": "SPIP",
+    "lat": -11.2625,
+    "lon": -74.647778
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ucayali Region",
+    "city": "Sepahua",
+    "name": "Sepahua Airport",
+    "icao": "SPSE",
+    "lat": -11.1417999267578,
+    "lon": -73.0335006713867
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "Shapaja",
+    "name": "Shapaja Airport",
+    "icao": "SPSN",
+    "lat": -6.57972002029418,
+    "lon": -76.2628021240234
+  },
+  {
+    "country": "PerÃº",
+    "state": "San MartÃ­n Region",
+    "city": "Tocache",
+    "name": "Tocache Airport",
+    "icao": "SPCH",
+    "lat": -8.1829996109,
+    "lon": -76.516998291
+  },
+  {
+    "country": "PerÃº",
+    "state": "Tacna Region",
+    "city": "Toquepala",
+    "name": "Toquepala Airport",
+    "icao": "SPTQ",
+    "lat": -17.2994995117187,
+    "lon": -70.6528015136718
+  },
+  {
+    "country": "PerÃº",
+    "state": "HuÃ¡nuco Region",
+    "city": "Tournavista",
+    "name": "Tournavista Airport",
+    "icao": "SPTR",
+    "lat": -8.922406,
+    "lon": -74.715234
+  },
+  {
+    "country": "PerÃº",
+    "state": "Puno Region",
+    "city": "Ventilla",
+    "name": "Ventilla Airport",
+    "icao": "SPNP",
+    "lat": -15.8000001907348,
+    "lon": -70.0500030517578
+  },
+  {
+    "country": "PerÃº",
+    "state": "Cuzco Region",
+    "city": "Yauri",
+    "name": "Yauri Airport",
+    "icao": "SPIY",
+    "lat": -14.8000001907348,
+    "lon": -71.4329986572265
+  },
+  {
+    "country": "PerÃº",
+    "state": "La Libertad Region",
+    "city": "La Libertad Region",
+    "name": "Chagual Airport",
+    "icao": "spgl",
+    "lat": -7.798106,
+    "lon": -77.6495
+  },
+  {
+    "country": "PerÃº",
+    "state": "Madre de Dios Region",
+    "city": "Madre de Dios Region",
+    "name": "Santa Maria de Fatima Airport",
+    "icao": "PE-0004",
+    "lat": -11.940815,
+    "lon": -68.994212
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Cabo Pantoja",
+    "name": "Cabo Pantoja Airstrip",
+    "icao": "PE-0003",
+    "lat": -0.952,
+    "lon": -75.179731
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "Iquitos",
+    "name": "Old Iquitos Airport",
+    "icao": "PE-0002",
+    "lat": -3.7422,
+    "lon": -73.2604
+  },
+  {
+    "country": "PerÃº",
+    "state": "Ucayali Region",
+    "city": "Pucallpa",
+    "name": "Pucallpa West Airport",
+    "icao": "PE-0007",
+    "lat": -8.361953,
+    "lon": -74.656877
+  },
+  {
+    "country": "PerÃº",
+    "state": "Loreto Region",
+    "city": "San Lorenzo",
+    "name": "San Lorenzo Airport",
+    "icao": "PE-0009",
+    "lat": -4.824369,
+    "lon": -76.56032
+  }
+]

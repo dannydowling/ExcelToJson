@@ -1,0 +1,560 @@
+[
+  {
+    "country": "Zimbabwe",
+    "state": "Harare Metropolitan Province",
+    "city": "Harare",
+    "name": "Robert Gabriel Mugabe International Airport",
+    "icao": "FVHA",
+    "lat": -17.931801,
+    "lon": 31.0928
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Hwange",
+    "name": "Hwange National Park Airport",
+    "icao": "FVWN",
+    "lat": -18.6298999786376,
+    "lon": 27.0209999084472
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Masvingo Province",
+    "city": "Masvingo",
+    "name": "Masvingo International Airport",
+    "icao": "FVMV",
+    "lat": -20.0552997589111,
+    "lon": 30.8591003417968
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Manicaland Province",
+    "city": "Chipinge",
+    "name": "Chipinge Airport",
+    "icao": "FVCH",
+    "lat": -20.2066993713378,
+    "lon": 32.6282997131347
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Mana Pools",
+    "name": "Mana Pools Airport",
+    "icao": "FVMN",
+    "lat": -15.768735,
+    "lon": 29.385617
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland Central Province",
+    "city": "Mashonaland Central Province",
+    "name": "Mount Darwin Airport",
+    "icao": "FVMD",
+    "lat": -16.7691993713378,
+    "lon": 31.5597991943359
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Midlands Province",
+    "city": "Midlands Province",
+    "name": "Zvishavane Airport",
+    "icao": "FVSH",
+    "lat": -20.2894992828369,
+    "lon": 30.0881996154785
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Midlands Province",
+    "city": "Midlands Province",
+    "name": "Kwekwe East Airport",
+    "icao": "FV76",
+    "lat": -19.0107994079589,
+    "lon": 30.0251998901367
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland South Province",
+    "city": "Matabeleland South Province",
+    "name": "Beit Bridge Airport",
+    "icao": "FVBB",
+    "lat": -22.197617,
+    "lon": 30.012774
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Midlands Province",
+    "city": "Midlands Province",
+    "name": "Gokwe Airport",
+    "icao": "FVGO",
+    "lat": -18.2000007629394,
+    "lon": 28.9167003631591
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Bosbury",
+    "name": "Bosbury Airport",
+    "icao": "FVBO",
+    "lat": -18.216999053955,
+    "lon": 30.132999420166
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Bumi",
+    "name": "Bumi Airport",
+    "icao": "FVBM",
+    "lat": -16.8169994354,
+    "lon": 28.3500003815
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "C.C. Strip",
+    "name": "C.C. Strip",
+    "icao": "FVCC",
+    "lat": -17.4330005645751,
+    "lon": 30.2999992370605
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Masvingo Province",
+    "city": "Chiredzi",
+    "name": "Hippo Valley Airport",
+    "icao": "FVHY",
+    "lat": -21.0499992370605,
+    "lon": 31.6669998168945
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Deka",
+    "name": "Deka Airport",
+    "icao": "FVDE",
+    "lat": -18.093208,
+    "lon": 26.714038
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland East Province",
+    "city": "Dudley",
+    "name": "Dudley Airport",
+    "icao": "FVDU",
+    "lat": -18.2830009460449,
+    "lon": 31.4829998016357
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Midlands Province",
+    "city": "Eduan",
+    "name": "Eduan Airport",
+    "icao": "FVED",
+    "lat": -18.7670001983642,
+    "lon": 29.7830009460449
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Masvingo Province",
+    "city": "Gaths Mine",
+    "name": "Gaths Mine Airport",
+    "icao": "FVGT",
+    "lat": -19.9829998016357,
+    "lon": 30.5
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Midlands Province",
+    "city": "Gweru",
+    "name": "Gweru Airport",
+    "icao": "FVGW",
+    "lat": -19.5499992370605,
+    "lon": 29.7329998016357
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Inyati",
+    "name": "Inyati Airport",
+    "icao": "FVYT",
+    "lat": -19.7000007629394,
+    "lon": 28.8500003814697
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland South Province",
+    "city": "Kezi",
+    "name": "Kezi Airport",
+    "icao": "FVKZ",
+    "lat": -20.9169998168945,
+    "lon": 28.4829998016357
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Masvingo Province",
+    "city": "Mabalauta",
+    "name": "Mabalauta Airport",
+    "icao": "FVBL",
+    "lat": -21.9169998168945,
+    "lon": 31.466999053955
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Mabikwa",
+    "name": "Mabikwa Airport",
+    "icao": "FVMF",
+    "lat": -18.7329998016357,
+    "lon": 27.5330009460449
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Manicaland Province",
+    "city": "Middle Sabi",
+    "name": "Middle Sabi Airport",
+    "icao": "FVMS",
+    "lat": -20.216999053955,
+    "lon": 32.3670005798339
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Mkonono",
+    "name": "Mkonono Airport",
+    "icao": "FVMK",
+    "lat": -17.716999053955,
+    "lon": 30.4169998168945
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Manicaland Province",
+    "city": "Mutare",
+    "name": "Mutare Airport",
+    "icao": "FVMU",
+    "lat": -18.997499465942,
+    "lon": 32.627201080322
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Manicaland Province",
+    "city": "Nyanyadzi",
+    "name": "Nyanyadzi Airport",
+    "icao": "FVNY",
+    "lat": -19.7329998016357,
+    "lon": 32.4329986572265
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland South Province",
+    "city": "Plumtree",
+    "name": "Plumtree Airport",
+    "icao": "FVPL",
+    "lat": -20.4829998016357,
+    "lon": 27.7830009460449
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Midlands Province",
+    "city": "Sengwa Gorge",
+    "name": "Sengwa Gorge Airport",
+    "icao": "FVSX",
+    "lat": -18.1669998168945,
+    "lon": 28.8500003814697
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland Central Province",
+    "city": "Siyalima",
+    "name": "Siyalima Airport",
+    "icao": "FVSY",
+    "lat": -16.632999420166,
+    "lon": 30.6499996185302
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Spray View",
+    "name": "Spray View Airport",
+    "icao": "FVSV",
+    "lat": -17.9169998168945,
+    "lon": 25.8169994354248
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland South Province",
+    "city": "Sun Yet Sen",
+    "name": "Sun Yet Sen Airport",
+    "icao": "FVSN",
+    "lat": -21.3330001831054,
+    "lon": 28.5170001983642
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Tashinga",
+    "name": "Tashinga Airport",
+    "icao": "FVTA",
+    "lat": -16.824147,
+    "lon": 28.443215
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland East Province",
+    "city": "Wedza",
+    "name": "Wedza Airport",
+    "icao": "FVWD",
+    "lat": -18.6170005798339,
+    "lon": 31.5830001831054
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Masvingo Province",
+    "city": "Zaka",
+    "name": "Zaka Airport",
+    "icao": "FVZK",
+    "lat": -20.335499,
+    "lon": 31.451845
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Midlands Province",
+    "city": "Zisco",
+    "name": "Zisco Airport",
+    "icao": "FVZC",
+    "lat": -19.0330009460449,
+    "lon": 29.716999053955
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Masvingo Province",
+    "city": "Masvingo Province",
+    "name": "Bridge Camp Airstrip",
+    "icao": "ZW-0004",
+    "lat": -21.247388,
+    "lon": 31.908657
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Matabeleland North Province",
+    "name": "Chete Airport",
+    "icao": "ZW-0016",
+    "lat": -17.050324,
+    "lon": 28.001822
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Matabeleland North Province",
+    "name": "Sijarira Lodge Airstrip",
+    "icao": "ZW-0018",
+    "lat": -17.51631,
+    "lon": 27.500593
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Matabeleland North Province",
+    "name": "Manjolo Airport",
+    "icao": "ZW-0019",
+    "lat": -17.814685,
+    "lon": 27.171634
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland Central Province",
+    "city": "Mashonaland Central Province",
+    "name": "Chapoto Road Airstrip",
+    "icao": "ZW-0024",
+    "lat": -15.749968,
+    "lon": 30.402576
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Mashonaland West Province",
+    "name": "Mwanja River Airport",
+    "icao": "ZW-0027",
+    "lat": -15.64811,
+    "lon": 29.9871
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Mashonaland West Province",
+    "name": "Chikwenya Game Lodge Airstrip",
+    "icao": "ZW-0029",
+    "lat": -15.6956,
+    "lon": 29.576598
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Matabeleland North Province",
+    "name": "Chewonde Airport",
+    "icao": "ZW-0032",
+    "lat": -17.958974,
+    "lon": 28.270602
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland North Province",
+    "city": "Matabeleland North Province",
+    "name": "Sengwa Research Area Airstrip",
+    "icao": "ZW-0034",
+    "lat": -18.165196,
+    "lon": 28.215618
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Masvingo Province",
+    "city": "Masvingo Province",
+    "name": "Chipinge Farm Airstrip",
+    "icao": "ZW-0038",
+    "lat": -20.460575,
+    "lon": 32.203607
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Midlands Province",
+    "city": "Midlands Province",
+    "name": "Barberton Lodge Airfield",
+    "icao": "FVRB",
+    "lat": -21.12863,
+    "lon": 29.871943
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Kipling's Rukari Airstrip",
+    "city": "Kipling's Rukari Airstrip",
+    "name": "Kipling's Rukari Airstrip",
+    "icao": "FVRI",
+    "lat": -16.855422,
+    "lon": 28.427034
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Sipepa Airstrip",
+    "city": "Sipepa Airstrip",
+    "name": "Sipepa Airstrip",
+    "icao": "ZW-0042",
+    "lat": -19.280942,
+    "lon": 27.648321
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Chigwell",
+    "name": "Chigwell Airport",
+    "icao": "ZW-0020",
+    "lat": -18.16483,
+    "lon": 29.965823
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Masvingo Province",
+    "city": "Chiredzi",
+    "name": "Lonestar Airfield",
+    "icao": "FVLS",
+    "lat": -21.061103,
+    "lon": 31.889759
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Manicaland Province",
+    "city": "Hot Springs",
+    "name": "Hot Springs Airport",
+    "icao": "ZW-0021",
+    "lat": -19.653303,
+    "lon": 32.4248
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland Central Province",
+    "city": "Impinge Ranch",
+    "name": "Impinge Airport",
+    "icao": "FVIP",
+    "lat": -16.9071,
+    "lon": 30.8003
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland Central Province",
+    "city": "Kanyemba",
+    "name": "Kanyemba Airport",
+    "icao": "ZW-0025",
+    "lat": -15.665006,
+    "lon": 30.389806
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Kariba",
+    "name": "Tiger Bay Airstrip",
+    "icao": "FVTB",
+    "lat": -16.911231,
+    "lon": 28.426079
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland South Province",
+    "city": "Makado",
+    "name": "Makado Airport",
+    "icao": "ZW-0007",
+    "lat": -21.456959,
+    "lon": 29.7175
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "(unassigned)",
+    "city": "Mana Pools Area",
+    "name": "Mana West",
+    "icao": "ZW-0041",
+    "lat": -15.83586,
+    "lon": 29.174883
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Manicaland Province",
+    "city": "Nyanga",
+    "name": "Kwaraguza Airport",
+    "icao": "ZW-0040",
+    "lat": -18.117815,
+    "lon": 32.841205
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Manicaland Province",
+    "city": "Rupangwana",
+    "name": "Rupangwana Airport",
+    "icao": "ZW-0037",
+    "lat": -21.008374,
+    "lon": 32.181507
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Manicaland Province",
+    "city": "Tilbury",
+    "name": "Tilbury Airport",
+    "icao": "ZW-0003",
+    "lat": -19.906934,
+    "lon": 32.969636
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Matabeleland South Province",
+    "city": "West Nicholson",
+    "name": "West Nicholson Airport",
+    "icao": "ZW-0009",
+    "lat": -21.048952,
+    "lon": 29.353583
+  },
+  {
+    "country": "Zimbabwe",
+    "state": "Mashonaland West Province",
+    "city": "Yomba",
+    "name": "Yomba Airport",
+    "icao": "FVYB",
+    "lat": -16.946664,
+    "lon": 30.400914
+  }
+]

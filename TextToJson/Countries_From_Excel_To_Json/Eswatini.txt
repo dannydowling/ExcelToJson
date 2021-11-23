@@ -1,0 +1,92 @@
+[
+  {
+    "country": "Eswatini",
+    "state": "Manzini",
+    "city": "Manzini",
+    "name": "Matsapha Airport",
+    "icao": "FDMS",
+    "lat": -26.528999,
+    "lon": 31.307501
+  },
+  {
+    "country": "Eswatini",
+    "state": "Lubombo",
+    "city": "Big Bend",
+    "name": "Matata Airport",
+    "icao": "FDBM",
+    "lat": -26.8670005798339,
+    "lon": 31.9330005645751
+  },
+  {
+    "country": "Eswatini",
+    "state": "Lubombo",
+    "city": "Big Bend",
+    "name": "Ubombo Ranches Airport",
+    "icao": "FDUB",
+    "lat": -26.7707996368408,
+    "lon": 31.9363994598388
+  },
+  {
+    "country": "Eswatini",
+    "state": "Shiselweni",
+    "city": "Kubuta B",
+    "name": "Kubuta Airport",
+    "icao": "FDKB",
+    "lat": -26.881528,
+    "lon": 31.488889
+  },
+  {
+    "country": "Eswatini",
+    "state": "Hhohho",
+    "city": "Ngonini",
+    "name": "Piggs Peak Airport",
+    "icao": "FDNG",
+    "lat": -25.7666664123535,
+    "lon": 31.3666667938232
+  },
+  {
+    "country": "Eswatini",
+    "state": "Lubombo",
+    "city": "Nsoko",
+    "name": "Nsoko Airport",
+    "icao": "FDNS",
+    "lat": -27.0333003997802,
+    "lon": 31.9333324432373
+  },
+  {
+    "country": "Eswatini",
+    "state": "Lubombo",
+    "city": "Simunye",
+    "name": "Simunye Airport",
+    "icao": "FDSM",
+    "lat": -26.2000007629394,
+    "lon": 31.9333324432373
+  },
+  {
+    "country": "Eswatini",
+    "state": "Lubombo",
+    "city": "Siteki",
+    "name": "Siteki Airport",
+    "icao": "FDST",
+    "lat": -26.4500007629394,
+    "lon": 31.9500007629394
+  },
+  {
+    "country": "Eswatini",
+    "state": "Lubombo",
+    "city": "Tambankulu",
+    "name": "Tambankulu Airport",
+    "icao": "FDTM",
+    "lat": -26.1000003814697,
+    "lon": 31.9666805267334
+  },
+  {
+    "country": "Eswatini",
+    "state": "Lubombo",
+    "city": "Lubombo",
+    "name": "King Mswati III International Airport",
+    "icao": "FDSK",
+    "lat": -26.358611,
+    "lon": 31.716944
+  }
+]

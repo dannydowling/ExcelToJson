@@ -1,0 +1,569 @@
+[
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Maun",
+    "name": "Maun Airport",
+    "icao": "FBMN",
+    "lat": -19.9726009368896,
+    "lon": 23.4311008453369
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Kasane",
+    "name": "Kasane Airport",
+    "icao": "FBKE",
+    "lat": -17.8328990936279,
+    "lon": 25.1623992919921
+  },
+  {
+    "country": "Botswana",
+    "state": "North-East District",
+    "city": "Francistown",
+    "name": "Francistown Airport",
+    "icao": "FBFT",
+    "lat": -21.1595993041992,
+    "lon": 27.4745006561279
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Central District",
+    "name": "Selebi Phikwe Airport",
+    "icao": "FBSP",
+    "lat": -22.0583,
+    "lon": 27.8288
+  },
+  {
+    "country": "Botswana",
+    "state": "Southern District",
+    "city": "Southern District",
+    "name": "Jwaneng Airport",
+    "icao": "FBJW",
+    "lat": -24.6023006439209,
+    "lon": 24.6909999847412
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Orapa",
+    "name": "Orapa Airport",
+    "icao": "FBOR",
+    "lat": -21.266701,
+    "lon": 25.3167
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Shakawe",
+    "name": "Shakawe Airport",
+    "icao": "FBSW",
+    "lat": -18.3738994598388,
+    "lon": 21.8325996398925
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Savuti",
+    "name": "Savuti Airport",
+    "icao": "FBSV",
+    "lat": -18.520599365234,
+    "lon": 24.076700210571
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Xaxaba",
+    "name": "Xaxaba Airport",
+    "icao": "FBXB",
+    "lat": -19.5505008697509,
+    "lon": 23.0548000335693
+  },
+  {
+    "country": "Botswana",
+    "state": "Kweneng District",
+    "city": "Kweneng District",
+    "name": "Thebephatshwa Airport",
+    "icao": "FBTP",
+    "lat": -24.2210998535156,
+    "lon": 25.3472995758056
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Camp Okavango",
+    "name": "Camp Okavango Airport",
+    "icao": "FBCO",
+    "lat": -19.131115,
+    "lon": 23.102505
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Gumare",
+    "name": "Gumare Airport",
+    "icao": "FBGM",
+    "lat": -19.338,
+    "lon": 22.1544
+  },
+  {
+    "country": "Botswana",
+    "state": "Southern District",
+    "city": "Kanye",
+    "name": "Kanye Airport",
+    "icao": "FBKY",
+    "lat": -25.0499992370605,
+    "lon": 25.3166999816894
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Makalamabedi",
+    "name": "Makalamabedi Airport",
+    "icao": "FBMM",
+    "lat": -20.310863,
+    "lon": 23.907795
+  },
+  {
+    "country": "Botswana",
+    "state": "Kweneng District",
+    "city": "Molepolole",
+    "name": "Molepolole Airport",
+    "icao": "FBML",
+    "lat": -24.389444444,
+    "lon": 25.498611111
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Nokaneng",
+    "name": "Nokaneng Airport",
+    "icao": "FBNN",
+    "lat": -19.6802,
+    "lon": 22.1996
+  },
+  {
+    "country": "Botswana",
+    "state": "Ghanzi District",
+    "city": "Okwa",
+    "name": "Okwa Airport",
+    "icao": "FBOK",
+    "lat": -23.0830001831054,
+    "lon": 21.882999420166
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Palapye",
+    "name": "Palapye Airport",
+    "icao": "FBPY",
+    "lat": -22.5669994354248,
+    "lon": 27.1499996185302
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Rakops",
+    "name": "Rakops Airport",
+    "icao": "FBRK",
+    "lat": -21.0,
+    "lon": 24.333
+  },
+  {
+    "country": "Botswana",
+    "state": "Kgalagadi District",
+    "city": "Tshane",
+    "name": "Tshane Airport",
+    "icao": "FBTE",
+    "lat": -24.0170001984,
+    "lon": 21.8829994202
+  },
+  {
+    "country": "Botswana",
+    "state": "Kgalagadi District",
+    "city": "Two Rivers",
+    "name": "Two Rivers Airport",
+    "icao": "BW-0001",
+    "lat": -26.4479007720947,
+    "lon": 20.6056003570556
+  },
+  {
+    "country": "Botswana",
+    "state": "Kgalagadi District",
+    "city": "Kgalagadi District",
+    "name": "Riverside North Airport",
+    "icao": "BW-0009",
+    "lat": -25.2898,
+    "lon": 23.4725
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "North-West District",
+    "name": "Chief's Island Airport",
+    "icao": "BW-0027",
+    "lat": -19.314182,
+    "lon": 22.94975
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "North-West District",
+    "name": "Mombo Camp Airport",
+    "icao": "BW-0029",
+    "lat": -19.209503,
+    "lon": 22.794411
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "North-West District",
+    "name": "Kwara Camp Airport",
+    "icao": "BW-0033",
+    "lat": -19.102891,
+    "lon": 23.289115
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "North-West District",
+    "name": "Sanctuary Stanley Airport",
+    "icao": "BW-0039",
+    "lat": -19.626272,
+    "lon": 23.279398
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "North-West District",
+    "name": "Mapula Airport",
+    "icao": "BW-0041",
+    "lat": -18.787656,
+    "lon": 22.829697
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "North-West District",
+    "name": "Xamaxai Airport",
+    "icao": "BW-0046",
+    "lat": -18.878912,
+    "lon": 22.713563
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "North-West District",
+    "name": "Nxai Pan Airstrip",
+    "icao": "BW-0052",
+    "lat": -19.872439,
+    "lon": 24.679162
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Arizona Farm",
+    "name": "Arizona Airport",
+    "icao": "BW-0021",
+    "lat": -22.6036,
+    "lon": 28.2897
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Bottle Pan",
+    "name": "Bottle Pan Airport",
+    "icao": "FBBP",
+    "lat": -18.7704,
+    "lon": 25.2458
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Chandia",
+    "name": "Chandia Airstrip",
+    "icao": "BW-0014",
+    "lat": -18.5154,
+    "lon": 25.495408
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Deception Valley Lodge",
+    "name": "Deception Valley Airport",
+    "icao": "FBDV",
+    "lat": -20.9866,
+    "lon": 23.6576
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Delta Camp",
+    "name": "Delta Camp Airport",
+    "icao": "FBDT",
+    "lat": -19.5323,
+    "lon": 23.0925
+  },
+  {
+    "country": "Botswana",
+    "state": "Ghanzi District",
+    "city": "Gope",
+    "name": "Gope Airport",
+    "icao": "FBGP",
+    "lat": -22.6523,
+    "lon": 24.7536
+  },
+  {
+    "country": "Botswana",
+    "state": "Ghanzi District",
+    "city": "Grassland Lodge",
+    "name": "Grassland Airport",
+    "icao": "FBGS",
+    "lat": -21.7255,
+    "lon": 22.362657
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Gweta",
+    "name": "Gweta Airport",
+    "icao": "FBGW",
+    "lat": -20.1987,
+    "lon": 25.2187
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Haina Kalahari Lodge",
+    "name": "Haina Ventures Airport",
+    "icao": "FBHV",
+    "lat": -20.9524,
+    "lon": 23.669184
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Jack's Camp",
+    "name": "Tsigaro Airport",
+    "icao": "FBJC",
+    "lat": -20.4563,
+    "lon": 25.1507
+  },
+  {
+    "country": "Botswana",
+    "state": "Ghanzi District",
+    "city": "Kanana Farm",
+    "name": "Kanana Farm Airport",
+    "icao": "BW-0047",
+    "lat": -21.627363,
+    "lon": 21.390602
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Kiri Camp",
+    "name": "Kiri Airport",
+    "icao": "FBKI",
+    "lat": -19.616197,
+    "lon": 23.042473
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Kwalata Ranch",
+    "name": "Kwalata Airport",
+    "icao": "BW-0024",
+    "lat": -23.062493,
+    "lon": 27.904797
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Lebala Camp",
+    "name": "Kwando - Lebala Airport",
+    "icao": "FBKW",
+    "lat": -18.360992,
+    "lon": 23.530495
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Linyanti",
+    "name": "Linyanti Airport",
+    "icao": "BW-0004",
+    "lat": -18.46082,
+    "lon": 23.808989
+  },
+  {
+    "country": "Botswana",
+    "state": "South-East District",
+    "city": "Lobatse",
+    "name": "Lobatse Airport",
+    "icao": "FBLO",
+    "lat": -25.1981,
+    "lon": 25.7139
+  },
+  {
+    "country": "Botswana",
+    "state": "North-East District",
+    "city": "Mapoka",
+    "name": "Mapoka Airport",
+    "icao": "BW-0050",
+    "lat": -20.532004,
+    "lon": 27.609445
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Masame",
+    "name": "Masame Airport",
+    "icao": "BW-0043",
+    "lat": -19.329429,
+    "lon": 24.841567
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Mmashoro",
+    "name": "Mmashoro Airport",
+    "icao": "BW-0053",
+    "lat": -21.877487,
+    "lon": 26.350055
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Motopi",
+    "name": "Motopi Airport",
+    "icao": "BW-0002",
+    "lat": -20.185848,
+    "lon": 24.173585
+  },
+  {
+    "country": "Botswana",
+    "state": "Ghanzi District",
+    "city": "Ncojane",
+    "name": "Ncojane Airport",
+    "icao": "BW-0037",
+    "lat": -23.140243,
+    "lon": 20.287681
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Nxamaseri Lodge",
+    "name": "Nxamaseri Airport",
+    "icao": "FBNX",
+    "lat": -18.5992,
+    "lon": 22.0696
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Pom Pom Camp",
+    "name": "Pom Pom Airport",
+    "icao": "BW-0006",
+    "lat": -19.59728,
+    "lon": 22.848081
+  },
+  {
+    "country": "Botswana",
+    "state": "Kgatleng District",
+    "city": "Rasesa",
+    "name": "Matsieng Airstrip",
+    "icao": "BW-0036",
+    "lat": -24.357132,
+    "lon": 26.090237
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Saile",
+    "name": "Saile Airport",
+    "icao": "FBSI",
+    "lat": -18.1357,
+    "lon": 24.067
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Santawani Lodge",
+    "name": "Santawani Airport",
+    "icao": "BW-0007",
+    "lat": -19.5092,
+    "lon": 23.6211
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Seba",
+    "name": "Seba Airport",
+    "icao": "BW-0055",
+    "lat": -19.405037,
+    "lon": 22.548999
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Selinda",
+    "name": "Selinda Airport",
+    "icao": "FBSL",
+    "lat": -18.579181,
+    "lon": 23.483757
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Seronga",
+    "name": "Seronga Airport",
+    "icao": "BW-0003",
+    "lat": -18.823303,
+    "lon": 22.422619
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Tubu Tree Camp",
+    "name": "Hunda Airport",
+    "icao": "FBHU",
+    "lat": -19.2765,
+    "lon": 22.475646
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Vumbura",
+    "name": "Vumbura Airport",
+    "icao": "FBVM",
+    "lat": -18.955395,
+    "lon": 22.814533
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Xakanaxa",
+    "name": "Xakanaxa Old Airport",
+    "icao": "BW-0031",
+    "lat": -19.196998,
+    "lon": 23.43628
+  },
+  {
+    "country": "Botswana",
+    "state": "Central District",
+    "city": "Xhumaga",
+    "name": "Xhumaga Airport",
+    "icao": "BW-0045",
+    "lat": -20.431797,
+    "lon": 24.458519
+  },
+  {
+    "country": "Botswana",
+    "state": "North-West District",
+    "city": "Xigera",
+    "name": "Xigera Airport",
+    "icao": "FBXI",
+    "lat": -19.385485,
+    "lon": 22.737648
+  }
+]

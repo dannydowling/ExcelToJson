@@ -1,0 +1,137 @@
+[
+  {
+    "country": "Cote d'Ivoire",
+    "state": "Lagunes",
+    "city": "Abidjan",
+    "name": "Port Bouet Airport",
+    "icao": "DIAP",
+    "lat": 5.26139020919799,
+    "lon": -3.9262900352478
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "VallÃ©e du Bandama",
+    "city": "VallÃ©e du Bandama",
+    "name": "BouakÃ© Airport",
+    "icao": "DIBK",
+    "lat": 7.73880004882812,
+    "lon": -5.0736699104309
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Dix-Huit Montagnes",
+    "city": "Dix-Huit Montagnes",
+    "name": "Man Airport",
+    "icao": "DIMN",
+    "lat": 7.27206993103027,
+    "lon": -7.58735990524292
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Savanes",
+    "city": "Korhogo",
+    "name": "Korhogo Airport",
+    "icao": "DIKO",
+    "lat": 9.38718032837,
+    "lon": -5.55666017532
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Moyen-ComoÃ©",
+    "city": "Abengourou",
+    "name": "Abengourou Airport",
+    "icao": "DIAU",
+    "lat": 6.71555995941162,
+    "lon": -3.47027993202209
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Zanzan",
+    "city": "Bondoukou",
+    "name": "Soko Airport",
+    "icao": "DIBU",
+    "lat": 8.01721954345703,
+    "lon": -2.7619400024414
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Savanes",
+    "city": "Boundiali",
+    "name": "Boundiali Airport",
+    "icao": "DIBI",
+    "lat": 9.5329999923706,
+    "lon": -6.46700000762939
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Savanes",
+    "city": "Ferkessedougou",
+    "name": "Ferkessedougou Airport",
+    "icao": "DIFK",
+    "lat": 9.6,
+    "lon": -5.1833333
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Haut-Sassandra",
+    "city": "Gagnoa",
+    "name": "Gagnoa Airport",
+    "icao": "DIGA",
+    "lat": 6.13299989700317,
+    "lon": -5.94999980926513
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Bas-Sassandra",
+    "city": "Grand-BÃ©rÃ©by",
+    "name": "Nero-Mer Airport",
+    "icao": "DIGN",
+    "lat": 4.64341306686,
+    "lon": -6.9239616394
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "DenguÃ©lÃ©",
+    "city": "Odienne",
+    "name": "Odienne Airport",
+    "icao": "DIOD",
+    "lat": 9.5,
+    "lon": -7.56699991226196
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Zanzan",
+    "city": "Ouango Fitini",
+    "name": "Ouango Fitini Airport",
+    "icao": "DIOF",
+    "lat": 9.60000038146972,
+    "lon": -4.05000019073486
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Bas-Sassandra",
+    "city": "Tabou",
+    "name": "Tabou Airport",
+    "icao": "DITB",
+    "lat": 4.43780946731567,
+    "lon": -7.36272811889648
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Sud-ComoÃ©",
+    "city": "Aboisso",
+    "name": "Aboisso Airport",
+    "icao": "DIAO",
+    "lat": 5.461944,
+    "lon": -3.234722
+  },
+  {
+    "country": "CÃ´te d'Ivoire",
+    "state": "Bafing",
+    "city": "Touba",
+    "name": "Mahana Airport",
+    "icao": "DITN",
+    "lat": 8.2934,
+    "lon": -7.674
+  }
+]

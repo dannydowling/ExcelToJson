@@ -1,0 +1,299 @@
+[
+  {
+    "country": "Algeria",
+    "state": "Oran Province",
+    "city": "Oran",
+    "name": "Es Senia Airport",
+    "icao": "DAOO",
+    "lat": 35.6239013672,
+    "lon": -0.621182978152999
+  },
+  {
+    "country": "Algeria",
+    "state": "El Tarf Province",
+    "city": "Annaba",
+    "name": "Rabah Bitat Airport",
+    "icao": "DABB",
+    "lat": 36.822201,
+    "lon": 7.809174
+  },
+  {
+    "country": "Algeria",
+    "state": "Tamanghasset Province",
+    "city": "Tamanrasset",
+    "name": "Aguenar â€“ Hadj Bey Akhamok Airport",
+    "icao": "DAAT",
+    "lat": 22.8115005493,
+    "lon": 5.45107984543
+  },
+  {
+    "country": "Algeria",
+    "state": "Illizi Province",
+    "city": "Djanet",
+    "name": "Djanet Inedbirene Airport",
+    "icao": "DAAJ",
+    "lat": 24.292801,
+    "lon": 9.45244
+  },
+  {
+    "country": "Algeria",
+    "state": "BÃ©char Province",
+    "city": "BÃ©char",
+    "name": "BÃ©char Boudghene Ben Ali Lotfi Airport",
+    "icao": "DAOR",
+    "lat": 31.6457004547119,
+    "lon": -2.26986002922058
+  },
+  {
+    "country": "Algeria",
+    "state": "BÃ©jaÃ¯a Province",
+    "city": "BÃ©jaÃ¯a",
+    "name": "Soummam Airport",
+    "icao": "DAAE",
+    "lat": 36.7120018005,
+    "lon": 5.06992006302
+  },
+  {
+    "country": "Algeria",
+    "state": "Laghouat Province",
+    "city": "Laghouat Province",
+    "name": "Hassi R'Mel Airport",
+    "icao": "DAFH",
+    "lat": 32.9304008483886,
+    "lon": 3.31153988838195
+  },
+  {
+    "country": "Algeria",
+    "state": "Ouargla Province",
+    "city": "Touggourt",
+    "name": "Touggourt Sidi Madhi Airport",
+    "icao": "DAUK",
+    "lat": 33.0677986145019,
+    "lon": 6.0886697769165
+  },
+  {
+    "country": "Algeria",
+    "state": "M'Sila Province",
+    "city": "M'Sila Province",
+    "name": "Bou Saada Airport",
+    "icao": "DAAD",
+    "lat": 35.3325004577636,
+    "lon": 4.20638990402221
+  },
+  {
+    "country": "Algeria",
+    "state": "Laghouat Province",
+    "city": "Laghouat",
+    "name": "Laghouat Airport",
+    "icao": "DAUL",
+    "lat": 33.7644004821999,
+    "lon": 2.92833995819
+  },
+  {
+    "country": "Algeria",
+    "state": "SÃ©tif Province",
+    "city": "SÃ©tif",
+    "name": "Ain Arnat Airport",
+    "icao": "DAAS",
+    "lat": 36.1781005859,
+    "lon": 5.32449007033999
+  },
+  {
+    "country": "Algeria",
+    "state": "Oran Province",
+    "city": "Oran Province",
+    "name": "Bou Sfer Airport",
+    "icao": "DAOE",
+    "lat": 35.7354011535644,
+    "lon": -0.805388987064361
+  },
+  {
+    "country": "Algeria",
+    "state": "Tindouf Province",
+    "city": "Tindouf Province",
+    "name": "Tindouf East Airport",
+    "icao": "DA16",
+    "lat": 27.5858993530273,
+    "lon": -7.50011014938354
+  },
+  {
+    "country": "Algeria",
+    "state": "BÃ©char Province",
+    "city": "BÃ©char",
+    "name": "Ouakda Airport",
+    "icao": "DAOC",
+    "lat": 31.642499923706,
+    "lon": -2.18389010429382
+  },
+  {
+    "country": "Algeria",
+    "state": "TÃ©bessa Province",
+    "city": "TÃ©bessi",
+    "name": "Cheikh Larbi TÃ©bessi Airport",
+    "icao": "DABS",
+    "lat": 35.4315986633,
+    "lon": 8.12071990967
+  },
+  {
+    "country": "Algeria",
+    "state": "El Oued Province",
+    "city": "Guemar",
+    "name": "Guemar Airport",
+    "icao": "DAUO",
+    "lat": 33.5113983154,
+    "lon": 6.77679014206
+  },
+  {
+    "country": "Algeria",
+    "state": "Jijel Province",
+    "city": "Jijel",
+    "name": "Jijel Ferhat Abbas Airport",
+    "icao": "DAAV",
+    "lat": 36.7951011658,
+    "lon": 5.87361001968
+  },
+  {
+    "country": "Algeria",
+    "state": "Mascara Province",
+    "city": "Mascara Province",
+    "name": "Ghriss Airport",
+    "icao": "DAOV",
+    "lat": 35.2076988220214,
+    "lon": 0.147141993045806
+  },
+  {
+    "country": "Algeria",
+    "state": "Blida Province",
+    "city": "Blida Province",
+    "name": "Blida Airport",
+    "icao": "DAAB",
+    "lat": 36.5036010742187,
+    "lon": 2.81416988372802
+  },
+  {
+    "country": "Algeria",
+    "state": "Oran Province",
+    "city": "Oran Province",
+    "name": "Tafaraoui Airport",
+    "icao": "DAOL",
+    "lat": 35.5424003601074,
+    "lon": -0.532278001308441
+  },
+  {
+    "country": "Algeria",
+    "state": "Tiaret Province",
+    "city": "Tiaret",
+    "name": "Bou Chekif Airport",
+    "icao": "DAOB",
+    "lat": 35.3410987854,
+    "lon": 1.46315002441
+  },
+  {
+    "country": "Algeria",
+    "state": "Relizane Province",
+    "city": "Zemmora",
+    "name": "Relizane Airport",
+    "icao": "DAAZ",
+    "lat": 35.752201,
+    "lon": 0.626272
+  },
+  {
+    "country": "Algeria",
+    "state": "Djelfa Province",
+    "city": "Djelfa Province",
+    "name": "Ain Oussera Airport",
+    "icao": "DAAQ",
+    "lat": 35.5253982543945,
+    "lon": 2.87871003150939
+  },
+  {
+    "country": "Algeria",
+    "state": "Illizi Province",
+    "city": "Illizi Province",
+    "name": "Illizi Airport",
+    "icao": "DA10",
+    "lat": 26.5736007690429,
+    "lon": 8.48365974426269
+  },
+  {
+    "country": "Algeria",
+    "state": "El Bayadh Province",
+    "city": "El Bayadh Province",
+    "name": "El Abiodh Sidi Cheikh Airport",
+    "icao": "DA12",
+    "lat": 32.8984985351562,
+    "lon": 0.52469402551651
+  },
+  {
+    "country": "Algeria",
+    "state": "SaÃ¯da Province",
+    "city": "SaÃ¯da Province",
+    "name": "Saida Airport",
+    "icao": "DA15",
+    "lat": 34.8972015380859,
+    "lon": 0.151693999767303
+  },
+  {
+    "country": "Algeria",
+    "state": "Tamanghasset Province",
+    "city": "In Guezzam",
+    "name": "In Guezzam Airport",
+    "icao": "DATG",
+    "lat": 19.5669994354248,
+    "lon": 5.75
+  },
+  {
+    "country": "Algeria",
+    "state": "Sidi Bel Abbes Province",
+    "city": "Sidi Bel AbbÃ¨s",
+    "name": "Sidi Bel Abbes Airport",
+    "icao": "DAOS",
+    "lat": 35.1717987061,
+    "lon": -0.593275010586
+  },
+  {
+    "country": "Algeria",
+    "state": "Mila Province",
+    "city": "Telerghma",
+    "name": "Telerghma Airport",
+    "icao": "DAAM",
+    "lat": 36.1086997985839,
+    "lon": 6.36460018157959
+  },
+  {
+    "country": "Algeria",
+    "state": "Illizi Province",
+    "city": "Illizi Province",
+    "name": "Djanet",
+    "icao": "DZ-0003",
+    "lat": 24.446579,
+    "lon": 9.504498
+  },
+  {
+    "country": "Algeria",
+    "state": "Adrar Province",
+    "city": "Aoulef",
+    "name": "Aoulef Airport",
+    "icao": "DAAF",
+    "lat": 27.0624,
+    "lon": 1.1111
+  },
+  {
+    "country": "Algeria",
+    "state": "El Bayadh Province",
+    "city": "El Bayadh",
+    "name": "El Bayadh Airport",
+    "icao": "DAOY",
+    "lat": 33.7216666666999,
+    "lon": 1.0925
+  },
+  {
+    "country": "Algeria",
+    "state": "Ouargla Province",
+    "city": "Hassi Bel Guebour",
+    "name": "Hamra Airport",
+    "icao": "DZ-0001",
+    "lat": 29.225107,
+    "lon": 6.4936
+  }
+]

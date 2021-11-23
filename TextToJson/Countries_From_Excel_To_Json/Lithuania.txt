@@ -1,0 +1,236 @@
+[
+  {
+    "country": "Lithuania",
+    "state": "Vilnius County",
+    "city": "Vilnius",
+    "name": "Vilnius International Airport",
+    "icao": "EYVI",
+    "lat": 54.634102,
+    "lon": 25.285801
+  },
+  {
+    "country": "Lithuania",
+    "state": "Kaunas County",
+    "city": "Kaunas",
+    "name": "Kaunas International Airport",
+    "icao": "EYKA",
+    "lat": 54.9639015197753,
+    "lon": 24.0848007202148
+  },
+  {
+    "country": "Lithuania",
+    "state": "KlaipÄ—da County",
+    "city": "KlaipÄ—da",
+    "name": "KlaipÄ—da Airport",
+    "icao": "EYKL",
+    "lat": 55.711899,
+    "lon": 21.2428
+  },
+  {
+    "country": "Lithuania",
+    "state": "Å iauliai County",
+    "city": "Å iauliai",
+    "name": "Å iauliai International Airport",
+    "icao": "EYSA",
+    "lat": 55.8939018249511,
+    "lon": 23.3950004577636
+  },
+  {
+    "country": "Lithuania",
+    "state": "Alytus County",
+    "city": "Alytus",
+    "name": "Alytus Airport",
+    "icao": "EYAL",
+    "lat": 54.4125251770019,
+    "lon": 24.0599288940429
+  },
+  {
+    "country": "Lithuania",
+    "state": "Kaunas County",
+    "city": "KÄ—dainiai",
+    "name": "KÄ—dainiai Air Base",
+    "icao": "EYKD",
+    "lat": 55.3116989135742,
+    "lon": 23.9563999176025
+  },
+  {
+    "country": "Lithuania",
+    "state": "MarijampolÄ— County",
+    "city": "Sasnava",
+    "name": "Sasnava Airport",
+    "icao": "EYMM",
+    "lat": 54.663101196289,
+    "lon": 23.4538993835449
+  },
+  {
+    "country": "Lithuania",
+    "state": "Å iauliai County",
+    "city": "Å iauliai",
+    "name": "Barysiai Airfield",
+    "icao": "EYSB",
+    "lat": 56.070599,
+    "lon": 23.5581
+  },
+  {
+    "country": "Lithuania",
+    "state": "Å iauliai County",
+    "city": "AkmenÄ—",
+    "name": "AkmenÄ— Airport",
+    "icao": "EYNA",
+    "lat": 56.2421989440918,
+    "lon": 22.7331008911132
+  },
+  {
+    "country": "Lithuania",
+    "state": "Alytus County",
+    "city": "Druskininkai",
+    "name": "Druskininkai Airport",
+    "icao": "EYDR",
+    "lat": 54.0153007507324,
+    "lon": 23.9430999755859
+  },
+  {
+    "country": "Lithuania",
+    "state": "Kaunas County",
+    "city": "Jonava",
+    "name": "Jonava Airport",
+    "icao": "EYRU",
+    "lat": 55.0099983215332,
+    "lon": 24.3633003234863
+  },
+  {
+    "country": "Lithuania",
+    "state": "Kaunas County",
+    "city": "Kedainiai",
+    "name": "Paliepiai Air Base",
+    "icao": "LT-9517",
+    "lat": 55.3217010498046,
+    "lon": 23.5200004577636
+  },
+  {
+    "country": "Lithuania",
+    "state": "Vilnius County",
+    "city": "KyviÅ¡kes",
+    "name": "KyviÅ¡kes Airfield",
+    "icao": "EYVK",
+    "lat": 54.6683006286621,
+    "lon": 25.5158004760742
+  },
+  {
+    "country": "Lithuania",
+    "state": "Utena County",
+    "city": "MolÄ—tai",
+    "name": "MolÄ—tai Airport",
+    "icao": "EYMO",
+    "lat": 55.1128005981445,
+    "lon": 25.3363990783691
+  },
+  {
+    "country": "Lithuania",
+    "state": "PanevÄ—Å¾ys County",
+    "city": "PanevÄ—Å¾ys /  Istra",
+    "name": "PanevÄ—Å¾ys Istra Airport",
+    "icao": "EYPI",
+    "lat": 55.8274993896484,
+    "lon": 24.358299255371
+  },
+  {
+    "country": "Lithuania",
+    "state": "PanevÄ—Å¾ys County",
+    "city": "RokiÅ¡kis",
+    "name": "RokiÅ¡kis Airport",
+    "icao": "EYRK",
+    "lat": 55.971923828125,
+    "lon": 25.6042385101318
+  },
+  {
+    "country": "Lithuania",
+    "state": "Vilnius County",
+    "city": "RÅ«diÅ¡kÄ—s",
+    "name": "RÅ«diÅ¡kÄ—s Airport",
+    "icao": "EYRD",
+    "lat": 54.4956016540527,
+    "lon": 24.7175006866455
+  },
+  {
+    "country": "Lithuania",
+    "state": "TelÅ¡iai County",
+    "city": "TelÅ¡iai",
+    "name": "TelÅ¡iai Airport",
+    "icao": "EYTL",
+    "lat": 55.986400604248,
+    "lon": 22.287799835205
+  },
+  {
+    "country": "Lithuania",
+    "state": "Utena County",
+    "city": "Utena",
+    "name": "Utena Airport",
+    "icao": "EYUT",
+    "lat": 55.4900016784668,
+    "lon": 25.7168998718261
+  },
+  {
+    "country": "Lithuania",
+    "state": "MarijampolÄ— County",
+    "city": "ValenÄiÅ«nai",
+    "name": "ValenÄiÅ«nai Airport",
+    "icao": "EYLN",
+    "lat": 55.0214004516601,
+    "lon": 22.9738998413085
+  },
+  {
+    "country": "Lithuania",
+    "state": "Utena County",
+    "city": "Zarasai",
+    "name": "Zarasai Airport",
+    "icao": "EYZA",
+    "lat": 55.7524986267089,
+    "lon": 26.2569007873535
+  },
+  {
+    "country": "Lithuania",
+    "state": "TelÅ¡iai County",
+    "city": "TelÅ¡iai County",
+    "name": "Kirkliai Airstrip",
+    "icao": "LT-0016",
+    "lat": 55.9251137,
+    "lon": 22.5959212
+  },
+  {
+    "country": "Lithuania",
+    "state": "Alytus County",
+    "city": "Alytus County",
+    "name": "Valkininkai Airstrip",
+    "icao": "LT-0018",
+    "lat": 54.3756647,
+    "lon": 24.8454637
+  },
+  {
+    "country": "Lithuania",
+    "state": "PanevÄ—Å¾ys County",
+    "city": "KupiÅ¡kis",
+    "name": "KupiÅ¡kio aerodromas",
+    "icao": "LT-0004",
+    "lat": 55.8529062,
+    "lon": 24.957929
+  },
+  {
+    "country": "Lithuania",
+    "state": "PanevÄ—Å¾ys County",
+    "city": "Panemunelis",
+    "name": "Panemunelis Airstrip",
+    "icao": "LT-0002",
+    "lat": 55.92969,
+    "lon": 25.41844
+  },
+  {
+    "country": "Lithuania",
+    "state": "Vilnius County",
+    "city": "RÅ«dininkai",
+    "name": "RÅ«dininkai Air Base",
+    "icao": "LT-0001",
+    "lat": 54.3877067565918,
+    "lon": 25.0943183898925
+  }
+]

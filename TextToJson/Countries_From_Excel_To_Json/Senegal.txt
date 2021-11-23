@@ -1,0 +1,56 @@
+[
+  {
+    "country": "Senegal",
+    "state": "Ziguinchor Region",
+    "city": "Cap Skirring",
+    "name": "Cap Skirring Airport",
+    "icao": "GOGS",
+    "lat": 12.39533,
+    "lon": -16.748
+  },
+  {
+    "country": "Senegal",
+    "state": "Tambacounda Region",
+    "city": "Tambacounda",
+    "name": "Tambacounda Airport",
+    "icao": "GOTT",
+    "lat": 13.7368001937866,
+    "lon": -13.6531000137329
+  },
+  {
+    "country": "Senegal",
+    "state": "Matam Region",
+    "city": "Ouro Sogui",
+    "name": "Ouro Sogui Airport",
+    "icao": "GOSM",
+    "lat": 15.5936,
+    "lon": -13.3228
+  },
+  {
+    "country": "Senegal",
+    "state": "Saint-Louis Region",
+    "city": "Richard Toll",
+    "name": "Richard Toll Airport",
+    "icao": "GOSR",
+    "lat": 16.4330005645751,
+    "lon": -15.6499996185302
+  },
+  {
+    "country": "Senegal",
+    "state": "Tambacounda Region",
+    "city": "Niokolo-Koba National Park",
+    "name": "Niokolo-Koba Airport",
+    "icao": "NIK",
+    "lat": 13.052014,
+    "lon": -12.727162
+  },
+  {
+    "country": "Senegal",
+    "state": "ThiÃ¨s Region",
+    "city": "ThiÃ¨s",
+    "name": "ThiÃ¨s Airport",
+    "icao": "SN-0001",
+    "lat": 14.809398,
+    "lon": -16.95066
+  }
+]

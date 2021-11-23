@@ -1,0 +1,443 @@
+[
+  {
+    "country": "Malaysia",
+    "state": "Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "name": "Kuala Lumpur International Airport",
+    "icao": "WMKK",
+    "lat": 2.745579957962,
+    "lon": 101.70999908447
+  },
+  {
+    "country": "Malaysia",
+    "state": "Pulau Pinang",
+    "city": "Penang",
+    "name": "Penang International Airport",
+    "icao": "WMKP",
+    "lat": 5.29714012145996,
+    "lon": 100.277000427246
+  },
+  {
+    "country": "Malaysia",
+    "state": "Selangor",
+    "city": "Subang",
+    "name": "Sultan Abdul Aziz Shah International Airport",
+    "icao": "WMSA",
+    "lat": 3.13057994842529,
+    "lon": 101.549003601074
+  },
+  {
+    "country": "Malaysia",
+    "state": "Kelantan",
+    "city": "Kota Baharu",
+    "name": "Sultan Ismail Petra Airport",
+    "icao": "WMKC",
+    "lat": 6.16685009002685,
+    "lon": 102.292999267578
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Sibu",
+    "name": "Sibu Airport",
+    "icao": "WBGS",
+    "lat": 2.2616000175476,
+    "lon": 111.985000610351
+  },
+  {
+    "country": "Malaysia",
+    "state": "Kedah",
+    "city": "Alor Satar",
+    "name": "Sultan Abdul Halim Airport",
+    "icao": "WMKA",
+    "lat": 6.18967008590698,
+    "lon": 100.398002624511
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Mulu",
+    "name": "Mulu Airport",
+    "icao": "WBMU",
+    "lat": 4.04832983016967,
+    "lon": 114.805000305175
+  },
+  {
+    "country": "Malaysia",
+    "state": "Terengganu",
+    "city": "Kuala Terengganu",
+    "name": "Sultan Mahmud Airport",
+    "icao": "WMKN",
+    "lat": 5.38263988494873,
+    "lon": 103.102996826171
+  },
+  {
+    "country": "Malaysia",
+    "state": "Melaka",
+    "city": "Malacca",
+    "name": "Malacca Airport",
+    "icao": "WMKM",
+    "lat": 2.2633600235,
+    "lon": 102.251998901
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Bintulu",
+    "name": "Bintulu Airport",
+    "icao": "WBGB",
+    "lat": 3.12385010719,
+    "lon": 113.019996643
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Tawau",
+    "name": "Tawau Airport",
+    "icao": "WBKW",
+    "lat": 4.32015991210937,
+    "lon": 118.12799835205
+  },
+  {
+    "country": "Malaysia",
+    "state": "Pahang",
+    "city": "Kuantan",
+    "name": "Kuantan Airport",
+    "icao": "WMKD",
+    "lat": 3.77538990974426,
+    "lon": 103.208999633789
+  },
+  {
+    "country": "Malaysia",
+    "state": "Pahang",
+    "city": "Pulau Tioman",
+    "name": "Pulau Tioman Airport",
+    "icao": "WMBT",
+    "lat": 2.81818008422851,
+    "lon": 104.160003662109
+  },
+  {
+    "country": "Malaysia",
+    "state": "Perak",
+    "city": "Pangkor Island",
+    "name": "Pulau Pangkor Airport",
+    "icao": "WMPA",
+    "lat": 4.24471998214721,
+    "lon": 100.553001403808
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Lawas",
+    "name": "Lawas Airport",
+    "icao": "WBGW",
+    "lat": 4.84917,
+    "lon": 115.407997
+  },
+  {
+    "country": "Malaysia",
+    "state": "Wilayah Persekutuan Labuan",
+    "city": "Labuan",
+    "name": "Labuan Airport",
+    "icao": "WBKL",
+    "lat": 5.30068016052246,
+    "lon": 115.25
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Long Banga",
+    "name": "Long Banga Airport",
+    "icao": "MY-LBP",
+    "lat": 3.202,
+    "lon": 115.4018
+  },
+  {
+    "country": "Malaysia",
+    "state": "Pahang",
+    "city": "Taman Negara",
+    "name": "Sungai Tiang Airport",
+    "icao": "WMAN",
+    "lat": 4.33027791976928,
+    "lon": 102.394996643066
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Marudi",
+    "name": "Marudi Airport",
+    "icao": "WBGM",
+    "lat": 4.17897987365722,
+    "lon": 114.329002380371
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Bario",
+    "name": "Bario Airport",
+    "icao": "WBGZ",
+    "lat": 3.7338900566101,
+    "lon": 115.478996276855
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Belaga",
+    "name": "Belaga Airport",
+    "icao": "WBGC",
+    "lat": 2.65000009537,
+    "lon": 113.766998291
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Long Seridan",
+    "name": "Long Seridan Airport",
+    "icao": "WBGI",
+    "lat": 3.96700000762939,
+    "lon": 115.050003051757
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Mukah",
+    "name": "Mukah Airport",
+    "icao": "WBGK",
+    "lat": 2.90639,
+    "lon": 112.080002
+  },
+  {
+    "country": "Malaysia",
+    "state": "Pulau Pinang",
+    "city": "Butterworth",
+    "name": "Butterworth Airport",
+    "icao": "WMKB",
+    "lat": 5.46591997146606,
+    "lon": 100.390998840332
+  },
+  {
+    "country": "Malaysia",
+    "state": "Kelantan",
+    "city": "Kelantan",
+    "name": "Gong Kedak Airport",
+    "icao": "WMGK",
+    "lat": 5.79957008361816,
+    "lon": 102.484001159667
+  },
+  {
+    "country": "Malaysia",
+    "state": "Negeri Sembilan",
+    "city": "Bahau",
+    "name": "Bahau Airport",
+    "icao": "WMAA",
+    "lat": 2.81666994094848,
+    "lon": 102.416999816894
+  },
+  {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Batu Pahat",
+    "name": "Batu Pahat Airport",
+    "icao": "WMAB",
+    "lat": 1.8602420091629,
+    "lon": 102.901000976562
+  },
+  {
+    "country": "Malaysia",
+    "state": "Terengganu",
+    "city": "Dungun",
+    "name": "Dungun Airport",
+    "icao": "WMAG",
+    "lat": 4.7862901687622,
+    "lon": 103.382003784179
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Genting",
+    "name": "Genting Airport",
+    "icao": "MY-GTB",
+    "lat": 2.11666703224,
+    "lon": 111.699996948
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Jeroco",
+    "name": "Jeroco Airport",
+    "icao": "MY-0016",
+    "lat": 5.40611124038696,
+    "lon": 118.396385192871
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Kapit",
+    "name": "Kapit Airport",
+    "icao": "WBGP",
+    "lat": 2.01052374505,
+    "lon": 112.931468248
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Kota Belud",
+    "name": "Kota Belud Airport",
+    "icao": "WBKB",
+    "lat": 6.36515998840332,
+    "lon": 116.471000671386
+  },
+  {
+    "country": "Malaysia",
+    "state": "Perak",
+    "city": "Kroh",
+    "name": "Kroh Airport",
+    "icao": "WMBH",
+    "lat": 5.68300008773803,
+    "lon": 100.983001708984
+  },
+  {
+    "country": "Malaysia",
+    "state": "Kelantan",
+    "city": "Kuala Kerai",
+    "name": "Kuala Kerai Airport",
+    "icao": "WMAL",
+    "lat": 5.53868007659912,
+    "lon": 102.194999694824
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Long Atip",
+    "name": "Long Atip Airport",
+    "icao": "WBGA",
+    "lat": 3.81699991226196,
+    "lon": 114.699996948242
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Long Miau",
+    "name": "Long Pasia Airport",
+    "icao": "WBKN",
+    "lat": 4.40000009536743,
+    "lon": 115.717002868652
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sarawak",
+    "city": "Long Sukang",
+    "name": "Long Sukang Airport",
+    "icao": "WBGU",
+    "lat": 4.55221986770629,
+    "lon": 115.494003295898
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Marak Parak",
+    "name": "Marak Parak Airport",
+    "icao": "MY-0020",
+    "lat": 6.31222200393676,
+    "lon": 116.729721069335
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Meligan",
+    "name": "Meligan Airport",
+    "icao": "MY-0021",
+    "lat": 4.6816668510437,
+    "lon": 115.698059082031
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Morotai",
+    "name": "Hunter (Morotai) Airport",
+    "icao": "MY-0015",
+    "lat": 4.41038990020751,
+    "lon": 117.787002563476
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Mostyn",
+    "name": "Mostyn Airport",
+    "icao": "MY-MZS",
+    "lat": 4.61666679382324,
+    "lon": 118.150001525878
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Sahabat",
+    "name": "Sahabat [Sahabat 16] Airport",
+    "icao": "WBKH",
+    "lat": 5.08777999877929,
+    "lon": 119.094001770019
+  },
+  {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Segamat",
+    "name": "Segamat Airport",
+    "icao": "WMAZ",
+    "lat": 2.5,
+    "lon": 102.833000183105
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Semporna",
+    "name": "Semporna Airport",
+    "icao": "WBKA",
+    "lat": 4.44999980926513,
+    "lon": 118.583000183105
+  },
+  {
+    "country": "Malaysia",
+    "state": "Johor",
+    "city": "Sungei Tekai",
+    "name": "Sungei Tekai Airport",
+    "icao": "MY-GTK",
+    "lat": 2.59999990463256,
+    "lon": 102.916664123535
+  },
+  {
+    "country": "Malaysia",
+    "state": "Perak",
+    "city": "Taiping",
+    "name": "Taiping (Tekah) Airport",
+    "icao": "WMBI",
+    "lat": 4.8670001029968,
+    "lon": 100.71700286865
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Ulu Tomani",
+    "name": "Ulu Tomani Airport",
+    "icao": "MY-0027",
+    "lat": 4.69694423675537,
+    "lon": 115.863334655761
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Wallace Bay",
+    "name": "Wallace Bay Airport",
+    "icao": "MY-0028",
+    "lat": 4.2441668510437,
+    "lon": 117.656112670898
+  },
+  {
+    "country": "Malaysia",
+    "state": "Sabah",
+    "city": "Sabah",
+    "name": "Mariveles Reef Helipad",
+    "icao": "MY-0002",
+    "lat": 7.966962,
+    "lon": 113.916362
+  }
+]

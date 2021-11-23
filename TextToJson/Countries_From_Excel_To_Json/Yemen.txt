@@ -1,0 +1,119 @@
+[
+  {
+    "country": "Yemen",
+    "state": "San'a' Governorate",
+    "city": "Sana'a",
+    "name": "Sana'a International Airport",
+    "icao": "OYSN",
+    "lat": 15.4763002395629,
+    "lon": 44.2196998596191
+  },
+  {
+    "country": "Yemen",
+    "state": "Hadramawt Governorate",
+    "city": "Sayun",
+    "name": "Sayun International Airport",
+    "icao": "OYSY",
+    "lat": 15.9660997391,
+    "lon": 48.7882995604999
+  },
+  {
+    "country": "Yemen",
+    "state": "Hadramawt Governorate",
+    "city": "Hadramawt Governorate",
+    "name": "Canoxy Airport",
+    "icao": "OY75",
+    "lat": 15.6017999649047,
+    "lon": 49.0806999206543
+  },
+  {
+    "country": "Yemen",
+    "state": "Sa'dah Governorate",
+    "city": "Sadah",
+    "name": "Sadah Airport",
+    "icao": "OYSH",
+    "lat": 16.966999,
+    "lon": 43.733002
+  },
+  {
+    "country": "Yemen",
+    "state": "Al Hydaydah Governorate",
+    "city": "Hodeida",
+    "name": "Hodeidah International Airport",
+    "icao": "OYHD",
+    "lat": 14.7530002593994,
+    "lon": 42.9762992858886
+  },
+  {
+    "country": "Yemen",
+    "state": "Abyan Governorate",
+    "city": "Abyan Governorate",
+    "name": "Beihan Airport",
+    "icao": "OYBN",
+    "lat": 14.7819995880126,
+    "lon": 45.720100402832
+  },
+  {
+    "country": "Yemen",
+    "state": "Lahij Governorate",
+    "city": "Lahij Governorate",
+    "name": "Al Anad Air Base",
+    "icao": "OY74",
+    "lat": 13.1746997833251,
+    "lon": 44.7650985717773
+  },
+  {
+    "country": "Yemen",
+    "state": "Al Bayda' Governorate",
+    "city": "Al-Bayda",
+    "name": "Al-Bayda Airport",
+    "icao": "OYBI",
+    "lat": 14.105974,
+    "lon": 45.441079
+  },
+  {
+    "country": "Yemen",
+    "state": "Al Jawf Governorate",
+    "city": "Al-Hazm",
+    "name": "Al-Hazm Airport",
+    "icao": "OYZM",
+    "lat": 16.2000007629394,
+    "lon": 44.7830009460449
+  },
+  {
+    "country": "Yemen",
+    "state": "Adan Governorate",
+    "city": "Kamaran",
+    "name": "Kamaran Airport",
+    "icao": "OYKM",
+    "lat": 15.3633003235,
+    "lon": 42.6049995422
+  },
+  {
+    "country": "Yemen",
+    "state": "Ma'rib Governorate",
+    "city": "Mareb",
+    "name": "Mareb Airport",
+    "icao": "OYMB",
+    "lat": 15.4692001342773,
+    "lon": 45.3269004821777
+  },
+  {
+    "country": "Yemen",
+    "state": "Al Mahrah Governorate",
+    "city": "Qishn",
+    "name": "Qishn Airport",
+    "icao": "OYQN",
+    "lat": 15.417,
+    "lon": 51.682999
+  },
+  {
+    "country": "Yemen",
+    "state": "Al Bayda' Governorate",
+    "city": "Mukayras",
+    "name": "Mukeiras Airport",
+    "icao": "OYMS",
+    "lat": 13.9368,
+    "lon": 45.657
+  }
+]

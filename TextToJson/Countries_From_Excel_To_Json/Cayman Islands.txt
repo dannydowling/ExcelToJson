@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Cayman Islands",
+    "state": "Georgetown",
+    "city": "Georgetown",
+    "name": "Owen Roberts International Airport",
+    "icao": "MWCR",
+    "lat": 19.2928009032999,
+    "lon": -81.3576965332
+  },
+  {
+    "country": "Cayman Islands",
+    "state": "Little Cayman",
+    "city": "Little Cayman",
+    "name": "Edward Bodden Airfield",
+    "icao": "MWCL",
+    "lat": 19.660161,
+    "lon": -80.088826
+  }
+]

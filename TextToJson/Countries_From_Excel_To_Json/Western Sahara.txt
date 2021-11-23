@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Western Sahara",
+    "state": "(unassigned)",
+    "city": "Dakhla",
+    "name": "Dakhla Airport",
+    "icao": "GMMH",
+    "lat": 23.7183,
+    "lon": -15.932
+  },
+  {
+    "country": "Western Sahara",
+    "state": "(unassigned)",
+    "city": "La GÃ¼era",
+    "name": "La GÃ¼era Airport",
+    "icao": "ZLG",
+    "lat": 20.836389,
+    "lon": -17.074167
+  }
+]

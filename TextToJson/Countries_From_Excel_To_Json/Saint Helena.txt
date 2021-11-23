@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Saint Helena",
+    "state": "Ascension",
+    "city": "Ascension Island",
+    "name": "RAF Ascension Island",
+    "icao": "FHAW",
+    "lat": -7.9696,
+    "lon": -14.3937
+  }
+]

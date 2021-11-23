@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Andorra",
+    "state": "Andorra la Vella Parish",
+    "city": "Andorra La Vella",
+    "name": "Andorra la Vella Heliport",
+    "icao": "AD-ALV",
+    "lat": 42.511174,
+    "lon": 1.533551
+  },
+  {
+    "country": "Andorra",
+    "state": "La Massana Parish",
+    "city": "La Massana",
+    "name": "CamÃ­ Heliport",
+    "icao": "AD-0001",
+    "lat": 42.546257,
+    "lon": 1.51916
+  }
+]

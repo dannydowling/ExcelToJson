@@ -1,0 +1,137 @@
+[
+  {
+    "country": "Somalia",
+    "state": "Banaadir",
+    "city": "Mogadishu",
+    "name": "Aden Adde International Airport",
+    "icao": "HCMM",
+    "lat": 2.01444005966186,
+    "lon": 45.3046989440918
+  },
+  {
+    "country": "Somalia",
+    "state": "Jubbada Hoose",
+    "city": "Jubbada Hoose",
+    "name": "Kisimayu Airport",
+    "icao": "HCMK",
+    "lat": -0.377353012561798,
+    "lon": 42.4592018127441
+  },
+  {
+    "country": "Somalia",
+    "state": "Shabeellaha Hoose",
+    "city": "Wanlaweyn",
+    "name": "Baledogle Airfield",
+    "icao": "SO-0002",
+    "lat": 2.670742,
+    "lon": 44.792897
+  },
+  {
+    "country": "Somalia",
+    "state": "Mudug",
+    "city": "Galcaio",
+    "name": "Galcaio Airport",
+    "icao": "HCMR",
+    "lat": 6.78082990646,
+    "lon": 47.45470047
+  },
+  {
+    "country": "Somalia",
+    "state": "Bay",
+    "city": "Baidoa",
+    "name": "Baidoa Airport",
+    "icao": "HCMB",
+    "lat": 3.10222005844116,
+    "lon": 43.6286010742187
+  },
+  {
+    "country": "Somalia",
+    "state": "Saneag",
+    "city": "Erigavo",
+    "name": "Erigavo Airport",
+    "icao": "HCMU",
+    "lat": 10.642050549,
+    "lon": 47.3879814148
+  },
+  {
+    "country": "Somalia",
+    "state": "Gedo",
+    "city": "Garbaharey",
+    "name": "Garbaharey Airport",
+    "icao": "GBM",
+    "lat": 3.32294,
+    "lon": 42.21309
+  },
+  {
+    "country": "Somalia",
+    "state": "Woqooyi Galbeed",
+    "city": "Borama",
+    "name": "Borama Airport",
+    "icao": "SO-BXX",
+    "lat": 9.9463,
+    "lon": 43.1495
+  },
+  {
+    "country": "Somalia",
+    "state": "Hiirsan",
+    "city": "Beledweyne",
+    "name": "Beletwene Airport",
+    "icao": "HCMN",
+    "lat": 4.766976,
+    "lon": 45.2388
+  },
+  {
+    "country": "Somalia",
+    "state": "Bari",
+    "city": "Candala",
+    "name": "Candala Airport",
+    "icao": "HCMC",
+    "lat": 11.494,
+    "lon": 49.9085
+  },
+  {
+    "country": "Somalia",
+    "state": "Mudug",
+    "city": "Obbia",
+    "name": "Obbia Airport",
+    "icao": "HCMO",
+    "lat": 5.36666679382324,
+    "lon": 48.5166664123535
+  },
+  {
+    "country": "Somalia",
+    "state": "Shabeellaha Hoose",
+    "city": "Shabeellaha Hoose",
+    "name": "Uadan Highway Airstrip",
+    "icao": "SO-0003",
+    "lat": 1.97121702892,
+    "lon": 45.2198553085
+  },
+  {
+    "country": "Somalia",
+    "state": "Buurdhuubo Airstrip",
+    "city": "Buurdhuubo Airstrip",
+    "name": "Buurdhuubo Airstrip",
+    "icao": "SO-0006",
+    "lat": 3.157458,
+    "lon": 42.525189
+  },
+  {
+    "country": "Somalia",
+    "state": "Galguduud",
+    "city": "Adado",
+    "name": "Adado Airport",
+    "icao": "AAD",
+    "lat": 6.095802,
+    "lon": 46.6375
+  },
+  {
+    "country": "Somalia",
+    "state": "Bari",
+    "city": "Hafun",
+    "name": "Hafun Old Base Airstrip",
+    "icao": "SO-0005",
+    "lat": 10.4154,
+    "lon": 51.3256
+  }
+]

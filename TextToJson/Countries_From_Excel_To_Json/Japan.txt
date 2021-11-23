@@ -1,0 +1,2279 @@
+[
+  {
+    "country": "Japan",
+    "state": "Chiba Prefecture",
+    "city": "Tokyo / Narita",
+    "name": "Narita International Airport",
+    "icao": "RJAA",
+    "lat": 35.764702,
+    "lon": 140.386002
+  },
+  {
+    "country": "Japan",
+    "state": "Tokyo Prefecture",
+    "city": "Ota, Tokyo",
+    "name": "Tokyo Haneda International Airport",
+    "icao": "RJTT",
+    "lat": 35.552299,
+    "lon": 139.779999
+  },
+  {
+    "country": "Japan",
+    "state": "Osaka Prefecture",
+    "city": "Osaka",
+    "name": "Kansai International Airport",
+    "icao": "RJBB",
+    "lat": 34.4272994995117,
+    "lon": 135.244003295898
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Chitose / Tomakomai",
+    "name": "New Chitose Airport",
+    "icao": "RJCC",
+    "lat": 42.7751998901367,
+    "lon": 141.692001342773
+  },
+  {
+    "country": "Japan",
+    "state": "Aichi Prefecture",
+    "city": "Nagoya",
+    "name": "Nagoya Airport",
+    "icao": "RJNA",
+    "lat": 35.2550010681152,
+    "lon": 136.923995971679
+  },
+  {
+    "country": "Japan",
+    "state": "Aomori Prefecture",
+    "city": "Misawa",
+    "name": "Misawa Air Base",
+    "icao": "RJSM",
+    "lat": 40.7032012938999,
+    "lon": 141.367996216
+  },
+  {
+    "country": "Japan",
+    "state": "Miyagi Prefecture",
+    "city": "Sendai",
+    "name": "Sendai Airport",
+    "icao": "RJSS",
+    "lat": 38.1397018433,
+    "lon": 140.917007446
+  },
+  {
+    "country": "Japan",
+    "state": "Yamaguchi Prefecture",
+    "city": "Iwakuni",
+    "name": "Iwakuni Kintaikyo Airport / Marine Corps Air Station Iwakuni",
+    "icao": "RJOI",
+    "lat": 34.146333,
+    "lon": 132.247238
+  },
+  {
+    "country": "Japan",
+    "state": "HyÅgo Prefecture",
+    "city": "Kobe",
+    "name": "Kobe Airport",
+    "icao": "RJBE",
+    "lat": 34.6328010559082,
+    "lon": 135.223999023437
+  },
+  {
+    "country": "Japan",
+    "state": "Kanagawa Prefecture",
+    "city": "Ayase / Yamato",
+    "name": "JMSDF Atsugi Air Base / Naval Air Facility Atsugi",
+    "icao": "RJTA",
+    "lat": 35.454601,
+    "lon": 139.449997
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "Okinawa Prefecture",
+    "name": "Futenma Marine Corps Air Station",
+    "icao": "ROTM",
+    "lat": 26.274299621582,
+    "lon": 127.755996704101
+  },
+  {
+    "country": "Japan",
+    "state": "Aomori Prefecture",
+    "city": "Aomori",
+    "name": "Aomori Airport",
+    "icao": "RJSA",
+    "lat": 40.7346992492675,
+    "lon": 140.690994262695
+  },
+  {
+    "country": "Japan",
+    "state": "Ishikawa Prefecture",
+    "city": "Kanazawa",
+    "name": "Komatsu Airport",
+    "icao": "RJNK",
+    "lat": 36.3945999145507,
+    "lon": 136.406997680664
+  },
+  {
+    "country": "Japan",
+    "state": "Nagasaki Prefecture",
+    "city": "Nagasaki",
+    "name": "Nagasaki Airport",
+    "icao": "RJFU",
+    "lat": 32.9169006347999,
+    "lon": 129.914001465
+  },
+  {
+    "country": "Japan",
+    "state": "Niigata Prefecture",
+    "city": "Niigata",
+    "name": "Niigata Airport",
+    "icao": "RJSN",
+    "lat": 37.9558982849,
+    "lon": 139.121002197
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Nakashibetsu",
+    "name": "Nakashibetsu Airport",
+    "icao": "RJCN",
+    "lat": 43.5774993896,
+    "lon": 144.960006714
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "ÅŒzora",
+    "name": "Memanbetsu Airport",
+    "icao": "RJCM",
+    "lat": 43.8805999756,
+    "lon": 144.164001465
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "Ishigaki",
+    "name": "Ishigaki Airport",
+    "icao": "ROIG",
+    "lat": 24.3445,
+    "lon": 124.187
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Makinohara / Shimada",
+    "name": "Mt. Fuji Shizuoka Airport",
+    "icao": "rjns",
+    "lat": 34.7960434679,
+    "lon": 138.18775177
+  },
+  {
+    "country": "Japan",
+    "state": "Akita Prefecture",
+    "city": "Akita",
+    "name": "Akita Airport",
+    "icao": "RJSK",
+    "lat": 39.6156005859375,
+    "lon": 140.218994140625
+  },
+  {
+    "country": "Japan",
+    "state": "Kumamoto Prefecture",
+    "city": "Kumamoto",
+    "name": "Kumamoto Airport",
+    "icao": "RJFT",
+    "lat": 32.8372993469238,
+    "lon": 130.854995727539
+  },
+  {
+    "country": "Japan",
+    "state": "Okayama Prefecture",
+    "city": "Okayama",
+    "name": "Okayama Momotaro Airport",
+    "icao": "RJOB",
+    "lat": 34.756901,
+    "lon": 133.854996
+  },
+  {
+    "country": "Japan",
+    "state": "Kagawa Prefecture",
+    "city": "Takamatsu",
+    "name": "Takamatsu Airport",
+    "icao": "RJOT",
+    "lat": 34.2141990661999,
+    "lon": 134.01600647
+  },
+  {
+    "country": "Japan",
+    "state": "Kagoshima Prefecture",
+    "city": "Amami",
+    "name": "Amami Airport",
+    "icao": "RJKA",
+    "lat": 28.4305992126464,
+    "lon": 129.712997436523
+  },
+  {
+    "country": "Japan",
+    "state": "Yamagata Prefecture",
+    "city": "Yamagata",
+    "name": "Yamagata Airport",
+    "icao": "RJSC",
+    "lat": 38.4118995666999,
+    "lon": 140.371002197
+  },
+  {
+    "country": "Japan",
+    "state": "Shimane Prefecture",
+    "city": "Izumo",
+    "name": "Izumo En-Musubi Airport",
+    "icao": "RJOC",
+    "lat": 35.413601,
+    "lon": 132.889999
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Rishiri",
+    "name": "Rishiri Airport",
+    "icao": "RJER",
+    "lat": 45.2420005798,
+    "lon": 141.186004639
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "Ishigaki",
+    "name": "New Ishigaki Airport",
+    "icao": "ISG",
+    "lat": 24.396389,
+    "lon": 124.245
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Asahikawa / HokkaidÅ",
+    "name": "Asahikawa Airport",
+    "icao": "RJEC",
+    "lat": 43.670799255371,
+    "lon": 142.447006225585
+  },
+  {
+    "country": "Japan",
+    "state": "Yamaguchi Prefecture",
+    "city": "Ube",
+    "name": "Yamaguchi Ube Airport",
+    "icao": "RJDC",
+    "lat": 33.9300003052,
+    "lon": 131.279006958
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Izu Oshima",
+    "name": "Oshima Airport",
+    "icao": "RJTO",
+    "lat": 34.7820014953999,
+    "lon": 139.36000061
+  },
+  {
+    "country": "Japan",
+    "state": "Nagano Prefecture",
+    "city": "Matsumoto",
+    "name": "Matsumoto Airport",
+    "icao": "RJAF",
+    "lat": 36.1668014526367,
+    "lon": 137.92300415039
+  },
+  {
+    "country": "Japan",
+    "state": "Akita Prefecture",
+    "city": "Odate",
+    "name": "Odate Noshiro Airport",
+    "icao": "RJSR",
+    "lat": 40.1918983459,
+    "lon": 140.371002197
+  },
+  {
+    "country": "Japan",
+    "state": "Shimane Prefecture",
+    "city": "Okinoshima",
+    "name": "Oki Global Geopark Airport",
+    "icao": "RJNO",
+    "lat": 36.178388,
+    "lon": 133.323566
+  },
+  {
+    "country": "Japan",
+    "state": "Wakayama Prefecture",
+    "city": "Shirahama",
+    "name": "Nanki Shirahama Airport",
+    "icao": "RJBD",
+    "lat": 33.6622009277,
+    "lon": 135.363998413
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Hiroshima",
+    "name": "Hiroshima Heliport",
+    "icao": "RJBH",
+    "lat": 34.371451,
+    "lon": 132.417666
+  },
+  {
+    "country": "Japan",
+    "state": "HyÅgo Prefecture",
+    "city": "Toyooka",
+    "name": "Konotori Tajima Airport",
+    "icao": "RJBT",
+    "lat": 35.512798,
+    "lon": 134.787003
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "TÅkyÅ Prefecture",
+    "name": "Iwo Jima Airport",
+    "icao": "RJAW",
+    "lat": 24.7840003967285,
+    "lon": 141.322998046875
+  },
+  {
+    "country": "Japan",
+    "state": "Gifu Prefecture",
+    "city": "Gifu",
+    "name": "Gifu Airport",
+    "icao": "RJNG",
+    "lat": 35.3941001892089,
+    "lon": 136.869995117187
+  },
+  {
+    "country": "Japan",
+    "state": "Kagoshima Prefecture",
+    "city": "Kikai",
+    "name": "Kikai Airport",
+    "icao": "RJKI",
+    "lat": 28.3213005065999,
+    "lon": 129.927993774
+  },
+  {
+    "country": "Japan",
+    "state": "Kagoshima Prefecture",
+    "city": "Yoronjima",
+    "name": "Yoron Airport",
+    "icao": "RORY",
+    "lat": 27.0440006256,
+    "lon": 128.401992798
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "Okinawa Prefecture",
+    "name": "Ie Shima Auxiliary Air Base",
+    "icao": "RODE",
+    "lat": 26.7257575988769,
+    "lon": 127.764900207519
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Rebun",
+    "name": "Rebun Airport",
+    "icao": "RJCR",
+    "lat": 45.4550018311,
+    "lon": 141.039001465
+  },
+  {
+    "country": "Japan",
+    "state": "Kanagawa Prefecture",
+    "city": "Yokosuka",
+    "name": "Yokosuka Heliport",
+    "icao": "RJTX",
+    "lat": 35.289663,
+    "lon": 139.680047
+  },
+  {
+    "country": "Japan",
+    "state": "Shimane Prefecture",
+    "city": "Yonago",
+    "name": "Yonago Kitaro Airport / JASDF Miho Air Base",
+    "icao": "RJOH",
+    "lat": 35.492199,
+    "lon": 133.235992
+  },
+  {
+    "country": "Japan",
+    "state": "Toyama Prefecture",
+    "city": "Toyama",
+    "name": "Toyama Airport",
+    "icao": "RJNT",
+    "lat": 36.6483001708984,
+    "lon": 137.188003540039
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "Okinawa Prefecture",
+    "name": "Kumejima Airport",
+    "icao": "ROKJ",
+    "lat": 26.3635005950927,
+    "lon": 126.713996887207
+  },
+  {
+    "country": "Japan",
+    "state": "Shimane Prefecture",
+    "city": "Masuda",
+    "name": "Iwami Airport",
+    "icao": "RJOW",
+    "lat": 34.676399231,
+    "lon": 131.789993286
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Miyakejima",
+    "name": "Miyakejima Airport",
+    "icao": "RJTQ",
+    "lat": 34.073600769,
+    "lon": 139.559997559
+  },
+  {
+    "country": "Japan",
+    "state": "Kagoshima Prefecture",
+    "city": "Kagoshima Prefecture",
+    "name": "Kanoya Airport",
+    "icao": "RJFY",
+    "lat": 31.3675994873046,
+    "lon": 130.845001220703
+  },
+  {
+    "country": "Japan",
+    "state": "Chiba Prefecture",
+    "city": "Matsudo",
+    "name": "JMSDF Shimofusa Air Base",
+    "icao": "RJTL",
+    "lat": 35.798901,
+    "lon": 140.011002
+  },
+  {
+    "country": "Japan",
+    "state": "Fukuoka Prefecture",
+    "city": "Fukuoka Prefecture",
+    "name": "Ashiya Airport",
+    "icao": "RJFA",
+    "lat": 33.8830986022949,
+    "lon": 130.652999877929
+  },
+  {
+    "country": "Japan",
+    "state": "Yamaguchi Prefecture",
+    "city": "Yamaguchi Prefecture",
+    "name": "Hofu Airport",
+    "icao": "RJOF",
+    "lat": 34.0346984863281,
+    "lon": 131.548995971679
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Hamamatsu",
+    "name": "JASDF Hamamatsu Air Base",
+    "icao": "RJNH",
+    "lat": 34.750198,
+    "lon": 137.703003
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "Ie",
+    "name": "Ie Jima Airport",
+    "icao": "RORE",
+    "lat": 26.7220001221,
+    "lon": 127.785003662
+  },
+  {
+    "country": "Japan",
+    "state": "Nagasaki Prefecture",
+    "city": "Iki",
+    "name": "Iki Airport",
+    "icao": "RJDB",
+    "lat": 33.7490005493,
+    "lon": 129.785003662
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "KitadaitÅjima",
+    "name": "Kitadaito Airport",
+    "icao": "RORK",
+    "lat": 25.9447002411,
+    "lon": 131.32699585
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "MinamidaitÅ",
+    "name": "Minami-Daito Airport",
+    "icao": "ROMD",
+    "lat": 25.8465003967,
+    "lon": 131.263000488
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Okushiri Island",
+    "name": "Okushiri Airport",
+    "icao": "RJEO",
+    "lat": 42.0717010498,
+    "lon": 139.432998657
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "Tarama",
+    "name": "Tarama Airport",
+    "icao": "RORT",
+    "lat": 24.6539001464999,
+    "lon": 124.675003052
+  },
+  {
+    "country": "Japan",
+    "state": "Chiba Prefecture",
+    "city": "Tateyama",
+    "name": "JMSDF Tateyama Air Base",
+    "icao": "RJTE",
+    "lat": 34.987099,
+    "lon": 139.828995
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Tokyo",
+    "name": "Iruma Air Base",
+    "icao": "RJTJ",
+    "lat": 35.8418998718261,
+    "lon": 139.410995483398
+  },
+  {
+    "country": "Japan",
+    "state": "Toyama Prefecture",
+    "city": "Tsuiki",
+    "name": "JASDF Tsuiki Air Base",
+    "icao": "RJFZ",
+    "lat": 33.685001,
+    "lon": 131.039993
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Yaizu",
+    "name": "JASDF Shizuhama Air Base",
+    "icao": "RJNY",
+    "lat": 34.812801,
+    "lon": 138.298004
+  },
+  {
+    "country": "Japan",
+    "state": "ÅŒsaka Prefecture",
+    "city": "Yao",
+    "name": "Yao Airport",
+    "icao": "RJOY",
+    "lat": 34.5962982177734,
+    "lon": 135.602996826171
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "HokkaidÅ Prefecture",
+    "name": "Shikabe Airport",
+    "icao": "RJ04",
+    "lat": 42.0449981689453,
+    "lon": 140.792999267578
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "TÅkyÅ Prefecture",
+    "name": "JMSDF Minami Torishima Air Base",
+    "icao": "RJAM",
+    "lat": 24.2897,
+    "lon": 153.979004
+  },
+  {
+    "country": "Japan",
+    "state": "Kumamoto Prefecture",
+    "city": "Kumamoto Prefecture",
+    "name": "Amakusa Airport",
+    "icao": "RJDA",
+    "lat": 32.482498,
+    "lon": 130.158997
+  },
+  {
+    "country": "Japan",
+    "state": "Mie Prefecture",
+    "city": "Mie Prefecture",
+    "name": "Akeno Airport",
+    "icao": "RJOE",
+    "lat": 34.5332984924316,
+    "lon": 136.671997070312
+  },
+  {
+    "country": "Japan",
+    "state": "Saga Prefecture",
+    "city": "Saga Prefecture",
+    "name": "Metabaru Air Base",
+    "icao": "RJDM",
+    "lat": 33.3252983093261,
+    "lon": 130.414001464843
+  },
+  {
+    "country": "Japan",
+    "state": "Nagasaki Prefecture",
+    "city": "Kamigoto",
+    "name": "Kamigoto Airport",
+    "icao": "RJDK",
+    "lat": 33.0130996704,
+    "lon": 129.192001343
+  },
+  {
+    "country": "Japan",
+    "state": "Nagasaki Prefecture",
+    "city": "Ojika",
+    "name": "Ojika Airport",
+    "icao": "RJDO",
+    "lat": 33.1907997131,
+    "lon": 129.089996338
+  },
+  {
+    "country": "Japan",
+    "state": "Aomori Prefecture",
+    "city": "Ominato",
+    "name": "JASDF Airport",
+    "icao": "RJSO",
+    "lat": 41.2330017089843,
+    "lon": 141.132995605468
+  },
+  {
+    "country": "Japan",
+    "state": "Okinawa Prefecture",
+    "city": "Okinawa Prefecture",
+    "name": "Lester Helo Pad NÂº 2",
+    "icao": "RO02",
+    "lat": 26.3172222222,
+    "lon": 127.764444444
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Aibetsu",
+    "name": "Daicolo-Aibetsu",
+    "icao": "RJX2",
+    "lat": 43.882428,
+    "lon": 142.609384
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Akiota",
+    "name": "Suginohaku Hobby Field Ultralightport",
+    "icao": "JP-0329",
+    "lat": 34.61506,
+    "lon": 132.27509
+  },
+  {
+    "country": "Japan",
+    "state": "Ibaraki Prefecture",
+    "city": "Ami",
+    "name": "Ami Airfield",
+    "icao": "JP-0319",
+    "lat": 36.023764,
+    "lon": 140.266657
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Arakawa, Tokyo",
+    "name": "Station Garden Tower Helipad",
+    "icao": "JP-0175",
+    "lat": 35.729544,
+    "lon": 139.77128
+  },
+  {
+    "country": "Japan",
+    "state": "Chiba Prefecture",
+    "city": "Asahi",
+    "name": "Katori Naval Air Base",
+    "icao": "JP-0115",
+    "lat": 35.72935,
+    "lon": 140.61097
+  },
+  {
+    "country": "Japan",
+    "state": "Kagawa Prefecture",
+    "city": "Asahimachi, Takamatsu-shi",
+    "name": "Kagawa Prefectural Chuo Hospital Helipad",
+    "icao": "JP-0079",
+    "lat": 34.348769,
+    "lon": 134.0626
+  },
+  {
+    "country": "Japan",
+    "state": "ÅŒita Prefecture",
+    "city": "Bungo-ono",
+    "name": "Oitakenou Airport",
+    "icao": "JP-0007",
+    "lat": 33.026331,
+    "lon": 131.505577
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Bunkyo, Tokyo",
+    "name": "M&D Tower Helipad",
+    "icao": "JP-0182",
+    "lat": 35.70175,
+    "lon": 139.76362
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Asahikawa",
+    "name": "Camp Asahikawa Helipad",
+    "icao": "JP-0012",
+    "lat": 43.795303,
+    "lon": 142.370017
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Asahikawa",
+    "name": "Camp Asahikawa Helipad",
+    "icao": "JP-0071",
+    "lat": 43.7953,
+    "lon": 142.370018
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Bibai",
+    "name": "Camp Bibai JGSDF Heliport",
+    "icao": "JP-0033",
+    "lat": 43.305482,
+    "lon": 141.873791
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Chitose Higashi",
+    "name": "Camp Chitose Higashi First Airfield",
+    "icao": "JP-0024",
+    "lat": 42.835475,
+    "lon": 141.719084
+  },
+  {
+    "country": "Japan",
+    "state": "HyÅgo Prefecture",
+    "city": "Camp Chitose Higashi",
+    "name": "Camp Chitose Higashi Heliport",
+    "icao": "JP-0028",
+    "lat": 42.833352,
+    "lon": 141.70951
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Hidaka",
+    "name": "Vice Camp Hidaka JGSDF Heliport",
+    "icao": "JP-0053",
+    "lat": 42.896362,
+    "lon": 142.519547
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Horobetsu",
+    "name": "Camp Horobetsu JGSDF Heliport",
+    "icao": "JP-0020",
+    "lat": 42.400822,
+    "lon": 141.089323
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Iwamikawa",
+    "name": "Camp Iwamikawa Airfield",
+    "icao": "JP-0035",
+    "lat": 43.208233,
+    "lon": 141.812382
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Kushiro",
+    "name": "Camp Kushiro JGSDF Heliport",
+    "icao": "JP-0046",
+    "lat": 43.013395,
+    "lon": 144.455393
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Makomakai (Sapporo)",
+    "name": "Camp Makomakai JGSDF Heliport",
+    "icao": "JP-0029",
+    "lat": 43.004384,
+    "lon": 141.356857
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Minami-Eniwa",
+    "name": "Camp Minami-Eniwa JGSDF Helipad",
+    "icao": "JP-0027",
+    "lat": 42.858049,
+    "lon": 141.57775
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Nemuro",
+    "name": "Camp Nemuro Sub Base JASDF Heliport",
+    "icao": "JP-0044",
+    "lat": 43.31777,
+    "lon": 145.603641
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Rumoi",
+    "name": "Camp Rumoi JGSDF Heliport",
+    "icao": "JP-0038",
+    "lat": 43.932779,
+    "lon": 141.667504
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Sapporo (Sapporo)",
+    "name": "Camp Sapporo JGSDF Heliport",
+    "icao": "JP-0030",
+    "lat": 43.023518,
+    "lon": 141.350013
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Shikaoi",
+    "name": "Camp Shikaoi JGSDF Heliport",
+    "icao": "JP-0049",
+    "lat": 43.145508,
+    "lon": 142.996176
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Shiraoi",
+    "name": "Camp Shiraoi JGSDF Heliport",
+    "icao": "JP-0021",
+    "lat": 42.602846,
+    "lon": 141.314301
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Shizunai",
+    "name": "Camp Shizunai JGSDF Main Heliport",
+    "icao": "JP-0055",
+    "lat": 42.309764,
+    "lon": 142.441667
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Camp Takikawa",
+    "name": "Camp Takikawa Airfield",
+    "icao": "JP-0036",
+    "lat": 43.576816,
+    "lon": 141.902225
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Tokyo Times Tower Helipad",
+    "icao": "JP-0178",
+    "lat": 35.70144,
+    "lon": 139.77258
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Akihabara Dai Building Helipad",
+    "icao": "JP-0180",
+    "lat": 35.69905,
+    "lon": 139.77208
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Tokyo Sankei Building Helipad",
+    "icao": "JP-0189",
+    "lat": 35.68691,
+    "lon": 139.76534
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Otemachi Financial City North Tower Helipad",
+    "icao": "JP-0191",
+    "lat": 35.68822,
+    "lon": 139.76593
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Otemachi Financial City Grand Cube Helipad",
+    "icao": "JP-0193",
+    "lat": 35.68829,
+    "lon": 139.76443
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Nikkei Helipad",
+    "icao": "JP-0195",
+    "lat": 35.68862,
+    "lon": 139.76231
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Otemon Tower Helipad",
+    "icao": "JP-0197",
+    "lat": 35.68608,
+    "lon": 139.76217
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Otemachi First Square Helipad",
+    "icao": "JP-0199",
+    "lat": 35.68583,
+    "lon": 139.76421
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Otemachi Nomura Building Helipad",
+    "icao": "JP-0201",
+    "lat": 35.68526,
+    "lon": 139.76621
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Shin Marunouchi Center Helipad",
+    "icao": "JP-0203",
+    "lat": 35.6842,
+    "lon": 139.76638
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Mitsubishi UFJ Trust and Banking Headquarters Building Helipad",
+    "icao": "JP-0205",
+    "lat": 35.68383,
+    "lon": 139.76446
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Sumitomo Mitsui Bank East Tower Helipad",
+    "icao": "JP-0207",
+    "lat": 35.68467,
+    "lon": 139.76369
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Nippon Life Insurance Marunouchi Garden Tower Helipad",
+    "icao": "JP-0209",
+    "lat": 35.68458,
+    "lon": 139.76211
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Marunouchi Palace Building Helipad",
+    "icao": "JP-0211",
+    "lat": 35.6853,
+    "lon": 139.76162
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "JP Tower Helipad",
+    "icao": "JP-0219",
+    "lat": 35.6798,
+    "lon": 139.76461
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Marunouchi Park Building Helipad",
+    "icao": "JP-0221",
+    "lat": 35.67896,
+    "lon": 139.76307
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Marunouchi Nijubashi Building Helipad",
+    "icao": "JP-0223",
+    "lat": 35.67742,
+    "lon": 139.76148
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "DN Tower Helipad",
+    "icao": "JP-0225",
+    "lat": 35.67576,
+    "lon": 139.76116
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Central Government Building 2 Heliport",
+    "icao": "JP-0227",
+    "lat": 35.67523,
+    "lon": 139.7511
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Marunouchi Trust Tower North Building Helipad",
+    "icao": "JP-0247",
+    "lat": 35.6833,
+    "lon": 139.76986
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Marunouchi Trust Tower Main Building Helipad",
+    "icao": "JP-0249",
+    "lat": 35.68261,
+    "lon": 139.76934
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "GranTokyo South Tower Helipad",
+    "icao": "JP-0251",
+    "lat": 35.67877,
+    "lon": 139.76729
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Hibiya Mitsui Tower Helipad",
+    "icao": "JP-0253",
+    "lat": 35.67367,
+    "lon": 139.75917
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Tokyo Metropolitan Hibiya Park Emergency Helipad",
+    "icao": "JP-0255",
+    "lat": 35.67286,
+    "lon": 139.75641
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Hibiya Park Front Helipad",
+    "icao": "JP-0257",
+    "lat": 35.6709,
+    "lon": 139.75366
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chiyoda, Tokyo",
+    "name": "Kasumigaseki Common Gate West Wing Helipad",
+    "icao": "JP-0259",
+    "lat": 35.67172,
+    "lon": 139.74813
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chuo, Tokyo",
+    "name": "Kachidoki The Tower Helipad",
+    "icao": "JP-0321",
+    "lat": 35.656407,
+    "lon": 139.772664
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Chuo, Tokyo",
+    "name": "Tokyo Towers Sea Tower Helipad",
+    "icao": "JP-0323",
+    "lat": 35.655126,
+    "lon": 139.774557
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Edogawa, Tokyo",
+    "name": "Tokyo Rinkai Hospital Helipad",
+    "icao": "JP-0118",
+    "lat": 35.652502,
+    "lon": 139.853286
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Eniwa",
+    "name": "Eniwa Exercise Area Airfield",
+    "icao": "JP-0058",
+    "lat": 42.82191,
+    "lon": 141.615314
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Fujieda",
+    "name": "Marks the Tower Fujieda Helipad",
+    "icao": "JP-0289",
+    "lat": 34.850619,
+    "lon": 138.254963
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Hakodate",
+    "name": "Hakodate Municipal Hospital Helipad",
+    "icao": "JP-0067",
+    "lat": 41.805464,
+    "lon": 140.730255
+  },
+  {
+    "country": "Japan",
+    "state": "Kanagawa Prefecture",
+    "city": "Hakone",
+    "name": "Hakone Town Hall Hayakawa Riverbed Emergency Helipad",
+    "icao": "JP-0351",
+    "lat": 35.233443,
+    "lon": 139.10665
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Hamamatsu",
+    "name": "Hamakita Gliderport",
+    "icao": "JP-0111",
+    "lat": 34.83975,
+    "lon": 137.82417
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Hamamatsu",
+    "name": "Premist Hamamatsu Central Tower Helipad",
+    "icao": "JP-0291",
+    "lat": 34.708982,
+    "lon": 137.737184
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Hamamatsu",
+    "name": "Seirei Hamamatsu General Hospital Helipad",
+    "icao": "JP-0293",
+    "lat": 34.730424,
+    "lon": 137.725071
+  },
+  {
+    "country": "Japan",
+    "state": "Aichi Prefecture",
+    "city": "Handa",
+    "name": "Nakajima Handa Aerodrome",
+    "icao": "JP-0085",
+    "lat": 34.901454,
+    "lon": 136.95636
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Hiroshima",
+    "name": "Hiroshima Minato Park Helipad",
+    "icao": "JP-0294",
+    "lat": 34.35437,
+    "lon": 132.45543
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Hiroshima",
+    "name": "Hiroshima University Hospital Helipad",
+    "icao": "JP-0296",
+    "lat": 34.378818,
+    "lon": 132.47838
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Hiroshima",
+    "name": "Garden Garden South Tower Helipad",
+    "icao": "JP-0298",
+    "lat": 34.38143,
+    "lon": 132.456461
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Hiroshima",
+    "name": "Shishinyo Building Helipad",
+    "icao": "JP-0300",
+    "lat": 34.39283,
+    "lon": 132.457228
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Hiroshima",
+    "name": "19-12 Higashihakushima-cho Helipad",
+    "icao": "JP-0302",
+    "lat": 34.403975,
+    "lon": 132.463639
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Hiroshima",
+    "name": "Otagawa Kabe Helipad",
+    "icao": "JP-0304",
+    "lat": 34.49034,
+    "lon": 132.513319
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Hiroshima",
+    "name": "Rihga Royal Hotel Helipad",
+    "icao": "JP-0352",
+    "lat": 34.397124,
+    "lon": 132.457464
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Hiroshima",
+    "name": "NHK Building Helipad",
+    "icao": "JP-0354",
+    "lat": 34.390599,
+    "lon": 132.455152
+  },
+  {
+    "country": "Japan",
+    "state": "Tottori Prefecture",
+    "city": "Hokuei",
+    "name": "Suika Airport",
+    "icao": "JP-0114",
+    "lat": 35.4395,
+    "lon": 133.7043
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Inaho-misaki",
+    "name": "Inaho-misaki Lighthouse Helipad",
+    "icao": "JP-0017",
+    "lat": 42.247163,
+    "lon": 139.557239
+  },
+  {
+    "country": "Japan",
+    "state": "KÅchi Prefecture",
+    "city": "Ino",
+    "name": "Matsueda Helipad",
+    "icao": "JP-0317",
+    "lat": 33.72805,
+    "lon": 133.32887
+  },
+  {
+    "country": "Japan",
+    "state": "Gunma Prefecture",
+    "city": "Itakura",
+    "name": "Itakura Gliderport",
+    "icao": "JP-0105",
+    "lat": 36.26616,
+    "lon": 139.63388
+  },
+  {
+    "country": "Japan",
+    "state": "Yamaguchi Prefecture",
+    "city": "Iwakuni",
+    "name": "Iwakuni Clinical Center Helipad",
+    "icao": "JP-0306",
+    "lat": 34.143408,
+    "lon": 132.203186
+  },
+  {
+    "country": "Japan",
+    "state": "Shimane Prefecture",
+    "city": "Izumo",
+    "name": "Shimane Prefectural Central Hospital Helipad",
+    "icao": "JP-0312",
+    "lat": 35.374875,
+    "lon": 132.7549
+  },
+  {
+    "country": "Japan",
+    "state": "Yamanashi Prefecture",
+    "city": "Kai",
+    "name": "Japan Aviation High School / Futaba Airport",
+    "icao": "JP-0335",
+    "lat": 35.68141,
+    "lon": 138.48345
+  },
+  {
+    "country": "Japan",
+    "state": "Saitama Prefecture",
+    "city": "Kasukabe",
+    "name": "Hoshubana Gliderport",
+    "icao": "JP-0098",
+    "lat": 36.03903,
+    "lon": 139.81066
+  },
+  {
+    "country": "Japan",
+    "state": "Saitama Prefecture",
+    "city": "Kawajima / Okegawa",
+    "name": "Honda Airport",
+    "icao": "JP-0320",
+    "lat": 35.97633,
+    "lon": 139.524125
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Kawanehon",
+    "name": "Sumatakyo Heliport",
+    "icao": "JP-0213",
+    "lat": 35.176948,
+    "lon": 138.125482
+  },
+  {
+    "country": "Japan",
+    "state": "Saitama Prefecture",
+    "city": "Kazo",
+    "name": "Kazo Gliderport",
+    "icao": "JP-0100",
+    "lat": 36.1866,
+    "lon": 139.61748
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Kenebetsu",
+    "name": "Kenebetsu JASDF Airfield",
+    "icao": "RJCS",
+    "lat": 43.425154,
+    "lon": 144.741354
+  },
+  {
+    "country": "Japan",
+    "state": "Fukuoka Prefecture",
+    "city": "Kitakyushu",
+    "name": "Kokura Airport",
+    "icao": "JP-0006",
+    "lat": 33.836736,
+    "lon": 130.946946
+  },
+  {
+    "country": "Japan",
+    "state": "KÅchi Prefecture",
+    "city": "Kochi",
+    "name": "Yokoyama Ryu Memorial Comics Hall Helipad",
+    "icao": "JP-0075",
+    "lat": 33.558237,
+    "lon": 133.546947
+  },
+  {
+    "country": "Japan",
+    "state": "Yamanashi Prefecture",
+    "city": "Kofu",
+    "name": "Kofu Municipal Hospital Helipad",
+    "icao": "JP-0337",
+    "lat": 35.633673,
+    "lon": 138.591446
+  },
+  {
+    "country": "Japan",
+    "state": "Tokushima Prefecture",
+    "city": "Komatsushima",
+    "name": "JMSDF Komatsushima Heliport",
+    "icao": "RJOP",
+    "lat": 34.005278,
+    "lon": 134.626479
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Koto, Tokyo",
+    "name": "Telecom Center Building Helipad",
+    "icao": "JP-0229",
+    "lat": 35.617396,
+    "lon": 139.780249
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Koto, Tokyo",
+    "name": "Rinkai Fukutoshin Center Annex Helipad",
+    "icao": "JP-0231",
+    "lat": 35.61843,
+    "lon": 139.77796
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Koto, Tokyo",
+    "name": "Tokyo Port Joint Government Building Helipad",
+    "icao": "JP-0233",
+    "lat": 35.61648,
+    "lon": 139.77615
+  },
+  {
+    "country": "Japan",
+    "state": "Saitama Prefecture",
+    "city": "Kumagaya",
+    "name": "Menuma No. 2 Gliderport",
+    "icao": "JP-0103",
+    "lat": 36.20044,
+    "lon": 139.43405
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Kushiro",
+    "name": "Kushiro City General Hospital Helipad",
+    "icao": "JP-0068",
+    "lat": 42.976295,
+    "lon": 144.403506
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Kushiro",
+    "name": "Kushiro Takanosai Memorial Hospital Helipad",
+    "icao": "JP-0070",
+    "lat": 43.029277,
+    "lon": 144.397256
+  },
+  {
+    "country": "Japan",
+    "state": "KyÅto Prefecture",
+    "city": "Kyoto",
+    "name": "Kyoto Station Heliport",
+    "icao": "JP-0344",
+    "lat": 34.985834,
+    "lon": 135.75899
+  },
+  {
+    "country": "Japan",
+    "state": "KyÅto Prefecture",
+    "city": "Kyoto",
+    "name": "Kyoto Prefectural University Hospital Heliport",
+    "icao": "JP-0346",
+    "lat": 35.024778,
+    "lon": 135.770363
+  },
+  {
+    "country": "Japan",
+    "state": "Gunma Prefecture",
+    "city": "Maebashi",
+    "name": "JGSDF Soumagahara Heliport",
+    "icao": "RJTS",
+    "lat": 36.434767,
+    "lon": 138.952936
+  },
+  {
+    "country": "Japan",
+    "state": "Shimane Prefecture",
+    "city": "Matsue",
+    "name": "Matsue City Hospital Helipad",
+    "icao": "JP-0313",
+    "lat": 35.437885,
+    "lon": 133.056085
+  },
+  {
+    "country": "Japan",
+    "state": "Kagawa Prefecture",
+    "city": "Meguriike",
+    "name": "Tonosho Higashi (Meguriike) Helipad",
+    "icao": "JP-0083",
+    "lat": 34.47594,
+    "lon": 134.181269
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Meguro, Tokyo",
+    "name": "Ebisu Garden Terrace Ichibankan Helipad",
+    "icao": "JP-0144",
+    "lat": 35.641,
+    "lon": 139.71492
+  },
+  {
+    "country": "Japan",
+    "state": "Kagawa Prefecture",
+    "city": "Miki-cho",
+    "name": "Kagawa University Hospital Helipad",
+    "icao": "JP-0074",
+    "lat": 34.291312,
+    "lon": 134.123937
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Roppongi Hills Mori Tower Helipad",
+    "icao": "JP-0184",
+    "lat": 35.66046,
+    "lon": 139.72927
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Toranomon Twin Building Helipad",
+    "icao": "JP-0186",
+    "lat": 35.6677,
+    "lon": 139.74509
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Hilton Tokyo Odaiba Helipad",
+    "icao": "JP-0234",
+    "lat": 35.62626,
+    "lon": 139.77045
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Fuji Television Building Helipad",
+    "icao": "JP-0236",
+    "lat": 35.62648,
+    "lon": 139.77388
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Daiba Frontier Building Helipad",
+    "icao": "JP-0238",
+    "lat": 35.62869,
+    "lon": 139.7779
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "The Towers Daiba West Helipad",
+    "icao": "JP-0240",
+    "lat": 35.62982,
+    "lon": 139.78021
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Searea Odaiba Sanbangai Building 4 Helipad",
+    "icao": "JP-0242",
+    "lat": 35.63138,
+    "lon": 139.77949
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Searea Odaiba Ichibangai Building 2 Helipad",
+    "icao": "JP-0244",
+    "lat": 35.63451,
+    "lon": 139.77685
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "JT Building Helipad",
+    "icao": "JP-0260",
+    "lat": 35.66968,
+    "lon": 139.74565
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Shiodome City Center Helipad",
+    "icao": "JP-0262",
+    "lat": 35.66518,
+    "lon": 139.76115
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Nippon Television (NTV) Tower Helipad",
+    "icao": "JP-0264",
+    "lat": 35.66436,
+    "lon": 139.75986
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Shiodome Media Tower Helipad",
+    "icao": "JP-0266",
+    "lat": 35.66327,
+    "lon": 139.75976
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Tokyo Shiodome Building Helipad",
+    "icao": "JP-0268",
+    "lat": 35.66302,
+    "lon": 139.76122
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Tokyo Twin Parks South Helipad",
+    "icao": "JP-0270",
+    "lat": 35.66045,
+    "lon": 139.75976
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Park Court Hamarikyu The Tower Helipad",
+    "icao": "JP-0272",
+    "lat": 35.65962,
+    "lon": 139.75715
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Shiodome Building Helipad",
+    "icao": "JP-0274",
+    "lat": 35.65707,
+    "lon": 139.75935
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Intercontinental Tokyo Bay Hotel Helipad",
+    "icao": "JP-0276",
+    "lat": 35.65286,
+    "lon": 139.76212
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Minato, Tokyo",
+    "name": "Shibaura Heliport",
+    "icao": "JP-0278",
+    "lat": 35.637074,
+    "lon": 139.751909
+  },
+  {
+    "country": "Japan",
+    "state": "Hiroshima Prefecture",
+    "city": "Miyoshi",
+    "name": "Miyoshi Riverside Emergency Helipad",
+    "icao": "JP-0308",
+    "lat": 34.80891,
+    "lon": 132.86358
+  },
+  {
+    "country": "Japan",
+    "state": "Ibaraki Prefecture",
+    "city": "Moriya",
+    "name": "Moriya Ultralight Airstrip",
+    "icao": "JP-0094",
+    "lat": 35.916269,
+    "lon": 139.994005
+  },
+  {
+    "country": "Japan",
+    "state": "KÅchi Prefecture",
+    "city": "Nankoku",
+    "name": "Kochi Airport (é«˜çŸ¥ç©ºæ¸¯)",
+    "icao": "KCZ",
+    "lat": 33.546259,
+    "lon": 133.668938
+  },
+  {
+    "country": "Japan",
+    "state": "Ehime Prefecture",
+    "city": "Niihama",
+    "name": "Niihama Heliport",
+    "icao": "JP-0086",
+    "lat": 33.950086,
+    "lon": 133.300058
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Nishiura",
+    "name": "Yagishiribosai Heliport",
+    "icao": "JP-0003",
+    "lat": 44.439311,
+    "lon": 141.400689
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Numazu",
+    "name": "Suruga Bay Numazu Service Area Heliport",
+    "icao": "JP-0282",
+    "lat": 35.155091,
+    "lon": 138.808522
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Okushiritou",
+    "name": "Okushiritou Sub Base JASDF Helipad",
+    "icao": "JP-0015",
+    "lat": 42.160978,
+    "lon": 139.443085
+  },
+  {
+    "country": "Japan",
+    "state": "Gunma Prefecture",
+    "city": "Ora",
+    "name": "Onishi Private Airfield",
+    "icao": "RJT3",
+    "lat": 36.232271,
+    "lon": 139.493043
+  },
+  {
+    "country": "Japan",
+    "state": "ÅŒsaka Prefecture",
+    "city": "Osaka",
+    "name": "Tennoji Mio Helipad",
+    "icao": "JP-0341",
+    "lat": 34.646899,
+    "lon": 135.514255
+  },
+  {
+    "country": "Japan",
+    "state": "ÅŒsaka Prefecture",
+    "city": "Osaka",
+    "name": "Abeno Grantour Helipad",
+    "icao": "JP-0343",
+    "lat": 34.644723,
+    "lon": 135.510483
+  },
+  {
+    "country": "Japan",
+    "state": "Tochigi Prefecture",
+    "city": "Oyama",
+    "name": "Oyama Kinu Gliderport",
+    "icao": "JP-0109",
+    "lat": 36.30085,
+    "lon": 139.90523
+  },
+  {
+    "country": "Japan",
+    "state": "Kanagawa Prefecture",
+    "city": "Sagamihara",
+    "name": "Sagami Depot Heliport",
+    "icao": "RJ03",
+    "lat": 35.5855555555999,
+    "lon": 139.384722222
+  },
+  {
+    "country": "Japan",
+    "state": "Ibaraki Prefecture",
+    "city": "Sakuragawa",
+    "name": "Makabe Gliderport",
+    "icao": "JP-0333",
+    "lat": 36.26608,
+    "lon": 140.07195
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Sapporo",
+    "name": "Sapporo Dome Helipad",
+    "icao": "JP-0060",
+    "lat": 43.01395,
+    "lon": 141.40691
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Sapporo",
+    "name": "Teine Keijinkai Hospital Helipad",
+    "icao": "JP-0062",
+    "lat": 43.121811,
+    "lon": 141.243681
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shibuya, Tokyo",
+    "name": "JR Ebisu Building Helipad",
+    "icao": "JP-0146",
+    "lat": 35.64642,
+    "lon": 139.71024
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shibuya, Tokyo",
+    "name": "Shibuya Stream Helipad",
+    "icao": "JP-0148",
+    "lat": 35.65746,
+    "lon": 139.70298
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shibuya, Tokyo",
+    "name": "Shibuya Mark City East Helipad",
+    "icao": "JP-0150",
+    "lat": 35.65869,
+    "lon": 139.69973
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shibuya, Tokyo",
+    "name": "Shintaiso Building Number 4 Helipad",
+    "icao": "JP-0152",
+    "lat": 35.65829,
+    "lon": 139.69782
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shibuya, Tokyo",
+    "name": "Aoyama Park Tower Helipad",
+    "icao": "JP-0154",
+    "lat": 35.66215,
+    "lon": 139.70501
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shibuya, Tokyo",
+    "name": "Hotel Century Southern Tower Helipad",
+    "icao": "JP-0156",
+    "lat": 35.68646,
+    "lon": 139.7004
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shibuya, Tokyo",
+    "name": "JR Shinjuku Miraina Tower Helipad",
+    "icao": "JP-0158",
+    "lat": 35.688707,
+    "lon": 139.701869
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "Gate City Osaki South Tower Helipad",
+    "icao": "JP-0120",
+    "lat": 35.61859,
+    "lon": 139.73191
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "Osaki West City Towers East Helipad",
+    "icao": "JP-0122",
+    "lat": 35.616545,
+    "lon": 139.727839
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "Osaki West City Towers West Helipad",
+    "icao": "JP-0124",
+    "lat": 35.61672,
+    "lon": 139.727104
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "Osaki ThinkPark Tower Helipad",
+    "icao": "JP-0126",
+    "lat": 35.618455,
+    "lon": 139.727442
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "The Park Tower Tokyo South Helipad",
+    "icao": "JP-0128",
+    "lat": 35.622803,
+    "lon": 139.72926
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "Park Tower GranSky Helipad",
+    "icao": "JP-0130",
+    "lat": 35.624176,
+    "lon": 139.727302
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "Sumitomo Real Estate Takanawa Park Tower Helipad",
+    "icao": "JP-0132",
+    "lat": 35.62535,
+    "lon": 139.73062
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "Residia Tower Meguro Fudomae Helipad",
+    "icao": "JP-0134",
+    "lat": 35.62596,
+    "lon": 139.71845
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "DNP Gotanda Building Helipad",
+    "icao": "JP-0136",
+    "lat": 35.62838,
+    "lon": 139.71866
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "Brillia Towers Meguro South Residence Helipad",
+    "icao": "JP-0139",
+    "lat": 35.63221,
+    "lon": 139.71688
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinagawa, Tokyo",
+    "name": "Meguro Central Square Helipad",
+    "icao": "JP-0141",
+    "lat": 35.63334,
+    "lon": 139.71684
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinjuku, Tokyo",
+    "name": "Shinjuku First West Building Helipad",
+    "icao": "JP-0160",
+    "lat": 35.68968,
+    "lon": 139.69563
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinjuku, Tokyo",
+    "name": "Shinjuku Oak City Helipad",
+    "icao": "JP-0162",
+    "lat": 35.69391,
+    "lon": 139.69058
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinjuku, Tokyo",
+    "name": "Shinjuku Square Tower Building Helipad",
+    "icao": "JP-0164",
+    "lat": 35.69408,
+    "lon": 139.68781
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinjuku, Tokyo",
+    "name": "Shinjuku Front Tower Helipad",
+    "icao": "JP-0166",
+    "lat": 35.69601,
+    "lon": 139.68954
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Shinjuku, Tokyo",
+    "name": "Shinjuku Toho Building Helipad",
+    "icao": "JP-0168",
+    "lat": 35.69552,
+    "lon": 139.70231
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Shizuoka",
+    "name": "Miho Airfield",
+    "icao": "RJT2",
+    "lat": 35.01394,
+    "lon": 138.53074
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Shizuoka",
+    "name": "Aoi Tower Helipad",
+    "icao": "JP-0214",
+    "lat": 34.972384,
+    "lon": 138.386723
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Shizuoka",
+    "name": "Espatio Helipad",
+    "icao": "JP-0216",
+    "lat": 34.970423,
+    "lon": 138.390436
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Shizuoka",
+    "name": "Shizuoka Emergency Heliport",
+    "icao": "JP-0284",
+    "lat": 35.01717,
+    "lon": 138.36998
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Shizuoka",
+    "name": "Shizuoka Prefectural Police Headquarters Helipad",
+    "icao": "JP-0286",
+    "lat": 34.976854,
+    "lon": 138.383746
+  },
+  {
+    "country": "Japan",
+    "state": "Shizuoka Prefecture",
+    "city": "Shizuoka",
+    "name": "Southspot Shizuoka Helipad",
+    "icao": "JP-0288",
+    "lat": 34.971016,
+    "lon": 138.390811
+  },
+  {
+    "country": "Japan",
+    "state": "HyÅgo Prefecture",
+    "city": "Sumoto",
+    "name": "Hyogo Prefectural Awaji Medical Care Center Helipad",
+    "icao": "JP-0078",
+    "lat": 34.34699,
+    "lon": 134.895619
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Taito, Tokyo",
+    "name": "Ueno East Tower Helipad",
+    "icao": "JP-0177",
+    "lat": 35.70914,
+    "lon": 139.77702
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Teshikage",
+    "name": "Teshikage Airport",
+    "icao": "RJX9",
+    "lat": 43.480017,
+    "lon": 144.434252
+  },
+  {
+    "country": "Japan",
+    "state": "Tochigi Prefecture",
+    "city": "Tochigi",
+    "name": "AMC Auxiliary Airfield",
+    "icao": "JP-0104",
+    "lat": 36.251671,
+    "lon": 139.677944
+  },
+  {
+    "country": "Japan",
+    "state": "Tokushima Prefecture",
+    "city": "Tokushima",
+    "name": "Tokushima Prefectural Central Hospital Helipad",
+    "icao": "JP-0073",
+    "lat": 34.075564,
+    "lon": 134.520477
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Toshima, Tokyo",
+    "name": "Diamond Gate Ikebukuro Helipad",
+    "icao": "JP-0170",
+    "lat": 35.72658,
+    "lon": 139.71051
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Toshima, Tokyo",
+    "name": "Vanguard Tower Helipad",
+    "icao": "JP-0172",
+    "lat": 35.73144,
+    "lon": 139.71996
+  },
+  {
+    "country": "Japan",
+    "state": "TÅkyÅ Prefecture",
+    "city": "Toshima, Tokyo",
+    "name": "Health Plaza Toshima Helipad",
+    "icao": "JP-0174",
+    "lat": 35.7347,
+    "lon": 139.7153
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Toubetsu",
+    "name": "Toubetsu Sub Base JASDF Heliport",
+    "icao": "JP-0048",
+    "lat": 43.310284,
+    "lon": 141.522666
+  },
+  {
+    "country": "Japan",
+    "state": "Nara Prefecture",
+    "city": "Uda",
+    "name": "Sasayuri-ann Private Heliport",
+    "icao": "JP-0088",
+    "lat": 34.59201,
+    "lon": 136.04765
+  },
+  {
+    "country": "Japan",
+    "state": "Kagawa Prefecture",
+    "city": "Umaki",
+    "name": "Umaki Heliport",
+    "icao": "JP-0084",
+    "lat": 34.472263,
+    "lon": 134.314669
+  },
+  {
+    "country": "Japan",
+    "state": "Chiba Prefecture",
+    "city": "Urayasu",
+    "name": "Urayasu Emergency Runway",
+    "icao": "JP-0117",
+    "lat": 35.638194,
+    "lon": 139.935061
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Vice Camp Naebo",
+    "name": "Vice Camp JGSDF Naebo Heliport",
+    "icao": "JP-0031",
+    "lat": 43.071122,
+    "lon": 141.386455
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Wakkanai",
+    "name": "Wakkanai JMSDF Base Heliport",
+    "icao": "JP-0014",
+    "lat": 45.437897,
+    "lon": 141.648284
+  },
+  {
+    "country": "Japan",
+    "state": "HokkaidÅ Prefecture",
+    "city": "Yakumo",
+    "name": "Yakumo JASDF Airbase",
+    "icao": "RJCY",
+    "lat": 42.246628,
+    "lon": 140.266743
+  },
+  {
+    "country": "Japan",
+    "state": "Kanagawa Prefecture",
+    "city": "Yokohama",
+    "name": "Yokohama Heliport",
+    "icao": "JP-0004",
+    "lat": 35.3422222222,
+    "lon": 139.656388889
+  },
+  {
+    "country": "Japan",
+    "state": "Kanagawa Prefecture",
+    "city": "Yokohama",
+    "name": "North Pier Yokohama Heliport",
+    "icao": "RJ02",
+    "lat": 35.4554,
+    "lon": 139.64501
+  }
+]

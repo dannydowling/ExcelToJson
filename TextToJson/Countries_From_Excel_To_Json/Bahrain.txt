@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Bahrain",
+    "state": "Southern Governorate",
+    "city": "Sitrah",
+    "name": "Sheik Isa Air Base",
+    "icao": "OBBS",
+    "lat": 25.918399810791,
+    "lon": 50.5905990600585
+  },
+  {
+    "country": "Bahrain",
+    "state": "Southern Governorate",
+    "city": "Southern Governorate",
+    "name": "Bahrain International Circuit Heliport",
+    "icao": "BH-0001",
+    "lat": 26.029738,
+    "lon": 50.511709
+  },
+  {
+    "country": "Bahrain",
+    "state": "Southern Governorate",
+    "city": "Riffa",
+    "name": "Riffa Air Base",
+    "icao": "BH-0002",
+    "lat": 26.107242,
+    "lon": 50.578968
+  }
+]

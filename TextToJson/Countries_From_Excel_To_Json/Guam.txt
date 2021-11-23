@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Guam",
+    "state": "Guam",
+    "city": "Guam International Airport",
+    "name": "Antonio B. Won Pat International Airport",
+    "icao": "PGUM",
+    "lat": 13.4834003448,
+    "lon": 144.796005249
+  },
+  {
+    "country": "Guam",
+    "state": "(unassigned)",
+    "city": "Guam",
+    "name": "Barrigada Readiness Center Heliport",
+    "icao": "9OG1",
+    "lat": 13.475863,
+    "lon": 144.812142
+  }
+]

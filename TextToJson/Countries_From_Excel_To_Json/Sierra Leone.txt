@@ -1,0 +1,56 @@
+[
+  {
+    "country": "Sierra Leone",
+    "state": "Northern Province",
+    "city": "Freetown",
+    "name": "Lungi International Airport",
+    "icao": "GFLL",
+    "lat": 8.61644,
+    "lon": -13.1955
+  },
+  {
+    "country": "Sierra Leone",
+    "state": "Western Area",
+    "city": "Western Area",
+    "name": "Mammy Yoko Heliport",
+    "icao": "SL-0001",
+    "lat": 8.49231124864,
+    "lon": -13.2884573936
+  },
+  {
+    "country": "Sierra Leone",
+    "state": "Eastern Province",
+    "city": "Kenema",
+    "name": "Kenema Airport",
+    "icao": "GFKE",
+    "lat": 7.89129018783569,
+    "lon": -11.1766004562377
+  },
+  {
+    "country": "Sierra Leone",
+    "state": "Eastern Province",
+    "city": "Yengema",
+    "name": "Yengema Airport",
+    "icao": "GFYE",
+    "lat": 8.61046981811523,
+    "lon": -11.0453996658325
+  },
+  {
+    "country": "Sierra Leone",
+    "state": "Western Area",
+    "city": "Freetown",
+    "name": "Hastings Airport",
+    "icao": "GFHA",
+    "lat": 8.3971300125122,
+    "lon": -13.1290998458862
+  },
+  {
+    "country": "Sierra Leone",
+    "state": "Western Area",
+    "city": "Western Area",
+    "name": "UN Aviation Heliport",
+    "icao": "SL-0003",
+    "lat": 8.48768473679,
+    "lon": -13.2881033421
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "country": "French Polynesia",
+    "state": "Papeete",
+    "city": "Papeete",
+    "name": "Faa'a International Airport",
+    "icao": "NTAA",
+    "lat": -17.553699,
+    "lon": -149.606995
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Motu Mute",
+    "name": "Bora Bora Airport",
+    "icao": "NTTB",
+    "lat": -16.4444007873535,
+    "lon": -151.751007080078
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Moorea",
+    "city": "Moorea",
+    "name": "Moorea Airport",
+    "icao": "NTTM",
+    "lat": -17.49,
+    "lon": -149.761993
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Uturoa",
+    "name": "Raiatea Airport",
+    "icao": "NTTR",
+    "lat": -16.7229,
+    "lon": -151.466003
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Rurutu",
+    "city": "Rurutu",
+    "name": "Rurutu Airport",
+    "icao": "NTAR",
+    "lat": -22.4340991973876,
+    "lon": -151.36099243164
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Anaa",
+    "city": "Anaa",
+    "name": "Anaa Airport",
+    "icao": "NTGA",
+    "lat": -17.3526000976562,
+    "lon": -145.509994506835
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Fakarava",
+    "city": "Fakarava",
+    "name": "Fakarava Airport",
+    "icao": "NTGF",
+    "lat": -16.054100036621,
+    "lon": -145.656997680664
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Totegegie",
+    "city": "Totegegie",
+    "name": "Totegegie Airport",
+    "icao": "NTGJ",
+    "lat": -23.0799007415771,
+    "lon": -134.889999389648
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Makemo",
+    "city": "Makemo",
+    "name": "Makemo Airport",
+    "icao": "NTGM",
+    "lat": -16.5839004516601,
+    "lon": -143.658004760742
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Arutua",
+    "city": "Arutua",
+    "name": "Arutua Airport",
+    "icao": "NTGU",
+    "lat": -15.2482995986938,
+    "lon": -146.617004394531
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Takaroa",
+    "city": "Takaroa",
+    "name": "Takaroa Airport",
+    "icao": "NTKR",
+    "lat": -14.4558000564575,
+    "lon": -145.024993896484
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Hao",
+    "city": "Hao",
+    "name": "Hao Airport",
+    "icao": "NTTO",
+    "lat": -18.074800491333,
+    "lon": -140.945999145507
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Apataki",
+    "city": "Apataki",
+    "name": "Apataki Airport",
+    "icao": "NTGD",
+    "lat": -15.5736,
+    "lon": -146.414993
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Ua Pou",
+    "city": "Ua Pou",
+    "name": "Ua Pou Airport",
+    "icao": "NTMP",
+    "lat": -9.35167,
+    "lon": -140.078003
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Reao",
+    "city": "Reao",
+    "name": "Reao Airport",
+    "icao": "NTGE",
+    "lat": -18.4659004211425,
+    "lon": -136.440002441406
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Tureia",
+    "city": "Tureia",
+    "name": "Tureia Airport",
+    "icao": "NTGY",
+    "lat": -20.7896995544433,
+    "lon": -138.570007324218
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Aratika Nord",
+    "city": "Aratika Nord",
+    "name": "Aratika Nord Airport",
+    "icao": "NTKK",
+    "lat": -15.4853000641,
+    "lon": -145.470001221
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Aritaki Atoll",
+    "city": "Aratika Atoll",
+    "name": "Aratika-Perles Airport",
+    "icao": "NTGR",
+    "lat": -15.6332998276,
+    "lon": -145.5
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Mururoa Atoll",
+    "name": "Mururoa Atoll Airport",
+    "icao": "NTTX",
+    "lat": -21.8586,
+    "lon": -138.8202
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Nukutavake",
+    "name": "Nukutavake Airport",
+    "icao": "NTGW",
+    "lat": -19.2849998474121,
+    "lon": -138.772003173828
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Pukarua",
+    "city": "Pukarua",
+    "name": "Pukarua Airport",
+    "icao": "NTGQ",
+    "lat": -18.2956008911132,
+    "lon": -137.016998291015
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Takume",
+    "name": "Takume Airport",
+    "icao": "NTKM",
+    "lat": -15.8547000885,
+    "lon": -142.268005371
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Tatakoto",
+    "city": "Tatakoto",
+    "name": "Tatakoto Airport",
+    "icao": "NTGO",
+    "lat": -17.3553009033203,
+    "lon": -138.445007324218
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Tetiaroa",
+    "city": "Tetiaroa",
+    "name": "Tetiaroa Airport",
+    "icao": "NTTE",
+    "lat": -17.0132999420166,
+    "lon": -149.587005615234
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Vahitahi",
+    "city": "Vahitahi",
+    "name": "Vahitahi Airport",
+    "icao": "NTUV",
+    "lat": -18.7800006866455,
+    "lon": -138.852996826171
+  },
+  {
+    "country": "French Polynesia",
+    "state": "Raroia Airport",
+    "city": "Raroia Airport",
+    "name": "Raroia Airport",
+    "icao": "NTKO",
+    "lat": -16.045,
+    "lon": -142.476944
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Anuanuaro Atoll",
+    "name": "Anuanuaro Airstrip",
+    "icao": "PF-0001",
+    "lat": -20.4546,
+    "lon": -143.5297
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Nengonengo Atoll",
+    "name": "Nengo-Nengo Airport",
+    "icao": "NTGG",
+    "lat": -18.7506,
+    "lon": -141.7591
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Nukutepipi",
+    "name": "Nukutepipi Airport",
+    "icao": "NTKU",
+    "lat": -20.7,
+    "lon": -143.047
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Rimatara Island",
+    "name": "Rimatara Airport",
+    "icao": "NTAM",
+    "lat": -22.63725,
+    "lon": -152.8059
+  },
+  {
+    "country": "French Polynesia",
+    "state": "(unassigned)",
+    "city": "Tupai Atoll",
+    "name": "Tupai Airport",
+    "icao": "NTTU",
+    "lat": -16.2423,
+    "lon": -151.8338
+  }
+]

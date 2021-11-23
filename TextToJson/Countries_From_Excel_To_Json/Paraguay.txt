@@ -1,0 +1,290 @@
+[
+  {
+    "country": "Paraguay",
+    "state": "ItapÃºa Department",
+    "city": "EncarnaciÃ³n",
+    "name": "EncarnaciÃ³n Airport",
+    "icao": "SGEN",
+    "lat": -27.227366,
+    "lon": -55.837495
+  },
+  {
+    "country": "Paraguay",
+    "state": "Misiones Department",
+    "city": "Ayolas",
+    "name": "Juan De Ayolas Airport",
+    "icao": "SGAY",
+    "lat": -27.370554,
+    "lon": -56.854064
+  },
+  {
+    "country": "Paraguay",
+    "state": "Alto Paraguay Department",
+    "city": "Colonia Carmelo Peralta",
+    "name": "Colonia Carmelo Peralta Airport",
+    "icao": "PY-0008",
+    "lat": -21.6809997558593,
+    "lon": -57.912498474121
+  },
+  {
+    "country": "Paraguay",
+    "state": "ConcepciÃ³n Department",
+    "city": "ConcepciÃ³n",
+    "name": "Teniente Col Carmelo Peralta Airport",
+    "icao": "SGCO",
+    "lat": -23.442363,
+    "lon": -57.427253
+  },
+  {
+    "country": "Paraguay",
+    "state": "ItapÃºa Department",
+    "city": "Coronel Bogado",
+    "name": "Coronel Bogado Airport",
+    "icao": "PY-0023",
+    "lat": -27.1438999176025,
+    "lon": -56.2560997009277
+  },
+  {
+    "country": "Paraguay",
+    "state": "Presidente Hayes Department",
+    "city": "Estancia Coeyu",
+    "name": "Estancia Coeyu Airport",
+    "icao": "PY-0025",
+    "lat": -23.9363002777099,
+    "lon": -57.7359008789062
+  },
+  {
+    "country": "Paraguay",
+    "state": "Amambay Department",
+    "city": "Estancia Pai Quara",
+    "name": "Estancia Pai Quara Airport",
+    "icao": "SG67",
+    "lat": -23.2199993133544,
+    "lon": -55.9500007629394
+  },
+  {
+    "country": "Paraguay",
+    "state": "BoquerÃ³n Department",
+    "city": "Filadelfia",
+    "name": "Filadelfia Airport",
+    "icao": "SGFI",
+    "lat": -22.360477,
+    "lon": -60.053604
+  },
+  {
+    "country": "Paraguay",
+    "state": "Alto Paraguay Department",
+    "city": "Fuerte Olimpo",
+    "name": "Fuerte Olimpo Airport",
+    "icao": "PY-OLK",
+    "lat": -21.0452,
+    "lon": -57.8825
+  },
+  {
+    "country": "Paraguay",
+    "state": "Cordillera Department",
+    "city": "Isla Pucu",
+    "name": "Isla Pucu Airport",
+    "icao": "PY-0003",
+    "lat": -25.2999992371,
+    "lon": -56.9000015259
+  },
+  {
+    "country": "Paraguay",
+    "state": "Alto ParanÃ¡ Department",
+    "city": "ItaipÃº",
+    "name": "ItaipÃº Airport",
+    "icao": "SGIB",
+    "lat": -25.407519,
+    "lon": -54.619377
+  },
+  {
+    "country": "Paraguay",
+    "state": "GuairÃ¡ Department",
+    "city": "Iturbe",
+    "name": "Iturbe Airport",
+    "icao": "PY-0001",
+    "lat": -26.0599994659,
+    "lon": -56.4900016784999
+  },
+  {
+    "country": "Paraguay",
+    "state": "Presidente Hayes Department",
+    "city": "Pinasco",
+    "name": "Puerto Pinasco Airport",
+    "icao": "SGPO",
+    "lat": -22.6299991607666,
+    "lon": -57.8400001525878
+  },
+  {
+    "country": "Paraguay",
+    "state": "ConcepciÃ³n Department",
+    "city": "Puerto Abente",
+    "name": "Puerto Abente Airport",
+    "icao": "PY-0015",
+    "lat": -22.9503993988037,
+    "lon": -57.7914009094238
+  },
+  {
+    "country": "Paraguay",
+    "state": "Presidente Hayes Department",
+    "city": "Puerto Boqueron",
+    "name": "Puerto Boqueron Airport",
+    "icao": "PY-0016",
+    "lat": -23.9834003448486,
+    "lon": -57.249900817871
+  },
+  {
+    "country": "Paraguay",
+    "state": "Alto Paraguay Department",
+    "city": "Puerto La Esperanza",
+    "name": "Puerto La Esperanza Airport",
+    "icao": "PY-0009",
+    "lat": -22.0431003570556,
+    "lon": -58.0166015625
+  },
+  {
+    "country": "Paraguay",
+    "state": "Alto Paraguay Department",
+    "city": "Puerto Leda",
+    "name": "Puerto Leda Airport",
+    "icao": "PY-PBT",
+    "lat": -20.9046001434326,
+    "lon": -57.9271011352539
+  },
+  {
+    "country": "Paraguay",
+    "state": "San Pedro Department",
+    "city": "Puerto Michu",
+    "name": "Puerto Michi Airport",
+    "icao": "PY-0017",
+    "lat": -24.13570022583,
+    "lon": -57.2840995788574
+  },
+  {
+    "country": "Paraguay",
+    "state": "ConcepciÃ³n Department",
+    "city": "Puerto Vallemi",
+    "name": "Dr Juan Plate Airport",
+    "icao": "VMI",
+    "lat": -22.159109,
+    "lon": -57.942581
+  },
+  {
+    "country": "Paraguay",
+    "state": "San Pedro Department",
+    "city": "Rosario",
+    "name": "Estancia Lomas Airport",
+    "icao": "PY-0018",
+    "lat": -24.6170005798339,
+    "lon": -57.1487998962402
+  },
+  {
+    "country": "Paraguay",
+    "state": "Central Department",
+    "city": "Santa Clara",
+    "name": "Santa Clara Airport",
+    "icao": "PY-0020",
+    "lat": -25.6632995605468,
+    "lon": -57.6642990112304
+  },
+  {
+    "country": "Paraguay",
+    "state": "Amambay Department",
+    "city": "Santa Teresa",
+    "name": "Santa Teresa Airport",
+    "icao": "SGST",
+    "lat": -22.622754,
+    "lon": -56.634507
+  },
+  {
+    "country": "Paraguay",
+    "state": "Presidente Hayes Department",
+    "city": "Villa Hayes",
+    "name": "Villa Hayes Sarg Airport",
+    "icao": "SGNB",
+    "lat": -25.1599998474121,
+    "lon": -57.560001373291
+  },
+  {
+    "country": "Paraguay",
+    "state": "San Pedro Department",
+    "city": "Villa Rey",
+    "name": "Villa Rey Airport",
+    "icao": "PY-0019",
+    "lat": -24.6881008148193,
+    "lon": -57.230598449707
+  },
+  {
+    "country": "Paraguay",
+    "state": "Amambay Department",
+    "city": "Cerro CorÃ¡",
+    "name": "Cerro CorÃ¡ Airport",
+    "icao": "PY-0035",
+    "lat": -22.637159,
+    "lon": -56.016371
+  },
+  {
+    "country": "Paraguay",
+    "state": "ItapÃºa Department",
+    "city": "Colonia Doctor Pastor Obligado",
+    "name": "Bella Vista Sur Airport",
+    "icao": "SGBA",
+    "lat": -27.052393,
+    "lon": -55.578026
+  },
+  {
+    "country": "Paraguay",
+    "state": "BoquerÃ³n Department",
+    "city": "Gnadenheim",
+    "name": "Gnadenheim Airport",
+    "icao": "PY-0033",
+    "lat": -22.369868,
+    "lon": -59.770805
+  },
+  {
+    "country": "Paraguay",
+    "state": "Alto Paraguay Department",
+    "city": "La Victoria",
+    "name": "La Victoria Airport",
+    "icao": "PY-0034",
+    "lat": -22.289467,
+    "lon": -57.931053
+  },
+  {
+    "country": "Paraguay",
+    "state": "BoquerÃ³n Department",
+    "city": "Loma Plata",
+    "name": "Loma Plata Airport",
+    "icao": "PY-0032",
+    "lat": -22.356651,
+    "lon": -59.838926
+  },
+  {
+    "country": "Paraguay",
+    "state": "Presidente Hayes Department",
+    "city": "Pozo Colorado",
+    "name": "Pozo Colorado Airport",
+    "icao": "SGPC",
+    "lat": -23.499127,
+    "lon": -58.785914
+  },
+  {
+    "country": "Paraguay",
+    "state": "San Pedro Department",
+    "city": "Villa del Rosario",
+    "name": "Rosario South 1 Airport",
+    "icao": "PY-0027",
+    "lat": -24.471234,
+    "lon": -57.154851
+  },
+  {
+    "country": "Paraguay",
+    "state": "San Pedro Department",
+    "city": "Villa del Rosario",
+    "name": "Rosario South 3 Airport",
+    "icao": "PY-0029",
+    "lat": -24.486413,
+    "lon": -57.102357
+  }
+]

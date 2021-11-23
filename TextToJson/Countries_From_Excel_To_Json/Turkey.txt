@@ -1,0 +1,551 @@
+[
+  {
+    "country": "Turkey",
+    "state": "Azmir Province",
+    "city": "Azmir",
+    "name": "Adnan Menderes International Airport",
+    "icao": "LTBJ",
+    "lat": 38.2924003601,
+    "lon": 27.156999588
+  },
+  {
+    "country": "Turkey",
+    "state": "Ankara Province",
+    "city": "Ankara",
+    "name": "EsenboÄŸa International Airport",
+    "icao": "LTAC",
+    "lat": 40.1281013488999,
+    "lon": 32.995098114
+  },
+  {
+    "country": "Turkey",
+    "state": "Istanbul Province",
+    "city": "Istanbul",
+    "name": "Istanbul Airport",
+    "icao": "LTFM",
+    "lat": 41.261297,
+    "lon": 28.741951
+  },
+  {
+    "country": "Turkey",
+    "state": "Kayseri Province",
+    "city": "Kayseri",
+    "name": "Kayseri Erkilet Airport",
+    "icao": "LTAU",
+    "lat": 38.770401001,
+    "lon": 35.4953994751
+  },
+  {
+    "country": "Turkey",
+    "state": "Diyarbakir Province",
+    "city": "Diyarbakir",
+    "name": "Diyarbakir Airport",
+    "icao": "LTCC",
+    "lat": 37.893901825,
+    "lon": 40.2010002136
+  },
+  {
+    "country": "Turkey",
+    "state": "Gaziantep Province",
+    "city": "Gaziantep",
+    "name": "Gaziantep International Airport",
+    "icao": "LTAJ",
+    "lat": 36.9472007751,
+    "lon": 37.4786987305
+  },
+  {
+    "country": "Turkey",
+    "state": "Van Province",
+    "city": "Van",
+    "name": "Van Ferit Melen Airport",
+    "icao": "LTCI",
+    "lat": 38.4682006835937,
+    "lon": 43.3322982788085
+  },
+  {
+    "country": "Turkey",
+    "state": "Denizli Province",
+    "city": "Denizli",
+    "name": "Ã‡ardak Airport",
+    "icao": "LTAY",
+    "lat": 37.7855987549,
+    "lon": 29.7012996674
+  },
+  {
+    "country": "Turkey",
+    "state": "BalÄ±kesir Province",
+    "city": "Edremit",
+    "name": "BalÄ±kesir KÃ¶rfez Airport",
+    "icao": "LTFD",
+    "lat": 39.554599762,
+    "lon": 27.0137996674
+  },
+  {
+    "country": "Turkey",
+    "state": "Antalya Province",
+    "city": "GazipaÅŸa",
+    "name": "GazipaÅŸa Airport",
+    "icao": "LTGP",
+    "lat": 36.299217,
+    "lon": 32.300598
+  },
+  {
+    "country": "Turkey",
+    "state": "ElazÄ±ÄŸ Province",
+    "city": "ElazÄ±ÄŸ",
+    "name": "ElazÄ±ÄŸ Airport",
+    "icao": "LTCA",
+    "lat": 38.6068992615,
+    "lon": 39.2914009094
+  },
+  {
+    "country": "Turkey",
+    "state": "Isparta Province",
+    "city": "Isparta",
+    "name": "SÃ¼leyman Demirel International Airport",
+    "icao": "LTFC",
+    "lat": 37.8554000854,
+    "lon": 30.3684005736999
+  },
+  {
+    "country": "Turkey",
+    "state": "Malatya Province",
+    "city": "Malatya",
+    "name": "Malatya ErhaÃ§ Airport",
+    "icao": "LTAT",
+    "lat": 38.4352989196999,
+    "lon": 38.0909996033
+  },
+  {
+    "country": "Turkey",
+    "state": "NevÅŸehir Province",
+    "city": "NevÅŸehir",
+    "name": "NevÅŸehir Kapadokya Airport",
+    "icao": "LTAZ",
+    "lat": 38.7719,
+    "lon": 34.5345
+  },
+  {
+    "country": "Turkey",
+    "state": "Sinop Province",
+    "city": "Sinop",
+    "name": "Sinop Airport",
+    "icao": "LTCM",
+    "lat": 42.015800476074,
+    "lon": 35.066398620605
+  },
+  {
+    "country": "Turkey",
+    "state": "Erzincan Province",
+    "city": "Erzincan",
+    "name": "Erzincan Airport",
+    "icao": "LTCD",
+    "lat": 39.7102012634,
+    "lon": 39.5270004271999
+  },
+  {
+    "country": "Turkey",
+    "state": "TekirdaÄŸ Province",
+    "city": "Ã‡orlu",
+    "name": "TekirdaÄŸ Ã‡orlu Airport",
+    "icao": "LTBU",
+    "lat": 41.138198852539,
+    "lon": 27.9190998077392
+  },
+  {
+    "country": "Turkey",
+    "state": "KÃ¼tahya Province",
+    "city": "AltÄ±ntaÅŸ",
+    "name": "Zafer Airport",
+    "icao": "LTBZ",
+    "lat": 39.113079,
+    "lon": 30.128111
+  },
+  {
+    "country": "Turkey",
+    "state": "Hatay Province",
+    "city": "Hatay",
+    "name": "Hatay Airport",
+    "icao": "LTDA",
+    "lat": 36.36277771,
+    "lon": 36.2822227478
+  },
+  {
+    "country": "Turkey",
+    "state": "ÅžanlÄ±urfa Province",
+    "city": "ÅžanlÄ±urfa",
+    "name": "ÅžanlÄ±urfa GAP Airport",
+    "icao": "LTCS",
+    "lat": 37.445663,
+    "lon": 38.895592
+  },
+  {
+    "country": "Turkey",
+    "state": "AÄŸrÄ± Province",
+    "city": "AÄŸrÄ± Province",
+    "name": "AÄŸrÄ± Airport",
+    "icao": "LTCO",
+    "lat": 39.654541015625,
+    "lon": 43.0259780883789
+  },
+  {
+    "country": "Turkey",
+    "state": "Bursa Province",
+    "city": "Bursa",
+    "name": "Bursa YeniÅŸehir Airport",
+    "icao": "LTBR",
+    "lat": 40.2551994324,
+    "lon": 29.5625991821
+  },
+  {
+    "country": "Turkey",
+    "state": "BalÄ±kesir Province",
+    "city": "BalÄ±kesir Province",
+    "name": "BalÄ±kesir Merkez Airport",
+    "icao": "LTBF",
+    "lat": 39.6193008422851,
+    "lon": 27.9260005950927
+  },
+  {
+    "country": "Turkey",
+    "state": "Kocaeli Province",
+    "city": "Kocaeli Province",
+    "name": "Cengiz Topel Airport",
+    "icao": "LTBQ",
+    "lat": 40.7350006103515,
+    "lon": 30.0832996368408
+  },
+  {
+    "country": "Turkey",
+    "state": "Mardin Province",
+    "city": "Mardin",
+    "name": "Mardin Airport",
+    "icao": "LTCR",
+    "lat": 37.2233009338,
+    "lon": 40.6316986084
+  },
+  {
+    "country": "Turkey",
+    "state": "EskiÅŸehir Province",
+    "city": "Sivrihisar",
+    "name": "Sivrihisar Airport",
+    "icao": "LTAV",
+    "lat": 39.4514999389648,
+    "lon": 31.3652992248535
+  },
+  {
+    "country": "Turkey",
+    "state": "Ã‡anakkale Province",
+    "city": "GÃ¶kÃ§eada",
+    "name": "GÃ¶kÃ§eada Airport",
+    "icao": "LT86",
+    "lat": 40.204498,
+    "lon": 25.883302
+  },
+  {
+    "country": "Turkey",
+    "state": "Hatay Province",
+    "city": "Ä°skenderun",
+    "name": "Ä°skenderun Airport",
+    "icao": "LTAK",
+    "lat": 36.5744552612,
+    "lon": 36.1534194946
+  },
+  {
+    "country": "Turkey",
+    "state": "Ä°zmir Province",
+    "city": "SelÃ§uk",
+    "name": "SelÃ§uk Efes Airport",
+    "icao": "LTFB",
+    "lat": 37.950698852539,
+    "lon": 27.3290004730224
+  },
+  {
+    "country": "Turkey",
+    "state": "IÄŸdÄ±r Province",
+    "city": "IÄŸdÄ±r",
+    "name": "IÄŸdÄ±r Airport",
+    "icao": "TR-0026",
+    "lat": 39.9766273499,
+    "lon": 43.8766479492
+  },
+  {
+    "country": "Turkey",
+    "state": "Antalya Province",
+    "city": "Manavgat",
+    "name": "Manavgat Airport",
+    "icao": "TR-0040",
+    "lat": 36.7357458755999,
+    "lon": 31.5086495875999
+  },
+  {
+    "country": "Turkey",
+    "state": "Ordu Province",
+    "city": "Ordu",
+    "name": "Ordu Giresun Airport",
+    "icao": "TR-0025",
+    "lat": 40.966047,
+    "lon": 38.080994
+  },
+  {
+    "country": "Turkey",
+    "state": "AdÄ±yaman Province",
+    "city": "AdÄ±yaman",
+    "name": "AdÄ±yaman Airport",
+    "icao": "LTCP",
+    "lat": 37.7313995361,
+    "lon": 38.4688987732
+  },
+  {
+    "country": "Turkey",
+    "state": "Ankara Province",
+    "city": "Ankara",
+    "name": "Etimesgut Air Base",
+    "icao": "LTAD",
+    "lat": 39.949798584,
+    "lon": 32.6885986328
+  },
+  {
+    "country": "Turkey",
+    "state": "MuÅŸ Province",
+    "city": "MuÅŸ",
+    "name": "MuÅŸ Airport",
+    "icao": "LTCK",
+    "lat": 38.7477989196777,
+    "lon": 41.6612014770507
+  },
+  {
+    "country": "Turkey",
+    "state": "Ä°zmir Province",
+    "city": "Ä°zmir Province",
+    "name": "Ã‡iÄŸli Airport",
+    "icao": "LTBL",
+    "lat": 38.5130004882999,
+    "lon": 27.010099411
+  },
+  {
+    "country": "Turkey",
+    "state": "Amasya Province",
+    "city": "Amasya",
+    "name": "Amasya Merzifon Airport",
+    "icao": "LTAP",
+    "lat": 40.829399,
+    "lon": 35.521999
+  },
+  {
+    "country": "Turkey",
+    "state": "Ankara Province",
+    "city": "Ankara",
+    "name": "GÃ¼vercinlik Airport",
+    "icao": "LTAB",
+    "lat": 39.9350013733,
+    "lon": 32.7407989502
+  },
+  {
+    "country": "Turkey",
+    "state": "Siirt Province",
+    "city": "Siirt",
+    "name": "Siirt Airport",
+    "icao": "LTCL",
+    "lat": 37.9789009094238,
+    "lon": 41.8404006958007
+  },
+  {
+    "country": "Turkey",
+    "state": "MuÄŸla Province",
+    "city": "MuÄŸla Province",
+    "name": "ImsÄ±k Airport",
+    "icao": "LTBV",
+    "lat": 37.1400985717773,
+    "lon": 27.6697006225585
+  },
+  {
+    "country": "Turkey",
+    "state": "Bursa Province",
+    "city": "Bursa",
+    "name": "Bursa Airport",
+    "icao": "LTBE",
+    "lat": 40.233299255371,
+    "lon": 29.009199142456
+  },
+  {
+    "country": "Turkey",
+    "state": "Ä°stanbul Province",
+    "city": "Istanbul",
+    "name": "Ä°stanbul Hezarfen Airfield",
+    "icao": "LTBW",
+    "lat": 41.1035995483,
+    "lon": 28.547700882
+  },
+  {
+    "country": "Turkey",
+    "state": "Kastamonu Province",
+    "city": "Kastamonu",
+    "name": "Kastamonu Airport",
+    "icao": "LTAL",
+    "lat": 41.3142013549804,
+    "lon": 33.795799255371
+  },
+  {
+    "country": "Turkey",
+    "state": "Ankara Province",
+    "city": "Ankara Province",
+    "name": "Ankara BB Helipad",
+    "icao": "TR-0006",
+    "lat": 39.9394645690918,
+    "lon": 32.8384246826171
+  },
+  {
+    "country": "Turkey",
+    "state": "Ankara Province",
+    "city": "Ankara Province",
+    "name": "AtatÃ¼rk Hospital Helipad",
+    "icao": "TR-0007",
+    "lat": 39.9019393920898,
+    "lon": 32.7599143981933
+  },
+  {
+    "country": "Turkey",
+    "state": "Denizli Province",
+    "city": "Denizli Province",
+    "name": "Ã‡ardak Highway Strip",
+    "icao": "TR-0009",
+    "lat": 37.828125,
+    "lon": 29.6378631591796
+  },
+  {
+    "country": "Turkey",
+    "state": "Manisa Province",
+    "city": "Akhisar",
+    "name": "Akhisar TSA Airfield",
+    "icao": "TR-0001",
+    "lat": 38.9771003723144,
+    "lon": 27.8525009155273
+  },
+  {
+    "country": "Turkey",
+    "state": "Aksaray Province",
+    "city": "Aksaray",
+    "name": "Aksaray Airport",
+    "icao": "TR-0014",
+    "lat": 38.3157348632812,
+    "lon": 33.8075485229492
+  },
+  {
+    "country": "Turkey",
+    "state": "Ä°zmir Province",
+    "city": "Bergama",
+    "name": "Fly Pergamon Sport Airfield",
+    "icao": "TR-0041",
+    "lat": 39.092842,
+    "lon": 27.148651
+  },
+  {
+    "country": "Turkey",
+    "state": "Ã‡anakkale Province",
+    "city": "Biga",
+    "name": "Kara Biga Airport",
+    "icao": "TR-0023",
+    "lat": 40.3807983398437,
+    "lon": 27.3034000396728
+  },
+  {
+    "country": "Turkey",
+    "state": "Bolu Province",
+    "city": "Bolu",
+    "name": "Bolu Air Base",
+    "icao": "TR-0018",
+    "lat": 40.7479705810546,
+    "lon": 31.6500663757324
+  },
+  {
+    "country": "Turkey",
+    "state": "Ä°zmir Province",
+    "city": "Ã‡eÅŸme",
+    "name": "AlaÃ§atÄ± Airport",
+    "icao": "TR-0012",
+    "lat": 38.2431983947753,
+    "lon": 26.4249992370605
+  },
+  {
+    "country": "Turkey",
+    "state": "EskiÅŸehir Province",
+    "city": "EskiÅŸehir",
+    "name": "EskiÅŸehir KalkanlÄ± Air Base",
+    "icao": "TR-0022",
+    "lat": 39.6346969604492,
+    "lon": 30.7403678894042
+  },
+  {
+    "country": "Turkey",
+    "state": "Bursa Province",
+    "city": "Gemlik",
+    "name": "Gemlik Airfield",
+    "icao": "TR-0024",
+    "lat": 40.3984985351562,
+    "lon": 29.089500427246
+  },
+  {
+    "country": "Turkey",
+    "state": "EskiÅŸehir Province",
+    "city": "Ä°nÃ¶nÃ¼",
+    "name": "THK Ä°nÃ¶nÃ¼ Airfield",
+    "icao": "TR-0034",
+    "lat": 39.8209152221679,
+    "lon": 30.1187400817871
+  },
+  {
+    "country": "Turkey",
+    "state": "Kayseri Province",
+    "city": "Melikgazi",
+    "name": "Kayseri Hava Ä°kmal Airfield",
+    "icao": "TR-0039",
+    "lat": 38.7029942184,
+    "lon": 35.5045509338
+  },
+  {
+    "country": "Turkey",
+    "state": "MuÅŸ Province",
+    "city": "MuÅŸ",
+    "name": "MuÅŸ West Airport",
+    "icao": "TR-0037",
+    "lat": 38.7861877312,
+    "lon": 41.4696979523
+  },
+  {
+    "country": "Turkey",
+    "state": "Kirklareli Province",
+    "city": "PÄ±narhisar",
+    "name": "PÄ±narhisar Airport",
+    "icao": "TR-0030",
+    "lat": 41.6349983215,
+    "lon": 27.4923992156999
+  },
+  {
+    "country": "Turkey",
+    "state": "Ankara Province",
+    "city": "PolatlÄ±",
+    "name": "PolatlÄ± Airport",
+    "icao": "TR-0031",
+    "lat": 39.5698013305664,
+    "lon": 32.1507987976074
+  },
+  {
+    "country": "Turkey",
+    "state": "Rize Province",
+    "city": "Rize",
+    "name": "Rize - Artvin Airport",
+    "icao": "TR-0042",
+    "lat": 41.179004,
+    "lon": 40.866303
+  },
+  {
+    "country": "Turkey",
+    "state": "Icel Province",
+    "city": "Tarsus",
+    "name": "Ã‡ukurova Airport",
+    "icao": "TR-0044",
+    "lat": 36.895545,
+    "lon": 35.069381
+  }
+]

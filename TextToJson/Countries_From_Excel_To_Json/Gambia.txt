@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Gambia",
+    "state": "Western Division",
+    "city": "Banjul",
+    "name": "Banjul International Airport",
+    "icao": "GBYD",
+    "lat": 13.3380002975463,
+    "lon": -16.6522006988525
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "Billund",
+    "name": "Billund Airport",
+    "icao": "EKBI",
+    "lat": 55.7402992249,
+    "lon": 9.15178012848
+  },
+  {
+    "country": "Denmark",
+    "state": "North Jutland",
+    "city": "Aalborg",
+    "name": "Aalborg Airport",
+    "icao": "EKYT",
+    "lat": 57.0927589138,
+    "lon": 9.84924316406
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Copenhagen",
+    "name": "Copenhagen Roskilde Airport",
+    "icao": "EKRK",
+    "lat": 55.5856018066406,
+    "lon": 12.1314001083374
+  },
+  {
+    "country": "Denmark",
+    "state": "Capital Region",
+    "city": "RÃ¸nne",
+    "name": "Bornholm Airport",
+    "icao": "EKRN",
+    "lat": 55.0633010864257,
+    "lon": 14.7595996856689
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "Esbjerg",
+    "name": "Esbjerg Airport",
+    "icao": "EKEB",
+    "lat": 55.525902,
+    "lon": 8.5534
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Kalundborg",
+    "name": "Kalundborg Airport",
+    "icao": "EKKL",
+    "lat": 55.7002983093261,
+    "lon": 11.25
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "Tasinge",
+    "name": "Sydfyn (Tasinge) Airport",
+    "icao": "EKST",
+    "lat": 55.016602,
+    "lon": 10.5633
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "Ã†rÃ¸",
+    "name": "Ã†rÃ¸ Airport",
+    "icao": "EKAE",
+    "lat": 54.852798461914,
+    "lon": 10.4563999176025
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Anholt",
+    "name": "Anholt Airport",
+    "icao": "EKAT",
+    "lat": 56.6988983153999,
+    "lon": 11.5558996201
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Randers",
+    "name": "Randers Airport",
+    "icao": "EKRD",
+    "lat": 56.5065994262695,
+    "lon": 10.0363998413085
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Ringsted",
+    "name": "Ringsted Airport",
+    "icao": "EKRS",
+    "lat": 55.4258003234863,
+    "lon": 11.8066997528076
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "SamsÃ¸",
+    "name": "SamsÃ¸ Airport",
+    "icao": "EKSS",
+    "lat": 55.8894996643066,
+    "lon": 10.6136999130249
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "TÃ¸nder",
+    "name": "TÃ¸nder Airport",
+    "icao": "EKTD",
+    "lat": 54.9296989440918,
+    "lon": 8.8405704498291
+  },
+  {
+    "country": "Denmark",
+    "state": "North Jutland",
+    "city": "Sindal",
+    "name": "Sindal Airport",
+    "icao": "EKSN",
+    "lat": 57.503502,
+    "lon": 10.2294
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "Kolding / Vamdrup",
+    "name": "Kolding Vamdrup Airfield",
+    "icao": "EKVD",
+    "lat": 55.436298,
+    "lon": 9.33092
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Holbaek",
+    "name": "Holbaek (Ny Hagested) Airport",
+    "icao": "EKHK",
+    "lat": 55.7327995300293,
+    "lon": 11.6028003692626
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "KrusÃ¥ / Padborg",
+    "name": "KrusÃ¥-Padborg Airport",
+    "icao": "EKPB",
+    "lat": 54.8703002929687,
+    "lon": 9.27900981903076
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Viborg",
+    "name": "Viborg Airport",
+    "icao": "EKVB",
+    "lat": 56.4099998474121,
+    "lon": 9.40909957885742
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "Haderslev",
+    "name": "Haderslev Airport",
+    "icao": "EKHV",
+    "lat": 55.3022003173828,
+    "lon": 9.52250003814697
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Herning",
+    "name": "Herning Airport",
+    "icao": "EKHG",
+    "lat": 56.184700012207,
+    "lon": 9.04444980621337
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Koster",
+    "name": "Kostervig Mon Airport",
+    "icao": "EKMN",
+    "lat": 54.9646987915,
+    "lon": 12.1943998337
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Central Jutland",
+    "name": "Hammer Glider Field",
+    "icao": "EKHM",
+    "lat": 55.908195,
+    "lon": 9.446358
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "FemÃ¸",
+    "name": "FemÃ¸ Airfield",
+    "icao": "DK-0001",
+    "lat": 54.984115,
+    "lon": 11.537662
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "Vandel",
+    "name": "Vandel Air Base",
+    "icao": "EKVA",
+    "lat": 55.701,
+    "lon": 9.21358
+  },
+  {
+    "country": "Denmark",
+    "state": "North Jutland",
+    "city": "Aars",
+    "name": "Vesthimmerlands Flyveplads",
+    "icao": "EKVH",
+    "lat": 56.846901,
+    "lon": 9.45861
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Holstebro",
+    "name": "Lindtorp Airport",
+    "icao": "EKHO",
+    "lat": 56.3967018127441,
+    "lon": 8.44194030761718
+  },
+  {
+    "country": "Denmark",
+    "state": "Capital Region",
+    "city": "Kirke Vaerlose",
+    "name": "Vaerlose Air Base",
+    "icao": "EKVL",
+    "lat": 55.7695007324,
+    "lon": 12.3239002228
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "KorsÃ¸r",
+    "name": "KorsÃ¸r Airport",
+    "icao": "EKKO",
+    "lat": 55.3368988037109,
+    "lon": 11.2417001724243
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Rarup",
+    "name": "Rarup Airport",
+    "icao": "EKRA",
+    "lat": 55.7785987854003,
+    "lon": 9.93889045715332
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Spjald",
+    "name": "Spjald Airport",
+    "icao": "EKSD",
+    "lat": 56.1026992797851,
+    "lon": 8.51422977447509
+  },
+  {
+    "country": "Denmark",
+    "state": "North Jutland",
+    "city": "SÃ¦by",
+    "name": "SÃ¦by (Ottestrup) Airport",
+    "icao": "EKSA",
+    "lat": 57.3466987609863,
+    "lon": 10.4069995880126
+  },
+  {
+    "country": "Denmark",
+    "state": "Dan B Helideck",
+    "city": "Dan B Helideck",
+    "name": "Dan B Helideck",
+    "icao": "EKDB",
+    "lat": 55.4690399169921,
+    "lon": 5.13305616378784
+  },
+  {
+    "country": "Denmark",
+    "state": "Dan F Helideck",
+    "city": "Dan F Helideck",
+    "name": "Dan F Helideck",
+    "icao": "EKDF",
+    "lat": 55.478099822998,
+    "lon": 5.10552787780761
+  },
+  {
+    "country": "Denmark",
+    "state": "Halfdan A Helideck",
+    "city": "Halfdan A Helideck",
+    "name": "Halfdan A Helideck",
+    "icao": "EKHA",
+    "lat": 55.5308570861816,
+    "lon": 5.00416707992553
+  },
+  {
+    "country": "Denmark",
+    "state": "Harald Helideck",
+    "city": "Harald Helideck",
+    "name": "Harald Helideck",
+    "icao": "EKHD",
+    "lat": 56.3441200256347,
+    "lon": 4.27191686630249
+  },
+  {
+    "country": "Denmark",
+    "state": "Horns Rev B Helideck",
+    "city": "Horns Rev B Helideck",
+    "name": "Horns Rev B Helideck",
+    "icao": "EKHN",
+    "lat": 55.6001663208007,
+    "lon": 7.62380599975585
+  },
+  {
+    "country": "Denmark",
+    "state": "Rolf Helideck",
+    "city": "Rolf Helideck",
+    "name": "Rolf Helideck",
+    "icao": "EKRF",
+    "lat": 55.6061553955078,
+    "lon": 4.4913330078125
+  },
+  {
+    "country": "Denmark",
+    "state": "Skjold Helideck",
+    "city": "Skjold Helideck",
+    "name": "Skjold Helideck",
+    "icao": "EKSC",
+    "lat": 55.5315933227539,
+    "lon": 4.90666723251342
+  },
+  {
+    "country": "Denmark",
+    "state": "Tyra E Helideck",
+    "city": "Tyra E Helideck",
+    "name": "Tyra E Helideck",
+    "icao": "EKTE",
+    "lat": 55.7215232849121,
+    "lon": 4.80205583572387
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Zealand",
+    "name": "VejrÃ¸",
+    "icao": "EK_4",
+    "lat": 55.035,
+    "lon": 11.375
+  },
+  {
+    "country": "Denmark",
+    "state": "Capital Region",
+    "city": "Capital Region",
+    "name": "Slaglille SvÃ¦veflyvecenter",
+    "icao": "EKSL",
+    "lat": 55.452222,
+    "lon": 11.644722
+  },
+  {
+    "country": "Denmark",
+    "state": "Capital Region",
+    "city": "Capital Region",
+    "name": "Freerslev",
+    "icao": "EKFR",
+    "lat": 55.898611,
+    "lon": 12.245
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Zealand",
+    "name": "Schelenburg God Heliport",
+    "icao": "EKSG",
+    "lat": 55.543889,
+    "lon": 10.635833
+  },
+  {
+    "country": "Denmark",
+    "state": "SÃ¸lager flyveplads",
+    "city": "SÃ¸lager flyveplads",
+    "name": "SÃ¸lager flyveplads",
+    "icao": "DK-0016",
+    "lat": 55.9499555,
+    "lon": 11.9250516
+  },
+  {
+    "country": "Denmark",
+    "state": "Capital Region",
+    "city": "Capital Region",
+    "name": "Frederikssund Syd Flyveplads",
+    "icao": "DK-0020",
+    "lat": 55.814761,
+    "lon": 12.081471
+  },
+  {
+    "country": "Denmark",
+    "state": "Gesten Glider Field",
+    "city": "Gesten Glider Field",
+    "name": "Gesten Glider Field",
+    "icao": "DK-0021",
+    "lat": 55.550967,
+    "lon": 9.189979
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Central Jutland",
+    "name": "GrÃ¸nbÃ¦k Flyveplads",
+    "icao": "DK-0023",
+    "lat": 56.2705556,
+    "lon": 9.6233333
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "South Denmark",
+    "name": "Rolfsted Flyveplads",
+    "icao": "DK-0025",
+    "lat": 55.325833,
+    "lon": 10.581944
+  },
+  {
+    "country": "Denmark",
+    "state": "North Jutland",
+    "city": "North Jutland",
+    "name": "Nordjyllands Ultra Light Flyveklub",
+    "icao": "DK-0031",
+    "lat": 57.2478111,
+    "lon": 9.9408576
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Zealand",
+    "name": "Slagelse Private Airstrip",
+    "icao": "DK-0034",
+    "lat": 55.3599187,
+    "lon": 11.3096013
+  },
+  {
+    "country": "Denmark",
+    "state": "(unassigned)",
+    "city": "Aarhus",
+    "name": "Aarhus Seaplane Terminal",
+    "icao": "EKAC",
+    "lat": 56.151717,
+    "lon": 10.248428
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Annisse",
+    "name": "Annisse flyveplads",
+    "icao": "EKHE",
+    "lat": 55.9847222,
+    "lon": 12.2144444
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Ã…rhus",
+    "name": "Aarhus Universitetshospital Helipad",
+    "icao": "DK-0012",
+    "lat": 56.192123,
+    "lon": 10.175912
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Arnborg",
+    "name": "SvÃ¦veflyvecenter Arnborg",
+    "icao": "EKBH",
+    "lat": 56.011944,
+    "lon": 9.0125
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "BjÃ¸rnÃ¸ Island",
+    "name": "BjÃ¸rnÃ¸ Flyveplads",
+    "icao": "DK-0038",
+    "lat": 55.0678624,
+    "lon": 10.243161
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "Bolhede",
+    "name": "Bolhede Glider Field",
+    "icao": "DK-0009",
+    "lat": 55.631971,
+    "lon": 8.755736
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "BrÃ¦dstrup",
+    "name": "BrÃ¦dstrup",
+    "icao": "DK-0004",
+    "lat": 55.943611,
+    "lon": 9.653333
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Ejstruphede",
+    "name": "Ejstruphede Glider Field",
+    "icao": "DK-0007",
+    "lat": 56.020679,
+    "lon": 8.692492
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Estruplund",
+    "name": "Estruplund Flyveplads",
+    "icao": "DK-0019",
+    "lat": 56.5577778,
+    "lon": 10.3583333
+  },
+  {
+    "country": "Denmark",
+    "state": "Zealand",
+    "city": "Faxe",
+    "name": "Kongsted SvÃ¦veflyveplads Glider",
+    "icao": "EKKS",
+    "lat": 55.2522222,
+    "lon": 12.0627778
+  },
+  {
+    "country": "Denmark",
+    "state": "Capital Region",
+    "city": "GÃ¸rlÃ¸se",
+    "name": "GÃ¸rlÃ¸se Glider Field",
+    "icao": "EKGL",
+    "lat": 55.8855556,
+    "lon": 12.2280556
+  },
+  {
+    "country": "Denmark",
+    "state": "Central Jutland",
+    "city": "Holstebro",
+    "name": "Holstebro Glider Field",
+    "icao": "DK-0008",
+    "lat": 56.306223,
+    "lon": 8.586466
+  },
+  {
+    "country": "Denmark",
+    "state": "South Denmark",
+    "city": "Holsted",
+    "name": "Holsted Flyveplads (private)",
+    "icao": "DK-0030",
+    "lat": 55.5619621,
+    "lon": 8.9365233
+  }
+]

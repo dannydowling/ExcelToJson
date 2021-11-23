@@ -1,0 +1,299 @@
+[
+  {
+    "country": "Libya",
+    "state": "Benghazi District",
+    "city": "Benghazi",
+    "name": "Benina International Airport",
+    "icao": "HLLB",
+    "lat": 32.0968017577999,
+    "lon": 20.2695007324
+  },
+  {
+    "country": "Libya",
+    "state": "Tripoli District",
+    "city": "Tripoli",
+    "name": "Mitiga Airport",
+    "icao": "HLLM",
+    "lat": 32.8941001892089,
+    "lon": 13.2760000228881
+  },
+  {
+    "country": "Libya",
+    "state": "Surt District",
+    "city": "Sirt",
+    "name": "Gardabya Airport",
+    "icao": "HLGD",
+    "lat": 31.0634994506999,
+    "lon": 16.5949993134
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Al Wahat District",
+    "name": "Marsa Brega Airport",
+    "icao": "HLMB",
+    "lat": 30.3780994415283,
+    "lon": 19.5764007568359
+  },
+  {
+    "country": "Libya",
+    "state": "Al Jufrah District",
+    "city": "Al Jufrah District",
+    "name": "Zella 74 Airport",
+    "icao": "HLZA",
+    "lat": 28.5898990631103,
+    "lon": 17.2938995361328
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Al Wahat District",
+    "name": "Zuetina Airport",
+    "icao": "HL62",
+    "lat": 30.8701992034912,
+    "lon": 20.0755004882812
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Al Wahat District",
+    "name": "Zueitina Airport",
+    "icao": "HLZU",
+    "lat": 30.875,
+    "lon": 20.0699996948242
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Oxy A 103",
+    "name": "Oxy A 103 Airport",
+    "icao": "HLZG",
+    "lat": 29.0062999725341,
+    "lon": 20.7861003875732
+  },
+  {
+    "country": "Libya",
+    "state": "Nalut District",
+    "city": "Ghadames",
+    "name": "Ghadames East Airport",
+    "icao": "HLTD",
+    "lat": 30.1516990661621,
+    "lon": 9.71531009674072
+  },
+  {
+    "country": "Libya",
+    "state": "Al Butnan District",
+    "city": "Tobruk",
+    "name": "Gamal Abdel Nasser Airport",
+    "icao": "HLGN",
+    "lat": 31.861,
+    "lon": 23.907
+  },
+  {
+    "country": "Libya",
+    "state": "Al Kufrah District",
+    "city": "Al Kufrah District",
+    "name": "Matan al-Sarra Air Base",
+    "icao": "HL56",
+    "lat": 21.6877002716064,
+    "lon": 21.8309001922607
+  },
+  {
+    "country": "Libya",
+    "state": "An Nuqat al Khams District",
+    "city": "An Nuqat al Khams District",
+    "name": "Okba Ibn Nafa Air Base",
+    "icao": "HL77",
+    "lat": 32.473400116,
+    "lon": 11.8978996277
+  },
+  {
+    "country": "Libya",
+    "state": "Wadi Al Shatii District",
+    "city": "Brak",
+    "name": "Brak Airport",
+    "icao": "LY-BCQ",
+    "lat": 27.653,
+    "lon": 14.272
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Al Wahat District",
+    "name": "Bu Attifel Airport",
+    "icao": "HLFL",
+    "lat": 28.7954006195068,
+    "lon": 22.0809001922607
+  },
+  {
+    "country": "Libya",
+    "state": "Surt District",
+    "city": "Surt District",
+    "name": "Ras Lanuf Oil Airport",
+    "icao": "HLNF",
+    "lat": 30.5,
+    "lon": 18.5272006988525
+  },
+  {
+    "country": "Libya",
+    "state": "Surt District",
+    "city": "Surt District",
+    "name": "Dahra Airport",
+    "icao": "HLRA",
+    "lat": 29.4726009368896,
+    "lon": 17.9349002838134
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Al Wahat District",
+    "name": "Zelten Sw New Airport",
+    "icao": "HL50",
+    "lat": 28.5870990753173,
+    "lon": 19.3034000396728
+  },
+  {
+    "country": "Libya",
+    "state": "Misurata District",
+    "city": "Misurata District",
+    "name": "Beni Walid Airport",
+    "icao": "HL54",
+    "lat": 31.739200592,
+    "lon": 13.954000473
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Al Wahat District",
+    "name": "Agedabia Airport",
+    "icao": "HL58",
+    "lat": 30.7651004791259,
+    "lon": 20.1914005279541
+  },
+  {
+    "country": "Libya",
+    "state": "Benghazi District",
+    "city": "Benghazi District",
+    "name": "Qaryat Al Karmal Airport",
+    "icao": "HL64",
+    "lat": 31.9757003784179,
+    "lon": 20.0268993377685
+  },
+  {
+    "country": "Libya",
+    "state": "Al Jufrah District",
+    "city": "Al Jufrah District",
+    "name": "Al Jufra Airport",
+    "icao": "HL69",
+    "lat": 29.1980991363525,
+    "lon": 16.0009994506835
+  },
+  {
+    "country": "Libya",
+    "state": "Wadi Al Shatii District",
+    "city": "Wadi Al Shatii District",
+    "name": "Bir Umran Airport",
+    "icao": "HL71",
+    "lat": 26.3323993682861,
+    "lon": 13.4221000671386
+  },
+  {
+    "country": "Libya",
+    "state": "Al Jabal al Gharbi District",
+    "city": "Al Jabal al Gharbi District",
+    "name": "Habit Awlad Muhammad Airport",
+    "icao": "HL78",
+    "lat": 30.7019004821777,
+    "lon": 12.4840002059936
+  },
+  {
+    "country": "Libya",
+    "state": "Surt District",
+    "city": "Surt District",
+    "name": "Matratin Airport",
+    "icao": "HL80",
+    "lat": 30.6429996490478,
+    "lon": 18.32080078125
+  },
+  {
+    "country": "Libya",
+    "state": "Al Jufrah District",
+    "city": "Al Jufrah District",
+    "name": "Wadi Buzanad Sw Airport",
+    "icao": "HL82",
+    "lat": 28.9619007110595,
+    "lon": 17.5881004333496
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Al Wahat District",
+    "name": "Sarir Nw Airport",
+    "icao": "HL84",
+    "lat": 27.9757003784179,
+    "lon": 22.357400894165
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Nafurah 1",
+    "name": "Nafurah 1 Airport",
+    "icao": "HLNR",
+    "lat": 29.2132,
+    "lon": 21.5924
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Sarir",
+    "name": "Sarir (C-4) Airport",
+    "icao": "HLSA",
+    "lat": 27.6623992919921,
+    "lon": 22.5086002349853
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Warehouse 59A",
+    "name": "Warehouse 59A Airport",
+    "icao": "HLWA",
+    "lat": 28.3223991394042,
+    "lon": 19.9300003051757
+  },
+  {
+    "country": "Libya",
+    "state": "Al Wahat District",
+    "city": "Al Wahat District",
+    "name": "Zelten C6 Airstrip",
+    "icao": "LY-0002",
+    "lat": 28.9540104,
+    "lon": 19.7737706
+  },
+  {
+    "country": "Libya",
+    "state": "Al Butnan District",
+    "city": "Al Butnan District",
+    "name": "Gabr Airstrip",
+    "icao": "LY-0003",
+    "lat": 29.873888,
+    "lon": 23.347918
+  },
+  {
+    "country": "Libya",
+    "state": "Wadi Al Shatii District",
+    "city": "Wadi Al Shatii District",
+    "name": "Unknown strip",
+    "icao": "LY-0005",
+    "lat": 27.548953,
+    "lon": 12.820745
+  },
+  {
+    "country": "Libya",
+    "state": "Al Jabal al Gharbi District",
+    "city": "Zintan",
+    "name": "Alzintan Airport",
+    "icao": "HLZN",
+    "lat": 31.774878,
+    "lon": 12.25006
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Montenegro",
+    "state": "Podgorica Municipality",
+    "city": "Podgorica",
+    "name": "Podgorica Airport",
+    "icao": "LYPG",
+    "lat": 42.359402,
+    "lon": 19.2519
+  },
+  {
+    "country": "Montenegro",
+    "state": "Tivat Municipality",
+    "city": "Tivat",
+    "name": "Tivat Airport",
+    "icao": "LYTV",
+    "lat": 42.4047012329101,
+    "lon": 18.7233009338378
+  },
+  {
+    "country": "Montenegro",
+    "state": "Berane Municipality",
+    "city": "Berane",
+    "name": "Berane Airport",
+    "icao": "LYBR",
+    "lat": 42.8390007019043,
+    "lon": 19.8619995117187
+  }
+]

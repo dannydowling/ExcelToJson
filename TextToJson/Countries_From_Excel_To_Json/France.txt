@@ -1,0 +1,4070 @@
+[
+  {
+    "country": "France",
+    "state": "Isle-de-France",
+    "city": "Paris",
+    "name": "Paris-Orly Airport",
+    "icao": "LFPO",
+    "lat": 48.7233333,
+    "lon": 2.3794444
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-Cote-d'Azure",
+    "city": "Marseille",
+    "name": "Marseille Provence Airport",
+    "icao": "LFML",
+    "lat": 43.439271922,
+    "lon": 5.22142410278
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "BÃ¢le/Mulhouse",
+    "name": "EuroAirport Basel-Mulhouse-Freiburg Airport",
+    "icao": "LFSB",
+    "lat": 47.59,
+    "lon": 7.529167
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Lyon",
+    "name": "Lyon Saint-ExupÃ©ry Airport",
+    "icao": "LFLL",
+    "lat": 45.725556,
+    "lon": 5.081111
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Beauvais/Tillac",
+    "name": "Paris Beauvais Tillac Airport",
+    "icao": "LFOB",
+    "lat": 49.4543991088867,
+    "lon": 2.11278009414672
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Bordeaux/Macrignac",
+    "name": "Bordeaux-Macrignac Airport",
+    "icao": "LFBD",
+    "lat": 44.8283004761,
+    "lon": -0.715556025505
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Strasbourg",
+    "name": "Strasbourg Airport",
+    "icao": "LFST",
+    "lat": 48.5382995605468,
+    "lon": 7.62823009490966
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-Rhine-Alpes",
+    "city": "Chambury/Aix-les-Bains",
+    "name": "Chambury-Savoie Airport",
+    "icao": "LFLB",
+    "lat": 45.6380996704101,
+    "lon": 5.88022994995117
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-Cote-d'Azur",
+    "city": "Avignon/Caumont",
+    "name": "Avignon-Caumont Airport",
+    "icao": "LFMV",
+    "lat": 43.907299041748,
+    "lon": 4.90183019638061
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Perpignan/Rivesaltes",
+    "name": "Perpignan-Rivesaltes (LlabanÃ¨re) Airport",
+    "icao": "LFMP",
+    "lat": 42.7403984069824,
+    "lon": 2.87067008018493
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Clermont-Ferrand/Auvergne",
+    "name": "Clermont-Ferrand Auvergne Airport",
+    "icao": "LFLC",
+    "lat": 45.7867012024,
+    "lon": 3.1691699028
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Limoges/Bellegarde",
+    "name": "Limoges Airport",
+    "icao": "LFBL",
+    "lat": 45.8628005981445,
+    "lon": 1.17944002151489
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Deauville",
+    "name": "Deauville-Saint-Gatien Airport",
+    "icao": "LFRG",
+    "lat": 49.3652992249,
+    "lon": 0.154305994511
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "Grenoble Le Versoud Airport",
+    "icao": "LFLG",
+    "lat": 45.2192,
+    "lon": 5.84972
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Biarritz/Anglet/Bayonne",
+    "name": "Biarritz-Anglet-Bayonne Airport",
+    "icao": "LFBZ",
+    "lat": 43.4683333,
+    "lon": -1.5311111
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Bergerac/RoumaniÃ¨re",
+    "name": "Bergerac-RoumaniÃ¨re Airport",
+    "icao": "LFBE",
+    "lat": 44.8252983093261,
+    "lon": 0.518611013889312
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Pau/PyrÃ©nÃ©es (Uzein)",
+    "name": "Pau PyrÃ©nÃ©es Airport",
+    "icao": "LFBP",
+    "lat": 43.3800010681152,
+    "lon": -0.418610990047454
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Tarbes/Lourdes/PyrÃ©nÃ©es",
+    "name": "Tarbes-Lourdes-PyrÃ©nÃ©es Airport",
+    "icao": "LFBT",
+    "lat": 43.1786994934082,
+    "lon": -0.00643899990245699
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Caen/Carpiquet",
+    "name": "Caen-Carpiquet Airport",
+    "icao": "LFRK",
+    "lat": 49.1733016967773,
+    "lon": -0.449999988079071
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Colmar/Houssen",
+    "name": "Colmar-Houssen Airport",
+    "icao": "LFGA",
+    "lat": 48.1099014282226,
+    "lon": 7.35901021957397
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Courchevel",
+    "name": "Courchevel Airport",
+    "icao": "LFLJ",
+    "lat": 45.396702,
+    "lon": 6.63472
+  },
+  {
+    "country": "France",
+    "state": "Corsica",
+    "city": "Propriano",
+    "name": "Propriano Airport",
+    "icao": "LFKO",
+    "lat": 41.6605987548828,
+    "lon": 8.88974952697753
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Nevers/Fourchambault",
+    "name": "Nevers-Fourchambault Airport",
+    "icao": "LFQG",
+    "lat": 47.0026016235351,
+    "lon": 3.11332988739013
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Villacoublay",
+    "name": "AÃ©rodrome de Saint-Cyr-l'Ã‰cole",
+    "icao": "LFPZ",
+    "lat": 48.810355,
+    "lon": 2.073197
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Le Castellet",
+    "name": "Le Castellet Airport",
+    "icao": "LFMQ",
+    "lat": 43.2524986267089,
+    "lon": 5.78519010543823
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Dole/Tavaux",
+    "name": "Dole-Tavaux Airport",
+    "icao": "LFGJ",
+    "lat": 47.042686,
+    "lon": 5.435063
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Dijon/Longvic",
+    "name": "Dijon-Bourgogne Airport",
+    "icao": "LFSD",
+    "lat": 47.268902,
+    "lon": 5.09
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Valence/Chabeuil",
+    "name": "Valence-Chabeuil Airport",
+    "icao": "LFLU",
+    "lat": 44.9216,
+    "lon": 4.9699
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Provence-Alpes-CÃ´te-d'Azur",
+    "name": "Gap - Tallard Airfield",
+    "icao": "LFNA",
+    "lat": 44.455002,
+    "lon": 6.03778
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Ruoms",
+    "name": "Ruoms Airport",
+    "icao": "LFHF",
+    "lat": 44.445301,
+    "lon": 4.33389
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Toulouse/Lasbordes",
+    "name": "Toulouse-Lasbordes Airport",
+    "icao": "LFCL",
+    "lat": 43.587832,
+    "lon": 1.498507
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Vinon-sur-Verdon",
+    "name": "AÃ©rodrome de Vinon",
+    "icao": "LFNF",
+    "lat": 43.737801,
+    "lon": 5.78417
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Rodez/Marcillac",
+    "name": "Rodez-Marcillac Airport",
+    "icao": "LFCR",
+    "lat": 44.407901763916,
+    "lon": 2.48267006874084
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Cherbourg/Maupertus",
+    "name": "Cherbourg-Maupertus Airport",
+    "icao": "LFRC",
+    "lat": 49.6501007080078,
+    "lon": -1.47028005123138
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Quimper/Pluguffan",
+    "name": "Quimper-Cornouaille Airport",
+    "icao": "LFRQ",
+    "lat": 47.974998474121,
+    "lon": -4.16778993606567
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Vatry",
+    "name": "ChÃ¢lons-Vatry Airport",
+    "icao": "LFOK",
+    "lat": 48.7733333333,
+    "lon": 4.206111111
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Saint-Nazaire/Montoir",
+    "name": "Saint-Nazaire-Montoir Airport",
+    "icao": "LFRZ",
+    "lat": 47.3105556,
+    "lon": -2.1566667
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Nancy/Essey",
+    "name": "Nancy-Essey Airport",
+    "icao": "LFSN",
+    "lat": 48.6921005249023,
+    "lon": 6.23046016693115
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "MÃ¢con/Charnay",
+    "name": "AÃ©rodrome de MÃ¢con-Charnay",
+    "icao": "LFLM",
+    "lat": 46.295101,
+    "lon": 4.79577
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Mende/BrÃ©noux",
+    "name": "Mende-Brenoux Airfield",
+    "icao": "LFNB",
+    "lat": 44.502102,
+    "lon": 3.53282
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "AÃ©rodrome de Montpellier - Candillargues",
+    "icao": "LFNG",
+    "lat": 43.610298,
+    "lon": 4.07028
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Bourg/CeyzÃ©riat",
+    "name": "Bourg-CeyzÃ©riat Airport",
+    "icao": "LFHS",
+    "lat": 46.2009010314941,
+    "lon": 5.29202985763549
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Colmar",
+    "name": "Dijon Darois Airfield",
+    "icao": "LFGI",
+    "lat": 47.386902,
+    "lon": 4.94806
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Reims/Champagne",
+    "name": "Reims-Champagne (BA 112) Air Base",
+    "icao": "LFSR",
+    "lat": 49.310001,
+    "lon": 4.05
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Vichy/Charmeil",
+    "name": "Vichy-Charmeil Airport",
+    "icao": "LFLV",
+    "lat": 46.1697006225585,
+    "lon": 3.40373992919921
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "MÃ©ribel Altiport",
+    "icao": "LFKX",
+    "lat": 45.407003,
+    "lon": 6.577942
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "AÃ©rodrome de MontÃ©limar - AncÃ´ne",
+    "icao": "LFLQ",
+    "lat": 44.583599,
+    "lon": 4.74056
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Albertville",
+    "name": "Albertville Airfield",
+    "icao": "LFKA",
+    "lat": 45.627201,
+    "lon": 6.32972
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "BesanÃ§on/La VÃ¨ze",
+    "name": "AÃ©rodrome de BesanÃ§on-La VÃ¨ze",
+    "icao": "LFQM",
+    "lat": 47.2066,
+    "lon": 6.083681
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Cuers/Pierrefeu",
+    "name": "AÃ©rodrome de Cuers-Pierrefeu",
+    "icao": "LFTF",
+    "lat": 43.247799,
+    "lon": 6.1267
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Graulhet/Montdragon",
+    "name": "Graulhet-Montdragon Airport",
+    "icao": "LFCQ",
+    "lat": 43.7710990905761,
+    "lon": 2.0108299255371
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "OrlÃ©ans",
+    "name": "OrlÃ©ans â€“ Saint-Denis-de-l'HÃ´tel Airport",
+    "icao": "LFOZ",
+    "lat": 47.8969,
+    "lon": 2.16333
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Pontivy",
+    "name": "Quiberon Airport",
+    "icao": "LFEQ",
+    "lat": 47.4822006225585,
+    "lon": -3.09999990463256
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Le Havre/Octeville",
+    "name": "Le Havre Octeville Airport",
+    "icao": "LFOH",
+    "lat": 49.5339012145996,
+    "lon": 0.0880559980869293
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Ã‰pinal/Mirecourt",
+    "name": "Ã‰pinal-Mirecourt Airport",
+    "icao": "LFSG",
+    "lat": 48.325001,
+    "lon": 6.06998
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "MontluÃ§on/GuÃ©ret",
+    "name": "MontluÃ§on-GuÃ©ret Airport",
+    "icao": "LFBK",
+    "lat": 46.222599029541,
+    "lon": 2.3639600276947
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "ChÃ¢teauroux/DÃ©ols",
+    "name": "ChÃ¢teauroux-DÃ©ols \"Marcel Dassault\" Airport",
+    "icao": "LFLX",
+    "lat": 46.860278,
+    "lon": 1.721111
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Saint-Brieuc/Armor",
+    "name": "Saint-Brieuc-Armor Airport",
+    "icao": "LFRT",
+    "lat": 48.5378,
+    "lon": -2.85444
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Aubenas/ArdÃ¨che MÃ©ridional",
+    "name": "Aubenas-ArdÃ¨che MÃ©ridional Airport",
+    "icao": "LFHO",
+    "lat": 44.544203,
+    "lon": 4.372192
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Cahors/Lalbenque",
+    "name": "AÃ©rodrome de Cahors-Lalbenque",
+    "icao": "LFCC",
+    "lat": 44.351398,
+    "lon": 1.47528
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Laval/Entrammes",
+    "name": "Laval-Entrammes Airport",
+    "icao": "LFOV",
+    "lat": 48.0313987731933,
+    "lon": -0.742986023426055
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "UzÃ¨s Airfield",
+    "icao": "LFNU",
+    "lat": 44.084702,
+    "lon": 4.39528
+  },
+  {
+    "country": "France",
+    "state": "Corsica",
+    "city": "Corte",
+    "name": "AÃ©rodrome de Corte",
+    "icao": "LFKT",
+    "lat": 42.2919,
+    "lon": 9.189
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Dinan",
+    "name": "Dinan - TrÃ©livan Airport",
+    "icao": "LFEB",
+    "lat": 48.4444007873535,
+    "lon": -2.10138988494873
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Les Sables-d'Olonne",
+    "name": "Les Sables-d'Olonne Talmont Airport",
+    "icao": "LFOO",
+    "lat": 46.4768981933593,
+    "lon": -1.72277998924255
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Moulins",
+    "name": "Corlier Altiport",
+    "icao": "LFJD",
+    "lat": 46.040531,
+    "lon": 5.494537
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Muret/Lherm",
+    "name": "AÃ©rodrome de Muret - Lherm",
+    "icao": "LFBR",
+    "lat": 43.448898,
+    "lon": 1.26333
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Reims/Prunay",
+    "name": "AÃ©rodrome de Reims Prunay",
+    "icao": "LFQA",
+    "lat": 49.208698,
+    "lon": 4.15658
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Verdun",
+    "name": "Pierrelatte Airport",
+    "icao": "LFHD",
+    "lat": 44.3988990783691,
+    "lon": 4.71806001663208
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Le Puy/Loudes",
+    "name": "Le Puy-Loudes Airport",
+    "icao": "LFHP",
+    "lat": 45.0806999206543,
+    "lon": 3.76289010047912
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Saint-Yan",
+    "name": "Saint-Yan Airport",
+    "icao": "LFLN",
+    "lat": 46.412498474121,
+    "lon": 4.01325988769531
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Albi/Le SÃ©questre",
+    "name": "Albi-Le SÃ©questre Airport",
+    "icao": "LFCI",
+    "lat": 43.9138984680175,
+    "lon": 2.11305999755859
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "PÃ©rigueux/Bassillac",
+    "name": "PÃ©rigueux-Bassillac Airport",
+    "icao": "LFBX",
+    "lat": 45.1981010437011,
+    "lon": 0.815555989742279
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Salon",
+    "name": "Salon-de-Provence (BA 701) Air Base",
+    "icao": "LFMY",
+    "lat": 43.6063995361328,
+    "lon": 5.10925006866455
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Amiens/Glisy",
+    "name": "AÃ©rodrome d'Amiens-Glisy",
+    "icao": "LFAY",
+    "lat": 49.873004,
+    "lon": 2.387074
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Auch/Lamothe",
+    "name": "Auch-Lamothe Airport",
+    "icao": "LFDH",
+    "lat": 43.687801,
+    "lon": 0.601667
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Chalon/Champforgueil",
+    "name": "Chalon-Champforgeuil Airport",
+    "icao": "LFLH",
+    "lat": 46.8260993957519,
+    "lon": 4.81762981414794
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Maubeuge/Ã‰lesmes",
+    "name": "Maubeuge-Ã‰lesmes Airport",
+    "icao": "LFQJ",
+    "lat": 50.3105010986328,
+    "lon": 4.03312015533447
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Nouvelle-Aquitaine",
+    "name": "Pons Avy Airfield",
+    "icao": "LFCP",
+    "lat": 45.57,
+    "lon": -0.515
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Centre-Val de Loire",
+    "name": "Briare Chatillon Airport",
+    "icao": "LFEI",
+    "lat": 47.614399,
+    "lon": 2.78194
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Provence-Alpes-CÃ´te-d'Azur",
+    "name": "AÃ©rodrome d'EyguiÃ¨res",
+    "icao": "LFNE",
+    "lat": 43.658298,
+    "lon": 5.01361
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "ÃŽle-de-France",
+    "name": "AÃ©rodrome de Persan-Beaumont",
+    "icao": "LFPA",
+    "lat": 49.165798,
+    "lon": 2.31306
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "ÃŽle-de-France",
+    "name": "AÃ©rodrome de Meaux-Esbly",
+    "icao": "LFPE",
+    "lat": 48.927799,
+    "lon": 2.83528
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Nouvelle-Aquitaine",
+    "name": "Rochefort Soubise Airfield",
+    "icao": "LFXR",
+    "lat": 45.930801,
+    "lon": -0.995278
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Albi",
+    "name": "Jonzac Neulles Airport",
+    "icao": "LFCJ",
+    "lat": 45.4841995239257,
+    "lon": -0.421389013528823
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Castelnaudary Villeneuve",
+    "name": "AÃ©rodrome de Castelnaudary-Villeneuve",
+    "icao": "LFMW",
+    "lat": 43.312199,
+    "lon": 1.92111
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Guillerval",
+    "name": "AÃ©rodrome d'Ã‰tampes-MondÃ©sir",
+    "icao": "LFOX",
+    "lat": 48.381901,
+    "lon": 2.07528
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "LÃ©zignan-CorbiÃ¨res",
+    "name": "LÃ©zignan-CorbiÃ¨res Airfield",
+    "icao": "LFMZ",
+    "lat": 43.1758,
+    "lon": 2.73417
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Mende",
+    "name": "Mont-Dauphin - St-CrÃ©pin Airport",
+    "icao": "LFNC",
+    "lat": 44.701698,
+    "lon": 6.60028
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Millau/Larzac",
+    "name": "Millau-Larzac Airfield",
+    "icao": "LFCM",
+    "lat": 43.9893,
+    "lon": 3.183
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Moulins",
+    "name": "Aubenasson Airport",
+    "icao": "LFJF",
+    "lat": 44.6944999694824,
+    "lon": 5.15111017227172
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Ushant",
+    "name": "Ouessant Airport",
+    "icao": "LFEC",
+    "lat": 48.4631996154785,
+    "lon": -5.06358003616333
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Verdun",
+    "name": "Nuits St Georges Airport",
+    "icao": "LFGZ",
+    "lat": 47.1431007385253,
+    "lon": 4.96917009353637
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Verdun",
+    "name": "Bellegarde-Vouvray Airport",
+    "icao": "LFHN",
+    "lat": 46.1241989135742,
+    "lon": 5.80610990524292
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Phalsbourg/Bourscheid",
+    "name": "Phalsbourg-Bourscheid Air Base",
+    "icao": "LFQP",
+    "lat": 48.7680556,
+    "lon": 7.205
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Le Luc/Le Cannet",
+    "name": "Le Luc-Le Cannet Airport",
+    "icao": "LFMC",
+    "lat": 43.3847007751464,
+    "lon": 6.38713979721069
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Nancy/Ochey",
+    "name": "Nancy-Ochey (BA 133) Air Base",
+    "icao": "LFSO",
+    "lat": 48.5830993652343,
+    "lon": 5.95499992370605
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Arcachon/La Teste-de-Buch",
+    "name": "AÃ©rodrome d'Arcachon-La Teste-de-Buch",
+    "icao": "LFCH",
+    "lat": 44.596401,
+    "lon": -1.11083
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Montauban",
+    "name": "AÃ©rodrome Morin - VÃ©drines",
+    "icao": "LFDB",
+    "lat": 44.0257,
+    "lon": 1.37804
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Valenciennes/Denain",
+    "name": "Valenciennes-Denain Airport",
+    "icao": "LFAV",
+    "lat": 50.325802,
+    "lon": 3.46126
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Hauts-de-France",
+    "name": "Dunkerque les Moeres Airfield",
+    "icao": "LFAK",
+    "lat": 51.0406,
+    "lon": 2.55028
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "AÃ©rodrome de BagnÃ¨res de Luchon",
+    "icao": "LFCB",
+    "lat": 42.799999,
+    "lon": 0.6
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Nouvelle-Aquitaine",
+    "name": "CouhÃ© VÃ©rac Airfield",
+    "icao": "LFDV",
+    "lat": 46.2728,
+    "lon": 0.190556
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Nancy Malzeville Glider Field",
+    "icao": "LFEZ",
+    "lat": 48.7244,
+    "lon": 6.20778
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Hauts-de-France",
+    "name": "ChÃ¢teau-Thierry - Belleau Airfield",
+    "icao": "LFFH",
+    "lat": 49.0672,
+    "lon": 3.35694
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Bourgogne-Franche-ComtÃ©",
+    "name": "Lons Le Saulnier Courlaoux Airfield",
+    "icao": "LFGL",
+    "lat": 46.676102,
+    "lon": 5.47111
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Sarrebourg Buhl Airfield",
+    "icao": "LFGT",
+    "lat": 48.717087,
+    "lon": 7.074805
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Thionville Yutz Airport",
+    "icao": "LFGV",
+    "lat": 49.354698,
+    "lon": 6.20139
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "Morestel Airport",
+    "icao": "LFHI",
+    "lat": 45.687801,
+    "lon": 5.45361
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "Saint-Jean-en-Royans Airport",
+    "icao": "LFKE",
+    "lat": 45.027802,
+    "lon": 5.31
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "AÃ©rodrome de Feurs - ChambÃ©on",
+    "icao": "LFLZ",
+    "lat": 45.70622,
+    "lon": 4.19734
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Provence-Alpes-CÃ´te-d'Azur",
+    "name": "ValrÃ©as Visan Airfield",
+    "icao": "LFNV",
+    "lat": 44.336899,
+    "lon": 4.90806
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Sarre Union Airfield",
+    "icao": "LFQU",
+    "lat": 48.951401,
+    "lon": 7.07778
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Mourmelon Air Base",
+    "icao": "LFXM",
+    "lat": 49.111401,
+    "lon": 4.36694
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Aire-sur-Adour",
+    "name": "Aire-sur-l'Adour Airport",
+    "icao": "LFDA",
+    "lat": 43.7094001770019,
+    "lon": -0.245278000831604
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Andernos-les-Bains",
+    "name": "AÃ©rodrome d'Andernos",
+    "icao": "LFCD",
+    "lat": 44.755,
+    "lon": -1.065
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Angers",
+    "name": "AÃ©rodrome de Soissons - Courmelles",
+    "icao": "LFJS",
+    "lat": 49.345798,
+    "lon": 3.28417
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Avranches",
+    "name": "Le Val St PÃ¨re",
+    "icao": "LFRW",
+    "lat": 48.661701,
+    "lon": -1.40444
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Blois",
+    "name": "AÃ©rodrome de Saint-Valery-Vittefleur",
+    "icao": "LFOS",
+    "lat": 49.836102,
+    "lon": 0.655
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Bordeaux-Saucats",
+    "name": "Bordeaux LÃ©ognan Saucats Airport",
+    "icao": "LFCS",
+    "lat": 44.700298,
+    "lon": -0.595556
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Chalons",
+    "name": "AÃ©rodrome de L'Aigle-Saint-Michel",
+    "icao": "LFOL",
+    "lat": 48.759701,
+    "lon": 0.659167
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Dieppe",
+    "name": "St Aubin Airport",
+    "icao": "LFAB",
+    "lat": 49.8824996948242,
+    "lon": 1.08527994155883
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "FrÃ©jus",
+    "name": "FrÃ©jus Airport",
+    "icao": "LFTU",
+    "lat": 43.4175,
+    "lon": 6.7357
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Hyeres",
+    "name": "La Grand'combe Airfield",
+    "icao": "LFTN",
+    "lat": 44.2444,
+    "lon": 4.01222
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Joigny",
+    "name": "Joigny Airport",
+    "icao": "LFGK",
+    "lat": 47.9921989440918,
+    "lon": 3.39222002029418
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Marmande/Virazeil",
+    "name": "Marmande-Virazeil Airport",
+    "icao": "LFDM",
+    "lat": 44.4989013671875,
+    "lon": 0.200514003634452
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Moulins",
+    "name": "Sallanches Airport",
+    "icao": "LFHZ",
+    "lat": 45.9538993835449,
+    "lon": 6.63917016983032
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Moulins",
+    "name": "Chalais Airport",
+    "icao": "LFIH",
+    "lat": 45.2681007385253,
+    "lon": 0.0169440004974603
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Moulins",
+    "name": "Marennes Le Bournet Airport",
+    "icao": "LFJI",
+    "lat": 45.8250007629394,
+    "lon": -1.07667005062103
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Mulhouse/Habsheim",
+    "name": "Mulhouse-Habsheim Airport",
+    "icao": "LFGB",
+    "lat": 47.7412986755371,
+    "lon": 7.43220996856689
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Nangis/Les Loges",
+    "name": "AÃ©rodrome de Nangis Les Loges",
+    "icao": "LFAI",
+    "lat": 48.596199,
+    "lon": 3.00679
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Pamiers",
+    "name": "Soulac Sur Mer Airport",
+    "icao": "LFDK",
+    "lat": 45.4949989318847,
+    "lon": -1.08221995830535
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Pont Saint-Vincent",
+    "name": "Pont St Vincent Airfield",
+    "icao": "LFSV",
+    "lat": 48.601398,
+    "lon": 6.05778
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Pontivy",
+    "name": "Tours Sorigny Airport",
+    "icao": "LFEN",
+    "lat": 47.2675018310546,
+    "lon": 0.701111018657684
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Pouilly",
+    "name": "Pouilly Maconge Airport",
+    "icao": "LFEP",
+    "lat": 47.221401,
+    "lon": 4.56111
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Pujaut",
+    "name": "AÃ©rodrome d'Avignon-Pujaut",
+    "icao": "LFNT",
+    "lat": 43.996899,
+    "lon": 4.75556
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Redon",
+    "name": "Redon Bains-sur-Oust Airport",
+    "icao": "LFER",
+    "lat": 47.6994018554687,
+    "lon": -2.03666996955871
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Rochefort",
+    "name": "Fumel Montayral Airport",
+    "icao": "LFDX",
+    "lat": 44.4636001586914,
+    "lon": 1.00777995586395
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Rochefort",
+    "name": "Belle Ile Airport",
+    "icao": "LFEA",
+    "lat": 47.3266983032226,
+    "lon": -3.1983299255371
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Royan",
+    "name": "Ã‰gletons Airport",
+    "icao": "LFDE",
+    "lat": 45.4213981628418,
+    "lon": 2.06889009475708
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Saint Omer",
+    "name": "Saint Omer Wizernes Airfield",
+    "icao": "LFQN",
+    "lat": 50.7294444,
+    "lon": 2.2358333
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Saint-Flour/Coltines",
+    "name": "Saint-Flour-Coltines Airport",
+    "icao": "LFHQ",
+    "lat": 45.0764007568359,
+    "lon": 2.99360990524292
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Semur En Auxois",
+    "name": "Semur En Auxois Airfield",
+    "icao": "LFGQ",
+    "lat": 47.481899,
+    "lon": 4.34417
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "St Pierre I",
+    "name": "Saintes ThÃ©nac Airfield",
+    "icao": "LFXB",
+    "lat": 45.7019,
+    "lon": -0.636111
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "St Pierre I",
+    "name": "Les Mureaux Airfield",
+    "icao": "LFXU",
+    "lat": 48.998299,
+    "lon": 1.94278
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Til ChÃ¢tel",
+    "name": "Til ChÃ¢tel Airfield",
+    "icao": "LFET",
+    "lat": 47.547501,
+    "lon": 5.21194
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Verdun",
+    "name": "PÃ©rouges - Meximieux Airport",
+    "icao": "LFHC",
+    "lat": 45.869701385498,
+    "lon": 5.18722009658813
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Villeneuve-sur-Lot",
+    "name": "Villeneuve-sur-Lot Airport",
+    "icao": "LFCW",
+    "lat": 44.3969001770019,
+    "lon": 0.758889019489288
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Avoriaz",
+    "name": "Altisurface de Morzine-Avoriaz",
+    "icao": "FR-0298",
+    "lat": 46.190277,
+    "lon": 6.7625
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Clamensane",
+    "name": "Altisurface de Clamensane",
+    "icao": "FR-0255",
+    "lat": 44.313889,
+    "lon": 6.074444
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Evian-les-Bains",
+    "name": "HÃ´tel Royal Heliport",
+    "icao": "FR-0233",
+    "lat": 46.3966674804687,
+    "lon": 6.59555578231811
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Narbonne",
+    "name": "Narbonne",
+    "icao": "FR-0098",
+    "lat": 43.194168,
+    "lon": 3.051667
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Saint--Martin-de-Belleville",
+    "name": "Altiport de Val Thorens",
+    "icao": "FR-0309",
+    "lat": 45.281944,
+    "lon": 6.573611
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Sallanche",
+    "name": "Altisurface de Saint-Roch MayÃ¨res",
+    "icao": "FR-0304",
+    "lat": 45.950001,
+    "lon": 6.586111
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Seyssel",
+    "name": "Corbonod-Seyssel Private",
+    "icao": "FR-0374",
+    "lat": 45.9618,
+    "lon": 5.8178
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Val D'Isere",
+    "name": "La Daille Heliport",
+    "icao": "FR-0234",
+    "lat": 45.4572219848632,
+    "lon": 6.96777820587158
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Brive-la-Gaillarde",
+    "name": "Ancien AÃ©rodrome de Brive-La Roche",
+    "icao": "LFBV",
+    "lat": 45.150799,
+    "lon": 1.469202
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Angers/MarcÃ©",
+    "name": "Angers-Loire Airport",
+    "icao": "LFJR",
+    "lat": 47.560299,
+    "lon": -0.312222
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Mont-de-Marsan",
+    "name": "Mont-de-Marsan (BA 118) Air Base",
+    "icao": "LFBM",
+    "lat": 43.911701,
+    "lon": -0.5075
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Luxeuil/Saint-Sauveur",
+    "name": "Luxeuil-Saint-Sauveur (BA 116) Air Base",
+    "icao": "LFSX",
+    "lat": 47.7830556,
+    "lon": 6.36416667
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Istres/Le TubÃ©",
+    "name": "Istres Le TubÃ© Air Base",
+    "icao": "LFMI",
+    "lat": 43.522701,
+    "lon": 4.92384
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Cambrai/Ã‰pinoy",
+    "name": "Cambrai-Ã‰pinoy (BA 103) Air Base",
+    "icao": "LFQI",
+    "lat": 50.221802,
+    "lon": 3.15424
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Creil",
+    "name": "Creil Air Base",
+    "icao": "LFPC",
+    "lat": 49.2535018920898,
+    "lon": 2.51914000511169
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Saint-Dizier/Robinson",
+    "name": "Saint-Dizier-Robinson (BA 113) Air Base",
+    "icao": "LFSI",
+    "lat": 48.636001586914,
+    "lon": 4.8994197845458896
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "ChÃ¢teaudun",
+    "name": "ChÃ¢teaudun (BA 279) Air Base",
+    "icao": "LFOC",
+    "lat": 48.058102,
+    "lon": 1.37662
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Cholet/Le Pontreau",
+    "name": "Cholet Le Pontreau Airport",
+    "icao": "LFOU",
+    "lat": 47.0820999145507,
+    "lon": -0.877063989639282
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "LanvÃ©oc/Poulmic",
+    "name": "LanvÃ©oc-Poulmic Air Base",
+    "icao": "LFRL",
+    "lat": 48.2817001342773,
+    "lon": -4.44502019882202
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "MontbÃ©liard/Courcelles",
+    "name": "MontbÃ©liard-Courcelles Airfield",
+    "icao": "LFSM",
+    "lat": 47.487,
+    "lon": 6.79054
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Normandy",
+    "name": "Argentan Airfield",
+    "icao": "LFAJ",
+    "lat": 48.710602,
+    "lon": 0.003889
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Rethel Airfield",
+    "icao": "LFAP",
+    "lat": 49.481899,
+    "lon": 4.36472
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Normandy",
+    "name": "AÃ©rodrome de Falaise-Mont d'Eraines",
+    "icao": "LFAS",
+    "lat": 48.9272,
+    "lon": -0.144722
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Nouvelle-Aquitaine",
+    "name": "AÃ©rodrome de GuÃ©ret Saint-Laurent",
+    "icao": "LFCE",
+    "lat": 46.17667,
+    "lon": 1.95444
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "Nogaro Airfield",
+    "icao": "LFCN",
+    "lat": 43.769699,
+    "lon": -0.032778
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Nouvelle-Aquitaine",
+    "name": "AÃ©rodrome de Thouars",
+    "icao": "LFCT",
+    "lat": 46.961899,
+    "lon": -0.152778
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Centre-Val de Loire",
+    "name": "Argenton Sur Creuse Airfield",
+    "icao": "LFEG",
+    "lat": 46.596901,
+    "lon": 1.6025
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Centre-Val de Loire",
+    "name": "Issoudun Le Fay Airfield",
+    "icao": "LFEK",
+    "lat": 46.888599,
+    "lon": 2.04139
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "ÃŽle-de-France",
+    "name": "Buno Bonnevaux Airfield",
+    "icao": "LFFB",
+    "lat": 48.351101,
+    "lon": 2.42556
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "ÃŽle-de-France",
+    "name": "Enghien Moisselles Airfield",
+    "icao": "LFFE",
+    "lat": 49.046398,
+    "lon": 2.35306
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Joinville Mussey Airfield",
+    "icao": "LFFJ",
+    "lat": 48.386101,
+    "lon": 5.145
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Centre-Val de Loire",
+    "name": "Bailleau Armenonville Airfield",
+    "icao": "LFFL",
+    "lat": 48.5158,
+    "lon": 1.64
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Centre-Val de Loire",
+    "name": "Pithiviers Airfield",
+    "icao": "LFFP",
+    "lat": 48.1572,
+    "lon": 2.1925
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Bar Sur Seine Airfield",
+    "icao": "LFFR",
+    "lat": 48.066898,
+    "lon": 4.41361
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Centre-Val de Loire",
+    "name": "ChÃ¢teauneuf Sur Cher Airfield",
+    "icao": "LFFU",
+    "lat": 46.871101,
+    "lon": 2.37694
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Pays-de-la-Loire",
+    "name": "Montaigu St Georges Airfield",
+    "icao": "LFFW",
+    "lat": 46.933102,
+    "lon": -1.32556
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Bourgogne-Franche-ComtÃ©",
+    "name": "Arbois Airfield",
+    "icao": "LFGD",
+    "lat": 46.919998,
+    "lon": 5.76
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Bourgogne-Franche-ComtÃ©",
+    "name": "Paray Le Monial Airfield",
+    "icao": "LFGN",
+    "lat": 46.466381,
+    "lon": 4.133798
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Doncourt Les Conflans Airfield",
+    "icao": "LFGR",
+    "lat": 49.152802,
+    "lon": 5.93278
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "SolliÃ¨res SardiÃ¨res Airfield",
+    "icao": "LFKD",
+    "lat": 45.256401,
+    "lon": 6.80139
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "Belley - Peyrieu Airfield",
+    "icao": "LFKY",
+    "lat": 45.695,
+    "lon": 5.69278
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "AÃ©rodrome de Saint-Martin-de-Londres",
+    "icao": "LFNL",
+    "lat": 43.8008,
+    "lon": 3.7825
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "PÃ©zenas Nizas Airfield",
+    "icao": "LFNP",
+    "lat": 43.505798,
+    "lon": 3.41361
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Provence-Alpes-CÃ´te-d'Azur",
+    "name": "Berre La Fare Airfield",
+    "icao": "LFNR",
+    "lat": 43.5378,
+    "lon": 5.17833
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "BÃ©darieux La Tour Airfield",
+    "icao": "LFNX",
+    "lat": 43.6408,
+    "lon": 3.14556
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Normandy",
+    "name": "AÃ©rodrome de Flers Saint-Paul",
+    "icao": "LFOG",
+    "lat": 48.752499,
+    "lon": -0.589444
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Bourgogne-Franche-ComtÃ©",
+    "name": "ChÃ¢tillon Sur Seine Airfield",
+    "icao": "LFQH",
+    "lat": 47.843924,
+    "lon": 4.580045
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Hauts-de-France",
+    "name": "Lille/Marcq-en-Baroeul Airfield",
+    "icao": "LFQO",
+    "lat": 50.687199,
+    "lon": 3.07556
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Hauts-de-France",
+    "name": "Vitry en Artois Airfield",
+    "icao": "LFQS",
+    "lat": 50.338299,
+    "lon": 2.99333
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Dieuze GuÃ©blange Airfield",
+    "icao": "LFQZ",
+    "lat": 48.775299,
+    "lon": 6.71528
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Vittel Champ De Course Airfield",
+    "icao": "LFSZ",
+    "lat": 48.2239,
+    "lon": 5.93528
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Vittel (Auzainvilliers) Airfield",
+    "icao": "LFXC",
+    "lat": 48.2286,
+    "lon": 5.84302
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Hauts-de-France",
+    "name": "Cambrai Niergnies Airfield",
+    "icao": "LFYG",
+    "lat": 50.142502,
+    "lon": 3.265
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Bourgogne-Franche-ComtÃ©",
+    "name": "Lure Malbouhans Air Base",
+    "icao": "LFYL",
+    "lat": 47.7047,
+    "lon": 6.54583
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Centre-Val de Loire",
+    "name": "Romorantin Pruniers Airfield",
+    "icao": "LFYR",
+    "lat": 47.317543,
+    "lon": 1.691036
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Cessey Baigneux les Juifs Airfield",
+    "icao": "LFSY",
+    "lat": 47.609722,
+    "lon": 4.6175
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Brittany",
+    "name": "St Malo St Serva Airfield",
+    "icao": "LFEO",
+    "lat": 48.613602,
+    "lon": -1.97361
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Angers",
+    "name": "AÃ©rodrome d'Angers AvrillÃ©",
+    "icao": "LFRA",
+    "lat": 47.499199,
+    "lon": -0.572778
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Aspres sur BuÃ«ch",
+    "name": "AÃ©rodrome d'Aspres-sur-BuÃ«ch",
+    "icao": "LFNJ",
+    "lat": 44.518902,
+    "lon": 5.7375
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Bar Le Duc",
+    "name": "Bar Le Duc Airfield",
+    "icao": "LFEU",
+    "lat": 48.868301,
+    "lon": 5.18583
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Belfort",
+    "name": "AÃ©roparc de Belfort-Fontaine",
+    "icao": "LFSQ",
+    "lat": 47.655602,
+    "lon": 7.01083
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Bordeaux",
+    "name": "Bordeaux Souge Air Base",
+    "icao": "LFDO",
+    "lat": 44.851093,
+    "lon": -0.805493
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Brioude",
+    "name": "Brioude Beaumont Airport",
+    "icao": "LFHR",
+    "lat": 45.3250007629,
+    "lon": 3.35916996002
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Cassagnes-BÃ©gonhÃ¨s",
+    "name": "Cassagnes-BÃ©gonhÃ¨s Airport",
+    "icao": "LFIG",
+    "lat": 44.1777992248535,
+    "lon": 2.51500010490417
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Chalons",
+    "name": "AÃ©rodrome de Lessay",
+    "icao": "LFOM",
+    "lat": 49.203098,
+    "lon": -1.50667
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Chaumont/Semoutiers",
+    "name": "Chaumont-Semoutiers Airport",
+    "icao": "LFJA",
+    "lat": 48.0863,
+    "lon": 5.04902
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Colmar",
+    "name": "Belfort Chaux Airport",
+    "icao": "LFGG",
+    "lat": 47.7022018432617,
+    "lon": 6.83249998092651
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Condat sur VÃ©zÃ¨re",
+    "name": "Condat sur VÃ©zÃ¨re",
+    "icao": "LFDZ",
+    "lat": 45.099998,
+    "lon": 1.217
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Creil",
+    "name": "AÃ©rodrome de Beynes - Thiverval",
+    "icao": "LFPF",
+    "lat": 48.843601,
+    "lon": 1.90889
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Damblain",
+    "name": "Damblain Air Base",
+    "icao": "LFYD",
+    "lat": 48.0863,
+    "lon": 5.66406
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Guer",
+    "name": "CoÃ«tquidan Air Base",
+    "icao": "LFXQ",
+    "lat": 47.9466018676757,
+    "lon": -2.19230008125305
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Guyancourt",
+    "name": "Guyancourt Airport",
+    "icao": "LFPR",
+    "lat": 48.7602996826171,
+    "lon": 2.0625
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Hyeres",
+    "name": "Serres - La BÃ¢tie-MontsalÃ©on Airfield",
+    "icao": "LFTM",
+    "lat": 44.458302,
+    "lon": 5.72833
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Laval",
+    "name": "AÃ©rodrome du Havre - Saint-Romain",
+    "icao": "LFOY",
+    "lat": 49.544701,
+    "lon": 0.361111
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Lurcy-LÃ©vis",
+    "name": "Lurcy-LÃ©vis Airport",
+    "icao": "LFJU",
+    "lat": 46.7136001586914,
+    "lon": 2.9458999633789
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Metz-Nancy/Lorraine",
+    "name": "Chailley Airport",
+    "icao": "LFJM",
+    "lat": 48.080715,
+    "lon": 3.71423721
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Montaudran",
+    "name": "Montaudran Airport",
+    "icao": "LFIO",
+    "lat": 43.568901062,
+    "lon": 1.48082995415
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Moulins",
+    "name": "Condom Valence Sur Baise Airport",
+    "icao": "LFID",
+    "lat": 43.910301208496,
+    "lon": 0.387221992015838
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Moulins",
+    "name": "St Gaudens Montrejeau Airport",
+    "icao": "LFIM",
+    "lat": 43.108600616455,
+    "lon": 0.620278000831604
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Moulins",
+    "name": "Toulouse Bourg St Bernard Airport",
+    "icao": "LFIT",
+    "lat": 43.6122016906738,
+    "lon": 1.72528004646301
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Moulins",
+    "name": "Itxassou Airport",
+    "icao": "LFIX",
+    "lat": 43.3375015258789,
+    "lon": -1.42221999168396
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Moulins",
+    "name": "Cazeres Palaminy Airport",
+    "icao": "LFJH",
+    "lat": 43.2022018432617,
+    "lon": 1.05111002922058
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Moussoulens",
+    "name": "Moussoulens Air Base",
+    "icao": "LF34",
+    "lat": 43.279701,
+    "lon": 2.20885
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Pamiers/Les Pujols",
+    "name": "Pamiers-Les Pujols Airport",
+    "icao": "LFDJ",
+    "lat": 43.0905990600585,
+    "lon": 1.69582998752594
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Pontivy",
+    "name": "Montargis Vimory Airport",
+    "icao": "LFEM",
+    "lat": 47.9606018066406,
+    "lon": 2.68583011627197
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Revel",
+    "name": "AÃ©rodrome de la Montagne Noire",
+    "icao": "LFMG",
+    "lat": 43.407501,
+    "lon": 1.99028
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Rochefort",
+    "name": "Castelnau Magnoac Airport",
+    "icao": "LFDQ",
+    "lat": 43.2793998718261,
+    "lon": 0.521667003631591
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Rochefort",
+    "name": "Lesparre St Laurent Medoc Airport",
+    "icao": "LFDU",
+    "lat": 45.1977996826171,
+    "lon": -0.88222199678421
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Rodez",
+    "name": "Villefranche De Rouergue Airport",
+    "icao": "LFCV",
+    "lat": 44.3699989318847,
+    "lon": 2.02805995941162
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Saint-Affrique/Belmont",
+    "name": "Saint-Affrique-Belmont Airport",
+    "icao": "LFIF",
+    "lat": 43.8232994079589,
+    "lon": 2.74528002738952
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Saint-laurent-blangy",
+    "name": "Arras Roclincourt Airfield",
+    "icao": "LFQD",
+    "lat": 50.323898,
+    "lon": 2.80278
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "SÃ©zanne",
+    "name": "SÃ©zanne St RÃ©my Airfield",
+    "icao": "LFFZ",
+    "lat": 48.710602,
+    "lon": 3.76417
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Soissons-Cuffies",
+    "name": "AÃ©rodrome de Soissons-Cuffies",
+    "icao": "LFAH",
+    "lat": 49.400002,
+    "lon": 3.317
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Soucelles",
+    "name": "AÃ©rodrome privÃ© de Soucelles",
+    "icao": "LF50",
+    "lat": 47.580399,
+    "lon": -0.412269
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Verdun",
+    "name": "St Chamond L'horme Airport",
+    "icao": "LFHG",
+    "lat": 45.4930992126464,
+    "lon": 4.53556013107299
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Verdun",
+    "name": "Langogne - LespÃ©ron Airport",
+    "icao": "LFHL",
+    "lat": 44.7064018249511,
+    "lon": 3.88832998275756
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Villacoublay",
+    "name": "BrÃ©tigny sur Orge Air Base",
+    "icao": "LFPY",
+    "lat": 48.5961,
+    "lon": 2.33222
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Villefranche",
+    "name": "Lapalisse - PÃ©rigny Airport",
+    "icao": "LFHX",
+    "lat": 46.2538986206,
+    "lon": 3.58860993385
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Villerupt",
+    "name": "AÃ©rodrome de Villerupt",
+    "icao": "LFAW",
+    "lat": 49.4114,
+    "lon": 5.89056
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Pays-de-la-Loire",
+    "name": "Saint Sulpice des Landes",
+    "icao": "LFSS",
+    "lat": 47.7916667,
+    "lon": -1.643611
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Mont sur Meurthe",
+    "icao": "FR-0323",
+    "lat": 48.543823,
+    "lon": 6.441912
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "Crottet-Le Bief ULM",
+    "icao": "FR-0327",
+    "lat": 46.285127,
+    "lon": 4.88604
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Brittany",
+    "name": "Base ULM de Kerfot",
+    "icao": "FR-0330",
+    "lat": 48.723882,
+    "lon": -3.027055
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "Club ULM Haut Doubs",
+    "icao": "FR-0332",
+    "lat": 47.177725,
+    "lon": 6.813583
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "Verneuil en Bourbonnais",
+    "icao": "FR-0334",
+    "lat": 46.359444,
+    "lon": 3.268056
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Pays-de-la-Loire",
+    "name": "PlessÃ© ULM",
+    "icao": "FR-0336",
+    "lat": 47.52591,
+    "lon": -1.841293
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "BiguÃ¨s Carlucet ULM",
+    "icao": "FR-0338",
+    "lat": 44.744167,
+    "lon": 1.618333
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grand Est",
+    "name": "Ramonchamp ULM",
+    "icao": "FR-0340",
+    "lat": 47.895556,
+    "lon": 6.755278
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Brittany",
+    "name": "Base ULM de Mellac",
+    "icao": "FR-0347",
+    "lat": 47.9115647,
+    "lon": -3.5677212
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "Base Hydro-ULM du Barrage de Pareloup",
+    "icao": "FR-0360",
+    "lat": 44.207865,
+    "lon": 2.722807
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "Fromissard ULM",
+    "icao": "FR-0371",
+    "lat": 44.003856,
+    "lon": 1.229357
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Auvergne-RhÃ´ne-Alpes",
+    "name": "Mont Blanc HÃ©licoptÃ¨res",
+    "icao": "FR-0375",
+    "lat": 45.57524,
+    "lon": 6.83133
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Provence-Alpes-CÃ´te-d'Azur",
+    "name": "Vars Helistrip",
+    "icao": "FR-0379",
+    "lat": 44.548963,
+    "lon": 6.701518
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Bourgogne-Franche-ComtÃ©",
+    "name": "Base ULM de Fontaine les Clerval",
+    "icao": "FR-0381",
+    "lat": 47.4208887,
+    "lon": 6.4593714
+  },
+  {
+    "country": "France",
+    "state": "Corsica",
+    "city": "Corsica",
+    "name": "Base ULM d'Aghione Casone",
+    "icao": "FR-0383",
+    "lat": 42.1018478,
+    "lon": 9.4156253
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Nouvelle-Aquitaine",
+    "name": "Aerodrome des Salles",
+    "icao": "FR-0385",
+    "lat": 45.741212,
+    "lon": 0.669841
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Nouvelle-Aquitaine",
+    "name": "Base ULM Les ChÃ¢teaux",
+    "icao": "FR-0387",
+    "lat": 47.335432,
+    "lon": 1.274904
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Pays-de-la-Loire",
+    "name": "AÃ©rodrome de Monhoudou",
+    "icao": "FR-0183",
+    "lat": 48.2758993,
+    "lon": 0.3257194
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "Torre-Blanc Llauro",
+    "icao": "FR-0408",
+    "lat": 42.550278,
+    "lon": 2.731389
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "AÃ©rodrome de SabonnÃ¨res",
+    "icao": "FR-0416",
+    "lat": 43.455707,
+    "lon": 1.07548
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Occitanie",
+    "name": "Altisurface LF0654 Valberg",
+    "icao": "FR-0420",
+    "lat": 44.106039,
+    "lon": 6.940602
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Aix En Provence",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0187",
+    "lat": 43.5347213745117,
+    "lon": 5.44222211837768
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Albertville",
+    "name": "Crs Alpes Heliport",
+    "icao": "FR-0222",
+    "lat": 45.6569442749023,
+    "lon": 6.37611103057861
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Amance",
+    "name": "Base Hydro-ULM d'Amance",
+    "icao": "FR-0357",
+    "lat": 48.3508333333,
+    "lon": 4.505
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Amiens",
+    "name": "Centre Hospitalier Universitaire Nord Heliport",
+    "icao": "FR-0315",
+    "lat": 49.906744,
+    "lon": 2.295928
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Amphion",
+    "name": "Societe des Eaux Minerales D'Evian Heliport",
+    "icao": "FR-0244",
+    "lat": 46.3908348083496,
+    "lon": 6.51194381713867
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Angers",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0161",
+    "lat": 47.4902763366699,
+    "lon": -0.554166972637176
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Angouleme",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0180",
+    "lat": 45.6341667175293,
+    "lon": 0.117778003215789
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Antibes",
+    "name": "Port Vauban Heliport",
+    "icao": "FR-0199",
+    "lat": 43.5880546569824,
+    "lon": 7.13222217559814
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Aramits",
+    "name": "Escary Aramits",
+    "icao": "FR-0020",
+    "lat": 43.121208,
+    "lon": -0.742491
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Argentan",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0140",
+    "lat": 48.7466659545898,
+    "lon": -0.0177779998630285
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Aubenas",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0209",
+    "lat": 44.6141662597656,
+    "lon": 4.39750003814697
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Auch",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0116",
+    "lat": 43.6313896179199,
+    "lon": 0.573333024978637
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Aulnay Sous Bois",
+    "name": "Centre Hospitalier Intercommunal Robert Ballanger Heliport",
+    "icao": "FR-0083",
+    "lat": 48.955555,
+    "lon": 2.520833
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Auxerre",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0034",
+    "lat": 47.804443359375,
+    "lon": 3.55777788162231
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Avignon",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0186",
+    "lat": 43.9202766418457,
+    "lon": 4.79888916015625
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Aynac",
+    "name": "AÃ©rodrome d'Aynac ULM",
+    "icao": "FR-0391",
+    "lat": 44.796911,
+    "lon": 1.836498
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Balesta",
+    "name": "Base ULM Le Tucoulet",
+    "icao": "FR-0419",
+    "lat": 43.201258,
+    "lon": 0.547353
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "BarÃ¨ges",
+    "name": "Altisurface de Castillon De La Laquette",
+    "icao": "FR-0253",
+    "lat": 42.895557,
+    "lon": 0.100556
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Beauvais",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0316",
+    "lat": 49.449339,
+    "lon": 2.068497
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Besancon",
+    "name": "HÃ´pital Jean Minjoz Heliport",
+    "icao": "FR-0078",
+    "lat": 47.2258338928222,
+    "lon": 5.96416711807251
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Bois Bernard",
+    "name": "Polyclinique Heliport",
+    "icao": "FR-0132",
+    "lat": 50.3754081726074,
+    "lon": 2.9097089767456
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Boissey",
+    "name": "ZTN Air ULM",
+    "icao": "FR-0388",
+    "lat": 49.0139,
+    "lon": 0.03611
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Bordeaux",
+    "name": "Robert PiquÃ© HÃ´pital Militaire Heliport",
+    "icao": "FR-0027",
+    "lat": 44.7999992370605,
+    "lon": -0.574167013168335
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Bourges",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0059",
+    "lat": 47.0841674804687,
+    "lon": 2.43527793884277
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Brest",
+    "name": "La Cavale Blanche Centre Hospitalier Heliport",
+    "icao": "FR-0053",
+    "lat": 48.4035301208496,
+    "lon": -4.52956676483154
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Briancon",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0188",
+    "lat": 44.9063873291015,
+    "lon": 6.6327781677246
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Brignoles",
+    "name": "HÃ´pital Jean Marcel Heliport",
+    "icao": "FR-0193",
+    "lat": 43.4030570983886,
+    "lon": 6.0663890838623
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Buzet sur Tarn",
+    "name": "Buzet sur Tarn Aerodrome",
+    "icao": "FR-0368",
+    "lat": 43.768147,
+    "lon": 1.60426
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Cannes",
+    "name": "Quai Du Large Heliport",
+    "icao": "FR-0200",
+    "lat": 43.545112,
+    "lon": 7.01713
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Carcassonne",
+    "name": "Gayraud Centre Hospitalier Heliport",
+    "icao": "FR-0094",
+    "lat": 43.1911125183105,
+    "lon": 2.34111094474792
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Carpentras",
+    "name": "Centre De Secours Heliport",
+    "icao": "FR-0185",
+    "lat": 44.0466651916503,
+    "lon": 5.02583312988281
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Castellane",
+    "name": "Col de LÃ¨ques",
+    "icao": "FR-0322",
+    "lat": 43.86661,
+    "lon": 6.463966
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Cathervieille",
+    "name": "Altisurface de Honteyde",
+    "icao": "FR-0283",
+    "lat": 42.837223,
+    "lon": 0.502222
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Chabeuil",
+    "name": "Relais Du Soleil Heliport",
+    "icao": "FR-0240",
+    "lat": 44.9097213745117,
+    "lon": 5.02250003814697
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Chalancon",
+    "name": "LF2621 - Altisurface de Faucon",
+    "icao": "FR-0421",
+    "lat": 44.535942,
+    "lon": 5.308027
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Challans",
+    "name": "Challans Heliport",
+    "icao": "FR-0164",
+    "lat": 46.8537292480468,
+    "lon": -1.83056902885437
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Chalmazel",
+    "name": "Altiport du Col du BÃ©al",
+    "icao": "FR-0263",
+    "lat": 45.679169,
+    "lon": 3.788889
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Chalons-Sur-Saone",
+    "name": "Centre Hospitalier W. Morey Heliport",
+    "icao": "FR-0043",
+    "lat": 46.7783317565918,
+    "lon": 4.85916709899902
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Chamonix",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0218",
+    "lat": 45.9144439697265,
+    "lon": 6.86305618286132
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Chamonix",
+    "name": "Refuge Du Requin Heliport",
+    "icao": "FR-0239",
+    "lat": 45.88472366333,
+    "lon": 6.93055582046508
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Chamonix",
+    "name": "Glacier d'ArgentiÃ¨re Altiport",
+    "icao": "FR-0270",
+    "lat": 45.941666,
+    "lon": 7.0
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Chamonix",
+    "name": "Altisurface du Glacier Du Dome Du Gouter",
+    "icao": "FR-0276",
+    "lat": 45.845833,
+    "lon": 6.85
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Chamonix",
+    "name": "Altisurface du Glacier Du Tour",
+    "icao": "FR-0278",
+    "lat": 45.99999,
+    "lon": 7.0
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Chartres",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0061",
+    "lat": 48.4199981689453,
+    "lon": 1.50472199916839
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Chateauroux",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0062",
+    "lat": 46.7994422912597,
+    "lon": 1.69749999046325
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Chatillon Sur Seine",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0037",
+    "lat": 47.8622207641601,
+    "lon": 4.55805587768554
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Chauny",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0171",
+    "lat": 49.6261100769043,
+    "lon": 3.23749995231628
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Cherbourg",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0137",
+    "lat": 49.6388893127441,
+    "lon": -1.61111104488372
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Cholet",
+    "name": "Centre Hospitalier Cholet Heliport",
+    "icao": "FR-0159",
+    "lat": 47.0422210693359,
+    "lon": -0.895833015441894
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Clamart",
+    "name": "HÃ´pital D'Instruction Des ArmÃ©es De Percy Heliport",
+    "icao": "FR-0088",
+    "lat": 48.8142013549804,
+    "lon": 2.25389003753662
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Claveisolles",
+    "name": "Altiport de la Croix Rosier",
+    "icao": "FR-0256",
+    "lat": 46.078056,
+    "lon": 4.547222
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Clermont-Ferrand",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0030",
+    "lat": 45.7569427490234,
+    "lon": 3.0919439792633
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Coligny",
+    "name": "Travaux Aeriens Bouquemont Heliport",
+    "icao": "FR-0074",
+    "lat": 48.8516654968261,
+    "lon": 3.96722197532653
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Coquelles",
+    "name": "Coquelles Eurotunnel Heliport",
+    "icao": "FR-0130",
+    "lat": 50.9180564880371,
+    "lon": 1.79499995708465
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Corbeil",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0081",
+    "lat": 48.5955543518066,
+    "lon": 2.48111104965209
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Corneilla-la-RiviÃ¨re",
+    "name": "Base ULM Corneilla de la RiviÃ¨re",
+    "icao": "FR-0399",
+    "lat": 42.690858,
+    "lon": 2.730124
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Creteil",
+    "name": "Centre Hospitalier Henri Mondor Heliport",
+    "icao": "FR-0082",
+    "lat": 48.7988891601562,
+    "lon": 2.4536108970642
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "D'Argeles Gazost",
+    "name": "Cabaliros Altiport",
+    "icao": "FR-0250",
+    "lat": 42.952496,
+    "lon": -0.133166
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Dax",
+    "name": "Castets Heliport",
+    "icao": "FR-0010",
+    "lat": 43.9166679382324,
+    "lon": -1.15694403648376
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Dax",
+    "name": "Herm Heliport",
+    "icao": "FR-0021",
+    "lat": 43.82222366333,
+    "lon": -1.11111104488372
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Dax",
+    "name": "Tinon Heliport",
+    "icao": "FR-0028",
+    "lat": 43.7333335876464,
+    "lon": -1.17777800559997
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Dijon",
+    "name": "Centre Hospitalier RÃ©gional Heliport",
+    "icao": "FR-0042",
+    "lat": 47.3172225952148,
+    "lon": 5.02694416046142
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Divonne",
+    "name": "HÃ´tel Du ChÃ¢teau Heliport",
+    "icao": "FR-0230",
+    "lat": 46.358055114746,
+    "lon": 6.13250017166137
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Dole",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0076",
+    "lat": 47.0833320617675,
+    "lon": 5.47222185134887
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Dommartin Les Toul",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0110",
+    "lat": 48.6707077026367,
+    "lon": 5.92931079864501
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Douai",
+    "name": "Usine Renault Heliport",
+    "icao": "FR-0133",
+    "lat": 50.3622207641601,
+    "lon": 3.0377779006958
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Dreux",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0060",
+    "lat": 48.7275009155273,
+    "lon": 1.38472199440002
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Dunkerque",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0126",
+    "lat": 51.037498474121,
+    "lon": 2.39666700363159
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Fabas",
+    "name": "Fabas Bordeneuve",
+    "icao": "FR-0407",
+    "lat": 43.109722,
+    "lon": 1.117222
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "FerrÃ¨re",
+    "name": "Altisurface de FerrÃ¨re Batmale",
+    "icao": "FR-0269",
+    "lat": 42.888332,
+    "lon": 0.498889
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Flaine",
+    "name": "Flaine-Hiver Heliport",
+    "icao": "FR-0224",
+    "lat": 46.0038871765136,
+    "lon": 6.69027805328369
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Flins-sur-Seine",
+    "name": "Flins Heliport",
+    "icao": "FR-0087",
+    "lat": 48.9819450378418,
+    "lon": 1.86388897895812
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Foix",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0118",
+    "lat": 42.9527778625488,
+    "lon": 1.61111104488372
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Font Romeu-Odeillo",
+    "name": "Altiport du Plateau de la Calme",
+    "icao": "FR-0300",
+    "lat": 42.530556,
+    "lon": 2.004167
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Forges Les Eaux",
+    "name": "Casino Heliport",
+    "icao": "FR-0148",
+    "lat": 49.599998474121,
+    "lon": 1.53333294391632
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Frejus",
+    "name": "HÃ´pital Bonnet Heliport",
+    "icao": "FR-0189",
+    "lat": 43.4397201538085,
+    "lon": 6.75166702270507
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Fresnoy-le-Grand",
+    "name": "Base ULM de Fresnoy le Grand",
+    "icao": "FR-0362",
+    "lat": 49.947375,
+    "lon": 3.393068
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Gap",
+    "name": "HÃ´pital Heliport",
+    "icao": "FR-0192",
+    "lat": 44.5574989318847,
+    "lon": 6.07333278656005
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Gaussan",
+    "name": "Gaussan ULM",
+    "icao": "FR-0370",
+    "lat": 43.219115,
+    "lon": 0.473498
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Golfe de Saint Tropez",
+    "name": "Base Hydro-ULM de St Tropez",
+    "icao": "FR-0366",
+    "lat": 43.272776,
+    "lon": 6.608889
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Grand Colombier",
+    "name": "Grand Colombier Heliport",
+    "icao": "FR-0225",
+    "lat": 45.8813896179199,
+    "lon": 5.75750017166137
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Granville",
+    "name": "Centre Hospitalier J. Monod Heliport",
+    "icao": "FR-0142",
+    "lat": 48.849998474121,
+    "lon": -1.58333301544189
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Grasse",
+    "name": "HÃ´pital Clavary Heliport",
+    "icao": "FR-0190",
+    "lat": 43.6197204589843,
+    "lon": 6.92888879776001
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Grostenquin",
+    "name": "Grostenquin Air Base",
+    "icao": "FR-0346",
+    "lat": 49.0214762,
+    "lon": 6.7143418
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Guyancourt",
+    "name": "Les Sangliers Heliport",
+    "icao": "FR-0090",
+    "lat": 48.7835388183593,
+    "lon": 2.07165002822875
+  },
+  {
+    "country": "France",
+    "state": "(unassigned)",
+    "city": "ÃŽle de Clipperton",
+    "name": "Clipperton Island Landing Strip",
+    "icao": "FR-0378",
+    "lat": 10.313828,
+    "lon": -109.230497
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Illkirch-Graffenstaden",
+    "name": "Graffenstaden Centre Hospitalier Heliport",
+    "icao": "FR-0006",
+    "lat": 48.5372467041015,
+    "lon": 7.72171878814697
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Jobourg",
+    "name": "Crossma Heliport",
+    "icao": "FR-0143",
+    "lat": 49.6851234436035,
+    "lon": -1.90995395183563
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Juan-les-Pins",
+    "name": "Base Hydro-ULM Juan Les Pins",
+    "icao": "FR-0350",
+    "lat": 43.565548,
+    "lon": 7.1024686
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Jussy",
+    "name": "Camas Heliport",
+    "icao": "FR-0167",
+    "lat": 49.7324981689453,
+    "lon": 3.21476411819458
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "L'Aigle",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0141",
+    "lat": 48.7670516967773,
+    "lon": 0.610323011875152
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "La Clusaz",
+    "name": "Altisurface de La Clusaz",
+    "icao": "FR-0285",
+    "lat": 45.873611,
+    "lon": 6.425
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "La Salette",
+    "name": "Altisurface de Notre-Dame-de-la-Salette",
+    "icao": "FR-0288",
+    "lat": 44.836666,
+    "lon": 5.9625
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "La Teste De Buch",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0012",
+    "lat": 44.6313896179199,
+    "lon": -1.16277801990509
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "La TrancliÃ¨re",
+    "name": "La TrancliÃ¨re Private Airstrip",
+    "icao": "FR-0341",
+    "lat": 46.0957591958,
+    "lon": 5.2860195
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Labastide-Saint-Sernin",
+    "name": "Base ULM de Labastide St Sernin",
+    "icao": "FR-0417",
+    "lat": 43.73298,
+    "lon": 1.459293
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Lacanau",
+    "name": "Le Huga Heliport",
+    "icao": "FR-0023",
+    "lat": 45.0069427490234,
+    "lon": -1.16472196578979
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Lannion",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0049",
+    "lat": 48.7227783203125,
+    "lon": -3.46527791023254
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Lavours",
+    "name": "Lavours",
+    "icao": "FR-0342",
+    "lat": 45.7957181,
+    "lon": 5.77395432
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Le Creusot",
+    "name": "Centre Hospitalier Hotel Dieu Heliport",
+    "icao": "FR-0040",
+    "lat": 46.8050003051757,
+    "lon": 4.44888877868652
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Le Havre",
+    "name": "Hopital Jacques Monod Heliport",
+    "icao": "FR-0156",
+    "lat": 49.5247230529785,
+    "lon": 0.184722006320953
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Le Praz De Lys",
+    "name": "RemontÃ©es MÃ©caniques Heliport",
+    "icao": "FR-0241",
+    "lat": 46.1486091613769,
+    "lon": 6.58194398880004
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Les Angles",
+    "name": "Mont Llaret Roc d'Aude Airfield",
+    "icao": "FR-0297",
+    "lat": 42.580555,
+    "lon": 2.025
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Lesparre",
+    "name": "Clinique Du Medoc Heliport",
+    "icao": "FR-0019",
+    "lat": 45.3027877807617,
+    "lon": -0.937885999679565
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Limoux",
+    "name": "Ulmodrome de Limoux",
+    "icao": "FR-0329",
+    "lat": 43.05666,
+    "lon": 2.22633
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Lorient",
+    "name": "Bretagne Sud Centre Hospitalier Heliport",
+    "icao": "FR-0047",
+    "lat": 47.7497215270996,
+    "lon": -3.37805604934692
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "LuÃ§on",
+    "name": "LuÃ§on - Chasnais Aerodrome",
+    "icao": "FR-0320",
+    "lat": 46.461913,
+    "lon": -1.241447
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Lyon",
+    "name": "HÃ´pital Edouard-Herriot Heliport",
+    "icao": "FR-0227",
+    "lat": 45.7442207336425,
+    "lon": 4.88453292846679
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Magland",
+    "name": "Magland Heliport",
+    "icao": "FR-0236",
+    "lat": 45.9833335876464,
+    "lon": 6.71666717529296
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Mantes La Jolie",
+    "name": "Centre Hospitalier F. Quesnay Heliport",
+    "icao": "FR-0079",
+    "lat": 48.999168395996,
+    "lon": 1.67499995231628
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Marckolsheim",
+    "name": "Envol ULM Alsace",
+    "icao": "FR-0333",
+    "lat": 48.151278,
+    "lon": 7.537673
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Margaux",
+    "name": "Relais De Margaux Heliport",
+    "icao": "FR-0026",
+    "lat": 45.0529556274414,
+    "lon": -0.662249982357025
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Marseille",
+    "name": "Berre/Marignane",
+    "icao": "FR-0182",
+    "lat": 43.4500007629394,
+    "lon": 5.21666717529296
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Marseille",
+    "name": "Marseille Hydro",
+    "icao": "FR-0361",
+    "lat": 43.29909,
+    "lon": 5.347612
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Martigues",
+    "name": "Base Hydro-ULM \"Henri Fabre\"",
+    "icao": "FR-0358",
+    "lat": 43.420833,
+    "lon": 5.077778
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Mens",
+    "name": "Mens Airstrip",
+    "icao": "FR-0321",
+    "lat": 44.805057,
+    "lon": 5.7544
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Mont de Lans",
+    "name": "Altisurface DÃ´me de la Lauze",
+    "icao": "FR-0268",
+    "lat": 44.998611,
+    "lon": 6.245833
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Montclus",
+    "name": "Altisurface du Grand Terrus",
+    "icao": "FR-0280",
+    "lat": 44.422779,
+    "lon": 5.644167
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Montpellier",
+    "name": "Le Corum Heliport",
+    "icao": "FR-0096",
+    "lat": 43.6136093139648,
+    "lon": 3.88222193717956
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Montpezat",
+    "name": "Montpezat d'Agenais",
+    "icao": "FR-0411",
+    "lat": 44.364167,
+    "lon": 0.491389
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Montrevel-en-Bresse",
+    "name": "Base Hydro-ULM de Montrevel-en-Bresse",
+    "icao": "FR-0352",
+    "lat": 46.34499,
+    "lon": 5.142219
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Moutiers",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0216",
+    "lat": 45.4836120605468,
+    "lon": 6.53555583953857
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Nancy",
+    "name": "HÃ´pital Central Heliport",
+    "icao": "FR-0113",
+    "lat": 48.6852798461914,
+    "lon": 6.19250011444091
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Narbonne",
+    "name": "St Cressent Heliport",
+    "icao": "FR-0099",
+    "lat": 43.1736106872558,
+    "lon": 2.99083304405212
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Nevers",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0036",
+    "lat": 46.981388092041,
+    "lon": 3.1222219467163
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Nice",
+    "name": "HÃ´pital L'Archet 2 Heliport",
+    "icao": "FR-0194",
+    "lat": 43.6974983215332,
+    "lon": 7.22611093521118
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Nyons",
+    "name": "Clinique Pneumologique des rieux Heliport",
+    "icao": "FR-0220",
+    "lat": 44.358055114746,
+    "lon": 5.14972209930419
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Paris",
+    "name": "Centre Hospitalier La PitiÃ© SalpÃ©triÃ¨re Heliport",
+    "icao": "FR-0084",
+    "lat": 48.8372230529785,
+    "lon": 2.36138892173767
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Perigueux",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0015",
+    "lat": 45.1917533874511,
+    "lon": 0.73156201839447
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Peyrillac",
+    "name": "AÃ©rodrome de Peyrillac",
+    "icao": "FR-0395",
+    "lat": 44.889715,
+    "lon": 1.416185
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Pic Croix de Belledonne",
+    "name": "Altiport du Col De Belledonne",
+    "icao": "FR-0258",
+    "lat": 45.166668,
+    "lon": 5.9875
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Pierremande",
+    "name": "Base Ulm du Val de l'Ailette",
+    "icao": "FR-0353",
+    "lat": 49.567443,
+    "lon": 3.230307
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Poissy",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0080",
+    "lat": 48.9177131652832,
+    "lon": 2.02325201034545
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Pontarlier",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0077",
+    "lat": 46.9005546569824,
+    "lon": 6.35972213745117
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Port Joinville (Ile D'Yeu)",
+    "name": "Ile D'Yeu Port Joinville Heliport",
+    "icao": "FR-0165",
+    "lat": 46.7282257,
+    "lon": -2.35029888
+  },
+  {
+    "country": "France",
+    "state": "Corsica",
+    "city": "Porto Vecchio",
+    "name": "Helisudcorse",
+    "icao": "FR-0422",
+    "lat": 41.5799,
+    "lon": 9.27696
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Pouech d'Ardio",
+    "name": "Altiport d'Ustou",
+    "icao": "FR-0413",
+    "lat": 42.78137,
+    "lon": 1.22577
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Puyvalador",
+    "name": "Altiport du Col de la Marrano",
+    "icao": "FR-0261",
+    "lat": 42.662498,
+    "lon": 2.166667
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Quimper",
+    "name": "Cornouailles Heliport",
+    "icao": "FR-0052",
+    "lat": 47.9852752685546,
+    "lon": -4.09610986709594
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Rang Du Fliers",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0127",
+    "lat": 50.4144439697265,
+    "lon": 1.66305601596832
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Reims",
+    "name": "Centre Hospitalier RÃ©gional Heliport",
+    "icao": "FR-0069",
+    "lat": 49.2258338928222,
+    "lon": 4.01861095428466
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Rennes",
+    "name": "Pont Chaillou Heliport",
+    "icao": "FR-0055",
+    "lat": 48.1230545043945,
+    "lon": -1.69611096382141
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Rocroi",
+    "name": "Rocroi RCAF Air Base",
+    "icao": "FR-0343",
+    "lat": 49.9154166,
+    "lon": 4.4266285
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Romans",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0208",
+    "lat": 45.0419425964355,
+    "lon": 5.0219440460205
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Romorantin",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0057",
+    "lat": 47.3605575561523,
+    "lon": 1.73194396495819
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Roquefort-sur-Garonne",
+    "name": "Altisurface de Balesta Nature",
+    "icao": "FR-0249",
+    "lat": 43.153646,
+    "lon": 0.995063
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Rouen",
+    "name": "Grand Couronne Heliport",
+    "icao": "FR-0155",
+    "lat": 49.3502311706543,
+    "lon": 0.980581998825073
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Sadournin",
+    "name": "Sadournin Airfield",
+    "icao": "FR-0401",
+    "lat": 43.32606,
+    "lon": 0.415109
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Saint Jean D'Ardieres",
+    "name": "ChÃ¢teau De PÃ©zay Heliport",
+    "icao": "FR-0219",
+    "lat": 46.1369438171386,
+    "lon": 4.70166683197021
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Saint Maixant",
+    "name": "Chateau De Saint Maixant Heliport",
+    "icao": "FR-0108",
+    "lat": 45.99361038208,
+    "lon": 2.20888900756835
+  },
+  {
+    "country": "France",
+    "state": "Hauts-de-France",
+    "city": "Saint Quentin",
+    "name": "Base ULM de Saint Quentin",
+    "icao": "FR-0344",
+    "lat": 49.852505,
+    "lon": 3.336229
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Saint-Avold",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0111",
+    "lat": 49.1122207641601,
+    "lon": 6.72166681289672
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Saint-Dizier",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0067",
+    "lat": 48.6316680908203,
+    "lon": 4.94944381713867
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Saint-Etienne",
+    "name": "HÃ´pital Bellevue Heliport",
+    "icao": "FR-0226",
+    "lat": 45.4113883972168,
+    "lon": 4.39166688919067
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Saint-Feyre",
+    "name": "Centre MÃ©dical Heliport",
+    "icao": "FR-0106",
+    "lat": 46.1333312988281,
+    "lon": 1.88333296775817
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Saint-Laurent-de-la-Salanque",
+    "name": "Base Hydro-ULM La Salanque LatÃ©coÃ¨re",
+    "icao": "FR-0369",
+    "lat": 42.81667,
+    "lon": 3.0
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Saint-Lo",
+    "name": "HÃ´pital de Saint-Lo Heliport",
+    "icao": "FR-0146",
+    "lat": 49.1052780151367,
+    "lon": -1.10611104965209
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Saint-Malo",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0048",
+    "lat": 48.6388893127441,
+    "lon": -2.00833296775817
+  },
+  {
+    "country": "France",
+    "state": "Pays-de-la-Loire",
+    "city": "Saint-Nazaire",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0160",
+    "lat": 47.2758331298828,
+    "lon": -2.2366669178009
+  },
+  {
+    "country": "France",
+    "state": "ÃŽle-de-France",
+    "city": "Saint-Ouen L'Aumone",
+    "name": "Saint-Ouen L'Aumone Heliport",
+    "icao": "FR-0091",
+    "lat": 49.0577774047851,
+    "lon": 2.14472198486328
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Sandouville",
+    "name": "Usine Renault Heliport",
+    "icao": "FR-0157",
+    "lat": 49.4766654968261,
+    "lon": 0.302500009536743
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Sarlat",
+    "name": "La CanÃ©da Centre Hospitalier Heliport",
+    "icao": "FR-0022",
+    "lat": 44.9002494812011,
+    "lon": 1.22312402725219
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Saverne",
+    "name": "Centre Hospitalier Sainte Catherine Heliport",
+    "icao": "FR-0005",
+    "lat": 48.7455558776855,
+    "lon": 7.35111093521118
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Semur-En-Auxois",
+    "name": "Centre Hospitalier Heliport",
+    "icao": "FR-0039",
+    "lat": 47.4955558776855,
+    "lon": 4.34444379806518
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Sentenac-d'Oust",
+    "name": "Altisurface de la Plagne-Bouirex",
+    "icao": "FR-0287",
+    "lat": 42.866669,
+    "lon": 1.138333
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "St Sorlin D'Arves",
+    "name": "Altisurface de la Pointe de l'Ouillon",
+    "icao": "FR-0301",
+    "lat": 45.241669,
+    "lon": 6.216667
+  },
+  {
+    "country": "France",
+    "state": "Grand Est",
+    "city": "Strasbourg",
+    "name": "Centre Hospitalier Hautepierre Heliport",
+    "icao": "FR-0002",
+    "lat": 48.593334197998,
+    "lon": 7.70499992370605
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Thorame-Haute",
+    "name": "Altisurface de Thorame--Haute Chamatte",
+    "icao": "FR-0305",
+    "lat": 44.139721,
+    "lon": 6.548333
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Thorame-Haute",
+    "name": "Altisurface de Thorame--Haute Les Serres (2)",
+    "icao": "FR-0307",
+    "lat": 44.115002,
+    "lon": 6.538611
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Tignes",
+    "name": "Altiport de la ToviÃ¨re",
+    "icao": "FR-0293",
+    "lat": 45.465557,
+    "lon": 6.934722
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Toulon",
+    "name": "Milhaud Heliport",
+    "icao": "FR-0197",
+    "lat": 43.1133346557617,
+    "lon": 5.89805603027343
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Toulouse Rangueil Pech David",
+    "name": "Toulouse Rangueil Pech David Heliport",
+    "icao": "FR-0123",
+    "lat": 43.5613899230957,
+    "lon": 1.44861102104187
+  },
+  {
+    "country": "France",
+    "state": "Centre-Val de Loire",
+    "city": "Tours",
+    "name": "Trousseau Chu Heliport",
+    "icao": "FR-0064",
+    "lat": 47.3488883972168,
+    "lon": 0.709167003631591
+  },
+  {
+    "country": "France",
+    "state": "Occitanie",
+    "city": "Troye d'AriÃ¨ge",
+    "name": "Troye d'AriÃ¨ge ULM",
+    "icao": "FR-0355",
+    "lat": 43.0200429348,
+    "lon": 1.8775087595
+  },
+  {
+    "country": "France",
+    "state": "Provence-Alpes-CÃ´te-d'Azur",
+    "city": "Valbonne",
+    "name": "Sophia AntÃ©polis Heliport",
+    "icao": "FR-0203",
+    "lat": 43.6227798461914,
+    "lon": 7.02833318710327
+  },
+  {
+    "country": "France",
+    "state": "Bourgogne-Franche-ComtÃ©",
+    "city": "Valduc",
+    "name": "Centre d'Etude du C.E.A. Heliport",
+    "icao": "FR-0032",
+    "lat": 47.5833320617675,
+    "lon": 4.90000009536743
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Valloire",
+    "name": "Altisurface de Valloire - Bonnenuit",
+    "icao": "FR-0310",
+    "lat": 45.121113,
+    "lon": 6.419444
+  },
+  {
+    "country": "France",
+    "state": "Brittany",
+    "city": "Vannes",
+    "name": "Chubert Centre Hospitalier Heliport",
+    "icao": "FR-0051",
+    "lat": 47.6661109924316,
+    "lon": -2.7472219467163
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Varces",
+    "name": "Quartier-Reynies Heliport",
+    "icao": "FR-0238",
+    "lat": 45.099998474121,
+    "lon": 5.68333292007446
+  },
+  {
+    "country": "France",
+    "state": "Nouvelle-Aquitaine",
+    "city": "Varetz",
+    "name": "ChÃ¢teau Castel Novel Heliport",
+    "icao": "FR-0107",
+    "lat": 45.1833343505859,
+    "lon": 1.45000004768371
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Verneuil",
+    "name": "Center Parc Heliport",
+    "icao": "FR-0149",
+    "lat": 48.724998474121,
+    "lon": 0.836111009120941
+  },
+  {
+    "country": "France",
+    "state": "Auvergne-RhÃ´ne-Alpes",
+    "city": "Vonnas",
+    "name": "HÃ´tel Georges Blanc Heliport",
+    "icao": "FR-0231",
+    "lat": 46.220832824707,
+    "lon": 4.9888892173767
+  },
+  {
+    "country": "France",
+    "state": "Normandy",
+    "city": "Yvetot",
+    "name": "Yvetot-Baons Le Comte Airfield",
+    "icao": "LFYV",
+    "lat": 49.638411,
+    "lon": 0.730337
+  }
+]

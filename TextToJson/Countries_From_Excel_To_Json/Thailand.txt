@@ -1,0 +1,263 @@
+[
+  {
+    "country": "Thailand",
+    "state": "Bangkok Province",
+    "city": "Bangkok",
+    "name": "Suvarnabhumi Airport",
+    "icao": "VTBS",
+    "lat": 13.6810998916625,
+    "lon": 100.747001647949
+  },
+  {
+    "country": "Thailand",
+    "state": "Chiang Mai Province",
+    "city": "Chiang Mai",
+    "name": "Chiang Mai International Airport",
+    "icao": "VTCC",
+    "lat": 18.7667999267999,
+    "lon": 98.962600708
+  },
+  {
+    "country": "Thailand",
+    "state": "Phitsanulok Province",
+    "city": "Phitsanulok Province",
+    "name": "Phitsanulok Airport",
+    "icao": "VTPP",
+    "lat": 16.7828998565673,
+    "lon": 100.278999328613
+  },
+  {
+    "country": "Thailand",
+    "state": "Sukhothai Province",
+    "city": "Sukhothai Province",
+    "name": "Sukhothai Airport",
+    "icao": "VTPO",
+    "lat": 17.2380008697509,
+    "lon": 99.8181991577148
+  },
+  {
+    "country": "Thailand",
+    "state": "Ubon Ratchathani Province",
+    "city": "Ubon Ratchathani",
+    "name": "Ubon Ratchathani Airport",
+    "icao": "VTUU",
+    "lat": 15.2512998581,
+    "lon": 104.870002747
+  },
+  {
+    "country": "Thailand",
+    "state": "Mae Hong Son Province",
+    "city": "Mae Hong Son Province",
+    "name": "Mae Hong Son Airport",
+    "icao": "VTCH",
+    "lat": 19.3013000488281,
+    "lon": 97.9757995605468
+  },
+  {
+    "country": "Thailand",
+    "state": "Nakhon Phanom Province",
+    "city": "Nakhon Phanom Province",
+    "name": "Nakhon Phanom Airport",
+    "icao": "VTUW",
+    "lat": 17.3838005065917,
+    "lon": 104.642997741699
+  },
+  {
+    "country": "Thailand",
+    "state": "Phetchaburi Province",
+    "city": "Hua Hin",
+    "name": "Hua Hin Airport",
+    "icao": "VTPH",
+    "lat": 12.6361999512,
+    "lon": 99.951499939
+  },
+  {
+    "country": "Thailand",
+    "state": "Phetchabun Province",
+    "city": "Phetchabun Province",
+    "name": "Phetchabun Airport",
+    "icao": "VTPB",
+    "lat": 16.6760005951,
+    "lon": 101.194999695
+  },
+  {
+    "country": "Thailand",
+    "state": "Trat Province",
+    "city": "Trat Province",
+    "name": "Trat Airport",
+    "icao": "VTBO",
+    "lat": 12.274600029,
+    "lon": 102.319000244
+  },
+  {
+    "country": "Thailand",
+    "state": "Mae Hong Son Province",
+    "city": "Mae Hong Son",
+    "name": "Mae Hong Son Airport",
+    "icao": "VTCI",
+    "lat": 19.3719997406,
+    "lon": 98.43699646
+  },
+  {
+    "country": "Thailand",
+    "state": "Chon Buri Province",
+    "city": "Pattaya",
+    "name": "Pattaya Airpark",
+    "icao": "YTBF",
+    "lat": 12.8325,
+    "lon": 100.949444
+  },
+  {
+    "country": "Thailand",
+    "state": "Narathiwat Province",
+    "city": "Narathiwat Province",
+    "name": "Narathiwat Airport",
+    "icao": "VTSC",
+    "lat": 6.51991987228393,
+    "lon": 101.74299621582
+  },
+  {
+    "country": "Thailand",
+    "state": "Trang Province",
+    "city": "Trang Province",
+    "name": "Trang Airport",
+    "icao": "VTST",
+    "lat": 7.5087399482727,
+    "lon": 99.6166000366211
+  },
+  {
+    "country": "Thailand",
+    "state": "Buri Ram Province",
+    "city": "Buri Ram Province",
+    "name": "Buri Ram Airport",
+    "icao": "VTUO",
+    "lat": 15.2294998168945,
+    "lon": 103.25299835205
+  },
+  {
+    "country": "Thailand",
+    "state": "Nakhon Si Thammarat Province",
+    "city": "Nakhon Si Thammarat",
+    "name": "Nakhon Si Thammarat Airport",
+    "icao": "VTSF",
+    "lat": 8.53962039947509,
+    "lon": 99.9447021484375
+  },
+  {
+    "country": "Thailand",
+    "state": "Phrae Province",
+    "city": "Phrae Province",
+    "name": "Phrae Airport",
+    "icao": "VTCP",
+    "lat": 18.1322002410888,
+    "lon": 100.165000915527
+  },
+  {
+    "country": "Thailand",
+    "state": "Pattani Province",
+    "city": "Pattani Province",
+    "name": "Pattani Airport",
+    "icao": "VTSK",
+    "lat": 6.78545999526977,
+    "lon": 101.153999328613
+  },
+  {
+    "country": "Thailand",
+    "state": "Surin Province",
+    "city": "Surin",
+    "name": "Surin Airport",
+    "icao": "VTUJ",
+    "lat": 14.868300437927,
+    "lon": 103.49800109863
+  },
+  {
+    "country": "Thailand",
+    "state": "Lop Buri Province",
+    "city": "Lop Buri Province",
+    "name": "Sa Pran Nak Airport",
+    "icao": "VTBH",
+    "lat": 14.9493999481,
+    "lon": 100.642997742
+  },
+  {
+    "country": "Thailand",
+    "state": "Prachuap Khiri Khan Province",
+    "city": "Prachuap Khiri Khan Province",
+    "name": "Prachuap Airport",
+    "icao": "VTBP",
+    "lat": 11.78839969635,
+    "lon": 99.804702758789
+  },
+  {
+    "country": "Thailand",
+    "state": "Chiang Rai Province",
+    "city": "Chiang Rai Province",
+    "name": "Chiang Rai Airport",
+    "icao": "VTCR",
+    "lat": 19.8854007720947,
+    "lon": 99.8267974853515
+  },
+  {
+    "country": "Thailand",
+    "state": "Nakhon Sawan Province",
+    "city": "Nakhon Sawan Province",
+    "name": "Nakhon Sawan Airport",
+    "icao": "VTPN",
+    "lat": 15.6730003356933,
+    "lon": 100.137001037597
+  },
+  {
+    "country": "Thailand",
+    "state": "Satun Province",
+    "city": "Satun Province",
+    "name": "Khoun Khan Airport",
+    "icao": "VTSA",
+    "lat": 6.66139984130859,
+    "lon": 100.080001831054
+  },
+  {
+    "country": "Thailand",
+    "state": "Udon Thani Province",
+    "city": "Ban Mak Khaen",
+    "name": "Udorn Air Base",
+    "icao": "VTED",
+    "lat": 17.382999420166,
+    "lon": 102.800003051757
+  },
+  {
+    "country": "Thailand",
+    "state": "Khon Kaen Province",
+    "city": "Khon Kaen",
+    "name": "Nam Phung Dam Airport",
+    "icao": "VTUZ",
+    "lat": 16.6522006988525,
+    "lon": 102.967002868652
+  },
+  {
+    "country": "Thailand",
+    "state": "Mae Hong Son Province",
+    "city": "Mae Sariang",
+    "name": "Mae Sariang Airport",
+    "icao": "VTCS",
+    "lat": 18.1830005645751,
+    "lon": 97.9329986572265
+  },
+  {
+    "country": "Thailand",
+    "state": "Phayao Province",
+    "city": "Phayao Ban Chiang Kham",
+    "name": "Phayao Ban Chiang Kham Airport",
+    "icao": "VTCB",
+    "lat": 19.5,
+    "lon": 100.282997131347
+  },
+  {
+    "country": "Thailand",
+    "state": "Prachin Buri Province",
+    "city": "Prachin Buri Province",
+    "name": "Prachom Klao Airfield",
+    "icao": "TH-0004",
+    "lat": 14.1636034477,
+    "lon": 101.337118149
+  }
+]

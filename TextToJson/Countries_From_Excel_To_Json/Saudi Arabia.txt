@@ -1,0 +1,362 @@
+[
+  {
+    "country": "Saudi Arabia",
+    "state": "Makkah Region",
+    "city": "Jeddah",
+    "name": "King Abdulaziz International Airport",
+    "icao": "OEJN",
+    "lat": 21.6796,
+    "lon": 39.156502
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Riyadh",
+    "name": "King Khaled International Airport",
+    "icao": "OERK",
+    "lat": 24.9575996398925,
+    "lon": 46.6987991333007
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ad Dammam",
+    "name": "King Fahd International Airport",
+    "icao": "OEDF",
+    "lat": 26.4712009429931,
+    "lon": 49.7979011535644
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Tabuk Region",
+    "city": "Tabuk",
+    "name": "Tabuk Airport",
+    "icao": "OETB",
+    "lat": 28.3654,
+    "lon": 36.6189
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ash Sharqiyah Region",
+    "name": "King Abdulaziz Air Base",
+    "icao": "OEDR",
+    "lat": 26.2653999329,
+    "lon": 50.1520004271999
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Asir Region",
+    "city": "Abha",
+    "name": "Abha Regional Airport",
+    "icao": "OEAB",
+    "lat": 18.2404003142999,
+    "lon": 42.6566009521
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "The Northern Border Region",
+    "city": "Arar",
+    "name": "Arar Domestic Airport",
+    "icao": "OERR",
+    "lat": 30.9066009521484,
+    "lon": 41.138198852539
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ash Sharqiyah Region",
+    "name": "Al Ahsa Airport",
+    "icao": "OEAH",
+    "lat": 25.2852993011474,
+    "lon": 49.4851989746093
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Al Madinah Region",
+    "city": "Yanbu",
+    "name": "Prince Abdulmohsin Bin Abdulaziz Airport",
+    "icao": "OEYN",
+    "lat": 24.144199,
+    "lon": 38.0634
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Najran Region",
+    "city": "Najran Region",
+    "name": "Nejran Airport",
+    "icao": "OENG",
+    "lat": 17.611400604248,
+    "lon": 44.4192008972168
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Riyadh",
+    "name": "Riyadh Air Base",
+    "icao": "OERY",
+    "lat": 24.7098007202148,
+    "lon": 46.7252006530761
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Najran Region",
+    "city": "Najran Region",
+    "name": "Sharurah Airport",
+    "icao": "OESH",
+    "lat": 17.4668998718261,
+    "lon": 47.1213989257812
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ash Sharqiyah Region",
+    "name": "Pump Station 3 Airport",
+    "icao": "OEPC",
+    "lat": 25.1744995117187,
+    "lon": 47.4883995056152
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Riyadh Region",
+    "name": "King Abdul Aziz Military Academy Airport",
+    "icao": "OE53",
+    "lat": 24.9421005249023,
+    "lon": 46.3912010192871
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Jubail",
+    "name": "Jubail Airport",
+    "icao": "OEJB",
+    "lat": 27.0389995574951,
+    "lon": 49.405101776123
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ash Sharqiyah Region",
+    "name": "Ras Mishab Airport",
+    "icao": "OERM",
+    "lat": 28.0795993804931,
+    "lon": 48.6110000610351
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ash Sharqiyah Region",
+    "name": "Ras Tanajib Airport",
+    "icao": "OETN",
+    "lat": 27.8677997589111,
+    "lon": 48.7691001892089
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Dawadmi",
+    "name": "King Salman Abdulaziz Airport",
+    "icao": "OEDM",
+    "lat": 24.4499,
+    "lon": 44.121201
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ash Sharqiyah Region",
+    "name": "Abqaiq Airport",
+    "icao": "OEBQ",
+    "lat": 25.9113006591796,
+    "lon": 49.5912017822265
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Riyadh Region",
+    "name": "Pump Station 6 Airport",
+    "icao": "OEPF",
+    "lat": 24.7103004455566,
+    "lon": 44.964500427246
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Al Madinah Region",
+    "city": "Al Madinah Region",
+    "name": "Pump Station 10 Airport",
+    "icao": "OEPJ",
+    "lat": 24.1072998046875,
+    "lon": 41.0359992980957
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Makkah Region",
+    "city": "Makkah Region",
+    "name": "Rabigh Airport",
+    "icao": "OERB",
+    "lat": 22.7026004791259,
+    "lon": 39.0698013305664
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Riyadh Region",
+    "name": "Sulayel Airport",
+    "icao": "OESL",
+    "lat": 20.4647006988525,
+    "lon": 45.6195983886718
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ash Sharqiyah Region",
+    "name": "Ras Khafji Airport",
+    "icao": "OE45",
+    "lat": 28.3899002075195,
+    "lon": 48.5164985656738
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Makkah Region",
+    "city": "Makkah Region",
+    "name": "Quz South Airport",
+    "icao": "OE48",
+    "lat": 18.8931999206542,
+    "lon": 41.3549995422363
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Riyadh Region",
+    "name": "Al Kharj East Airport",
+    "icao": "OE51",
+    "lat": 24.0515003204345,
+    "lon": 47.6542015075683
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Riyadh Region",
+    "name": "Hafar Al Atk Airport",
+    "icao": "OE54",
+    "lat": 25.9934005737304,
+    "lon": 46.5367012023925
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Riyadh Region",
+    "name": "Al Kharj",
+    "icao": "OE47",
+    "lat": 24.0607223510742,
+    "lon": 47.4108047485351
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Tabuk Region",
+    "city": "Tabuk Region",
+    "name": "Qalibah Highway Strip",
+    "icao": "SA-0003",
+    "lat": 27.9750003814697,
+    "lon": 37.9519424438476
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Harad",
+    "name": "Haradh Airport",
+    "icao": "OEHR",
+    "lat": 24.09653,
+    "lon": 49.22432
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Makkah Region",
+    "city": "Jeddah",
+    "name": "King Faisal Naval Base",
+    "icao": "OEJF",
+    "lat": 21.3481006622314,
+    "lon": 39.1730003356933
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Jubail",
+    "name": "King Abdulaziz Naval Base",
+    "icao": "OE50",
+    "lat": 26.941601,
+    "lon": 49.704102
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Nariya",
+    "name": "Nariya Airport",
+    "icao": "OENR",
+    "lat": 27.5,
+    "lon": 48.5
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ash Sharqiyah Region",
+    "name": "Al Hasa Airport",
+    "icao": "SA-0005",
+    "lat": 25.4064729902,
+    "lon": 49.4844281672999
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "The Northern Border Region",
+    "city": "The Northern Border Region",
+    "name": "Uwayqilah Airport",
+    "icao": "SA-0007",
+    "lat": 30.3469725272999,
+    "lon": 42.2126054764
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Ash Sharqiyah Region",
+    "name": "Financial Services business and personal loans no collateral require",
+    "icao": "SA-0009",
+    "lat": 90.0,
+    "lon": 90.0
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Riyadh Region",
+    "city": "Al Ghat",
+    "name": "Al Ghat Airport",
+    "icao": "OEGH",
+    "lat": 26.026479,
+    "lon": 44.959166
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Al Madinah Region",
+    "city": "Al Ula",
+    "name": "Majeed Bin Abdulaziz Airport",
+    "icao": "ULH",
+    "lat": 26.48,
+    "lon": 38.1288888889
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Ash Sharqiyah Region",
+    "city": "Khurais oil field",
+    "name": "Khurais Airport",
+    "icao": "SA-0010",
+    "lat": 25.26533,
+    "lon": 48.178333
+  },
+  {
+    "country": "Saudi Arabia",
+    "state": "Tabuk Region",
+    "city": "Neom",
+    "name": "Neom Airport",
+    "icao": "OENN",
+    "lat": 27.927598,
+    "lon": 35.28874
+  }
+]

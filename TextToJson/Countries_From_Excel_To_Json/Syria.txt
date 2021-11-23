@@ -1,0 +1,110 @@
+[
+  {
+    "country": "Syria",
+    "state": "Aleppo Governorate",
+    "city": "Aleppo",
+    "name": "Aleppo International Airport",
+    "icao": "OSAP",
+    "lat": 36.1806983947753,
+    "lon": 37.2243995666503
+  },
+  {
+    "country": "Syria",
+    "state": "Deir ez-Zor Governorate",
+    "city": "Deir ez-Zor",
+    "name": "Deir ez-Zor Air Base",
+    "icao": "OSDZ",
+    "lat": 35.2854,
+    "lon": 40.175999
+  },
+  {
+    "country": "Syria",
+    "state": "Al-Hasakah Governorate",
+    "city": "Qamishly",
+    "name": "Qamishli Airport",
+    "icao": "OSKL",
+    "lat": 37.020599,
+    "lon": 41.191399
+  },
+  {
+    "country": "Syria",
+    "state": "Homs Governorate",
+    "city": "Tadmur",
+    "name": "Palmyra Airport",
+    "icao": "OSPR",
+    "lat": 34.5574,
+    "lon": 38.316898
+  },
+  {
+    "country": "Syria",
+    "state": "Ar-Raqqah Governorate",
+    "city": "Ar-Raqqah Governorate",
+    "name": "Tabqa Airport",
+    "icao": "OS59",
+    "lat": 35.7546997070312,
+    "lon": 38.5667991638183
+  },
+  {
+    "country": "Syria",
+    "state": "Aleppo Governorate",
+    "city": "Aleppo Governorate",
+    "name": "Jirah Air Base",
+    "icao": "OS62",
+    "lat": 36.0966987609863,
+    "lon": 37.9365005493164
+  },
+  {
+    "country": "Syria",
+    "state": "Aleppo Governorate",
+    "city": "Aleppo Governorate",
+    "name": "Rasin El Aboud Airport",
+    "icao": "OS66",
+    "lat": 36.1870994567871,
+    "lon": 37.5831985473632
+  },
+  {
+    "country": "Syria",
+    "state": "Aleppo Governorate",
+    "city": "Abu ad Duhur",
+    "name": "Abu ad Duhur Air Base",
+    "icao": "OS57",
+    "lat": 35.7322006225585,
+    "lon": 37.1041984558105
+  },
+  {
+    "country": "Syria",
+    "state": "As-Suwayda Governorate",
+    "city": "As Suwayda",
+    "name": "As Suwayda West Air Base",
+    "icao": "OS60",
+    "lat": 32.7052001953125,
+    "lon": 36.4128990173339
+  },
+  {
+    "country": "Syria",
+    "state": "Aleppo Governorate",
+    "city": "Azaz",
+    "name": "Minakh Air Base",
+    "icao": "OS71",
+    "lat": 36.5215988159,
+    "lon": 37.0415000915999
+  },
+  {
+    "country": "Syria",
+    "state": "Damascus Governorate",
+    "city": "Saiqal",
+    "name": "Saiqal Air Base",
+    "icao": "OS68",
+    "lat": 33.6823997497558,
+    "lon": 37.2139015197753
+  },
+  {
+    "country": "Syria",
+    "state": "Rif Dimashq Governorate",
+    "city": "Marj al-Sultan",
+    "name": "Marj al-Sultan Heliport (South)",
+    "icao": "SY-0004",
+    "lat": 33.487116,
+    "lon": 36.475288
+  }
+]

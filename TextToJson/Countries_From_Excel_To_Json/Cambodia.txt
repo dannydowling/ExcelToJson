@@ -1,0 +1,56 @@
+[
+  {
+    "country": "Cambodia",
+    "state": "Kandaal",
+    "city": "Phnom Penh",
+    "name": "Phnom Penh International Airport",
+    "icao": "VDPP",
+    "lat": 11.5466003417968,
+    "lon": 104.844001770019
+  },
+  {
+    "country": "Cambodia",
+    "state": "Rotanak Kiri",
+    "city": "Ratanakiri",
+    "name": "Ratanakiri Airport",
+    "icao": "VDRK",
+    "lat": 13.7299995422363,
+    "lon": 106.986999511718
+  },
+  {
+    "country": "Cambodia",
+    "state": "Kampot",
+    "city": "Kampot",
+    "name": "Kampot Airport",
+    "icao": "KMT",
+    "lat": 10.6343,
+    "lon": 104.1617
+  },
+  {
+    "country": "Cambodia",
+    "state": "Kach Kong",
+    "city": "Kaoh Kong",
+    "name": "Kaoh Kong Airport",
+    "icao": "VDKK",
+    "lat": 11.6133971186,
+    "lon": 102.997083664
+  },
+  {
+    "country": "Cambodia",
+    "state": "Pousaat",
+    "city": "Krakor",
+    "name": "Krakor Airport",
+    "icao": "VDSY",
+    "lat": 12.5385,
+    "lon": 104.1486
+  },
+  {
+    "country": "Cambodia",
+    "state": "Preah Vihear",
+    "city": "Tbeng Meanchey",
+    "name": "Preah Vinhear Airport",
+    "icao": "OMY",
+    "lat": 13.7597,
+    "lon": 104.97173
+  }
+]

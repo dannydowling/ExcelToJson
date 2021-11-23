@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Turks and Caicos Islands",
+    "state": "Grand Turk ",
+    "city": "Cockburn Town",
+    "name": "JAGS McCartney International Airport",
+    "icao": "MBGT",
+    "lat": 21.4444999694824,
+    "lon": -71.1423034667968
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "state": "Ambergris Cays ",
+    "city": "Big Ambergris Cay",
+    "name": "Harold Charles International Airport",
+    "icao": "MBAC",
+    "lat": 21.302649,
+    "lon": -71.637168
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "state": "North Caicos ",
+    "city": "North Caicos ",
+    "name": "North Caicos Airport",
+    "icao": "MBNC",
+    "lat": 21.9175,
+    "lon": -71.939598
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "state": "Salt Cay ",
+    "city": "Salt Cay",
+    "name": "Salt Cay Airport",
+    "icao": "MBSY",
+    "lat": 21.3330001830999,
+    "lon": -71.1999969482
+  }
+]

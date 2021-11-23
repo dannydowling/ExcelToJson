@@ -1,0 +1,1352 @@
+[
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Pasay / ParaÃ±aque, Metro Manila",
+    "name": "Ninoy Aquino International Airport",
+    "icao": "RPLL",
+    "lat": 14.5086,
+    "lon": 121.019997
+  },
+  {
+    "country": "Philippines",
+    "state": "Cebu Province",
+    "city": "Lapu-Lapu City",
+    "name": "Mactan Cebu International Airport",
+    "icao": "RPVM",
+    "lat": 10.307499885559,
+    "lon": 123.97899627686
+  },
+  {
+    "country": "Philippines",
+    "state": "Aklan Province",
+    "city": "Malay",
+    "name": "Godofredo P. Ramos Airport",
+    "icao": "RPVE",
+    "lat": 11.9245,
+    "lon": 121.954002
+  },
+  {
+    "country": "Philippines",
+    "state": "Bohol Province",
+    "city": "Tagbilaran City",
+    "name": "Tagbilaran Airport",
+    "icao": "RPVT",
+    "lat": 9.665442,
+    "lon": 123.853533
+  },
+  {
+    "country": "Philippines",
+    "state": "Pangasinan Province",
+    "city": "Pangasinan Province",
+    "name": "Lingayen Airport",
+    "icao": "RPUG",
+    "lat": 16.0347995758056,
+    "lon": 120.240997314453
+  },
+  {
+    "country": "Philippines",
+    "state": "Palawan Province",
+    "city": "Puerto Princesa City",
+    "name": "Puerto Princesa Airport",
+    "icao": "RPVP",
+    "lat": 9.74211978912353,
+    "lon": 118.759002685546
+  },
+  {
+    "country": "Philippines",
+    "state": "Albay Province",
+    "city": "Legazpi City",
+    "name": "Legazpi City International Airport",
+    "icao": "RPLP",
+    "lat": 13.1575,
+    "lon": 123.735
+  },
+  {
+    "country": "Philippines",
+    "state": "Ilocos Sur Province",
+    "city": "Vigan City",
+    "name": "Vigan Airport",
+    "icao": "RPUQ",
+    "lat": 17.5552997589111,
+    "lon": 120.356002807617
+  },
+  {
+    "country": "Philippines",
+    "state": "Agusan del Norte Province",
+    "city": "Butuan City",
+    "name": "Bancasi Airport",
+    "icao": "RPME",
+    "lat": 8.9515,
+    "lon": 125.4788
+  },
+  {
+    "country": "Philippines",
+    "state": "Negroe Occidental Province",
+    "city": "Bacolod City",
+    "name": "Bacolod-Silay Airport",
+    "icao": "RPVB",
+    "lat": 10.7764,
+    "lon": 123.014999
+  },
+  {
+    "country": "Philippines",
+    "state": "Capiz Province",
+    "city": "Roxas City",
+    "name": "Roxas Airport",
+    "icao": "RPVR",
+    "lat": 11.5977001190185,
+    "lon": 122.751998901367
+  },
+  {
+    "country": "Philippines",
+    "state": "Leyte Province",
+    "city": "Tacloban City",
+    "name": "Daniel Z. Romualdez Airport",
+    "icao": "RPVA",
+    "lat": 11.228035,
+    "lon": 125.027761
+  },
+  {
+    "country": "Philippines",
+    "state": "Mindoro Oriental Province",
+    "city": "Calapan City",
+    "name": "Calapan Airport",
+    "icao": "RPUK",
+    "lat": 13.422641,
+    "lon": 121.201687
+  },
+  {
+    "country": "Philippines",
+    "state": "Zambales Province",
+    "city": "Iba",
+    "name": "Iba Airport",
+    "icao": "RPUI",
+    "lat": 15.3247556686,
+    "lon": 119.96949768100001
+  },
+  {
+    "country": "Philippines",
+    "state": "Masbate Province",
+    "city": "Masbate",
+    "name": "Moises R. Espinosa Airport",
+    "icao": "RPVJ",
+    "lat": 12.369682,
+    "lon": 123.630095
+  },
+  {
+    "country": "Philippines",
+    "state": "Iloilo Province",
+    "city": "Iloilo City",
+    "name": "Iloilo International Airport",
+    "icao": "RPVI",
+    "lat": 10.833017,
+    "lon": 122.493358
+  },
+  {
+    "country": "Philippines",
+    "state": "Palawan Province",
+    "city": "Cuyo",
+    "name": "Cuyo Airport",
+    "icao": "RPLO",
+    "lat": 10.8580999374389,
+    "lon": 121.06900024414
+  },
+  {
+    "country": "Philippines",
+    "state": "Mindoro Occidental Province",
+    "city": "Mindoro Occidental Province",
+    "name": "Lubang Airport",
+    "icao": "RPLU",
+    "lat": 13.8554000854492,
+    "lon": 120.105003356933
+  },
+  {
+    "country": "Philippines",
+    "state": "Nueva Ecija Province",
+    "city": "Fort Magsaysay",
+    "name": "Fort Magsaysay Airport",
+    "icao": "RPLV",
+    "lat": 15.4347,
+    "lon": 121.091003
+  },
+  {
+    "country": "Philippines",
+    "state": "Surigao del Sur Province",
+    "city": "Surigao del Sur Province",
+    "name": "Tandag Airport",
+    "icao": "RPMW",
+    "lat": 9.07211017608642,
+    "lon": 126.170997619628
+  },
+  {
+    "country": "Philippines",
+    "state": "Zamboanga del Sur Province",
+    "city": "Pagadian City",
+    "name": "Pagadian Airport",
+    "icao": "RPMP",
+    "lat": 7.83073144787,
+    "lon": 123.461179733
+  },
+  {
+    "country": "Philippines",
+    "state": "Antique Province",
+    "city": "San Jose",
+    "name": "Evelio Javier Airport",
+    "icao": "RPVS",
+    "lat": 10.765999794,
+    "lon": 121.932998657
+  },
+  {
+    "country": "Philippines",
+    "state": "Cagayan Province",
+    "city": "Tuguegarao City",
+    "name": "Tuguegarao Airport",
+    "icao": "RPUT",
+    "lat": 17.6433676823,
+    "lon": 121.733150482
+  },
+  {
+    "country": "Philippines",
+    "state": "Catanduanes Province",
+    "city": "Virac",
+    "name": "Virac Airport",
+    "icao": "RPUV",
+    "lat": 13.5763998031616,
+    "lon": 124.206001281738
+  },
+  {
+    "country": "Philippines",
+    "state": "South Cotabato Province",
+    "city": "General Santos",
+    "name": "General Santos International Airport",
+    "icao": "RPMR",
+    "lat": 6.05800008774,
+    "lon": 125.096000671
+  },
+  {
+    "country": "Philippines",
+    "state": "Cavite Province",
+    "city": "Cavite",
+    "name": "Sangley Point International Airport / Danilo Atienza Air Base",
+    "icao": "RPLS",
+    "lat": 14.4954,
+    "lon": 120.903999
+  },
+  {
+    "country": "Philippines",
+    "state": "Cavite Province",
+    "city": "Corregidor",
+    "name": "Corregidor Airport (Kindley Field)",
+    "icao": "RPLX",
+    "lat": 14.3913,
+    "lon": 120.607002
+  },
+  {
+    "country": "Philippines",
+    "state": "Leyte Province",
+    "city": "Hilongos",
+    "name": "Hilongos Airport",
+    "icao": "RPVH",
+    "lat": 10.3800001144409,
+    "lon": 124.74299621582
+  },
+  {
+    "country": "Philippines",
+    "state": "Batanes Province",
+    "city": "Itbayat",
+    "name": "Itbayat Airport",
+    "icao": "RPLT",
+    "lat": 20.722521,
+    "lon": 121.809969
+  },
+  {
+    "country": "Philippines",
+    "state": "Tawi-Tawi Province",
+    "city": "Mapun",
+    "name": "Cagayan de Sulu Airport",
+    "icao": "RPMU",
+    "lat": 7.01399993896484,
+    "lon": 118.496002197265
+  },
+  {
+    "country": "Philippines",
+    "state": "Siquijor Province",
+    "city": "Siquijor Province",
+    "name": "Siquijor Airport",
+    "icao": "RPVZ",
+    "lat": 9.21420322319,
+    "lon": 123.472251892
+  },
+  {
+    "country": "Philippines",
+    "state": "Agusan del Norte Province",
+    "city": "Agusan del Norte Province",
+    "name": "BXU Airport",
+    "icao": "PH-0007",
+    "lat": 8.951634,
+    "lon": 125.478544
+  },
+  {
+    "country": "Philippines",
+    "state": "Pangasinan Province",
+    "city": "Carmen",
+    "name": "Carmen Rosales Airstrip",
+    "icao": "RPLR",
+    "lat": 15.8843421975,
+    "lon": 120.601944923
+  },
+  {
+    "country": "Philippines",
+    "state": "Aurora Province",
+    "city": "Casiguran",
+    "name": "Casiguran Airport",
+    "icao": "CGG",
+    "lat": 16.1941,
+    "lon": 122.0651
+  },
+  {
+    "country": "Philippines",
+    "state": "Tarlac Province",
+    "city": "Concepcion",
+    "name": "Santa Rosa Airstrip",
+    "icao": "PH-0106",
+    "lat": 15.384788,
+    "lon": 120.624475
+  },
+  {
+    "country": "Philippines",
+    "state": "Palawan Province",
+    "city": "Cuyo",
+    "name": "Pamalican Airstrip",
+    "icao": "PH-0005",
+    "lat": 11.35946,
+    "lon": 120.72668
+  },
+  {
+    "country": "Philippines",
+    "state": "Pangasinan Province",
+    "city": "Darlo",
+    "name": "Barlo Airstrip",
+    "icao": "PH-0088",
+    "lat": 15.993665,
+    "lon": 119.921908
+  },
+  {
+    "country": "Philippines",
+    "state": "Zambales Province",
+    "city": "Hermana Menor Island",
+    "name": "Hermana Menor Island Airstrip",
+    "icao": "PH-0097",
+    "lat": 15.735475,
+    "lon": 119.82478
+  },
+  {
+    "country": "Philippines",
+    "state": "Pampanga Province",
+    "city": "Magalang",
+    "name": "Woodland Airpark",
+    "icao": "PH-0107",
+    "lat": 15.254326,
+    "lon": 120.677772
+  },
+  {
+    "country": "Philippines",
+    "state": "Sulu Province",
+    "city": "Sulu Province",
+    "name": "Jolo Airport",
+    "icao": "RPMJ",
+    "lat": 6.05366992950439,
+    "lon": 121.011001586914
+  },
+  {
+    "country": "Philippines",
+    "state": "Northern Samar Province",
+    "city": "Catarman",
+    "name": "Catarman National Airport",
+    "icao": "RPVF",
+    "lat": 12.5024003982543,
+    "lon": 124.636001586914
+  },
+  {
+    "country": "Philippines",
+    "state": "Camarines Sur Province",
+    "city": "Naga",
+    "name": "Naga Airport",
+    "icao": "RPUN",
+    "lat": 13.5848999023437,
+    "lon": 123.269996643066
+  },
+  {
+    "country": "Philippines",
+    "state": "Marinduque Province",
+    "city": "Gasan",
+    "name": "Marinduque Airport",
+    "icao": "RPUW",
+    "lat": 13.3610000610351,
+    "lon": 121.825996398925
+  },
+  {
+    "country": "Philippines",
+    "state": "Lanao del Norte Province",
+    "city": "Iligan",
+    "name": "Maria Cristina Airport",
+    "icao": "RPMI",
+    "lat": 8.13049,
+    "lon": 124.214996
+  },
+  {
+    "country": "Philippines",
+    "state": "Davao Oriental Province",
+    "city": "Mati",
+    "name": "Mati National Airport",
+    "icao": "RPMQ",
+    "lat": 6.949091,
+    "lon": 126.27368
+  },
+  {
+    "country": "Philippines",
+    "state": "Quezon Province",
+    "city": "Quezon Province",
+    "name": "Pagbilao Grande Island Airport",
+    "icao": "RP12",
+    "lat": 13.9001998901367,
+    "lon": 121.744003295898
+  },
+  {
+    "country": "Philippines",
+    "state": "Basilan Province",
+    "city": "Basilan Province",
+    "name": "Seahawk Lz Airstrip",
+    "icao": "RP16",
+    "lat": 6.65417,
+    "lon": 121.980003
+  },
+  {
+    "country": "Philippines",
+    "state": "Nueva Vizcaya Province",
+    "city": "Nueva Vizcaya Province",
+    "name": "Bagabag Airport",
+    "icao": "RPUZ",
+    "lat": 16.6192,
+    "lon": 121.251999
+  },
+  {
+    "country": "Philippines",
+    "state": "Quezon Province",
+    "city": "Alabat Island",
+    "name": "Alabat Island Airport",
+    "icao": "RPLY",
+    "lat": 14.2320003509521,
+    "lon": 121.929000854492
+  },
+  {
+    "country": "Philippines",
+    "state": "Zambales Province",
+    "city": "Castillejos",
+    "name": "Castillejos Airport",
+    "icao": "RPUJ",
+    "lat": 14.94634,
+    "lon": 120.190194
+  },
+  {
+    "country": "Philippines",
+    "state": "Zamboanga Sibiguey Province",
+    "city": "Ipil",
+    "name": "Ipil Airport",
+    "icao": "RPMV",
+    "lat": 7.78556013107299,
+    "lon": 122.601997375488
+  },
+  {
+    "country": "Philippines",
+    "state": "Batangas Province",
+    "city": "Lipa",
+    "name": "Basilio Fernando Air Base",
+    "icao": "RPUL",
+    "lat": 13.955,
+    "lon": 121.125
+  },
+  {
+    "country": "Philippines",
+    "state": "Quezon Province",
+    "city": "Lucena",
+    "name": "Lucena Airport",
+    "icao": "RPUE",
+    "lat": 13.931193,
+    "lon": 121.6011
+  },
+  {
+    "country": "Philippines",
+    "state": "Bukidnon Province",
+    "city": "Malaybalay City",
+    "name": "Malaybalay Airport",
+    "icao": "RPMY",
+    "lat": 8.14166,
+    "lon": 125.117
+  },
+  {
+    "country": "Philippines",
+    "state": "Mindoro Oriental Province",
+    "city": "Mansalay",
+    "name": "Wasig Airport",
+    "icao": "RPVL",
+    "lat": 12.5361003875732,
+    "lon": 121.481002807617
+  },
+  {
+    "country": "Philippines",
+    "state": "Sorsogon Province",
+    "city": "Sorsogon",
+    "name": "Sorsogon Airport",
+    "icao": "RPLZ",
+    "lat": 13.006983,
+    "lon": 124.025731
+  },
+  {
+    "country": "Philippines",
+    "state": "Biliran Province",
+    "city": "Biliran Province",
+    "name": "Biliran Airport",
+    "icao": "RPVQ",
+    "lat": 11.5159178299,
+    "lon": 124.428985119
+  },
+  {
+    "country": "Philippines",
+    "state": "Zamboanga del Norte Province",
+    "city": "Zamboanga del Norte Province",
+    "name": "Liloy Airport",
+    "icao": "RPMX",
+    "lat": 8.10205878654,
+    "lon": 122.6704216
+  },
+  {
+    "country": "Philippines",
+    "state": "Cagayan Province",
+    "city": "Cagayan Province",
+    "name": "Aparri (Maura) Airport",
+    "icao": "RPUA",
+    "lat": 18.35485,
+    "lon": 121.653907
+  },
+  {
+    "country": "Philippines",
+    "state": "Pampanga Province",
+    "city": "Babo Sacan",
+    "name": "Porac Airfield",
+    "icao": "PH-0168",
+    "lat": 15.073444,
+    "lon": 120.542486
+  },
+  {
+    "country": "Philippines",
+    "state": "Davao Oriental Province",
+    "city": "Baganga",
+    "name": "Baganga airport",
+    "icao": "BNQ",
+    "lat": 7.61194444444,
+    "lon": 126.568888889
+  },
+  {
+    "country": "Philippines",
+    "state": "Cebu Province",
+    "city": "Balamban",
+    "name": "Balamban Heliport",
+    "icao": "PH-0159",
+    "lat": 10.470439,
+    "lon": 123.69704
+  },
+  {
+    "country": "Philippines",
+    "state": "Batangas Province",
+    "city": "Balaytigue (Nusugbu)",
+    "name": "Balaytigue Heliport",
+    "icao": "PH-0065",
+    "lat": 14.134019,
+    "lon": 120.59806
+  },
+  {
+    "country": "Philippines",
+    "state": "Batangas Province",
+    "city": "Balibago",
+    "name": "Lago-de-Oro-Wakepark-Hotel-Helipad",
+    "icao": "PH-0067",
+    "lat": 13.91657,
+    "lon": 120.622158
+  },
+  {
+    "country": "Philippines",
+    "state": "La Union Province",
+    "city": "Bauang",
+    "name": "Bauang Power Plant Helipad",
+    "icao": "PH-0026",
+    "lat": 16.490059,
+    "lon": 120.326997
+  },
+  {
+    "country": "Philippines",
+    "state": "Lanao del Norte Province",
+    "city": "Baybay-Titunud",
+    "name": "Findlay Millar Lumber Company Airstrip",
+    "icao": "PH-0155",
+    "lat": 8.109834,
+    "lon": 123.882211
+  },
+  {
+    "country": "Philippines",
+    "state": "Cavite Province",
+    "city": "Bucana",
+    "name": "General Gregorio Lim Marine Base Heliport",
+    "icao": "PH-0064",
+    "lat": 14.267422,
+    "lon": 120.626543
+  },
+  {
+    "country": "Philippines",
+    "state": "Nueva Ecija Province",
+    "city": "Cabanatuan",
+    "name": "Cabanatuan Airstrip (Camp Tinio)",
+    "icao": "PH-0110",
+    "lat": 15.486231,
+    "lon": 121.042396
+  },
+  {
+    "country": "Philippines",
+    "state": "Laguna Province",
+    "city": "Calamba",
+    "name": "Canlubang Airstrip",
+    "icao": "PH-0111",
+    "lat": 14.221705,
+    "lon": 121.085644
+  },
+  {
+    "country": "Philippines",
+    "state": "Batangas Province",
+    "city": "Calatagan (Hacienda Bigaa)",
+    "name": "Calatagan Airstrip (Hacienda Zobel) Heliport",
+    "icao": "PH-0094",
+    "lat": 13.848569,
+    "lon": 120.635766
+  },
+  {
+    "country": "Philippines",
+    "state": "Antique Province",
+    "city": "Caluya",
+    "name": "Semirara Airport",
+    "icao": "RPSR",
+    "lat": 12.07522,
+    "lon": 121.38847
+  },
+  {
+    "country": "Philippines",
+    "state": "Zambales Province",
+    "city": "Castillejos",
+    "name": "San Marcellino Airfield",
+    "icao": "PH-0148",
+    "lat": 14.960292,
+    "lon": 120.206566
+  },
+  {
+    "country": "Philippines",
+    "state": "Cavite Province",
+    "city": "Cavite",
+    "name": "Danilo Atienza Air Base",
+    "icao": "SGL",
+    "lat": 14.49562,
+    "lon": 120.906987
+  },
+  {
+    "country": "Philippines",
+    "state": "Cavite Province",
+    "city": "Corregidor Island",
+    "name": "Corregidor Parade Ground Heliport",
+    "icao": "PH-0082",
+    "lat": 14.38051,
+    "lon": 120.574514
+  },
+  {
+    "country": "Philippines",
+    "state": "Palawan Province",
+    "city": "Culion Island",
+    "name": "Culion Airport",
+    "icao": "CUJ",
+    "lat": 11.8553,
+    "lon": 119.9378
+  },
+  {
+    "country": "Philippines",
+    "state": "Batangas Province",
+    "city": "Danglayan (Batangas)",
+    "name": "Chevron Terminal Heliport",
+    "icao": "PH-0009",
+    "lat": 13.78246,
+    "lon": 121.022376
+  },
+  {
+    "country": "Philippines",
+    "state": "Cagayan Province",
+    "city": "Fuga Island",
+    "name": "Fuga Airstrip",
+    "icao": "PH-0069",
+    "lat": 18.863326,
+    "lon": 121.283612
+  },
+  {
+    "country": "Philippines",
+    "state": "Basilan Province",
+    "city": "Isabela",
+    "name": "Isabela Airstrip",
+    "icao": "PH-0163",
+    "lat": 6.688387,
+    "lon": 121.947207
+  },
+  {
+    "country": "Philippines",
+    "state": "Cagayan Province",
+    "city": "Lal-lo",
+    "name": "Northern Cagayan International Airport",
+    "icao": "PH-0073",
+    "lat": 18.182388,
+    "lon": 121.745853
+  },
+  {
+    "country": "Philippines",
+    "state": "Bataan Province",
+    "city": "Lamao",
+    "name": "Government Arsenal Heliport",
+    "icao": "PH-0149",
+    "lat": 14.507939,
+    "lon": 120.586678
+  },
+  {
+    "country": "Philippines",
+    "state": "Camarines Norte Province",
+    "city": "Larap",
+    "name": "Jose Panganiban",
+    "icao": "RPUP",
+    "lat": 14.293288,
+    "lon": 122.645659
+  },
+  {
+    "country": "Philippines",
+    "state": "Bataan Province",
+    "city": "Limay",
+    "name": "Petron Bataan Refinery Helipad",
+    "icao": "PH-0152",
+    "lat": 14.530195,
+    "lon": 120.5925895
+  },
+  {
+    "country": "Philippines",
+    "state": "Cagayan Province",
+    "city": "Mabag Island",
+    "name": "Mabag Island Airstrip",
+    "icao": "PH-0071",
+    "lat": 18.884767,
+    "lon": 121.257048
+  },
+  {
+    "country": "Philippines",
+    "state": "Pampanga Province",
+    "city": "Mabalacat",
+    "name": "Mabalacat East Airfield (Kamikaze East)",
+    "icao": "PH-0113",
+    "lat": 15.240931,
+    "lon": 120.575434
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Mabalacat City",
+    "name": "Clark International Airport South Ramp Heliport",
+    "icao": "PH-0077",
+    "lat": 15.172336,
+    "lon": 120.545547
+  },
+  {
+    "country": "Philippines",
+    "state": "Pampanga Province",
+    "city": "Magalang",
+    "name": "ACFC",
+    "icao": "ACFC",
+    "lat": 15.253888,
+    "lon": 120.677222
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Philamlife Tower Heliport",
+    "icao": "PH-0118",
+    "lat": 14.55738,
+    "lon": 121.021257
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "BDO Equitable Bank Tower Heliport",
+    "icao": "PH-0120",
+    "lat": 14.558072,
+    "lon": 121.023867
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Citibank Tower Heliport",
+    "icao": "PH-0122",
+    "lat": 14.558977,
+    "lon": 121.024834
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Tiffany Place Heliport",
+    "icao": "PH-0124",
+    "lat": 14.559767,
+    "lon": 121.024968
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Four Season Heliport",
+    "icao": "PH-0126",
+    "lat": 14.560433,
+    "lon": 121.023097
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Parklane Condominiums Heliport",
+    "icao": "PH-0128",
+    "lat": 14.561282,
+    "lon": 121.023465
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "BPI Buendia Center Heliport",
+    "icao": "PH-0130",
+    "lat": 14.561506,
+    "lon": 121.0261
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Pacific Star Building (High-Rise) Heliport",
+    "icao": "PH-0132",
+    "lat": 14.561135,
+    "lon": 121.026701
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Export Bank Plaza Heliport",
+    "icao": "PH-0134",
+    "lat": 14.559493,
+    "lon": 121.01151
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Cocolife Building Heliport",
+    "icao": "PH-0136",
+    "lat": 14.559297,
+    "lon": 121.017147
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "PLDT Makati Office Heliport",
+    "icao": "PH-0139",
+    "lat": 14.554593,
+    "lon": 121.022649
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Pacific Plaza Condominimums Heliport",
+    "icao": "PH-0141",
+    "lat": 14.552362,
+    "lon": 121.028419
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "Ritz Towers South Heliport",
+    "icao": "PH-0143",
+    "lat": 14.552684,
+    "lon": 121.027924
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati (Manila)",
+    "name": "SM Makati Heliport",
+    "icao": "PH-0145",
+    "lat": 14.549129,
+    "lon": 121.027349
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati, Metro Manila",
+    "name": "Easton Place Heliport",
+    "icao": "PH-0137",
+    "lat": 14.559381,
+    "lon": 121.019807
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Makati, Metro Manila",
+    "name": "Makati City Hall Helipad",
+    "icao": "PH-0171",
+    "lat": 14.570485,
+    "lon": 121.02724
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Mandaluyong",
+    "name": "San Miguel Corporate Heliport",
+    "icao": "PH-0042",
+    "lat": 14.582849,
+    "lon": 121.059287
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Mandaluyong",
+    "name": "TSD Communications Department Heliport",
+    "icao": "PH-0044",
+    "lat": 14.574916,
+    "lon": 121.055493
+  },
+  {
+    "country": "Philippines",
+    "state": "Pangasinan Province",
+    "city": "Mangaldan",
+    "name": "Mangaldan Airfield",
+    "icao": "PH-0115",
+    "lat": 16.061583,
+    "lon": 120.397126
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Manila",
+    "name": "Manila International Container Terminal (MICT) Heliport",
+    "icao": "PH-0033",
+    "lat": 14.597028,
+    "lon": 120.954743
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Manila",
+    "name": "World Trade Exchange Building Helipad",
+    "icao": "PH-0167",
+    "lat": 14.597341,
+    "lon": 120.974793
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Manila North Harbor",
+    "name": "Manila North Harbor Container Terminal Helipad",
+    "icao": "PH-0034",
+    "lat": 14.619012,
+    "lon": 120.958809
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Manila South Harbor",
+    "name": "Port of Manila South Harbor Pier 13 Helipad",
+    "icao": "PH-0052",
+    "lat": 14.582711,
+    "lon": 120.967669
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Manila South Port",
+    "name": "Manila Hotel Heliport",
+    "icao": "PH-0053",
+    "lat": 14.583489,
+    "lon": 120.973616
+  },
+  {
+    "country": "Philippines",
+    "state": "Benguet Province",
+    "city": "Mankayan",
+    "name": "Lepanto Mines Airstrip",
+    "icao": "PH-0099",
+    "lat": 16.870549,
+    "lon": 120.779014
+  },
+  {
+    "country": "Philippines",
+    "state": "Bukidnon Province",
+    "city": "Maramag",
+    "name": "Maramag Airport",
+    "icao": "XMA",
+    "lat": 7.7538,
+    "lon": 125.0333
+  },
+  {
+    "country": "Philippines",
+    "state": "Bataan Province",
+    "city": "Mariveles",
+    "name": "Mariveles Power Plant Helipad",
+    "icao": "PH-0175",
+    "lat": 14.42238,
+    "lon": 120.53947
+  },
+  {
+    "country": "Philippines",
+    "state": "Zambales Province",
+    "city": "Masinloc",
+    "name": "Poon Coto Heliport",
+    "icao": "PH-0104",
+    "lat": 15.562515,
+    "lon": 120.097468
+  },
+  {
+    "country": "Philippines",
+    "state": "Quezon Province",
+    "city": "Mauban",
+    "name": "Quezon-Power-Plant Heliport",
+    "icao": "PH-0008",
+    "lat": 14.226435,
+    "lon": 121.759152
+  },
+  {
+    "country": "Philippines",
+    "state": "Bataan Province",
+    "city": "Nagbalayong",
+    "name": "Bataan Nuclear Power Plant Heliport",
+    "icao": "PH-0032",
+    "lat": 14.630793,
+    "lon": 120.315316
+  },
+  {
+    "country": "Philippines",
+    "state": "Misamis Oriental Province",
+    "city": "Nasipit",
+    "name": "Nasipit Heliport",
+    "icao": "PH-0153",
+    "lat": 8.976852,
+    "lon": 125.32937
+  },
+  {
+    "country": "Philippines",
+    "state": "Pangasinan Province",
+    "city": "Pangasinan",
+    "name": "Sual Power Plant Heliport",
+    "icao": "PH-0029",
+    "lat": 16.126615,
+    "lon": 120.097104
+  },
+  {
+    "country": "Philippines",
+    "state": "Bohol Province",
+    "city": "Panglao",
+    "name": "Bohol-Panglao International Airport",
+    "icao": "RPSP",
+    "lat": 9.566667,
+    "lon": 123.775
+  },
+  {
+    "country": "Philippines",
+    "state": "Camarines Norte Province",
+    "city": "Paracale",
+    "name": "Paracale Airstrip",
+    "icao": "PH-0020",
+    "lat": 14.2881,
+    "lon": 122.80068
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "ParaÃ±aque",
+    "name": "ParaÃ±aque Seaplane Base",
+    "icao": "PH-0150",
+    "lat": 14.502193,
+    "lon": 120.989548
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Pasay",
+    "name": "Manila Marriott Hotel Heliport",
+    "icao": "PH-0083",
+    "lat": 14.520417,
+    "lon": 121.019369
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Pasay, Metro Manila",
+    "name": "CCP Open Field Heliport",
+    "icao": "PH-0057",
+    "lat": 14.552598,
+    "lon": 120.983714
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Pasig",
+    "name": "Joy-Nostalg Heliport",
+    "icao": "PH-0035",
+    "lat": 14.587541,
+    "lon": 121.060526
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Pasig",
+    "name": "BDO Corporate Center Heliport",
+    "icao": "PH-0038",
+    "lat": 14.586047,
+    "lon": 121.059864
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Pasig",
+    "name": "Philippine Stock Exchange West Tower Heliport",
+    "icao": "PH-0040",
+    "lat": 14.582518,
+    "lon": 121.061614
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Pasig",
+    "name": "Orient Square Heliport",
+    "icao": "PH-0045",
+    "lat": 14.585368,
+    "lon": 121.061547
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Pasig",
+    "name": "iSquare Heliport",
+    "icao": "PH-0047",
+    "lat": 14.585628,
+    "lon": 121.063611
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Pasig",
+    "name": "MERALCO Ortigas Heliport",
+    "icao": "PH-0049",
+    "lat": 14.591288,
+    "lon": 121.07033
+  },
+  {
+    "country": "Philippines",
+    "state": "Batangas Province",
+    "city": "Pinamucan",
+    "name": "JG-Summit-Olefins-Corporation Helipad",
+    "icao": "PH-0013",
+    "lat": 13.677734,
+    "lon": 121.056255
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Plaridel",
+    "name": "Plaridel Airport Heliport",
+    "icao": "PH-0079",
+    "lat": 14.892409,
+    "lon": 120.853326
+  },
+  {
+    "country": "Philippines",
+    "state": "La Union Province",
+    "city": "Poro Point (San Fernando)",
+    "name": "Poro Point Naval Base Helipad",
+    "icao": "PH-0021",
+    "lat": 16.60643,
+    "lon": 120.289836
+  },
+  {
+    "country": "Philippines",
+    "state": "Batangas Province",
+    "city": "Pulong Balibaguhan",
+    "name": "Purefoods Flour Mills Pulong Balibaguhan Heliport",
+    "icao": "PH-0068",
+    "lat": 13.743705,
+    "lon": 120.945976
+  },
+  {
+    "country": "Philippines",
+    "state": "Negroe Occidental Province",
+    "city": "Punao",
+    "name": "San Carlos City Airport [under construction]",
+    "icao": "PH-0157",
+    "lat": 10.508784,
+    "lon": 123.434358
+  },
+  {
+    "country": "Philippines",
+    "state": "(unassigned)",
+    "city": "Quezon City",
+    "name": "Ever Gotesco â€“ Commonwealth Heliport",
+    "icao": "PH-0147",
+    "lat": 14.678164,
+    "lon": 121.085228
+  },
+  {
+    "country": "Philippines",
+    "state": "Negroe Occidental Province",
+    "city": "Refugio",
+    "name": "Refugio Airstrip",
+    "icao": "PH-0156",
+    "lat": 10.51524,
+    "lon": 123.447104
+  },
+  {
+    "country": "Philippines",
+    "state": "Aurora Province",
+    "city": "Reserva",
+    "name": "Reserva Helipad",
+    "icao": "PH-0019",
+    "lat": 15.814874,
+    "lon": 121.54704
+  },
+  {
+    "country": "Philippines",
+    "state": "Bataan Province",
+    "city": "Samal",
+    "name": "Samal (Bataan 2020) Airstrip",
+    "icao": "PH-0105",
+    "lat": 14.770725,
+    "lon": 120.506081
+  },
+  {
+    "country": "Philippines",
+    "state": "Nueva Ecija Province",
+    "city": "San Jose",
+    "name": "Pinili Airstrip",
+    "icao": "PH-0102",
+    "lat": 15.762353,
+    "lon": 121.03157
+  },
+  {
+    "country": "Philippines",
+    "state": "Zambales Province",
+    "city": "San Miguel",
+    "name": "Naval Station LeoVigildo Gantioqui Heliport",
+    "icao": "PH-0031",
+    "lat": 14.960447,
+    "lon": 120.071002
+  },
+  {
+    "country": "Philippines",
+    "state": "Cebu Province",
+    "city": "Sangi (Toledo)",
+    "name": "Sangi Airstrip",
+    "icao": "PH-0164",
+    "lat": 10.392492,
+    "lon": 123.645
+  },
+  {
+    "country": "Philippines",
+    "state": "Cagayan Province",
+    "city": "Santa Ana",
+    "name": "San Vicente Naval Airstrip",
+    "icao": "PH-0109",
+    "lat": 18.503785,
+    "lon": 122.148979
+  },
+  {
+    "country": "Philippines",
+    "state": "Batangas Province",
+    "city": "Santa Rita (Batangas)",
+    "name": "Santa Rita Power Plant Heliport",
+    "icao": "PH-0011",
+    "lat": 13.767591,
+    "lon": 121.033632
+  },
+  {
+    "country": "Philippines",
+    "state": "Sulu Province",
+    "city": "Siasi",
+    "name": "Siasi Airport",
+    "icao": "SSV",
+    "lat": 5.566779,
+    "lon": 120.841627
+  },
+  {
+    "country": "Philippines",
+    "state": "Romblon Province",
+    "city": "Sibuyan Island",
+    "name": "Azagra Airstrip",
+    "icao": "PH-0003",
+    "lat": 12.2799,
+    "lon": 122.6246
+  },
+  {
+    "country": "Philippines",
+    "state": "Pangasinan Province",
+    "city": "Sta.Maria",
+    "name": "NINOY AQUINO INTERNATIONAL AIRPORT AIRPLANE",
+    "icao": "PH-0176",
+    "lat": -1E-06,
+    "lon": -3E-06
+  },
+  {
+    "country": "Philippines",
+    "state": "Cagayan Province",
+    "city": "Taggat",
+    "name": "Taggat Airstrip",
+    "icao": "PH-0024",
+    "lat": 18.604703,
+    "lon": 121.061954
+  },
+  {
+    "country": "Philippines",
+    "state": "Batangas Province",
+    "city": "Tanauan",
+    "name": "Manny W Barradas Airstrip",
+    "icao": "PH-0089",
+    "lat": 14.096517,
+    "lon": 121.115245
+  },
+  {
+    "country": "Philippines",
+    "state": "Tarlac Province",
+    "city": "Tarlac City",
+    "name": "Alto Airfield",
+    "icao": "PH-0085",
+    "lat": 15.424775,
+    "lon": 120.631911
+  },
+  {
+    "country": "Philippines",
+    "state": "Misamis Oriental Province",
+    "city": "Villaneuva",
+    "name": "BDO ATM â€“ Steag Coal Power Plant Villaneuva Heliport",
+    "icao": "PH-0160",
+    "lat": 8.565884,
+    "lon": 124.762319
+  }
+]

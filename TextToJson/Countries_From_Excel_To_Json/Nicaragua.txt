@@ -1,0 +1,119 @@
+[
+  {
+    "country": "Nicaragua",
+    "state": "Managua",
+    "city": "Managua",
+    "name": "Augusto C. Sandino (Managua) International Airport",
+    "icao": "MNMG",
+    "lat": 12.1415004730224,
+    "lon": -86.1681976318359
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Atlantico Sur",
+    "city": "Corn Island",
+    "name": "Corn Island",
+    "icao": "MNCI",
+    "lat": 12.1628999710083,
+    "lon": -83.0637969970703
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Atlantico Sur",
+    "city": "Bluefileds",
+    "name": "Bluefields Airport",
+    "icao": "MNBL",
+    "lat": 11.991000175476,
+    "lon": -83.7741012573242
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Atlantico Norte",
+    "city": "Puerto Cabezas",
+    "name": "Puerto Cabezas Airport",
+    "icao": "MNPC",
+    "lat": 14.0472002029418,
+    "lon": -83.3867034912109
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Chinandega",
+    "city": "Chinandega",
+    "name": "Chinandega Airport",
+    "icao": "MNCH",
+    "lat": 12.640000343323,
+    "lon": -87.137397766113
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Matagalpa",
+    "city": "Dos Montes",
+    "name": "Dos Montes Airport",
+    "icao": "MNDM",
+    "lat": 12.8004999160766,
+    "lon": -86.1483001708984
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Atlantico Sur",
+    "city": "El Bluff",
+    "name": "El Bluff Airport",
+    "icao": "MNFF",
+    "lat": 11.9942998886108,
+    "lon": -83.6878967285156
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Chontales",
+    "city": "Hato Grande",
+    "name": "Hato Grande Airport",
+    "icao": "MNHG",
+    "lat": 11.9813995361328,
+    "lon": -85.4327011108398
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Atlantico Sur",
+    "city": "Karawala",
+    "name": "Karawala Airport",
+    "icao": "MNKW",
+    "lat": 12.8921003341674,
+    "lon": -83.5829010009765
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Atlantico Sur",
+    "city": "La Esperanza",
+    "name": "La Esperanza Airport",
+    "icao": "MNEP",
+    "lat": 12.199477,
+    "lon": -84.278526
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Managua",
+    "city": "Punta Huete",
+    "name": "Punta Huete (Panchito) Airport",
+    "icao": "MNFC",
+    "lat": 12.3534002304077,
+    "lon": -86.1828994750976
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Atlantico Norte",
+    "city": "Siuna",
+    "name": "Siuna",
+    "icao": "MNSI",
+    "lat": 13.7272224426269,
+    "lon": -84.7777786254882
+  },
+  {
+    "country": "Nicaragua",
+    "state": "Rivas",
+    "city": "Tola",
+    "name": "Costa Esmeralda Airport",
+    "icao": "MNCE",
+    "lat": 11.427542,
+    "lon": -86.033361
+  }
+]

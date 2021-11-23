@@ -1,0 +1,182 @@
+[
+  {
+    "country": "Morocco",
+    "state": "Marrakech Province",
+    "city": "Marrakech",
+    "name": "Menara Airport",
+    "icao": "GMMX",
+    "lat": 31.6068992614999,
+    "lon": -8.03629970551
+  },
+  {
+    "country": "Morocco",
+    "state": "Casablanca Province",
+    "city": "Casablanca",
+    "name": "Mohammed V International Airport",
+    "icao": "GMMN",
+    "lat": 33.3675003051757,
+    "lon": -7.58997011184692
+  },
+  {
+    "country": "Morocco",
+    "state": "Agadir Province",
+    "city": "Agadir",
+    "name": "Al Massira Airport",
+    "icao": "GMAD",
+    "lat": 30.3250007629394,
+    "lon": -9.41306972503662
+  },
+  {
+    "country": "Morocco",
+    "state": "Rabat-Salu Province",
+    "city": "Rabat",
+    "name": "Rabat-Salu Airport",
+    "icao": "GMME",
+    "lat": 34.051498,
+    "lon": -6.75152
+  },
+  {
+    "country": "Morocco",
+    "state": "Tangier Province",
+    "city": "Tangier",
+    "name": "Ibn Batouta Airport",
+    "icao": "GMTT",
+    "lat": 35.7268981934,
+    "lon": -5.91689014435
+  },
+  {
+    "country": "Morocco",
+    "state": "Oujda Province",
+    "city": "Oujda",
+    "name": "Angads Airport",
+    "icao": "GMFO",
+    "lat": 34.7872009277343,
+    "lon": -1.92399001121521
+  },
+  {
+    "country": "Morocco",
+    "state": "Nador Province",
+    "city": "Nador",
+    "name": "Nador International Airport",
+    "icao": "GMMW",
+    "lat": 34.9888000487999,
+    "lon": -3.0282099247
+  },
+  {
+    "country": "Morocco",
+    "state": "Casablanca Province",
+    "city": "Casablanca",
+    "name": "Tit Mellil Airport",
+    "icao": "GMMT",
+    "lat": 33.5974998474121,
+    "lon": -7.46500015258789
+  },
+  {
+    "country": "Morocco",
+    "state": "Ouarzazate Province",
+    "city": "Ouarzazate",
+    "name": "Ouarzazate Airport",
+    "icao": "GMMZ",
+    "lat": 30.9391002655,
+    "lon": -6.90943002701
+  },
+  {
+    "country": "Morocco",
+    "state": "Errachidia Province",
+    "city": "Errachidia",
+    "name": "Moulay Ali Cherif Airport",
+    "icao": "GMFK",
+    "lat": 31.9475002289,
+    "lon": -4.39833021164
+  },
+  {
+    "country": "Morocco",
+    "state": "Essaouira Province",
+    "city": "Essaouira",
+    "name": "Mogador Airport",
+    "icao": "GMMI",
+    "lat": 31.3974990845,
+    "lon": -9.6816701889
+  },
+  {
+    "country": "Morocco",
+    "state": "Tan-Tan Province",
+    "city": "Tan Tan",
+    "name": "Tan Tan Airport",
+    "icao": "GMAT",
+    "lat": 28.44820022583,
+    "lon": -11.1612997055053
+  },
+  {
+    "country": "Morocco",
+    "state": "MeknsÃ¨s Province",
+    "city": "Meknes",
+    "name": "Bassatine Airport",
+    "icao": "GMFM",
+    "lat": 33.8791007995605,
+    "lon": -5.51512002944946
+  },
+  {
+    "country": "Morocco",
+    "state": "Ifrane Province",
+    "city": "Ifrane Province",
+    "name": "Ifrane Airport",
+    "icao": "GMFI",
+    "lat": 33.5052986145019,
+    "lon": -5.15290021896362
+  },
+  {
+    "country": "Morocco",
+    "state": "Casablanca Province",
+    "city": "Ben Slimane",
+    "name": "Ben Slimane Airport",
+    "icao": "GMMB",
+    "lat": 33.655399,
+    "lon": -7.22145
+  },
+  {
+    "country": "Morocco",
+    "state": "TÃ©touan Province",
+    "city": "Beni Malek",
+    "name": "Ouezzane Airport",
+    "icao": "GMFA",
+    "lat": 34.7832984924316,
+    "lon": -5.63332986831665
+  },
+  {
+    "country": "Morocco",
+    "state": "El Jadida Province",
+    "city": "El Jadida",
+    "name": "El Jadida Airport",
+    "icao": "GMMJ",
+    "lat": 33.233299255371,
+    "lon": -8.51667022705078
+  },
+  {
+    "country": "Morocco",
+    "state": "FÃ¨s Province",
+    "city": "Fes",
+    "name": "Fes Sefrou Airport",
+    "icao": "GMFU",
+    "lat": 34.0080986022949,
+    "lon": -4.96555995941162
+  },
+  {
+    "country": "Morocco",
+    "state": "KÃ©nitra Province",
+    "city": "Sidi Slimane",
+    "name": "Sidi Slimane Airport",
+    "icao": "GMSL",
+    "lat": 34.2305984497,
+    "lon": -6.05013990402
+  },
+  {
+    "country": "Morocco",
+    "state": "Figuig Province",
+    "city": "Bouarfa",
+    "name": "Bouarfa Airport",
+    "icao": "GMFB",
+    "lat": 32.5143055556,
+    "lon": -1.98305555556
+  }
+]

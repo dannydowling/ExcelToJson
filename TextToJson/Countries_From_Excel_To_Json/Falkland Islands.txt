@@ -1,0 +1,218 @@
+[
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Mount Pleasant",
+    "name": "Mount Pleasant Airport",
+    "icao": "EGYP",
+    "lat": -51.8227996826171,
+    "lon": -58.4472007751464
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "Carcass Island",
+    "city": "Carcass Island",
+    "name": "Carcass Island Landing Strip",
+    "icao": "FK-0011",
+    "lat": -51.263671875,
+    "lon": -60.5920791625976
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Fox Bay",
+    "name": "Fox Bay Clay Airstrip",
+    "icao": "FK-0001",
+    "lat": -51.933694,
+    "lon": -60.061595
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Pebble Island Settlement",
+    "name": "Pebble Island Landing Strip",
+    "icao": "FK-0002",
+    "lat": -51.3097877502441,
+    "lon": -59.608772277832
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Port Howard Settlement",
+    "name": "Port Howard Purvis Pond Airstrip",
+    "icao": "FK-0009",
+    "lat": -51.5681,
+    "lon": -59.533699
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "Port San Carlos",
+    "city": "Port San Carlos",
+    "name": "Port San Carlos Landing Strip",
+    "icao": "FK-0008",
+    "lat": -51.501667022705,
+    "lon": -59.0036125183105
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "Sea Lion Island",
+    "city": "Sea Lion Island",
+    "name": "Sea Lion Lodge Airstrip",
+    "icao": "FK-0003",
+    "lat": -52.428215,
+    "lon": -59.077744
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Spring Point Settlement",
+    "name": "Spring Point Landing Strip",
+    "icao": "FK-0007",
+    "lat": -51.8292999267578,
+    "lon": -60.4514007568359
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "West Point",
+    "city": "West Point Island",
+    "name": "West Point Island Landing Strip",
+    "icao": "FK-0004",
+    "lat": -51.3456115722656,
+    "lon": -60.6839714050293
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Beaver Island",
+    "name": "Beaver Island Airport",
+    "icao": "FK-0029",
+    "lat": -51.84025,
+    "lon": -61.23365
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Douglas",
+    "name": "Douglas Station Airport",
+    "icao": "FK-0024",
+    "lat": -51.459942,
+    "lon": -58.612131
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Dunnose Head",
+    "name": "Dunnose Head Airport",
+    "icao": "FK-0014",
+    "lat": -51.753339,
+    "lon": -60.415834
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Fox Bay East",
+    "name": "Fox Bay Helipad",
+    "icao": "FK-0037",
+    "lat": -51.948893,
+    "lon": -60.066041
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "George Island House",
+    "name": "George Island Airport",
+    "icao": "FK-0023",
+    "lat": -52.349583,
+    "lon": -59.758717
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Golding Island",
+    "name": "Golding Island Airport",
+    "icao": "FK-0030",
+    "lat": -51.365478,
+    "lon": -59.691389
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Hill Cove",
+    "name": "Hill Cove Airport",
+    "icao": "FK-0016",
+    "lat": -51.504427,
+    "lon": -60.144435
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Lively",
+    "name": "Lively Island Airport",
+    "icao": "FK-0022",
+    "lat": -51.995626,
+    "lon": -58.459238
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "New Island",
+    "name": "New Island Airport",
+    "icao": "FK-0018",
+    "lat": -51.746491,
+    "lon": -61.281616
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "North Arm",
+    "name": "North Arm Airport",
+    "icao": "FK-0019",
+    "lat": -52.123295,
+    "lon": -59.370239
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Pebble Island",
+    "name": "Pebble Island Beach Airstrip",
+    "icao": "FK-0036",
+    "lat": -51.310931,
+    "lon": -59.566162
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Port Abermarle",
+    "name": "Port Abermarle Airport",
+    "icao": "FK-0013",
+    "lat": -52.205532,
+    "lon": -60.535062
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Salvador",
+    "name": "Salvador Airport",
+    "icao": "FK-0020",
+    "lat": -51.436639,
+    "lon": -58.378874
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Speedwell Island",
+    "name": "Speedwell Island Airport",
+    "icao": "FK-0026",
+    "lat": -52.2299,
+    "lon": -59.744502
+  },
+  {
+    "country": "Falkland Islands",
+    "state": "(unassigned)",
+    "city": "Weddell Island",
+    "name": "Weddell Island Airport",
+    "icao": "FK-0028",
+    "lat": -51.875659,
+    "lon": -60.90601
+  }
+]

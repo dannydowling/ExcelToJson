@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Wallis and Futuna",
+    "state": "Futuna Island",
+    "city": "Futuna Island",
+    "name": "Pointe Vele Airport",
+    "icao": "NLWF",
+    "lat": -14.3114004135,
+    "lon": -178.065994263
+  }
+]

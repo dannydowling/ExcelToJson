@@ -1,0 +1,83 @@
+[
+  {
+    "country": "Bangladesh",
+    "state": "Sylhet Division",
+    "city": "Sylhet",
+    "name": "Osmany International Airport",
+    "icao": "VGSY",
+    "lat": 24.9631996154785,
+    "lon": 91.8667984008789
+  },
+  {
+    "country": "Bangladesh",
+    "state": "Barisal Division",
+    "city": "Barisal",
+    "name": "Barisal Airport",
+    "icao": "VGBR",
+    "lat": 22.8010005950927,
+    "lon": 90.3012008666992
+  },
+  {
+    "country": "Bangladesh",
+    "state": "Rajshahi Division",
+    "city": "Saidpur",
+    "name": "Saidpur Airport",
+    "icao": "VGSD",
+    "lat": 25.759199142456,
+    "lon": 88.9088973999023
+  },
+  {
+    "country": "Bangladesh",
+    "state": "Rajshahi Division",
+    "city": "Ishurdi",
+    "name": "Ishurdi Airport",
+    "icao": "VGIS",
+    "lat": 24.1525001525878,
+    "lon": 89.0494003295898
+  },
+  {
+    "country": "Bangladesh",
+    "state": "Dhaka Division",
+    "city": "Dhaka",
+    "name": "Tejgaon Airport",
+    "icao": "VGTJ",
+    "lat": 23.7787990570068,
+    "lon": 90.382698059082
+  },
+  {
+    "country": "Bangladesh",
+    "state": "Rajshahi Division",
+    "city": "Lalmonirhat",
+    "name": "Lalmonirhat Airport",
+    "icao": "VGLM",
+    "lat": 25.8875007629394,
+    "lon": 89.4330978393554
+  },
+  {
+    "country": "Bangladesh",
+    "state": "Rajshahi Division",
+    "city": "Thakurgaon",
+    "name": "Thakurgaon Airport",
+    "icao": "VGSG",
+    "lat": 26.0163993835449,
+    "lon": 88.4036026000976
+  },
+  {
+    "country": "Bangladesh",
+    "state": "Rajshahi Division",
+    "city": "Bogra",
+    "name": "Bogra Airport",
+    "icao": "VGBG",
+    "lat": 24.8668,
+    "lon": 89.3165
+  },
+  {
+    "country": "Bangladesh",
+    "state": "Khulna Division",
+    "city": "Khulna",
+    "name": "Khan Jahan Ali Airport",
+    "icao": "KHL",
+    "lat": 22.6486,
+    "lon": 89.6454
+  }
+]

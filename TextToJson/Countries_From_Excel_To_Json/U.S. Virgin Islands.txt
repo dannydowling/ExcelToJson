@@ -1,0 +1,29 @@
+[
+  {
+    "country": "U.S. Virgin Islands",
+    "state": "(unassigned)",
+    "city": "Christiansted",
+    "name": "Henry E Rohlsen Airport",
+    "icao": "TISX",
+    "lat": 17.7019004821777,
+    "lon": -64.798599243164
+  },
+  {
+    "country": "U.S. Virgin Islands",
+    "state": "Charlotte Amalie St Thomas",
+    "city": "Charlotte Amalie St Thomas",
+    "name": "Charlotte Amalie Harbor Seaplane Base",
+    "icao": "VI22",
+    "lat": 18.3386001586914,
+    "lon": -64.9406967163086
+  },
+  {
+    "country": "U.S. Virgin Islands",
+    "state": "Charlotte Amalie",
+    "city": "Charlotte Amalie",
+    "name": "St. Thomas Waterfront Heliport",
+    "icao": "VI02",
+    "lat": 18.3386001586914,
+    "lon": -64.9393005371093
+  }
+]

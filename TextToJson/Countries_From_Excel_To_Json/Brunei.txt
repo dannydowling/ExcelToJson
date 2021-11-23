@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Brunei",
+    "state": "Brunei-Muara District",
+    "city": "Bandar Seri Begawan",
+    "name": "Brunei International Airport",
+    "icao": "WBSB",
+    "lat": 4.94420003890991,
+    "lon": 114.928001403808
+  },
+  {
+    "country": "Brunei",
+    "state": "Belait District",
+    "city": "Anduki/Seria",
+    "name": "Anduki Airport",
+    "icao": "WBAK",
+    "lat": 4.63700008392,
+    "lon": 114.382003784
+  }
+]

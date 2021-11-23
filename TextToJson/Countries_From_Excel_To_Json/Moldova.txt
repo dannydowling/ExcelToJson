@@ -1,0 +1,56 @@
+[
+  {
+    "country": "Moldova",
+    "state": "Chiein",
+    "city": "Chiein",
+    "name": "Chiein International Airport",
+    "icao": "LUKK",
+    "lat": 46.9277000427246,
+    "lon": 28.9309997558593
+  },
+  {
+    "country": "Moldova",
+    "state": "RÃ®ÅŸcani",
+    "city": "BÄƒlÈ›i",
+    "name": "BÄƒlÈ›i International Airport",
+    "icao": "LUBL",
+    "lat": 47.843056,
+    "lon": 27.777222
+  },
+  {
+    "country": "Moldova",
+    "state": "BÄƒlÅ£i",
+    "city": "BÄƒlÅ£i",
+    "name": "BÄƒlÅ£i City Airport",
+    "icao": "MD-0001",
+    "lat": 47.774399,
+    "lon": 27.9575
+  },
+  {
+    "country": "Moldova",
+    "state": "FloreÅŸti",
+    "city": "MÄƒrculeÅŸti",
+    "name": "MÄƒrculeÅŸti International Airport",
+    "icao": "LUBM",
+    "lat": 47.8627014160156,
+    "lon": 28.2127990722656
+  },
+  {
+    "country": "Moldova",
+    "state": "CÄƒlÄƒraÅŸi",
+    "city": "CÄƒlÄƒraÈ™i",
+    "name": "CÄƒlÄƒraÈ™i",
+    "icao": "MD-0004",
+    "lat": 47.2521452,
+    "lon": 28.2802413
+  },
+  {
+    "country": "Moldova",
+    "state": "(unassigned)",
+    "city": "Horeshti",
+    "name": "Horeshti Airfield",
+    "icao": "MD-0003",
+    "lat": 46.83656,
+    "lon": 28.901639
+  }
+]

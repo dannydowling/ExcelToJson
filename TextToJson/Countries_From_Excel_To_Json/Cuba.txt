@@ -1,0 +1,650 @@
+[
+  {
+    "country": "Cuba",
+    "state": "Villa Clara",
+    "city": "Santa Clara",
+    "name": "Abel Santamaria Airport",
+    "icao": "MUSC",
+    "lat": 22.4922008514404,
+    "lon": -79.943603515625
+  },
+  {
+    "country": "Cuba",
+    "state": "Ciego de Ãvila",
+    "city": "Cayo Coco",
+    "name": "Cayo Coco Airport",
+    "icao": "MUOC",
+    "lat": 22.5132007599,
+    "lon": -78.5110015869
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "Camaguey",
+    "name": "Ignacio Agramonte International Airport",
+    "icao": "MUCM",
+    "lat": 21.4202995300292,
+    "lon": -77.8475036621093
+  },
+  {
+    "country": "Cuba",
+    "state": "GuantÃ¡namo",
+    "city": "Guantanamo Bay Naval Station",
+    "name": "Leeward Point Field",
+    "icao": "MUGM",
+    "lat": 19.906499862671,
+    "lon": -75.207099914551
+  },
+  {
+    "country": "Cuba",
+    "state": "Ciego de Ãvila",
+    "city": "Ciego de Avila",
+    "name": "Maximo Gomez Airport",
+    "icao": "MUCA",
+    "lat": 22.027099609375,
+    "lon": -78.7895965576171
+  },
+  {
+    "country": "Cuba",
+    "state": "Sancti SpÃ­ritus",
+    "city": "Cayo Santa Maria",
+    "name": "Las Brujas Airport",
+    "icao": "MUBR",
+    "lat": 22.6212997436999,
+    "lon": -79.1472015381
+  },
+  {
+    "country": "Cuba",
+    "state": "Isla de la Juventud",
+    "city": "Isla de la Juventud",
+    "name": "Siguanea Airport",
+    "icao": "MUSN",
+    "lat": 21.642499923706,
+    "lon": -82.9551010131836
+  },
+  {
+    "country": "Cuba",
+    "state": "HolguÃ­n",
+    "city": "Moa",
+    "name": "Orestes Acosta Airport",
+    "icao": "MUMO",
+    "lat": 20.6539001464843,
+    "lon": -74.9222030639648
+  },
+  {
+    "country": "Cuba",
+    "state": "Matanzas",
+    "city": "Varadero",
+    "name": "Kawama Airport",
+    "icao": "MUKW",
+    "lat": 23.124001,
+    "lon": -81.301598
+  },
+  {
+    "country": "Cuba",
+    "state": "Ciego de Ãvila",
+    "city": "Ciego de Avila",
+    "name": "Ciego De Avila Sur Airport",
+    "icao": "MUCD",
+    "lat": 21.8211994171142,
+    "lon": -78.7566986083984
+  },
+  {
+    "country": "Cuba",
+    "state": "Matanzas",
+    "city": "Matanzas",
+    "name": "Matanzas Airport",
+    "icao": "MUMT",
+    "lat": 23.0100002288818,
+    "lon": -81.5100021362304
+  },
+  {
+    "country": "Cuba",
+    "state": "Villa Clara",
+    "city": "Villa Clara",
+    "name": "Jutiera Airport",
+    "icao": "CU-0063",
+    "lat": 22.6163878048,
+    "lon": -79.7288990021
+  },
+  {
+    "country": "Cuba",
+    "state": "GuantÃ¡namo",
+    "city": "Baracoa",
+    "name": "Gustavo Rizo Airport",
+    "icao": "MUBA",
+    "lat": 20.3652992248535,
+    "lon": -74.5062026977539
+  },
+  {
+    "country": "Cuba",
+    "state": "Granma",
+    "city": "Bayamo",
+    "name": "Carlos Manuel de Cespedes Airport",
+    "icao": "MUBY",
+    "lat": 20.3964004516601,
+    "lon": -76.6213989257812
+  },
+  {
+    "country": "Cuba",
+    "state": "Las Tunas",
+    "city": "Las Tunas",
+    "name": "Hermanos Ameijeiras Airport",
+    "icao": "MUVT",
+    "lat": 20.987600326538,
+    "lon": -76.9357986450195
+  },
+  {
+    "country": "Cuba",
+    "state": "Granma",
+    "city": "Manzanillo",
+    "name": "Sierra Maestra Airport",
+    "icao": "MUMZ",
+    "lat": 20.2880992889404,
+    "lon": -77.0892028808593
+  },
+  {
+    "country": "Cuba",
+    "state": "Sancti SpÃ­ritus",
+    "city": "Trinidad",
+    "name": "Alberto Delgado Airport",
+    "icao": "MUTD",
+    "lat": 21.7882995605468,
+    "lon": -79.997200012207
+  },
+  {
+    "country": "Cuba",
+    "state": "Pinar del RÃ­o",
+    "city": "Pinar del Rio",
+    "name": "La Coloma Airport",
+    "icao": "MULM",
+    "lat": 22.3360996246337,
+    "lon": -83.6418991088867
+  },
+  {
+    "country": "Cuba",
+    "state": "La Habana",
+    "city": "BatabanÃ³",
+    "name": "BatabanÃ³ Airport",
+    "icao": "MUBO",
+    "lat": 22.718599319458,
+    "lon": -82.2686004638671
+  },
+  {
+    "country": "Cuba",
+    "state": "La Habana",
+    "city": "Cayajabo",
+    "name": "Cayajabo Airport",
+    "icao": "MUCY",
+    "lat": 22.864444732666,
+    "lon": -82.8558349609375
+  },
+  {
+    "country": "Cuba",
+    "state": "Matanzas",
+    "city": "ColÃ³n",
+    "name": "ColÃ³n Airport",
+    "icao": "MUCO",
+    "lat": 22.7110996246,
+    "lon": -80.9227981567
+  },
+  {
+    "country": "Cuba",
+    "state": "Santiago de Cuba",
+    "city": "Corral de Rio",
+    "name": "Corral de Rio Airport",
+    "icao": "CU-0001",
+    "lat": 19.9377994537353,
+    "lon": -76.7893981933593
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "El Caney",
+    "name": "El Caney Airport",
+    "icao": "CU-0005",
+    "lat": 21.3169994354248,
+    "lon": -78.4514999389648
+  },
+  {
+    "country": "Cuba",
+    "state": "Pinar del RÃ­o",
+    "city": "El Frances",
+    "name": "El Frances Airport",
+    "icao": "CU-0010",
+    "lat": 22.6179008483886,
+    "lon": -82.9281997680664
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "Florida",
+    "name": "Florida Airport",
+    "icao": "MUFL",
+    "lat": 21.4997005462646,
+    "lon": -78.2027969360351
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "Florida",
+    "name": "Central Agramonte Airport",
+    "icao": "MUGA",
+    "lat": 21.5499992370605,
+    "lon": -78.2333297729492
+  },
+  {
+    "country": "Cuba",
+    "state": "Ciudad de la Habana",
+    "city": "Havana",
+    "name": "Ciudad Libertad Airport",
+    "icao": "MULB",
+    "lat": 23.0939006805419,
+    "lon": -82.4381027221679
+  },
+  {
+    "country": "Cuba",
+    "state": "Ciudad de la Habana",
+    "city": "Havana",
+    "name": "SanPedro Highway Airstrip",
+    "icao": "CU-0013",
+    "lat": 22.9776000976562,
+    "lon": -82.472297668457
+  },
+  {
+    "country": "Cuba",
+    "state": "Pinar del RÃ­o",
+    "city": "La AsunciÃ³n",
+    "name": "La AsunciÃ³n Airport",
+    "icao": "CU-0009",
+    "lat": 22.5832004547119,
+    "lon": -83.2304992675781
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "La Olivia",
+    "name": "La Olivia Airport",
+    "icao": "CU-0006",
+    "lat": 21.4699993133544,
+    "lon": -78.4608001708984
+  },
+  {
+    "country": "Cuba",
+    "state": "GuantÃ¡namo",
+    "city": "Maisi",
+    "name": "Punta de Maisi Airport",
+    "icao": "MUMA",
+    "lat": 20.2506008148,
+    "lon": -74.1504974365
+  },
+  {
+    "country": "Cuba",
+    "state": "Ciudad de la Habana",
+    "city": "Managua",
+    "name": "Managua Airport",
+    "icao": "MUMG",
+    "lat": 22.9699001312255,
+    "lon": -82.2748031616211
+  },
+  {
+    "country": "Cuba",
+    "state": "La Habana",
+    "city": "Mariel",
+    "name": "Mariel Airport",
+    "icao": "MUML",
+    "lat": 23.0074005126953,
+    "lon": -82.7676010131836
+  },
+  {
+    "country": "Cuba",
+    "state": "Sancti SpÃ­ritus",
+    "city": "Mayajigua",
+    "name": "Mayajigua Airport",
+    "icao": "MUMJ",
+    "lat": 22.2308006286621,
+    "lon": -79.0622024536132
+  },
+  {
+    "country": "Cuba",
+    "state": "HolguÃ­n",
+    "city": "Nicaro",
+    "name": "Nicaro Airport",
+    "icao": "MUNC",
+    "lat": 20.6886005401611,
+    "lon": -75.5315017700195
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "Nuevitas",
+    "name": "Nuevitas Airport",
+    "icao": "MUIV",
+    "lat": 21.5538005828857,
+    "lon": -77.2585983276367
+  },
+  {
+    "country": "Cuba",
+    "state": "Granma",
+    "city": "Pilon",
+    "name": "Pilon Airport",
+    "icao": "MUPL",
+    "lat": 19.8638000487999,
+    "lon": -77.3492965698
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "Playa Santa LucÃ­a",
+    "name": "JoaquÃ­n de AgÃ¼ero Airport",
+    "icao": "MUSL",
+    "lat": 21.5094559066999,
+    "lon": -77.0205974579
+  },
+  {
+    "country": "Cuba",
+    "state": "HolguÃ­n",
+    "city": "Preston",
+    "name": "Preston Airport",
+    "icao": "CU-0003",
+    "lat": 20.7350006103515,
+    "lon": -75.6583023071289
+  },
+  {
+    "country": "Cuba",
+    "state": "Sancti SpÃ­ritus",
+    "city": "Sancti Spiritus",
+    "name": "Sancti Spiritus Airport",
+    "icao": "MUSS",
+    "lat": 21.9704,
+    "lon": -79.442703
+  },
+  {
+    "country": "Cuba",
+    "state": "Pinar del RÃ­o",
+    "city": "Pinar del RÃ­o",
+    "name": "La Francia Airfield",
+    "icao": "CU-0016",
+    "lat": 22.5331993103,
+    "lon": -83.2134017944
+  },
+  {
+    "country": "Cuba",
+    "state": "Santiago de Cuba",
+    "city": "Santiago de Cuba",
+    "name": "Los Mangos de Baragua Airport",
+    "icao": "CU-0018",
+    "lat": 20.4471600722,
+    "lon": -75.989921093
+  },
+  {
+    "country": "Cuba",
+    "state": "HolguÃ­n",
+    "city": "HolguÃ­n",
+    "name": "Lora Airport",
+    "icao": "CU-0020",
+    "lat": 21.1697254482,
+    "lon": -76.4159417152
+  },
+  {
+    "country": "Cuba",
+    "state": "Granma",
+    "city": "Granma",
+    "name": "Caio Voisan Airport",
+    "icao": "CU-0022",
+    "lat": 20.4110459473,
+    "lon": -76.7945194244
+  },
+  {
+    "country": "Cuba",
+    "state": "Granma",
+    "city": "Granma",
+    "name": "Mateo Roman Airport",
+    "icao": "CU-0024",
+    "lat": 20.215972179,
+    "lon": -76.9997406006
+  },
+  {
+    "country": "Cuba",
+    "state": "Granma",
+    "city": "Granma",
+    "name": "Cayama Nueva Airport",
+    "icao": "CU-0026",
+    "lat": 20.4965719961,
+    "lon": -76.9062709808
+  },
+  {
+    "country": "Cuba",
+    "state": "Granma",
+    "city": "Granma",
+    "name": "Puente Guillen Airport",
+    "icao": "CU-0028",
+    "lat": 20.7204140038,
+    "lon": -77.0022296906
+  },
+  {
+    "country": "Cuba",
+    "state": "Las Tunas",
+    "city": "Las Tunas",
+    "name": "El Congo Airport",
+    "icao": "CU-0031",
+    "lat": 21.1133276699,
+    "lon": -76.7704868317
+  },
+  {
+    "country": "Cuba",
+    "state": "Granma",
+    "city": "Granma",
+    "name": "Campechuela Airport",
+    "icao": "CU-0033",
+    "lat": 20.2187911667,
+    "lon": -77.2972297668
+  },
+  {
+    "country": "Cuba",
+    "state": "Las Tunas",
+    "city": "Las Tunas",
+    "name": "Francisco Airport",
+    "icao": "CU-0035",
+    "lat": 20.7988864274999,
+    "lon": -77.598323822
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "CamagÃ¼ey",
+    "name": "Guaicanamar Airport",
+    "icao": "CU-0037",
+    "lat": 20.8973856385,
+    "lon": -77.9015636444
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "CamagÃ¼ey",
+    "name": "Los Ingleses Airport",
+    "icao": "CU-0039",
+    "lat": 20.8250214705,
+    "lon": -78.0691480637
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "CamagÃ¼ey",
+    "name": "Las Cruces Airport",
+    "icao": "CU-0041",
+    "lat": 21.0584703749,
+    "lon": -78.3176708221
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "CamagÃ¼ey",
+    "name": "Vertientes Airport",
+    "icao": "CU-0043",
+    "lat": 21.2392024389,
+    "lon": -78.1157541275
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "CamagÃ¼ey",
+    "name": "El Cenizo Airport",
+    "icao": "CU-0045",
+    "lat": 21.200336961,
+    "lon": -78.4206676483
+  },
+  {
+    "country": "Cuba",
+    "state": "CamagÃ¼ey",
+    "city": "CamagÃ¼ey",
+    "name": "Esmeralda Airport",
+    "icao": "CU-0047",
+    "lat": 21.8329782097,
+    "lon": -78.1395721435999
+  },
+  {
+    "country": "Cuba",
+    "state": "Ciego de Ãvila",
+    "city": "Ciego de Ãvila",
+    "name": "Moron Airport",
+    "icao": "CU-0049",
+    "lat": 22.0792771437999,
+    "lon": -78.6197948456
+  },
+  {
+    "country": "Cuba",
+    "state": "Ciego de Ãvila",
+    "city": "Ciego de Ãvila",
+    "name": "El Asiento Airport",
+    "icao": "CU-0051",
+    "lat": 22.2512885393,
+    "lon": -78.8961696625
+  },
+  {
+    "country": "Cuba",
+    "state": "Sancti SpÃ­ritus",
+    "city": "Sancti SpÃ­ritus",
+    "name": "Jatibonico South Airport",
+    "icao": "CU-0053",
+    "lat": 21.9045077447,
+    "lon": -79.1829514503
+  },
+  {
+    "country": "Cuba",
+    "state": "Sancti SpÃ­ritus",
+    "city": "Sancti SpÃ­ritus",
+    "name": "Las Crisis Airport",
+    "icao": "CU-0055",
+    "lat": 21.6531603511999,
+    "lon": -79.1432332993
+  },
+  {
+    "country": "Cuba",
+    "state": "Sancti SpÃ­ritus",
+    "city": "Sancti SpÃ­ritus",
+    "name": "Las Obas Airport",
+    "icao": "CU-0057",
+    "lat": 21.6580663691,
+    "lon": -79.3397641182
+  },
+  {
+    "country": "Cuba",
+    "state": "Sancti SpÃ­ritus",
+    "city": "Sancti SpÃ­ritus",
+    "name": "El Jibaro Airport",
+    "icao": "CU-0059",
+    "lat": 21.7220287516999,
+    "lon": -79.2279052734
+  },
+  {
+    "country": "Cuba",
+    "state": "Sancti SpÃ­ritus",
+    "city": "Sancti SpÃ­ritus",
+    "name": "Las Guasimas Airport",
+    "icao": "CU-0061",
+    "lat": 21.6997009726,
+    "lon": -79.3978500365999
+  },
+  {
+    "country": "Cuba",
+    "state": "Villa Clara",
+    "city": "Villa Clara",
+    "name": "Purio Airport",
+    "icao": "CU-0064",
+    "lat": 22.6831627433999,
+    "lon": -79.8882865906
+  },
+  {
+    "country": "Cuba",
+    "state": "Matanzas",
+    "city": "Matanzas",
+    "name": "Marti East Airport",
+    "icao": "CU-0066",
+    "lat": 22.9508850794,
+    "lon": -80.8931064606
+  },
+  {
+    "country": "Cuba",
+    "state": "Matanzas",
+    "city": "Matanzas",
+    "name": "Jaguey Grande North Airport",
+    "icao": "CU-0069",
+    "lat": 22.5891447298,
+    "lon": -81.1118030547999
+  },
+  {
+    "country": "Cuba",
+    "state": "Matanzas",
+    "city": "Matanzas",
+    "name": "Union de Reyes Airport",
+    "icao": "CU-0071",
+    "lat": 22.8037187383999,
+    "lon": -81.498041153
+  },
+  {
+    "country": "Cuba",
+    "state": "Ciudad de la Habana",
+    "city": "Ciudad de la Habana",
+    "name": "Santa Fe Airport",
+    "icao": "CU-0073",
+    "lat": 23.0725066533999,
+    "lon": -82.5114870071
+  },
+  {
+    "country": "Cuba",
+    "state": "Pinar del RÃ­o",
+    "city": "Pinar del RÃ­o",
+    "name": "Branas Airport",
+    "icao": "CU-0075",
+    "lat": 22.6032547505999,
+    "lon": -83.0974316597
+  },
+  {
+    "country": "Cuba",
+    "state": "Pinar del RÃ­o",
+    "city": "Pinar del RÃ­o",
+    "name": "La Cubana Airport",
+    "icao": "CU-0077",
+    "lat": 22.4485848608,
+    "lon": -83.1861162185999
+  },
+  {
+    "country": "Cuba",
+    "state": "Pinar del RÃ­o",
+    "city": "Pinar del RÃ­o",
+    "name": "Caserio la Jocuma North Airport",
+    "icao": "CU-0079",
+    "lat": 22.4608898627,
+    "lon": -83.3620047569
+  },
+  {
+    "country": "Cuba",
+    "state": "HolguÃ­n",
+    "city": "San German",
+    "name": "San German Airport",
+    "icao": "CU-0030",
+    "lat": 20.582452108,
+    "lon": -76.1243104935
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "country": "Guinea",
+    "state": "Faranah Region",
+    "city": "Faranah",
+    "name": "Faranah Airport",
+    "icao": "GUFH",
+    "lat": 10.0354995728,
+    "lon": -10.7698001862
+  },
+  {
+    "country": "Guinea",
+    "state": "BokÃ© Region",
+    "city": "Fria",
+    "name": "Fria Airport",
+    "icao": "GUFA",
+    "lat": 10.350600242615,
+    "lon": -13.569199562073
+  },
+  {
+    "country": "Guinea",
+    "state": "LabÃ© Region",
+    "city": "LabÃ©",
+    "name": "Tata Airport",
+    "icao": "GULB",
+    "lat": 11.326100349426,
+    "lon": -12.286800384521
+  },
+  {
+    "country": "Guinea",
+    "state": "Faranah Region",
+    "city": "Kissidougou",
+    "name": "Kissidougou Airport",
+    "icao": "GUKU",
+    "lat": 9.1605596542358,
+    "lon": -10.124400138855
+  },
+  {
+    "country": "Guinea",
+    "state": "BokÃ© Region",
+    "city": "Koundara",
+    "name": "Sambailo Airport",
+    "icao": "GUSB",
+    "lat": 12.572699546814,
+    "lon": -13.358499526978
+  },
+  {
+    "country": "Guinea",
+    "state": "NzÃ©rÃ©korÃ© Region",
+    "city": "Macenta",
+    "name": "Macenta Airport",
+    "icao": "GUMA",
+    "lat": 8.481857,
+    "lon": -9.525071
+  },
+  {
+    "country": "Guinea",
+    "state": "BokÃ© Region",
+    "city": "SangarÃ©di",
+    "name": "SangarÃ©di Airport",
+    "icao": "GUSA",
+    "lat": 11.114558,
+    "lon": -13.815834
+  },
+  {
+    "country": "Guinea",
+    "state": "NzÃ©rÃ©korÃ© Region",
+    "city": "Beyla",
+    "name": "Beyla Airport",
+    "icao": "GUBE",
+    "lat": 8.697222,
+    "lon": -8.713889
+  }
+]

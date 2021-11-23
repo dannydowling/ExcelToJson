@@ -1,0 +1,128 @@
+[
+  {
+    "country": "Slovenia",
+    "state": "Ljubljana",
+    "city": "Ljubljana",
+    "name": "Ljubljana Joae Pua nik Airport",
+    "icao": "LJLJ",
+    "lat": 46.223701,
+    "lon": 14.4576
+  },
+  {
+    "country": "Slovenia",
+    "state": "Slovenj Gradec",
+    "city": "Slovenc Gradec",
+    "name": "Slovenj Gradec Airport",
+    "icao": "LJSG",
+    "lat": 46.4720001220703,
+    "lon": 15.1169996261596
+  },
+  {
+    "country": "Slovenia",
+    "state": "Murska Sobota",
+    "city": "Murska Sobota",
+    "name": "Murska Sobota Airport",
+    "icao": "LJMS",
+    "lat": 46.6293983459472,
+    "lon": 16.1749992370605
+  },
+  {
+    "country": "Slovenia",
+    "state": "Ajdovscina",
+    "city": "Ajdovscina",
+    "name": "AjdovÅ¡Äina Airfield",
+    "icao": "LJAJ",
+    "lat": 45.889198,
+    "lon": 13.8869
+  },
+  {
+    "country": "Slovenia",
+    "state": "Nova mesto",
+    "city": "Novo mesto",
+    "name": "Novo Mesto Airport",
+    "icao": "LJNM",
+    "lat": 45.8102989196777,
+    "lon": 15.1127004623413
+  },
+  {
+    "country": "Slovenia",
+    "state": "Postojna",
+    "city": "Postojna",
+    "name": "Postojna Airfield",
+    "icao": "LJPO",
+    "lat": 45.7522010803222,
+    "lon": 14.1947002410888
+  },
+  {
+    "country": "Slovenia",
+    "state": "Verzej",
+    "city": "Verzej",
+    "name": "Krapje VerÅ¾ej Airfield",
+    "icao": "SI-0003",
+    "lat": 46.5726852417,
+    "lon": 16.1909732819
+  },
+  {
+    "country": "Slovenia",
+    "state": "Metlika",
+    "city": "Metlika",
+    "name": "Prilozje - Metlika",
+    "icao": "SI-0005",
+    "lat": 45.5910082806,
+    "lon": 15.2611255646
+  },
+  {
+    "country": "Slovenia",
+    "state": "Jovevje",
+    "city": "Jovevje",
+    "name": "Ula Novi Lazi",
+    "icao": "SI-0006",
+    "lat": 45.571455,
+    "lon": 14.857163
+  },
+  {
+    "country": "Slovenia",
+    "state": "Kamnik",
+    "city": "Kamnik",
+    "name": "Kamnik Stol Airfield",
+    "icao": "SI-0010",
+    "lat": 46.196389,
+    "lon": 14.583333
+  },
+  {
+    "country": "Slovenia",
+    "state": "Ribnica",
+    "city": "Ribnica",
+    "name": "AndoljÅ¡ek - Ribnica UL field",
+    "icao": "SI-0014",
+    "lat": 45.743935,
+    "lon": 14.713
+  },
+  {
+    "country": "Slovenia",
+    "state": "Ljubljana",
+    "city": "Ljubljana",
+    "name": "Dol pri Ljubljani UL",
+    "icao": "SI-0026",
+    "lat": 46.0896005,
+    "lon": 14.6470859
+  },
+  {
+    "country": "Slovenia",
+    "state": "Cerknica",
+    "city": "Cerknica",
+    "name": "VzletiÅ¡Äe Cerknica - Marof",
+    "icao": "SI-0021",
+    "lat": 45.7777493,
+    "lon": 14.3881767
+  },
+  {
+    "country": "Slovenia",
+    "state": "Prebold",
+    "city": "Kaplja Vas",
+    "name": "Kaplja Vas - Prebold UL field",
+    "icao": "SI-0013",
+    "lat": 46.242379,
+    "lon": 15.07335
+  }
+]

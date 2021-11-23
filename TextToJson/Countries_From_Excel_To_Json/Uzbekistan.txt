@@ -1,0 +1,758 @@
+[
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Tashkent",
+    "name": "Tashkent International Airport",
+    "icao": "UTTT",
+    "lat": 41.257900238,
+    "lon": 69.2811965942
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qoraqalpogiston Respublikasi",
+    "city": "Nukus",
+    "name": "Nukus Airport",
+    "icao": "UTNN",
+    "lat": 42.4883995056152,
+    "lon": 59.6232986450195
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Khanabad",
+    "name": "Karshi Khanabad Airport",
+    "icao": "UTSL",
+    "lat": 38.8335990906,
+    "lon": 65.9215011597
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Namangan",
+    "city": "Namangan",
+    "name": "Namangan Airport",
+    "icao": "UTKN",
+    "lat": 40.9846000671,
+    "lon": 71.5567016602
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Surxondaryo",
+    "city": "Goran",
+    "name": "Kakaydy Airport",
+    "icao": "UT1M",
+    "lat": 37.6242980957031,
+    "lon": 67.5176010131836
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Karshi",
+    "name": "Karshi South Airport",
+    "icao": "UT1N",
+    "lat": 38.8018989562988,
+    "lon": 65.7746963500976
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qoraqalpogiston Respublikasi",
+    "city": "Komsomolsk-na-Ustyurte",
+    "name": "Komsomolsk-na-Ustyurte Airport",
+    "icao": "UZ-0148",
+    "lat": 44.024526,
+    "lon": 58.2515106
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Ak Kurgan",
+    "name": "Ak Kurgan Airport",
+    "icao": "UZ-0002",
+    "lat": 40.8633003234863,
+    "lon": 69.0289993286132
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Alhi",
+    "name": "Alhi Airport",
+    "icao": "UZ-0060",
+    "lat": 40.9351997375488,
+    "lon": 69.1410980224609
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Andijon",
+    "city": "Andizhan",
+    "name": "Andizhan Northeast Airport",
+    "icao": "UZ-0004",
+    "lat": 40.888500213623,
+    "lon": 72.4052963256836
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qoraqalpogiston Respublikasi",
+    "city": "Beleuli",
+    "name": "Beleuli North Airport",
+    "icao": "UT1O",
+    "lat": 44.054100036621,
+    "lon": 57.5477981567382
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Surxondaryo",
+    "city": "Besh Kotan",
+    "name": "Besh Kotan Airport",
+    "icao": "UZ-0006",
+    "lat": 37.491600036621,
+    "lon": 66.9785995483398
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Chartak",
+    "name": "Chartak Airport",
+    "icao": "UZ-0008",
+    "lat": 40.9477005004882,
+    "lon": 69.0438003540039
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Chim",
+    "name": "Chim Airport",
+    "icao": "UZ-0067",
+    "lat": 38.8302001953125,
+    "lon": 66.2624969482421
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Chimkurgan",
+    "name": "Chimkurgan Airport",
+    "icao": "UZ-0068",
+    "lat": 40.3796997070312,
+    "lon": 67.6641006469726
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Chinaz",
+    "name": "Chinaz Highway Airstrip",
+    "icao": "UZ-0009",
+    "lat": 40.9794998168945,
+    "lon": 68.7921981811523
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Surxondaryo",
+    "city": "Denau",
+    "name": "Denau Airport",
+    "icao": "UZ-0071",
+    "lat": 38.2489013671875,
+    "lon": 67.9278030395507
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Sirdaryo",
+    "city": "Dimitrovskoye",
+    "name": "Dimitrovskoye Airport",
+    "icao": "UZ-0073",
+    "lat": 40.2981986999511,
+    "lon": 69.0531005859375
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Dustlik",
+    "name": "Dustlik North Airport",
+    "icao": "UZ-0010",
+    "lat": 40.5498085021972,
+    "lon": 68.0837097167968
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Dustlik",
+    "name": "Dustlik Northeast Airport",
+    "icao": "UZ-0075",
+    "lat": 40.4775161743164,
+    "lon": 68.0886917114257
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qoraqalpogiston Respublikasi",
+    "city": "Dzhangabirlyk",
+    "name": "Dzhangabirlyk West Airport",
+    "icao": "UZ-0012",
+    "lat": 43.1188011169433,
+    "lon": 58.3736000061035
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Surxondaryo",
+    "city": "Dzharkurgan",
+    "name": "Dzharkurgan East Airport",
+    "icao": "UZ-0077",
+    "lat": 37.5089988708496,
+    "lon": 67.472297668457
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Faizabad",
+    "name": "Faizabad Airport",
+    "icao": "UZ-0078",
+    "lat": 38.744701385498,
+    "lon": 65.7801971435546
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Gagarin",
+    "name": "Tmeni Telmana Airport",
+    "icao": "UZ-0132",
+    "lat": 40.7318000793457,
+    "lon": 68.2220001220703
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Surxondaryo",
+    "city": "Galyabita",
+    "name": "Galyabita East Airport",
+    "icao": "UZ-0015",
+    "lat": 38.4197006225585,
+    "lon": 68.1010971069336
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Sirdaryo",
+    "city": "Golodnaya",
+    "name": "Golodnaya Step Southeast Airport",
+    "icao": "UZ-0080",
+    "lat": 40.4157981872558,
+    "lon": 68.4149017333984
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Guzar",
+    "name": "Guzar Airport",
+    "icao": "UZ-0016",
+    "lat": 38.6347007751464,
+    "lon": 66.2727966308593
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Ilich",
+    "name": "Ilich North Airport",
+    "icao": "UZ-0018",
+    "lat": 40.9392013549804,
+    "lon": 68.5202026367187
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Sirdaryo",
+    "city": "Imeni Chkalova",
+    "name": "Imeni Chkalova Airport",
+    "icao": "UZ-0082",
+    "lat": 40.5539016723632,
+    "lon": 68.9216003417968
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Irdzharskaya",
+    "name": "Irdzharskaya West Airport",
+    "icao": "UZ-0084",
+    "lat": 40.679401397705,
+    "lon": 67.9983978271484
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Buxoro",
+    "city": "Kagan",
+    "name": "Kagan South Airport",
+    "icao": "UT1P",
+    "lat": 39.6893997192382,
+    "lon": 64.5503997802734
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qoraqalpogiston Respublikasi",
+    "city": "Kantubek",
+    "name": "Ostrov Vozrozhdeniya Southwest Airport",
+    "icao": "UZ-0038",
+    "lat": 45.0904006958007,
+    "lon": 59.2220993041992
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Namangan",
+    "city": "Kara Kalpak",
+    "name": "Kara Kalpak Airport",
+    "icao": "UZ-0022",
+    "lat": 40.8033981323242,
+    "lon": 71.1892013549804
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Karakoy",
+    "name": "Karakoy Airport",
+    "icao": "UZ-0091",
+    "lat": 40.9071998596191,
+    "lon": 68.2109985351562
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Buxoro",
+    "city": "Karakul",
+    "name": "Karakul Airport",
+    "icao": "UZ-0093",
+    "lat": 39.5130996704101,
+    "lon": 63.8591995239257
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Karshi",
+    "name": "Karshi East Airport",
+    "icao": "UZ-0094",
+    "lat": 38.8672981262207,
+    "lon": 65.8414993286132
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Kasan",
+    "name": "Kasan Southwest Airport",
+    "icao": "UZ-0096",
+    "lat": 39.021198272705,
+    "lon": 65.5336990356445
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Samarqand",
+    "city": "Kattaming",
+    "name": "Kattaming Airport",
+    "icao": "UZ-0098",
+    "lat": 39.9406013488769,
+    "lon": 66.0947036743164
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Kazakly Baudark",
+    "name": "Kazakly Baudark Airport",
+    "icao": "UZ-0099",
+    "lat": 38.9856986999511,
+    "lon": 65.8230972290039
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Namangan",
+    "city": "Khalkabad",
+    "name": "Pap Airport",
+    "icao": "UZ-0039",
+    "lat": 40.8885993957519,
+    "lon": 71.0913009643554
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Khatcha",
+    "name": "Chambel Airport",
+    "icao": "UZ-0066",
+    "lat": 40.0346984863281,
+    "lon": 67.1135025024414
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Surxondaryo",
+    "city": "Khodzhi Sagat",
+    "name": "Obi Kiik Airport",
+    "icao": "UZ-0036",
+    "lat": 38.2492980957031,
+    "lon": 67.7217025756836
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Kilab",
+    "name": "Kilab Southeast Airport",
+    "icao": "UZ-0103",
+    "lat": 39.0933990478515,
+    "lon": 66.915901184082
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Kishiseit",
+    "name": "Kishiseit Northeast Airport",
+    "icao": "UZ-0105",
+    "lat": 40.5819015502929,
+    "lon": 67.793098449707
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Andijon",
+    "city": "Kochkor-ata",
+    "name": "Isbaskent Airport",
+    "icao": "UZ-0086",
+    "lat": 41.0091018676757,
+    "lon": 72.4121017456054
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Farg'ona",
+    "city": "Kokand",
+    "name": "Kokand Southeast Airport",
+    "icao": "UZ-0025",
+    "lat": 40.37739944458,
+    "lon": 71.0887985229492
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Farg'ona",
+    "city": "Kokand",
+    "name": "Kokand North Airport",
+    "icao": "UZ-0107",
+    "lat": 40.6594009399414,
+    "lon": 70.8593978881836
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Kolodets Sari",
+    "name": "Kolodets Sari Bel West Airport",
+    "icao": "UZ-0108",
+    "lat": 40.3087997436523,
+    "lon": 67.8507003784179
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Samarqand",
+    "city": "Kumushkent",
+    "name": "Kumushkent Airport",
+    "icao": "UZ-0027",
+    "lat": 39.8079986572265,
+    "lon": 66.8442993164062
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qoraqalpogiston Respublikasi",
+    "city": "Kungrad",
+    "name": "Kungrad Airport",
+    "icao": "UZ-UT77",
+    "lat": 43.0830001831054,
+    "lon": 58.8842010498046
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Andijon",
+    "city": "Kurgantepa",
+    "name": "Aim Southeast Airport",
+    "icao": "UZ-0001",
+    "lat": 40.7533988952636,
+    "lon": 72.7522964477539
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Buxoro",
+    "city": "Kuvacha",
+    "name": "Kuvacha Airport",
+    "icao": "UZ-0110",
+    "lat": 39.4982986450195,
+    "lon": 63.711498260498
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Farg'ona",
+    "city": "Margelan",
+    "name": "Margelan Airport",
+    "icao": "UZ-0113",
+    "lat": 40.4415016174316,
+    "lon": 71.6744995117187
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Andijon",
+    "city": "Markhamat",
+    "name": "Kuva Southeast Airport",
+    "icao": "UZ-0028",
+    "lat": 40.4835014343261,
+    "lon": 72.2817001342773
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Muglan",
+    "name": "Muglan Airport",
+    "icao": "UZ-0030",
+    "lat": 38.901798248291,
+    "lon": 65.3966979980468
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Namangan",
+    "city": "Namangan",
+    "name": "Namangan Northeast Airport",
+    "icao": "UZ-0032",
+    "lat": 41.0435981750488,
+    "lon": 71.7889022827148
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Farg'ona",
+    "city": "Naukent",
+    "name": "Naukent Airport",
+    "icao": "UZ-0118",
+    "lat": 40.2369003295898,
+    "lon": 71.7296981811523
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Navoiy",
+    "city": "Navoi",
+    "name": "Navoi Airport",
+    "icao": "UTSA",
+    "lat": 40.1171989440918,
+    "lon": 65.1707992553711
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Sirdaryo",
+    "city": "Obetovanni",
+    "name": "Nadezhdinskoye Airport",
+    "icao": "UZ-0116",
+    "lat": 40.6235008239746,
+    "lon": 68.9399032592773
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Pakhtakor",
+    "name": "Pakhtakor Airport",
+    "icao": "UT1Q",
+    "lat": 40.252700805664,
+    "lon": 67.9107971191406
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Parchayuz",
+    "name": "Matlha Airport",
+    "icao": "UZ-0114",
+    "lat": 40.3778991699218,
+    "lon": 69.1830978393554
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Farg'ona",
+    "city": "Ramadan",
+    "name": "Kuva West Airport",
+    "icao": "UZ-0029",
+    "lat": 40.5045013427734,
+    "lon": 71.9027023315429
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Sirdaryo",
+    "city": "Shabskiy",
+    "name": "Shabskiy North Airport",
+    "icao": "UZ-0121",
+    "lat": 40.2498016357421,
+    "lon": 68.9833984375
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Andijon",
+    "city": "Shakhrikhan",
+    "name": "Shakhrikhan South Airport",
+    "icao": "UZ-0122",
+    "lat": 40.622501373291,
+    "lon": 72.0254974365234
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Shakhristabz",
+    "name": "Shakhristabz Airport",
+    "icao": "UTSH",
+    "lat": 39.0690994262695,
+    "lon": 66.7543029785156
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qoraqalpogiston Respublikasi",
+    "city": "Shamenay",
+    "name": "Shamenay Airport",
+    "icao": "UZ-0126",
+    "lat": 42.6385993957519,
+    "lon": 58.9171981811523
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Surxondaryo",
+    "city": "Shirabad",
+    "name": "Shirabad Northeast Airport",
+    "icao": "UZ-0042",
+    "lat": 37.6903991699218,
+    "lon": 67.0503997802734
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Surxondaryo",
+    "city": "Shurchi",
+    "name": "Shurchi North Airport",
+    "icao": "UZ-0044",
+    "lat": 38.0309982299804,
+    "lon": 67.7921981811523
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Soldatskiy",
+    "name": "Soldatskiy Southeast Airport",
+    "icao": "UZ-0045",
+    "lat": 40.7893981933593,
+    "lon": 68.9774017333984
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Sirdaryo",
+    "city": "Syrdarya",
+    "name": "Syrdaya Airport",
+    "icao": "UZ-0047",
+    "lat": 40.8091011047363,
+    "lon": 68.6876983642578
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Syrdaya",
+    "name": "Syrdaya Highway Southwest Airstrip",
+    "icao": "UZ-0048",
+    "lat": 40.7724990844726,
+    "lon": 68.5635986328125
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Talimardzhan",
+    "name": "Talimardzhan Airport",
+    "icao": "UZ-0049",
+    "lat": 38.3079986572265,
+    "lon": 65.5533981323242
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qoraqalpogiston Respublikasi",
+    "city": "Turtkul",
+    "name": "Turtkul Airport",
+    "icao": "UTNT",
+    "lat": 41.5750007629394,
+    "lon": 60.9665985107421
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Navoiy",
+    "city": "Uchkuduk",
+    "name": "Uchkuduk Airport",
+    "icao": "UTSU",
+    "lat": 42.0830993652343,
+    "lon": 63.4492988586425
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Buxoro",
+    "city": "Udurgi",
+    "name": "Udurgi Airport",
+    "icao": "UZ-0055",
+    "lat": 39.7276992797851,
+    "lon": 64.3912963867187
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Namangan",
+    "city": "Uychi",
+    "name": "Uychi Southeast Airport",
+    "icao": "UZ-0056",
+    "lat": 41.0097999572753,
+    "lon": 71.9486999511718
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Qashqadaryo",
+    "city": "Yakkabag",
+    "name": "Statsiya Yakkabag Airport",
+    "icao": "UZ-0046",
+    "lat": 38.9746017456054,
+    "lon": 66.730598449707
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Yangi Yul",
+    "name": "Yangi Yul Airport",
+    "icao": "UZ-0138",
+    "lat": 41.1356010437011,
+    "lon": 69.056900024414
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Sirdaryo",
+    "city": "Yangiabad",
+    "name": "Yangiabad East Airport",
+    "icao": "UZ-0139",
+    "lat": 40.2832984924316,
+    "lon": 68.3960037231445
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Jizzax",
+    "city": "Yangikishiak",
+    "name": "Yangikishiak Airport",
+    "icao": "UZ-0141",
+    "lat": 40.4182014465332,
+    "lon": 67.1883010864257
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Yangiturmish",
+    "name": "Yangiturmysh Airport",
+    "icao": "UZ-0143",
+    "lat": 40.7160987854003,
+    "lon": 69.0803985595703
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Navoiy",
+    "city": "Zarafshan",
+    "name": "Sugraly Airport",
+    "icao": "UTSN",
+    "lat": 41.613899230957,
+    "lon": 64.2332000732421
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Sirdaryo",
+    "city": "Zolotaya",
+    "name": "Zolotaya Orda Airport",
+    "icao": "UZ-0145",
+    "lat": 40.5779991149902,
+    "lon": 68.6994018554687
+  },
+  {
+    "country": "Uzbekistan",
+    "state": "Toshkent",
+    "city": "Toshkent",
+    "name": "Tashkent Sergeli Airport",
+    "icao": "UZ-0146",
+    "lat": 41.2000007629394,
+    "lon": 69.2399978637695
+  }
+]

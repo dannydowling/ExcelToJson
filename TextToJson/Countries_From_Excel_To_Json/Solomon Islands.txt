@@ -1,0 +1,137 @@
+[
+  {
+    "country": "Solomon Islands",
+    "state": "Malaita",
+    "city": "Atoifi",
+    "name": "Uru Harbour Airport",
+    "icao": "AGAT",
+    "lat": -8.87333,
+    "lon": 161.011002
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Western",
+    "city": "Ballalae",
+    "name": "Ballalae Airport",
+    "icao": "AGGE",
+    "lat": -6.990745,
+    "lon": 155.886656
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Western",
+    "city": "Gizo",
+    "name": "Nusatupe Airport",
+    "icao": "AGGN",
+    "lat": -8.09778022766,
+    "lon": 156.863998413
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Choiseul",
+    "city": "Kagau Island",
+    "name": "Kaghau Airport",
+    "icao": "AGKG",
+    "lat": -7.3305,
+    "lon": 157.585
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Guadalcanal",
+    "city": "Marau",
+    "name": "Marau Airport",
+    "icao": "AGGU",
+    "lat": -9.86166954040999,
+    "lon": 160.824996948
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Temotu",
+    "city": "Santa Cruz/Graciosa Bay/Luova",
+    "name": "Santa Cruz/Graciosa Bay/Luova Airport",
+    "icao": "AGGL",
+    "lat": -10.7202997207641,
+    "lon": 165.794998168945
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Western",
+    "city": "Barakoma",
+    "name": "Barakoma Airport",
+    "icao": "AGBA",
+    "lat": -7.91277980804443,
+    "lon": 156.705993652343
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Western",
+    "city": "Liangia",
+    "name": "Geva Airport",
+    "icao": "AGEV",
+    "lat": -7.57582998275756,
+    "lon": 156.59700012207
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Guadalcanal",
+    "city": "Guadalcanal",
+    "name": "Avu Avu Airport",
+    "icao": "AGGJ",
+    "lat": -9.86833333333,
+    "lon": 160.410555556
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Western",
+    "city": "Batuna Mission Station",
+    "name": "Batuna Aerodrome",
+    "icao": "BPF",
+    "lat": -8.56202777778,
+    "lon": 158.119305556
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Malaita",
+    "city": "Bila",
+    "name": "Afutara Aerodrome",
+    "icao": "AGAF",
+    "lat": -9.19138888889,
+    "lon": 160.948611111
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Malaita",
+    "city": "Kwailabesi",
+    "name": "Kwailabesi Airport",
+    "icao": "AGKW",
+    "lat": -8.360508,
+    "lon": 160.775127
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Malaita",
+    "city": "Ontong Java Atoll",
+    "name": "Ontong Java Atoll Airstrip",
+    "icao": "AGGQ",
+    "lat": -5.515,
+    "lon": 159.527778
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Malaita",
+    "city": "Tarapaina",
+    "name": "Tarapaina Airport",
+    "icao": "TAA",
+    "lat": -9.414,
+    "lon": 161.358
+  },
+  {
+    "country": "Solomon Islands",
+    "state": "Central",
+    "city": "Yandina",
+    "name": "Yandina Airport",
+    "icao": "AGGY",
+    "lat": -9.092816,
+    "lon": 159.21841
+  }
+]

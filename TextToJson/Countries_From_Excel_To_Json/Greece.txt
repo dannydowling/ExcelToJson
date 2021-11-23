@@ -1,0 +1,425 @@
+[
+  {
+    "country": "Greece",
+    "state": "Corfu",
+    "city": "Kerkyra Island",
+    "name": "Ioannis Kapodistrias International Airport",
+    "icao": "LGKR",
+    "lat": 39.6018981933593,
+    "lon": 19.9116992950439
+  },
+  {
+    "country": "Greece",
+    "state": "Dodecanese",
+    "city": "Rodes Island",
+    "name": "Diagoras Airport",
+    "icao": "LGRP",
+    "lat": 36.4053993225097,
+    "lon": 28.0862007141113
+  },
+  {
+    "country": "Greece",
+    "state": "Cyclades",
+    "city": "Mykonos Island",
+    "name": "Mikonos Airport",
+    "icao": "LGMK",
+    "lat": 37.4351005554199,
+    "lon": 25.3481006622314
+  },
+  {
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Athens",
+    "name": "Athen Helenikon Airport",
+    "icao": "LGAT",
+    "lat": 37.893299,
+    "lon": 23.726101
+  },
+  {
+    "country": "Greece",
+    "state": "Zakynthos",
+    "city": "Zakynthos Island",
+    "name": "Zakynthos International Airport \"Dionysios Solomos\"",
+    "icao": "LGZA",
+    "lat": 37.7509,
+    "lon": 20.8843
+  },
+  {
+    "country": "Greece",
+    "state": "Magnesia",
+    "city": "Skiathos",
+    "name": "Skiathos Island National Airport",
+    "icao": "LGSK",
+    "lat": 39.1771011352539,
+    "lon": 23.5037002563476
+  },
+  {
+    "country": "Greece",
+    "state": "Preveza",
+    "city": "Preveza/Lefkada",
+    "name": "Aktion National Airport",
+    "icao": "LGPZ",
+    "lat": 38.9254989624023,
+    "lon": 20.7653007507324
+  },
+  {
+    "country": "Greece",
+    "state": "Dodecanese",
+    "city": "Karpathos Island",
+    "name": "Karpathos Airport",
+    "icao": "LGKP",
+    "lat": 35.4213981628418,
+    "lon": 27.1459999084472
+  },
+  {
+    "country": "Greece",
+    "state": "Kavala",
+    "city": "Kavala",
+    "name": "Alexander the Great International Airport",
+    "icao": "LGKV",
+    "lat": 40.9132995605468,
+    "lon": 24.6191997528076
+  },
+  {
+    "country": "Greece",
+    "state": "Lesbos",
+    "city": "Mytilene",
+    "name": "Mytilene International Airport",
+    "icao": "LGMT",
+    "lat": 39.0567016602,
+    "lon": 26.5983009338
+  },
+  {
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Elefsina",
+    "name": "Elefsis Airport",
+    "icao": "LGEL",
+    "lat": 38.0638008117675,
+    "lon": 23.5559997558593
+  },
+  {
+    "country": "Greece",
+    "state": "Lesbos",
+    "city": "Limnos Island",
+    "name": "Limnos Airport",
+    "icao": "LGLM",
+    "lat": 39.917098999,
+    "lon": 25.2362995147999
+  },
+  {
+    "country": "Greece",
+    "state": "Magnesia",
+    "city": "Nea Anchialos",
+    "name": "Nea Anchialos Airport",
+    "icao": "LGBL",
+    "lat": 39.2196006774902,
+    "lon": 22.7943000793457
+  },
+  {
+    "country": "Greece",
+    "state": "Arcadia",
+    "city": "TrÃ­poli",
+    "name": "Tripolis Airport",
+    "icao": "LGTP",
+    "lat": 37.5306015014648,
+    "lon": 22.403600692749
+  },
+  {
+    "country": "Greece",
+    "state": "Lasithion",
+    "city": "Crete Island",
+    "name": "Sitia Airport",
+    "icao": "LGST",
+    "lat": 35.2160987854003,
+    "lon": 26.1012992858886
+  },
+  {
+    "country": "Greece",
+    "state": "Dodecanese",
+    "city": "Leros Island",
+    "name": "Leros Airport",
+    "icao": "LGLE",
+    "lat": 37.184898,
+    "lon": 26.800301
+  },
+  {
+    "country": "Greece",
+    "state": "Cyclades",
+    "city": "Milos Island",
+    "name": "Milos Airport",
+    "icao": "LGML",
+    "lat": 36.696899,
+    "lon": 24.4769
+  },
+  {
+    "country": "Greece",
+    "state": "Cyclades",
+    "city": "Paros Island",
+    "name": "Paros National Airport",
+    "icao": "LGPA",
+    "lat": 37.020495,
+    "lon": 25.113195
+  },
+  {
+    "country": "Greece",
+    "state": "Larisa",
+    "city": "Larisa",
+    "name": "Larisa Air Base",
+    "icao": "LGLR",
+    "lat": 39.650253,
+    "lon": 22.4655
+  },
+  {
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Marathon",
+    "name": "Marathon Kotroni Navy Helicopter Base",
+    "icao": "LGKN",
+    "lat": 38.137798,
+    "lon": 23.951099
+  },
+  {
+    "country": "Greece",
+    "state": "Kilkis",
+    "city": "Nea Kavala",
+    "name": "Nea Kavala Polykastro Airport",
+    "icao": "GR-0004",
+    "lat": 40.9844017028808,
+    "lon": 22.6263008117675
+  },
+  {
+    "country": "Greece",
+    "state": "Samos",
+    "city": "Ikaria Island",
+    "name": "Ikaria Airport",
+    "icao": "LGIK",
+    "lat": 37.6827011108,
+    "lon": 26.3470993042
+  },
+  {
+    "country": "Greece",
+    "state": "Kastoria",
+    "city": "Kastoria",
+    "name": "Kastoria National Airport",
+    "icao": "LGKA",
+    "lat": 40.4463005066,
+    "lon": 21.2821998596
+  },
+  {
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Kithira Island",
+    "name": "Kithira Airport",
+    "icao": "LGKC",
+    "lat": 36.2742996216,
+    "lon": 23.0170001984
+  },
+  {
+    "country": "Greece",
+    "state": "Kozani",
+    "city": "Kozani",
+    "name": "Filippos Airport",
+    "icao": "LGKZ",
+    "lat": 40.2860984802246,
+    "lon": 21.840799331665
+  },
+  {
+    "country": "Greece",
+    "state": "Euboea",
+    "city": "Skiros Island",
+    "name": "Skiros Airport",
+    "icao": "LGSY",
+    "lat": 38.9676017761,
+    "lon": 24.4871997833
+  },
+  {
+    "country": "Greece",
+    "state": "Aetolia-Acarnania",
+    "city": "Agrinion",
+    "name": "Agrinion Air Base",
+    "icao": "LGAG",
+    "lat": 38.602001,
+    "lon": 21.3512001
+  },
+  {
+    "country": "Greece",
+    "state": "Dodecanese",
+    "city": "Kastelorizo Island",
+    "name": "Kastelorizo Airport",
+    "icao": "LGKJ",
+    "lat": 36.1417007446,
+    "lon": 29.5764007567999
+  },
+  {
+    "country": "Greece",
+    "state": "Aetolia-Acarnania",
+    "city": "Agrinion",
+    "name": "Dhokimion Airport",
+    "icao": "GR-0002",
+    "lat": 38.6125984191894,
+    "lon": 21.3952007293701
+  },
+  {
+    "country": "Greece",
+    "state": "Pella",
+    "city": "Edessa",
+    "name": "Arnissa Airport",
+    "icao": "GR-0001",
+    "lat": 40.8409569,
+    "lon": 21.826057
+  },
+  {
+    "country": "Greece",
+    "state": "Florina",
+    "city": "Florina",
+    "name": "Florina Airport",
+    "icao": "GR-0003",
+    "lat": 40.8023986816406,
+    "lon": 21.4318008422851
+  },
+  {
+    "country": "Greece",
+    "state": "Dodecanese",
+    "city": "Kalymnos Island",
+    "name": "Kalymnos Airport",
+    "icao": "LGKY",
+    "lat": 36.9632987976,
+    "lon": 26.9405994415
+  },
+  {
+    "country": "Greece",
+    "state": "Attica",
+    "city": "Marathon",
+    "name": "Marathon Wasser Airport",
+    "icao": "LGMR",
+    "lat": 38.143902,
+    "lon": 24.0128
+  },
+  {
+    "country": "Greece",
+    "state": "Argolis",
+    "city": "Porto Cheli",
+    "name": "Porto Cheli Airport",
+    "icao": "LGHL",
+    "lat": 37.29891,
+    "lon": 23.148923
+  },
+  {
+    "country": "Greece",
+    "state": "Argolis",
+    "city": "Spetsai",
+    "name": "Spetsai Airport",
+    "icao": "GR-0005",
+    "lat": 37.3489,
+    "lon": 23.254
+  },
+  {
+    "country": "Greece",
+    "state": "Messinia",
+    "city": "Triodhon",
+    "name": "Triodhon Airport",
+    "icao": "LG55",
+    "lat": 37.094101,
+    "lon": 21.9904
+  },
+  {
+    "country": "Greece",
+    "state": "Rhodope",
+    "city": "Rhodope",
+    "name": "Komotini",
+    "icao": "GR-0006",
+    "lat": 41.1089782714843,
+    "lon": 25.319709777832
+  },
+  {
+    "country": "Greece",
+    "state": "Boeotia",
+    "city": "Boeotia",
+    "name": "Thiva",
+    "icao": "GR-0010",
+    "lat": 38.37548,
+    "lon": 23.25761
+  },
+  {
+    "country": "Greece",
+    "state": "Larissa",
+    "city": "Larissa",
+    "name": "Larisa",
+    "icao": "GR-0012",
+    "lat": 39.6563003,
+    "lon": 22.3399769
+  },
+  {
+    "country": "Greece",
+    "state": "Cyclades",
+    "city": "Cyclades",
+    "name": "Schinoussa Heliport",
+    "icao": "GR-0022",
+    "lat": 36.8681063,
+    "lon": 25.5144338
+  },
+  {
+    "country": "Greece",
+    "state": "Chania",
+    "city": "Chania",
+    "name": "Gavdos Helistrip",
+    "icao": "GR-0024",
+    "lat": 34.86012,
+    "lon": 24.08756
+  },
+  {
+    "country": "Greece",
+    "state": "(unassigned)",
+    "city": "Greece",
+    "name": "Kolhiko Airfield",
+    "icao": "GR-0017",
+    "lat": 40.7452408,
+    "lon": 23.122964
+  },
+  {
+    "country": "Greece",
+    "state": "(unassigned)",
+    "city": "Karditsa",
+    "name": "Myrini - Karditsa",
+    "icao": "GR-0014",
+    "lat": 39.407445,
+    "lon": 21.995921
+  },
+  {
+    "country": "Greece",
+    "state": "Boeotia",
+    "city": "Kopaida",
+    "name": "Kopaida Dimitra",
+    "icao": "GR-0009",
+    "lat": 38.4563889,
+    "lon": 23.135833
+  },
+  {
+    "country": "Greece",
+    "state": "(unassigned)",
+    "city": "Megara",
+    "name": "Dounis Airfield",
+    "icao": "GR-0016",
+    "lat": 38.02401,
+    "lon": 23.3037096
+  },
+  {
+    "country": "Greece",
+    "state": "(unassigned)",
+    "city": "Molos",
+    "name": "Molos Airfield",
+    "icao": "GR-0015",
+    "lat": 38.8261747,
+    "lon": 22.6619585
+  },
+  {
+    "country": "Greece",
+    "state": "(unassigned)",
+    "city": "Serres",
+    "name": "Serres Airfield",
+    "icao": "GR-0020",
+    "lat": 41.083002,
+    "lon": 23.58905
+  }
+]

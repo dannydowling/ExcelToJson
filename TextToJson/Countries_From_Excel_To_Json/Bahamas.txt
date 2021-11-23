@@ -1,0 +1,290 @@
+[
+  {
+    "country": "Bahamas",
+    "state": "New Providence",
+    "city": "Nassau",
+    "name": "Lynden Pindling International Airport",
+    "icao": "MYNN",
+    "lat": 25.039,
+    "lon": -77.466202
+  },
+  {
+    "country": "Bahamas",
+    "state": "Freeport",
+    "city": "Freeport",
+    "name": "Grand Bahama International Airport",
+    "icao": "MYGF",
+    "lat": 26.5587005615,
+    "lon": -78.695602417
+  },
+  {
+    "country": "Bahamas",
+    "state": "Harbour Island",
+    "city": "North Eleuthera",
+    "name": "North Eleuthera Airport",
+    "icao": "MYEH",
+    "lat": 25.474899292,
+    "lon": -76.6835021973
+  },
+  {
+    "country": "Bahamas",
+    "state": "Long Island",
+    "city": "Stella Maris",
+    "name": "Stella Maris Airport",
+    "icao": "MYLS",
+    "lat": 23.582317,
+    "lon": -75.268621
+  },
+  {
+    "country": "Bahamas",
+    "state": "Marsh Harbour",
+    "city": "Treasure Cay",
+    "name": "Treasure Cay Airport",
+    "icao": "MYAT",
+    "lat": 26.745300293,
+    "lon": -77.3912963867
+  },
+  {
+    "country": "Bahamas",
+    "state": "Exuma",
+    "city": "Exuma",
+    "name": "Normans Cay Airport",
+    "icao": "MYEN",
+    "lat": 24.5942993164062,
+    "lon": -76.820198059082
+  },
+  {
+    "country": "Bahamas",
+    "state": "Rock Sound",
+    "city": "Rock Sound",
+    "name": "Rock Sound Airport",
+    "icao": "MYER",
+    "lat": 24.8950787333,
+    "lon": -76.1768817902
+  },
+  {
+    "country": "Bahamas",
+    "state": "Cat Island",
+    "city": "Cat Island",
+    "name": "New Bight Airport",
+    "icao": "MYCB",
+    "lat": 24.3153,
+    "lon": -75.452301
+  },
+  {
+    "country": "Bahamas",
+    "state": "Inagua",
+    "city": "Matthew Town",
+    "name": "Inagua Airport",
+    "icao": "MYIG",
+    "lat": 20.9750003814697,
+    "lon": -73.6669006347656
+  },
+  {
+    "country": "Bahamas",
+    "state": "Nicholls Town and Berry Islands",
+    "city": "Andros Island",
+    "name": "San Andros Airport",
+    "icao": "MYAN",
+    "lat": 25.0538005828857,
+    "lon": -78.0490036010742
+  },
+  {
+    "country": "Bahamas",
+    "state": "Bimini",
+    "city": "Bimini",
+    "name": "Bimini North Seaplane Base",
+    "icao": "BS-NSB",
+    "lat": 25.7670001983642,
+    "lon": -79.25
+  },
+  {
+    "country": "Bahamas",
+    "state": "Nicholls Town and Berry Islands",
+    "city": "Nicholls Town and Berry Islands",
+    "name": "Chub Cay Airport",
+    "icao": "MYBC",
+    "lat": 25.417100906372,
+    "lon": -77.8808975219726
+  },
+  {
+    "country": "Bahamas",
+    "state": "New Providence",
+    "city": "Nassau",
+    "name": "Nassau Paradise Island Airport",
+    "icao": "MYPI",
+    "lat": 25.078138,
+    "lon": -77.298689
+  },
+  {
+    "country": "Bahamas",
+    "state": "Cat Island",
+    "city": "Arthur's Town",
+    "name": "Arthur's Town Airport",
+    "icao": "MYCA",
+    "lat": 24.6294,
+    "lon": -75.673797
+  },
+  {
+    "country": "Bahamas",
+    "state": "Exuma",
+    "city": "George Town",
+    "name": "George Town Airport",
+    "icao": "MYEG",
+    "lat": 23.4666996002,
+    "lon": -75.7817001343
+  },
+  {
+    "country": "Bahamas",
+    "state": "Green Turtle Cay",
+    "city": "Green Turtle Cay",
+    "name": "Abaco I Walker C Airport",
+    "icao": "MYAW",
+    "lat": 27.2667007446289,
+    "lon": -78.3996963500976
+  },
+  {
+    "country": "Bahamas",
+    "state": "Long Island",
+    "city": "Deadman's Cay",
+    "name": "Deadman's Cay Airport",
+    "icao": "MYLD",
+    "lat": 23.1790008545,
+    "lon": -75.0935974121
+  },
+  {
+    "country": "Bahamas",
+    "state": "Sandy Point",
+    "city": "Sandy Point",
+    "name": "Sandy Point Airport",
+    "icao": "MYAS",
+    "lat": 26.0046005249023,
+    "lon": -77.3955001831054
+  },
+  {
+    "country": "Bahamas",
+    "state": "Nicholls Town and Berry Islands",
+    "city": "Big Whale Cay",
+    "name": "Big Whale Cay Airport",
+    "icao": "MYX4",
+    "lat": 25.399599,
+    "lon": -77.791
+  },
+  {
+    "country": "Bahamas",
+    "state": "Cat Island",
+    "city": "Cutlass Bay",
+    "name": "Cutlass Bay Airport",
+    "icao": "MYCX",
+    "lat": 24.1488990783691,
+    "lon": -75.3981018066406
+  },
+  {
+    "country": "Bahamas",
+    "state": "Exuma",
+    "city": "Darby Island",
+    "name": "Darby Island Airport",
+    "icao": "MYX8",
+    "lat": 23.850299835205,
+    "lon": -76.2282028198242
+  },
+  {
+    "country": "Bahamas",
+    "state": "High Rock",
+    "city": "Deep Water Cay",
+    "name": "Deep Water Cay Airport",
+    "icao": "MYGD",
+    "lat": 26.631700515747,
+    "lon": -77.9216995239257
+  },
+  {
+    "country": "Bahamas",
+    "state": "High Rock",
+    "city": "Grand Bahama",
+    "name": "Auxiliary Airfield",
+    "icao": "MYGM",
+    "lat": 26.6319007874,
+    "lon": -78.3591995239
+  },
+  {
+    "country": "Bahamas",
+    "state": "Exuma",
+    "city": "Hog Cay",
+    "name": "Hog Cay Airport",
+    "icao": "MYEY",
+    "lat": 23.3971996307373,
+    "lon": -75.4969024658203
+  },
+  {
+    "country": "Bahamas",
+    "state": "Nicholls Town and Berry Islands",
+    "city": "Little Whale Cay",
+    "name": "Little Whale Cay Berry Islands Airport",
+    "icao": "MYZ3",
+    "lat": 25.441799,
+    "lon": -77.761703
+  },
+  {
+    "country": "Bahamas",
+    "state": "Exuma",
+    "city": "Sampson Cay",
+    "name": "Sampson Cay Airport",
+    "icao": "MYXH",
+    "lat": 24.2159996032714,
+    "lon": -76.4785003662109
+  },
+  {
+    "country": "Bahamas",
+    "state": "New Providence",
+    "city": "Nassau",
+    "name": "Oakes Field-Nassau",
+    "icao": "MYX6",
+    "lat": 25.0405006408691,
+    "lon": -77.3515014648437
+  },
+  {
+    "country": "Bahamas",
+    "state": "Nicholls Town and Berry Islands",
+    "city": "Andros Town",
+    "name": "AUTEC Heliport",
+    "icao": "MYCZ",
+    "lat": 24.709722,
+    "lon": -77.7725
+  },
+  {
+    "country": "Bahamas",
+    "state": "Exuma",
+    "city": "Cave Cay",
+    "name": "Cave Cay Airstrip",
+    "icao": "BS-0004",
+    "lat": 23.9113018358,
+    "lon": -76.2744498253
+  },
+  {
+    "country": "Bahamas",
+    "state": "Exuma",
+    "city": "Fowl Cay",
+    "name": "Fowl Cay Airstrip",
+    "icao": "BS-0001",
+    "lat": 24.2707432941,
+    "lon": -76.5409862995
+  },
+  {
+    "country": "Bahamas",
+    "state": "New Providence",
+    "city": "Nassau",
+    "name": "Nassau Helicopters Heliport",
+    "icao": "BS-0008",
+    "lat": 25.07765,
+    "lon": -77.33321
+  },
+  {
+    "country": "Bahamas",
+    "state": "(unassigned)",
+    "city": "Twin Lakes",
+    "name": "Andros Central / Twin Lakes Airport",
+    "icao": "BS-0009",
+    "lat": 24.725569,
+    "lon": -77.987201
+  }
+]

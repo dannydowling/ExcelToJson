@@ -1,0 +1,236 @@
+[
+  {
+    "country": "Central African Republic",
+    "state": "Haut-Mbomou",
+    "city": "Bambouli",
+    "name": "Bambouli Airport",
+    "icao": "FEGB",
+    "lat": 5.43300008773803,
+    "lon": 27.216999053955
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Ouham",
+    "city": "Batangafo",
+    "name": "Batangafo Airport",
+    "icao": "FEGF",
+    "lat": 7.31410980224609,
+    "lon": 18.3087997436523
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Vakaga",
+    "city": "Birao",
+    "name": "Birao Airport",
+    "icao": "FEFI",
+    "lat": 10.2363996505737,
+    "lon": 22.7168998718261
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Ouham-PendÃ©",
+    "city": "Bocaranga",
+    "name": "Bocaranga Airport",
+    "icao": "FEGC",
+    "lat": 6.91699981689453,
+    "lon": 15.6169996261596
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Ouham",
+    "city": "Bossangoa",
+    "name": "Bossangoa Airport",
+    "icao": "FEFS",
+    "lat": 6.49200010299682,
+    "lon": 17.4290008544921
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Nana-MambÃ©rÃ©",
+    "city": "Bouar",
+    "name": "Bouar Airport",
+    "icao": "FEFO",
+    "lat": 5.95800018310546,
+    "lon": 15.6370000839233
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Ouham-PendÃ©",
+    "city": "Bozoum",
+    "name": "Bozoum Airport",
+    "icao": "FEGZ",
+    "lat": 6.34417009353637,
+    "lon": 16.3218994140625
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Ombella-M'Poko",
+    "city": "Damara",
+    "name": "Damara Airport",
+    "icao": "FEFD",
+    "lat": 4.94999980926513,
+    "lon": 18.7000007629394
+  },
+  {
+    "country": "Central African Republic",
+    "state": "KÃ©mo",
+    "city": "Dekoa",
+    "name": "Dekoa Airport",
+    "icao": "FEGD",
+    "lat": 6.30000019073486,
+    "lon": 19.0830001831054
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Ouaka",
+    "city": "Grimari",
+    "name": "Grimari Airport",
+    "icao": "FEGI",
+    "lat": 5.68300008773803,
+    "lon": 20.0499992370605
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Haut-Mbomou",
+    "city": "Mboki",
+    "name": "M'Boki Airport",
+    "icao": "FEGE",
+    "lat": 5.33301019669,
+    "lon": 25.9319000243999
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Bamingui-Bangoran",
+    "city": "Melle",
+    "name": "Gordil Airport",
+    "icao": "FEGL",
+    "lat": 9.581117,
+    "lon": 21.728172
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Basse-Kotto",
+    "city": "Mobaye Mbanga",
+    "name": "Mobaye Mbanga Airport",
+    "icao": "FEFE",
+    "lat": 4.37465000152587,
+    "lon": 21.1319007873535
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Ouham-PendÃ©",
+    "city": "Paoua",
+    "name": "Paoua Airport",
+    "icao": "FEFP",
+    "lat": 7.25,
+    "lon": 16.4330005645751
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Mbomou",
+    "city": "RafaÃ¯",
+    "name": "RafaÃ¯ Airport",
+    "icao": "FEGR",
+    "lat": 4.988609790802,
+    "lon": 23.9277992248535
+  },
+  {
+    "country": "Central African Republic",
+    "state": "KÃ©mo",
+    "city": "Sibut",
+    "name": "Sibut Airport",
+    "icao": "FEFU",
+    "lat": 5.73299980163574,
+    "lon": 19.0830001831054
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Haute-Kotto",
+    "city": "Yalinga",
+    "name": "Yalinga Airport",
+    "icao": "FEFY",
+    "lat": 6.51999998092651,
+    "lon": 23.2600002288818
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Bamingui-Bangoran",
+    "city": "Awakaba",
+    "name": "N'DÃ©lÃ© West Airport",
+    "icao": "CF-0009",
+    "lat": 8.33457,
+    "lon": 20.109068
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Bamingui-Bangoran",
+    "city": "Bamingui",
+    "name": "Bamingui Airport",
+    "icao": "CF-0001",
+    "lat": 7.584231,
+    "lon": 20.171798
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Sangha-MbaÃ©rÃ©",
+    "city": "Bayanga",
+    "name": "Bayanga Airport",
+    "icao": "CF-0002",
+    "lat": 2.92405,
+    "lon": 16.265434
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Lobaye",
+    "city": "Boda",
+    "name": "Boda Airport",
+    "icao": "CF-0004",
+    "lat": 4.313039,
+    "lon": 17.48594
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Bamingui-Bangoran",
+    "city": "Goro",
+    "name": "Goro Airport",
+    "icao": "CF-0006",
+    "lat": 9.271226,
+    "lon": 21.195556
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Bamingui-Bangoran",
+    "city": "Gounda",
+    "name": "Gounda Airport",
+    "icao": "GDA",
+    "lat": 9.316703,
+    "lon": 21.185
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Bamingui-Bangoran",
+    "city": "Njoko",
+    "name": "Bekinyon Airstrip",
+    "icao": "CF-0008",
+    "lat": 9.017027,
+    "lon": 19.571412
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Haut-Mbomou",
+    "city": "Obo",
+    "name": "Obo Airport",
+    "icao": "CF-0005",
+    "lat": 5.378512,
+    "lon": 26.476364
+  },
+  {
+    "country": "Central African Republic",
+    "state": "Haute-Kotto",
+    "city": "Ouandja",
+    "name": "Ouandjia Sam Airport",
+    "icao": "CF-0007",
+    "lat": 8.524158,
+    "lon": 23.240274
+  }
+]

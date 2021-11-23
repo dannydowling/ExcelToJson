@@ -1,0 +1,74 @@
+[
+  {
+    "country": "El Salvador",
+    "state": "La Paz",
+    "city": "San Salvador (San Luis Talpa)",
+    "name": "Monsetor Arnulfo Romero International Airport",
+    "icao": "MSLP",
+    "lat": 13.4409,
+    "lon": -89.055702
+  },
+  {
+    "country": "El Salvador",
+    "state": "Ahuachapan",
+    "city": "Barra de Santiago",
+    "name": "El Zapote Airport",
+    "icao": "MSZT",
+    "lat": 13.7079544067382,
+    "lon": -90.0262680053711
+  },
+  {
+    "country": "El Salvador",
+    "state": "Usulutan",
+    "city": "Corral de Mulas",
+    "name": "Corral De Mulas Airport",
+    "icao": "MSCM",
+    "lat": 13.2055883407592,
+    "lon": -88.5473403930664
+  },
+  {
+    "country": "El Salvador",
+    "state": "Usulutan",
+    "city": "Jiquilisco",
+    "name": "Casas Nuevas Airport",
+    "icao": "MSCN",
+    "lat": 13.3099727630615,
+    "lon": -88.5058670043945
+  },
+  {
+    "country": "El Salvador",
+    "state": "San Miguel",
+    "city": "San Miguel",
+    "name": "La Aramuaca Airport",
+    "icao": "MSAC",
+    "lat": 13.4479904174804,
+    "lon": -88.1201095581054
+  },
+  {
+    "country": "El Salvador",
+    "state": "San Salvador",
+    "city": "San Salvador",
+    "name": "La Gloria Airport",
+    "icao": "MSLG",
+    "lat": 13.71474,
+    "lon": -89.191345
+  },
+  {
+    "country": "El Salvador",
+    "state": "Cuscatlan",
+    "city": "Suchitoto",
+    "name": "El Platanar Airport",
+    "icao": "MSPT",
+    "lat": 13.9453001022338,
+    "lon": -89.0627975463867
+  },
+  {
+    "country": "El Salvador",
+    "state": "Santa Ana",
+    "city": "Santa Ana",
+    "name": "El Palmer Airport",
+    "icao": "MSSA",
+    "lat": 14.0672222222,
+    "lon": -89.6322222222
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "country": "Ghana",
+    "state": "Greater Accra Region",
+    "city": "Accra",
+    "name": "Kotoka International Airport",
+    "icao": "DGAA",
+    "lat": 5.60518980026245,
+    "lon": -0.16678600013256
+  },
+  {
+    "country": "Ghana",
+    "state": "Ashanti Region",
+    "city": "Kumasi",
+    "name": "Kumasi Airport",
+    "icao": "DGSI",
+    "lat": 6.71456003189086,
+    "lon": -1.59081995487213
+  },
+  {
+    "country": "Ghana",
+    "state": "Western Region",
+    "city": "Sekondi-Takoradi",
+    "name": "Takoradi Airport",
+    "icao": "DGTK",
+    "lat": 4.89605998992919,
+    "lon": -1.77476000785827
+  },
+  {
+    "country": "Ghana",
+    "state": "Brong-Ahafo Region",
+    "city": "Sunyani",
+    "name": "Sunyani Airport",
+    "icao": "DGSN",
+    "lat": 7.36183023452758,
+    "lon": -2.32875990867614
+  },
+  {
+    "country": "Ghana",
+    "state": "Upper East Region",
+    "city": "Navrongo",
+    "name": "Navrongo Airport",
+    "icao": "DGLN",
+    "lat": 10.8999996185302,
+    "lon": -1.10000002384185
+  },
+  {
+    "country": "Ghana",
+    "state": "Eastern Region",
+    "city": "Ajena",
+    "name": "Ajena Airstrip",
+    "icao": "GH-0002",
+    "lat": 6.322619,
+    "lon": 0.087893
+  }
+]

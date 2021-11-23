@@ -1,0 +1,146 @@
+[
+  {
+    "country": "Antarctica",
+    "state": "(unassigned)",
+    "city": "McMurdo Station",
+    "name": "McMurdo Station Ice Runway",
+    "icao": "NZIR",
+    "lat": -77.8539962768554,
+    "lon": 166.468994140625
+  },
+  {
+    "country": "Antarctica",
+    "state": "McMurdo Station",
+    "city": "McMurdo Station",
+    "name": "Williams Field",
+    "icao": "NZWD",
+    "lat": -77.8674011230468,
+    "lon": 167.057006835937
+  },
+  {
+    "country": "Antarctica",
+    "state": "Isla Rey Jorge",
+    "city": "Isla Rey Jorge",
+    "name": "Teniente Rodolfo Marsh Martin Base",
+    "icao": "SCRM",
+    "lat": -62.1907997131,
+    "lon": -58.9866981506
+  },
+  {
+    "country": "Antarctica",
+    "state": "Petrel",
+    "city": "Petrel",
+    "name": "Petrel Airport",
+    "icao": "SA47",
+    "lat": -63.4790000915999,
+    "lon": -56.231300354
+  },
+  {
+    "country": "Antarctica",
+    "state": "San MartÃ­n Base",
+    "city": "San MartÃ­n",
+    "name": "San MartÃ­n Base",
+    "icao": "SAYS",
+    "lat": -68.1166992188,
+    "lon": -67.0999984741
+  },
+  {
+    "country": "Antarctica",
+    "state": "Patriot Hills",
+    "city": "Antartica",
+    "name": "Patriot Hills Airport",
+    "icao": "SCPZ",
+    "lat": -80.3182983398437,
+    "lon": -81.3080978393554
+  },
+  {
+    "country": "Antarctica",
+    "state": "Hope Bay",
+    "city": "Hope Bay",
+    "name": "Esperanza Base",
+    "icao": "SAYE",
+    "lat": -63.4000015259,
+    "lon": -56.9832992554
+  },
+  {
+    "country": "Antarctica",
+    "state": "(unassigned)",
+    "city": "Laurie Island",
+    "name": "Orcadas Base",
+    "icao": "SAYO",
+    "lat": -60.7402992249,
+    "lon": -44.7425003052
+  },
+  {
+    "country": "Antarctica",
+    "state": "Queen Maud Land",
+    "city": "Queen Maud Land",
+    "name": "Novolazarevskaya Station",
+    "icao": "AQ-0001",
+    "lat": -70.8461,
+    "lon": 11.8472
+  },
+  {
+    "country": "Antarctica",
+    "state": "(unassigned)",
+    "city": "South Shetland Archipielago- King George Island",
+    "name": "Jubany Airbase",
+    "icao": "SAYJ",
+    "lat": -62.2383003235,
+    "lon": -58.6665992737
+  },
+  {
+    "country": "Antarctica",
+    "state": "Rothera",
+    "city": "Rothera",
+    "name": "Rothera Research Station",
+    "icao": "EGAR",
+    "lat": -67.5675,
+    "lon": -68.1274027778
+  },
+  {
+    "country": "Antarctica",
+    "state": "Waterboat Point",
+    "city": "Waterboat Point",
+    "name": "GonzÃ¡lez Videla Antarctic Base",
+    "icao": "AQ-0003",
+    "lat": -64.824,
+    "lon": -62.857
+  },
+  {
+    "country": "Antarctica",
+    "state": "(unassigned)",
+    "city": "Rothera Point",
+    "name": "Rothera Point Airport",
+    "icao": "AAXX",
+    "lat": -67.5669411575,
+    "lon": -68.1269931793
+  },
+  {
+    "country": "Antarctica",
+    "state": "Troll Station",
+    "city": "Troll Station",
+    "name": "Troll Airfield",
+    "icao": "AQ-0002",
+    "lat": -71.95559,
+    "lon": 2.455581
+  },
+  {
+    "country": "Antarctica",
+    "state": "Base Cientifica Ellsworth",
+    "city": "Base Cientifica Ellsworth",
+    "name": "Base Cientifica Ellsworth",
+    "icao": "AQ-0004",
+    "lat": -77.650008,
+    "lon": -41.0333
+  },
+  {
+    "country": "Antarctica",
+    "state": "(unassigned)",
+    "city": "Antartica",
+    "name": "UniÃ³n Glaciar Airport",
+    "icao": "SCGC",
+    "lat": -79.777778,
+    "lon": -83.320833
+  }
+]

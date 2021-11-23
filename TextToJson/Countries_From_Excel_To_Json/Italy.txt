@@ -1,0 +1,3062 @@
+[
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Rome",
+    "name": "Leonardo da Vinciâ Fiumicino Airport",
+    "icao": "LIRF",
+    "lat": 41.8002778,
+    "lon": 12.2388889
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Milan",
+    "name": "Malpensa International Airport",
+    "icao": "LIMC",
+    "lat": 45.6306,
+    "lon": 8.72811
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Venice",
+    "name": "Venice Marco Polo Airport",
+    "icao": "LIPZ",
+    "lat": 45.505299,
+    "lon": 12.3519
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Napoli",
+    "name": "Naples International Airport",
+    "icao": "LIRN",
+    "lat": 40.886002,
+    "lon": 14.2908
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Firenze",
+    "name": "Peretola Airport",
+    "icao": "LIRQ",
+    "lat": 43.810001,
+    "lon": 11.2051
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Olbia (SS)",
+    "name": "Olbia Costa Smeralda Airport",
+    "icao": "LIEO",
+    "lat": 40.898701,
+    "lon": 9.51763
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Trieste",
+    "name": "Trieste Friuli Venezia Giulia Airport",
+    "icao": "LIPQ",
+    "lat": 45.827499,
+    "lon": 13.4722
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Bari",
+    "name": "Bari Karol WojtyÅ‚a Airport",
+    "icao": "LIBD",
+    "lat": 41.138901,
+    "lon": 16.760599
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Venezia",
+    "name": "Venice-Lido Airfield",
+    "icao": "LIPV",
+    "lat": 45.428299,
+    "lon": 12.3881
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Trapani (TP)",
+    "name": "Vincenzo Florio Airport Trapani-Birgi",
+    "icao": "LICT",
+    "lat": 37.9114,
+    "lon": 12.488
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Brindisi",
+    "name": "Brindisi â€“ Salento Airport",
+    "icao": "LIBR",
+    "lat": 40.6576,
+    "lon": 17.947001
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Rimini",
+    "name": "Federico Fellini International Airport",
+    "icao": "LIPR",
+    "lat": 44.020302,
+    "lon": 12.6117
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "ForlÃ¬ (FC)",
+    "name": "ForlÃ¬ Airport",
+    "icao": "LIPK",
+    "lat": 44.194801,
+    "lon": 12.0701
+  },
+  {
+    "country": "Italy",
+    "state": "Abruzzi",
+    "city": "Pescara",
+    "name": "Pescara International Airport",
+    "icao": "LIBP",
+    "lat": 42.431702,
+    "lon": 14.1811
+  },
+  {
+    "country": "Italy",
+    "state": "Trentino-Alto Adige",
+    "city": "Bolzano",
+    "name": "Bolzano Airport",
+    "icao": "LIPB",
+    "lat": 46.460201,
+    "lon": 11.3264
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Sigonella (CT)",
+    "name": "Sigonella Navy Air Base",
+    "icao": "LICZ",
+    "lat": 37.401699,
+    "lon": 14.9224
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Parma",
+    "name": "Parma Airport",
+    "icao": "LIMP",
+    "lat": 44.824501,
+    "lon": 10.2964
+  },
+  {
+    "country": "Italy",
+    "state": "Trentino-Alto Adige",
+    "city": "Trento (TN)",
+    "name": "Trento-Mattarello Airport",
+    "icao": "LIDT",
+    "lat": 46.0214,
+    "lon": 11.1242
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Comiso",
+    "name": "Comiso Airport",
+    "icao": "LICB",
+    "lat": 36.994601,
+    "lon": 14.607182
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Padova",
+    "name": "Padova Airport",
+    "icao": "LIPU",
+    "lat": 45.395802,
+    "lon": 11.8479
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Siena",
+    "name": "Siena-Ampugnano Airport",
+    "icao": "LIQS",
+    "lat": 43.256302,
+    "lon": 11.255
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Milano",
+    "name": "Milano-Bresso Airfield",
+    "icao": "LIMB",
+    "lat": 45.542198,
+    "lon": 9.20333
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Perugia",
+    "name": "Perugia San Francesco d'Assisi â€“ Umbria International Airport",
+    "icao": "LIRZ",
+    "lat": 43.095901,
+    "lon": 12.5132
+  },
+  {
+    "country": "Italy",
+    "state": "Valle d'Aosta",
+    "city": "Aosta",
+    "name": "Aosta Airport",
+    "icao": "LIMW",
+    "lat": 45.738499,
+    "lon": 7.36872
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Voghera (PV)",
+    "name": "Voghera-Rivanazzano Airport",
+    "icao": "LILH",
+    "lat": 44.952,
+    "lon": 9.01653
+  },
+  {
+    "country": "Italy",
+    "state": "Calabria",
+    "city": "Crotone",
+    "name": "Crotone Airport",
+    "icao": "LIBC",
+    "lat": 38.9972,
+    "lon": 17.0802
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Alessandria",
+    "name": "Alessandria Airport",
+    "icao": "LILA",
+    "lat": 44.925201,
+    "lon": 8.62513
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Biella (BI)",
+    "name": "Biella-Cerrione Airport",
+    "icao": "LILE",
+    "lat": 45.4953,
+    "lon": 8.10278
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Lucca",
+    "name": "Lucca-Tassignano Airport",
+    "icao": "LIQL",
+    "lat": 43.825825,
+    "lon": 10.577928
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Vicenza",
+    "name": "Asiago Airport",
+    "icao": "LIDA",
+    "lat": 45.886902,
+    "lon": 11.5169
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Varese",
+    "name": "Varese-Venegono Airport",
+    "icao": "LILN",
+    "lat": 45.742199,
+    "lon": 8.888233
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Arezzo",
+    "name": "Arezzo Airport",
+    "icao": "LIQB",
+    "lat": 43.455897,
+    "lon": 11.847
+  },
+  {
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Fano (PS)",
+    "name": "Fano Airfield",
+    "icao": "LIDF",
+    "lat": 43.826,
+    "lon": 13.0275
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Gorizia",
+    "name": "Gorizia Airfield",
+    "icao": "LIPG",
+    "lat": 45.906898,
+    "lon": 13.5993
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Marina Di Massa (MS)",
+    "name": "Massa Cinquale Airport",
+    "icao": "LILQ",
+    "lat": 43.986004,
+    "lon": 10.1428002
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Oristano",
+    "name": "Oristano-Fenosu Airport",
+    "icao": "LIER",
+    "lat": 39.895308,
+    "lon": 8.642661
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Decimomannu",
+    "name": "Decimomannu Air Base",
+    "icao": "LIED",
+    "lat": 39.354198,
+    "lon": 8.97248
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Capua",
+    "name": "Capua Airport",
+    "icao": "LIAU",
+    "lat": 41.116001,
+    "lon": 14.178
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Udine",
+    "name": "Udine-Campoformido Air Base",
+    "icao": "LIPD",
+    "lat": 46.0322,
+    "lon": 13.1868
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Varese (VA)",
+    "name": "Calcinate Del Pesce Airport",
+    "icao": "LILC",
+    "lat": 45.8097,
+    "lon": 8.76806
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Caorle (VE)",
+    "name": "Aviosuperficie Alicaorle",
+    "icao": "IT-0113",
+    "lat": 45.611944,
+    "lon": 12.814722
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "MondovÃ¬ (CN)",
+    "name": "Aviosuperficie Giancarlo Filippi",
+    "icao": "IT-0034",
+    "lat": 44.409934,
+    "lon": 7.809992
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Cameri (NO)",
+    "name": "Cameri Air Base [MIL]",
+    "icao": "LIMN",
+    "lat": 45.529598,
+    "lon": 8.66922
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Palermo",
+    "name": "Palermo-Boccadifalco Airport",
+    "icao": "LICP",
+    "lat": 38.110802,
+    "lon": 13.3133
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Viterbo",
+    "name": "Viterbo Airport",
+    "icao": "LIRV",
+    "lat": 42.430199,
+    "lon": 12.0642
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Aquino",
+    "name": "Aquino Airport",
+    "icao": "LIAQ",
+    "lat": 41.493566,
+    "lon": 13.717942
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Salgareda (TV)",
+    "name": "Aviosuperficie G. Carrer",
+    "icao": "LIDW",
+    "lat": 45.6992,
+    "lon": 12.5431
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Vicenza",
+    "name": "Thiene Airport",
+    "icao": "LIDH",
+    "lat": 45.675701,
+    "lon": 11.4965
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Veneto",
+    "name": "Campo di Volo Mazarack",
+    "icao": "IT-0080",
+    "lat": 45.639444,
+    "lon": 12.943611
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Castelvolturno",
+    "name": "Aviosuperficie \"Delta Club Napoli\"",
+    "icao": "IT-0126",
+    "lat": 41.065278,
+    "lon": 13.9625
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Francavilla Bisio (AL)",
+    "name": "Aviosuperficie Francavilla Bisio",
+    "icao": "IT-0052",
+    "lat": 44.729868,
+    "lon": 8.730075
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Garzigliana (TO)",
+    "name": "Aviosuperficie Merlo Romano",
+    "icao": "IT-0037",
+    "lat": 44.834433,
+    "lon": 7.363565
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Marina di Modica (RG)",
+    "name": "Aviosuperficie Oasi dei Re",
+    "icao": "IT-0014",
+    "lat": 36.72148,
+    "lon": 14.77365
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Masera (VB)",
+    "name": "Aviosuperficie CHAVEZ-MARINI",
+    "icao": "IT-0049",
+    "lat": 46.134167,
+    "lon": 8.306333
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Pordenone (PN)",
+    "name": "La Comina",
+    "icao": "IT-0086",
+    "lat": 45.987222,
+    "lon": 12.654444
+  },
+  {
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Recanati",
+    "name": "Aviosuperficie \"Madonna di Loreto\"",
+    "icao": "IT-0082",
+    "lat": 43.43913,
+    "lon": 13.57054
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "San DonÃ  di Piave",
+    "name": "Aviosuperficie Caposile",
+    "icao": "IT-0129",
+    "lat": 45.564444,
+    "lon": 12.574722
+  },
+  {
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Senigallia",
+    "name": "Campo di Volo \"Senigallia Nord\"",
+    "icao": "IT-0002",
+    "lat": 43.738267,
+    "lon": 13.183208
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Vische (TO)",
+    "name": "Aviosuperficie Moncucco",
+    "icao": "LIVV",
+    "lat": 45.344613,
+    "lon": 7.919072
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Lampedusa",
+    "name": "Lampedusa Airport",
+    "icao": "LICD",
+    "lat": 35.497898,
+    "lon": 12.6181
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Tremiti Islands",
+    "name": "San Domino Island Heliport",
+    "icao": "IT-TQR",
+    "lat": 42.117775,
+    "lon": 15.490655
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Pomezia",
+    "name": "Pratica Di Mare Air Base",
+    "icao": "LIRE",
+    "lat": 41.654499,
+    "lon": 12.4452
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Caserta",
+    "name": "Grazzanise Air Base",
+    "icao": "LIRM",
+    "lat": 41.060799,
+    "lon": 14.0819
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Foggia",
+    "name": "Amendola Air Base",
+    "icao": "LIBA",
+    "lat": 41.541401,
+    "lon": 15.7181
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Gioia Del Colle (BA)",
+    "name": "Gioia Del Colle Air Base",
+    "icao": "LIBV",
+    "lat": 40.767799,
+    "lon": 16.9333
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Guidonia",
+    "name": "Guidonia Air Base",
+    "icao": "LIRG",
+    "lat": 41.990299,
+    "lon": 12.7408
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Piacenza",
+    "name": "Piacenza San Damiano Air Base",
+    "icao": "LIMS",
+    "lat": 44.913102,
+    "lon": 9.723322
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Vicenza",
+    "name": "Vicenza Airport",
+    "icao": "LIPT",
+    "lat": 45.573399,
+    "lon": 11.5295
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Cortina D'Ampezzo",
+    "name": "Cortina Airport",
+    "icao": "LIDI",
+    "lat": 46.5730018616,
+    "lon": 12.1180000305
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Frosinone",
+    "name": "Frosinone Air Base",
+    "icao": "LIRH",
+    "lat": 41.6464,
+    "lon": 13.2998
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Gela",
+    "name": "Aviosuperficie Airone",
+    "icao": "LICL",
+    "lat": 37.113977,
+    "lon": 14.214206
+  },
+  {
+    "country": "Italy",
+    "state": "Liguria",
+    "city": "Sarzana (SP)",
+    "name": "Sarzana-Luni Air Base",
+    "icao": "LIQW",
+    "lat": 44.088001,
+    "lon": 9.98795
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Campania",
+    "name": "Centro Volo Campania",
+    "icao": "IT-0092",
+    "lat": 40.9515272,
+    "lon": 14.41188
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Apulia",
+    "name": "Aviosuperficie \"Il Nido delle Acquile\"",
+    "icao": "IT-0117",
+    "lat": 40.93769,
+    "lon": 16.497
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Emilia-Romagna",
+    "name": "Campo di Volo \"Gli Aironi\"",
+    "icao": "IT-0339",
+    "lat": 44.462771,
+    "lon": 11.789613
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Tuscany",
+    "name": "Aviosuperficie di Fucecchio",
+    "icao": "IT-0435",
+    "lat": 43.7514431,
+    "lon": 10.8073791
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Apulia",
+    "name": "San Pancrazio Air Base",
+    "icao": "IT-0523",
+    "lat": 40.437947,
+    "lon": 17.857062
+  },
+  {
+    "country": "Italy",
+    "state": "Calabria",
+    "city": "Calabria",
+    "name": "Campo di Volo Ali dello Stilaro",
+    "icao": "IT-0533",
+    "lat": 38.435161,
+    "lon": 16.561698
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Sardinia",
+    "name": "Eliporto di Lanusei",
+    "icao": "IT-0535",
+    "lat": 39.890822,
+    "lon": 9.50585
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Sicily",
+    "name": "Eliporto di Gela",
+    "icao": "IT-0536",
+    "lat": 37.066235,
+    "lon": 14.282138
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Tuscany",
+    "name": "Aviosuperficie Costa d'Argento",
+    "icao": "IT-0272",
+    "lat": 42.4950156,
+    "lon": 11.2387705
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Tuscany",
+    "name": "Aviosuperficie Rotocenter",
+    "icao": "IT-0543",
+    "lat": 43.7152961,
+    "lon": 10.7439971
+  },
+  {
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Marche",
+    "name": "San Leo",
+    "icao": "LIDS",
+    "lat": 43.9194444,
+    "lon": 12.32
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Lazio",
+    "name": "Fonte di Papa Heliport",
+    "icao": "IT-0548",
+    "lat": 42.047787,
+    "lon": 12.568338
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Piedmont",
+    "name": "Campo di Volo Meda",
+    "icao": "IT-0549",
+    "lat": 45.676374,
+    "lon": 8.486462
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Abbiategrasso",
+    "name": "Aviosuperficie dei Navigli",
+    "icao": "IT-0111",
+    "lat": 45.414722,
+    "lon": 8.895
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Acquasparta",
+    "name": "Campo di Volo Acquasparta",
+    "icao": "IT-0155",
+    "lat": 42.6841667,
+    "lon": 12.5527778
+  },
+  {
+    "country": "Italy",
+    "state": "Trentino-Alto Adige",
+    "city": "Agnedo",
+    "name": "Campo di Volo Agnedo",
+    "icao": "IT-0271",
+    "lat": 46.0447222,
+    "lon": 11.5419444
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Aidone",
+    "name": "Campo di Volo Cugno",
+    "icao": "IT-0019",
+    "lat": 37.432392118,
+    "lon": 14.6152496338
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Albareto (PR)",
+    "name": "Campo di Volo Borgotaro Albareto",
+    "icao": "IT-0147",
+    "lat": 44.464558,
+    "lon": 9.715806
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Alberobello",
+    "name": "Campo di Volo \"Al Canale\"",
+    "icao": "IT-0270",
+    "lat": 40.8125,
+    "lon": 17.2330556
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Alseno",
+    "name": "A/S CÃ  del Conte",
+    "icao": "IT-0146",
+    "lat": 44.868889,
+    "lon": 9.938057
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Altavilla Silentina (SA)",
+    "name": "Campo di Volo Altavillafly",
+    "icao": "IT-0515",
+    "lat": 40.5458333,
+    "lon": 15.1019444
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Anagni (FR)",
+    "name": "Campo di Volo Delta Club",
+    "icao": "IT-0477",
+    "lat": 41.716433,
+    "lon": 13.094704
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Andrano",
+    "name": "Campo di Volo Pietralata",
+    "icao": "IT-0499",
+    "lat": 39.970654,
+    "lon": 18.381006
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Andria (BA)",
+    "name": "Aviosuperficie \"Ali sul Castello\"",
+    "icao": "IT-0247",
+    "lat": 41.061667,
+    "lon": 16.282222
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Apricena",
+    "name": "Campo volo Apricena Fly ULM",
+    "icao": "IT-0531",
+    "lat": 41.79806,
+    "lon": 15.419932
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Aprilia (LT)",
+    "name": "Aviosuperficie Fly Center",
+    "icao": "IT-0493",
+    "lat": 41.5472222,
+    "lon": 12.6708333
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Artogne (BS)",
+    "name": "Campo di Volo di Vallecamonica",
+    "icao": "IT-0514",
+    "lat": 45.855901,
+    "lon": 10.147571
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Arzago d'Adda (BG)",
+    "name": "Campo di Volo Castel Caladan",
+    "icao": "IT-0160",
+    "lat": 45.461305,
+    "lon": 9.576677
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Avola (SR)",
+    "name": "Aviosuperficie Avola-Gallina",
+    "icao": "IT-0220",
+    "lat": 36.945287,
+    "lon": 15.170774
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Azzanello (CR)",
+    "name": "Campo di Volo Azzanello",
+    "icao": "IT-0478",
+    "lat": 45.2938889,
+    "lon": 9.9205556
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Bagnoli di Sopra",
+    "name": "Aviosuperficie \"Dominio di Bagnoli\"",
+    "icao": "IT-0307",
+    "lat": 45.188628,
+    "lon": 11.858303
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Bassano del Grappa (VI)",
+    "name": "Aviosuperfice \"Alla Colombara\"",
+    "icao": "IT-0144",
+    "lat": 45.755,
+    "lon": 11.694167
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Bazzano (BO)",
+    "name": "Campo di Volo \"Ali della LibertÃ \"",
+    "icao": "IT-0297",
+    "lat": 44.516167,
+    "lon": 11.100083
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Belricetto (RA)",
+    "name": "Aviosuperficie \"LYRA 34\"",
+    "icao": "IT-0105",
+    "lat": 44.500278,
+    "lon": 11.944444
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Bene Vagienna (CN)",
+    "name": "Campo di Volo Country Fly",
+    "icao": "IT-0063",
+    "lat": 44.503056,
+    "lon": 7.821667
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Benevento (BN)",
+    "name": "Aviosuperficie Olivola",
+    "icao": "IT-0152",
+    "lat": 41.17751,
+    "lon": 14.74734
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Bertiolo (UD)",
+    "name": "Campo di Volo \"Al Ranch\"",
+    "icao": "IT-0402",
+    "lat": 45.9235,
+    "lon": 13.033567
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Bonsciano (PG)",
+    "name": "Campo di Volo Bonsciano",
+    "icao": "IT-0311",
+    "lat": 43.355854,
+    "lon": 12.193534
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Borghetto Lodigiano (LO)",
+    "name": "Aviosuperficie Vigarolo",
+    "icao": "IT-0136",
+    "lat": 45.2175,
+    "lon": 9.466667
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Borgo San Lorenzo (FI)",
+    "name": "Aviosuperficie Collina",
+    "icao": "IT-0395",
+    "lat": 43.988371,
+    "lon": 11.389562
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Borgo Ticino (NO)",
+    "name": "Aviosuperficie Il Picchio",
+    "icao": "IT-0054",
+    "lat": 45.708667,
+    "lon": 8.595667
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Bracciano",
+    "name": "Bracciano Air Base",
+    "icao": "IT-0423",
+    "lat": 42.0822,
+    "lon": 12.07459
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "BuddusÃ² (SS)",
+    "name": "Aviosuperficie Loelle",
+    "icao": "IT-0336",
+    "lat": 40.5701667,
+    "lon": 9.3173667
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Caerano San Marco (TV)",
+    "name": "Campo di Volo \"San Marco Volo\"",
+    "icao": "IT-0375",
+    "lat": 45.771043,
+    "lon": 11.996559
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Caiazzo (CE)",
+    "name": "Campo di Volo Rains",
+    "icao": "IT-0385",
+    "lat": 41.146,
+    "lon": 14.338803
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Calatabiano (CT)",
+    "name": "Aviosuperficie Angelo D'Arrigo",
+    "icao": "IT-0010",
+    "lat": 37.799561,
+    "lon": 15.22775
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Caltagirone (CT)",
+    "name": "Aviosuperficie Bosco di Mezzo",
+    "icao": "IT-0367",
+    "lat": 37.1523,
+    "lon": 14.59928
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Campiglia Marittima",
+    "name": "Campo di Volo Campiglia",
+    "icao": "IT-0441",
+    "lat": 43.019437,
+    "lon": 10.594659
+  },
+  {
+    "country": "Italy",
+    "state": "Molise",
+    "city": "Campochiaro (CB)",
+    "name": "Volo Molise",
+    "icao": "IT-0161",
+    "lat": 41.45948,
+    "lon": 14.53799
+  },
+  {
+    "country": "Italy",
+    "state": "Trentino-Alto Adige",
+    "city": "Campodenno (TN)",
+    "name": "Termon Altiport",
+    "icao": "IT-0091",
+    "lat": 46.270833,
+    "lon": 11.025833
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Campolongo Maggiore (VE)",
+    "name": "Campo di Volo Pegaso",
+    "icao": "IT-0284",
+    "lat": 45.318,
+    "lon": 12.05065
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Camposanpiero (PD)",
+    "name": "Aviosuperficie \"Ali sul Graticolato\"",
+    "icao": "IT-0393",
+    "lat": 45.5583333,
+    "lon": 11.9738889
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Capaccio (SA)",
+    "name": "Campo di Volo \"Oasi da Peppe\"",
+    "icao": "IT-0121",
+    "lat": 40.4525,
+    "lon": 15.001389
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Capannori (LU)",
+    "name": "Campo di Volo \"Delta Team Lucca\"",
+    "icao": "IT-0503",
+    "lat": 43.784226,
+    "lon": 10.603388
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Capena (RM)",
+    "name": "Aviosuperficie Roma-Nord",
+    "icao": "IT-0453",
+    "lat": 42.119945,
+    "lon": 12.604453
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Capo d'Orlando (ME)",
+    "name": "Campo di Volo Capo d'Orlando",
+    "icao": "IT-0018",
+    "lat": 38.126421,
+    "lon": 14.707904
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Caravaggio (BG)",
+    "name": "Campo di Volo Careas",
+    "icao": "IT-0134",
+    "lat": 45.50668,
+    "lon": 9.66814
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Carmiano (LE)",
+    "name": "ASD Salento Fly",
+    "icao": "IT-0526",
+    "lat": 40.35,
+    "lon": 18.0611111
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Caronia",
+    "name": "Aviosuperficie Minotaurus e Medusa",
+    "icao": "IT-0013",
+    "lat": 38.049105,
+    "lon": 14.541306
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Casaleggio (NO)",
+    "name": "Aviosuperficie Cascina Colombare",
+    "icao": "IT-0045",
+    "lat": 45.496667,
+    "lon": 8.527167
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Casalgiate (NO)",
+    "name": "Campo di Volo Aeroteam",
+    "icao": "IT-0425",
+    "lat": 45.4362801,
+    "lon": 8.5770435
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Casalino Isola Rizza (VR)",
+    "name": "Campo di Volo \"Ass.Sp.Volo Leggero\"",
+    "icao": "IT-0369",
+    "lat": 45.261776,
+    "lon": 11.192901
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Casarsa della Delizia (UD)",
+    "name": "Casarsa della Delizia Air Base",
+    "icao": "LIDK",
+    "lat": 45.953167,
+    "lon": 12.816717
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Cascia (PG)",
+    "name": "Campo di Volo Santa Rita",
+    "icao": "IT-0232",
+    "lat": 42.75654,
+    "lon": 13.01628
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Cassano d'Adda (MI)",
+    "name": "Aviosuperficie Baialupo",
+    "icao": "IT-0190",
+    "lat": 45.5529,
+    "lon": 9.50567
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Cassola",
+    "name": "Aviosuperficie Cassola",
+    "icao": "IT-0254",
+    "lat": 45.742222,
+    "lon": 11.807222
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Castagnole Lanze (AT)",
+    "name": "Campo volo \"Il Laghetto\"",
+    "icao": "IT-0065",
+    "lat": 44.777333,
+    "lon": 8.1295
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Castel Goffredo (MN)",
+    "name": "Campo di Volo Pellizzario",
+    "icao": "IT-0496",
+    "lat": 45.2927778,
+    "lon": 10.4466667
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Castelgoffredo (MN)",
+    "name": "Campo di Volo Medole",
+    "icao": "IT-0521",
+    "lat": 45.339031,
+    "lon": 10.480944
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Castelletto Stura (CN)",
+    "name": "Aviosuperficie Valentino",
+    "icao": "IT-0060",
+    "lat": 44.437222,
+    "lon": 7.660556
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Castello d'Agogna (PV)",
+    "name": "Aviosuperficie privata \"La Ceriella\"",
+    "icao": "IT-0511",
+    "lat": 45.220143,
+    "lon": 8.659543
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Castelritaldi (PG)",
+    "name": "Ali Libere",
+    "icao": "IT-0174",
+    "lat": 42.829833,
+    "lon": 12.683383
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Castiadas (CA)",
+    "name": "Aviosuperficie Antica Sardegna",
+    "icao": "IT-0436",
+    "lat": 39.270695,
+    "lon": 9.538871
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Castiglion Fiorentino (AR)",
+    "name": "Agriturismo \"Podere Santa Apollonia\"",
+    "icao": "IT-0248",
+    "lat": 43.295278,
+    "lon": 11.907222
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Castiglione del Lago (PG)",
+    "name": "Campo di Volo Ciannocio",
+    "icao": "IT-0235",
+    "lat": 43.122253,
+    "lon": 11.920488
+  },
+  {
+    "country": "Italy",
+    "state": "Calabria",
+    "city": "Castrovillari (CS)",
+    "name": "Conca del Re",
+    "icao": "IT-0289",
+    "lat": 39.853525,
+    "lon": 16.197045
+  },
+  {
+    "country": "Italy",
+    "state": "Trentino-Alto Adige",
+    "city": "Cavalese",
+    "name": "Campo di Volo \"VolAvisio\"",
+    "icao": "IT-0217",
+    "lat": 46.27888,
+    "lon": 11.44837
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Cavriago (RE), loc. Coviolo",
+    "name": "Campo di Volo Top Gun",
+    "icao": "IT-0420",
+    "lat": 44.682302,
+    "lon": 10.568648
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Ceccano (FR)",
+    "name": "Aviosuperficie Pegaso Flying Club",
+    "icao": "IT-0210",
+    "lat": 41.541847,
+    "lon": 13.370451
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Cecina",
+    "name": "Aviosuperficie Cecina",
+    "icao": "LIQG",
+    "lat": 43.2844444,
+    "lon": 10.5227778
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Cellino San Marco (BR)",
+    "name": "Aviosuperficie Esperti",
+    "icao": "IT-0239",
+    "lat": 40.480095,
+    "lon": 17.885069
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Cendon di Silea (TV)",
+    "name": "Campo di Volo \"La Canonica\"",
+    "icao": "IT-0428",
+    "lat": 45.635467,
+    "lon": 12.340599
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Ceresara (MN)",
+    "name": "Silvia-Giovanni",
+    "icao": "IT-0520",
+    "lat": 45.26142,
+    "lon": 10.535641
+  },
+  {
+    "country": "Italy",
+    "state": "Liguria",
+    "city": "Certenoli",
+    "name": "Campo di Volo \"Valerio Glorialanza\"",
+    "icao": "IT-0250",
+    "lat": 44.376111,
+    "lon": 9.290278
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Cerveteri (RM)",
+    "name": "Campo di Volo Sangermano",
+    "icao": "IT-0455",
+    "lat": 41.991555,
+    "lon": 12.13791
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Cherasco (CN)",
+    "name": "Campo di Volo Malabaila",
+    "icao": "IT-0070",
+    "lat": 44.678889,
+    "lon": 7.818611
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Chiusdino (SI)",
+    "name": "Aviosuperficie Club Chiusdino",
+    "icao": "IT-0131",
+    "lat": 43.191012,
+    "lon": 11.143076
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Cigliano  (VC)",
+    "name": "Fly Igor",
+    "icao": "IT-0077",
+    "lat": 45.298056,
+    "lon": 8.0075
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Cividale del Friuli (UD)",
+    "name": "Campo di Volo Ali Friuli",
+    "icao": "IT-0397",
+    "lat": 46.056493,
+    "lon": 13.426248
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Civita Castellana (VT)",
+    "name": "CdV Colibri",
+    "icao": "IT-0537",
+    "lat": 42.3008333,
+    "lon": 12.3797222
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Cizzago (BS)",
+    "name": "Aviosuperficie \"Santa Lucia\"",
+    "icao": "IT-0194",
+    "lat": 45.484167,
+    "lon": 9.9525
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Clusone",
+    "name": "Clusone Heliport",
+    "icao": "LILS",
+    "lat": 45.8838882446289,
+    "lon": 9.96638870239257
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Codigoro (FE)",
+    "name": "Aviosuperficie Valle Gaffaro",
+    "icao": "IT-0323",
+    "lat": 44.834414,
+    "lon": 12.231261
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "CodognÃ¨ (TV)",
+    "name": "Campo di Volo \"Butterfly 2\"",
+    "icao": "IT-0431",
+    "lat": 45.853,
+    "lon": 12.456949
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Comiso",
+    "name": "Aviosuperficie Sorvoliamo",
+    "icao": "IT-0016",
+    "lat": 37.0084558926,
+    "lon": 14.5951116085
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Como",
+    "name": "Elisoccorso Provincia di Como",
+    "icao": "IT-0539",
+    "lat": 45.771878,
+    "lon": 9.043403
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Conselice (RA)",
+    "name": "Campo di Volo \"Delta club Conselice\"",
+    "icao": "IT-0340",
+    "lat": 44.541928,
+    "lon": 11.792177
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Contignano (SI)",
+    "name": "Aviosuperficie Borgo Castelvecchio",
+    "icao": "IT-0324",
+    "lat": 43.0093333,
+    "lon": 11.7334667
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Corchiano (VT)",
+    "name": "Aviosuperficie Santa Bruna",
+    "icao": "IT-0343",
+    "lat": 42.382873,
+    "lon": 12.344158
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Cordovado (PN)",
+    "name": "Campo di Volo Cordovado",
+    "icao": "IT-0464",
+    "lat": 45.83657,
+    "lon": 12.892801
+  },
+  {
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Corridonia (MC)",
+    "name": "Campo di Volo Ali del Chienti",
+    "icao": "IT-0332",
+    "lat": 43.260263,
+    "lon": 13.518618
+  },
+  {
+    "country": "Italy",
+    "state": "Calabria",
+    "city": "Cotronei (KR)",
+    "name": "Aviosuperficie Franca",
+    "icao": "IT-0029",
+    "lat": 39.189857,
+    "lon": 16.670637
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Cumiana (TO)",
+    "name": "Aviosuperficie Cumiana",
+    "icao": "IT-0051",
+    "lat": 44.939043,
+    "lon": 7.428925
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Curtatone",
+    "name": "Aviosuperficie CittÃ  di Curtatone",
+    "icao": "IT-0325",
+    "lat": 45.101333,
+    "lon": 10.75005
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Empoli",
+    "name": "Campo di Volo Empoli",
+    "icao": "IT-0262",
+    "lat": 43.72512,
+    "lon": 10.98294
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Enemonzo (UD)",
+    "name": "Aviosuperficie Zampieri",
+    "icao": "IT-0114",
+    "lat": 46.404444,
+    "lon": 12.8825
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Felino (PR)",
+    "name": "Aviosuperficie Aviodelta",
+    "icao": "IT-0352",
+    "lat": 44.706594,
+    "lon": 10.249517
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Felonica (MN)",
+    "name": "Campo di Volo Felonica",
+    "icao": "IT-0505",
+    "lat": 44.9666667,
+    "lon": 11.3541667
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Ferentino (FR)",
+    "name": "Campo di Volo Alicocco",
+    "icao": "IT-0166",
+    "lat": 41.655,
+    "lon": 13.226389
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Fiano Romano (RM)",
+    "name": "Aviosuperficie Tucano",
+    "icao": "IT-0439",
+    "lat": 42.132373,
+    "lon": 12.627056
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Fiesso Umbertiano (RO)",
+    "name": "Aviosuperficie Stella",
+    "icao": "IT-0172",
+    "lat": 44.95094,
+    "lon": 11.62722
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Foggia (FG)",
+    "name": "Campo di Volo \"Fly and Go\"",
+    "icao": "IT-0350",
+    "lat": 41.344754,
+    "lon": 15.526474
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Francolino (FE)",
+    "name": "Campo di Volo La Strozza",
+    "icao": "IT-0487",
+    "lat": 44.894653,
+    "lon": 11.669125
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Frigento (AV)",
+    "name": "Campo di Volo \"Sky Ufita\"",
+    "icao": "IT-0291",
+    "lat": 41.046165,
+    "lon": 15.121532
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Fubara",
+    "name": "Furbara Air Base",
+    "icao": "LIAR",
+    "lat": 41.994532,
+    "lon": 12.0135
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Gallese (VT)",
+    "name": "Aviosuperficie Santa Lucia",
+    "icao": "IT-0541",
+    "lat": 42.3583333,
+    "lon": 12.4277778
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Galliera Veneta (PD)",
+    "name": "Campo di Volo \"Ali Venete\"",
+    "icao": "IT-0141",
+    "lat": 45.666667,
+    "lon": 11.808333
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Gela (CL)",
+    "name": "Campo di Volo MedFly",
+    "icao": "IT-0448",
+    "lat": 37.1055,
+    "lon": 14.220061
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Gela (CL)",
+    "name": "Trike Team Cormorano",
+    "icao": "IT-0244",
+    "lat": 37.0994444,
+    "lon": 14.17
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Giuliano (NA)",
+    "name": "Campo di Volo \"Air Patria\"",
+    "icao": "IT-0212",
+    "lat": 40.926943,
+    "lon": 14.061944
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Granarolo Emilia (BO)",
+    "name": "Campo di Volo \"Delta Culture Club\"",
+    "icao": "IT-0252",
+    "lat": 44.571111,
+    "lon": 11.451667
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Gualdo Cattaneo (PG)",
+    "name": "Aviosuperficie del Sagrantino",
+    "icao": "IT-0163",
+    "lat": 42.890278,
+    "lon": 12.533056
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Gualdo Tadino (PG)",
+    "name": "Aviosuperficie Ali Umbre",
+    "icao": "IT-0479",
+    "lat": 43.27045,
+    "lon": 12.7422267
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Imola (BO)",
+    "name": "Campo di Volo Elio Zambrini",
+    "icao": "IT-0296",
+    "lat": 44.4323333,
+    "lon": 11.71815
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Imola (BO)",
+    "name": "Campo di Volo \"Amanti Volo Ultraleggero\"",
+    "icao": "IT-0510",
+    "lat": 44.326615,
+    "lon": 11.659263
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Ischitella (FG)",
+    "name": "Campo di Volo K-Fly",
+    "icao": "IT-0223",
+    "lat": 41.91128,
+    "lon": 15.81102
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Isola della Scala (VR)",
+    "name": "Campo di Volo Squadra Avvoltoi",
+    "icao": "IT-0484",
+    "lat": 45.241525,
+    "lon": 11.004096
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Lido di Classe (RA)",
+    "name": "Aviosuperficie \"Ali di Classe\"",
+    "icao": "IT-0103",
+    "lat": 44.322803,
+    "lon": 12.308312
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Lignano",
+    "name": "Pegasus Flying Club",
+    "icao": "IT-0151",
+    "lat": 45.669654,
+    "lon": 13.0394509
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Lonato (BS)",
+    "name": "Aviosuperficie di Lonato",
+    "icao": "IT-0294",
+    "lat": 45.394566,
+    "lon": 10.566931
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Maccagno (CN)",
+    "name": "Aviosuperficie Maccagno",
+    "icao": "IT-0208",
+    "lat": 44.42381,
+    "lon": 7.45917
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Magione (PG)",
+    "name": "Campo di Volo Molinella",
+    "icao": "IT-0315",
+    "lat": 43.121511,
+    "lon": 12.20585
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Manciano (GR)",
+    "name": "Campo di Volo \"Flying Buttero\"",
+    "icao": "IT-0148",
+    "lat": 42.517352,
+    "lon": 11.319137
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Manduria (TA)",
+    "name": "Aviosuperficie Aerotre",
+    "icao": "IT-0122",
+    "lat": 40.443303,
+    "lon": 17.630114
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Marina di Ginosa",
+    "name": "Marina di Ginosa Heliport",
+    "icao": "LIBH",
+    "lat": 40.424107,
+    "lon": 16.887501
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Marradi (FI)",
+    "name": "Marradi Fire Brigade Helipad",
+    "icao": "IT-0418",
+    "lat": 44.089273,
+    "lon": 11.634656
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "MaserÃ  di Padova (PD)",
+    "name": "Campo di Volo Padova Sud",
+    "icao": "IT-0306",
+    "lat": 45.324676,
+    "lon": 11.872852
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Massalengo (LO)",
+    "name": "Aviosuperficie Massalengo",
+    "icao": "IT-0359",
+    "lat": 45.275425,
+    "lon": 9.482934
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Massarosa (LU)",
+    "name": "Campo di Volo \"Delta Condor\"",
+    "icao": "IT-0238",
+    "lat": 43.869653,
+    "lon": 10.301777
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Medicina",
+    "name": "Aviosuperficie Villa Fontana",
+    "icao": "IT-0361",
+    "lat": 44.51585,
+    "lon": 11.59218
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Melpignano (LE)",
+    "name": "Aviosuperficie Corte",
+    "icao": "IT-0242",
+    "lat": 40.10667,
+    "lon": 18.25833
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Menfi",
+    "name": "Aviosuperficie Terranova",
+    "icao": "IT-0017",
+    "lat": 37.5766235765,
+    "lon": 12.9444909096
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Mercato Saraceno",
+    "name": "Private Ultralight Field \"Achille\"",
+    "icao": "IT-0261",
+    "lat": 43.99883,
+    "lon": 12.10792
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Mezzana Bigli (PV)",
+    "name": "Aviosuperficie Mezzana Bigli",
+    "icao": "IT-0118",
+    "lat": 45.065409,
+    "lon": 8.835176
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Milan",
+    "name": "Elipadana Heliport",
+    "icao": "IT-0547",
+    "lat": 45.488697,
+    "lon": 9.196184
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Moncrivello",
+    "name": "Campo di Volo Lucchina Fly Club\"",
+    "icao": "IT-0193",
+    "lat": 45.3236111,
+    "lon": 8.0008333
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Monselice (PD)",
+    "name": "Campo di Volo \"Da Domenico\"",
+    "icao": "IT-0305",
+    "lat": 45.232351,
+    "lon": 11.797808
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Montalto di Castro (VT)",
+    "name": "Campo di Volo Montalto di Castro",
+    "icao": "IT-0345",
+    "lat": 42.362738,
+    "lon": 11.656572
+  },
+  {
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Montecalvo in Foglia (PS)",
+    "name": "Campo di Volo CÃ  Virginia",
+    "icao": "IT-0233",
+    "lat": 43.819065,
+    "lon": 12.677191
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Montecompatri (RM)",
+    "name": "Aviosuperficie \"Fly Roma\"",
+    "icao": "IT-0454",
+    "lat": 41.884434,
+    "lon": 12.71516
+  },
+  {
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Montefano (MC)",
+    "name": "Campo di Volo Montefano",
+    "icao": "IT-0102",
+    "lat": 43.42075,
+    "lon": 13.39928
+  },
+  {
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Montegiorgio (AP)",
+    "name": "Aviosuperficie \"Guido Paci\"",
+    "icao": "IT-0280",
+    "lat": 43.102691,
+    "lon": 13.557411
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Montelibretti",
+    "name": "Campo di Volo \"Fly Sabina\"",
+    "icao": "IT-0243",
+    "lat": 42.1166667,
+    "lon": 12.7080556
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Montiglio",
+    "name": "Campo di Volo \"Cab Club\"",
+    "icao": "IT-0168",
+    "lat": 45.057833,
+    "lon": 8.066817
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Mortegliano (UD)",
+    "name": "Aviosuperficie AS77",
+    "icao": "IT-0302",
+    "lat": 45.95995,
+    "lon": 13.20564
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Mortegliano (UD)",
+    "name": "Campo di Volo Fly Synthesis",
+    "icao": "IT-0406",
+    "lat": 45.968667,
+    "lon": 13.23355
+  },
+  {
+    "country": "Italy",
+    "state": "Abruzzi",
+    "city": "Mosciano Sant'Angelo (TE)",
+    "name": "Campo di Volo \"Costa del Monte\"",
+    "icao": "IT-0443",
+    "lat": 42.733207,
+    "lon": 13.891703
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Mossa (GO)",
+    "name": "Agriturismo Turus",
+    "icao": "IT-0301",
+    "lat": 45.923709,
+    "lon": 13.541016
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Narni (TR)",
+    "name": "Campo di Volo Calledro",
+    "icao": "IT-0451",
+    "lat": 42.464848,
+    "lon": 12.428715
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Nepi (VT)",
+    "name": "Aviosuperficie Carocci",
+    "icao": "IT-0283",
+    "lat": 42.247516,
+    "lon": 12.308311
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Nervesa della Battaglia",
+    "name": "Aviosuperficie F. Baracca",
+    "icao": "IT-0150",
+    "lat": 45.838889,
+    "lon": 12.193889
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Nettuno (RM)",
+    "name": "Aviosuperficie ARMA",
+    "icao": "IT-0452",
+    "lat": 41.464661,
+    "lon": 12.746693
+  },
+  {
+    "country": "Italy",
+    "state": "Calabria",
+    "city": "Nicotera",
+    "name": "Campo di Volo \"Beppe Rascaglia\"",
+    "icao": "IT-0093",
+    "lat": 38.515556,
+    "lon": 15.942222
+  },
+  {
+    "country": "Italy",
+    "state": "Abruzzi",
+    "city": "Notaresco (TE)",
+    "name": "Aviosuperficie Pica",
+    "icao": "IT-0370",
+    "lat": 42.696389,
+    "lon": 13.917222
+  },
+  {
+    "country": "Italy",
+    "state": "Abruzzi",
+    "city": "Ofena",
+    "name": "Campo di Volo Collerotondo",
+    "icao": "IT-0282",
+    "lat": 42.289182,
+    "lon": 13.745423
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Offlaga (BS)",
+    "name": "Campo di Volo \"Blue Devil Centre\"",
+    "icao": "IT-0292",
+    "lat": 45.392554,
+    "lon": 10.128472
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Oria (BR)",
+    "name": "Campo di Volo AliPuglia",
+    "icao": "IT-0333",
+    "lat": 40.474421,
+    "lon": 17.609926
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Origgio (VA)",
+    "name": "Aviosuperficie Airone",
+    "icao": "IT-0139",
+    "lat": 45.588056,
+    "lon": 9.003751
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Orosei (NU)",
+    "name": "Campo di Volo Linnarta",
+    "icao": "IT-0516",
+    "lat": 40.412091,
+    "lon": 9.723621
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Pachino (SR)",
+    "name": "Campo di Volo Pachino Fly Dream",
+    "icao": "IT-0024",
+    "lat": 36.726571,
+    "lon": 15.033717
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Paluzza (UD)",
+    "name": "Campo di Volo \"Volo Libero Carnia\"",
+    "icao": "IT-0421",
+    "lat": 46.524053,
+    "lon": 13.004055
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Panicale (PG)",
+    "name": "Aviosuperficie Panicarola",
+    "icao": "IT-0388",
+    "lat": 43.064444,
+    "lon": 12.100556
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Pantalla (PG)",
+    "name": "Aviosuperficie Pantalla",
+    "icao": "IT-0207",
+    "lat": 42.871167,
+    "lon": 12.383417
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Pastrengo (VR)",
+    "name": "Aviosuperficie Arcadia",
+    "icao": "IT-0416",
+    "lat": 45.501483,
+    "lon": 10.788964
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Pavia di Udine (UD)",
+    "name": "Campo di Volo \"Fly Evolution\"",
+    "icao": "IT-0407",
+    "lat": 45.981982,
+    "lon": 13.306923
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Pergine Valdarno (AR)",
+    "name": "Aviosuperficie La Filanda",
+    "icao": "IT-0176",
+    "lat": 43.4464,
+    "lon": 11.67414
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Pezzolo Valle Uzzone (CN)",
+    "name": "Campo di Volo Beltrutta",
+    "icao": "IT-0044",
+    "lat": 44.498333,
+    "lon": 7.723333
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Pianfei (CN)",
+    "name": "Aviosuperficie Alpi Marittime",
+    "icao": "IT-0056",
+    "lat": 44.391111,
+    "lon": 7.725556
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Piazzola sul Brenta (PD)",
+    "name": "Aviosuperficie \"Il Ranch\"",
+    "icao": "IT-0288",
+    "lat": 45.5458333,
+    "lon": 11.7619444
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Pietraperzia (EN)",
+    "name": "Campo di Volo Marano",
+    "icao": "IT-0022",
+    "lat": 37.386467,
+    "lon": 14.143471
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Pieve di Cento (BO)",
+    "name": "Campo di Volo Phoenix",
+    "icao": "IT-0298",
+    "lat": 44.74714,
+    "lon": 11.34161
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Piombino",
+    "name": "Campo di Volo Condor",
+    "icao": "IT-0412",
+    "lat": 42.9691667,
+    "lon": 10.6197222
+  },
+  {
+    "country": "Italy",
+    "state": "Basilicata",
+    "city": "Pisticci (MT)",
+    "name": "Aviosuperficie Enrico Mattei",
+    "icao": "IT-0177",
+    "lat": 40.431896,
+    "lon": 16.5538
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Polesine Zibello",
+    "name": "Campo di Volo Volare Un Po ULM",
+    "icao": "IT-0532",
+    "lat": 45.016807,
+    "lon": 10.09893
+  },
+  {
+    "country": "Italy",
+    "state": "Basilicata",
+    "city": "Policoro (MT)",
+    "name": "Campo di Volo Policoro \"Saline\"",
+    "icao": "IT-0447",
+    "lat": 40.216161,
+    "lon": 16.731721
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Pontinia (LT)",
+    "name": "Campo di Volo Pontina Eagles",
+    "icao": "IT-0467",
+    "lat": 41.372995,
+    "lon": 13.136783
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Porto Torres (SS)",
+    "name": "Campo di Volo Platamona",
+    "icao": "IT-0125",
+    "lat": 40.813333,
+    "lon": 8.470278
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Portomaggiore (FE)",
+    "name": "Campo di Volo Verginese",
+    "icao": "IT-0349",
+    "lat": 44.690633,
+    "lon": 11.762535
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Poviglio (RE)",
+    "name": "Aviosuperficie Tabularia",
+    "icao": "IT-0506",
+    "lat": 44.84975,
+    "lon": 10.5662204
+  },
+  {
+    "country": "Italy",
+    "state": "Molise",
+    "city": "Pozzilli",
+    "name": "Campo di Volo Pozzilli",
+    "icao": "IT-0227",
+    "lat": 41.50223,
+    "lon": 14.08533
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Pozzonovo",
+    "name": "Aviosuperficie \"Colli Euganei\"",
+    "icao": "IT-0257",
+    "lat": 45.203258,
+    "lon": 11.793658
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Pramaggiore",
+    "name": "CdV Ass.Sp. Parvolo",
+    "icao": "IT-0133",
+    "lat": 45.815556,
+    "lon": 12.752222
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Predosa (AL)",
+    "name": "Campo di Volo Mantovana",
+    "icao": "IT-0504",
+    "lat": 44.728086,
+    "lon": 8.595741
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Pulsano (TA)",
+    "name": "Aviosuperficie Monticchio",
+    "icao": "IT-0224",
+    "lat": 40.3775,
+    "lon": 17.385556
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Quarrata (PT)",
+    "name": "Aviosuperficie I Pinguini",
+    "icao": "IT-0209",
+    "lat": 43.87137,
+    "lon": 10.94651
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Ramacca",
+    "name": "Aviosuperficie Ramacca",
+    "icao": "IT-0015",
+    "lat": 37.390652,
+    "lon": 14.620249
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Rieti (RI)",
+    "name": "Aviosuperficie Vallesanta",
+    "icao": "IT-0355",
+    "lat": 42.427317,
+    "lon": 12.805221
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Rivalta sul Mincio (MN)",
+    "name": "Aviosuperficie Settefrati",
+    "icao": "IT-0329",
+    "lat": 45.201775,
+    "lon": 10.662813
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Rivoli (TO)",
+    "name": "Campo di Volo Rivoli",
+    "icao": "IT-0426",
+    "lat": 45.046818,
+    "lon": 7.536461
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Roma",
+    "name": "Campo di Volo Roma Est",
+    "icao": "IT-0444",
+    "lat": 41.9151,
+    "lon": 12.76803
+  },
+  {
+    "country": "Italy",
+    "state": "Calabria",
+    "city": "Rombiolo",
+    "name": "Aviosuperficie Ali Calabria",
+    "icao": "IT-0027",
+    "lat": 38.619603,
+    "lon": 15.955968
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Rome",
+    "name": "Centocelle Heliport",
+    "icao": "LIRC",
+    "lat": 41.8729,
+    "lon": 12.5637
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Rovasenda",
+    "name": "Campo di Volo \"Rovasenda 2000\"",
+    "icao": "IT-0269",
+    "lat": 45.5444444,
+    "lon": 8.2791667
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Roverbella (MN",
+    "name": "Campo di Volo Roverbella",
+    "icao": "IT-0328",
+    "lat": 45.239484,
+    "lon": 10.889615
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Sabaudia (LT)",
+    "name": "Aviosuperficie Sabaudia",
+    "icao": "IT-0096",
+    "lat": 41.333611,
+    "lon": 13.021389
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Samolaco (SO)",
+    "name": "Campo di Volo Samolaco",
+    "icao": "IT-0085",
+    "lat": 46.23515,
+    "lon": 9.43206
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "San Dalmazio",
+    "name": "Campo di Volo \"San Dalmazio\"",
+    "icao": "IT-0251",
+    "lat": 44.4125,
+    "lon": 10.843611
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "San Giovanni Rotondo (FG)",
+    "name": "Aviosuperficie \"Cap. Pilota Saverio Tedesco\"",
+    "icao": "IT-0205",
+    "lat": 41.635,
+    "lon": 15.761667
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "San Giuliano Vecchio (AL)",
+    "name": "Campo di volo Ploia",
+    "icao": "IT-0064",
+    "lat": 44.884167,
+    "lon": 8.780833
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "San Possidonia (MO)",
+    "name": "Aviosuperficie Deltaland",
+    "icao": "IT-0433",
+    "lat": 44.8714,
+    "lon": 10.9807
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "San Rocco al Porto",
+    "name": "Campo di Volo Mezzana Casati",
+    "icao": "IT-0360",
+    "lat": 45.098258,
+    "lon": 9.735884
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "San Teodoro (OT)",
+    "name": "Aviosuperficie San Teodoro",
+    "icao": "IT-0346",
+    "lat": 40.802484,
+    "lon": 9.65839
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "San Vincenzo (LI)",
+    "name": "Aviosuperficie \"Il Gabbiano\"",
+    "icao": "IT-0180",
+    "lat": 43.051711,
+    "lon": 10.552012
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "San Vito al Torre (UD)",
+    "name": "Campo di Volo \"I Grifoni\"",
+    "icao": "IT-0404",
+    "lat": 45.91347,
+    "lon": 13.371861
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Sant'Agata de'Goti (BN)",
+    "name": "Campo di Volo \"Fly Club\"",
+    "icao": "IT-0097",
+    "lat": 41.10457,
+    "lon": 14.45698
+  },
+  {
+    "country": "Italy",
+    "state": "Abruzzi",
+    "city": "Sant'Omero (TE)",
+    "name": "Aviosuperficie \"Val Vibrata 2\"",
+    "icao": "IT-0432",
+    "lat": 42.80427,
+    "lon": 13.794678
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Santa Maria di Licodia",
+    "name": "Campo di Volo \"Il Cherubino\"",
+    "icao": "IT-0023",
+    "lat": 37.59441,
+    "lon": 14.880252
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Santa Maria Rossa (PG)",
+    "name": "Campo di Volo Santa Maria Rossa",
+    "icao": "IT-0313",
+    "lat": 43.023963,
+    "lon": 12.387515
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Santarcangelo di Romagna (RN)",
+    "name": "Aviosuperficie Santarcangelo",
+    "icao": "IT-0445",
+    "lat": 44.032318,
+    "lon": 12.427928
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Sassuolo (MO)",
+    "name": "Aviosuperficie Sassuolo",
+    "icao": "IT-0200",
+    "lat": 44.571667,
+    "lon": 10.78
+  },
+  {
+    "country": "Italy",
+    "state": "Calabria",
+    "city": "Scalea (CS)",
+    "name": "Aviosuperficie Scalea",
+    "icao": "IT-0030",
+    "lat": 39.776188,
+    "lon": 15.811343
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Scarlino (GR)",
+    "name": "Campo di Volo Dedalo",
+    "icao": "IT-0396",
+    "lat": 42.92801,
+    "lon": 10.840792
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Scortichino",
+    "name": "Campo di Volo Scortichino",
+    "icao": "IT-0509",
+    "lat": 44.8577778,
+    "lon": 11.3530556
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Senago (MI)",
+    "name": "Campo di Volo Groane",
+    "icao": "IT-0461",
+    "lat": 45.56612,
+    "lon": 9.109705
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Sequals (PN)",
+    "name": "Campo di Volo Agroturismo Sasso d'Oro",
+    "icao": "IT-0204",
+    "lat": 46.181389,
+    "lon": 12.8225
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Serdiana (CA)",
+    "name": "Campo di Volo \"Oasi del Volo\"",
+    "icao": "IT-0507",
+    "lat": 39.407537,
+    "lon": 9.174867
+  },
+  {
+    "country": "Italy",
+    "state": "Campania",
+    "city": "Sessa Aurunca (CE)",
+    "name": "Campo di Volo Umberto Nobile",
+    "icao": "IT-0095",
+    "lat": 41.235278,
+    "lon": 13.820556
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Settecrociari",
+    "name": "Campo di Volo Settecrociari",
+    "icao": "IT-0258",
+    "lat": 44.13595,
+    "lon": 12.18976
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Sezze",
+    "name": "Aviosuperficie Divinangelo",
+    "icao": "IT-0222",
+    "lat": 41.471944,
+    "lon": 13.023611
+  },
+  {
+    "country": "Italy",
+    "state": "Calabria",
+    "city": "Sibari Scalo (CS)",
+    "name": "Aviosuperficie Sibari Fly",
+    "icao": "IT-0179",
+    "lat": 39.757418,
+    "lon": 16.435418
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Siliqua (CA)",
+    "name": "Aviosuperficie \"La Tana del Volo\"",
+    "icao": "IT-0414",
+    "lat": 39.269133,
+    "lon": 8.771811
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Sinalunga (SI)",
+    "name": "Campo di Volo Valdichiana",
+    "icao": "IT-0234",
+    "lat": 43.214021,
+    "lon": 11.823111
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Siracusa",
+    "name": "Eliporto di Siracusa Pantanelli",
+    "icao": "IT-0544",
+    "lat": 37.061536,
+    "lon": 15.267566
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Sissa (PR)",
+    "name": "Campo di Volo \"Ali del Po\"",
+    "icao": "IT-0157",
+    "lat": 44.97213,
+    "lon": 10.293684
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Soriano nel Cimino (VT)",
+    "name": "Aviosuperficie Alisoriano",
+    "icao": "IT-0100",
+    "lat": 42.433658,
+    "lon": 12.292147
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Spresiano (TV)",
+    "name": "Campo di Volo Albatros",
+    "icao": "IT-0429",
+    "lat": 45.770727,
+    "lon": 12.244068
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Sutri",
+    "name": "Aviosuperficie Valicella",
+    "icao": "IT-0266",
+    "lat": 42.21873,
+    "lon": 12.24846
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Suzzara (MN)",
+    "name": "Campo di Volo \"La Fenice\"",
+    "icao": "IT-0137",
+    "lat": 44.999827,
+    "lon": 10.71339
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Syracuse",
+    "name": "Cassibile Airfield",
+    "icao": "IT-0036",
+    "lat": 36.981791,
+    "lon": 15.239755
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Tarquinia (VT)",
+    "name": "Campo di Volo San Giorgio",
+    "icao": "IT-0391",
+    "lat": 42.192897,
+    "lon": 11.724445
+  },
+  {
+    "country": "Italy",
+    "state": "Sicily",
+    "city": "Termini Imerese (PA)",
+    "name": "Campo di Volo Albatros",
+    "icao": "IT-0025",
+    "lat": 37.972443,
+    "lon": 13.771856
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Terni",
+    "name": "Aviosuperficie \"Alvaro Leonardi\"",
+    "icao": "LIAA",
+    "lat": 42.573333,
+    "lon": 12.584444
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Tessenano (VT)",
+    "name": "Campo di Volo Francesco Cantelmo",
+    "icao": "IT-0488",
+    "lat": 42.4886111,
+    "lon": 11.7986111
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Toano (RE)",
+    "name": "Campo di Volo Cavola",
+    "icao": "IT-0231",
+    "lat": 44.39646,
+    "lon": 10.53613
+  },
+  {
+    "country": "Italy",
+    "state": "Marche",
+    "city": "Tolentino (MC)",
+    "name": "Campo di Volo \"Condor Men\"",
+    "icao": "IT-0330",
+    "lat": 43.224706,
+    "lon": 13.329554
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Toritto (BA)",
+    "name": "La Quercia",
+    "icao": "IT-0124",
+    "lat": 40.962982,
+    "lon": 16.6331
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Torlino Vimercata (CR)",
+    "name": "Campo di Volo \"Punto Volo\"",
+    "icao": "IT-0300",
+    "lat": 45.437987,
+    "lon": 9.60738
+  },
+  {
+    "country": "Italy",
+    "state": "Umbria",
+    "city": "Torre Alfina (TR)",
+    "name": "Aviosuperficie Alfina",
+    "icao": "IT-0456",
+    "lat": 42.739667,
+    "lon": 11.983333
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Tresnuraghes (OR)",
+    "name": "Aviosuperficie Torre Foghe",
+    "icao": "IT-0490",
+    "lat": 40.1833333,
+    "lon": 8.4694444
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Trieste",
+    "name": "Campo di Volo Prosecco",
+    "icao": "IT-0078",
+    "lat": 45.703333,
+    "lon": 13.759722
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "TrinitÃ  d'Agultu e Vignola (SS)",
+    "name": "Campo di Volo \"Pista Vasa\"",
+    "icao": "IT-0338",
+    "lat": 41.046634,
+    "lon": 8.997749
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Trivignano (UD)",
+    "name": "Aviosuperficie Ultralight Friuli",
+    "icao": "IT-0173",
+    "lat": 45.93098,
+    "lon": 13.362
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Ugento (LE)",
+    "name": "Campo di Volo Gemini",
+    "icao": "IT-0382",
+    "lat": 39.8948,
+    "lon": 18.1904
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Valeggio (VR)",
+    "name": "Campo di Volo Scaligero",
+    "icao": "IT-0415",
+    "lat": 45.317999,
+    "lon": 10.708789
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Valle Lomellina (PV)",
+    "name": "Campo di Volo L'Airone",
+    "icao": "IT-0434",
+    "lat": 45.153393,
+    "lon": 8.656568
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Valledoria (SS)",
+    "name": "Campo di Volo Valledoria",
+    "icao": "IT-0337",
+    "lat": 40.929768,
+    "lon": 8.812227
+  },
+  {
+    "country": "Italy",
+    "state": "Lazio",
+    "city": "Valmontone (RM)",
+    "name": "Campo di Volo Valmontone",
+    "icao": "IT-0470",
+    "lat": 41.765411,
+    "lon": 12.864925
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Varallo (VC)",
+    "name": "Aviosuperficie \"Marc Ingegno\"",
+    "icao": "IT-0040",
+    "lat": 45.778056,
+    "lon": 8.268611
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Vermezzo (MI)",
+    "name": "Aviosuperficie Naviglio Grande",
+    "icao": "IT-0458",
+    "lat": 45.397222,
+    "lon": 8.97
+  },
+  {
+    "country": "Italy",
+    "state": "Piedmont",
+    "city": "Verrua Savoia (TO)",
+    "name": "Campo Volo Angela e Sara",
+    "icao": "IT-0066",
+    "lat": 45.163889,
+    "lon": 8.123333
+  },
+  {
+    "country": "Italy",
+    "state": "Tuscany",
+    "city": "Vicchio del Mugello (FI)",
+    "name": "Aviosuperficie Renzo Storai",
+    "icao": "IT-0165",
+    "lat": 43.96583,
+    "lon": 11.458056
+  },
+  {
+    "country": "Italy",
+    "state": "Apulia",
+    "city": "Vieste",
+    "name": "Vieste Airport",
+    "icao": "VIF",
+    "lat": 41.883317,
+    "lon": 16.166667
+  },
+  {
+    "country": "Italy",
+    "state": "Emilia-Romagna",
+    "city": "Vigarano Mainarda (FE)",
+    "name": "Campo di Volo \"Icaro Village\"",
+    "icao": "IT-0107",
+    "lat": 44.842996,
+    "lon": 11.485068
+  },
+  {
+    "country": "Italy",
+    "state": "Lombardy",
+    "city": "Vigevano (PV)",
+    "name": "Air Classic Airfield",
+    "icao": "IT-0472",
+    "lat": 45.2883333,
+    "lon": 8.8
+  },
+  {
+    "country": "Italy",
+    "state": "Friuli-Venezia Giulia",
+    "city": "Visinale di Pasiano",
+    "name": "Aviosuperficie Blue Silo",
+    "icao": "IT-0162",
+    "lat": 45.8872222,
+    "lon": 12.6277778
+  },
+  {
+    "country": "Italy",
+    "state": "Veneto",
+    "city": "Vittorio Veneto (TV)",
+    "name": "Campo di Volo \"Dream Fly\"",
+    "icao": "IT-0430",
+    "lat": 45.930381,
+    "lon": 12.257512
+  },
+  {
+    "country": "Italy",
+    "state": "Sardinia",
+    "city": "Zerfaliu",
+    "name": "Aviosuperficie Chiusa-Zerfaliu",
+    "icao": "IT-0365",
+    "lat": 39.989504,
+    "lon": 8.723266
+  },
+  {
+    "country": "Italy",
+    "state": "Calabria",
+    "city": "Zungri",
+    "name": "Campo di Volo Il Grifo",
+    "icao": "IT-0032",
+    "lat": 38.637255,
+    "lon": 15.94775
+  }
+]

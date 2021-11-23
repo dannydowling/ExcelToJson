@@ -1,0 +1,173 @@
+[
+  {
+    "country": "Vanuatu",
+    "state": "Shefa",
+    "city": "Port Vila",
+    "name": "Bauerfield International Airport",
+    "icao": "NVVV",
+    "lat": -17.699300765991,
+    "lon": 168.32000732422
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Tafea",
+    "city": "Tafea",
+    "name": "Tanna Airport",
+    "icao": "NVVW",
+    "lat": -19.4550991058349,
+    "lon": 169.223999023437
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Tafea",
+    "city": "Ipota",
+    "name": "Ipota Airport",
+    "icao": "NVVI",
+    "lat": -18.856389,
+    "lon": 169.283333
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Penama",
+    "city": "Lonorore",
+    "name": "Lonorore Airport",
+    "icao": "NVSO",
+    "lat": -15.8655996322999,
+    "lon": 168.17199707
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Shefa",
+    "city": "Quion Hill",
+    "name": "Quion Hill Airport",
+    "icao": "NVVQ",
+    "lat": -17.5400009155273,
+    "lon": 168.442001342773
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Torba",
+    "city": "Gaua Island",
+    "name": "Gaua Island Airport",
+    "icao": "NVSQ",
+    "lat": -14.2180995940999,
+    "lon": 167.587005615
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Tafea",
+    "city": "Anatom Island",
+    "name": "Aneityum Airport",
+    "icao": "NVVA",
+    "lat": -20.2492008209,
+    "lon": 169.770996094
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Tafea",
+    "city": "Aniwa",
+    "name": "Aniwa Airport",
+    "icao": "NVVB",
+    "lat": -19.2346,
+    "lon": 169.6009
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Malampa",
+    "city": "Craig Cove",
+    "name": "Craig Cove Airport",
+    "icao": "NVSF",
+    "lat": -16.264999,
+    "lon": 167.923996
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Tafea",
+    "city": "Dillon's Bay",
+    "name": "Dillon's Bay Airport",
+    "icao": "NVVD",
+    "lat": -18.7693996429,
+    "lon": 169.00100708
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Shefa",
+    "city": "Emae Island",
+    "name": "Siwo Airport",
+    "icao": "NVSE",
+    "lat": -17.0902996063,
+    "lon": 168.343002319
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Shefa",
+    "city": "Epi Island",
+    "name": "Valesdir Airport",
+    "icao": "NVSV",
+    "lat": -16.7961006165,
+    "lon": 168.177001953
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Shefa",
+    "city": "Lamen Bay",
+    "name": "Lamen Bay Airport",
+    "icao": "NVSM",
+    "lat": -16.5841999054,
+    "lon": 168.158996582
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Penama",
+    "city": "Maewo Island",
+    "name": "Maewo-Naone Airport",
+    "icao": "NVSN",
+    "lat": -15.0,
+    "lon": 168.082992554
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Malampa",
+    "city": "Malekula Island",
+    "name": "Southwest Bay Airport",
+    "icao": "NVSX",
+    "lat": -16.4864,
+    "lon": 167.4472
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Penama",
+    "city": "Redcliffe",
+    "name": "Redcliffe Airport",
+    "icao": "NVSR",
+    "lat": -15.4720001220999,
+    "lon": 167.835006714
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Torba",
+    "city": "Sola",
+    "name": "Sola Airport",
+    "icao": "NVSC",
+    "lat": -13.8516998291,
+    "lon": 167.537002563
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Shefa",
+    "city": "Tongoa Island",
+    "name": "Tongoa Airport",
+    "icao": "NVST",
+    "lat": -16.8910999298,
+    "lon": 168.550994873
+  },
+  {
+    "country": "Vanuatu",
+    "state": "Tafea",
+    "city": "Lenakel",
+    "name": "Lenakel Airport",
+    "icao": "NVVK",
+    "lat": -19.5161,
+    "lon": 169.2625
+  }
+]

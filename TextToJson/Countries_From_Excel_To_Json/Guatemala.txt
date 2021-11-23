@@ -1,0 +1,263 @@
+[
+  {
+    "country": "Guatemala",
+    "state": "Guatemala",
+    "city": "Guatemala City",
+    "name": "La Aurora Airport",
+    "icao": "MGGT",
+    "lat": 14.5833,
+    "lon": -90.527496
+  },
+  {
+    "country": "Guatemala",
+    "state": "Peten",
+    "city": "San Benito",
+    "name": "Mundo Maya International Airport",
+    "icao": "MGTK",
+    "lat": 16.9137992858999,
+    "lon": -89.8664016723999
+  },
+  {
+    "country": "Guatemala",
+    "state": "Izabal",
+    "city": "Rio Dulce",
+    "name": "Las Vegas Airport",
+    "icao": "MGRD",
+    "lat": 15.668363,
+    "lon": -88.961763
+  },
+  {
+    "country": "Guatemala",
+    "state": "Izabal",
+    "city": "Puerto Barrios",
+    "name": "Puerto Barrios Airport",
+    "icao": "MGPB",
+    "lat": 15.7309,
+    "lon": -88.583801
+  },
+  {
+    "country": "Guatemala",
+    "state": "Alta Verapez",
+    "city": "Rubelsanto",
+    "name": "Rubelsanto Airport",
+    "icao": "MGRB",
+    "lat": 15.9919996261596,
+    "lon": -90.4452972412109
+  },
+  {
+    "country": "Guatemala",
+    "state": "Chiquimula",
+    "city": "Chiquimula",
+    "name": "Chiquimula Airport",
+    "icao": "GT-0001",
+    "lat": 14.83092,
+    "lon": -89.520938
+  },
+  {
+    "country": "Guatemala",
+    "state": "Quetzaltenango",
+    "city": "Coatepeque",
+    "name": "Coatepeque Airport",
+    "icao": "MGCT",
+    "lat": 14.6941995620727,
+    "lon": -91.8824996948242
+  },
+  {
+    "country": "Guatemala",
+    "state": "Escuintla",
+    "city": "El Naranjo",
+    "name": "El Naranjo Airport",
+    "icao": "GT-0003",
+    "lat": 14.106931,
+    "lon": -90.817496
+  },
+  {
+    "country": "Guatemala",
+    "state": "Huehuetenango",
+    "city": "Huehuetenango",
+    "name": "Huehuetenango Airport",
+    "icao": "MGHT",
+    "lat": 15.3274002075195,
+    "lon": -91.46240234375
+  },
+  {
+    "country": "Guatemala",
+    "state": "Izabal",
+    "city": "Morales",
+    "name": "Bananera Airport",
+    "icao": "MGBN",
+    "lat": 15.47350025177,
+    "lon": -88.8371963500976
+  },
+  {
+    "country": "Guatemala",
+    "state": "Peten",
+    "city": "Paso Caballos",
+    "name": "Paso Caballos Airport",
+    "icao": "GT-0004",
+    "lat": 17.2639007568,
+    "lon": -90.2563018799
+  },
+  {
+    "country": "Guatemala",
+    "state": "San Marcos",
+    "city": "San Marcos",
+    "name": "San Marcos Airport",
+    "icao": "MGSM",
+    "lat": 14.9562997817993,
+    "lon": -91.8062973022461
+  },
+  {
+    "country": "Guatemala",
+    "state": "Quiche",
+    "city": "Santa Cruz del Quiche",
+    "name": "Santa Cruz del Quiche Airport",
+    "icao": "MGQC",
+    "lat": 15.0122003555297,
+    "lon": -91.1505966186523
+  },
+  {
+    "country": "Guatemala",
+    "state": "Solol6",
+    "city": "Solol6",
+    "name": "SANTIAGO",
+    "icao": "GT-0008",
+    "lat": 14.6092802945,
+    "lon": -91.2441909313
+  },
+  {
+    "country": "Guatemala",
+    "state": "Quiche",
+    "city": "Quiche",
+    "name": "Chajul",
+    "icao": "GT-0010",
+    "lat": 15.4772976023999,
+    "lon": -91.0337018967
+  },
+  {
+    "country": "Guatemala",
+    "state": "Huehuetenango",
+    "city": "Huehuetenango",
+    "name": "Barillas upper",
+    "icao": "GT-0012",
+    "lat": 15.8162861226,
+    "lon": -91.2969017029
+  },
+  {
+    "country": "Guatemala",
+    "state": "Huehuetenango",
+    "city": "Huehuetenango",
+    "name": "Rancho Pal",
+    "icao": "GT-0014",
+    "lat": 15.8751579288,
+    "lon": -91.1430931091
+  },
+  {
+    "country": "Guatemala",
+    "state": "Quiche",
+    "city": "Carto Pueblo",
+    "name": "Cuarto Pueblo Airport",
+    "icao": "GT-0018",
+    "lat": 16.0401217826,
+    "lon": -90.9766244888
+  },
+  {
+    "country": "Guatemala",
+    "state": "Izabal",
+    "city": "El Estor",
+    "name": "El Estor Airport",
+    "icao": "GT-0028",
+    "lat": 15.517008,
+    "lon": -89.368374
+  },
+  {
+    "country": "Guatemala",
+    "state": "Peten",
+    "city": "El Naranjo",
+    "name": "El Naranjo Airport",
+    "icao": "GT-0005",
+    "lat": 17.228442,
+    "lon": -90.811659
+  },
+  {
+    "country": "Guatemala",
+    "state": "Quiche",
+    "city": "Flore del Norte",
+    "name": "Flore del Norte Airport",
+    "icao": "GT-0016",
+    "lat": 16.0227158087,
+    "lon": -91.1113786697
+  },
+  {
+    "country": "Guatemala",
+    "state": "Huehuetenango",
+    "city": "Ixquisis",
+    "name": "Ixquisis Airport",
+    "icao": "GT-0019",
+    "lat": 16.0622276524,
+    "lon": -91.4198112488
+  },
+  {
+    "country": "Guatemala",
+    "state": "Quiche",
+    "city": "Jayabaj",
+    "name": "Jayabaj Airport",
+    "icao": "GT-0021",
+    "lat": 14.9892915638,
+    "lon": -90.7983756065
+  },
+  {
+    "country": "Guatemala",
+    "state": "Santa Rosa",
+    "city": "Monterrico",
+    "name": "Monterrico Airport",
+    "icao": "MGRF",
+    "lat": 13.894942,
+    "lon": -90.485092
+  },
+  {
+    "country": "Guatemala",
+    "state": "Huehuetenango",
+    "city": "Nueva GeneraciÃ³n Maya",
+    "name": "Nueva GeneraciÃ³n Maya Airport",
+    "icao": "GT-0020",
+    "lat": 15.9803081736,
+    "lon": -91.1800003052
+  },
+  {
+    "country": "Guatemala",
+    "state": "Baja Verapez",
+    "city": "Rabinal",
+    "name": "Rabinal Airport",
+    "icao": "MGRA",
+    "lat": 15.0935,
+    "lon": -90.5063888889
+  },
+  {
+    "country": "Guatemala",
+    "state": "Quiche",
+    "city": "Rio Seco",
+    "name": "Canilla Airport",
+    "icao": "GT-0023",
+    "lat": 15.1700628033999,
+    "lon": -90.8587360382
+  },
+  {
+    "country": "Guatemala",
+    "state": "Quiche",
+    "city": "Uspantan",
+    "name": "Uspantan Airport",
+    "icao": "GT-0024",
+    "lat": 15.3425473669,
+    "lon": -90.8727264404
+  },
+  {
+    "country": "Guatemala",
+    "state": "Alta Verapez",
+    "city": "Xuctul",
+    "name": "Xuctul Airport",
+    "icao": "GT-0025",
+    "lat": 15.8160383788999,
+    "lon": -90.2756881714
+  }
+]

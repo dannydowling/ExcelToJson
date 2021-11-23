@@ -1,0 +1,182 @@
+[
+  {
+    "country": "Dominican Republic",
+    "state": "Puerto Plata Province",
+    "city": "Puerto Plata",
+    "name": "Gregorio Luperon International Airport",
+    "icao": "MDPP",
+    "lat": 19.7579002380371,
+    "lon": -70.5699996948242
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Santiago de los Caballeros Province",
+    "city": "Santiago",
+    "name": "Cibao International Airport",
+    "icao": "MDST",
+    "lat": 19.406099319458,
+    "lon": -70.6046981811523
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "SamanÃ¡ Province",
+    "city": "Samana",
+    "name": "SamanÃ¡ El Catey International Airport",
+    "icao": "MDCY",
+    "lat": 19.2670001984,
+    "lon": -69.7419967651
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "SamanÃ¡ Province",
+    "city": "Arroyo Barril",
+    "name": "Arroyo Barril Airport",
+    "icao": "MDAB",
+    "lat": 19.198600769,
+    "lon": -69.4298019408999
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Distrito Nacional",
+    "city": "Boca Chica",
+    "name": "Boca Chica Airport",
+    "icao": "MDBL",
+    "lat": 18.4507999420166,
+    "lon": -69.5925979614257
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Distrito Nacional",
+    "city": "Santo Domingo",
+    "name": "Herrera Airport",
+    "icao": "MDHE",
+    "lat": 18.4696998596,
+    "lon": -69.9693984985
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Pedernales Province",
+    "city": "Cabo Rojo",
+    "name": "Cabo Rojo Airport",
+    "icao": "MDCR",
+    "lat": 17.9290008544921,
+    "lon": -71.6447982788086
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Hato Mayor Province",
+    "city": "Consuelo",
+    "name": "Consuelo Batey Anita airport",
+    "icao": "MDBA",
+    "lat": 18.6833324432373,
+    "lon": -69.3833312988281
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "DajabÃ³n Province",
+    "city": "Dajabon",
+    "name": "Dajabon Airport",
+    "icao": "MDDJ",
+    "lat": 19.5636005402,
+    "lon": -71.6808013916
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "La Altagracia Province",
+    "city": "Higuey",
+    "name": "Baigua Airport",
+    "icao": "MDBG",
+    "lat": 18.5324,
+    "lon": -68.67
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "El Seybo Province",
+    "city": "La Romana",
+    "name": "La Romana Batey Lechuga Airport",
+    "icao": "MDBE",
+    "lat": 18.586799621582,
+    "lon": -69.0553970336914
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Hato Mayor Province",
+    "city": "Sabana de La Mar",
+    "name": "Sabana de La Mar Airport",
+    "icao": "MDSB",
+    "lat": 19.061898,
+    "lon": -69.385201
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "San Juan Province",
+    "city": "San Juan",
+    "name": "San Juan Airport",
+    "icao": "MDSJ",
+    "lat": 18.8333320617999,
+    "lon": -71.2333297729
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "San Juan Province",
+    "city": "San Juan de la Maguana",
+    "name": "San Juan De La Maguana Airport",
+    "icao": "MDSA",
+    "lat": 18.8255004882999,
+    "lon": -71.2313995361
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "San Pedro de MacorÃ­s Province",
+    "city": "San Pedro de Macoris",
+    "name": "San Pedro De Macoris Airport",
+    "icao": "MDBM",
+    "lat": 18.4480991363525,
+    "lon": -69.2811965942382
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Independencia Province",
+    "city": "Independencia Province",
+    "name": "Jimani Airport",
+    "icao": "mdji",
+    "lat": 18.49285,
+    "lon": -71.869999
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Barahona Province",
+    "city": "Barahona",
+    "name": "Old Barahona Airport",
+    "icao": "DO-0002",
+    "lat": 18.215,
+    "lon": -71.0981
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "La Vega Province",
+    "city": "La Vega",
+    "name": "El Ranchito Airport",
+    "icao": "mder",
+    "lat": 19.1848132375999,
+    "lon": -70.3649640082999
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Monte Cristi Province",
+    "city": "Monte Cristi",
+    "name": "Walterio Airport",
+    "icao": "mdwo",
+    "lat": 19.757867,
+    "lon": -71.623482
+  },
+  {
+    "country": "Dominican Republic",
+    "state": "Valverde Province",
+    "city": "Valverde",
+    "name": "PeÃ±uela / Esperanza Field",
+    "icao": "mdes",
+    "lat": 19.5841122473999,
+    "lon": -70.95672369
+  }
+]

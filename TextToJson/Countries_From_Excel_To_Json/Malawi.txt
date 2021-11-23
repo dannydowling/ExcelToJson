@@ -1,0 +1,83 @@
+[
+  {
+    "country": "Malawi",
+    "state": "Blantyre District",
+    "city": "Blantyre",
+    "name": "Chileka International Airport",
+    "icao": "FWCL",
+    "lat": -15.679100036621,
+    "lon": 34.9739990234375
+  },
+  {
+    "country": "Malawi",
+    "state": "Karonga District",
+    "city": "Karonga",
+    "name": "Karonga Airport",
+    "icao": "FWKA",
+    "lat": -9.95357036590576,
+    "lon": 33.8930015563964
+  },
+  {
+    "country": "Malawi",
+    "state": "Mangochi District",
+    "city": "Monkey Bay",
+    "name": "Monkey Bay Airport",
+    "icao": "FWMY",
+    "lat": -14.0836000442999,
+    "lon": 34.9197006226
+  },
+  {
+    "country": "Malawi",
+    "state": "Chitipa District",
+    "city": "Chitipa",
+    "name": "Chitipa Airport",
+    "icao": "FWCT",
+    "lat": -9.69999980926513,
+    "lon": 33.2669982910156
+  },
+  {
+    "country": "Malawi",
+    "state": "Likoma Island District",
+    "city": "Likoma Island",
+    "name": "Likoma Island Airport",
+    "icao": "FWLK",
+    "lat": -12.075833,
+    "lon": 34.737222
+  },
+  {
+    "country": "Malawi",
+    "state": "Mzimba District",
+    "city": "Mzimba",
+    "name": "Mzimba Airport",
+    "icao": "FWMZ",
+    "lat": -11.8830003738403,
+    "lon": 33.6170005798339
+  },
+  {
+    "country": "Malawi",
+    "state": "Chikwawa District",
+    "city": "Ngabu",
+    "name": "Ngabu Airport",
+    "icao": "FWNB",
+    "lat": -16.4829998016357,
+    "lon": 34.849998474121
+  },
+  {
+    "country": "Malawi",
+    "state": "Nkhotakota District",
+    "city": "Nkhota Kota",
+    "name": "Nkhota Kota Airport",
+    "icao": "FWKK",
+    "lat": -12.9169998168945,
+    "lon": 34.2669982910156
+  },
+  {
+    "country": "Malawi",
+    "state": "Machinga District",
+    "city": "Liwonde National Park",
+    "name": "Mvuu Camp Airport",
+    "icao": "VUU",
+    "lat": -14.8386111111,
+    "lon": 35.3013888889
+  }
+]

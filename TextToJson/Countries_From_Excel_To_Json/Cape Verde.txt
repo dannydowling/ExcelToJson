@@ -1,0 +1,38 @@
+[
+  {
+    "country": "Cape Verde",
+    "state": "Sotavento Islands",
+    "city": "Praia",
+    "name": "Praia International Airport",
+    "icao": "GVNP",
+    "lat": 14.924500465393,
+    "lon": -23.4934997558593
+  },
+  {
+    "country": "Cape Verde",
+    "state": "Barlavento Islands",
+    "city": "PreguiÃ§a",
+    "name": "PreguiÃ§a Airport",
+    "icao": "GVSN",
+    "lat": 16.5883998870849,
+    "lon": -24.2847003936767
+  },
+  {
+    "country": "Cape Verde",
+    "state": "Sotavento Islands",
+    "city": "Vila do Maio",
+    "name": "Maio Airport",
+    "icao": "GVMA",
+    "lat": 15.1559000015258,
+    "lon": -23.2136993408203
+  },
+  {
+    "country": "Cape Verde",
+    "state": "Sotavento Islands",
+    "city": "Vila do Mosteiros",
+    "name": "Mosteiros Airport",
+    "icao": "GVMT",
+    "lat": 15.0450000762939,
+    "lon": -24.3391990661621
+  }
+]

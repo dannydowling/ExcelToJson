@@ -1,0 +1,524 @@
+[
+  {
+    "country": "Finland",
+    "state": "Oulu",
+    "city": "Oulu / Oulunsalo",
+    "name": "Oulu Airport",
+    "icao": "EFOU",
+    "lat": 64.930099487305,
+    "lon": 25.354600906372
+  },
+  {
+    "country": "Finland",
+    "state": "Lapland",
+    "city": "KittilÃ¤",
+    "name": "KittilÃ¤ Airport",
+    "icao": "EFKT",
+    "lat": 67.700996398926,
+    "lon": 24.846799850464
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Vaasa",
+    "name": "Vaasa Airport",
+    "icao": "EFVA",
+    "lat": 63.050701141357,
+    "lon": 21.762199401855
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Helsinki",
+    "name": "Helsinki Malmi Airport",
+    "icao": "EFHF",
+    "lat": 60.2546005249023,
+    "lon": 25.0428009033203
+  },
+  {
+    "country": "Finland",
+    "state": "Eastern Finland",
+    "city": "Joensuu / Liperi",
+    "name": "Joensuu Airport",
+    "icao": "EFJO",
+    "lat": 62.662899017334,
+    "lon": 29.607500076294
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Lappeenranta",
+    "name": "Lappeenranta Airport",
+    "icao": "EFLP",
+    "lat": 61.044601,
+    "lon": 28.144743
+  },
+  {
+    "country": "Finland",
+    "state": "Oulu",
+    "city": "Kuusamo",
+    "name": "Kuusamo Airport",
+    "icao": "EFKS",
+    "lat": 65.987602233887,
+    "lon": 29.239400863647
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "SeinÃ¤joki / Ilmajoki",
+    "name": "SeinÃ¤joki Airport",
+    "icao": "EFSI",
+    "lat": 62.692101,
+    "lon": 22.8323
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Kauhava",
+    "name": "Kauhava Airport",
+    "icao": "EFKA",
+    "lat": 63.127102,
+    "lon": 23.051399
+  },
+  {
+    "country": "Finland",
+    "state": "Oulu",
+    "city": "Kajaani",
+    "name": "Kajaani Airport",
+    "icao": "EFKI",
+    "lat": 64.285499572754,
+    "lon": 27.692399978638
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Southern Finland",
+    "name": "Hanko Airport",
+    "icao": "EFHN",
+    "lat": 59.8488998413085,
+    "lon": 23.0835990905761
+  },
+  {
+    "country": "Finland",
+    "state": "Ã…land Islands",
+    "city": "Ã…land Islands",
+    "name": "Kumlinge Airport",
+    "icao": "EFKG",
+    "lat": 60.246898651123,
+    "lon": 20.8047008514404
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Halli / Kuorevesi",
+    "name": "Halli Airport",
+    "icao": "EFHA",
+    "lat": 61.856039,
+    "lon": 24.786686
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "HyvinkÃ¤Ã¤",
+    "name": "HyvinkÃ¤Ã¤ Airfield",
+    "icao": "EFHV",
+    "lat": 60.6543998718,
+    "lon": 24.8810997009
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Western Finland",
+    "name": "Menkijarvi Airport",
+    "icao": "EFME",
+    "lat": 62.9467010498046,
+    "lon": 23.5188999176025
+  },
+  {
+    "country": "Finland",
+    "state": "Eastern Finland",
+    "city": "Mikkeli",
+    "name": "Mikkeli Airport",
+    "icao": "EFMI",
+    "lat": 61.6866,
+    "lon": 27.201799
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Western Finland",
+    "name": "Hameenkyro Airport",
+    "icao": "EFHM",
+    "lat": 61.6897010803222,
+    "lon": 23.0736999511718
+  },
+  {
+    "country": "Finland",
+    "state": "Oulu",
+    "city": "Oulu",
+    "name": "Kalajoki Airport",
+    "icao": "EFKO",
+    "lat": 64.2285995483398,
+    "lon": 23.8264007568359
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Southern Finland",
+    "name": "Nummela Airport",
+    "icao": "EFNU",
+    "lat": 60.3339,
+    "lon": 24.2964
+  },
+  {
+    "country": "Finland",
+    "state": "Oulu",
+    "city": "Oulu",
+    "name": "Raahe Pattijoki Airport",
+    "icao": "EFRH",
+    "lat": 64.6881027222,
+    "lon": 24.6958007812
+  },
+  {
+    "country": "Finland",
+    "state": "Lapland",
+    "city": "Lapland",
+    "name": "Aavahelukka Airport",
+    "icao": "EFAA",
+    "lat": 67.6035995483398,
+    "lon": 23.9717006683349
+  },
+  {
+    "country": "Finland",
+    "state": "Oulu",
+    "city": "Oulu",
+    "name": "Kuhmo Airport",
+    "icao": "EFKH",
+    "lat": 64.1125030517578,
+    "lon": 29.4386005401611
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Western Finland",
+    "name": "Sulkaharju Airport",
+    "icao": "EFVT",
+    "lat": 63.3978004456,
+    "lon": 24.0305995941
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Forssa",
+    "name": "Forssa Airport",
+    "icao": "EFFO",
+    "lat": 60.803683,
+    "lon": 23.650802
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Helsinki",
+    "name": "Helsinki East-Redstone Airfield",
+    "icao": "EFPR",
+    "lat": 60.479167,
+    "lon": 26.593889
+  },
+  {
+    "country": "Finland",
+    "state": "Eastern Finland",
+    "city": "Eastern Finland",
+    "name": "Kitee Airport",
+    "icao": "EFIT",
+    "lat": 62.1661,
+    "lon": 30.073601
+  },
+  {
+    "country": "Finland",
+    "state": "Lapland",
+    "city": "Sodankyla",
+    "name": "Sodankyla Airport",
+    "icao": "EFSO",
+    "lat": 67.3949966431,
+    "lon": 26.6191005707
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Utti / Valkeala",
+    "name": "Utti Air Base",
+    "icao": "EFUT",
+    "lat": 60.89640045166,
+    "lon": 26.938400268555
+  },
+  {
+    "country": "Finland",
+    "state": "Lapland",
+    "city": "Lapland",
+    "name": "Kemijarvi Airport",
+    "icao": "EFKM",
+    "lat": 66.712898,
+    "lon": 27.156799
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Western Finland",
+    "name": "Piikajarvi Airport",
+    "icao": "EFPI",
+    "lat": 61.2456016540527,
+    "lon": 22.1933994293212
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Southern Finland",
+    "name": "Selanpaa Airport",
+    "icao": "EFSE",
+    "lat": 61.062400817871,
+    "lon": 26.798900604248
+  },
+  {
+    "country": "Finland",
+    "state": "Oulu",
+    "city": "Oulu",
+    "name": "Hailuoto Airport",
+    "icao": "EFHL",
+    "lat": 64.9669036865234,
+    "lon": 24.7043991088867
+  },
+  {
+    "country": "Finland",
+    "state": "Eastern Finland",
+    "city": "Eastern Finland",
+    "name": "Kiuruvesi Airport",
+    "icao": "EFRV",
+    "lat": 63.7056007385253,
+    "lon": 26.6163997650146
+  },
+  {
+    "country": "Finland",
+    "state": "Lapland",
+    "city": "Lapland",
+    "name": "Ranua Airport",
+    "icao": "EFRU",
+    "lat": 65.9730987549,
+    "lon": 26.3652992249
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Southern Finland",
+    "name": "Savikko Airport",
+    "icao": "EFNS",
+    "lat": 60.5200004577636,
+    "lon": 24.8316993713378
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Southern Finland",
+    "name": "Torbacka Airport",
+    "icao": "EFTO",
+    "lat": 60.0792007446289,
+    "lon": 24.1721992492675
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Western Finland",
+    "name": "Vampula Airport",
+    "icao": "EFVP",
+    "lat": 61.0396995544433,
+    "lon": 22.5916996002197
+  },
+  {
+    "country": "Finland",
+    "state": "Lapland",
+    "city": "Lapland",
+    "name": "Martiniiskonpalo Airport",
+    "icao": "EFMP",
+    "lat": 68.6603012084961,
+    "lon": 25.7028999328613
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Western Finland",
+    "name": "Haapamaki Airport",
+    "icao": "EFHI",
+    "lat": 62.255204,
+    "lon": 24.349478
+  },
+  {
+    "country": "Finland",
+    "state": "Eastern Finland",
+    "city": "Eastern Finland",
+    "name": "Sonkajarvi Jyrkk Airport",
+    "icao": "EFSJ",
+    "lat": 63.819401,
+    "lon": 27.7694
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "GenbÃ¶le",
+    "name": "GenbÃ¶le Airport",
+    "icao": "EFGE",
+    "lat": 60.0868988037109,
+    "lon": 22.5219001770019
+  },
+  {
+    "country": "Finland",
+    "state": "Eastern Finland",
+    "city": "Lammake",
+    "name": "Lapinlahti Airport",
+    "icao": "EFLL",
+    "lat": 63.3993988037,
+    "lon": 27.4789009094
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "MÃ¤ntsÃ¤lÃ¤",
+    "name": "MÃ¤ntsÃ¤lÃ¤ Airport",
+    "icao": "EFMN",
+    "lat": 60.5724983215332,
+    "lon": 25.5088996887207
+  },
+  {
+    "country": "Finland",
+    "state": "Oulu",
+    "city": "Oulu",
+    "name": "Ahmosuo Airport",
+    "icao": "EFAH",
+    "lat": 64.8953018188,
+    "lon": 25.752199173
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Peippola",
+    "name": "Kymi Airport",
+    "icao": "EFKY",
+    "lat": 60.5713996887207,
+    "lon": 26.8960990905761
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Tampere",
+    "name": "Teisko Airport",
+    "icao": "EFTS",
+    "lat": 61.7733,
+    "lon": 24.027
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Southern Finland",
+    "name": "Jorvin Hospital Heliport",
+    "icao": "EFEJ",
+    "lat": 60.220832824707,
+    "lon": 24.6863899230957
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Southern Finland",
+    "name": "Peijaksen Hospital Heliport",
+    "icao": "EFPE",
+    "lat": 60.3311119079589,
+    "lon": 25.0608329772949
+  },
+  {
+    "country": "Finland",
+    "state": "Lapland",
+    "city": "Lapland",
+    "name": "KilpisjÃ¤rvi Heliport",
+    "icao": "EFEK",
+    "lat": 69.0022201538086,
+    "lon": 20.8963890075683
+  },
+  {
+    "country": "Finland",
+    "state": "(unassigned)",
+    "city": "Ã„htÃ¤ri",
+    "name": "Ã„htÃ¤rin kevytlentopaikka",
+    "icao": "FI-0004",
+    "lat": 62.5134421,
+    "lon": 24.0682821
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "HÃ¤meenlinna ",
+    "name": "Kanta-HÃ¤meen Central Hospital Heliport",
+    "icao": "EFHH",
+    "lat": 60.991111755371,
+    "lon": 24.4152774810791
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Helsinki",
+    "name": "Meilahti Hospital Helipad",
+    "icao": "EFHY",
+    "lat": 60.188909,
+    "lon": 24.907276
+  },
+  {
+    "country": "Finland",
+    "state": "Oulu",
+    "city": "Ii",
+    "name": "Ii Airfield",
+    "icao": "EFML",
+    "lat": 65.3011438708999,
+    "lon": 25.416226387
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "JyvÃ¤skylÃ¤",
+    "name": "Central Finland Central Hospital Heliport",
+    "icao": "EFJV",
+    "lat": 62.230361,
+    "lon": 25.71154
+  },
+  {
+    "country": "Finland",
+    "state": "(unassigned)",
+    "city": "MÃ¤nttÃ¤",
+    "name": "MÃ¤nttÃ¤ - Sassi Airfield",
+    "icao": "FI-0005",
+    "lat": 62.028,
+    "lon": 24.664
+  },
+  {
+    "country": "Finland",
+    "state": "Southern Finland",
+    "city": "Myllykoski",
+    "name": "Ummeljoki KW",
+    "icao": "FI-0002",
+    "lat": 60.7573195,
+    "lon": 26.7343134
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Tampere",
+    "name": "Tampere University Hospital Heliport",
+    "icao": "EFPT",
+    "lat": 61.5063896179199,
+    "lon": 23.8125
+  },
+  {
+    "country": "Finland",
+    "state": "Western Finland",
+    "city": "Turku",
+    "name": "Turku University Central Hospital Heliport",
+    "icao": "EFTV",
+    "lat": 60.4511108398437,
+    "lon": 22.2902774810791
+  }
+]

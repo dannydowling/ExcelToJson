@@ -1,0 +1,47 @@
+[
+  {
+    "country": "Tunisia",
+    "state": "Medenine Governorate",
+    "city": "Djerba",
+    "name": "Djerba Zarzis International Airport",
+    "icao": "DTTJ",
+    "lat": 33.875,
+    "lon": 10.7755002975463
+  },
+  {
+    "country": "Tunisia",
+    "state": "GabÃ¨s Governorate",
+    "city": "GabÃ¨s",
+    "name": "GabÃ¨s Matmata International Airport",
+    "icao": "DTTG",
+    "lat": 33.8768997192382,
+    "lon": 10.1033000946044
+  },
+  {
+    "country": "Tunisia",
+    "state": "Jendouba Governorate",
+    "city": "Tabarka",
+    "name": "Tabarka 7 Novembre Airport",
+    "icao": "DTKA",
+    "lat": 36.9799995422363,
+    "lon": 8.87693977355957
+  },
+  {
+    "country": "Tunisia",
+    "state": "Gafsa Governorate",
+    "city": "Gafsa",
+    "name": "Gafsa Ksar International Airport",
+    "icao": "DTTF",
+    "lat": 34.4220008850097,
+    "lon": 8.82250022888183
+  },
+  {
+    "country": "Tunisia",
+    "state": "Bizerte Governorate",
+    "city": "PÃªcherie",
+    "name": "La Karouba Air Base",
+    "icao": "TN-0001",
+    "lat": 37.2474060058593,
+    "lon": 9.82906723022461
+  }
+]

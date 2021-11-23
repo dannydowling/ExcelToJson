@@ -1,0 +1,209 @@
+[
+  {
+    "country": "Uganda",
+    "state": "Central Region",
+    "city": "Kampala",
+    "name": "Entebbe International Airport",
+    "icao": "HUEN",
+    "lat": 0.042386,
+    "lon": 32.443501
+  },
+  {
+    "country": "Uganda",
+    "state": "Northern Region",
+    "city": "Gulu",
+    "name": "Gulu Airport",
+    "icao": "HUGU",
+    "lat": 2.80556011199951,
+    "lon": 32.271800994873
+  },
+  {
+    "country": "Uganda",
+    "state": "Eastern Region",
+    "city": "Soroti",
+    "name": "Soroti Airport",
+    "icao": "HUSO",
+    "lat": 1.72768998146057,
+    "lon": 33.6227989196777
+  },
+  {
+    "country": "Uganda",
+    "state": "Northern Region",
+    "city": "Moyo",
+    "name": "Moyo Airport",
+    "icao": "UG-OYG",
+    "lat": 3.6444001197815,
+    "lon": 31.762762069702
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Kabalega Falls",
+    "name": "Pakuba Airfield",
+    "icao": "HUKF",
+    "lat": 2.32639,
+    "lon": 31.497801
+  },
+  {
+    "country": "Uganda",
+    "state": "Northern Region",
+    "city": "Lira",
+    "name": "Lira Airport",
+    "icao": "HULI",
+    "lat": 2.25,
+    "lon": 32.9169998169
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Masindi",
+    "name": "Masindi Airport",
+    "icao": "HUMI",
+    "lat": 1.7580599784851,
+    "lon": 31.7367000579834
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Western Region",
+    "name": "Bugungu Airport",
+    "icao": "HUPA",
+    "lat": 2.2,
+    "lon": 31.55
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Western Region",
+    "name": "Kabale Airport",
+    "icao": "HUKB",
+    "lat": -1.226111,
+    "lon": 29.96
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Western Region",
+    "name": "Chobe Safari Lodge Airport",
+    "icao": "UG-0007",
+    "lat": 2.240186,
+    "lon": 32.141871
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Bundibugyo",
+    "name": "Bundibugyo Airport",
+    "icao": "HUBU",
+    "lat": 0.67349,
+    "lon": 30.025483
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Buseruka",
+    "name": "Buseruka Airport",
+    "icao": "UG-0011",
+    "lat": 1.555726,
+    "lon": 31.094862
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Butiaba",
+    "name": "Butiaba Airport",
+    "icao": "UG-0012",
+    "lat": 1.80863,
+    "lon": 31.342983
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Fort Portal",
+    "name": "Fort Portal Airport",
+    "icao": "HUFP",
+    "lat": 0.7063,
+    "lon": 30.2493
+  },
+  {
+    "country": "Uganda",
+    "state": "Eastern Region",
+    "city": "Kakira",
+    "name": "Kakira Airport",
+    "icao": "HUKK",
+    "lat": 0.4933,
+    "lon": 33.281
+  },
+  {
+    "country": "Uganda",
+    "state": "Northern Region",
+    "city": "Kalongo",
+    "name": "Kalongo Airport",
+    "icao": "UG-0006",
+    "lat": 3.044704,
+    "lon": 33.379279
+  },
+  {
+    "country": "Uganda",
+    "state": "Central Region",
+    "city": "Kampala",
+    "name": "Kololo Airstrip",
+    "icao": "HUKC",
+    "lat": 0.3262,
+    "lon": 32.594
+  },
+  {
+    "country": "Uganda",
+    "state": "Northern Region",
+    "city": "Kidepo Valley National Park",
+    "name": "Kidepo Airport",
+    "icao": "HUKD",
+    "lat": 3.7176,
+    "lon": 33.7487
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Kihihi",
+    "name": "Savannah Airstrip",
+    "icao": "UG-0002",
+    "lat": -0.7165,
+    "lon": 29.6997
+  },
+  {
+    "country": "Uganda",
+    "state": "Northern Region",
+    "city": "Koboko",
+    "name": "Koboko Airport",
+    "icao": "UG-0005",
+    "lat": 3.409147,
+    "lon": 30.969793
+  },
+  {
+    "country": "Uganda",
+    "state": "Northern Region",
+    "city": "Kotido",
+    "name": "Kotido Airport",
+    "icao": "HUKO",
+    "lat": 2.953,
+    "lon": 34.1232
+  },
+  {
+    "country": "Uganda",
+    "state": "Northern Region",
+    "city": "Moroto",
+    "name": "Moroto Airport",
+    "icao": "HUMO",
+    "lat": 2.5051,
+    "lon": 34.5946
+  },
+  {
+    "country": "Uganda",
+    "state": "Western Region",
+    "city": "Mweya",
+    "name": "Mweya Airport",
+    "icao": "HUMW",
+    "lat": -0.194,
+    "lon": 29.8941
+  }
+]

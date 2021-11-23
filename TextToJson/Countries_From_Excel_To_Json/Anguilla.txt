@@ -1,0 +1,11 @@
+[
+  {
+    "country": "Anguilla",
+    "state": "(unassigned)",
+    "city": "The Valley",
+    "name": "Clayton J Lloyd International Airport",
+    "icao": "TQPF",
+    "lat": 18.2048,
+    "lon": -63.055099
+  }
+]

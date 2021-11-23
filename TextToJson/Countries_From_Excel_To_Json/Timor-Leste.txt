@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Timor-Leste",
+    "state": "Viqueque",
+    "city": "Viqueque",
+    "name": "Viqueque Airport",
+    "icao": "WPVQ",
+    "lat": -8.88379955291748,
+    "lon": 126.373001098632
+  },
+  {
+    "country": "Timor-Leste",
+    "state": "Dili",
+    "city": "Dili",
+    "name": "Dili Heliport",
+    "icao": "ID-0009",
+    "lat": -8.54854011536,
+    "lon": 125.519996643
+  },
+  {
+    "country": "Timor-Leste",
+    "state": "LautÃ©m",
+    "city": "Lospalos",
+    "name": "Lospalos Airfield",
+    "icao": "TL-0001",
+    "lat": -8.455563,
+    "lon": 126.975861
+  }
+]

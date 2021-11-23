@@ -1,0 +1,227 @@
+[
+  {
+    "country": "South Sudan",
+    "state": "Central Equatoria State",
+    "city": "Juba",
+    "name": "Juba International Airport",
+    "icao": "HSSJ",
+    "lat": 4.87201023102,
+    "lon": 31.6011009216
+  },
+  {
+    "country": "South Sudan",
+    "state": "Upper Nile State",
+    "city": "Malakal",
+    "name": "Malakal Airport",
+    "icao": "HSSM",
+    "lat": 9.55897045135498,
+    "lon": 31.6522006988525
+  },
+  {
+    "country": "South Sudan",
+    "state": "Northern Bahr el Ghazal State",
+    "city": "Aweil",
+    "name": "Aweil Airport",
+    "icao": "HSAW",
+    "lat": 8.76700019836425,
+    "lon": 27.3999996185302
+  },
+  {
+    "country": "South Sudan",
+    "state": "Jonglei State",
+    "city": "Jonglei State",
+    "name": "Ayod Airstrips",
+    "icao": "SS-0011",
+    "lat": 8.13052406119,
+    "lon": 31.407251358
+  },
+  {
+    "country": "South Sudan",
+    "state": "Upper Nile State",
+    "city": "Higleig",
+    "name": "Paloich Airport, Heliport",
+    "icao": "HSFA",
+    "lat": 10.529167,
+    "lon": 32.500556
+  },
+  {
+    "country": "South Sudan",
+    "state": "Unity State",
+    "city": "Bentu",
+    "name": "Bentu Airport",
+    "icao": "HSBT",
+    "lat": 9.21700000762939,
+    "lon": 29.8169994354248
+  },
+  {
+    "country": "South Sudan",
+    "state": "Eastern Equatoria State",
+    "city": "Kapoeta",
+    "name": "Kapoeta Airport",
+    "icao": "HSKP",
+    "lat": 4.7829999923706,
+    "lon": 33.5830001831054
+  },
+  {
+    "country": "South Sudan",
+    "state": "Western Equatoria State",
+    "city": "Marida",
+    "name": "Marida Airport",
+    "icao": "HSMD",
+    "lat": 4.91699981689453,
+    "lon": 29.466999053955
+  },
+  {
+    "country": "South Sudan",
+    "state": "Jonglei State",
+    "city": "Pachella",
+    "name": "Pachella Airport",
+    "icao": "HSPA",
+    "lat": 7.17856311798095,
+    "lon": 34.0973587036132
+  },
+  {
+    "country": "South Sudan",
+    "state": "Warrap State",
+    "city": "Tong",
+    "name": "Tong Airport",
+    "icao": "HSTO",
+    "lat": 7.26700019836425,
+    "lon": 28.9829998016357
+  },
+  {
+    "country": "South Sudan",
+    "state": "Eastern Equatoria State",
+    "city": "Torit",
+    "name": "Torit Airport",
+    "icao": "HSTR",
+    "lat": 4.40000009536743,
+    "lon": 32.5830001831054
+  },
+  {
+    "country": "South Sudan",
+    "state": "Western Equatoria State",
+    "city": "Tumbura",
+    "name": "Tumbura Airport",
+    "icao": "HSTU",
+    "lat": 5.59999990463256,
+    "lon": 27.4500007629394
+  },
+  {
+    "country": "South Sudan",
+    "state": "Western Equatoria State",
+    "city": "Yambio",
+    "name": "Yambio Airport",
+    "icao": "HSYA",
+    "lat": 4.56722021102905,
+    "lon": 28.423900604248
+  },
+  {
+    "country": "South Sudan",
+    "state": "Upper Nile State",
+    "city": "Upper Nile State",
+    "name": "Adareil Airport",
+    "icao": "AEE",
+    "lat": 10.0536111111,
+    "lon": 32.9594444444
+  },
+  {
+    "country": "South Sudan",
+    "state": "Jonglei State",
+    "city": "Jonglei State",
+    "name": "Ajuini Airstrip",
+    "icao": "SS-0001",
+    "lat": 7.45404976088,
+    "lon": 31.4126586914
+  },
+  {
+    "country": "South Sudan",
+    "state": "Jonglei State",
+    "city": "Jonglei State",
+    "name": "Duk Kwenyakwol Airstrip",
+    "icao": "SS-0003",
+    "lat": 7.60015111547,
+    "lon": 31.4517974854
+  },
+  {
+    "country": "South Sudan",
+    "state": "Jonglei State",
+    "city": "Jonglei State",
+    "name": "Duk Fadiat Airstrip",
+    "icao": "SS-0005",
+    "lat": 7.73931387575,
+    "lon": 31.4002990722999
+  },
+  {
+    "country": "South Sudan",
+    "state": "Upper Nile State",
+    "city": "Upper Nile State",
+    "name": "Pieri Airstrip",
+    "icao": "SS-0007",
+    "lat": 8.04129781797999,
+    "lon": 32.0298671722
+  },
+  {
+    "country": "South Sudan",
+    "state": "Jonglei State",
+    "city": "Jonglei State",
+    "name": "Mogok Airstrip",
+    "icao": "SS-0010",
+    "lat": 8.41523437349,
+    "lon": 31.3331794739
+  },
+  {
+    "country": "South Sudan",
+    "state": "Jonglei State",
+    "city": "Jonglei State",
+    "name": "Pathai Airstrip",
+    "icao": "SS-0013",
+    "lat": 8.06976738146,
+    "lon": 31.8386363983
+  },
+  {
+    "country": "South Sudan",
+    "state": "Upper Nile State",
+    "city": "Upper Nile State",
+    "name": "Lankien Airstrip",
+    "icao": "SS-0015",
+    "lat": 8.52801627905,
+    "lon": 32.0622253417999
+  },
+  {
+    "country": "South Sudan",
+    "state": "Jonglei State",
+    "city": "Akobo",
+    "name": "Akobo Airport",
+    "icao": "HSAK",
+    "lat": 7.7779,
+    "lon": 33.0027
+  },
+  {
+    "country": "South Sudan",
+    "state": "Eastern Equatoria State",
+    "city": "Kokuro",
+    "name": "Kokuro Airport",
+    "icao": "SS-0018",
+    "lat": 4.6753,
+    "lon": 35.7116
+  },
+  {
+    "country": "South Sudan",
+    "state": "Western Equatoria State",
+    "city": "Mvolo",
+    "name": "Mvolo Airport",
+    "icao": "SS-0022",
+    "lat": 6.06388,
+    "lon": 29.956666
+  },
+  {
+    "country": "South Sudan",
+    "state": "Western Equatoria State",
+    "city": "Nzara",
+    "name": "Nzara Airport",
+    "icao": "SS-0021",
+    "lat": 4.635486,
+    "lon": 28.26757
+  }
+]

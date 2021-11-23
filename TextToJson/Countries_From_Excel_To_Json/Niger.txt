@@ -1,0 +1,110 @@
+[
+  {
+    "country": "Niger",
+    "state": "Niamey Capital District",
+    "city": "Niamey",
+    "name": "Diori Hamani International Airport",
+    "icao": "DRRN",
+    "lat": 13.4815,
+    "lon": 2.18361
+  },
+  {
+    "country": "Niger",
+    "state": "Agadez Region",
+    "city": "Agadez",
+    "name": "Mano Dayak International Airport",
+    "icao": "DRZA",
+    "lat": 16.9659996032714,
+    "lon": 8.00010967254638
+  },
+  {
+    "country": "Niger",
+    "state": "Maradi Region",
+    "city": "Maradi",
+    "name": "Maradi Airport",
+    "icao": "DRRM",
+    "lat": 13.5024995803833,
+    "lon": 7.1267499923706
+  },
+  {
+    "country": "Niger",
+    "state": "Agadez Region",
+    "city": "Bilma",
+    "name": "Bilma Airport",
+    "icao": "DRRI",
+    "lat": 18.6867008209228,
+    "lon": 12.9191999435424
+  },
+  {
+    "country": "Niger",
+    "state": "Tahoua Region",
+    "city": "Birni-N'Konni",
+    "name": "Birni-N'Konni Airport",
+    "icao": "DRRB",
+    "lat": 13.8015003204345,
+    "lon": 5.24236011505126
+  },
+  {
+    "country": "Niger",
+    "state": "Dosso Region",
+    "city": "Gaya",
+    "name": "Gaya Airport",
+    "icao": "DRRG",
+    "lat": 11.8830003738403,
+    "lon": 3.43300008773803
+  },
+  {
+    "country": "Niger",
+    "state": "Zinder Region",
+    "city": "Goure",
+    "name": "Goure Airport",
+    "icao": "DRZG",
+    "lat": 13.9835996627807,
+    "lon": 10.2749004364013
+  },
+  {
+    "country": "Niger",
+    "state": "Agadez Region",
+    "city": "Iferouane",
+    "name": "Iferouane Airport",
+    "icao": "DRZI",
+    "lat": 19.066198,
+    "lon": 8.41496
+  },
+  {
+    "country": "Niger",
+    "state": "Diffa Region",
+    "city": "N'Guigmi",
+    "name": "N'Guigmi Airport",
+    "icao": "DRZN",
+    "lat": 14.2510004043579,
+    "lon": 13.128999710083
+  },
+  {
+    "country": "Niger",
+    "state": "Zinder Region",
+    "city": "Tanout",
+    "name": "Tanout Airport",
+    "icao": "DRZT",
+    "lat": 14.9702997207641,
+    "lon": 8.89167022705078
+  },
+  {
+    "country": "Niger",
+    "state": "TillabÃ©ri Region",
+    "city": "Tera",
+    "name": "Tera Airport",
+    "icao": "DRRE",
+    "lat": 13.9499998092651,
+    "lon": 0.732999980449676
+  },
+  {
+    "country": "Niger",
+    "state": "Maradi Region",
+    "city": "Tessaoua",
+    "name": "Tessaoua Airport",
+    "icao": "DRRA",
+    "lat": 13.756968,
+    "lon": 8.020568
+  }
+]

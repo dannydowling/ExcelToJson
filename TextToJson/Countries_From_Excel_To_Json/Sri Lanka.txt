@@ -1,0 +1,146 @@
+[
+  {
+    "country": "Sri Lanka",
+    "state": "Western Province",
+    "city": "Colombo",
+    "name": "Bandaranaike International Colombo Airport",
+    "icao": "VCBI",
+    "lat": 7.18075990676879,
+    "lon": 79.8841018676757
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Western Province",
+    "city": "Colombo",
+    "name": "Colombo Ratmalana Airport",
+    "icao": "VCCC",
+    "lat": 6.82199001312255,
+    "lon": 79.8861999511718
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Eastern Province",
+    "city": "Ampara",
+    "name": "Ampara Airport",
+    "icao": "VCCG",
+    "lat": 7.33776,
+    "lon": 81.62594
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "North Central Province",
+    "city": "Anuradhapura",
+    "name": "Anuradhapura Air Force Base",
+    "icao": "VCCA",
+    "lat": 8.30148983002,
+    "lon": 80.4279022217
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Northern Province",
+    "city": "Jaffna",
+    "name": "Kankesanturai Airport",
+    "icao": "VCCJ",
+    "lat": 9.792329788208,
+    "lon": 80.0700988769531
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Eastern Province",
+    "city": "Trincomalee",
+    "name": "China Bay Airport",
+    "icao": "VCCT",
+    "lat": 8.5385103225708,
+    "lon": 81.181900024414
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Western Province",
+    "city": "Kalutara",
+    "name": "Katukurunda Air Force Base",
+    "icao": "VCCN",
+    "lat": 6.55212020874,
+    "lon": 79.9775009155
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "North Central Province",
+    "city": "Polonnaruwa Town",
+    "name": "Hingurakgoda Air Force Base",
+    "icao": "VCCH",
+    "lat": 8.04981,
+    "lon": 80.9814
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Southern Province",
+    "city": "Southern Province",
+    "name": "Mattala Rajapaksa International Airport",
+    "icao": "VCRI",
+    "lat": 6.284467,
+    "lon": 81.124128
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Eastern Province",
+    "city": "Batticaloa",
+    "name": "Passikudah Helipad",
+    "icao": "PQD",
+    "lat": 7.92310659595,
+    "lon": 81.567735672
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Western Province",
+    "city": "Colombo",
+    "name": "Beira Lake Seaplane Base",
+    "icao": "BYV",
+    "lat": 6.92944444444,
+    "lon": 79.8541666667
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Western Province",
+    "city": "Colombo",
+    "name": "Kelani-Peliyagoda Seaplane Base",
+    "icao": "KEZ",
+    "lat": 6.95,
+    "lon": 79.93
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Central Province",
+    "city": "Dambulla",
+    "name": "Dambulu Oya Tank Seaplane Base",
+    "icao": "DBU",
+    "lat": 7.8604,
+    "lon": 80.6304
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Southern Province",
+    "city": "Hambantota",
+    "name": "Hambantota Seaplane Base",
+    "icao": "HBT",
+    "lat": 6.124043,
+    "lon": 81.103
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Central Province",
+    "city": "Kandy",
+    "name": "Polgolla Reservoir Seaplane Base",
+    "icao": "KDZ",
+    "lat": 7.3251,
+    "lon": 80.6422
+  },
+  {
+    "country": "Sri Lanka",
+    "state": "Eastern Province",
+    "city": "Trincomalee",
+    "name": "Trincomalee Harbor Waterdrome",
+    "icao": "THW",
+    "lat": 8.56,
+    "lon": 81.22
+  }
+]

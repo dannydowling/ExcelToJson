@@ -1,0 +1,200 @@
+[
+  {
+    "country": "Israel",
+    "state": "Central District",
+    "city": "Tel Aviv",
+    "name": "Ben Gurion International Airport",
+    "icao": "LLBG",
+    "lat": 32.0113983154296,
+    "lon": 34.8866996765136
+  },
+  {
+    "country": "Israel",
+    "state": "Southern District",
+    "city": "Eilat",
+    "name": "Eilat Airport",
+    "icao": "LLET",
+    "lat": 29.559945,
+    "lon": 34.959612
+  },
+  {
+    "country": "Israel",
+    "state": "Tel Aviv District",
+    "city": "Tel Aviv",
+    "name": "Sde Dov Airport",
+    "icao": "LLSD",
+    "lat": 32.1147,
+    "lon": 34.7822
+  },
+  {
+    "country": "Israel",
+    "state": "Haifa District",
+    "city": "Haifa",
+    "name": "Haifa International Airport",
+    "icao": "LLHA",
+    "lat": 32.809398651123,
+    "lon": 35.043098449707
+  },
+  {
+    "country": "Israel",
+    "state": "Southern District",
+    "city": "Beersheba",
+    "name": "Beersheba (Teyman) Airport",
+    "icao": "LLBS",
+    "lat": 31.287000656128,
+    "lon": 34.722999572754
+  },
+  {
+    "country": "Israel",
+    "state": "Tel Aviv District",
+    "city": "Herzliya",
+    "name": "Herzliya Airport",
+    "icao": "LLHZ",
+    "lat": 32.1805992126464,
+    "lon": 34.8347015380859
+  },
+  {
+    "country": "Israel",
+    "state": "Southern District",
+    "city": "Sapir",
+    "name": "Ein Yahav Airfield",
+    "icao": "LLEY",
+    "lat": 30.6217002868652,
+    "lon": 35.2033004760742
+  },
+  {
+    "country": "Israel",
+    "state": "Southern District",
+    "city": "Beersheba",
+    "name": "Nevatim Air Base",
+    "icao": "LLNV",
+    "lat": 31.2082996367999,
+    "lon": 35.012298584
+  },
+  {
+    "country": "Israel",
+    "state": "Central District",
+    "city": "Rehovot",
+    "name": "Tel Nof Air Base",
+    "icao": "LLEK",
+    "lat": 31.8395004272,
+    "lon": 34.8218002319
+  },
+  {
+    "country": "Israel",
+    "state": "Southern District",
+    "city": "Arad",
+    "name": "Arad Airport",
+    "icao": "LL1B",
+    "lat": 31.229169845581,
+    "lon": 35.189037322998
+  },
+  {
+    "country": "Israel",
+    "state": "Southern District",
+    "city": "Beersheba",
+    "name": "Hatzerim Northwest Airport",
+    "icao": "LL1A",
+    "lat": 31.26070022583,
+    "lon": 34.6403999328613
+  },
+  {
+    "country": "Israel",
+    "state": "Northern District",
+    "city": "Ein Shemer",
+    "name": "Ein Shemer Airfield",
+    "icao": "LLES",
+    "lat": 32.4407997131347,
+    "lon": 35.0077018737793
+  },
+  {
+    "country": "Israel",
+    "state": "Central District",
+    "city": "Hatzor",
+    "name": "Hatzor Air Base",
+    "icao": "LLHS",
+    "lat": 31.7625007629,
+    "lon": 34.7271995543999
+  },
+  {
+    "country": "Israel",
+    "state": "Northern District",
+    "city": "Katzrin",
+    "name": "Fiq Airfield",
+    "icao": "LLFK",
+    "lat": 32.786388888,
+    "lon": 35.7174987793
+  },
+  {
+    "country": "Israel",
+    "state": "Southern District",
+    "city": "Nitzana",
+    "name": "Nitzana West Airport",
+    "icao": "LL60",
+    "lat": 30.8593997955322,
+    "lon": 34.4430999755859
+  },
+  {
+    "country": "Israel",
+    "state": "Central District",
+    "city": "Rishon LeZion",
+    "name": "Palmahim Air Base",
+    "icao": "LL59",
+    "lat": 31.8978996276855,
+    "lon": 34.6907997131347
+  },
+  {
+    "country": "Israel",
+    "state": "Haifa District",
+    "city": "Haifa District",
+    "name": "Kefar Gallim Highway Strip",
+    "icao": "IL-0001",
+    "lat": 32.7617093312,
+    "lon": 34.9535393715
+  },
+  {
+    "country": "Israel",
+    "state": "Haifa District",
+    "city": "Haifa District",
+    "name": "Habonim Airfield",
+    "icao": "LLBO",
+    "lat": 32.65,
+    "lon": 34.9327778
+  },
+  {
+    "country": "Israel",
+    "state": "Jerusalem District",
+    "city": "Jerusalem",
+    "name": "Hadassah Ein Kerem Heliport",
+    "icao": "LLHD",
+    "lat": 31.7644444,
+    "lon": 35.1472222
+  },
+  {
+    "country": "Israel",
+    "state": "Tel Aviv District",
+    "city": "Ramat Gan",
+    "name": "Sheba (Tel HaShomer) Medical Center",
+    "icao": "LLSM",
+    "lat": 32.0433333,
+    "lon": 34.8419444
+  },
+  {
+    "country": "Israel",
+    "state": "Tel Aviv District",
+    "city": "Tel Aviv",
+    "name": "Sourasky (Ichilov) Medical Center",
+    "icao": "LLIC",
+    "lat": 32.08,
+    "lon": 34.7897222
+  },
+  {
+    "country": "Israel",
+    "state": "Southern District",
+    "city": "Yotvata",
+    "name": "Yotvata Airfield",
+    "icao": "LLYO",
+    "lat": 29.901111,
+    "lon": 35.0675
+  }
+]

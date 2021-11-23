@@ -1,0 +1,1181 @@
+[
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Windhoek",
+    "name": "Hosea Kutako International Airport",
+    "icao": "FYWH",
+    "lat": -22.4799,
+    "lon": 17.4709
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Windhoek",
+    "name": "Eros Airport",
+    "icao": "FYWE",
+    "lat": -22.6121997833251,
+    "lon": 17.0804004669189
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Arandis",
+    "name": "Arandis Airport",
+    "icao": "FYAR",
+    "lat": -22.4622001647949,
+    "lon": 14.9799995422363
+  },
+  {
+    "country": "Namibia",
+    "state": "ÇKaras Region",
+    "city": "Luderitz",
+    "name": "Luderitz Airport",
+    "icao": "FYLZ",
+    "lat": -26.687400817871,
+    "lon": 15.2428998947143
+  },
+  {
+    "country": "Namibia",
+    "state": "Kavango East Region",
+    "city": "Rundu",
+    "name": "Rundu Airport",
+    "icao": "FYRU",
+    "lat": -17.956499099731,
+    "lon": 19.719400405884
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Sesriem Airstrip",
+    "icao": "FYSS",
+    "lat": -24.512800216675,
+    "lon": 15.746700286865
+  },
+  {
+    "country": "Namibia",
+    "state": "Zambezi Region",
+    "city": "Lianshulu Lodge",
+    "name": "Lianshulu Airport",
+    "icao": "FYLS",
+    "lat": -18.1166992187999,
+    "lon": 23.3932991028
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Meob Bay",
+    "name": "Meob Bay Landing Site",
+    "icao": "FYMB",
+    "lat": -24.6170005798339,
+    "lon": 14.6829996109008
+  },
+  {
+    "country": "Namibia",
+    "state": "Oshikoto Region",
+    "city": "Mokuti Lodge",
+    "name": "Mokuti Lodge Airport",
+    "icao": "FYMO",
+    "lat": -18.8127994537353,
+    "lon": 17.0594005584716
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Solitaire",
+    "name": "Solitaire Airport",
+    "icao": "FYSO",
+    "lat": -23.900800704956,
+    "lon": 16.0046997070312
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Sossusvlei Desert Lodge",
+    "name": "Sossusvlei Mountain Lodge Airport",
+    "icao": "FYSL",
+    "lat": -24.803300857544,
+    "lon": 15.89109992981
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Grootfontein",
+    "name": "Grootfontein Airport",
+    "icao": "FYGF",
+    "lat": -19.6021995544433,
+    "lon": 18.1226997375488
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Anib Lodge Landing Site",
+    "icao": "NA-0003",
+    "lat": -24.434700012207,
+    "lon": 18.1044006347656
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Basaroot Landing Site",
+    "icao": "NA-0007",
+    "lat": -23.7583007812,
+    "lon": 18.2938995361
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Bitterwasser North Airport",
+    "icao": "NA-0009",
+    "lat": -23.8672008514404,
+    "lon": 17.9799995422363
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Omaheke Region",
+    "name": "Bush Breaks Lodge Landing Site",
+    "icao": "NA-0011",
+    "lat": -22.3278007507324,
+    "lon": 19.7506008148193
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Erongo Region",
+    "name": "Eureka Farm Airport",
+    "icao": "NA-0016",
+    "lat": -21.198099,
+    "lon": 17.8211
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Khomas Region",
+    "name": "Greub Landing Site",
+    "icao": "NA-0018",
+    "lat": -23.1219005584716,
+    "lon": 16.733600616455
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Khomas Region",
+    "name": "Hannover N Airport",
+    "icao": "NA-0020",
+    "lat": -23.3619003295898,
+    "lon": 17.8038997650146
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Intu Africa Pan Airport",
+    "icao": "FYIA",
+    "lat": -24.088300704956,
+    "lon": 17.9517002105712
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Khomas Region",
+    "name": "Julia Landing Site",
+    "icao": "NA-0024",
+    "lat": -22.9699993133544,
+    "lon": 18.193899154663
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Erongo Region",
+    "name": "Kamombombe East Airport",
+    "icao": "NA-0026",
+    "lat": -21.614200592041,
+    "lon": 16.0555992126464
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Kentani Landing Site",
+    "icao": "NA-0028",
+    "lat": -23.8621997833251,
+    "lon": 17.8572006225585
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Kerweder Airport",
+    "icao": "NA-0030",
+    "lat": -24.9631004333496,
+    "lon": 16.0135993957519
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Khomas Region",
+    "name": "Louwater Pan Landing Site",
+    "icao": "NA-0035",
+    "lat": -23.2772006988525,
+    "lon": 17.7236003875732
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Meier Airstrip Landing Site",
+    "icao": "NA-0043",
+    "lat": -24.8918991088867,
+    "lon": 16.2003002166748
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Namib Naukluft Landing Site",
+    "icao": "NA-0046",
+    "lat": -23.9950008392334,
+    "lon": 15.9306001663208
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Otjozondjupa Region",
+    "name": "Oha Kaua/Otjiwa Lodge Landing Site",
+    "icao": "NA-0048",
+    "lat": -20.7516994476318,
+    "lon": 16.798599243164
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Otjozondjupa Region",
+    "name": "Okosongoro Airport Airport",
+    "icao": "NA-0050",
+    "lat": -21.1180992126464,
+    "lon": 16.0858001708984
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Erongo Region",
+    "name": "Onjossa Airport",
+    "icao": "NA-0053",
+    "lat": -22.1683006286621,
+    "lon": 16.301700592041
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Erongo Region",
+    "name": "Roidina Peter Jo Airport",
+    "icao": "NA-0054",
+    "lat": -21.1877994537353,
+    "lon": 16.0622005462646
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Tatave Landing Site",
+    "icao": "NA-0062",
+    "lat": -24.3899993896484,
+    "lon": 18.6681003570556
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Omaheke Region",
+    "name": "Unbekannt Landing Site",
+    "icao": "NA-0064",
+    "lat": -21.1308002471923,
+    "lon": 18.7896995544433
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Omaheke Region",
+    "name": "Wittenau Pfanne Landing Site",
+    "icao": "NA-0066",
+    "lat": -23.4638996124267,
+    "lon": 18.8733005523681
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Wohlzufrieden Airport",
+    "icao": "NA-0068",
+    "lat": -24.1905994415283,
+    "lon": 18.1611003875732
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Khomas Region",
+    "name": "Gravenstein Prv Airport",
+    "icao": "FYGV",
+    "lat": -23.4589004516601,
+    "lon": 17.4978008270263
+  },
+  {
+    "country": "Namibia",
+    "state": "Kunene Region",
+    "city": "Kunene Region",
+    "name": "Rag Rock Airport",
+    "icao": "FYRR",
+    "lat": -20.5380992889404,
+    "lon": 14.4330997467041
+  },
+  {
+    "country": "Namibia",
+    "state": "ÇKaras Region",
+    "city": "ÇKaras Region",
+    "name": "Vredeshoop Landing Site",
+    "icao": "NA-0045",
+    "lat": -27.1002826690673,
+    "lon": 19.5344505310058
+  },
+  {
+    "country": "Namibia",
+    "state": "ÇKaras Region",
+    "city": "ÇKaras Region",
+    "name": "Klipdrif Airstrip",
+    "icao": "NA-0072",
+    "lat": -26.5166664123535,
+    "lon": 16.9166679382324
+  },
+  {
+    "country": "Namibia",
+    "state": "ÇKaras Region",
+    "city": "ÇKaras Region",
+    "name": "Mata Mata Landing Site",
+    "icao": "NA-0077",
+    "lat": -25.7677822113,
+    "lon": 20.0
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Tweerivier Landing Site",
+    "icao": "NA-0080",
+    "lat": -25.4563827514648,
+    "lon": 19.4383335113525
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Katzensteg Airport",
+    "icao": "NA-0085",
+    "lat": -24.7697162628173,
+    "lon": 18.988332748413
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Wandervogel Airstrip",
+    "icao": "NA-0089",
+    "lat": -24.6391677856445,
+    "lon": 19.7033329010009
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Salzbrunn Airstrip",
+    "icao": "NA-0091",
+    "lat": -24.3826999664306,
+    "lon": 17.9698009490966
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Twilight Airstrip",
+    "icao": "NA-0094",
+    "lat": -24.1672172546386,
+    "lon": 17.9891662597656
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Morester Landing Site",
+    "icao": "NA-0096",
+    "lat": -24.1161174774169,
+    "lon": 19.977783203125
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Nabus Landing Site",
+    "icao": "NA-0099",
+    "lat": -24.0383338928222,
+    "lon": 18.9750003814697
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Victory Airstrip",
+    "icao": "NA-0101",
+    "lat": -23.9697170257568,
+    "lon": 18.2691669464111
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Bimsfarm Landing Site",
+    "icao": "NA-0106",
+    "lat": -23.7283325195312,
+    "lon": 18.147216796875
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Gomnab Airport",
+    "icao": "NA-0108",
+    "lat": -23.6917991638183,
+    "lon": 18.2723999023437
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Kaukerus Landing Site",
+    "icao": "NA-0111",
+    "lat": -23.6177825927734,
+    "lon": 17.8722171783447
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Rheinpfalz Landing Site",
+    "icao": "NA-0113",
+    "lat": -23.5288829803466,
+    "lon": 17.9899997711181
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Khomas Region",
+    "name": "Gams Farm Landing Site",
+    "icao": "NA-0117",
+    "lat": -23.3666667938232,
+    "lon": 16.2999992370605
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Omaheke Region",
+    "name": "Nossob Gabel Landing Site",
+    "icao": "NA-0126",
+    "lat": -23.120283126831,
+    "lon": 18.7016677856445
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hardap Region",
+    "name": "Bergland Landing  Strip",
+    "icao": "NA-0129",
+    "lat": -22.9733333587646,
+    "lon": 17.1447162628173
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Omaheke Region",
+    "name": "Spatzenfeld Landing Site",
+    "icao": "NA-0132",
+    "lat": -22.7852821350097,
+    "lon": 18.8897171020507
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Omaheke Region",
+    "name": "Solingen Airstrip",
+    "icao": "NA-0137",
+    "lat": -22.3963832855224,
+    "lon": 19.1108322143554
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Omaheke Region",
+    "name": "Swa Knie Landing Site",
+    "icao": "NA-0143",
+    "lat": -22.0,
+    "lon": 20.0
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Erongo Region",
+    "name": "Albrechts Aistrip",
+    "icao": "NA-0145",
+    "lat": -21.9455509185791,
+    "lon": 16.0699996948242
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Omaheke Region",
+    "name": "Fortuna Landing Site",
+    "icao": "NA-0148",
+    "lat": -21.8083324432373,
+    "lon": 19.908332824707
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Erongo Region",
+    "name": "Onduruqea Lodge Airport",
+    "icao": "NA-0152",
+    "lat": -21.6025009155273,
+    "lon": 16.0732994079589
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Otjozondjupa Region",
+    "name": "Omaha Landing Site",
+    "icao": "NA-0156",
+    "lat": -21.1319503784179,
+    "lon": 16.5261173248291
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Aminuis",
+    "name": "Aminuis Pan Landing Site",
+    "icao": "NA-0002",
+    "lat": -23.6072006225585,
+    "lon": 19.9158000946044
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Aranos",
+    "name": "Aranos Pan Landing Site",
+    "icao": "NA-0005",
+    "lat": -24.1093997955322,
+    "lon": 19.2882995605468
+  },
+  {
+    "country": "Namibia",
+    "state": "Kavango East Region",
+    "city": "Bagani",
+    "name": "Bagani Airport",
+    "icao": "NA-0012",
+    "lat": -18.1180992126,
+    "lon": 21.6243991852
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Buitepos",
+    "name": "Buitepos Airstrip",
+    "icao": "NA-0141",
+    "lat": -22.2666664123535,
+    "lon": 20.0
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Desert Homestead",
+    "name": "Farm Whitwater East Landing Strip",
+    "icao": "FYGK",
+    "lat": -24.629999,
+    "lon": 15.9392
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Dordabis",
+    "name": "Dordabis Carpet Airport",
+    "icao": "NA-0014",
+    "lat": -22.9543991088867,
+    "lon": 17.639699935913
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Drimiopsis",
+    "name": "Drimiopsis Landing Site",
+    "icao": "NA-0142",
+    "lat": -22.0666675567626,
+    "lon": 19.0666675567626
+  },
+  {
+    "country": "Namibia",
+    "state": "Ohangwena Region",
+    "city": "Eenhana",
+    "name": "Eenhana Airport",
+    "icao": "FYEN",
+    "lat": -17.4829998016357,
+    "lon": 16.32200050354
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Epukiro",
+    "name": "Epukiro Airport",
+    "icao": "FYEK",
+    "lat": -21.7866992950439,
+    "lon": 19.1061000823974
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Epukiro",
+    "name": "Epukiru Airport",
+    "icao": "NA-0151",
+    "lat": -21.6166667938232,
+    "lon": 19.3999996185302
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Gamsberg",
+    "name": "Gamsberg Landing Site",
+    "icao": "NA-0116",
+    "lat": -23.36669921875,
+    "lon": 16.25
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Gobabis",
+    "name": "Gobabis Street-T Airport",
+    "icao": "NA-0135",
+    "lat": -22.4361171722412,
+    "lon": 19.0136165618896
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Gochas",
+    "name": "Gochas Airstrip",
+    "icao": "FYGC",
+    "lat": -24.8563995361328,
+    "lon": 18.8178005218505
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Haribes Dam",
+    "name": "Haribes Dam Strip",
+    "icao": "NA-0021",
+    "lat": -24.6210994720459,
+    "lon": 17.5408000946044
+  },
+  {
+    "country": "Namibia",
+    "state": "ÇKaras Region",
+    "city": "Helmeringhausen",
+    "name": "Helmering Airstrip",
+    "icao": "NA-0076",
+    "lat": -25.863332748413,
+    "lon": 16.8099994659423
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Hoachanas",
+    "name": "Hoachanas Airport",
+    "icao": "NA-0103",
+    "lat": -23.9150009155273,
+    "lon": 18.0491676330566
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Hochfeld",
+    "name": "Hochfeld Airport",
+    "icao": "NA-0153",
+    "lat": -21.4902820587158,
+    "lon": 17.8519496917724
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Kalkfeld",
+    "name": "Kalkfeld Airport",
+    "icao": "FYKD",
+    "lat": -20.9013996124267,
+    "lon": 16.207799911499
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Karibib",
+    "name": "Karibib Airport",
+    "icao": "FYKA",
+    "lat": -21.8477993011474,
+    "lon": 15.9027996063232
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Klein Aub",
+    "name": "Klein Aub Pan Ok Landing Site",
+    "icao": "NA-0034",
+    "lat": -23.7805995941162,
+    "lon": 16.6450004577636
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Klein Nauas",
+    "name": "Klein Nauas Landing Site",
+    "icao": "NA-0119",
+    "lat": -23.3166675567626,
+    "lon": 17.8441677093505
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Krumneck",
+    "name": "Krumneck Airport",
+    "icao": "NA-0130",
+    "lat": -22.96138381958,
+    "lon": 16.9344501495361
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Leonardville",
+    "name": "Leonardville Airport",
+    "icao": "NA-0114",
+    "lat": -23.5013828277587,
+    "lon": 18.7877826690673
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Maltahoehe",
+    "name": "Maltahoehe 4 Kal Landing Site",
+    "icao": "NA-0036",
+    "lat": -24.5314006805419,
+    "lon": 17.1844005584716
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Maltahoehe",
+    "name": "Maltahoehe 6 Kal Landing Site",
+    "icao": "NA-0038",
+    "lat": -24.1252994537353,
+    "lon": 17.5578002929687
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Maltahoehe",
+    "name": "Maltahoehe 8 Kal Landing Site",
+    "icao": "NA-0040",
+    "lat": -24.3439006805419,
+    "lon": 17.3321990966796
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Maltahoehe",
+    "name": "Maltahoehe Airstrip",
+    "icao": "FYMH",
+    "lat": -24.7719001770019,
+    "lon": 16.9794006347656
+  },
+  {
+    "country": "Namibia",
+    "state": "Oshikoto Region",
+    "city": "Namutoni",
+    "name": "Namutoni Airport",
+    "icao": "FYNA",
+    "lat": -18.8064,
+    "lon": 16.9272
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Oamites",
+    "name": "Oamites Landing Strip",
+    "icao": "NA-0128",
+    "lat": -23.0074996948242,
+    "lon": 17.1169490814209
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Okahandja",
+    "name": "Okahandja Airstrip",
+    "icao": "FYON",
+    "lat": -22.0139007568359,
+    "lon": 16.8974990844726
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Omaruru",
+    "name": "Omaruru Airport",
+    "icao": "FYOM",
+    "lat": -21.4150009155273,
+    "lon": 15.938099861145
+  },
+  {
+    "country": "Namibia",
+    "state": "Kavango East Region",
+    "city": "Omega",
+    "name": "Omega Airport",
+    "icao": "FYOE",
+    "lat": -18.0303,
+    "lon": 22.189699
+  },
+  {
+    "country": "Namibia",
+    "state": "Oshikoto Region",
+    "city": "Operet",
+    "name": "Operet Airport",
+    "icao": "FYOU",
+    "lat": -18.6093997955322,
+    "lon": 17.1497001647949
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Osona",
+    "name": "Osona Airstrip",
+    "icao": "FYSN",
+    "lat": -22.1077995300292,
+    "lon": 16.9797000885009
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Otjihaenena",
+    "name": "Otjihaenena Landing Strip",
+    "icao": "NA-0139",
+    "lat": -22.290283203125,
+    "lon": 17.7713832855224
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Otjiwarongo",
+    "name": "Otjiwarongo Center Airport",
+    "icao": "NA-0157",
+    "lat": -20.463882446289,
+    "lon": 16.6477832794189
+  },
+  {
+    "country": "Namibia",
+    "state": "Kunene Region",
+    "city": "Outjo",
+    "name": "Outjo Airport",
+    "icao": "FYOJ",
+    "lat": -20.075300216675,
+    "lon": 16.124700546265
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Rehoboth",
+    "name": "Rehoboth Town Airport",
+    "icao": "NA-0118",
+    "lat": -23.3216667175292,
+    "lon": 17.071117401123
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Rehoboth",
+    "name": "Rehoboth Sta Airport",
+    "icao": "NA-0121",
+    "lat": -23.3105506896972,
+    "lon": 17.1883335113525
+  },
+  {
+    "country": "Namibia",
+    "state": "ÇKaras Region",
+    "city": "Rietfontein",
+    "name": "Rietfontein Airport",
+    "icao": "NA-0069",
+    "lat": -26.7450008392334,
+    "lon": 20.033332824707
+  },
+  {
+    "country": "Namibia",
+    "state": "ÇKaras Region",
+    "city": "Rosh Pinah",
+    "name": "Skorpion Mine Airport",
+    "icao": "FYSA",
+    "lat": -27.8763999939,
+    "lon": 16.6478004456
+  },
+  {
+    "country": "Namibia",
+    "state": "Khomas Region",
+    "city": "Rostock",
+    "name": "Rostock Ritz Lodge Airport",
+    "icao": "NA-0055",
+    "lat": -23.5422000885009,
+    "lon": 15.8388996124267
+  },
+  {
+    "country": "Namibia",
+    "state": "Kunene Region",
+    "city": "Ruacana",
+    "name": "Ruacana Airport",
+    "icao": "FYRC",
+    "lat": -17.420601,
+    "lon": 14.3717
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Sandfontein",
+    "name": "Sandfontein Airstrip",
+    "icao": "NA-0140",
+    "lat": -22.2802829742431,
+    "lon": 20.0
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Schlip",
+    "name": "Schlip 1 Road113 Landing Site",
+    "icao": "NA-0056",
+    "lat": -23.9636001586914,
+    "lon": 17.8906002044677
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Schlip",
+    "name": "Schlip 2 87 Road Landing Site",
+    "icao": "NA-0058",
+    "lat": -24.0571994781494,
+    "lon": 17.1599998474121
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Stampriet",
+    "name": "Stampriet Pan Airport",
+    "icao": "FYSP",
+    "lat": -24.3521995544433,
+    "lon": 18.4333000183105
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Steinhausen",
+    "name": "Steinhausen Landing Site",
+    "icao": "NA-0147",
+    "lat": -21.8244495391845,
+    "lon": 18.2319507598876
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Tsumkwe",
+    "name": "Tsumkwe Airport",
+    "icao": "FYTK",
+    "lat": -19.584999084473,
+    "lon": 20.452800750732
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Uis Mine",
+    "name": "Uis Mine Airport",
+    "icao": "FYUS",
+    "lat": -21.2299995422363,
+    "lon": 14.8671998977661
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Witbooisvley",
+    "name": "Witbooisvley Landing Site",
+    "icao": "NA-0083",
+    "lat": -25.068883895874,
+    "lon": 18.4516677856445
+  },
+  {
+    "country": "Namibia",
+    "state": "Omaheke Region",
+    "city": "Witvlei",
+    "name": "Witvlei Airport",
+    "icao": "FYWI",
+    "lat": -22.4053001403808,
+    "lon": 18.4591999053955
+  },
+  {
+    "country": "Namibia",
+    "state": "Otjozondjupa Region",
+    "city": "Otjozondjupa Region",
+    "name": "B8 Airstrip",
+    "icao": "NA-0167",
+    "lat": -19.059552,
+    "lon": 18.664579
+  },
+  {
+    "country": "Namibia",
+    "state": "Kunene Region",
+    "city": "Ai-Ais",
+    "name": "Ai-Ais Airport",
+    "icao": "FYAA",
+    "lat": -27.995,
+    "lon": 17.5966
+  },
+  {
+    "country": "Namibia",
+    "state": "ÇKaras Region",
+    "city": "Aussenkehr",
+    "name": "Aussenkehr Airport",
+    "icao": "FYAK",
+    "lat": -28.4587,
+    "lon": 17.4645
+  },
+  {
+    "country": "Namibia",
+    "state": "Kunene Region",
+    "city": "Ehomba",
+    "name": "Ehomba Airport",
+    "icao": "NA-0169",
+    "lat": -17.488,
+    "lon": 13.836836
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Etemba Wilderness Camp",
+    "name": "Farm Etemba Landing Strip",
+    "icao": "NA-0174",
+    "lat": -21.405111,
+    "lon": 15.606778
+  },
+  {
+    "country": "Namibia",
+    "state": "ÇKaras Region",
+    "city": "Haklesdoorn",
+    "name": "Haklesdoorn Airport",
+    "icao": "NA-0172",
+    "lat": -28.886092,
+    "lon": 18.239166
+  },
+  {
+    "country": "Namibia",
+    "state": "Erongo Region",
+    "city": "Hohenstein Lodge",
+    "name": "Farm Dawib Ost Landing Strip",
+    "icao": "NA-0175",
+    "lat": -21.774528,
+    "lon": 15.515361
+  },
+  {
+    "country": "Namibia",
+    "state": "Hardap Region",
+    "city": "Kalkrand",
+    "name": "Farm Gurus Landing Strip",
+    "icao": "NA-0176",
+    "lat": -24.07675,
+    "lon": 17.610417
+  },
+  {
+    "country": "Namibia",
+    "state": "Kunene Region",
+    "city": "Khorixas",
+    "name": "Khorixas Airport",
+    "icao": "NA-0159",
+    "lat": -20.366192,
+    "lon": 15.059298
+  },
+  {
+    "country": "Namibia",
+    "state": "Zambezi Region",
+    "city": "Kongola",
+    "name": "Kongola Airport",
+    "icao": "NA-0162",
+    "lat": -17.775197,
+    "lon": 23.307089
+  },
+  {
+    "country": "Namibia",
+    "state": "Omusati Region",
+    "city": "Okahao",
+    "name": "Okahao Airport",
+    "icao": "FYOH",
+    "lat": -17.881279,
+    "lon": 15.075491
+  },
+  {
+    "country": "Namibia",
+    "state": "Kunene Region",
+    "city": "Okongwati",
+    "name": "Okongwati Airport",
+    "icao": "NA-0160",
+    "lat": -17.43873,
+    "lon": 13.2782
+  },
+  {
+    "country": "Namibia",
+    "state": "Kunene Region",
+    "city": "Ombika",
+    "name": "Ongava Lodge Airstrip",
+    "icao": "NA-0088",
+    "lat": -19.328533,
+    "lon": 15.915003
+  },
+  {
+    "country": "Namibia",
+    "state": "Oshana Region",
+    "city": "Oshakati",
+    "name": "Oshakati Airport",
+    "icao": "FYOS",
+    "lat": -17.797,
+    "lon": 15.6993
+  },
+  {
+    "country": "Namibia",
+    "state": "Omusati Region",
+    "city": "Outapi",
+    "name": "Outapi Airport",
+    "icao": "NA-0171",
+    "lat": -17.574847,
+    "lon": 15.007946
+  },
+  {
+    "country": "Namibia",
+    "state": "Kunene Region",
+    "city": "Palmwag",
+    "name": "Palmwag Airport",
+    "icao": "NA-0168",
+    "lat": -19.873201,
+    "lon": 13.943931
+  },
+  {
+    "country": "Namibia",
+    "state": "Kavango East Region",
+    "city": "Sikereti",
+    "name": "Sikereti Airport",
+    "icao": "NA-0164",
+    "lat": -19.104117,
+    "lon": 20.698375
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "country": "French Guiana",
+    "state": "Cayenne",
+    "city": "Saint-Georges-de-l'Oyapock Airport",
+    "name": "Saint-Georges-de-l'Oyapock Airport",
+    "icao": "SOOG",
+    "lat": 3.89759993553,
+    "lon": -51.8041000366
+  },
+  {
+    "country": "French Guiana",
+    "state": "Cayenne",
+    "city": "Ouanary",
+    "name": "Ouanary Airport",
+    "icao": "GF-0002",
+    "lat": 4.21009016036987,
+    "lon": -51.6677017211914
+  },
+  {
+    "country": "French Guiana",
+    "state": "Cayenne",
+    "city": "Camopi",
+    "name": "Vila Brasil Airport",
+    "icao": "GF-0004",
+    "lat": 3.172675,
+    "lon": -52.33615
+  },
+  {
+    "country": "French Guiana",
+    "state": "Saint-Laurent-du-Maroni",
+    "city": "Grand-Santi",
+    "name": "Grand-Santi Airport",
+    "icao": "SOGS",
+    "lat": 4.285833,
+    "lon": -54.373056
+  }
+]

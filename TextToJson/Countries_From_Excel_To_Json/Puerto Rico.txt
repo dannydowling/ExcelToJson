@@ -1,0 +1,236 @@
+[
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "San Juan",
+    "name": "Fernando Luis Ribas Dominicci Airport",
+    "icao": "TJIG",
+    "lat": 18.4568004608154,
+    "lon": -66.0980987548828
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Aguadilla",
+    "name": "Rafael Hernandez Airport",
+    "icao": "TJBQ",
+    "lat": 18.4948997497558,
+    "lon": -67.1294021606445
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Aceitunas",
+    "name": "Labadle Airport",
+    "icao": "PR-0003",
+    "lat": 18.4486999511718,
+    "lon": -67.0625991821289
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "Boqueron",
+    "city": "Boqueron",
+    "name": "Cullingford Field",
+    "icao": "PR24",
+    "lat": 17.9764003753662,
+    "lon": -67.1707992553711
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Cabo Rojo",
+    "name": "Boqueron Airport",
+    "icao": "PR10",
+    "lat": 18.01070022583,
+    "lon": -67.1412963867187
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "Lajas",
+    "city": "Lajas",
+    "name": "Lajas Airpark",
+    "icao": "PR25",
+    "lat": 18.0125007629,
+    "lon": -67.0691986084
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Mona Island",
+    "name": "Mona Airport",
+    "icao": "PR-0001",
+    "lat": 18.0753002166748,
+    "lon": -67.9309997558593
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "Cidra",
+    "city": "Cidra",
+    "name": "Sabanera Heliport",
+    "icao": "PR53",
+    "lat": 18.1907997131347,
+    "lon": -66.1207962036132
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Culebra",
+    "name": "Hill Heliport",
+    "icao": "PR06",
+    "lat": 18.2999992370605,
+    "lon": -65.2833023071289
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Fajardo",
+    "name": "Fajardo Harbor Seaplane Base",
+    "icao": "PR03",
+    "lat": 18.3397006988525,
+    "lon": -65.6246032714843
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "Guaynabo",
+    "city": "Guaynabo",
+    "name": "Fort Buchanan Heliport",
+    "icao": "PR21",
+    "lat": 18.4150009155273,
+    "lon": -66.1318969726562
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "Hato Rey",
+    "city": "Hato Rey",
+    "name": "Mora Development Corp Heliport",
+    "icao": "PR68",
+    "lat": 18.4153003692626,
+    "lon": -66.0757980346679
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "Humacao",
+    "city": "Humacao",
+    "name": "Squibb Heliport",
+    "icao": "PR04",
+    "lat": 18.1487998962402,
+    "lon": -65.7938003540039
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "Lajas",
+    "city": "Lajas",
+    "name": "Parguera Heliport",
+    "icao": "PR15",
+    "lat": 17.9750003814697,
+    "lon": -67.0444030761718
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Mayaguez",
+    "name": "Sabalos Ward Heliport",
+    "icao": "PR09",
+    "lat": 18.1760997772216,
+    "lon": -67.1466979980468
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Orocovis",
+    "name": "Orocovis Health Center Heliport",
+    "icao": "PR19",
+    "lat": 18.2266006469726,
+    "lon": -66.394302368164
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Puerto Nuevo",
+    "name": "Rexach Office Building Heliport",
+    "icao": "PR11",
+    "lat": 18.4151992797851,
+    "lon": -66.1268005371093
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "San German",
+    "city": "San German",
+    "name": "La Concepcion Hospital Heliport",
+    "icao": "28PR",
+    "lat": 18.1086997985839,
+    "lon": -67.0393981933593
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "San Juan",
+    "city": "San Juan",
+    "name": "Hato Rey Heliport",
+    "icao": "PR01",
+    "lat": 18.4192008972167,
+    "lon": -66.0567016601562
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "San Juan",
+    "city": "San Juan",
+    "name": "Insular Government Number Two Heliport",
+    "icao": "PR13",
+    "lat": 18.4174003601074,
+    "lon": -66.0776977539062
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "San Juan",
+    "city": "San Juan",
+    "name": "Prasa-Barbosa Heliport",
+    "icao": "PR17",
+    "lat": 18.4141006469726,
+    "lon": -66.0438003540039
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "San Juan",
+    "city": "San Juan",
+    "name": "Prtc Office Building Heliport",
+    "icao": "PR30",
+    "lat": 18.4111003875732,
+    "lon": -66.1016006469726
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "San Juan",
+    "city": "San Juan",
+    "name": "Empresas Diaz-Rio Pedras Heliport",
+    "icao": "PR42",
+    "lat": 18.395299911499,
+    "lon": -66.051399230957
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Guaynabo",
+    "name": "Caribbean Constr Main Office Heliport",
+    "icao": "2PR2",
+    "lat": 18.314792,
+    "lon": -66.093517
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "Rio Grande",
+    "name": "Emp. Coco Beach Golf Club LLC Heliport",
+    "icao": "14PR",
+    "lat": 18.407301,
+    "lon": -65.798751
+  },
+  {
+    "country": "Puerto Rico",
+    "state": "(unassigned)",
+    "city": "San Juan",
+    "name": "Puerto Heliport",
+    "icao": "PR99",
+    "lat": 18.395556,
+    "lon": -66.073611
+  }
+]

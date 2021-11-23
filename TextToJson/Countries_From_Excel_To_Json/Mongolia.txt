@@ -1,0 +1,137 @@
+[
+  {
+    "country": "Mongolia",
+    "state": "Ulanbaatar",
+    "city": "Ulan Bator",
+    "name": "Buyant-Ukhaa International Airport",
+    "icao": "ZMUB",
+    "lat": 47.843102,
+    "lon": 106.766998
+  },
+  {
+    "country": "Mongolia",
+    "state": "Ã–mnÃ¶govi",
+    "city": "Dalanzadgad",
+    "name": "Dalanzadgad Airport",
+    "icao": "ZMDZ",
+    "lat": 43.5917015075683,
+    "lon": 104.430000305175
+  },
+  {
+    "country": "Mongolia",
+    "state": "Bayan-Olgiy",
+    "city": "Bayan-Olgiy",
+    "name": "Ulgii Mongolei Airport",
+    "icao": "ZMUL",
+    "lat": 48.9933013916,
+    "lon": 89.9225006104
+  },
+  {
+    "country": "Mongolia",
+    "state": "Tov",
+    "city": "Ulaanbaatar",
+    "name": "Ulaanbaatar International Airport",
+    "icao": "ZMCK",
+    "lat": 47.646916,
+    "lon": 106.819833
+  },
+  {
+    "country": "Mongolia",
+    "state": "KhÃ¶vsgÃ¶l",
+    "city": "MÃ¶rÃ¶n",
+    "name": "MÃ¶rÃ¶n Airport",
+    "icao": "ZMMN",
+    "lat": 49.6632995605468,
+    "lon": 100.098999023437
+  },
+  {
+    "country": "Mongolia",
+    "state": "Govi-Altay",
+    "city": "Altai",
+    "name": "Altai Airport",
+    "icao": "ZMAT",
+    "lat": 46.3763999938964,
+    "lon": 96.2210998535156
+  },
+  {
+    "country": "Mongolia",
+    "state": "Ã–vÃ¶rkhangai",
+    "city": "Arvaikheer",
+    "name": "Arvaikheer Airport",
+    "icao": "ZMAH",
+    "lat": 46.2503013610839,
+    "lon": 102.802001953125
+  },
+  {
+    "country": "Mongolia",
+    "state": "Dornod",
+    "city": "Dornod",
+    "name": "Choibalsan Airport",
+    "icao": "ZMCD",
+    "lat": 48.13570022583,
+    "lon": 114.646003723144
+  },
+  {
+    "country": "Mongolia",
+    "state": "Dornogov,",
+    "city": "Dornogov,",
+    "name": "Sainshand Airport",
+    "icao": "ZMSH",
+    "lat": 44.9831008911132,
+    "lon": 110.166999816894
+  },
+  {
+    "country": "Mongolia",
+    "state": "Khovd",
+    "city": "Bulgan",
+    "name": "Bulgan Sum Airport",
+    "icao": "ZMBS",
+    "lat": 46.100601,
+    "lon": 91.584198
+  },
+  {
+    "country": "Mongolia",
+    "state": "Ã–vÃ¶rkhangai",
+    "city": "Khujirt",
+    "name": "Khujirt Airport",
+    "icao": "ZMHU",
+    "lat": 46.9258003235,
+    "lon": 102.773002625
+  },
+  {
+    "country": "Mongolia",
+    "state": "Dzavhan",
+    "city": "Uliastai",
+    "name": "Jibhalanta Airport",
+    "icao": "MN-ULZ",
+    "lat": 47.7146987915,
+    "lon": 96.8471984863
+  },
+  {
+    "country": "Mongolia",
+    "state": "Ã–mnÃ¶govi",
+    "city": "Umnugobitour",
+    "name": "Bulagtai Resort Airport",
+    "icao": "ZMBR",
+    "lat": 43.749304182,
+    "lon": 104.114985466
+  },
+  {
+    "country": "Mongolia",
+    "state": "Dornod",
+    "city": "Dornod",
+    "name": "Gurzandzagal East Airport",
+    "icao": "MN-0001",
+    "lat": 49.194129,
+    "lon": 115.336039
+  },
+  {
+    "country": "Mongolia",
+    "state": "KhÃ¶vsgÃ¶l",
+    "city": "Hatgal",
+    "name": "Khatgal Airport",
+    "icao": "HTM",
+    "lat": 50.435988,
+    "lon": 100.139532
+  }
+]

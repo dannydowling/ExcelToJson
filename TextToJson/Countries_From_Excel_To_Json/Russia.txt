@@ -1,0 +1,4961 @@
+[
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow",
+    "name": "Sheremetyevo International Airport",
+    "icao": "UUEE",
+    "lat": 55.972599,
+    "lon": 37.4146
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "St. Petersburg",
+    "name": "Pulkovo Airport",
+    "icao": "ULLI",
+    "lat": 59.8003005981445,
+    "lon": 30.2625007629394
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Sochi",
+    "name": "Sochi International Airport",
+    "icao": "URSS",
+    "lat": 43.449902,
+    "lon": 39.9566
+  },
+  {
+    "country": "Russia",
+    "state": "Sverdlovsk Oblast",
+    "city": "Yekaterinburg",
+    "name": "Koltsovo Airport",
+    "icao": "USSS",
+    "lat": 56.743099212646,
+    "lon": 60.802700042725
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Khabarovsk",
+    "name": "Khabarovsk-Novy Airport",
+    "icao": "UHHH",
+    "lat": 48.52799987793,
+    "lon": 135.18800354004
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Irkutsk",
+    "name": "Irkutsk Airport",
+    "icao": "UIII",
+    "lat": 52.268001556396,
+    "lon": 104.38899993896
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Rostov-on-Don",
+    "name": "Rostov-on-Don Airport",
+    "icao": "URRR",
+    "lat": 47.258203,
+    "lon": 39.8181
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Anadyr",
+    "name": "Ugolny Airport",
+    "icao": "UHMA",
+    "lat": 64.734902,
+    "lon": 177.740997
+  },
+  {
+    "country": "Russia",
+    "state": "Voronezh Oblast",
+    "city": "Voronezh",
+    "name": "Voronezh International Airport",
+    "icao": "UUOO",
+    "lat": 51.8142013549804,
+    "lon": 39.2295989990234
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Yuzhno-Sakhalinsk",
+    "name": "Yuzhno-Sakhalinsk Airport",
+    "icao": "UHSS",
+    "lat": 46.8886985778808,
+    "lon": 142.718002319335
+  },
+  {
+    "country": "Russia",
+    "state": "Tomsk Oblast",
+    "city": "Tomsk",
+    "name": "Bogashevo Airport",
+    "icao": "UNTT",
+    "lat": 56.380298614502,
+    "lon": 85.208297729492
+  },
+  {
+    "country": "Russia",
+    "state": "Astrakhan Oblast",
+    "city": "Astrakhan",
+    "name": "Astrakhan Airport",
+    "icao": "URWA",
+    "lat": 46.2832984924,
+    "lon": 48.0063018799
+  },
+  {
+    "country": "Russia",
+    "state": "Stavropol Krai",
+    "city": "Mineralnyye Vody",
+    "name": "Mineralnyye Vody Airport",
+    "icao": "URMM",
+    "lat": 44.2251014709472,
+    "lon": 43.0819015502929
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Murmansk",
+    "name": "Murmansk Airport",
+    "icao": "ULMM",
+    "lat": 68.7817001342773,
+    "lon": 32.7508010864257
+  },
+  {
+    "country": "Russia",
+    "state": "Tyumen Oblast",
+    "city": "Tyumen",
+    "name": "Roshchino International Airport",
+    "icao": "USTR",
+    "lat": 57.1896018981999,
+    "lon": 65.3243026733
+  },
+  {
+    "country": "Russia",
+    "state": "Orenburg Oblast",
+    "city": "Orenburg",
+    "name": "Orenburg Central Airport",
+    "icao": "UWOO",
+    "lat": 51.795799255371,
+    "lon": 55.4566993713378
+  },
+  {
+    "country": "Russia",
+    "state": "Volgograd Oblast",
+    "city": "Volgograd",
+    "name": "Volgograd International Airport",
+    "icao": "URWW",
+    "lat": 48.7825012207031,
+    "lon": 44.3455009460449
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow",
+    "name": "Chkalovskiy Air Base",
+    "icao": "UUMU",
+    "lat": 55.8783,
+    "lon": 38.061699
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow",
+    "name": "Ostafyevo International Airport",
+    "icao": "UUMO",
+    "lat": 55.511667,
+    "lon": 37.507222
+  },
+  {
+    "country": "Russia",
+    "state": "Orenburg Oblast",
+    "city": "Orsk",
+    "name": "Orsk Airport",
+    "icao": "UWOR",
+    "lat": 51.0724983215332,
+    "lon": 58.5956001281738
+  },
+  {
+    "country": "Russia",
+    "state": "Komi Republic",
+    "city": "Usinsk",
+    "name": "Usinsk Airport",
+    "icao": "UUYS",
+    "lat": 66.0046997070312,
+    "lon": 57.3671989440918
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Tatarstan",
+    "city": "Nizhnekamsk",
+    "name": "Begishevo Airport",
+    "icao": "UWKE",
+    "lat": 55.5647010803222,
+    "lon": 52.0924987792968
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Tver",
+    "name": "Migalovo Air Base",
+    "icao": "UUEM",
+    "lat": 56.8246994018554,
+    "lon": 35.7577018737793
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Khakassia",
+    "city": "Abakan",
+    "name": "Abakan Airport",
+    "icao": "UNAA",
+    "lat": 53.7400016784668,
+    "lon": 91.3850021362304
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Anapa",
+    "name": "Anapa Vityazevo Airport",
+    "icao": "URKA",
+    "lat": 45.002101898193,
+    "lon": 37.347301483154
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Chita",
+    "name": "Chita-Kadala Airport",
+    "icao": "UIAA",
+    "lat": 52.026299,
+    "lon": 113.306
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Norilsk",
+    "name": "Norilsk-Alykel Airport",
+    "icao": "UOOO",
+    "lat": 69.3110961914062,
+    "lon": 87.3321990966796
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Bashkortostan",
+    "city": "Magnitogorsk",
+    "name": "Magnitogorsk International Airport",
+    "icao": "USCM",
+    "lat": 53.3931007385253,
+    "lon": 58.7556991577148
+  },
+  {
+    "country": "Russia",
+    "state": "Yamalo-Nenets Autonomous Okrug",
+    "city": "Nadym",
+    "name": "Nadym Airport",
+    "icao": "USMM",
+    "lat": 65.4809036254882,
+    "lon": 72.6988983154296
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Cherskiy",
+    "name": "Cherskiy Airport",
+    "icao": "UESS",
+    "lat": 68.7406005859375,
+    "lon": 161.337997436523
+  },
+  {
+    "country": "Russia",
+    "state": "Yamalo-Nenets Autonomous Okrug",
+    "city": "Novy Urengoy",
+    "name": "Novy Urengoy Airport",
+    "icao": "USMU",
+    "lat": 66.0693969726562,
+    "lon": 76.5203018188476
+  },
+  {
+    "country": "Russia",
+    "state": "Komi Republic",
+    "city": "Ukhta",
+    "name": "Ukhta Airport",
+    "icao": "UUYH",
+    "lat": 63.5668983459472,
+    "lon": 53.8046989440918
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Olyokminsk",
+    "name": "Olyokminsk Airport",
+    "icao": "UEMO",
+    "lat": 60.397499,
+    "lon": 120.471001
+  },
+  {
+    "country": "Russia",
+    "state": "Khanty-Mansi Autonomous Okrug",
+    "city": "Sovetskiy",
+    "name": "Sovetskiy Airport",
+    "icao": "USHS",
+    "lat": 61.3266220092773,
+    "lon": 63.6019134521484
+  },
+  {
+    "country": "Russia",
+    "state": "Ulyanovsk Oblast",
+    "city": "Ulyanovsk",
+    "name": "Ulyanovsk Baratayevka Airport",
+    "icao": "UWLL",
+    "lat": 54.2682991027999,
+    "lon": 48.2266998291
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Iturup Island",
+    "name": "Burevestnik Airport",
+    "icao": "UHSB",
+    "lat": 44.919998,
+    "lon": 147.621994
+  },
+  {
+    "country": "Russia",
+    "state": "Magadan Oblast",
+    "city": "Evensk",
+    "name": "Severo-Evensk Airport",
+    "icao": "UHMW",
+    "lat": 61.9216651916503,
+    "lon": 159.229995727539
+  },
+  {
+    "country": "Russia",
+    "state": "Saratov Oblast",
+    "city": "Saratov",
+    "name": "Engels Air Base",
+    "icao": "RU-8602",
+    "lat": 51.4804992675781,
+    "lon": 46.2150001525878
+  },
+  {
+    "country": "Russia",
+    "state": "Komi Republic",
+    "city": "Syktyvkar",
+    "name": "Syktyvkar Southwest",
+    "icao": "RU-0040",
+    "lat": 61.5866661071777,
+    "lon": 50.5200004577636
+  },
+  {
+    "country": "Russia",
+    "state": "Tambov Oblast",
+    "city": "Tambov",
+    "name": "Tambov Air Base",
+    "icao": "RU-4339",
+    "lat": 52.700626373291,
+    "lon": 41.374168395996
+  },
+  {
+    "country": "Russia",
+    "state": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk Oblast",
+    "name": "Chelyabinsk Shagol Airport",
+    "icao": "USCG",
+    "lat": 55.2599983215332,
+    "lon": 61.2999992370605
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Ayan",
+    "name": "Munuk Airport",
+    "icao": "UHNA",
+    "lat": 56.4321,
+    "lon": 138.0449
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Batagay",
+    "name": "Batagay Airport",
+    "icao": "UEBB",
+    "lat": 67.648002624512,
+    "lon": 134.69500732422
+  },
+  {
+    "country": "Russia",
+    "state": "Amur Oblast",
+    "city": "Ekimchan",
+    "name": "Ekimchan Airport",
+    "icao": "UHBP",
+    "lat": 53.0760993957519,
+    "lon": 132.95100402832
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Kunashir Island",
+    "name": "Mendeleyevo Airport",
+    "icao": "UHSM",
+    "lat": 43.9584007263,
+    "lon": 145.682998657
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow",
+    "name": "Monino Airfield",
+    "icao": "RU-0375",
+    "lat": 55.8367004394531,
+    "lon": 38.1699981689453
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Nyurba",
+    "name": "Nyurba Airport",
+    "icao": "UENN",
+    "lat": 63.294998,
+    "lon": 118.336998
+  },
+  {
+    "country": "Russia",
+    "state": "Saratov Oblast",
+    "city": "Rtishchevo",
+    "name": "Rtishchevo Air Base",
+    "icao": "XWPR",
+    "lat": 52.297317,
+    "lon": 43.7241
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Ust-Pakhachi",
+    "name": "Ust-Pakhachi Airport",
+    "icao": "UHPA",
+    "lat": 60.5567016601562,
+    "lon": 169.110000610351
+  },
+  {
+    "country": "Russia",
+    "state": "Khanty-Mansi Autonomous Okrug",
+    "city": "Khanty-Mansi Autonomous Okrug",
+    "name": "Beloyarskiy Airport",
+    "icao": "USHY",
+    "lat": 63.686901,
+    "lon": 66.698601
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Chumikan",
+    "name": "Chumikan Airport",
+    "icao": "UHHY",
+    "lat": 54.6959991455078,
+    "lon": 135.285995483398
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Markovo",
+    "name": "Markovo Airport",
+    "icao": "UHMO",
+    "lat": 64.667,
+    "lon": 170.417007
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "Saint Petersburg",
+    "name": "Petropavlovskaya Krepost Helipad",
+    "icao": "RU-0151",
+    "lat": 59.9514835454,
+    "lon": 30.3137147427
+  },
+  {
+    "country": "Russia",
+    "state": "Kemerovo Oblast",
+    "city": "Kemerovo",
+    "name": "Kemerovo Airport",
+    "icao": "UNEE",
+    "lat": 55.2700996398925,
+    "lon": 86.1072006225586
+  },
+  {
+    "country": "Russia",
+    "state": "Kabardino-Balkar Republic",
+    "city": "Nalchik",
+    "name": "Nalchik Airport",
+    "icao": "URMN",
+    "lat": 43.5129013061523,
+    "lon": 43.6366004943847
+  },
+  {
+    "country": "Russia",
+    "state": "Stavropol Krai",
+    "city": "Stavropol",
+    "name": "Stavropol Shpakovskoye Airport",
+    "icao": "URMT",
+    "lat": 45.1091995239257,
+    "lon": 42.1128005981445
+  },
+  {
+    "country": "Russia",
+    "state": "Amur Oblast",
+    "city": "Belogorsk",
+    "name": "Ukrainka Air Base",
+    "icao": "RU-2244",
+    "lat": 51.169997,
+    "lon": 128.445007
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow",
+    "name": "Zhukovsky International Airport",
+    "icao": "UUBW",
+    "lat": 55.553299,
+    "lon": 38.150002
+  },
+  {
+    "country": "Russia",
+    "state": "Belgorod Oblast",
+    "city": "Belgorod",
+    "name": "Belgorod International Airport",
+    "icao": "UUOB",
+    "lat": 50.643798828125,
+    "lon": 36.5900993347168
+  },
+  {
+    "country": "Russia",
+    "state": "Chuvash Republic",
+    "city": "Cheboksary",
+    "name": "Cheboksary Airport",
+    "icao": "UWKS",
+    "lat": 56.0903015136718,
+    "lon": 47.3473014831543
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Khatanga",
+    "name": "Khatanga Airport",
+    "icao": "UOHH",
+    "lat": 71.9781036376953,
+    "lon": 102.490997314453
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Petrozavodsk",
+    "name": "Petrozavodsk Airport",
+    "icao": "ULPB",
+    "lat": 61.8852005004882,
+    "lon": 34.1547012329101
+  },
+  {
+    "country": "Russia",
+    "state": "Kurgan Oblast",
+    "city": "Kurgan",
+    "name": "Kurgan Airport",
+    "icao": "USUU",
+    "lat": 55.475299835205,
+    "lon": 65.4156036376953
+  },
+  {
+    "country": "Russia",
+    "state": "Tuva Republic",
+    "city": "Kyzyl",
+    "name": "Kyzyl Airport",
+    "icao": "UNKY",
+    "lat": 51.6693992614746,
+    "lon": 94.4005966186523
+  },
+  {
+    "country": "Russia",
+    "state": "Kemerovo Oblast",
+    "city": "Novokuznetsk",
+    "name": "Spichenkovo Airport",
+    "icao": "UNWW",
+    "lat": 53.811401,
+    "lon": 86.877197
+  },
+  {
+    "country": "Russia",
+    "state": "Khanty-Mansi Autonomous Okrug",
+    "city": "Uray",
+    "name": "Uray Airport",
+    "icao": "USHU",
+    "lat": 60.1032981872558,
+    "lon": 64.8266983032226
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Yeniseysk",
+    "name": "Yeniseysk Airport",
+    "icao": "UNII",
+    "lat": 58.4742012023925,
+    "lon": 92.1125030517578
+  },
+  {
+    "country": "Russia",
+    "state": "Magadan Oblast",
+    "city": "Chaybukha",
+    "name": "Chaybukha Airport",
+    "icao": "UHMG",
+    "lat": 61.8349990844726,
+    "lon": 160.54800415039
+  },
+  {
+    "country": "Russia",
+    "state": "Chechen Republic",
+    "city": "Grozny",
+    "name": "Khankala Air Base",
+    "icao": "URMG",
+    "lat": 43.2980995178222,
+    "lon": 45.7840995788574
+  },
+  {
+    "country": "Russia",
+    "state": "Kirov Oblast",
+    "city": "Kirov",
+    "name": "Pobedilovo Airport",
+    "icao": "USKK",
+    "lat": 58.503299713135,
+    "lon": 49.348300933838
+  },
+  {
+    "country": "Russia",
+    "state": "Khanty-Mansi Autonomous Okrug",
+    "city": "Nyagan",
+    "name": "Nyagan Airport",
+    "icao": "USHN",
+    "lat": 62.110001,
+    "lon": 65.614998
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Mordovia",
+    "city": "Saransk",
+    "name": "Saransk Airport",
+    "icao": "UWPS",
+    "lat": 54.125129699707,
+    "lon": 45.2122573852539
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Severo-Eniseysk",
+    "name": "Severo-Eniseysk Airport",
+    "icao": "UNIS",
+    "lat": 60.3732986450195,
+    "lon": 93.0117034912109
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Vanavara",
+    "name": "Vanavara Airport",
+    "icao": "UNIW",
+    "lat": 60.3596992492675,
+    "lon": 102.323997497558
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Zyryanka",
+    "name": "Zyryanka Airport",
+    "icao": "UESU",
+    "lat": 65.7485,
+    "lon": 150.8889
+  },
+  {
+    "country": "Russia",
+    "state": "Altai Krai",
+    "city": "Biysk",
+    "name": "Biysk Airport",
+    "icao": "UNBI",
+    "lat": 52.4799995422363,
+    "lon": 85.3399963378906
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Achinsk",
+    "name": "Achinsk Airport",
+    "icao": "UNKS",
+    "lat": 56.2682991027832,
+    "lon": 90.57080078125
+  },
+  {
+    "country": "Russia",
+    "state": "Saratov Oblast",
+    "city": "Balashov",
+    "name": "Balashov Air Base",
+    "icao": "RU-0010",
+    "lat": 51.5332984924316,
+    "lon": 43.2999992370605
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Baykit",
+    "name": "Baykit Airport",
+    "icao": "UNIB",
+    "lat": 61.676700592041,
+    "lon": 96.3550033569336
+  },
+  {
+    "country": "Russia",
+    "state": "Nenets Autonomous Okrug",
+    "city": "Belaya",
+    "name": "Rogachyovo Air Base",
+    "icao": "RU-4536",
+    "lat": 71.6166992188,
+    "lon": 52.4782981873
+  },
+  {
+    "country": "Russia",
+    "state": "Voronezh Oblast",
+    "city": "Borisoglebsk",
+    "name": "Borisoglebsk Air Base",
+    "icao": "RU-0014",
+    "lat": 51.366699,
+    "lon": 42.178299
+  },
+  {
+    "country": "Russia",
+    "state": "Kaliningrad Oblast",
+    "city": "Chernyakhovsk",
+    "name": "Chernyakhovsk Naval Air Base",
+    "icao": "RU-0060",
+    "lat": 54.6016654968261,
+    "lon": 21.7816677093505
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Chita",
+    "name": "Cheryomushki Air Base",
+    "icao": "RU-4827",
+    "lat": 52.0699996948242,
+    "lon": 113.430000305175
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Dikson",
+    "name": "Dikson Airport",
+    "icao": "UODD",
+    "lat": 73.5178070068359,
+    "lon": 80.3796691894531
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Dudinka",
+    "name": "Dudinka Airport",
+    "icao": "UROD",
+    "lat": 69.375,
+    "lon": 86.1566696166992
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Buryat",
+    "city": "Dzhida",
+    "name": "Dzhida Air Base",
+    "icao": "RU-2844",
+    "lat": 50.6774251062,
+    "lon": 106.138572693
+  },
+  {
+    "country": "Russia",
+    "state": "Altai Republic",
+    "city": "Gorno-Altaysk",
+    "name": "Gorno-Altaysk Airport",
+    "icao": "UNBG",
+    "lat": 51.9667015076,
+    "lon": 85.8332977295
+  },
+  {
+    "country": "Russia",
+    "state": "Komi Republic",
+    "city": "Inta",
+    "name": "Inta Airport",
+    "icao": "UUYI",
+    "lat": 66.0548324584961,
+    "lon": 60.1103210449218
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Irkutsk",
+    "name": "Irkutsk Northwest Airport",
+    "icao": "RU-0036",
+    "lat": 52.3683013916015,
+    "lon": 104.182998657226
+  },
+  {
+    "country": "Russia",
+    "state": "Sverdlovsk Oblast",
+    "city": "Kamensk Uralskiy",
+    "name": "Kamensk-Uralskiy Air Base",
+    "icao": "RU-1071",
+    "lat": 56.4366989136,
+    "lon": 61.9866981506
+  },
+  {
+    "country": "Russia",
+    "state": "Volgograd Oblast",
+    "city": "Kamyshin",
+    "name": "Lebyazhye Air Base",
+    "icao": "XRWL",
+    "lat": 50.2016983032,
+    "lon": 45.2083015442
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Kansk",
+    "name": "Kansk Air Base",
+    "icao": "RU-3880",
+    "lat": 56.123298645,
+    "lon": 95.6632995605
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Khonuu",
+    "name": "Moma Airport",
+    "icao": "UEMA",
+    "lat": 66.450861,
+    "lon": 143.261551
+  },
+  {
+    "country": "Russia",
+    "state": "Vologda Oblast",
+    "city": "Kipelovo",
+    "name": "Fedotovo Naval Air Base",
+    "icao": "XLWF",
+    "lat": 59.193031,
+    "lon": 39.129411
+  },
+  {
+    "country": "Russia",
+    "state": "Kaluga Oblast",
+    "city": "Kirov",
+    "name": "Shaykovka Air Base",
+    "icao": "RU-9942",
+    "lat": 54.2266998291015,
+    "lon": 34.3717002868652
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Krasnokamensk",
+    "name": "Krasnokamensk Airport",
+    "icao": "UIAE",
+    "lat": 50.0331077575683,
+    "lon": 118.061141967773
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Kubinka",
+    "name": "Kubinka Air Base",
+    "icao": "RU-0764",
+    "lat": 55.611695,
+    "lon": 36.650002
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Kyzyl-Syr",
+    "name": "Kyzyl-Syr Airport",
+    "icao": "UENK",
+    "lat": 63.8849983215332,
+    "lon": 122.777000427246
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Lukhovitsy",
+    "name": "Tretyakovo Airport",
+    "icao": "UUMT",
+    "lat": 54.9049987792999,
+    "lon": 39.0266685485999
+  },
+  {
+    "country": "Russia",
+    "state": "Tambov Oblast",
+    "city": "Michurinsk",
+    "name": "Michurinsk Air Base",
+    "icao": "RU-6687",
+    "lat": 52.9183006286621,
+    "lon": 40.3650016784668
+  },
+  {
+    "country": "Russia",
+    "state": "Pskov Oblast",
+    "city": "Ostrov",
+    "name": "Ostrov Naval Air Base",
+    "icao": "RU-0064",
+    "lat": 57.299999,
+    "lon": 28.4333
+  },
+  {
+    "country": "Russia",
+    "state": "Komi Republic",
+    "city": "Pechora",
+    "name": "Beryozovka Air Base",
+    "icao": "RU-8964",
+    "lat": 65.0550003052,
+    "lon": 56.6733016967999
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Rzhev",
+    "name": "Rzhev Air Base",
+    "icao": "RU-9937",
+    "lat": 56.2599983215332,
+    "lon": 34.4082984924316
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Mordovia",
+    "city": "Saransk",
+    "name": "Lyambir Air Base",
+    "icao": "RU-6558",
+    "lat": 54.2849998474121,
+    "lon": 45.1683006286621
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Severomorsk",
+    "name": "Severomorsk-1 Naval Air Base",
+    "icao": "ULAK",
+    "lat": 69.0316696166992,
+    "lon": 33.4183311462402
+  },
+  {
+    "country": "Russia",
+    "state": "Magadan Oblast",
+    "city": "Seymchan",
+    "name": "Seymchan Airport",
+    "icao": "UHMS",
+    "lat": 62.9207801818847,
+    "lon": 152.422775268554
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Sharypovo",
+    "name": "Sharypovo Airport",
+    "icao": "UNKO",
+    "lat": 55.454914093,
+    "lon": 89.1738815308
+  },
+  {
+    "country": "Russia",
+    "state": "Novgorod Oblast",
+    "city": "Soltsy",
+    "name": "Soltsy-2 Air Base",
+    "icao": "XLLL",
+    "lat": 58.139545,
+    "lon": 30.33042
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "St. Petersburg",
+    "name": "Pushkin Airport",
+    "icao": "ULLP",
+    "lat": 59.685001,
+    "lon": 30.338301
+  },
+  {
+    "country": "Russia",
+    "state": "Novgorod Oblast",
+    "city": "Staraya Russa",
+    "name": "Staraya Russa Air Base",
+    "icao": "ULNR",
+    "lat": 57.961399,
+    "lon": 31.384399
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Bashkortostan",
+    "city": "Ufa",
+    "name": "Maksimovka Airport",
+    "icao": "UWUM",
+    "lat": 54.8300018310546,
+    "lon": 56.1683006286621
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Buryat",
+    "city": "Ulan Ude",
+    "name": "Ulan-Ude East Airport",
+    "icao": "RU-6560",
+    "lat": 51.849998474121,
+    "lon": 107.737998962402
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Umba",
+    "name": "Taly Ruchey Air Base",
+    "icao": "RU-0041",
+    "lat": 66.889999,
+    "lon": 33.883301
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Ust-Kut",
+    "name": "Ust-Kut Airport",
+    "icao": "UITT",
+    "lat": 56.8567008972168,
+    "lon": 105.730003356933
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Valek",
+    "name": "Valek Airport",
+    "icao": "UOOW",
+    "lat": 69.3969039916992,
+    "lon": 88.3536834716796
+  },
+  {
+    "country": "Russia",
+    "state": "Pskov Oblast",
+    "city": "Velikiye Luki",
+    "name": "Velikiye Luki Airport",
+    "icao": "ULOL",
+    "lat": 56.3810997009277,
+    "lon": 30.6081008911132
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Vilyuisk",
+    "name": "Vilyuisk Airport",
+    "icao": "UENW",
+    "lat": 63.75666809082,
+    "lon": 121.69333648682
+  },
+  {
+    "country": "Russia",
+    "state": "Komi Republic",
+    "city": "Vorkuta",
+    "name": "Vorkuta Sovetskiy Air Base",
+    "icao": "RU-9129",
+    "lat": 67.4633026123046,
+    "lon": 64.3067016601562
+  },
+  {
+    "country": "Russia",
+    "state": "Kaluga Oblast",
+    "city": "Vorotynsk",
+    "name": "Vorotynsk Air Base",
+    "icao": "RU-3686",
+    "lat": 54.4682998657,
+    "lon": 36.073299408
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Yasnogorsk",
+    "name": "Step Air Base",
+    "icao": "RU-7576",
+    "lat": 51.0167007446289,
+    "lon": 115.432998657226
+  },
+  {
+    "country": "Russia",
+    "state": "Sverdlovsk Oblast",
+    "city": "Yekaterinburg",
+    "name": "Uktus Airport",
+    "icao": "USSK",
+    "lat": 56.7016983032226,
+    "lon": 60.7900009155273
+  },
+  {
+    "country": "Russia",
+    "state": "Khanty-Mansi Autonomous Okrug",
+    "city": "Yugorsk",
+    "name": "Yugorsk Sovetsky Air Base",
+    "icao": "RU-7911",
+    "lat": 61.2682991027832,
+    "lon": 63.1383018493652
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Zheleznogorsk-Ilimsky",
+    "name": "Zheleznogorsk Airport",
+    "icao": "UIBV",
+    "lat": 56.4877014160156,
+    "lon": 104.106002807617
+  },
+  {
+    "country": "Russia",
+    "state": "Yaroslavl Oblast",
+    "city": "Yaroslavl Oblast",
+    "name": "Tunoshna Airport",
+    "icao": "UUDL",
+    "lat": 57.5606994628906,
+    "lon": 40.1573982238769
+  },
+  {
+    "country": "Russia",
+    "state": "Ryazan Oblast",
+    "city": "Ryazan Oblast",
+    "name": "Alexandrovo Air Base",
+    "icao": "RU-0003",
+    "lat": 54.4933013916,
+    "lon": 39.9317016602
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk Krai",
+    "name": "Tyukhtet North",
+    "icao": "RU-0030",
+    "lat": 56.5620994567871,
+    "lon": 89.3290023803711
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Boguchany",
+    "name": "Boguchany Airport",
+    "icao": "UNKB",
+    "lat": 58.380615234375,
+    "lon": 97.4723358154296
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Chara",
+    "name": "Chara Airport",
+    "icao": "UIAR",
+    "lat": 56.9133338928222,
+    "lon": 118.269996643066
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Tatarstan",
+    "city": "Chistopol",
+    "name": "Chistopol Airport",
+    "icao": "UWKI",
+    "lat": 55.3057975769043,
+    "lon": 50.6159858703613
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Elban",
+    "name": "Mengon Air Base",
+    "icao": "RU-6088",
+    "lat": 50.0332984924316,
+    "lon": 136.300003051757
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Erbogachen",
+    "name": "Yerbogachen Airport",
+    "icao": "UIKE",
+    "lat": 61.2750015259,
+    "lon": 108.029998779
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Iul'tin",
+    "name": "Iultin Airport",
+    "icao": "RU-0053",
+    "lat": 67.9114990234375,
+    "lon": -178.671997070312
+  },
+  {
+    "country": "Russia",
+    "state": "Kaliningrad Oblast",
+    "city": "Kaliningrad",
+    "name": "Kaliningrad Devau Airport",
+    "icao": "RU-0037",
+    "lat": 54.7251281738281,
+    "lon": 20.5738945007324
+  },
+  {
+    "country": "Russia",
+    "state": "Kaluga Oblast",
+    "city": "Kaluga",
+    "name": "Medyn-Aduyevo Air Base",
+    "icao": "RU-9561",
+    "lat": 55.0032997131347,
+    "lon": 35.9949989318847
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Khatanga",
+    "name": "Greem Bell Air Base",
+    "icao": "RU-2510",
+    "lat": 81.15,
+    "lon": 64.33
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Kimry",
+    "name": "Kimry Airfield",
+    "icao": "UUEI",
+    "lat": 56.798302,
+    "lon": 37.330002
+  },
+  {
+    "country": "Russia",
+    "state": "Ivanovo Oblast",
+    "city": "Kinesma",
+    "name": "Reshma Air Base",
+    "icao": "RU-2504",
+    "lat": 57.426700592041,
+    "lon": 42.4300003051757
+  },
+  {
+    "country": "Russia",
+    "state": "Tambov Oblast",
+    "city": "Kirsanov",
+    "name": "Kirsanov Air Base",
+    "icao": "RU-9990",
+    "lat": 52.6666984558105,
+    "lon": 42.6833000183105
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Klin",
+    "name": "Klin Air Base",
+    "icao": "RU-5186",
+    "lat": 56.36669921875,
+    "lon": 36.7383003234863
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Klyuchi",
+    "name": "Klyuchi Air Base",
+    "icao": "RU-4936",
+    "lat": 56.310001373291,
+    "lon": 160.804992675781
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Kotlas",
+    "name": "Savvatiya Air Base",
+    "icao": "ULKS",
+    "lat": 60.9949989318847,
+    "lon": 46.8699989318847
+  },
+  {
+    "country": "Russia",
+    "state": "Perm Krai",
+    "city": "Krasnovishersk",
+    "name": "Krasnovishersk Airport",
+    "icao": "RU-0044",
+    "lat": 60.4106330871582,
+    "lon": 57.136116027832
+  },
+  {
+    "country": "Russia",
+    "state": "Kurgan Oblast",
+    "city": "Kurgan",
+    "name": "Logovushka Airfield",
+    "icao": "RU-2070",
+    "lat": 55.4109992980957,
+    "lon": 64.943000793457
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Buryat",
+    "city": "Kyren",
+    "name": "Kyren Airport",
+    "icao": "RU-0054",
+    "lat": 51.6780891418457,
+    "lon": 102.156547546386
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Leonidovo",
+    "name": "Leonidovo Air Base",
+    "icao": "RU-0081",
+    "lat": 49.2733001708984,
+    "lon": 142.927993774414
+  },
+  {
+    "country": "Russia",
+    "state": "Amur Oblast",
+    "city": "Magdagachi",
+    "name": "Magdagachi Airport",
+    "icao": "UHBI",
+    "lat": 53.473301,
+    "lon": 125.794998
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Mezen",
+    "name": "Mezen Airport",
+    "icao": "ULAE",
+    "lat": 65.8783340454101,
+    "lon": 44.2150001525878
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Milkovo",
+    "name": "Milkovo Airport",
+    "icao": "UHPM",
+    "lat": 54.6805801391601,
+    "lon": 158.548507690429
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Mirnaya",
+    "name": "Bezrechnaya-2 Air Base",
+    "icao": "RU-0013",
+    "lat": 50.75,
+    "lon": 116.217002868652
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Monchegorsk",
+    "name": "Monchegorsk Air Base",
+    "icao": "RU-1110",
+    "lat": 67.9867019653,
+    "lon": 33.0182991028
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Moscow",
+    "name": "Tushino Airport",
+    "icao": "UUUS",
+    "lat": 55.818333,
+    "lon": 37.426666
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Mys Shmidta",
+    "name": "Mys Shmidta Airport",
+    "icao": "UHMI",
+    "lat": 68.8683013916015,
+    "lon": -179.373001098632
+  },
+  {
+    "country": "Russia",
+    "state": "Vologda Oblast",
+    "city": "Nikolsk",
+    "name": "Nikolsk Airport",
+    "icao": "RU-0051",
+    "lat": 59.4966659545898,
+    "lon": 45.5183334350585
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Buryat",
+    "city": "Nizhneangarsk",
+    "name": "Nizhneangarsk Airport",
+    "icao": "UIUN",
+    "lat": 55.8008003234863,
+    "lon": 109.595001220703
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Nizhneyansk",
+    "name": "Nizhneyansk Airport",
+    "icao": "UEBN",
+    "lat": 71.4369964599609,
+    "lon": 136.190002441406
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Novaya-Sakhalin Island",
+    "name": "Novaya Airport",
+    "icao": "RU-0026",
+    "lat": 46.7098007202148,
+    "lon": 142.869995117187
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Obozerskiy",
+    "name": "Letneozerskiy Air Base",
+    "icao": "RU-3693",
+    "lat": 63.3899993896484,
+    "lon": 40.3983001708984
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Okha",
+    "name": "Okha Airport",
+    "icao": "UHSH",
+    "lat": 53.5200004578,
+    "lon": 142.88999939
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Olovyannaya",
+    "name": "Karaksar Air Base",
+    "icao": "RU-4972",
+    "lat": 51.2832984924316,
+    "lon": 115.849998474121
+  },
+  {
+    "country": "Russia",
+    "state": "Orenburg Oblast",
+    "city": "Orenburg",
+    "name": "Orenburg Air Base",
+    "icao": "RU-6542",
+    "lat": 51.709056854248,
+    "lon": 55.0200462341308
+  },
+  {
+    "country": "Russia",
+    "state": "Orenburg Oblast",
+    "city": "Orsk",
+    "name": "Severny Air Base",
+    "icao": "RU-3869",
+    "lat": 51.0666999816894,
+    "lon": 61.483299255371
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Ostrov Bolshevik",
+    "name": "Ostrov Bolshevik Air Base",
+    "icao": "RU-9754",
+    "lat": 78.5849990844726,
+    "lon": 100.995002746582
+  },
+  {
+    "country": "Russia",
+    "state": "Ryazan Oblast",
+    "city": "Ryazan",
+    "name": "Turlatovo Airport",
+    "icao": "UUWR",
+    "lat": 54.5559005737304,
+    "lon": 39.8552017211914
+  },
+  {
+    "country": "Russia",
+    "state": "Saratov Oblast",
+    "city": "Saratov",
+    "name": "Saratov South Airport",
+    "icao": "RU-0045",
+    "lat": 51.4778022766113,
+    "lon": 45.9425926208496
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Shakhtersk",
+    "name": "Shakhtyorsk Airport",
+    "icao": "UHSK",
+    "lat": 49.1903,
+    "lon": 142.082993
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Sherlovaya Gora",
+    "name": "Khada Bulak Air Base",
+    "icao": "RU-6553",
+    "lat": 50.599998474121,
+    "lon": 116.383003234863
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Snezhnogorsk",
+    "name": "Snezhnogorsk Airport",
+    "icao": "UOIC",
+    "lat": 68.0766677856445,
+    "lon": 87.6449966430664
+  },
+  {
+    "country": "Russia",
+    "state": "Belgorod Oblast",
+    "city": "Stary Oskol",
+    "name": "Stary Oskol Airfield",
+    "icao": "UUOS",
+    "lat": 51.329216,
+    "lon": 37.768848
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Suntar",
+    "name": "Suntar Airport",
+    "icao": "UENS",
+    "lat": 62.185001373291,
+    "lon": 117.63500213623
+  },
+  {
+    "country": "Russia",
+    "state": "Vologda Oblast",
+    "city": "Tarnogskiy Gorodok",
+    "name": "Tarnogskiy Gorodok Airport",
+    "icao": "RU-0057",
+    "lat": 60.5032997131347,
+    "lon": 43.6016998291015
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Tasayevo",
+    "name": "Tasayevo Airport",
+    "icao": "RU-0058",
+    "lat": 57.1749992370605,
+    "lon": 94.8899993896484
+  },
+  {
+    "country": "Russia",
+    "state": "Yamalo-Nenets Autonomous Okrug",
+    "city": "Tazovskiy",
+    "name": "Tazovskiy Airport",
+    "icao": "USDT",
+    "lat": 67.4841995239257,
+    "lon": 78.6444015502929
+  },
+  {
+    "country": "Russia",
+    "state": "Orenburg Oblast",
+    "city": "Totskoye",
+    "name": "Totskoye Air Base",
+    "icao": "RU-8604",
+    "lat": 52.501701355,
+    "lon": 52.7799987792999
+  },
+  {
+    "country": "Russia",
+    "state": "Tula Oblast",
+    "city": "Tula",
+    "name": "Klokovo Airfield",
+    "icao": "UUWV",
+    "lat": 54.239,
+    "lon": 37.6
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Tver",
+    "name": "Kryuchkovo Air Base",
+    "icao": "RU-1480",
+    "lat": 57.0682983398437,
+    "lon": 35.50830078125
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Tymovskoye",
+    "name": "Zonalnoye Airport",
+    "icao": "UHSO",
+    "lat": 50.6692008972,
+    "lon": 142.761001587
+  },
+  {
+    "country": "Russia",
+    "state": "Tyumen Oblast",
+    "city": "Tyumen",
+    "name": "Plekhanovo Airport",
+    "icao": "USTL",
+    "lat": 57.1433334350585,
+    "lon": 65.4683303833007
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Uka",
+    "name": "Uka Airport",
+    "icao": "RU-2824",
+    "lat": 57.9282989501953,
+    "lon": 162.022003173828
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Ust-Ilimsk",
+    "name": "Ust-Ilimsk Airport",
+    "icao": "UIBS",
+    "lat": 58.1361007690429,
+    "lon": 102.565002441406
+  },
+  {
+    "country": "Russia",
+    "state": "Amur Oblast",
+    "city": "Vernoye",
+    "name": "Orlovka Air Base",
+    "icao": "RU-0588",
+    "lat": 51.263302,
+    "lon": 128.720001
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Vitim",
+    "name": "Vitim Airport",
+    "icao": "UERT",
+    "lat": 59.458,
+    "lon": 112.563004
+  },
+  {
+    "country": "Russia",
+    "state": "Vologda Oblast",
+    "city": "Vologda",
+    "name": "Vologda Airport",
+    "icao": "ULWW",
+    "lat": 59.2825012207031,
+    "lon": 39.9444007873535
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Volosovo",
+    "name": "Sumsk Air Base",
+    "icao": "RU-9587",
+    "lat": 59.3050003051757,
+    "lon": 29.0967006683349
+  },
+  {
+    "country": "Russia",
+    "state": "Voronezh Oblast",
+    "city": "Voronezh",
+    "name": "Pridacha Airport",
+    "icao": "UUOD",
+    "lat": 51.6522712707519,
+    "lon": 39.2555236816406
+  },
+  {
+    "country": "Russia",
+    "state": "Smolensk Oblast",
+    "city": "Vyazma",
+    "name": "Vyazma Airport",
+    "icao": "RU-0257",
+    "lat": 55.1483,
+    "lon": 34.383301
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Tatarstan",
+    "city": "Yelabuga",
+    "name": "Yelabuga North Airport",
+    "icao": "RU-0049",
+    "lat": 55.7928009033203,
+    "lon": 52.132999420166
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Yugoryonok",
+    "name": "Yugoryonok Airport",
+    "icao": "RU-5491",
+    "lat": 59.7649993896,
+    "lon": 137.682998657
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Zapolyarnyj",
+    "name": "Luostari Air Base",
+    "icao": "RU-3540",
+    "lat": 69.400002,
+    "lon": 30.9883
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Zdanovo",
+    "name": "Krapivnya Airfield",
+    "icao": "RU-9241",
+    "lat": 57.0766983032226,
+    "lon": 33.3883018493652
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Republic of Karelia",
+    "name": "Poduzhemye Air Base",
+    "icao": "RU-3463",
+    "lat": 64.9182968139648,
+    "lon": 34.2649993896484
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Afrikanda",
+    "name": "Afrikanda Air Base",
+    "icao": "RU-0002",
+    "lat": 67.456703186,
+    "lon": 32.7867012024
+  },
+  {
+    "country": "Russia",
+    "state": "Kaliningrad Oblast",
+    "city": "Baltiysk",
+    "name": "Baltiysk Air Base",
+    "icao": "RU-0011",
+    "lat": 54.6100006103515,
+    "lon": 19.8682994842529
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Gorin",
+    "name": "Gorin Air Base",
+    "icao": "RU-0967",
+    "lat": 51.1716995239257,
+    "lon": 136.634994506835
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Ilinskiy",
+    "name": "Salmi Air Base",
+    "icao": "RU-400",
+    "lat": 61.3217010498046,
+    "lon": 32.00830078125
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Louhi",
+    "name": "Engozero Air Base",
+    "icao": "RU-9300",
+    "lat": 65.86669921875,
+    "lon": 33.9333000183105
+  },
+  {
+    "country": "Russia",
+    "state": "Orenburg Oblast",
+    "city": "Novoorsk",
+    "name": "Ashchebutak Air Base",
+    "icao": "RU-0007",
+    "lat": 51.034999847412,
+    "lon": 59.168300628662
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Rzhev",
+    "name": "Bakhmutovo Air Base",
+    "icao": "RU-0009",
+    "lat": 56.3717002868652,
+    "lon": 34.0882987976074
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Suojarvi",
+    "name": "Maysionvara Air Base",
+    "icao": "RU-6099",
+    "lat": 62.2799987792968,
+    "lon": 32.4166984558105
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Tiksi",
+    "name": "Chekurovka Air Base",
+    "icao": "RU-0020",
+    "lat": 71.0650024414062,
+    "lon": 127.337997436523
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Tiksi",
+    "name": "Tiksi West Air Base",
+    "icao": "RU-7565",
+    "lat": 71.6932983398437,
+    "lon": 128.682998657226
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Umbozero",
+    "name": "Khariusny Airfield",
+    "icao": "RU-0012",
+    "lat": 67.3797730111,
+    "lon": 34.213142395
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Leningrad Oblast",
+    "name": "Kummolovo Airfield",
+    "icao": "RU-0069",
+    "lat": 59.6544456481933,
+    "lon": 28.994722366333
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk Krai",
+    "name": "Kuznetsovo Airfield",
+    "icao": "RU-0071",
+    "lat": 55.9613876342773,
+    "lon": 93.0108337402343
+  },
+  {
+    "country": "Russia",
+    "state": "Yamalo-Nenets Autonomous Okrug",
+    "city": "Yamalo-Nenets Autonomous Okrug",
+    "name": "Yar-Sale Airport",
+    "icao": "USDR",
+    "lat": 66.8529968261718,
+    "lon": 70.8450012207031
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "Saint Petersburg (city)",
+    "name": "Gorskaya Airfield",
+    "icao": "RU-0072",
+    "lat": 60.0332984924316,
+    "lon": 30.0149993896484
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Leningrad Oblast",
+    "name": "Sivoritsy Airfield",
+    "icao": "RU-0077",
+    "lat": 59.474998474121,
+    "lon": 30.0
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Aykhal Airport",
+    "icao": "UERA",
+    "lat": 65.959197998047,
+    "lon": 111.54650115967
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Arkhangelsk Oblast",
+    "name": "Verkhnyaya Zolotitsa Airport",
+    "icao": "RU-0083",
+    "lat": 65.6910018921,
+    "lon": 40.3804016112999
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Rostov Oblast",
+    "name": "Veshenskaya Airport",
+    "icao": "URRW",
+    "lat": 49.6566009521484,
+    "lon": 41.700698852539
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Rostov Oblast",
+    "name": "Volgodonsk Airport",
+    "icao": "URRY",
+    "lat": 47.682098,
+    "lon": 42.0728
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Rostov Oblast",
+    "name": "Zavetnoe Airport",
+    "icao": "RU-0086",
+    "lat": 47.135167,
+    "lon": 43.899133
+  },
+  {
+    "country": "Russia",
+    "state": "Nenets Autonomous Okrug",
+    "city": "Nenets Autonomous Okrug",
+    "name": "Indiga Airport",
+    "icao": "RU-0087",
+    "lat": 67.647102355957,
+    "lon": 49.0448989868164
+  },
+  {
+    "country": "Russia",
+    "state": "Astrakhan Oblast",
+    "city": "Astrakhan Oblast",
+    "name": "Ashuluk Airfield",
+    "icao": "RU-0101",
+    "lat": 47.4199981689453,
+    "lon": 47.9249992370605
+  },
+  {
+    "country": "Russia",
+    "state": "Astrakhan Oblast",
+    "city": "Astrakhan Oblast",
+    "name": "Basy Airfield",
+    "icao": "RU-0106",
+    "lat": 46.2150001525878,
+    "lon": 46.9449996948242
+  },
+  {
+    "country": "Russia",
+    "state": "Altai Republic",
+    "city": "Altai Republic",
+    "name": "Kosh-Agach Airport",
+    "icao": "UNBA",
+    "lat": 49.9469985961914,
+    "lon": 88.625
+  },
+  {
+    "country": "Russia",
+    "state": "Jewish Autonomous Oblast",
+    "city": "Jewish Autonomous Oblast",
+    "name": "Birofeld Airfield",
+    "icao": "RU-0124",
+    "lat": 48.4000015258789,
+    "lon": 132.783004760742
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Dagestan",
+    "city": "Republic of Dagestan",
+    "name": "Akhty Airfield",
+    "icao": "RU-0235",
+    "lat": 41.4744544227,
+    "lon": 47.7015209198
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow Oblast",
+    "name": "Shevlino Helipad",
+    "icao": "RU-0250",
+    "lat": 56.085,
+    "lon": 36.7916666666999
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow Oblast",
+    "name": "Pavlovskoye Helipad",
+    "icao": "RU-0265",
+    "lat": 55.4800147534,
+    "lon": 37.7143800259
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow Oblast",
+    "name": "Novo-Ogaryovo Helipad",
+    "icao": "RU-0267",
+    "lat": 55.7311578706999,
+    "lon": 37.2017562388999
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow Oblast",
+    "name": "Anosino-2 Heliport",
+    "icao": "RU-0280",
+    "lat": 55.8203,
+    "lon": 36.968901
+  },
+  {
+    "country": "Russia",
+    "state": "Kemerovo Oblast",
+    "city": "Kemerovo Oblast",
+    "name": "Ataka Helipad",
+    "icao": "RU-0340",
+    "lat": 55.5901813455,
+    "lon": 84.9795913695999
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow Oblast",
+    "name": "Krasny Posyolok Airfield",
+    "icao": "RU-0354",
+    "lat": 55.8135,
+    "lon": 36.978
+  },
+  {
+    "country": "Russia",
+    "state": "Novgorod Oblast",
+    "city": "Novgorod Oblast",
+    "name": "Valday Helipad",
+    "icao": "RU-0363",
+    "lat": 58.0115194762999,
+    "lon": 33.3189690113
+  },
+  {
+    "country": "Russia",
+    "state": "Tomsk Oblast",
+    "city": "Tomsk Oblast",
+    "name": "1 Razryvno-Moiseevskaya Helipad",
+    "icao": "UNSR",
+    "lat": 58.095,
+    "lon": 76.0083
+  },
+  {
+    "country": "Russia",
+    "state": "Nikolinu Airstrip",
+    "city": "Nikolinu Airstrip",
+    "name": "Nikolinu Airstrip",
+    "icao": "RU-0455",
+    "lat": 56.9996502,
+    "lon": 29.8159121
+  },
+  {
+    "country": "Russia",
+    "state": "Pskov Oblast",
+    "city": "Pskov Oblast",
+    "name": "Sorokino Airfield",
+    "icao": "RU-0463",
+    "lat": 57.724212,
+    "lon": 28.240812
+  },
+  {
+    "country": "Russia",
+    "state": "Kaliningrad Oblast",
+    "city": "Kaliningrad Oblast",
+    "name": "Schloss Waldau Airstrip",
+    "icao": "RU-0473",
+    "lat": 54.6920446,
+    "lon": 20.7462606
+  },
+  {
+    "country": "Russia",
+    "state": "Aviator-3",
+    "city": "Aviator-3",
+    "name": "Aviator-3",
+    "icao": "RU-0485",
+    "lat": 55.331223,
+    "lon": 39.339296
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Leningrad Oblast",
+    "name": "Luga Bereg Airstrip",
+    "icao": "RU-0498",
+    "lat": 58.672416,
+    "lon": 29.961654
+  },
+  {
+    "country": "Russia",
+    "state": "Kaliningrad Oblast",
+    "city": "Kaliningrad Oblast",
+    "name": "Podgornoye Airfield",
+    "icao": "RU-0523",
+    "lat": 54.740583,
+    "lon": 20.726472
+  },
+  {
+    "country": "Russia",
+    "state": "Amur Oblast",
+    "city": "Amur Oblast",
+    "name": "Oktyabrskiy Airport",
+    "icao": "UHBO",
+    "lat": 53.004403,
+    "lon": 128.662691
+  },
+  {
+    "country": "Russia",
+    "state": "Kostroma Oblast",
+    "city": "Kostroma Oblast",
+    "name": "Sharya Airport",
+    "icao": "UUBQ",
+    "lat": 58.391989,
+    "lon": 45.554466
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Kutana Airport",
+    "icao": "UEKU",
+    "lat": 59.028719,
+    "lon": 131.788731
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Kuberganya Airport",
+    "icao": "UEKG",
+    "lat": 67.765668,
+    "lon": 144.509096
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Kulun-Elbyut Airport",
+    "icao": "UEDB",
+    "lat": 66.794851,
+    "lon": 142.727423
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Chagda Airport",
+    "icao": "UEEG",
+    "lat": 58.756895,
+    "lon": 130.6071
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Sanyyakhtakh Airport",
+    "icao": "UEEQ",
+    "lat": 60.58802,
+    "lon": 124.04779
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Sobolokh Airport",
+    "icao": "UEGT",
+    "lat": 66.255869,
+    "lon": 143.323603
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Torgo Airport",
+    "icao": "UELT",
+    "lat": 58.44634,
+    "lon": 119.504728
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Chagda Airport",
+    "icao": "UEMD",
+    "lat": 63.371467,
+    "lon": 125.54296
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Syagannakh",
+    "icao": "UEMN",
+    "lat": 68.372322,
+    "lon": 143.619676
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Yatek Airport",
+    "icao": "UENH",
+    "lat": 63.720041,
+    "lon": 124.187007
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Sayylyk Airport",
+    "icao": "UENU",
+    "lat": 63.852094,
+    "lon": 123.846388
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Tyanya Airport",
+    "icao": "UEOQ",
+    "lat": 59.05574,
+    "lon": 119.780331
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Uritskoye Airport",
+    "icao": "UEOU",
+    "lat": 60.558207,
+    "lon": 122.430611
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Kyuptsy Airport",
+    "icao": "UEQK",
+    "lat": 60.858792,
+    "lon": 135.308905
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Argakhtakh Airport",
+    "icao": "UESH",
+    "lat": 68.443333,
+    "lon": 153.362222
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Tumat Airport",
+    "icao": "UESR",
+    "lat": 70.72611,
+    "lon": 139.235833
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Aleko-Kyuyol Airport",
+    "icao": "UESX",
+    "lat": 68.676693,
+    "lon": 151.873798
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sakha (Yakutia) Republic",
+    "name": "Kazachye Airport",
+    "icao": "UESZ",
+    "lat": 70.746294,
+    "lon": 136.179271
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Zabaykalsky Krai",
+    "name": "Ust'-Karenga Airport",
+    "icao": "UIAG",
+    "lat": 54.441672,
+    "lon": 116.513894
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Zabaykalsky Krai",
+    "name": "Usugli Airport",
+    "icao": "UIAY",
+    "lat": 52.659388,
+    "lon": 115.242634
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Aban",
+    "name": "Aban Airport",
+    "icao": "UNQA",
+    "lat": 56.6847,
+    "lon": 96.1203
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Bashkortostan",
+    "city": "Abzakovo",
+    "name": "Abzakovo Helipad",
+    "icao": "RU-0350",
+    "lat": 53.801284,
+    "lon": 58.633282
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Afipski",
+    "name": "Afipsky Heliport",
+    "icao": "URKF",
+    "lat": 44.873,
+    "lon": 38.829
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Agoy",
+    "name": "Agoy Airfield",
+    "icao": "RU-0165",
+    "lat": 44.1389999389648,
+    "lon": 39.0279998779296
+  },
+  {
+    "country": "Russia",
+    "state": "Altai Republic",
+    "city": "Akkem Lake",
+    "name": "Akkem Heliport",
+    "icao": "UNBC",
+    "lat": 49.9071,
+    "lon": 86.5442
+  },
+  {
+    "country": "Russia",
+    "state": "Sverdlovsk Oblast",
+    "city": "Alapayevsk",
+    "name": "Alapayevsk Airfield",
+    "icao": "USSQ",
+    "lat": 57.865,
+    "lon": 61.75
+  },
+  {
+    "country": "Russia",
+    "state": "Tomsk Oblast",
+    "city": "Aleksandrovskoye",
+    "name": "Aleksandrovskoye Airport",
+    "icao": "RU-0099",
+    "lat": 60.443000793457,
+    "lon": 77.838996887207
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Allakh-Yun",
+    "name": "Allakh-Yun Airport",
+    "icao": "UEQN",
+    "lat": 61.1431,
+    "lon": 138.0313
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Amazar",
+    "name": "Amazar Air Base",
+    "icao": "RU-0100",
+    "lat": 53.791999816895,
+    "lon": 120.91999816895
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Anash",
+    "name": "Anash Airport",
+    "icao": "RU-0469",
+    "lat": 54.856756,
+    "lon": 91.061761
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Arka",
+    "name": "Arka Airport",
+    "icao": "UHOA",
+    "lat": 60.1012,
+    "lon": 142.3015
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Armavir",
+    "name": "Baronovskiy Airfield",
+    "icao": "RU-0091",
+    "lat": 44.9248,
+    "lon": 40.9883
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Arsenyev",
+    "name": "Arsenyev Airfield",
+    "icao": "RU-0212",
+    "lat": 44.143001556396,
+    "lon": 133.27000427246
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Artyom",
+    "name": "Uglovaya Air Base",
+    "icao": "RU-0149",
+    "lat": 43.3489990234375,
+    "lon": 132.057006835937
+  },
+  {
+    "country": "Russia",
+    "state": "Astrakhan Oblast",
+    "city": "Astrakhan",
+    "name": "Privolzhskiy Air Base",
+    "icao": "RU-0303",
+    "lat": 46.396,
+    "lon": 47.893
+  },
+  {
+    "country": "Russia",
+    "state": "Astrakhan Oblast",
+    "city": "Astrakhan",
+    "name": "Tri Protoka Airfield",
+    "icao": "RU-0382",
+    "lat": 46.325,
+    "lon": 48.153
+  },
+  {
+    "country": "Russia",
+    "state": "Saratov Oblast",
+    "city": "Atkarsk",
+    "name": "Atkarsk Airport",
+    "icao": "RU-0102",
+    "lat": 51.8019981384277,
+    "lon": 45.1119995117187
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Balashikha",
+    "name": "Novaya Heliport",
+    "icao": "RU-0249",
+    "lat": 55.8093,
+    "lon": 38.0454
+  },
+  {
+    "country": "Russia",
+    "state": "Novosibirsk Oblast",
+    "city": "Barabinsk",
+    "name": "Barabinsk Airport",
+    "icao": "RU-0104",
+    "lat": 55.3600006103515,
+    "lon": 78.3000030517578
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Baranikha",
+    "name": "Baranikha Airport",
+    "icao": "RU-0486",
+    "lat": 68.497585,
+    "lon": 168.253903
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Buryat",
+    "city": "Barguzin",
+    "name": "Barguzin Airport",
+    "icao": "RU-0105",
+    "lat": 53.587003,
+    "lon": 109.699997
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Barvikha",
+    "name": "Barvikha-3 Helipad",
+    "icao": "RU-0252",
+    "lat": 55.7596043747,
+    "lon": 37.2824692726
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Batagay-Alyta",
+    "name": "Sakkyryr Airport",
+    "icao": "UEBS",
+    "lat": 67.792,
+    "lon": 130.394
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Begunitsy",
+    "name": "Negoditsy Airstrip",
+    "icao": "RU-0413",
+    "lat": 59.5580704894,
+    "lon": 29.2179679871
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Belaya Kalitva",
+    "name": "Belaya Kalitva Airport",
+    "icao": "RU-0312",
+    "lat": 48.217001,
+    "lon": 40.82
+  },
+  {
+    "country": "Russia",
+    "state": "Belgorod Oblast",
+    "city": "Belgorod",
+    "name": "Belgorod-Severniy Airstrip",
+    "icao": "RU-0488",
+    "lat": 50.657376,
+    "lon": 36.529791
+  },
+  {
+    "country": "Russia",
+    "state": "Vologda Oblast",
+    "city": "Belozersk",
+    "name": "Belozersk Airport",
+    "icao": "ULWB",
+    "lat": 60.015745,
+    "lon": 37.755371
+  },
+  {
+    "country": "Russia",
+    "state": "Novosibirsk Oblast",
+    "city": "Berdsk",
+    "name": "Yuzhnaya Airfield",
+    "icao": "RU-0342",
+    "lat": 54.654718956,
+    "lon": 83.0786991119
+  },
+  {
+    "country": "Russia",
+    "state": "Samara Oblast",
+    "city": "Bezenchuk",
+    "name": "Bezenchuk Airfield",
+    "icao": "RU-0096",
+    "lat": 52.9650001525878,
+    "lon": 49.3779983520507
+  },
+  {
+    "country": "Russia",
+    "state": "Jewish Autonomous Oblast",
+    "city": "Birofeld",
+    "name": "Birofeld Air Base",
+    "icao": "UHB1",
+    "lat": 48.4599990844726,
+    "lon": 132.660003662109
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Bogorodskoye",
+    "name": "Bogorodskoye Airport",
+    "icao": "UHNB",
+    "lat": 52.38,
+    "lon": 140.448
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Bolshaya Pustomerzha",
+    "name": "Yastrebino Airstrip",
+    "icao": "RU-0409",
+    "lat": 59.3856162517999,
+    "lon": 28.9302420615999
+  },
+  {
+    "country": "Russia",
+    "state": "Novgorod Oblast",
+    "city": "Borovichi",
+    "name": "Borovichi Airport",
+    "icao": "ULNB",
+    "lat": 58.4360008239746,
+    "lon": 33.8889999389648
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Borzya",
+    "name": "Barnaul Heliport",
+    "icao": "UIAB",
+    "lat": 50.3613832,
+    "lon": 116.4814
+  },
+  {
+    "country": "Russia",
+    "state": "Bryansk Oblast",
+    "city": "Bryansk",
+    "name": "Bryansk Airport",
+    "icao": "RU-0127",
+    "lat": 53.2700004577636,
+    "lon": 34.3370018005371
+  },
+  {
+    "country": "Russia",
+    "state": "Stavropol Krai",
+    "city": "Budyonnovsk",
+    "name": "Kalininskiy Airfield",
+    "icao": "RU-0376",
+    "lat": 44.8582,
+    "lon": 44.1829
+  },
+  {
+    "country": "Russia",
+    "state": "Orenburg Oblast",
+    "city": "Buguruslan",
+    "name": "Buguruslan Glavny Airfield",
+    "icao": "RU-0094",
+    "lat": 53.6180000304999,
+    "lon": 52.4440002440999
+  },
+  {
+    "country": "Russia",
+    "state": "Perm Krai",
+    "city": "Chaikovskiy",
+    "name": "Chaikovskiy Airport",
+    "icao": "RU-0145",
+    "lat": 56.75,
+    "lon": 54.1450004577636
+  },
+  {
+    "country": "Russia",
+    "state": "Samara Oblast",
+    "city": "Chapayevsk",
+    "name": "Zvezda Airfield",
+    "icao": "RU-0392",
+    "lat": 52.9409832951,
+    "lon": 49.6066188812
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Chegdomyn",
+    "name": "Chegdomyn Airport",
+    "icao": "RU-0182",
+    "lat": 51.1370010375976,
+    "lon": 132.940002441406
+  },
+  {
+    "country": "Russia",
+    "state": "Chelyabinsk Oblast",
+    "city": "Chelyabinsk",
+    "name": "Kalachevo Airfield",
+    "icao": "USCV",
+    "lat": 54.9529991149902,
+    "lon": 61.5
+  },
+  {
+    "country": "Russia",
+    "state": "Kabardino-Balkar Republic",
+    "city": "Cherek",
+    "name": "Cherek",
+    "icao": "RU-0487",
+    "lat": 43.5268488,
+    "lon": 43.998812
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Chernigovka",
+    "name": "Chernigovka Air Base",
+    "icao": "RU-0132",
+    "lat": 44.3250007629394,
+    "lon": 132.544998168945
+  },
+  {
+    "country": "Russia",
+    "state": "Novosibirsk Oblast",
+    "city": "Chistoozyornoe",
+    "name": "Chistoozyornoe Airfield",
+    "icao": "RU-0118",
+    "lat": 54.6590003967285,
+    "lon": 76.5370025634765
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Chita",
+    "name": "Kashtak Airfield",
+    "icao": "RU-0133",
+    "lat": 52.1100006103515,
+    "lon": 113.5
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Chizha",
+    "name": "Chizha Airport",
+    "icao": "RU-0134",
+    "lat": 67.083999633789,
+    "lon": 44.3670005798339
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Dalnegorsk",
+    "name": "Dalnegorsk Airport",
+    "icao": "DHG",
+    "lat": 44.558748,
+    "lon": 135.490005
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Dalnerechensk",
+    "name": "Dalnerechensk Airport",
+    "icao": "RU-0493",
+    "lat": 45.8783,
+    "lon": 133.7363
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Derevyannoe",
+    "name": "Derevyannoe Airport",
+    "icao": "RU-0209",
+    "lat": 61.606998,
+    "lon": 34.620998
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Dolgoprudny",
+    "name": "Burevestnik Yacht-club Helipad",
+    "icao": "RU-0295",
+    "lat": 55.9795,
+    "lon": 37.5282
+  },
+  {
+    "country": "Russia",
+    "state": "Kaliningrad Oblast",
+    "city": "Donskoye",
+    "name": "Donskoye Air Base",
+    "icao": "RU-0061",
+    "lat": 54.9343910217285,
+    "lon": 19.9824142456054
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Dzhebariki-Khaya",
+    "name": "Dzhebariki-Khaya Airport",
+    "icao": "RU-0199",
+    "lat": 62.1899986267089,
+    "lon": 135.865005493164
+  },
+  {
+    "country": "Russia",
+    "state": "Komi Republic",
+    "city": "Emva",
+    "name": "Yemva Airport",
+    "icao": "UUYM",
+    "lat": 62.6054000854,
+    "lon": 50.925201416
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Adygea",
+    "city": "Enem",
+    "name": "Enem Airfield",
+    "icao": "URKS",
+    "lat": 44.945999,
+    "lon": 38.931999
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Esso",
+    "name": "Esso Airport",
+    "icao": "RU-0135",
+    "lat": 55.9329986572265,
+    "lon": 158.716995239257
+  },
+  {
+    "country": "Russia",
+    "state": "Novosibirsk Oblast",
+    "city": "Evsino",
+    "name": "Yevsino Airfield",
+    "icao": "RU-0112",
+    "lat": 54.4070014953999,
+    "lon": 83.2419967651
+  },
+  {
+    "country": "Russia",
+    "state": "Zabaykalsky Krai",
+    "city": "Gazimurskiy Zavod",
+    "name": "Gazimurskiy Zavod Airport",
+    "icao": "RU-0137",
+    "lat": 51.5470008850097,
+    "lon": 118.370002746582
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Gelendzhik",
+    "name": "Gelendzhik Seaplane Base",
+    "icao": "RU-0369",
+    "lat": 44.57,
+    "lon": 38.038611
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Adygea",
+    "city": "Giaginskaya",
+    "name": "Giaginskaya Airfield",
+    "icao": "RU-0166",
+    "lat": 44.8870010375976,
+    "lon": 39.9650001525878
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Golubkovo",
+    "name": "Golubkovo Airfield",
+    "icao": "RU-0497",
+    "lat": 58.558887,
+    "lon": 29.935358
+  },
+  {
+    "country": "Russia",
+    "state": "Vladimir Oblast",
+    "city": "Gorokhovets",
+    "name": "Gorokhovets Airport",
+    "icao": "RU-0505",
+    "lat": 56.180573,
+    "lon": 42.668519
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Buryat",
+    "city": "Goryachinsk",
+    "name": "Goryachinsk Airport",
+    "icao": "RU-0139",
+    "lat": 53.0149993896484,
+    "lon": 108.327003479003
+  },
+  {
+    "country": "Russia",
+    "state": "Komi Republic",
+    "city": "Haryaginskiy",
+    "name": "Haryaginskiy Heliport",
+    "icao": "UURH",
+    "lat": 67.2129974365234,
+    "lon": 56.7809982299804
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Idrinskoye",
+    "name": "Idrinskoye Airport",
+    "icao": "RU-0141",
+    "lat": 54.3629989624023,
+    "lon": 91.9869995117187
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Ilinskoye",
+    "name": "Grachi Helipad",
+    "icao": "RU-0358",
+    "lat": 55.4382719556,
+    "lon": 38.0714249611
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Imeni Poliny Osipenko",
+    "name": "Imeni Poliny Osipenko Airport",
+    "icao": "RU-0142",
+    "lat": 52.4399986267089,
+    "lon": 136.473999023437
+  },
+  {
+    "country": "Russia",
+    "state": "Tyumen Oblast",
+    "city": "Ishim",
+    "name": "Ishim Airfield",
+    "icao": "RU-0120",
+    "lat": 56.0859985351562,
+    "lon": 69.4530029296875
+  },
+  {
+    "country": "Russia",
+    "state": "Novgorod Oblast",
+    "city": "Iskitim",
+    "name": "Iskitim Airfield",
+    "icao": "RU-0343",
+    "lat": 54.6,
+    "lon": 83.3
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Istra",
+    "name": "Bunkovo Heliport",
+    "icao": "RU-0353",
+    "lat": 55.8802339278,
+    "lon": 36.8073749542
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Kachalovka",
+    "name": "Kachalovka Airfield",
+    "icao": "RU-0039",
+    "lat": 67.9869995117187,
+    "lon": 39.8349990844726
+  },
+  {
+    "country": "Russia",
+    "state": "Amur Oblast",
+    "city": "Kakhovka",
+    "name": "Kakhovka/Romny Airbase",
+    "icao": "RU-0458",
+    "lat": 50.8133,
+    "lon": 129.2167
+  },
+  {
+    "country": "Russia",
+    "state": "Omsk Oblast",
+    "city": "Kalachinsk",
+    "name": "Kalachinsk Airport",
+    "icao": "UNOK",
+    "lat": 55.0200004577636,
+    "lon": 74.6100006103515
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Kalevala",
+    "name": "Kalevala Airport",
+    "icao": "ULPK",
+    "lat": 65.2099990845,
+    "lon": 31.1350002289
+  },
+  {
+    "country": "Russia",
+    "state": "Chechen Republic",
+    "city": "Kalinovskaya",
+    "name": "Kalinovskaya Airfield",
+    "icao": "RU-0062",
+    "lat": 43.599998474121,
+    "lon": 45.5299987792968
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Kanevka",
+    "name": "Kanevka Airport",
+    "icao": "RU-0204",
+    "lat": 67.1210021972656,
+    "lon": 39.716999053955
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Kansk",
+    "name": "Kansk Tsentralny Airport",
+    "icao": "RU-0334",
+    "lat": 56.1600347141,
+    "lon": 95.7121181488
+  },
+  {
+    "country": "Russia",
+    "state": "Karachay-Cherkess Republic",
+    "city": "Karachayevsk",
+    "name": "Karachayevsk Airfield",
+    "icao": "RU-0432",
+    "lat": 43.789001,
+    "lon": 41.911499
+  },
+  {
+    "country": "Russia",
+    "state": "Nenets Autonomous Okrug",
+    "city": "Karatayka",
+    "name": "Karatayka Airport",
+    "icao": "ULDT",
+    "lat": 68.75,
+    "lon": 61.4249992370605
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Kashkarantsy",
+    "name": "Kashkarantsy Airstrip",
+    "icao": "RU-0442",
+    "lat": 66.3454,
+    "lon": 36.027
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Tatarstan",
+    "city": "Kazan",
+    "name": "Kazan Old Airport",
+    "icao": "RU-0047",
+    "lat": 55.7874984741,
+    "lon": 49.1952781676999
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Kazantsevo",
+    "name": "Shushenskoye Airport",
+    "icao": "UNAU",
+    "lat": 53.3849983215332,
+    "lon": 92.0449981689453
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Khabarovsk",
+    "name": "Garovka Air Base",
+    "icao": "UHK2",
+    "lat": 48.3950004577636,
+    "lon": 135.220993041992
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Khandyga",
+    "name": "Typliy Klyuch Airport",
+    "icao": "RU-0200",
+    "lat": 62.7890014648,
+    "lon": 136.854995728
+  },
+  {
+    "country": "Russia",
+    "state": "Tyumen Oblast",
+    "city": "Kharasavey",
+    "name": "Kharasavey Airport",
+    "icao": "USDH",
+    "lat": 71.238106,
+    "lon": 66.920894
+  },
+  {
+    "country": "Russia",
+    "state": "Nenets Autonomous Okrug",
+    "city": "Kharuta",
+    "name": "Kharuta Airport",
+    "icao": "ULER",
+    "lat": 66.8470001220703,
+    "lon": 59.5449981689453
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Khayyr",
+    "name": "Lake Khaiyr Airport",
+    "icao": "UEBG",
+    "lat": 70.8083,
+    "lon": 133.5059
+  },
+  {
+    "country": "Russia",
+    "state": "Amur Oblast",
+    "city": "Khvoynyy",
+    "name": "Khvoynyy Airport",
+    "icao": "RU-0457",
+    "lat": 54.6331,
+    "lon": 127.84425
+  },
+  {
+    "country": "Russia",
+    "state": "Samara Oblast",
+    "city": "Kinel",
+    "name": "Bobrovka Air Base",
+    "icao": "RU-0125",
+    "lat": 53.1450004577636,
+    "lon": 50.7099990844726
+  },
+  {
+    "country": "Russia",
+    "state": "Ivanovo Oblast",
+    "city": "Kineshma",
+    "name": "Kineshma Airport",
+    "icao": "RU-0290",
+    "lat": 57.416,
+    "lon": 42.19
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Kingisepp",
+    "name": "Bolshoy Lutsk Airstrip",
+    "icao": "RU-0362",
+    "lat": 59.4120340638,
+    "lon": 28.5772848129
+  },
+  {
+    "country": "Russia",
+    "state": "Vladimir Oblast",
+    "city": "Kirzhach",
+    "name": "Kirzhach Airfield",
+    "icao": "RU-0242",
+    "lat": 56.157,
+    "lon": 38.83
+  },
+  {
+    "country": "Russia",
+    "state": "Stavropol Krai",
+    "city": "Kislovodsk",
+    "name": "Kislovodsk Airport",
+    "icao": "RU-0425",
+    "lat": 43.9486,
+    "lon": 42.627
+  },
+  {
+    "country": "Russia",
+    "state": "Stavropol Krai",
+    "city": "Kochubeyevskoye",
+    "name": "Kochubeyevskoye Airport",
+    "icao": "RU-0370",
+    "lat": 44.6858639994,
+    "lon": 41.7493772507
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Kolomna",
+    "name": "Polyany Helipad",
+    "icao": "RU-0366",
+    "lat": 55.0346630318999,
+    "lon": 38.8215208054
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Korenovsk",
+    "name": "Korenovsk Air Base",
+    "icao": "RU-0287",
+    "lat": 45.447,
+    "lon": 39.424
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Korpiya",
+    "name": "Korpiya Airstrip",
+    "icao": "RU-0494",
+    "lat": 59.530483,
+    "lon": 29.331986
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Korzhevskiy",
+    "name": "Korzhevskiy Airstrip",
+    "icao": "RU-0397",
+    "lat": 45.2146965624,
+    "lon": 37.7441096305999
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Kotelniki",
+    "name": "Belaya Dacha Helipad",
+    "icao": "RU-0272",
+    "lat": 55.6550134703,
+    "lon": 37.8673732281
+  },
+  {
+    "country": "Russia",
+    "state": "Belgorod Oblast",
+    "city": "Kotovo",
+    "name": "Kotovo Airfield",
+    "icao": "RU-0484",
+    "lat": 51.3146773,
+    "lon": 38.0090673
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Kovdor",
+    "name": "Kovdor Airport",
+    "icao": "RU-0394",
+    "lat": 67.5341487596,
+    "lon": 30.6191968918
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Kozyrevsk",
+    "name": "Kozyrevsk Airport",
+    "icao": "UHPO",
+    "lat": 56.0900001525878,
+    "lon": 159.876663208007
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Krasnaya Polyana",
+    "name": "Krasnaya Polyana Heliport",
+    "icao": "RU-0024",
+    "lat": 43.6765319836,
+    "lon": 40.2066349983
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Krasnodar",
+    "name": "Krasnodar Tsentralny Air Base",
+    "icao": "RU-0090",
+    "lat": 45.0800018311,
+    "lon": 38.9469985962
+  },
+  {
+    "country": "Russia",
+    "state": "Kostroma Oblast",
+    "city": "Krasnogorye",
+    "name": "Krasnogorye Airport",
+    "icao": "RU-0293",
+    "lat": 57.7133,
+    "lon": 43.6878
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Krasnoshchelye",
+    "name": "Krasnoshchelye Airport",
+    "icao": "ULMX",
+    "lat": 67.3479995727999,
+    "lon": 37.0769996643
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Krasnoyarsk",
+    "name": "Cheremshanka Airport",
+    "icao": "UNKM",
+    "lat": 56.1769981383999,
+    "lon": 92.5400009155
+  },
+  {
+    "country": "Russia",
+    "state": "Sverdlovsk Oblast",
+    "city": "Krasny Aduy",
+    "name": "Baltym Airfield",
+    "icao": "RU-0170",
+    "lat": 57.1090011596679,
+    "lon": 60.6069984436035
+  },
+  {
+    "country": "Russia",
+    "state": "Samara Oblast",
+    "city": "Krasny Yar",
+    "name": "Krasny Yar Airport",
+    "icao": "RU-0393",
+    "lat": 53.5094122956999,
+    "lon": 50.4396486282
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Tatarstan",
+    "city": "Kurkachi",
+    "name": "Kurkachi Airfield",
+    "icao": "RU-0147",
+    "lat": 55.9799995422363,
+    "lon": 49.5810012817382
+  },
+  {
+    "country": "Russia",
+    "state": "Kursk Oblast",
+    "city": "Kursk",
+    "name": "Ryshkovo Airfield",
+    "icao": "RU-0325",
+    "lat": 51.6561578589,
+    "lon": 36.1818408966
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Kushchyovskaya",
+    "name": "Kushchyovskaya Air Base",
+    "icao": "RU-0288",
+    "lat": 46.537,
+    "lon": 39.548
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Kuzomen",
+    "name": "Kuzomen Airport",
+    "icao": "ULMN",
+    "lat": 66.28,
+    "lon": 36.87
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Lamutskoye",
+    "name": "Lamutskoye Airport",
+    "icao": "RU-0472",
+    "lat": 65.538838,
+    "lon": 168.844848
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Lebed",
+    "name": "Lebed Airport",
+    "icao": "RU-0518",
+    "lat": 62.088049,
+    "lon": 89.181841
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Leshukonskoye",
+    "name": "Leshukonskoye Airport",
+    "icao": "ULAL",
+    "lat": 64.8960037231,
+    "lon": 45.7229995728
+  },
+  {
+    "country": "Russia",
+    "state": "Sverdlovsk Oblast",
+    "city": "Loginovo",
+    "name": "Loginovo Airfield",
+    "icao": "RU-0316",
+    "lat": 56.6474504013999,
+    "lon": 61.3502311707
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Lopshenga",
+    "name": "Lopshenga Airport",
+    "icao": "ULBL",
+    "lat": 64.9800033569,
+    "lon": 37.6930007935
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Lyubertsy",
+    "name": "Panki Heliport",
+    "icao": "RU-0213",
+    "lat": 55.6683006286621,
+    "lon": 37.9319992065429
+  },
+  {
+    "country": "Russia",
+    "state": "Novgorod Oblast",
+    "city": "Lyubytino",
+    "name": "Lyubytino Airstrip",
+    "icao": "RU-0416",
+    "lat": 58.8026286843,
+    "lon": 33.3734178543
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Maksatikha",
+    "name": "Maksatikha Airport",
+    "icao": "RU-0419",
+    "lat": 57.7728697983,
+    "lon": 35.8950805664
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Malino",
+    "name": "Malino Heliport",
+    "icao": "RU-0223",
+    "lat": 55.085,
+    "lon": 38.145
+  },
+  {
+    "country": "Russia",
+    "state": "Omsk Oblast",
+    "city": "Maryanovka",
+    "name": "Maryanovka Airfield",
+    "icao": "RU-0347",
+    "lat": 54.9725397836,
+    "lon": 72.6464939116999
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Adygea",
+    "city": "Maykop",
+    "name": "Khanskaya Air Base",
+    "icao": "URKH",
+    "lat": 44.68,
+    "lon": 40.035
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Medvedkovskaya",
+    "name": "Medvedkovskaya Airstrip",
+    "icao": "RU-0402",
+    "lat": 45.4433769126,
+    "lon": 38.9604592322999
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Millerovo",
+    "name": "Millerovo Airport",
+    "icao": "RU-0283",
+    "lat": 48.937,
+    "lon": 40.417
+  },
+  {
+    "country": "Russia",
+    "state": "Tambov Oblast",
+    "city": "Mordovo",
+    "name": "Mordovo Airport",
+    "icao": "RU-0324",
+    "lat": 52.0783455164,
+    "lon": 40.7843399048
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Morozovsk",
+    "name": "Morozovsk Air Base",
+    "icao": "URRM",
+    "lat": 48.313,
+    "lon": 41.791
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Moscow",
+    "name": "Alyye Parusa Helipad",
+    "icao": "RU-0180",
+    "lat": 55.8067016601562,
+    "lon": 37.4495010375976
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Moscow",
+    "name": "Emergency Children's Surgery and Traumatology Research Institute Helipad",
+    "icao": "RU-0234",
+    "lat": 55.7377542577,
+    "lon": 37.6176381111
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Moscow",
+    "name": "City Clinical Hospital No.20 Helipad",
+    "icao": "RU-0254",
+    "lat": 55.8655410432,
+    "lon": 37.6645928621
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Moscow",
+    "name": "City Clinical Hospital No.15 Helipad",
+    "icao": "RU-0258",
+    "lat": 55.7297442141,
+    "lon": 37.8306913376
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Moscow",
+    "name": "Bakovka Helipad",
+    "icao": "RU-0260",
+    "lat": 55.6827442477999,
+    "lon": 37.333753109
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Moscow",
+    "name": "MKAD 35 Kilometr Helipad",
+    "icao": "RU-0263",
+    "lat": 55.5818226716,
+    "lon": 37.5727432965999
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Moscow",
+    "name": "Ogaryovo Heliport",
+    "icao": "RU-0268",
+    "lat": 55.740609,
+    "lon": 37.208657
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Moscow",
+    "name": "City Children's Clinical Hospital No.9 Helipad",
+    "icao": "RU-0271",
+    "lat": 55.7554840715999,
+    "lon": 37.5390440226
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Moscow",
+    "name": "Poklonnaya Hill Helipad",
+    "icao": "RU-0450",
+    "lat": 55.73246,
+    "lon": 37.519446
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Mostovskoy",
+    "name": "Mostovskoy Airfield",
+    "icao": "RU-0422",
+    "lat": 44.393346,
+    "lon": 40.81614
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of North Ossetia-Alania",
+    "city": "Mozdok",
+    "name": "Mozdok Air Base",
+    "icao": "RU-0152",
+    "lat": 43.7849998474121,
+    "lon": 44.599998474121
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Murmansk",
+    "name": "Murmashi Airfield",
+    "icao": "RU-0080",
+    "lat": 68.8067,
+    "lon": 32.8077
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Mytishchi",
+    "name": "Nagornoye Helipad",
+    "icao": "RU-0256",
+    "lat": 55.9128802485,
+    "lon": 37.6252770424
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Nakhabino",
+    "name": "Nakhabino Helipad",
+    "icao": "RU-0355",
+    "lat": 55.8580088604,
+    "lon": 37.2091752291
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Nikel",
+    "name": "Salmiyarvi Airport",
+    "icao": "RU-0434",
+    "lat": 69.3296,
+    "lon": 29.9858
+  },
+  {
+    "country": "Russia",
+    "state": "Khabarovsk Krai",
+    "city": "Nikolayevsk-na-Amure Airport",
+    "name": "Nikolayevsk-na-Amure Airport",
+    "icao": "UHNN",
+    "lat": 53.154999,
+    "lon": 140.649994
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Nizhneudinsk",
+    "name": "Nizhneudinsk Airport",
+    "icao": "UINN",
+    "lat": 54.8894,
+    "lon": 99.067
+  },
+  {
+    "country": "Russia",
+    "state": "Nizhny Novgorod Oblast",
+    "city": "Nizhniy Novgorod",
+    "name": "Sormovo Airfield",
+    "icao": "RU-0217",
+    "lat": 56.3199996948242,
+    "lon": 43.7999992370605
+  },
+  {
+    "country": "Russia",
+    "state": "Nenets Autonomous Okrug",
+    "city": "Nizhnyaya Pesha",
+    "name": "Nizhnyaya Pesha Airport",
+    "icao": "ULAV",
+    "lat": 66.7529983520507,
+    "lon": 47.7430000305175
+  },
+  {
+    "country": "Russia",
+    "state": "Novgorod Oblast",
+    "city": "Novgorod",
+    "name": "Borki Airfield",
+    "icao": "RU-0074",
+    "lat": 58.3712005615234,
+    "lon": 31.0436000823974
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Novoangarsk",
+    "name": "Novoangarsk Airport",
+    "icao": "RU-0471",
+    "lat": 58.127988,
+    "lon": 93.477721
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Novodmitriyevskaya",
+    "name": "Novodmitriyevskaya Airstrip",
+    "icao": "RU-0406",
+    "lat": 44.8486583488,
+    "lon": 38.8972449303
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Novonezhino",
+    "name": "Novonezhino Airfield",
+    "icao": "RU-0332",
+    "lat": 43.218,
+    "lon": 132.584
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Novoselovo",
+    "name": "Novoselovo Airport",
+    "icao": "RU-0465",
+    "lat": 55.002535,
+    "lon": 90.921397
+  },
+  {
+    "country": "Russia",
+    "state": "Novosibirsk Oblast",
+    "city": "Novosibirsk",
+    "name": "Mochische Airfield",
+    "icao": "RU-0110",
+    "lat": 55.1689987182617,
+    "lon": 83.1429977416992
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Novotitarovskaya",
+    "name": "Osechki Airstrip",
+    "icao": "RU-0404",
+    "lat": 45.2569449245,
+    "lon": 38.9237236977
+  },
+  {
+    "country": "Russia",
+    "state": "Tomsk Oblast",
+    "city": "Novy Vasyugan",
+    "name": "Novy Vasyugan Airport",
+    "icao": "UNLW",
+    "lat": 58.586,
+    "lon": 76.504
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Odintsovo",
+    "name": "Bor Heliport",
+    "icao": "RU-0388",
+    "lat": 55.3596914463,
+    "lon": 37.7295076846999
+  },
+  {
+    "country": "Russia",
+    "state": "Volgograd Oblast",
+    "city": "Oktyabrskiy",
+    "name": "Oktyabrskiy Air Base",
+    "icao": "RU-0098",
+    "lat": 47.9700012207031,
+    "lon": 43.7200012207031
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Oktyabrskiy",
+    "name": "Oktyabrskiy Airport",
+    "icao": "RU-0468",
+    "lat": 56.088096,
+    "lon": 99.40945
+  },
+  {
+    "country": "Russia",
+    "state": "Novgorod Oblast",
+    "city": "Okulovka",
+    "name": "Okulovka Airport",
+    "icao": "RU-0417",
+    "lat": 58.3744706694,
+    "lon": 33.3122205734
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Olema",
+    "name": "Olema Airport",
+    "icao": "ULJO",
+    "lat": 64.495,
+    "lon": 46.14666
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Olenyok",
+    "name": "Olenyok Airport",
+    "icao": "UERO",
+    "lat": 68.514999,
+    "lon": 112.480003
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Omolon",
+    "name": "Omolon Airport",
+    "icao": "UHMN",
+    "lat": 65.2399978637695,
+    "lon": 160.539993286132
+  },
+  {
+    "country": "Russia",
+    "state": "Magadan Oblast",
+    "city": "Omsukchan",
+    "name": "Omsukchan Airport",
+    "icao": "UHMF",
+    "lat": 62.4570007324218,
+    "lon": 155.744995117187
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Onega",
+    "name": "Onega Airport",
+    "icao": "ULAO",
+    "lat": 63.9111140154,
+    "lon": 38.1258201599
+  },
+  {
+    "country": "Russia",
+    "state": "Orenburg Oblast",
+    "city": "Orsk",
+    "name": "Sokol Air Base",
+    "icao": "RU-0318",
+    "lat": 51.284,
+    "lon": 58.605
+  },
+  {
+    "country": "Russia",
+    "state": "Oryol Oblast",
+    "city": "Oryol",
+    "name": "Oryol Severny Airport",
+    "icao": "RU-0321",
+    "lat": 53.0044288837,
+    "lon": 36.0287618637
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Ossora",
+    "name": "Ossora Airport",
+    "icao": "UHPD",
+    "lat": 59.2236,
+    "lon": 163.0664
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Otradnaya",
+    "name": "Otradnaya Airport",
+    "icao": "RU-0421",
+    "lat": 44.382827104,
+    "lon": 41.4904689789
+  },
+  {
+    "country": "Russia",
+    "state": "Saratov Oblast",
+    "city": "Ozinki",
+    "name": "Kozhin Airfield",
+    "icao": "RU-0192",
+    "lat": 51.125,
+    "lon": 49.6399993896484
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Ozyorny",
+    "name": "Ozyorny Heliport",
+    "icao": "RU-0418",
+    "lat": 57.865483923,
+    "lon": 33.6708641052
+  },
+  {
+    "country": "Russia",
+    "state": "(unassigned)",
+    "city": "Padinskoye",
+    "name": "Padinskoye Airstrip",
+    "icao": "RU-0483",
+    "lat": 44.844707,
+    "lon": 43.185901
+  },
+  {
+    "country": "Russia",
+    "state": "Tula Oblast",
+    "city": "Pakhomovo",
+    "name": "Pakhomovo Airfield",
+    "icao": "RU-0224",
+    "lat": 54.625,
+    "lon": 37.575
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Palana",
+    "name": "Palana (East) Airport",
+    "icao": "RU-0038",
+    "lat": 59.0583343505859,
+    "lon": 159.966659545898
+  },
+  {
+    "country": "Russia",
+    "state": "Ryazan Oblast",
+    "city": "Panino",
+    "name": "Panino Airstrip",
+    "icao": "RU-0412",
+    "lat": 54.4750251757,
+    "lon": 40.3169059752999
+  },
+  {
+    "country": "Russia",
+    "state": "Vladimir Oblast",
+    "city": "Paustovo",
+    "name": "Paustovo Airfield",
+    "icao": "RU-0507",
+    "lat": 56.135622,
+    "lon": 42.174507
+  },
+  {
+    "country": "Russia",
+    "state": "Penza Oblast",
+    "city": "Penza",
+    "name": "Sosnovka Airfield",
+    "icao": "XWPD",
+    "lat": 53.261002,
+    "lon": 45.277
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Pervomaysk",
+    "name": "Pervomaysk/Zhitnitsa Airfield",
+    "icao": "RU-0491",
+    "lat": 49.964669,
+    "lon": 143.276972
+  },
+  {
+    "country": "Russia",
+    "state": "Novgorod Oblast",
+    "city": "Pestovo",
+    "name": "Pestovo Airfield",
+    "icao": "ULNP",
+    "lat": 58.608002,
+    "lon": 35.779999
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Petropavlovsk-Kamchatskiy",
+    "name": "Khalaktyrka Airport",
+    "icao": "UHPH",
+    "lat": 53.0250015258789,
+    "lon": 158.720993041992
+  },
+  {
+    "country": "Russia",
+    "state": "Yaroslavl Oblast",
+    "city": "Petrovskoye",
+    "name": "Orlovka Airfield",
+    "icao": "RU-0514",
+    "lat": 56.143813,
+    "lon": 34.988268
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Plastun",
+    "name": "Plastun Airport",
+    "icao": "UHWP",
+    "lat": 44.814998626709,
+    "lon": 136.29200744629
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Preobrazhenka",
+    "name": "Preobrazhenka Airport",
+    "icao": "UIKP",
+    "lat": 42.921698,
+    "lon": 133.904438
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Priboynyy",
+    "name": "Priboynyy Airport",
+    "icao": "RU-0452",
+    "lat": 55.6498,
+    "lon": 103.2314
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Primorskiy",
+    "name": "Sukhaya Rechka Naval Air Base",
+    "icao": "RU-0278",
+    "lat": 43.029,
+    "lon": 131.542
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Psebay",
+    "name": "Psebay Airport",
+    "icao": "RU-0426",
+    "lat": 44.1104528360999,
+    "lon": 40.8188438415999
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Pudozh",
+    "name": "Pudozh Airport",
+    "icao": "ULPA",
+    "lat": 61.8250007629,
+    "lon": 36.5800018311
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Purnema",
+    "name": "Purnema Airport",
+    "icao": "ULBM",
+    "lat": 64.3854002577,
+    "lon": 37.4412345886
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Putilovo",
+    "name": "Severniy veter",
+    "icao": "ULSW",
+    "lat": 59.835311,
+    "lon": 31.480533
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Pyaozerskiy",
+    "name": "Pyaozero Airport",
+    "icao": "RU-0191",
+    "lat": 65.7689971923828,
+    "lon": 30.9769992828369
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Ramentsy",
+    "name": "Kyargozero Air Base",
+    "icao": "RU-0183",
+    "lat": 63.3050003052,
+    "lon": 34.4550018311
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Remontnoye",
+    "name": "Remontnoye Airport",
+    "icao": "URRE",
+    "lat": 46.544302,
+    "lon": 43.6457
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnodar Krai",
+    "city": "Rodnikovskaya",
+    "name": "Rodnikovskaya Airstrip",
+    "icao": "RU-0407",
+    "lat": 44.777646496,
+    "lon": 40.7087659836
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Rostov-na-Donu",
+    "name": "Rostov-na-Donu Tsentralny Air Base",
+    "icao": "RU-0372",
+    "lat": 47.2763,
+    "lon": 39.6377
+  },
+  {
+    "country": "Russia",
+    "state": "Altai Krai",
+    "city": "Rubtsovsk",
+    "name": "Rubtsovsk Airport",
+    "icao": "UNBR",
+    "lat": 51.5833320617675,
+    "lon": 81.1999969482421
+  },
+  {
+    "country": "Russia",
+    "state": "Yaroslavl Oblast",
+    "city": "Rybinsk",
+    "name": "Rybinsk Yuzhny Airfield",
+    "icao": "RU-0241",
+    "lat": 58.0,
+    "lon": 38.84
+  },
+  {
+    "country": "Russia",
+    "state": "Yamalo-Nenets Autonomous Okrug",
+    "city": "Sabetta",
+    "name": "Sabetta International Airport",
+    "icao": "USDA",
+    "lat": 71.219167,
+    "lon": 72.052222
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "Saint Petersburg",
+    "name": "Saint Petersburg Children's Hospital No.1 Helipad",
+    "icao": "RU-0150",
+    "lat": 59.8362998962402,
+    "lon": 30.1865005493164
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "Saint Petersburg",
+    "name": "Ambassador Hotel Helipad",
+    "icao": "RU-0175",
+    "lat": 59.924900054932,
+    "lon": 30.310459136963
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "Saint Petersburg",
+    "name": "Strelna Heliport",
+    "icao": "ULSR",
+    "lat": 59.8605003356933,
+    "lon": 30.0520000457763
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "Saint Petersburg",
+    "name": "Lensovetovskiy Heliport",
+    "icao": "RU-0300",
+    "lat": 59.7655047384,
+    "lon": 30.4800224304
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "Saint Petersburg",
+    "name": "Osinovaya Roshcha Helipad",
+    "icao": "RU-0428",
+    "lat": 60.1020986078,
+    "lon": 30.2621734142
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Sal'sk",
+    "name": "Sal'sk 2 Airfield",
+    "icao": "URRS",
+    "lat": 46.45755,
+    "lon": 41.483345
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Salsk",
+    "name": "Alexandria Heliport",
+    "icao": "RU-0477",
+    "lat": 46.471842,
+    "lon": 41.562835
+  },
+  {
+    "country": "Russia",
+    "state": "Samara Oblast",
+    "city": "Samara",
+    "name": "Bezymyanka Airfield",
+    "icao": "UWWG",
+    "lat": 53.2200012207031,
+    "lon": 50.3250007629394
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sangar",
+    "name": "Sangar Airport",
+    "icao": "UEMS",
+    "lat": 63.9594,
+    "lon": 127.42
+  },
+  {
+    "country": "Russia",
+    "state": "Khanty-Mansi Autonomous Okrug",
+    "city": "Saranpaul'",
+    "name": "Saranpaul' Airport",
+    "icao": "USHA",
+    "lat": 64.2571,
+    "lon": 60.9123
+  },
+  {
+    "country": "Russia",
+    "state": "Saratov Oblast",
+    "city": "Saratov",
+    "name": "Dubki Airfield",
+    "icao": "RU-0314",
+    "lat": 51.647,
+    "lon": 46.059
+  },
+  {
+    "country": "Russia",
+    "state": "Ryazan Oblast",
+    "city": "Sasovo",
+    "name": "Sasovo Airfield",
+    "icao": "RU-0093",
+    "lat": 54.3540000915527,
+    "lon": 41.9739990234375
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Sayylyk",
+    "name": "Horula Airfield",
+    "icao": "UEDN",
+    "lat": 63.9622,
+    "lon": 118.644602
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Karelia",
+    "city": "Segezha",
+    "name": "Segezha Airfield",
+    "icao": "ULPS",
+    "lat": 63.758999,
+    "lon": 34.283001
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Seltso",
+    "name": "Seltso Airfield",
+    "icao": "RU-0155",
+    "lat": 59.617443,
+    "lon": 29.542865
+  },
+  {
+    "country": "Russia",
+    "state": "Ryazan Oblast",
+    "city": "Seltsy",
+    "name": "Seltsy Heliport",
+    "icao": "RU-0482",
+    "lat": 54.909708,
+    "lon": 39.570599
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Sergiyev Posad",
+    "name": "Vikhrevo Airfield",
+    "icao": "RU-0391",
+    "lat": 56.2416806237,
+    "lon": 38.1584358215
+  },
+  {
+    "country": "Russia",
+    "state": "Novosibirsk Oblast",
+    "city": "Severnoe",
+    "name": "Severnoye Airport",
+    "icao": "RU-0116",
+    "lat": 56.3349990845,
+    "lon": 78.3550033569
+  },
+  {
+    "country": "Russia",
+    "state": "Sverdlovsk Oblast",
+    "city": "Severouralsk",
+    "name": "Severouralsk Airport",
+    "icao": "USSE",
+    "lat": 60.3016662597656,
+    "lon": 60.0750007629394
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Shakhty",
+    "name": "Shakhty Airfield",
+    "icao": "URRH",
+    "lat": 47.697,
+    "lon": 40.287
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Shalinskoye",
+    "name": "Manskiy Airfield",
+    "icao": "RU-0157",
+    "lat": 55.7630004882812,
+    "lon": 93.7770004272461
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Shenkursk",
+    "name": "Shenkursk Airport",
+    "icao": "ULAN",
+    "lat": 62.1170005798339,
+    "lon": 42.882999420166
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Shkotovo",
+    "name": "Pristan Naval Air Base",
+    "icao": "RU-0328",
+    "lat": 43.243,
+    "lon": 132.329
+  },
+  {
+    "country": "Russia",
+    "state": "Nenets Autonomous Okrug",
+    "city": "Shoyna",
+    "name": "Shoyna Airport",
+    "icao": "ULBO",
+    "lat": 67.8690032958984,
+    "lon": 44.1510009765625
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Shtykovo",
+    "name": "Maikhe Airfield",
+    "icao": "RU-0148",
+    "lat": 43.4230003356933,
+    "lon": 132.425003051757
+  },
+  {
+    "country": "Russia",
+    "state": "Altai Krai",
+    "city": "Sibirskiy",
+    "name": "Sibirskiy Heliport",
+    "icao": "RU-0344",
+    "lat": 53.5858308029,
+    "lon": 83.8623762131
+  },
+  {
+    "country": "Russia",
+    "state": "Sakhalin Oblast",
+    "city": "Smirnykh",
+    "name": "Smirnykh Air Base",
+    "icao": "RU-0489",
+    "lat": 49.736042,
+    "lon": 142.859672
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Smolyaninovo",
+    "name": "Novorossiya Airfield",
+    "icao": "RU-0333",
+    "lat": 43.347,
+    "lon": 132.557
+  },
+  {
+    "country": "Russia",
+    "state": "Amur Oblast",
+    "city": "Snezhnogorsk",
+    "name": "Zhurban Airport",
+    "icao": "RU-0456",
+    "lat": 54.1745,
+    "lon": 127.989703
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Solovyovo",
+    "name": "Burny Airfield",
+    "icao": "RU-0361",
+    "lat": 60.61188,
+    "lon": 30.474349
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Sosnovka",
+    "name": "Sosnovka Airport",
+    "icao": "RU-0205",
+    "lat": 66.5039978027343,
+    "lon": 40.5779991149902
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Srednekolymsk",
+    "name": "Srednekolymsk Airport",
+    "icao": "UESK",
+    "lat": 67.4805,
+    "lon": 153.7364
+  },
+  {
+    "country": "Russia",
+    "state": "Saint Petersburg (city)",
+    "city": "St. Petersburg",
+    "name": "Komendantskiy Airfield",
+    "icao": "RU-0153",
+    "lat": 59.9970016479492,
+    "lon": 30.2900009155273
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Staritsa",
+    "name": "Staritsa Airstrip",
+    "icao": "RU-0420",
+    "lat": 56.5123435441,
+    "lon": 34.9719715118
+  },
+  {
+    "country": "Russia",
+    "state": "Vladimir Oblast",
+    "city": "Staryy Dvor",
+    "name": "Tarbayevo Airport",
+    "icao": "RU-0512",
+    "lat": 56.296683,
+    "lon": 40.157771
+  },
+  {
+    "country": "Russia",
+    "state": "Magadan Oblast",
+    "city": "Susman",
+    "name": "Susuman Airport",
+    "icao": "UHMH",
+    "lat": 62.7666664123535,
+    "lon": 148.146667480468
+  },
+  {
+    "country": "Russia",
+    "state": "Vladimir Oblast",
+    "city": "Suzdal",
+    "name": "Suzdal Airport",
+    "icao": "RU-0364",
+    "lat": 56.492614,
+    "lon": 40.380292
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Svetlaya",
+    "name": "Svetlaya Airport",
+    "icao": "UHTQ",
+    "lat": 46.541704,
+    "lon": 138.321703
+  },
+  {
+    "country": "Russia",
+    "state": "Samara Oblast",
+    "city": "Syzran",
+    "name": "Troekurovka Air Base",
+    "icao": "RU-0095",
+    "lat": 53.2239990234375,
+    "lon": 48.5499992370605
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Taganrog",
+    "name": "Taganrog Yuzhny Airport",
+    "icao": "URRT",
+    "lat": 47.1983333,
+    "lon": 38.8491667
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Talakan Oil Field",
+    "name": "Talakan Airport",
+    "icao": "UECT",
+    "lat": 59.876389,
+    "lon": 111.044444
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Taldom",
+    "name": "Taldom airstrip",
+    "icao": "RU-0492",
+    "lat": 56.7397979,
+    "lon": 37.6042247
+  },
+  {
+    "country": "Russia",
+    "state": "Tambov Oblast",
+    "city": "Tambov",
+    "name": "Goreloye Airfield",
+    "icao": "RU-0289",
+    "lat": 52.957,
+    "lon": 41.469
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Tatsinskaya",
+    "name": "Tatsinskaya Airfield",
+    "icao": "RU-0371",
+    "lat": 48.167059,
+    "lon": 41.277866
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Tenkeli",
+    "name": "Tenkeli Airport",
+    "icao": "UEBE",
+    "lat": 70.1643,
+    "lon": 140.7073
+  },
+  {
+    "country": "Russia",
+    "state": "Omsk Oblast",
+    "city": "Tevriz",
+    "name": "Tevriz Airport",
+    "icao": "UNOW",
+    "lat": 57.5040016174316,
+    "lon": 72.3310012817382
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Tigil",
+    "name": "Tigil Airport",
+    "icao": "UHPG",
+    "lat": 57.7840003967285,
+    "lon": 158.729995727539
+  },
+  {
+    "country": "Russia",
+    "state": "Leningrad Oblast",
+    "city": "Tikhvin",
+    "name": "Tikhvin Airport",
+    "icao": "RU-0161",
+    "lat": 59.6500015258789,
+    "lon": 33.5950012207031
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Dagestan",
+    "city": "Tlyarata",
+    "name": "Tlyarata Helipad",
+    "icao": "RU-0379",
+    "lat": 42.1167563323,
+    "lon": 46.3519728184
+  },
+  {
+    "country": "Russia",
+    "state": "Samara Oblast",
+    "city": "Tolyatti",
+    "name": "Tolyatti Airport",
+    "icao": "UWWT",
+    "lat": 53.5962743924,
+    "lon": 49.3781161308
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Tomtor",
+    "name": "Tomtor Airport",
+    "icao": "RU-0196",
+    "lat": 63.243,
+    "lon": 143.173004
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Torbusha",
+    "name": "Torbusha Airstrip",
+    "icao": "RU-0437",
+    "lat": 56.1475,
+    "lon": 162.1634
+  },
+  {
+    "country": "Russia",
+    "state": "Vologda Oblast",
+    "city": "Totma",
+    "name": "Totma Airport",
+    "icao": "ULWT",
+    "lat": 59.9835754516,
+    "lon": 42.7672863007
+  },
+  {
+    "country": "Russia",
+    "state": "Nizhny Novgorod Oblast",
+    "city": "Troitsa",
+    "name": "Shapkino Airport",
+    "icao": "RU-0509",
+    "lat": 56.037273,
+    "lon": 43.558402
+  },
+  {
+    "country": "Russia",
+    "state": "Republic of Kalmykia",
+    "city": "Troitskoye",
+    "name": "Troitskoye Air Base",
+    "icao": "RU-0131",
+    "lat": 46.455002,
+    "lon": 44.209999
+  },
+  {
+    "country": "Russia",
+    "state": "Tula Oblast",
+    "city": "Tula",
+    "name": "Myasnovo Airfield",
+    "icao": "RU-0229",
+    "lat": 54.213,
+    "lon": 37.551
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Tura",
+    "name": "Tura Airport",
+    "icao": "UNHT",
+    "lat": 64.2821,
+    "lon": 100.2035
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow (city)",
+    "city": "Tushino",
+    "name": "Tushino Heliport",
+    "icao": "RU-0479",
+    "lat": 55.820866,
+    "lon": 37.420067
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Tutonchany",
+    "name": "Tutonchany Airport",
+    "icao": "UOTU",
+    "lat": 64.2337,
+    "lon": 93.8
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Tver",
+    "name": "Zmeyevo Airfield",
+    "icao": "UUBN",
+    "lat": 56.915001,
+    "lon": 35.935001
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Tyubelyahe",
+    "name": "Chumpu-Kytyl Airport",
+    "icao": "UEAT",
+    "lat": 65.371234,
+    "lon": 143.167048
+  },
+  {
+    "country": "Russia",
+    "state": "Novosibirsk Oblast",
+    "city": "Ubinskoye",
+    "name": "Ubinskoye Airport",
+    "icao": "RU-0337",
+    "lat": 55.3166,
+    "lon": 79.6666
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Ugolnye Kopi",
+    "name": "Mys Nizmenny Airport",
+    "icao": "RU-0330",
+    "lat": 64.8014732872,
+    "lon": 177.584424019
+  },
+  {
+    "country": "Russia",
+    "state": "Ulyanovsk Oblast",
+    "city": "Ulyanovsk",
+    "name": "Bely Klyuch Airfield",
+    "icao": "RU-0281",
+    "lat": 54.1965,
+    "lon": 48.321
+  },
+  {
+    "country": "Russia",
+    "state": "Lipetsk Oblast",
+    "city": "Usman",
+    "name": "Usman Airfield",
+    "icao": "RU-0323",
+    "lat": 52.025,
+    "lon": 39.675
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Ussuriysk",
+    "name": "Vozdvizhenka Air Base",
+    "icao": "RU-0327",
+    "lat": 43.907501,
+    "lon": 131.925008
+  },
+  {
+    "country": "Russia",
+    "state": "Altai Republic",
+    "city": "Ust-Koksa Airport",
+    "name": "Ust-Koksa Airport",
+    "icao": "UNBU",
+    "lat": 50.2649993896484,
+    "lon": 85.7099990844726
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Ust-Kuyga",
+    "name": "Ust-Kuyga Airport",
+    "icao": "UEBT",
+    "lat": 70.011002,
+    "lon": 135.645004
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Ust-Mil",
+    "name": "Ust-Mil Airstrip",
+    "icao": "UEQM",
+    "lat": 59.631249,
+    "lon": 133.089694
+  },
+  {
+    "country": "Russia",
+    "state": "Irkutsk Oblast",
+    "city": "Ust-Ordynskiy",
+    "name": "Ust-Ordynskiy Airport",
+    "icao": "UIOO",
+    "lat": 52.8199996948242,
+    "lon": 104.739997863769
+  },
+  {
+    "country": "Russia",
+    "state": "(unassigned)",
+    "city": "Utkino",
+    "name": "Lake Krasnogvardeyskoye",
+    "icao": "ULSZ",
+    "lat": 60.268033,
+    "lon": 29.234033
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Uzunovo",
+    "name": "Uzunovo Airport",
+    "icao": "RU-0227",
+    "lat": 54.5264613145,
+    "lon": 38.5971164703
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Vankarem",
+    "name": "Vankarem Airport",
+    "icao": "UHDW",
+    "lat": 67.838719,
+    "lon": -175.8494283
+  },
+  {
+    "country": "Russia",
+    "state": "Murmansk Oblast",
+    "city": "Varzuga",
+    "name": "Varzuga Airport",
+    "icao": "ULMB",
+    "lat": 66.4117,
+    "lon": 36.594
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Vayegi",
+    "name": "Vayegi Airport",
+    "icao": "UHAW",
+    "lat": 64.167442,
+    "lon": 171.057887
+  },
+  {
+    "country": "Russia",
+    "state": "Arkhangelsk Oblast",
+    "city": "Velsk",
+    "name": "Vaga River Heliport",
+    "icao": "RU-0474",
+    "lat": 61.151632,
+    "lon": 42.238552
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Verkhneimbatsk",
+    "name": "Verkhneimbatsk Airport",
+    "icao": "RU-0121",
+    "lat": 63.1559982299804,
+    "lon": 87.9739990234375
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Vladimiro-Aleksandrovskoye",
+    "name": "Zolotaya Dolina Air Base",
+    "icao": "UHU1",
+    "lat": 42.9599990844726,
+    "lon": 133.115005493164
+  },
+  {
+    "country": "Russia",
+    "state": "Altai Krai",
+    "city": "Volchikha",
+    "name": "Volchikha Airport",
+    "icao": "UNBM",
+    "lat": 52.0250889138,
+    "lon": 80.3378677368
+  },
+  {
+    "country": "Russia",
+    "state": "Volgograd Oblast",
+    "city": "Volgograd",
+    "name": "Beketovka Air Base",
+    "icao": "RU-0306",
+    "lat": 48.551003,
+    "lon": 44.369
+  },
+  {
+    "country": "Russia",
+    "state": "(unassigned)",
+    "city": "Volkhov-Most",
+    "name": "Volkhov-Most river runway",
+    "icao": "RU-0480",
+    "lat": 59.0652092,
+    "lon": 31.7641172
+  },
+  {
+    "country": "Russia",
+    "state": "Vologda Oblast",
+    "city": "Vologda",
+    "name": "Trufanovo Airfield",
+    "icao": "XLWT",
+    "lat": 59.308998,
+    "lon": 39.849998
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Volosovo",
+    "name": "Volosovo Airfield",
+    "icao": "RU-0220",
+    "lat": 55.068,
+    "lon": 37.454
+  },
+  {
+    "country": "Russia",
+    "state": "Saratov Oblast",
+    "city": "Volsk",
+    "name": "Volsk Airfield",
+    "icao": "RU-0385",
+    "lat": 52.0303435012999,
+    "lon": 47.322063446
+  },
+  {
+    "country": "Russia",
+    "state": "Voronezh Oblast",
+    "city": "Voronezh",
+    "name": "Pridachinskaya Damba Heliport",
+    "icao": "RU-0302",
+    "lat": 51.67409209,
+    "lon": 39.2387545108999
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Voskresensk",
+    "name": "Voskresensk Airstrip",
+    "icao": "RU-0359",
+    "lat": 55.3072155810999,
+    "lon": 38.5956573486
+  },
+  {
+    "country": "Russia",
+    "state": "Vladimir Oblast",
+    "city": "Vtorovo",
+    "name": "Vtorovo Airport",
+    "icao": "RU-0503",
+    "lat": 56.254781,
+    "lon": 40.811732
+  },
+  {
+    "country": "Russia",
+    "state": "Smolensk Oblast",
+    "city": "Vyazma",
+    "name": "Vyazma Zapadny Airstrip",
+    "icao": "RU-0236",
+    "lat": 55.2035614168999,
+    "lon": 34.2527103424
+  },
+  {
+    "country": "Russia",
+    "state": "Vologda Oblast",
+    "city": "Vytegra",
+    "name": "Vytegra Airfield",
+    "icao": "ULWR",
+    "lat": 61.032001,
+    "lon": 36.435001
+  },
+  {
+    "country": "Russia",
+    "state": "Chukotka Autonomous Okrug",
+    "city": "Wrangel Island",
+    "name": "Wrangel Island Airport",
+    "icao": "UHMZ",
+    "lat": 70.945356,
+    "lon": -179.5
+  },
+  {
+    "country": "Russia",
+    "state": "Tyumen Oblast",
+    "city": "Yalutorovsk",
+    "name": "Yalutorovsk Airfield",
+    "icao": "RU-0122",
+    "lat": 56.6669998168945,
+    "lon": 66.2580032348632
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Yartsevo",
+    "name": "Yartsevo Airport",
+    "icao": "UNIJ",
+    "lat": 60.2550010681152,
+    "lon": 90.1949996948242
+  },
+  {
+    "country": "Russia",
+    "state": "Primorsky Krai",
+    "city": "Yedinka",
+    "name": "Yedinka Airport",
+    "icao": "UHWE",
+    "lat": 47.178201,
+    "lon": 138.657357
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Yegorlykskaya",
+    "name": "Yegorlykskaya Air Base",
+    "icao": "RU-0163",
+    "lat": 46.573002,
+    "lon": 40.59
+  },
+  {
+    "country": "Russia",
+    "state": "Kamchatka Krai",
+    "city": "Yelizovo",
+    "name": "Avachinskiy Heliport",
+    "icao": "RU-0143",
+    "lat": 53.1599998474121,
+    "lon": 158.384994506835
+  },
+  {
+    "country": "Russia",
+    "state": "Novosibirsk Oblast",
+    "city": "Yurt-Ora",
+    "name": "Yurt-Ora Airstrip",
+    "icao": "RU-0338",
+    "lat": 55.4501751626,
+    "lon": 82.9164683819
+  },
+  {
+    "country": "Russia",
+    "state": "Tver Oblast",
+    "city": "Yuryevskoye",
+    "name": "Yuryevskoye Airport",
+    "icao": "RU-0184",
+    "lat": 56.7799987792968,
+    "lon": 36.2849998474121
+  },
+  {
+    "country": "Russia",
+    "state": "Rostov Oblast",
+    "city": "Zernograd",
+    "name": "Zernograd Air Base",
+    "icao": "RU-0313",
+    "lat": 46.835,
+    "lon": 40.38
+  },
+  {
+    "country": "Russia",
+    "state": "Amur Oblast",
+    "city": "Zeya",
+    "name": "Zeya Airport",
+    "icao": "UHBE",
+    "lat": 53.6904983520507,
+    "lon": 127.090797424316
+  },
+  {
+    "country": "Russia",
+    "state": "Astrakhan Oblast",
+    "city": "Znamensk",
+    "name": "Kapustin Yar Airfield",
+    "icao": "RU-0304",
+    "lat": 48.667,
+    "lon": 45.732
+  },
+  {
+    "country": "Russia",
+    "state": "Krasnoyarsk Krai",
+    "city": "Zotino",
+    "name": "Zotino Airport",
+    "icao": "UNHZ",
+    "lat": 60.900834,
+    "lon": 89.680726
+  },
+  {
+    "country": "Russia",
+    "state": "Moscow Oblast",
+    "city": "Zverosovkhoz",
+    "name": "Pushkino Heliport",
+    "icao": "RU-0193",
+    "lat": 56.0419998168999,
+    "lon": 37.9780006409
+  },
+  {
+    "country": "Russia",
+    "state": "Sakha (Yakutia) Republic",
+    "city": "Zyryanka",
+    "name": "Zyryanka West Airport",
+    "icao": "RU-0438",
+    "lat": 65.7367,
+    "lon": 150.705
+  }
+]

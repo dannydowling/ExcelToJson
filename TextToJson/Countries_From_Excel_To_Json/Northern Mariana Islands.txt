@@ -1,0 +1,74 @@
+[
+  {
+    "country": "Northern Mariana Islands",
+    "state": "(unassigned)",
+    "city": "Tinian Island",
+    "name": "Tinian International Airport",
+    "icao": "PGWT",
+    "lat": 14.9991998672485,
+    "lon": 145.619003295898
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "state": "Rota Island",
+    "city": "Rota Island",
+    "name": "Rota International Airport",
+    "icao": "PGRO",
+    "lat": 14.1743001937866,
+    "lon": 145.24299621582
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "state": "(unassigned)",
+    "city": "Shomu-Shon",
+    "name": "Pagan Airstrip",
+    "icao": "TT01",
+    "lat": 18.1243991851806,
+    "lon": 145.768997192382
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "state": "(unassigned)",
+    "city": "Gualo Ral",
+    "name": "Gualo Ral Heliport",
+    "icao": "TT04",
+    "lat": 15.1883001328,
+    "lon": 145.723999023
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "state": "Koblerville",
+    "city": "Koblerville",
+    "name": "Coral Ocean Point Pro-Shop Heliport",
+    "icao": "HI63",
+    "lat": 15.1143999099731,
+    "lon": 145.701995849609
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "state": "San Jose Tinian",
+    "city": "San Jose Tinian",
+    "name": "Tinian Dynasty Heliport",
+    "icao": "HI64",
+    "lat": 14.960032,
+    "lon": 145.631096
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "state": "San Jose, Tinian",
+    "city": "San Jose, Tinian",
+    "name": "Tinian Heliport",
+    "icao": "HI22",
+    "lat": 14.9600000381469,
+    "lon": 145.626007080078
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "state": "San Roque",
+    "city": "San Roque",
+    "name": "Nikko Heliport",
+    "icao": "TT03",
+    "lat": 15.25,
+    "lon": 145.783004761
+  }
+]

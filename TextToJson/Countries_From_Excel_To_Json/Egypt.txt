@@ -1,0 +1,317 @@
+[
+  {
+    "country": "Egypt",
+    "state": "Cairo Governorate",
+    "city": "Cairo",
+    "name": "Cairo International Airport",
+    "icao": "HECA",
+    "lat": 30.1219005584716,
+    "lon": 31.4055995941162
+  },
+  {
+    "country": "Egypt",
+    "state": "Red Sea Governorate",
+    "city": "Hurghada",
+    "name": "Hurghada International Airport",
+    "icao": "HEGN",
+    "lat": 27.1783008575439,
+    "lon": 33.7994003295898
+  },
+  {
+    "country": "Egypt",
+    "state": "Qena Governorate",
+    "city": "Luxor",
+    "name": "Luxor International Airport",
+    "icao": "HELX",
+    "lat": 25.671,
+    "lon": 32.7066
+  },
+  {
+    "country": "Egypt",
+    "state": "Alexandria Governorate",
+    "city": "Alexandria",
+    "name": "El Nouzha Airport",
+    "icao": "HEAX",
+    "lat": 31.1839008331298,
+    "lon": 29.9489002227783
+  },
+  {
+    "country": "Egypt",
+    "state": "Matruh Governorate",
+    "city": "Mersa Matruh",
+    "name": "Mersa Matruh Airport",
+    "icao": "HEMM",
+    "lat": 31.3253993988,
+    "lon": 27.2217006683
+  },
+  {
+    "country": "Egypt",
+    "state": "North Sinai Governorate",
+    "city": "North Sinai Governorate",
+    "name": "Bir Jifjafah Airport",
+    "icao": "HE36",
+    "lat": 30.4071006774999,
+    "lon": 33.1540985107
+  },
+  {
+    "country": "Egypt",
+    "state": "Red Sea Governorate",
+    "city": "El Gouna",
+    "name": "El Gouna Airport",
+    "icao": "HEGO",
+    "lat": 27.3668994903564,
+    "lon": 33.6682014465332
+  },
+  {
+    "country": "Egypt",
+    "state": "North Sinai Governorate",
+    "city": "El Arish",
+    "name": "El Arish International Airport",
+    "icao": "HEAR",
+    "lat": 31.073299408,
+    "lon": 33.8358001709
+  },
+  {
+    "country": "Egypt",
+    "state": "Dakahlia Governorate",
+    "city": "Dakahlia Governorate",
+    "name": "Al Mansurah Airport",
+    "icao": "HE32",
+    "lat": 30.9675998687744,
+    "lon": 31.4342002868652
+  },
+  {
+    "country": "Egypt",
+    "state": "New Valley Governorate",
+    "city": "New Valley Governorate",
+    "name": "El Oweinat East International Airport",
+    "icao": "HEOW",
+    "lat": 22.585699,
+    "lon": 28.7166
+  },
+  {
+    "country": "Egypt",
+    "state": "Sharqia Governorate",
+    "city": "Sharqia Governorate",
+    "name": "Az Zaqaziq",
+    "icao": "EG-0002",
+    "lat": 30.5947036743164,
+    "lon": 31.6649303436279
+  },
+  {
+    "country": "Egypt",
+    "state": "Giza Governorate",
+    "city": "Giza Governorate",
+    "name": "Hulwan",
+    "icao": "HE15",
+    "lat": 29.8225002288818,
+    "lon": 31.3309001922607
+  },
+  {
+    "country": "Egypt",
+    "state": "Beni Suef Governorate",
+    "city": "Beni Suef",
+    "name": "Beni Suef Air Base",
+    "icao": "HEBS",
+    "lat": 29.2082996368408,
+    "lon": 31.0165996551513
+  },
+  {
+    "country": "Egypt",
+    "state": "Cairo Governorate",
+    "city": "Cairo",
+    "name": "Giza Embaba Airport",
+    "icao": "HEEM",
+    "lat": 30.0746994018554,
+    "lon": 31.1914005279541
+  },
+  {
+    "country": "Egypt",
+    "state": "Gharbia Governorate",
+    "city": "Tanta",
+    "name": "Birma Air Base",
+    "icao": "HE16",
+    "lat": 30.836599,
+    "lon": 30.936001
+  },
+  {
+    "country": "Egypt",
+    "state": "Asyut Governorate",
+    "city": "Asyut",
+    "name": "Asyut International Airport",
+    "icao": "HEAT",
+    "lat": 27.046499,
+    "lon": 31.011999
+  },
+  {
+    "country": "Egypt",
+    "state": "Sharqia Governorate",
+    "city": "Bilbeis",
+    "name": "Bilbeis Air Base",
+    "icao": "HE37",
+    "lat": 30.394899,
+    "lon": 31.6014
+  },
+  {
+    "country": "Egypt",
+    "state": "Matruh Governorate",
+    "city": "El Alamein",
+    "name": "El Alamein International Airport",
+    "icao": "HEAL",
+    "lat": 30.9244995117187,
+    "lon": 28.4613990783691
+  },
+  {
+    "country": "Egypt",
+    "state": "North Sinai Governorate",
+    "city": "El Gora",
+    "name": "El Gora Airport",
+    "icao": "HEGR",
+    "lat": 31.068559,
+    "lon": 34.129629
+  },
+  {
+    "country": "Egypt",
+    "state": "Red Sea Governorate",
+    "city": "Red Sea Governorate",
+    "name": "Ras Banas Airport",
+    "icao": "HE14",
+    "lat": 23.974100112915,
+    "lon": 35.4603004455566
+  },
+  {
+    "country": "Egypt",
+    "state": "Matruh Governorate",
+    "city": "Matruh Governorate",
+    "name": "Habata Airport",
+    "icao": "HE18",
+    "lat": 31.1075000762939,
+    "lon": 25.4521007537841
+  },
+  {
+    "country": "Egypt",
+    "state": "Red Sea Governorate",
+    "city": "Red Sea Governorate",
+    "name": "Ras Jimsah New Airport",
+    "icao": "HE20",
+    "lat": 27.8351001739501,
+    "lon": 33.5257987976074
+  },
+  {
+    "country": "Egypt",
+    "state": "Port Said Governorate",
+    "city": "Port Said Governorate",
+    "name": "Baluza Airport",
+    "icao": "HE22",
+    "lat": 31.0002002716064,
+    "lon": 32.5527992248535
+  },
+  {
+    "country": "Egypt",
+    "state": "Matruh Governorate",
+    "city": "Matruh Governorate",
+    "name": "Uthman Air Base",
+    "icao": "HE27",
+    "lat": 29.5552005767822,
+    "lon": 25.5890007019042
+  },
+  {
+    "country": "Egypt",
+    "state": "Faiyum Governorate",
+    "city": "Faiyum Governorate",
+    "name": "Kom Awshim Airport",
+    "icao": "HE30",
+    "lat": 29.554100036621,
+    "lon": 30.8950996398925
+  },
+  {
+    "country": "Egypt",
+    "state": "Matruh Governorate",
+    "city": "Matruh Governorate",
+    "name": "Deir El Gill Airport",
+    "icao": "HE33",
+    "lat": 30.732099533081,
+    "lon": 27.0191993713378
+  },
+  {
+    "country": "Egypt",
+    "state": "Sharqia Governorate",
+    "city": "Sharqia Governorate",
+    "name": "As Salihiyah Airport",
+    "icao": "HE39",
+    "lat": 30.7952003479003,
+    "lon": 32.0441017150878
+  },
+  {
+    "country": "Egypt",
+    "state": "Minya Governorate",
+    "city": "Minya Governorate",
+    "name": "Quwaysina Airport",
+    "icao": "HE42",
+    "lat": 30.5790004730224,
+    "lon": 31.1291999816894
+  },
+  {
+    "country": "Egypt",
+    "state": "New Valley Governorate",
+    "city": "New Valley Governorate",
+    "name": "El Kharga Airport",
+    "icao": "HEKG",
+    "lat": 25.4736003875732,
+    "lon": 30.5907001495361
+  },
+  {
+    "country": "Egypt",
+    "state": "North Sinai Governorate",
+    "city": "North Sinai Governorate",
+    "name": "Bir Hasanah",
+    "icao": "EG-0004",
+    "lat": 30.1944007873535,
+    "lon": 33.412799835205
+  },
+  {
+    "country": "Egypt",
+    "state": "Sharqia Governorate",
+    "city": "Inshas",
+    "name": "Inshas Air Base",
+    "icao": "HE12",
+    "lat": 30.332373,
+    "lon": 31.448109
+  },
+  {
+    "country": "Egypt",
+    "state": "Ismailia Governorate",
+    "city": "Ismailia",
+    "name": "Al Ismailiyah Airport",
+    "icao": "HE44",
+    "lat": 30.5988006591796,
+    "lon": 32.2346000671386
+  },
+  {
+    "country": "Egypt",
+    "state": "Minya Governorate",
+    "city": "Minya",
+    "name": "El Minya Airport",
+    "icao": "HE25",
+    "lat": 28.1012992859,
+    "lon": 30.7303009032999
+  },
+  {
+    "country": "Egypt",
+    "state": "Giza Governorate",
+    "city": "Giza",
+    "name": "Sphinx International Airport",
+    "icao": "HESX",
+    "lat": 30.108148,
+    "lon": 30.89569
+  },
+  {
+    "country": "Egypt",
+    "state": "Sohag Governorate",
+    "city": "Sohag",
+    "name": "Sohag International Airport",
+    "icao": "HEMK",
+    "lat": 26.342778,
+    "lon": 31.742778
+  }
+]

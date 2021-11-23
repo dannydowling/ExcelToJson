@@ -1,0 +1,821 @@
+[
+  {
+    "country": "Tanzania",
+    "state": "Kaskazini Unguja Region",
+    "city": "Zanzibar",
+    "name": "Abeid Amani Karume International Airport",
+    "icao": "HTZA",
+    "lat": -6.22202,
+    "lon": 39.224899
+  },
+  {
+    "country": "Tanzania",
+    "state": "Dar-es-Salaam Region",
+    "city": "Dar es Salaam",
+    "name": "Julius Nyerere International Airport",
+    "icao": "HTDA",
+    "lat": -6.87811,
+    "lon": 39.202599
+  },
+  {
+    "country": "Tanzania",
+    "state": "Manyara Region",
+    "city": "Arusha",
+    "name": "Kilimanjaro International Airport",
+    "icao": "HTKJ",
+    "lat": -3.42940998077,
+    "lon": 37.0745010376
+  },
+  {
+    "country": "Tanzania",
+    "state": "Arusha Region",
+    "city": "Arusha",
+    "name": "Arusha Airport",
+    "icao": "HTAR",
+    "lat": -3.36778998374938,
+    "lon": 36.63330078125
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mbeya Region",
+    "city": "Mbeya",
+    "name": "Mbeya Airport",
+    "icao": "HTMB",
+    "lat": -8.919444,
+    "lon": 33.463889
+  },
+  {
+    "country": "Tanzania",
+    "state": "Kagera Region",
+    "city": "Bukoba",
+    "name": "Bukoba Airport",
+    "icao": "HTBU",
+    "lat": -1.332,
+    "lon": 31.8212
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mara Region",
+    "city": "Musoma",
+    "name": "Musoma Airport",
+    "icao": "HTMU",
+    "lat": -1.503,
+    "lon": 33.8021
+  },
+  {
+    "country": "Tanzania",
+    "state": "Shinyanga Region",
+    "city": "Shinyanga",
+    "name": "Shinyanga Airport",
+    "icao": "HTSY",
+    "lat": -3.6093,
+    "lon": 33.5035
+  },
+  {
+    "country": "Tanzania",
+    "state": "Manyara Region",
+    "city": "Manyara Region",
+    "name": "Oltipesi Airport",
+    "icao": "HTOL",
+    "lat": -4.287732,
+    "lon": 36.616115
+  },
+  {
+    "country": "Tanzania",
+    "state": "Rukwa Region",
+    "city": "Inyonga",
+    "name": "Inyonga Airport",
+    "icao": "HTIY",
+    "lat": -6.719232,
+    "lon": 32.062657
+  },
+  {
+    "country": "Tanzania",
+    "state": "Xigoma Region",
+    "city": "Kibondo",
+    "name": "Kibondo Airport",
+    "icao": "HTKB",
+    "lat": -3.52597999572753,
+    "lon": 30.6504001617431
+  },
+  {
+    "country": "Tanzania",
+    "state": "Singida Region",
+    "city": "Kirondatal",
+    "name": "Kirondatal Airport",
+    "icao": "HTKL",
+    "lat": -4.312575,
+    "lon": 34.346453
+  },
+  {
+    "country": "Tanzania",
+    "state": "Dodoma Region",
+    "city": "Kondoa",
+    "name": "Kondoa Airport",
+    "icao": "HTKD",
+    "lat": -4.89371013641357,
+    "lon": 35.7682991027832
+  },
+  {
+    "country": "Tanzania",
+    "state": "Dodoma Region",
+    "city": "Kongwa",
+    "name": "Kongwa Airport",
+    "icao": "HTKO",
+    "lat": -6.15000009536743,
+    "lon": 36.4169998168945
+  },
+  {
+    "country": "Tanzania",
+    "state": "Ruvuma Region",
+    "city": "Liuli",
+    "name": "Liuli Airport",
+    "icao": "HTLL",
+    "lat": -11.1163997650146,
+    "lon": 34.6521987915039
+  },
+  {
+    "country": "Tanzania",
+    "state": "Arusha Region",
+    "city": "Loliondo",
+    "name": "Loliondo Airport",
+    "icao": "HTLD",
+    "lat": -2.06968998908996,
+    "lon": 35.5457000732421
+  },
+  {
+    "country": "Tanzania",
+    "state": "Pwani Region",
+    "city": "Mafia Island",
+    "name": "Mafia Island Airport",
+    "icao": "HTMA",
+    "lat": -7.917478,
+    "lon": 39.668502
+  },
+  {
+    "country": "Tanzania",
+    "state": "Kilimanjaro Region",
+    "city": "Moshi",
+    "name": "Moshi Airport",
+    "icao": "HTMS",
+    "lat": -3.36332988739013,
+    "lon": 37.3269004821777
+  },
+  {
+    "country": "Tanzania",
+    "state": "Rukwa Region",
+    "city": "Mpanda",
+    "name": "Mpanda Airport",
+    "icao": "HTMP",
+    "lat": -6.355374,
+    "lon": 31.084116
+  },
+  {
+    "country": "Tanzania",
+    "state": "Dodoma Region",
+    "city": "Mpwapwa",
+    "name": "Mpwapwa Airport",
+    "icao": "HTMX",
+    "lat": -6.34999990463256,
+    "lon": 36.4830017089843
+  },
+  {
+    "country": "Tanzania",
+    "state": "Dodoma Region",
+    "city": "Mtera",
+    "name": "Mtera Airport",
+    "icao": "TZ-0001",
+    "lat": -7.097152,
+    "lon": 35.981575
+  },
+  {
+    "country": "Tanzania",
+    "state": "Iringa Region",
+    "city": "Mufindi",
+    "name": "Mufindi Airport",
+    "icao": "HTMF",
+    "lat": -8.73204040527343,
+    "lon": 35.3026008605957
+  },
+  {
+    "country": "Tanzania",
+    "state": "Kagera Region",
+    "city": "Ngara",
+    "name": "Ngara Airport",
+    "icao": "HTNR",
+    "lat": -2.54179000854492,
+    "lon": 30.7031002044677
+  },
+  {
+    "country": "Tanzania",
+    "state": "Iringa Region",
+    "city": "Njombe",
+    "name": "Njombe Airport",
+    "icao": "HTNJ",
+    "lat": -9.35000038146972,
+    "lon": 34.7999992370605
+  },
+  {
+    "country": "Tanzania",
+    "state": "Tabora Region",
+    "city": "Tura",
+    "name": "Tura Airport",
+    "icao": "TZ-0004",
+    "lat": -5.48924016952514,
+    "lon": 33.8782005310058
+  },
+  {
+    "country": "Tanzania",
+    "state": "Xigoma Region",
+    "city": "Uvinza",
+    "name": "Uvinza Airport",
+    "icao": "HTUV",
+    "lat": -5.090771,
+    "lon": 30.406772
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mara Region",
+    "city": "Mara Region",
+    "name": "Sasakwa Airport",
+    "icao": "TZ-0016",
+    "lat": -2.073124,
+    "lon": 34.510235
+  },
+  {
+    "country": "Tanzania",
+    "state": "Shinyanga Region",
+    "city": "Shinyanga Region",
+    "name": "Alliance Airstrip",
+    "icao": "TZ-0056",
+    "lat": -2.602346,
+    "lon": 33.676018
+  },
+  {
+    "country": "Tanzania",
+    "state": "Kagera Region",
+    "city": "Kagera Region",
+    "name": "Kagera Sugar Airport",
+    "icao": "TZ-0069",
+    "lat": -1.233641,
+    "lon": 31.327325
+  },
+  {
+    "country": "Tanzania",
+    "state": "Kilimanjaro Region",
+    "city": "Kilimanjaro Region",
+    "name": "TPC Airport",
+    "icao": "TZ-0118",
+    "lat": -3.500144,
+    "lon": 37.323855
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mara Region",
+    "city": "Mara Region",
+    "name": "Klein's Camp Airport",
+    "icao": "TZ-0123",
+    "lat": -1.775438,
+    "lon": 35.278282
+  },
+  {
+    "country": "Tanzania",
+    "state": "Tabora Region",
+    "city": "Tabora Region",
+    "name": "Kasense Airport",
+    "icao": "TZ-0138",
+    "lat": -5.784903,
+    "lon": 31.355212
+  },
+  {
+    "country": "Tanzania",
+    "state": "Pwani Region",
+    "city": "Pwani Region",
+    "name": "Stieglers Gorge Airport",
+    "icao": "TZ-0141",
+    "lat": -7.820084,
+    "lon": 37.87828
+  },
+  {
+    "country": "Tanzania",
+    "state": "Pwani Region",
+    "city": "Beho Beho",
+    "name": "Beho Beho Airstrip",
+    "icao": "TZ-0030",
+    "lat": -7.666746,
+    "lon": 37.927229
+  },
+  {
+    "country": "Tanzania",
+    "state": "Kagera Region",
+    "city": "Biharamulo",
+    "name": "Biharamulo Airport",
+    "icao": "TZ-0009",
+    "lat": -2.663273,
+    "lon": 31.36515
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mwanza Region",
+    "city": "Buhemba",
+    "name": "Buhemba Airport",
+    "icao": "TZ-0097",
+    "lat": -1.774223,
+    "lon": 34.098139
+  },
+  {
+    "country": "Tanzania",
+    "state": "Shinyanga Region",
+    "city": "Buturi",
+    "name": "Buturi Airport",
+    "icao": "TZ-0032",
+    "lat": -3.199844,
+    "lon": 34.436504
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mbeya Region",
+    "city": "Chunya",
+    "name": "Lukwati Airport",
+    "icao": "TZ-0084",
+    "lat": -7.599608,
+    "lon": 32.3072
+  },
+  {
+    "country": "Tanzania",
+    "state": "Arusha Region",
+    "city": "Endulen",
+    "name": "Endulen Airport",
+    "icao": "HTEN",
+    "lat": -3.194243,
+    "lon": 35.26315
+  },
+  {
+    "country": "Tanzania",
+    "state": "Manyara Region",
+    "city": "Gorimba",
+    "name": "Gorimba Airport",
+    "icao": "TZ-0062",
+    "lat": -4.837753,
+    "lon": 35.366121
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mara Region",
+    "city": "Grumeti Game Reserve",
+    "name": "Kirawira B Aerodrome",
+    "icao": "GTZ",
+    "lat": -2.160833,
+    "lon": 34.225556
+  },
+  {
+    "country": "Tanzania",
+    "state": "Manyara Region",
+    "city": "Haidom",
+    "name": "Haidom Airport",
+    "icao": "TZ-0066",
+    "lat": -4.198626,
+    "lon": 35.018655
+  },
+  {
+    "country": "Tanzania",
+    "state": "Manyara Region",
+    "city": "Harbanget",
+    "name": "Harbanget Airport",
+    "icao": "TZ-0065",
+    "lat": -3.868369,
+    "lon": 35.396409
+  },
+  {
+    "country": "Tanzania",
+    "state": "Kagera Region",
+    "city": "Ibanda",
+    "name": "Ibanda Airport",
+    "icao": "TZ-0067",
+    "lat": -1.074975,
+    "lon": 30.51758
+  },
+  {
+    "country": "Tanzania",
+    "state": "Morogoro Region",
+    "city": "Ifakara",
+    "name": "Mngeta Airport",
+    "icao": "TZ-0102",
+    "lat": -8.364091,
+    "lon": 36.103211
+  },
+  {
+    "country": "Tanzania",
+    "state": "Iringa Region",
+    "city": "Ifunda",
+    "name": "Ifunda Farm Airstrip",
+    "icao": "TZ-0068",
+    "lat": -8.070735,
+    "lon": 35.432556
+  },
+  {
+    "country": "Tanzania",
+    "state": "Singida Region",
+    "city": "Isanga",
+    "name": "Isanga Airport",
+    "icao": "TZ-0034",
+    "lat": -7.527162,
+    "lon": 33.884071
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mbeya Region",
+    "city": "Jongomeru",
+    "name": "Jongomeru Airport",
+    "icao": "TZ-0017",
+    "lat": -7.894934,
+    "lon": 34.580821
+  },
+  {
+    "country": "Tanzania",
+    "state": "Morogoro Region",
+    "city": "Kidatu",
+    "name": "Kilombero Airport",
+    "icao": "TZ-0076",
+    "lat": -7.687751,
+    "lon": 36.986496
+  },
+  {
+    "country": "Tanzania",
+    "state": "Xigoma Region",
+    "city": "Kifura",
+    "name": "Kifura Airstrip",
+    "icao": "TZ-0035",
+    "lat": -3.838092,
+    "lon": 30.640202
+  },
+  {
+    "country": "Tanzania",
+    "state": "Singida Region",
+    "city": "Kilumbi",
+    "name": "Kilumbi Airport",
+    "icao": "TZ-0077",
+    "lat": -6.32536,
+    "lon": 34.173759
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mara Region",
+    "city": "Kishoshoroni",
+    "name": "Kishoshoroni Airport",
+    "icao": "TZ-0078",
+    "lat": -2.015174,
+    "lon": 35.273109
+  },
+  {
+    "country": "Tanzania",
+    "state": "Arusha Region",
+    "city": "Kitumbeine",
+    "name": "Kitumbeine Airport",
+    "icao": "TZ-0079",
+    "lat": -2.820447,
+    "lon": 36.323156
+  },
+  {
+    "country": "Tanzania",
+    "state": "Lindi Region",
+    "city": "Liwale",
+    "name": "Liwale Airport",
+    "icao": "TZ-0011",
+    "lat": -9.796886,
+    "lon": 37.870732
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mara Region",
+    "city": "Lobo",
+    "name": "Lobo Airstrip",
+    "icao": "TZ-0020",
+    "lat": -2.009865,
+    "lon": 35.159105
+  },
+  {
+    "country": "Tanzania",
+    "state": "Morogoro Region",
+    "city": "Lugala",
+    "name": "Lugala Airport",
+    "icao": "TZ-0125",
+    "lat": -8.916494,
+    "lon": 36.126593
+  },
+  {
+    "country": "Tanzania",
+    "state": "Morogoro Region",
+    "city": "Luwegu",
+    "name": "Luwegu Airport",
+    "icao": "TZ-0126",
+    "lat": -9.022345,
+    "lon": 37.289976
+  },
+  {
+    "country": "Tanzania",
+    "state": "Dodoma Region",
+    "city": "Mahaka",
+    "name": "Mahaka Airport",
+    "icao": "TZ-0087",
+    "lat": -6.135581,
+    "lon": 35.049797
+  },
+  {
+    "country": "Tanzania",
+    "state": "Shinyanga Region",
+    "city": "Makau",
+    "name": "Makau Airport",
+    "icao": "TZ-0088",
+    "lat": -3.367409,
+    "lon": 34.824166
+  },
+  {
+    "country": "Tanzania",
+    "state": "Singida Region",
+    "city": "Makwasa",
+    "name": "Makwasa Airport",
+    "icao": "TZ-0128",
+    "lat": -6.817874,
+    "lon": 34.218918
+  },
+  {
+    "country": "Tanzania",
+    "state": "Shinyanga Region",
+    "city": "Maswa",
+    "name": "Mbono 2 Airport",
+    "icao": "TZ-0096",
+    "lat": -3.11141,
+    "lon": 34.660824
+  },
+  {
+    "country": "Tanzania",
+    "state": "Morogoro Region",
+    "city": "Matambwe",
+    "name": "Matambwe Airport",
+    "icao": "TZ-0039",
+    "lat": -7.528887,
+    "lon": 37.76201
+  },
+  {
+    "country": "Tanzania",
+    "state": "Pwani Region",
+    "city": "Matipwili",
+    "name": "Matipwili Airport",
+    "icao": "TZ-0094",
+    "lat": -6.248936,
+    "lon": 38.678104
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mwanza Region",
+    "city": "Mawemeru",
+    "name": "Mawemeru Airport",
+    "icao": "TZ-0139",
+    "lat": -3.111222,
+    "lon": 32.21536
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mbeya Region",
+    "city": "Mbarali",
+    "name": "Mbarali Airport",
+    "icao": "TZ-0095",
+    "lat": -8.656494,
+    "lon": 34.273113
+  },
+  {
+    "country": "Tanzania",
+    "state": "Ruvuma Region",
+    "city": "Mbesa Mission",
+    "name": "Mbesa Airport",
+    "icao": "HTBS",
+    "lat": -11.331675,
+    "lon": 37.067816
+  },
+  {
+    "country": "Tanzania",
+    "state": "Manyara Region",
+    "city": "Mbulu",
+    "name": "Yaeda Airport",
+    "icao": "TZ-0120",
+    "lat": -3.961546,
+    "lon": 35.144932
+  },
+  {
+    "country": "Tanzania",
+    "state": "Morogoro Region",
+    "city": "Mkangira",
+    "name": "Mkangira Airport",
+    "icao": "TZ-0042",
+    "lat": -8.958151,
+    "lon": 37.338793
+  },
+  {
+    "country": "Tanzania",
+    "state": "Lindi Region",
+    "city": "Mkuyu",
+    "name": "Mkuyu Airport",
+    "icao": "TZ-0044",
+    "lat": -9.966951,
+    "lon": 36.878941
+  },
+  {
+    "country": "Tanzania",
+    "state": "Rukwa Region",
+    "city": "Mlele",
+    "name": "Mlele Ram Airport",
+    "icao": "TZ-0101",
+    "lat": -6.784087,
+    "lon": 31.367951
+  },
+  {
+    "country": "Tanzania",
+    "state": "Lindi Region",
+    "city": "Mlembwe",
+    "name": "Mlembwe Airport",
+    "icao": "TZ-0045",
+    "lat": -9.426932,
+    "lon": 37.519672
+  },
+  {
+    "country": "Tanzania",
+    "state": "Rukwa Region",
+    "city": "Mpanda",
+    "name": "Lugonesi Airport",
+    "icao": "TZ-0083",
+    "lat": -6.15954,
+    "lon": 30.298705
+  },
+  {
+    "country": "Tanzania",
+    "state": "Tabora Region",
+    "city": "Mpunde",
+    "name": "Mpunde Airport",
+    "icao": "TZ-0046",
+    "lat": -6.259359,
+    "lon": 33.619996
+  },
+  {
+    "country": "Tanzania",
+    "state": "Rukwa Region",
+    "city": "Msima",
+    "name": "Msima 1 Airport",
+    "icao": "TZ-0104",
+    "lat": -6.339313,
+    "lon": 31.849913
+  },
+  {
+    "country": "Tanzania",
+    "state": "Mtwara Region",
+    "city": "Mtemaupinde",
+    "name": "Mtemaupinde Airport",
+    "icao": "TZ-0047",
+    "lat": -11.206844,
+    "lon": 38.162974
+  },
+  {
+    "country": "Tanzania",
+    "state": "Singida Region",
+    "city": "Muhesi",
+    "name": "Muhesi Airport",
+    "icao": "TZ-0107",
+    "lat": -6.139352,
+    "lon": 34.464442
+  },
+  {
+    "country": "Tanzania",
+    "state": "Rukwa Region",
+    "city": "Muhuba",
+    "name": "Muhuba Airport",
+    "icao": "TZ-0049",
+    "lat": -5.770289,
+    "lon": 31.721521
+  },
+  {
+    "country": "Tanzania",
+    "state": "Dodoma Region",
+    "city": "Mvumi",
+    "name": "Mvumi Airport",
+    "icao": "TZ-0005",
+    "lat": -6.376389,
+    "lon": 35.898611
+  },
+  {
+    "country": "Tanzania",
+    "state": "Arusha Region",
+    "city": "Ndutu",
+    "name": "Ndutu Airport",
+    "icao": "TZ-0024",
+    "lat": -3.030715,
+    "lon": 34.988468
+  },
+  {
+    "country": "Tanzania",
+    "state": "Iringa Region",
+    "city": "Ng'Wazi",
+    "name": "Ng'Wazi Airport",
+    "icao": "TZ-0110",
+    "lat": -8.522635,
+    "lon": 35.179545
+  },
+  {
+    "country": "Tanzania",
+    "state": "Tabora Region",
+    "city": "Nkinga",
+    "name": "Nkinga Airport",
+    "icao": "TZ-0133",
+    "lat": -4.425665,
+    "lon": 33.450677
+  },
+  {
+    "country": "Tanzania",
+    "state": "Singida Region",
+    "city": "Rungwa",
+    "name": "Rungwa Airport",
+    "icao": "TZ-0051",
+    "lat": -6.935716,
+    "lon": 33.530089
+  },
+  {
+    "country": "Tanzania",
+    "state": "Rukwa Region",
+    "city": "Rungwa",
+    "name": "Rungwa River Airport",
+    "icao": "TZ-0114",
+    "lat": -7.107139,
+    "lon": 32.481492
+  },
+  {
+    "country": "Tanzania",
+    "state": "Pwani Region",
+    "city": "Saadani",
+    "name": "Saadani Airport",
+    "icao": "TZ-0052",
+    "lat": -6.030896,
+    "lon": 38.770264
+  },
+  {
+    "country": "Tanzania",
+    "state": "Pwani Region",
+    "city": "Selous Game Reserve",
+    "name": "Kibambawe Airstrip",
+    "icao": "HTBB",
+    "lat": -7.748241,
+    "lon": 38.001833
+  },
+  {
+    "country": "Tanzania",
+    "state": "Rukwa Region",
+    "city": "Shama",
+    "name": "Shama Airport",
+    "icao": "TZ-0115",
+    "lat": -6.322146,
+    "lon": 32.562788
+  },
+  {
+    "country": "Tanzania",
+    "state": "Arusha Region",
+    "city": "Simanjiro",
+    "name": "Naibormut Airport",
+    "icao": "TZ-0109",
+    "lat": -4.469807,
+    "lon": 36.669798
+  },
+  {
+    "country": "Tanzania",
+    "state": "Rukwa Region",
+    "city": "Sire",
+    "name": "Sire Airport",
+    "icao": "TZ-0053",
+    "lat": -5.713026,
+    "lon": 31.83135
+  },
+  {
+    "country": "Tanzania",
+    "state": "Pwani Region",
+    "city": "Siwandu",
+    "name": "Siwandu Airport",
+    "icao": "TZ-0054",
+    "lat": -7.6847,
+    "lon": 38.136731
+  },
+  {
+    "country": "Tanzania",
+    "state": "Lindi Region",
+    "city": "Songo Songo Island",
+    "name": "Songo Songo Airstrip",
+    "icao": "TZ-0116",
+    "lat": -8.528092,
+    "lon": 39.506976
+  },
+  {
+    "country": "Tanzania",
+    "state": "Kagera Region",
+    "city": "Uyovu",
+    "name": "Tulawaka Gold Mine Airstrip",
+    "icao": "TZ-0007",
+    "lat": -3.210604,
+    "lon": 31.546516
+  }
+]

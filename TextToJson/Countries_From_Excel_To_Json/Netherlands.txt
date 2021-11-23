@@ -1,0 +1,533 @@
+[
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Eindhoven",
+    "name": "Eindhoven Airport",
+    "icao": "EHEH",
+    "lat": 51.4500999451,
+    "lon": 5.37452983856
+  },
+  {
+    "country": "Netherlands",
+    "state": "Flevoland",
+    "city": "Lelystad",
+    "name": "Lelystad Airport",
+    "icao": "EHLE",
+    "lat": 52.4603,
+    "lon": 5.52722
+  },
+  {
+    "country": "Netherlands",
+    "state": "Drente",
+    "city": "Groningen",
+    "name": "Eelde Airport",
+    "icao": "EHGG",
+    "lat": 53.1197013855,
+    "lon": 6.57944011688
+  },
+  {
+    "country": "Netherlands",
+    "state": "Gelderland",
+    "city": "Deventer",
+    "name": "Teuge Airport",
+    "icao": "EHTE",
+    "lat": 52.2447013855,
+    "lon": 6.04666996002
+  },
+  {
+    "country": "Netherlands",
+    "state": "Overijssel",
+    "city": "Enschede",
+    "name": "Twente Airport",
+    "icao": "EHTW",
+    "lat": 52.275833,
+    "lon": 6.889167
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Holland",
+    "city": "Hilversum",
+    "name": "Hilversum Airfield",
+    "icao": "EHHV",
+    "lat": 52.191898,
+    "lon": 5.14694
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Weert",
+    "name": "Budel Airfield Kempen",
+    "icao": "EHBD",
+    "lat": 51.255299,
+    "lon": 5.60139
+  },
+  {
+    "country": "Netherlands",
+    "state": "Drente",
+    "city": "Hoogeveen",
+    "name": "Hoogeveen Airfield",
+    "icao": "EHHO",
+    "lat": 52.730801,
+    "lon": 6.51611
+  },
+  {
+    "country": "Netherlands",
+    "state": "Friesland",
+    "city": "Drachten",
+    "name": "Drachten Airport",
+    "icao": "EHDR",
+    "lat": 53.1192016602,
+    "lon": 6.12972021103
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Holland",
+    "city": "Den Helder",
+    "name": "De Kooy Airport",
+    "icao": "EHKD",
+    "lat": 52.9234008789062,
+    "lon": 4.78062009811401
+  },
+  {
+    "country": "Netherlands",
+    "state": "Gelderland",
+    "city": "Terlet",
+    "name": "Terlet Glider Field",
+    "icao": "EHTL",
+    "lat": 52.057201,
+    "lon": 5.92444
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Leiden",
+    "name": "Valkenburg Naval Air Base",
+    "icao": "EHVB",
+    "lat": 52.1660995483,
+    "lon": 4.41794013977
+  },
+  {
+    "country": "Netherlands",
+    "state": "Groningen",
+    "city": "Groningen",
+    "name": "Oostwold Airfield",
+    "icao": "EHOW",
+    "lat": 53.209758,
+    "lon": 7.036519
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Holland",
+    "city": "Noord-Holland",
+    "name": "Wieringermeer Glider Field",
+    "icao": "NL-0041",
+    "lat": 52.820556,
+    "lon": 4.926389
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Noordwijk",
+    "name": "Langeveld Glider Field",
+    "icao": "NL-0033",
+    "lat": 52.297778,
+    "lon": 4.513611
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Bergen Op Zoom",
+    "name": "Woensdrecht Air Base",
+    "icao": "EHWO",
+    "lat": 51.4491,
+    "lon": 4.34203
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Noord-Brabant",
+    "name": "Eindhoven Heliport",
+    "icao": "NL-0045",
+    "lat": 51.423731,
+    "lon": 5.47449
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Holland",
+    "city": "Alkmaar",
+    "name": "Bergen Airfield",
+    "icao": "NL-0043",
+    "lat": 52.6472222222,
+    "lon": 4.69222222222
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Den Haag",
+    "name": "Ypenburg Airbase",
+    "icao": "NL-0044",
+    "lat": 52.041111,
+    "lon": 4.356944
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Leiden",
+    "name": "Leids Universitair Medisch Centrum Heliport",
+    "icao": "NL-0018",
+    "lat": 52.1662559509277,
+    "lon": 4.4779720306396396
+  },
+  {
+    "country": "Netherlands",
+    "state": "Gelderland",
+    "city": "Malden",
+    "name": "Maldens Vlak Glider field",
+    "icao": "NL-0023",
+    "lat": 51.785259,
+    "lon": 5.88099
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Rotterdam",
+    "name": "Medisch Centrum Rijnmond. Locatie Zuid Heliport",
+    "icao": "NL-0020",
+    "lat": 51.8855552673339,
+    "lon": 4.50305604934692
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Veldhoven",
+    "name": "Maxima Medisch Centrum Heliport",
+    "icao": "NL-0009",
+    "lat": 51.4049987792968,
+    "lon": 5.41972208023071
+  },
+  {
+    "country": "Netherlands",
+    "state": "Groningen",
+    "city": "Stadskanaal",
+    "name": "Stadskanaal Airfield",
+    "icao": "EHST",
+    "lat": 52.9986,
+    "lon": 7.02278
+  },
+  {
+    "country": "Netherlands",
+    "state": "Limburg",
+    "city": "Venray",
+    "name": "De Peel Air Base",
+    "icao": "EHDP",
+    "lat": 51.5172996520996,
+    "lon": 5.85572004318237
+  },
+  {
+    "country": "Netherlands",
+    "state": "Drente",
+    "city": "Drente",
+    "name": "Peest Airport",
+    "icao": "NL-0040",
+    "lat": 53.05,
+    "lon": 6.5
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Noord-Brabant",
+    "name": "Helihaven P. van Zutphen",
+    "icao": "NL-0046",
+    "lat": 51.535422,
+    "lon": 5.378821
+  },
+  {
+    "country": "Netherlands",
+    "state": "Drente",
+    "city": "Drente",
+    "name": "TT Circuit Assen Helipad",
+    "icao": "NL-0048",
+    "lat": 52.96013,
+    "lon": 6.525208
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Holland",
+    "city": "Noord-Holland",
+    "name": "Zweefvliegveld Noordkop",
+    "icao": "NL-0052",
+    "lat": 52.89512,
+    "lon": 5.004628
+  },
+  {
+    "country": "Netherlands",
+    "state": "Groningen",
+    "city": "Groningen",
+    "name": "Eemshaven Heliport",
+    "icao": "EHHE",
+    "lat": 53.461813,
+    "lon": 6.81437
+  },
+  {
+    "country": "Netherlands",
+    "state": "Flevoland",
+    "city": "Flevoland",
+    "name": "Noordoostpolder / Emmeloord Aerodrome",
+    "icao": "EHNP",
+    "lat": 52.73071,
+    "lon": 5.746676
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Noord-Brabant",
+    "name": "Keent Aerodrome",
+    "icao": "NL-0049",
+    "lat": 51.765556,
+    "lon": 5.687222
+  },
+  {
+    "country": "Netherlands",
+    "state": "Utrecht",
+    "city": "Utrecht",
+    "name": "Soesterberg Glidersite",
+    "icao": "NL-0050",
+    "lat": 52.133889,
+    "lon": 5.264167
+  },
+  {
+    "country": "Netherlands",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "Vliegveld B.84 De Rips",
+    "icao": "NL-0057",
+    "lat": 51.557778,
+    "lon": 5.759167
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Noord-Brabant",
+    "name": "Vliegveld Kessel",
+    "icao": "NL-0059",
+    "lat": 51.812472,
+    "lon": 5.405583
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Noord-Brabant",
+    "name": "Vliegveld B.86 Helmond",
+    "icao": "NL-0062",
+    "lat": 51.478278,
+    "lon": 5.716583
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Brabant",
+    "city": "Noord-Brabant",
+    "name": "Vliegveld Boxmeer",
+    "icao": "NL-0065",
+    "lat": 51.626056,
+    "lon": 5.931806
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Zuid-Holland",
+    "name": "Europlatform",
+    "icao": "EHSA",
+    "lat": 51.99792,
+    "lon": 3.27481
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Zuid-Holland",
+    "name": "K13-A",
+    "icao": "EHJR",
+    "lat": 53.217222,
+    "lon": 3.218889
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zeeland",
+    "city": "Zeeland",
+    "name": "Breskens Airfield",
+    "icao": "NL-0072",
+    "lat": 51.39278,
+    "lon": 3.53917
+  },
+  {
+    "country": "Netherlands",
+    "state": "Noord-Holland",
+    "city": "Amsterdam",
+    "name": "Vu Medisch Centrum Heliport",
+    "icao": "NL-0012",
+    "lat": 52.3343353271484,
+    "lon": 4.85911083221435
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Den Haag",
+    "name": "Mc Haaglanden. Locatie Westeinde Heliport",
+    "icao": "NL-0019",
+    "lat": 52.0740089416503,
+    "lon": 4.30027818679809
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Dordrecht",
+    "name": "Albert Schweitzer Ziekenhuis. Locatie Amstelwijck Heliport",
+    "icao": "NL-0016",
+    "lat": 51.7763442993164,
+    "lon": 4.65111112594604
+  },
+  {
+    "country": "Netherlands",
+    "state": "Gelderland",
+    "city": "Ede",
+    "name": "Vliegkamp Ede",
+    "icao": "NL-0064",
+    "lat": 52.066944,
+    "lon": 5.665556
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zeeland",
+    "city": "Goes",
+    "name": "Oosterschelde Ziekenhuis Heliport",
+    "icao": "NL-0021",
+    "lat": 51.4848022460937,
+    "lon": 3.91050004959106
+  },
+  {
+    "country": "Netherlands",
+    "state": "Groningen",
+    "city": "Groningen",
+    "name": "Universitair Medisch Centrum Heliport",
+    "icao": "NL-0006",
+    "lat": 53.2217330932617,
+    "lon": 6.57605600357055
+  },
+  {
+    "country": "Netherlands",
+    "state": "Friesland",
+    "city": "Leeuwarden",
+    "name": "Medisch Centrum Leeuwarden. Locatie Zuid Heliport",
+    "icao": "NL-0002",
+    "lat": 53.1885070800781,
+    "lon": 5.80280590057373
+  },
+  {
+    "country": "Netherlands",
+    "state": "Limburg",
+    "city": "Maastricht",
+    "name": "Maastricht Universitair Medisch Centrum Heliport",
+    "icao": "NL-0007",
+    "lat": 50.8344421386718,
+    "lon": 5.71250009536743
+  },
+  {
+    "country": "Netherlands",
+    "state": "Limburg",
+    "city": "Onderbanken",
+    "name": "Glider site Schinveld",
+    "icao": "NL-0035",
+    "lat": 50.9808333333,
+    "lon": 5.99861111111
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Rotterdam",
+    "name": "Maasvlakte Heliport",
+    "icao": "EHTP",
+    "lat": 51.9594001770019,
+    "lon": 4.09000015258789
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Rotterdam",
+    "name": "Rotterdan Red Bull Airport",
+    "icao": "NL-0068",
+    "lat": 51.898628,
+    "lon": 4.473506
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zeeland",
+    "city": "Schouwen-Duiveland",
+    "name": "Haamstede Airfield",
+    "icao": "NL-0031",
+    "lat": 51.7088888889,
+    "lon": 3.71222222222
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zeeland",
+    "city": "Terneuzen",
+    "name": "Axel Glider Airfield",
+    "icao": "NL-0027",
+    "lat": 51.2555555556,
+    "lon": 3.89138888889
+  },
+  {
+    "country": "Netherlands",
+    "state": "Gelderland",
+    "city": "Tiel",
+    "name": "Ziekenhuis Rivierenland Heliport",
+    "icao": "NL-0005",
+    "lat": 51.889720916748,
+    "lon": 5.41388893127441
+  },
+  {
+    "country": "Netherlands",
+    "state": "Limburg",
+    "city": "Venlo",
+    "name": "Viecuri Medisch Centrum Voor Noord-Limburg Heliport",
+    "icao": "NL-0008",
+    "lat": 51.3583335876464,
+    "lon": 6.15250015258789
+  },
+  {
+    "country": "Netherlands",
+    "state": "Limburg",
+    "city": "Venlo",
+    "name": "Venlo Airfield",
+    "icao": "NL-0037",
+    "lat": 51.3630555556,
+    "lon": 6.21611111111
+  },
+  {
+    "country": "Netherlands",
+    "state": "Friesland",
+    "city": "Vlieland",
+    "name": "Vlieland Heliport",
+    "icao": "EHVL",
+    "lat": 53.2966651916503,
+    "lon": 5.08583307266235
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zeeland",
+    "city": "Vlissingen",
+    "name": "Vliegpark Vlissingen",
+    "icao": "NL-0056",
+    "lat": 51.459722,
+    "lon": 3.583056
+  },
+  {
+    "country": "Netherlands",
+    "state": "Zuid-Holland",
+    "city": "Wassenaar",
+    "name": "Vliegveld Maaldrift",
+    "icao": "NL-0061",
+    "lat": 52.151111,
+    "lon": 4.427222
+  }
+]

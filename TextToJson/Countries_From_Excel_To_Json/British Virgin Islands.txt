@@ -1,0 +1,20 @@
+[
+  {
+    "country": "British Virgin Islands",
+    "state": "Anegada",
+    "city": "Anegada",
+    "name": "Captain Auguste George Airport",
+    "icao": "TUPA",
+    "lat": 18.7271995544433,
+    "lon": -64.3296966552734
+  },
+  {
+    "country": "British Virgin Islands",
+    "state": "(unassigned)",
+    "city": "Tortola",
+    "name": "Tortola West End Seaplane Base",
+    "icao": "TOV",
+    "lat": 18.45,
+    "lon": -64.583333
+  }
+]

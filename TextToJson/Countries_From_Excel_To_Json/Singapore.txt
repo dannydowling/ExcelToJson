@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Singapore",
+    "state": "South East",
+    "city": "Singapore",
+    "name": "Changi Air Base (East)",
+    "icao": "WSAC",
+    "lat": 1.3441400528,
+    "lon": 104.009002686
+  },
+  {
+    "country": "Singapore",
+    "state": "North West",
+    "city": "North West",
+    "name": "Lim Chu Kang Road (Emergency Strip)",
+    "icao": "SG-0003",
+    "lat": 1.390605,
+    "lon": 103.69879
+  },
+  {
+    "country": "Singapore",
+    "state": "South East",
+    "city": "Singapore",
+    "name": "Brani Naval Base Heliport",
+    "icao": "SG-0001",
+    "lat": 1.25671899319,
+    "lon": 103.833045959
+  }
+]

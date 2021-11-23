@@ -1,0 +1,479 @@
+[
+  {
+    "country": "Angola",
+    "state": "Luanda Province",
+    "city": "Luanda",
+    "name": "Quatro de Fevereiro Airport",
+    "icao": "FNLU",
+    "lat": -8.85837,
+    "lon": 13.2312
+  },
+  {
+    "country": "Angola",
+    "state": "Cabinda Province",
+    "city": "Cabinda",
+    "name": "Cabinda Airport",
+    "icao": "FNCA",
+    "lat": -5.59699010848999,
+    "lon": 12.1884002685546
+  },
+  {
+    "country": "Angola",
+    "state": "Huambo Province",
+    "city": "Huambo",
+    "name": "Nova Lisboa Airport",
+    "icao": "FNHU",
+    "lat": -12.8088998794555,
+    "lon": 15.7604999542236
+  },
+  {
+    "country": "Angola",
+    "state": "HuÃ­la Province",
+    "city": "Lubango",
+    "name": "Lubango Airport",
+    "icao": "FNUB",
+    "lat": -14.9246997833251,
+    "lon": 13.5749998092651
+  },
+  {
+    "country": "Angola",
+    "state": "Benguela Province",
+    "city": "Benguela",
+    "name": "Benguela Airport",
+    "icao": "FNBG",
+    "lat": -12.609000206,
+    "lon": 13.4036998749
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Norte Province",
+    "city": "Chitato",
+    "name": "Dundo Airport",
+    "icao": "FNDU",
+    "lat": -7.40088987350463,
+    "lon": 20.8185005187988
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Norte Province",
+    "city": "Cafunfo",
+    "name": "Cafunfo Airport",
+    "icao": "FNCF",
+    "lat": -8.7836103439331,
+    "lon": 17.9897003173828
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Norte Province",
+    "city": "Chitato",
+    "name": "Chitato Airport",
+    "icao": "FNCH",
+    "lat": -7.3588900566101,
+    "lon": 20.8047008514404
+  },
+  {
+    "country": "Angola",
+    "state": "Benguela Province",
+    "city": "Lobito",
+    "name": "Lobito Airport",
+    "icao": "FNLB",
+    "lat": -12.3711996078491,
+    "lon": 13.536600112915
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Norte Province",
+    "city": "Lucapa",
+    "name": "Lucapa Airport",
+    "icao": "FNLK",
+    "lat": -8.44572734833,
+    "lon": 20.7320861816
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Mavinga",
+    "name": "Mavinga Airport",
+    "icao": "AO-0016",
+    "lat": -15.789222,
+    "lon": 20.368971
+  },
+  {
+    "country": "Angola",
+    "state": "Zaire Province",
+    "city": "Mbanza Congo",
+    "name": "Mbanza Congo Airport",
+    "icao": "FNBC",
+    "lat": -6.26989984512329,
+    "lon": 14.2469997406005
+  },
+  {
+    "country": "Angola",
+    "state": "Zaire Province",
+    "city": "Soyo",
+    "name": "Soyo Airport",
+    "icao": "FNSO",
+    "lat": -6.14108991622924,
+    "lon": 12.3718004226684
+  },
+  {
+    "country": "Angola",
+    "state": "Cuanza Sul Province",
+    "city": "Port Amboim",
+    "name": "Porto Amboim Airport",
+    "icao": "FNPA",
+    "lat": -10.7220001220703,
+    "lon": 13.7655000686645
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Norte Province",
+    "city": "Cacolo",
+    "name": "Cacolo Airport",
+    "icao": "FNCC",
+    "lat": -10.110278,
+    "lon": 19.287304
+  },
+  {
+    "country": "Angola",
+    "state": "Cuanza Norte Province",
+    "city": "Camabatela",
+    "name": "Camabatela Airport",
+    "icao": "FNCM",
+    "lat": -8.21700000762939,
+    "lon": 15.3669996261596
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Norte Province",
+    "city": "Camaxilo",
+    "name": "Camaxilo Airport",
+    "icao": "FNCX",
+    "lat": -8.37360954284668,
+    "lon": 18.923599243164
+  },
+  {
+    "country": "Angola",
+    "state": "Bengo Province",
+    "city": "Camembe",
+    "name": "Camembe Airport",
+    "icao": "FNCB",
+    "lat": -8.13300037384033,
+    "lon": 14.5
+  },
+  {
+    "country": "Angola",
+    "state": "Moxico Province",
+    "city": "Cangamba",
+    "name": "Cangamba Airport",
+    "icao": "AO-CNZ",
+    "lat": -13.7106,
+    "lon": 19.861099
+  },
+  {
+    "country": "Angola",
+    "state": "Moxico Province",
+    "city": "Cazombo",
+    "name": "Cazombo Airport",
+    "icao": "FNCZ",
+    "lat": -11.893099784851,
+    "lon": 22.9164009094238
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Norte Province",
+    "city": "Luzamba",
+    "name": "Luzamba Airport",
+    "icao": "FNLZ",
+    "lat": -9.11596012115,
+    "lon": 18.0492992400999
+  },
+  {
+    "country": "Angola",
+    "state": "HuÃ­la Province",
+    "city": "Matala",
+    "name": "Matala Airport",
+    "icao": "FN18",
+    "lat": -14.727499961853,
+    "lon": 15.0139999389648
+  },
+  {
+    "country": "Angola",
+    "state": "Zaire Province",
+    "city": "N'zeto",
+    "name": "N'zeto Airport",
+    "icao": "FNZE",
+    "lat": -7.25943994522094,
+    "lon": 12.8631000518798
+  },
+  {
+    "country": "Angola",
+    "state": "UÃ­ge Province",
+    "city": "Sanza Pombo",
+    "name": "Sanza Pombo Airport",
+    "icao": "FNPB",
+    "lat": -7.30000019073486,
+    "lon": 15.9329996109008
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Sul Province",
+    "city": "Saurimo",
+    "name": "Saurimo North Airport",
+    "icao": "AO-0001",
+    "lat": -9.43342971801757,
+    "lon": 20.3118000030517
+  },
+  {
+    "country": "Angola",
+    "state": "Cuanza Sul Province",
+    "city": "Waco Kungo",
+    "name": "Waco Kungo Airport",
+    "icao": "FNWK",
+    "lat": -11.4264001846313,
+    "lon": 15.1014003753662
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Cuando Cubango Province",
+    "name": "Rito Airport",
+    "icao": "AO-0003",
+    "lat": -16.6893920898437,
+    "lon": 19.0837669372558
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Cuando Cubango Province",
+    "name": "Cuito Cuanavale South Airport",
+    "icao": "AO-0048",
+    "lat": -15.711983,
+    "lon": 18.651003
+  },
+  {
+    "country": "Angola",
+    "state": "Benguela Province",
+    "city": "Balombo",
+    "name": "Balombo Airport",
+    "icao": "AO-0043",
+    "lat": -12.357134,
+    "lon": 14.77923
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Calai",
+    "name": "Calai Airport",
+    "icao": "AO-0037",
+    "lat": -17.878868,
+    "lon": 19.782762
+  },
+  {
+    "country": "Angola",
+    "state": "BiÃ© Province",
+    "city": "Camacupa",
+    "name": "Camacupa Airport",
+    "icao": "AO-0027",
+    "lat": -12.021878,
+    "lon": 17.453693
+  },
+  {
+    "country": "Angola",
+    "state": "Malanje Province",
+    "city": "Capanda",
+    "name": "Capanda Airport",
+    "icao": "AO-KNP",
+    "lat": -9.76937007904,
+    "lon": 15.4553194046
+  },
+  {
+    "country": "Angola",
+    "state": "Huambo Province",
+    "city": "Chinhama",
+    "name": "Chinhama Airport",
+    "icao": "AO-0052",
+    "lat": -13.105437,
+    "lon": 16.42432
+  },
+  {
+    "country": "Angola",
+    "state": "BiÃ© Province",
+    "city": "Chitembo",
+    "name": "Chitembo Airport",
+    "icao": "AO-0047",
+    "lat": -13.509385,
+    "lon": 16.74928
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Coutada",
+    "name": "Coutada Airport",
+    "icao": "AO-0014",
+    "lat": -17.017654,
+    "lon": 21.301774
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Cuangar",
+    "name": "Cuangar Old Airport",
+    "icao": "AO-0009",
+    "lat": -17.599985,
+    "lon": 18.623552
+  },
+  {
+    "country": "Angola",
+    "state": "Cunene Province",
+    "city": "Cubati",
+    "name": "Cubati Airport",
+    "icao": "AO-0045",
+    "lat": -15.333917,
+    "lon": 16.851872
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Cuchi",
+    "name": "Cuchi Airport",
+    "icao": "AO-0033",
+    "lat": -14.64987,
+    "lon": 16.885391
+  },
+  {
+    "country": "Angola",
+    "state": "HuÃ­la Province",
+    "city": "Cuima",
+    "name": "Cuima Airport",
+    "icao": "AO-0044",
+    "lat": -13.458467,
+    "lon": 15.833762
+  },
+  {
+    "country": "Angola",
+    "state": "Cunene Province",
+    "city": "Cuvelai",
+    "name": "Cuvelai Airport",
+    "icao": "AO-0007",
+    "lat": -15.668575,
+    "lon": 15.805654
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Sul Province",
+    "city": "Dala",
+    "name": "Dala Airport",
+    "icao": "AO-0030",
+    "lat": -11.040653,
+    "lon": 20.208268
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Dirico",
+    "name": "Dirico Airport",
+    "icao": "AO-DRC",
+    "lat": -17.9819240570068,
+    "lon": 20.7680606842041
+  },
+  {
+    "country": "Angola",
+    "state": "Cuanza Norte Province",
+    "city": "Dondo",
+    "name": "Alto Dondo Airport",
+    "icao": "AO-0039",
+    "lat": -9.675516,
+    "lon": 14.464999
+  },
+  {
+    "country": "Angola",
+    "state": "Huambo Province",
+    "city": "Jamba",
+    "name": "Jamba Airport",
+    "icao": "AO-JMB",
+    "lat": -14.6981925964355,
+    "lon": 16.0701484680175
+  },
+  {
+    "country": "Angola",
+    "state": "Moxico Province",
+    "city": "Luacano",
+    "name": "Luacano Airport",
+    "icao": "AO-0023",
+    "lat": -11.209962,
+    "lon": 21.648705
+  },
+  {
+    "country": "Angola",
+    "state": "BiÃ© Province",
+    "city": "Luando",
+    "name": "Luando Airport",
+    "icao": "AO-0028",
+    "lat": -11.62444,
+    "lon": 18.46969
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Luiana",
+    "name": "Luiana Airport",
+    "icao": "AO-0013",
+    "lat": -17.380791,
+    "lon": 23.002339
+  },
+  {
+    "country": "Angola",
+    "state": "Moxico Province",
+    "city": "Lumbala",
+    "name": "Lumbala Airport",
+    "icao": "AO-GGC",
+    "lat": -12.6398773193,
+    "lon": 22.5868206024
+  },
+  {
+    "country": "Angola",
+    "state": "Cuando Cubango Province",
+    "city": "Mucusso",
+    "name": "Mucusso Airport",
+    "icao": "AO-0011",
+    "lat": -18.020826,
+    "lon": 21.437053
+  },
+  {
+    "country": "Angola",
+    "state": "Moxico Province",
+    "city": "Mussuma",
+    "name": "Mussuma Airport",
+    "icao": "AO-0049",
+    "lat": -14.204202,
+    "lon": 21.909971
+  },
+  {
+    "country": "Angola",
+    "state": "BiÃ© Province",
+    "city": "Mutumbo",
+    "name": "Mutumbo Airport",
+    "icao": "AO-0034",
+    "lat": -13.179982,
+    "lon": 17.394938
+  },
+  {
+    "country": "Angola",
+    "state": "Cunene Province",
+    "city": "Namacunde",
+    "name": "Namacunde Airport",
+    "icao": "AO-0036",
+    "lat": -17.302638,
+    "lon": 15.850786
+  },
+  {
+    "country": "Angola",
+    "state": "Lunda Sul Province",
+    "city": "Xassengue",
+    "name": "Xassengue Airport",
+    "icao": "AO-0042",
+    "lat": -10.461305,
+    "lon": 18.535527
+  }
+]

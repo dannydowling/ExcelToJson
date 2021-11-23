@@ -1,0 +1,65 @@
+[
+  {
+    "country": "Cyprus",
+    "state": "Paphos District",
+    "city": "Paphos",
+    "name": "Paphos International Airport",
+    "icao": "LCPH",
+    "lat": 34.7179985046386,
+    "lon": 32.4856986999511
+  },
+  {
+    "country": "Cyprus",
+    "state": "Larnarca District",
+    "city": "Larnarca District",
+    "name": "Kornos Highway Strip",
+    "icao": "CY-0005",
+    "lat": 34.9096717834472,
+    "lon": 33.4037322998046
+  },
+  {
+    "country": "Cyprus",
+    "state": "Larnarca District",
+    "city": "Larnarca District",
+    "name": "Kophinou Highway Strip",
+    "icao": "CY-0006",
+    "lat": 34.8404183033,
+    "lon": 33.4244763851
+  },
+  {
+    "country": "Cyprus",
+    "state": "Nicosia District",
+    "city": "Nicosia",
+    "name": "Nicosia International Airport",
+    "icao": "CY-NIC",
+    "lat": 35.1507987976,
+    "lon": 33.2787017822
+  },
+  {
+    "country": "Cyprus",
+    "state": "Nicosia District",
+    "city": "Nicosia District",
+    "name": "Lakatamia Airfield",
+    "icao": "CY-0001",
+    "lat": 35.106384,
+    "lon": 33.321304
+  },
+  {
+    "country": "Cyprus",
+    "state": "Larnarca District",
+    "city": "Larnarca District",
+    "name": "Kingsfield Air Base",
+    "icao": "CY-0004",
+    "lat": 35.0142745972,
+    "lon": 33.7158508301
+  },
+  {
+    "country": "Cyprus",
+    "state": "Larnarca District",
+    "city": "Larnarca District",
+    "name": "RAF Ayios Nikolaos Air Base",
+    "icao": "CY-0008",
+    "lat": 35.0831777,
+    "lon": 33.9004317
+  }
+]

@@ -1,0 +1,677 @@
+[
+  {
+    "country": "Austria",
+    "state": "Salzburg",
+    "city": "Salzburg",
+    "name": "Salzburg Airport",
+    "icao": "LOWS",
+    "lat": 47.7933006286999,
+    "lon": 13.0043001175
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Innsbruck",
+    "name": "Innsbruck Airport",
+    "icao": "LOWI",
+    "lat": 47.260201,
+    "lon": 11.344
+  },
+  {
+    "country": "Austria",
+    "state": "Styria",
+    "city": "Graz",
+    "name": "Graz Airport",
+    "icao": "LOWG",
+    "lat": 46.9911003112793,
+    "lon": 15.4395999908447
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "Klagenfurt am Werthersee",
+    "name": "Klagenfurt Airport",
+    "icao": "LOWK",
+    "lat": 46.642502,
+    "lon": 14.3377
+  },
+  {
+    "country": "Austria",
+    "state": "Salzburg",
+    "city": "Zell Am See",
+    "name": "Zell Am See Airport",
+    "icao": "LOWZ",
+    "lat": 47.292222,
+    "lon": 12.7875
+  },
+  {
+    "country": "Austria",
+    "state": "Upper Austria",
+    "city": "Wels",
+    "name": "Wels Airport",
+    "icao": "LOLW",
+    "lat": 48.1833000183105,
+    "lon": 14.0409002304077
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Krems",
+    "name": "Krems Airport",
+    "icao": "LOAG",
+    "lat": 48.446389,
+    "lon": 15.634167
+  },
+  {
+    "country": "Austria",
+    "state": "Burgenland",
+    "city": "Punitz",
+    "name": "Flugplatz Punitz",
+    "icao": "LOGG",
+    "lat": 47.14653,
+    "lon": 16.316843
+  },
+  {
+    "country": "Austria",
+    "state": "Styria",
+    "city": "Niederoeblarn",
+    "name": "Niederoeblarn Airport",
+    "icao": "LOGO",
+    "lat": 47.478298,
+    "lon": 14.0083
+  },
+  {
+    "country": "Austria",
+    "state": "Upper Austria",
+    "city": "Schaerding / Suben",
+    "name": "Schaerding-Suben Airport",
+    "icao": "LOLS",
+    "lat": 48.4033012390136,
+    "lon": 13.4483003616333
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "Feldkirchen",
+    "name": "Feldkirchen Aerodrome",
+    "icao": "LOKF",
+    "lat": 46.7089,
+    "lon": 14.0772
+  },
+  {
+    "country": "Austria",
+    "state": "Upper Austria",
+    "city": "Freistadt",
+    "name": "Freistadt Airport",
+    "icao": "LOLF",
+    "lat": 48.514722,
+    "lon": 14.408889
+  },
+  {
+    "country": "Austria",
+    "state": "Vorarlberg",
+    "city": "Hohenems / Dornbirn",
+    "name": "Hohenems-Dornbirn Airfield",
+    "icao": "LOIH",
+    "lat": 47.384998,
+    "lon": 9.7
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Dobersberg",
+    "name": "Dobersberg Airfield",
+    "icao": "LOAB",
+    "lat": 48.922222,
+    "lon": 15.296944
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Kufstein",
+    "name": "Langkampfen Airport",
+    "icao": "LOIK",
+    "lat": 47.5651168823242,
+    "lon": 12.1280698776245
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Seitenstetten",
+    "name": "Seitenstetten Airport",
+    "icao": "LOLT",
+    "lat": 48.0505556,
+    "lon": 14.6619444
+  },
+  {
+    "country": "Austria",
+    "state": "Upper Austria",
+    "city": "Lake Wolfgang",
+    "name": "Scalaria Airchallenge Water Landing Area",
+    "icao": "AT-0002",
+    "lat": 47.7347054331,
+    "lon": 13.4438323975
+  },
+  {
+    "country": "Austria",
+    "state": "Upper Austria",
+    "city": "Hofkirchen",
+    "name": "Hb Hofkirchen Airport",
+    "icao": "LOLH",
+    "lat": 48.1399993896484,
+    "lon": 14.3382997512817
+  },
+  {
+    "country": "Austria",
+    "state": "Upper Austria",
+    "city": "Ried",
+    "name": "Kirchheim Airport",
+    "icao": "LOLK",
+    "lat": 48.2122,
+    "lon": 13.345
+  },
+  {
+    "country": "Austria",
+    "state": "Upper Austria",
+    "city": "Scharnstein",
+    "name": "Scharnstein Airport",
+    "icao": "LOLC",
+    "lat": 47.8986015319824,
+    "lon": 13.9393997192382
+  },
+  {
+    "country": "Austria",
+    "state": "Styria",
+    "city": "Timmersdorf",
+    "name": "Timmersdorf Airport",
+    "icao": "LOGT",
+    "lat": 47.3800010681152,
+    "lon": 14.9682998657226
+  },
+  {
+    "country": "Austria",
+    "state": "Upper Austria",
+    "city": "Eferding",
+    "name": "Eferding Airport",
+    "icao": "LOLE",
+    "lat": 48.338333,
+    "lon": 13.985278
+  },
+  {
+    "country": "Austria",
+    "state": "Styria",
+    "city": "Kapfenberg",
+    "name": "Kapfenberg Airport",
+    "icao": "LOGK",
+    "lat": 47.458302,
+    "lon": 15.33
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "Friesach",
+    "name": "Hirt Airport",
+    "icao": "LOKH",
+    "lat": 46.928299,
+    "lon": 14.4333
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "NÃ¶tsch Im Gailtal",
+    "name": "NÃ¶tsch Im Gailtal Airfield",
+    "icao": "LOKN",
+    "lat": 46.5811,
+    "lon": 13.6292
+  },
+  {
+    "country": "Austria",
+    "state": "Vienna",
+    "city": "Vienna",
+    "name": "Aspern Airfield",
+    "icao": "X-VIE",
+    "lat": 48.2243995666503,
+    "lon": 16.5081996917724
+  },
+  {
+    "country": "Austria",
+    "state": "Vorarlberg",
+    "city": "Ludesch",
+    "name": "Ludesch Heliport",
+    "icao": "LOIG",
+    "lat": 47.2008323669433,
+    "lon": 9.78055572509765
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Altlichtenwarth",
+    "name": "Segelflugfeld Altlichtenwarth",
+    "icao": "LOAR",
+    "lat": 48.6661,
+    "lon": 16.825
+  },
+  {
+    "country": "Austria",
+    "state": "Styria",
+    "city": "Lanzen",
+    "name": "Turnau Airport",
+    "icao": "LOGL",
+    "lat": 47.5567016601562,
+    "lon": 15.3249998092651
+  },
+  {
+    "country": "Austria",
+    "state": "Salzburg",
+    "city": "Mauterndorf",
+    "name": "Mauterndorf Airport",
+    "icao": "LOSM",
+    "lat": 47.1324996948242,
+    "lon": 13.6969003677368
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Ottenschlag",
+    "name": "Ottenschlag Airport",
+    "icao": "LOAA",
+    "lat": 48.4185981750488,
+    "lon": 15.2166996002197
+  },
+  {
+    "country": "Austria",
+    "state": "Styria",
+    "city": "Styria",
+    "name": "Hartberg LKH Heliport",
+    "icao": "LOHD",
+    "lat": 47.273333,
+    "lon": 15.966111
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Lower Austria",
+    "name": "Christophorus 15 Heliport",
+    "icao": "AT-0007",
+    "lat": 47.9692672,
+    "lon": 14.9396096
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Amstetten",
+    "name": "Krankenhaus Heliport",
+    "icao": "LOAQ",
+    "lat": 48.126667022705,
+    "lon": 14.8808326721191
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "Bad Kleinkircheim",
+    "name": "Bad Kleinkircheim Heliport",
+    "icao": "LOKB",
+    "lat": 46.8119430541992,
+    "lon": 13.7838888168334
+  },
+  {
+    "country": "Austria",
+    "state": "Styria",
+    "city": "Bad Radkersburg",
+    "name": "Bad Radkersburg Hospital Helipad",
+    "icao": "LOGA",
+    "lat": 46.691607,
+    "lon": 15.992397
+  },
+  {
+    "country": "Austria",
+    "state": "Burgenland",
+    "city": "Bad Tatzmannsdorf",
+    "name": "Bad Tatzmannsdorf PVA Hospital Helipad",
+    "icao": "AT-0003",
+    "lat": 47.33072,
+    "lon": 16.22207
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Baden",
+    "name": "Baden Heliport",
+    "icao": "LOAF",
+    "lat": 48.0002784729003,
+    "lon": 16.2522220611572
+  },
+  {
+    "country": "Austria",
+    "state": "Vorarlberg",
+    "city": "Feldkirch",
+    "name": "Dr. Schenk Heliport",
+    "icao": "LOIQ",
+    "lat": 47.2746810913085,
+    "lon": 9.59149742126464
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Ferlach",
+    "name": "Glock Heliport",
+    "icao": "LOKC",
+    "lat": 46.5227355957031,
+    "lon": 14.2970504760742
+  },
+  {
+    "country": "Austria",
+    "state": "Salzburg",
+    "city": "Goldeck Talstation",
+    "name": "Goldeck Talstation Heliport",
+    "icao": "LOKO",
+    "lat": 46.7931518554687,
+    "lon": 13.4832582473754
+  },
+  {
+    "country": "Austria",
+    "state": "Styria",
+    "city": "Graz",
+    "name": "Graz University Hospital Helipad",
+    "icao": "LOGH",
+    "lat": 47.08059,
+    "lon": 15.46381
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Horn",
+    "name": "Horn Heliport",
+    "icao": "LOAH",
+    "lat": 48.6697235107421,
+    "lon": 15.6619443893432
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Innsbruck",
+    "name": "Uni Klinik Heliport",
+    "icao": "LOIU",
+    "lat": 47.2610435485839,
+    "lon": 11.3847980499267
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Kaltenbach",
+    "name": "Kaltenbach Heliport",
+    "icao": "LOJK",
+    "lat": 47.2855567932128,
+    "lon": 11.8797216415405
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Karres",
+    "name": "Karres Heliport",
+    "icao": "LOJP",
+    "lat": 47.2188873291015,
+    "lon": 10.768889427185
+  },
+  {
+    "country": "Austria",
+    "state": "Styria",
+    "city": "Kirchberg An Der Raab",
+    "name": "Business Center Leitner Heliport",
+    "icao": "LODL",
+    "lat": 46.968071,
+    "lon": 15.800702
+  },
+  {
+    "country": "Austria",
+    "state": "Burgenland",
+    "city": "Kittsee",
+    "name": "Kittsee Heliport",
+    "icao": "LOAC",
+    "lat": 48.0932884216308,
+    "lon": 17.0661087036132
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "KitzbÃ¼hel",
+    "name": "HÃ¶rlahof Heliport",
+    "icao": "LOIB",
+    "lat": 47.466857,
+    "lon": 12.367752
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "Klagenfurt",
+    "name": "Bodenlandeplatz/Ground-Landing Area Heliport",
+    "icao": "LOKA",
+    "lat": 46.6352767944,
+    "lon": 14.3074998856
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "Klagenfurt",
+    "name": "Landespolizeikommando KÃ¤rnten Heliport",
+    "icao": "LOKY",
+    "lat": 46.620018005371,
+    "lon": 14.3078451156616
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Langkampfen",
+    "name": "Langkampfen - Au Heliport",
+    "icao": "LOIM",
+    "lat": 47.5661125183,
+    "lon": 12.1350002289
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Mayrhofen",
+    "name": "Mayrhofen Heliport",
+    "icao": "LOJM",
+    "lat": 47.1783332824707,
+    "lon": 11.8680562973022
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Mistelbach",
+    "name": "Mistelbach Hospital Helipad",
+    "icao": "LOBM",
+    "lat": 48.567663,
+    "lon": 16.579138
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "MÃ¶dling",
+    "name": "MÃ¶dling Krankenhaus Heliport",
+    "icao": "LOBI",
+    "lat": 48.089471,
+    "lon": 16.298242
+  },
+  {
+    "country": "Austria",
+    "state": "Burgenland",
+    "city": "Oberpullendorf",
+    "name": "Oberpullendorf Heliport",
+    "icao": "LOAO",
+    "lat": 47.5076255798339,
+    "lon": 16.5120105743408
+  },
+  {
+    "country": "Austria",
+    "state": "Burgenland",
+    "city": "Oberwart",
+    "name": "Christophorus 16 Heliport",
+    "icao": "LODO",
+    "lat": 47.30526,
+    "lon": 16.18352
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "Patergassen",
+    "name": "Patergassen Heliport",
+    "icao": "LOMP",
+    "lat": 46.8194427490234,
+    "lon": 13.8572216033935
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Retz",
+    "name": "Retzer Land Heliport",
+    "icao": "AT-0005",
+    "lat": 48.7545,
+    "lon": 15.9622
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Reutte",
+    "name": "Reutte Heliport",
+    "icao": "LOIE",
+    "lat": 47.473027,
+    "lon": 10.711678
+  },
+  {
+    "country": "Austria",
+    "state": "Salzburg",
+    "city": "Salzburg",
+    "name": "Dachlandeplatz Heliport",
+    "icao": "LOSL",
+    "lat": 47.8058395385742,
+    "lon": 13.0277242660522
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Schwaz",
+    "name": "Schwaz Heliport",
+    "icao": "LOIZ",
+    "lat": 47.3444442749023,
+    "lon": 11.7052783966064
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "SÃ¶lden",
+    "name": "SÃ¶lden Heliport",
+    "icao": "LOIO",
+    "lat": 46.9466247558593,
+    "lon": 11.0187587738037
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "St Johann In Tirol",
+    "name": "St Johann In Tirol Hospital Heliport",
+    "icao": "LOIT",
+    "lat": 47.520935,
+    "lon": 12.429672
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "St. AndrÃ¤",
+    "name": "St. AndrÃ¤ Im Lavanttal Heliport",
+    "icao": "LOKS",
+    "lat": 46.7583312988281,
+    "lon": 14.8255558013916
+  },
+  {
+    "country": "Austria",
+    "state": "Salzburg",
+    "city": "St. Johann Im Pongau",
+    "name": "St. Johann Im Pongau Heliport",
+    "icao": "LOSJ",
+    "lat": 47.3941688537597,
+    "lon": 13.222222328186
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "St. PÃ¶lten",
+    "name": "St. PÃ¶lten Heliport",
+    "icao": "LOAX",
+    "lat": 48.2133331298828,
+    "lon": 15.6291666030883
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Telfs",
+    "name": "Feuerwehrschule Heliport",
+    "icao": "LOIN",
+    "lat": 47.3091659545898,
+    "lon": 11.050832748413
+  },
+  {
+    "country": "Austria",
+    "state": "Vienna",
+    "city": "Vienna",
+    "name": "Meidling Heliport",
+    "icao": "LOAM",
+    "lat": 48.1739959716796,
+    "lon": 16.322603225708
+  },
+  {
+    "country": "Austria",
+    "state": "Vienna",
+    "city": "Vienna",
+    "name": "Christophorus 9 Hospital Heliport",
+    "icao": "LOBF",
+    "lat": 48.1893018,
+    "lon": 16.4124325
+  },
+  {
+    "country": "Austria",
+    "state": "Carinthia",
+    "city": "Villach",
+    "name": "FÃ¶derlach Heliport",
+    "icao": "LOKD",
+    "lat": 46.6017684936523,
+    "lon": 13.9497127532958
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Waidring",
+    "name": "Waidring Heliport",
+    "icao": "LOIW",
+    "lat": 47.585277557373,
+    "lon": 12.5924997329711
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Wiener Neustadt",
+    "name": "Ã–amtc Heliport",
+    "icao": "LOAW",
+    "lat": 47.8455543518066,
+    "lon": 16.2527770996093
+  },
+  {
+    "country": "Austria",
+    "state": "Tyrol",
+    "city": "Zams",
+    "name": "St. Vinzenz Heliport",
+    "icao": "LOIV",
+    "lat": 47.162498474121,
+    "lon": 10.5930557250976
+  },
+  {
+    "country": "Austria",
+    "state": "Lower Austria",
+    "city": "Zwettl",
+    "name": "Zwettl Heliport",
+    "icao": "LOAZ",
+    "lat": 48.599998474121,
+    "lon": 15.1641674041748
+  }
+]

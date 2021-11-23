@@ -1,0 +1,1019 @@
+[
+  {
+    "country": "Sweden",
+    "state": "Vanstra Gatalands lan",
+    "city": "Gothenburg",
+    "name": "Gothenburg-Landvetter Airport",
+    "icao": "ESGG",
+    "lat": 57.662799835205,
+    "lon": 12.279800415039
+  },
+  {
+    "country": "Sweden",
+    "state": "Sadermanlands lan",
+    "city": "Stockholm / Nykaping",
+    "name": "Stockholm Skavsta Airport",
+    "icao": "ESKN",
+    "lat": 58.7886009216308,
+    "lon": 16.9122009277343
+  },
+  {
+    "country": "Sweden",
+    "state": "Stockholms lan",
+    "city": "Stockholm",
+    "name": "Stockholm-Bromma Airport",
+    "icao": "ESSB",
+    "lat": 59.3544006347656,
+    "lon": 17.9416999816894
+  },
+  {
+    "country": "Sweden",
+    "state": "Viestra Gatalands lan",
+    "city": "Gothenburg",
+    "name": "Gothenburg City Airport",
+    "icao": "ESGP",
+    "lat": 57.7747,
+    "lon": 11.8704
+  },
+  {
+    "country": "Sweden",
+    "state": "Vosterbottens lan",
+    "city": "Umea",
+    "name": "Umea Airport",
+    "icao": "ESNU",
+    "lat": 63.791801452637,
+    "lon": 20.282800674438
+  },
+  {
+    "country": "Sweden",
+    "state": "Kalmar lÃ¤n",
+    "city": "Kalmar lÃ¤n",
+    "name": "Kalmar Airport",
+    "icao": "ESMQ",
+    "lat": 56.6855010986328,
+    "lon": 16.2875995635986
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "Ã–stersund",
+    "name": "Ã…re Ã–stersund Airport",
+    "icao": "ESNZ",
+    "lat": 63.194400787354,
+    "lon": 14.50030040741
+  },
+  {
+    "country": "Sweden",
+    "state": "Ã–rebro lÃ¤n",
+    "city": "Ã–rebro",
+    "name": "Ã–rebro Airport",
+    "icao": "ESOE",
+    "lat": 59.2237014770507,
+    "lon": 15.0380001068115
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sternorrlands lÃ¤n",
+    "city": "Sundsvall/ HÃ¤rnÃ¶sand",
+    "name": "Sundsvall-HÃ¤rnÃ¶sand Airport",
+    "icao": "ESNN",
+    "lat": 62.5280990600585,
+    "lon": 17.443899154663
+  },
+  {
+    "country": "Sweden",
+    "state": "SkÃ¥ne lÃ¤n",
+    "city": "Ã„ngelholm",
+    "name": "Ã„ngelholm-Helsingborg Airport",
+    "icao": "ESTA",
+    "lat": 56.296100616455,
+    "lon": 12.8471002578735
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤rmlanda lÃ¤n",
+    "city": "VÃ¤rmlanda lÃ¤n",
+    "name": "Torsby Airport",
+    "icao": "ESST",
+    "lat": 60.1576004028,
+    "lon": 12.9912996291999
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¶nkÃ¶pings lÃ¤n",
+    "city": "VisingsÃ¶",
+    "name": "VisingsÃ¶ Airport",
+    "icao": "ESSI",
+    "lat": 58.0984001159668,
+    "lon": 14.4026002883911
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "Dalarnas lÃ¤n",
+    "name": "Borlange Airport",
+    "icao": "ESSD",
+    "lat": 60.4220008850097,
+    "lon": 15.5151996612548
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "TrollhÃ¤ttan",
+    "name": "TrollhÃ¤ttan-VÃ¤nersborg Airport",
+    "icao": "ESGT",
+    "lat": 58.3180999755859,
+    "lon": 12.3450002670288
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "SiljansnÃ¤s",
+    "name": "SiljansnÃ¤s Air Park",
+    "icao": "ESVS",
+    "lat": 60.785099,
+    "lon": 14.8272
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sternorrlands lÃ¤n",
+    "city": "Ã–rnskÃ¶ldsvik",
+    "name": "Ã–rnskÃ¶ldsvik Airport",
+    "icao": "ESNO",
+    "lat": 63.4082984924316,
+    "lon": 18.9899997711181
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤rmlanda lÃ¤n",
+    "city": "VÃ¤rmlanda lÃ¤n",
+    "name": "Hagfors Airport",
+    "icao": "ESOH",
+    "lat": 60.0200996398925,
+    "lon": 13.5789003372192
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stmanlanda lÃ¤n",
+    "city": "VÃ¤sterÃ¥s",
+    "name": "Johannisberg Airport",
+    "icao": "ESSX",
+    "lat": 59.5758018493652,
+    "lon": 16.5032005310058
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "LidkÃ¶ping",
+    "name": "LidkÃ¶ping-Hovby Airport",
+    "icao": "ESGL",
+    "lat": 58.4655,
+    "lon": 13.1744
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "AlingsÃ¥s",
+    "name": "AlingsÃ¥s Airport",
+    "icao": "ESGI",
+    "lat": 57.948888,
+    "lon": 12.575827
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "BorÃ¥s",
+    "name": "BorÃ¥s Airport",
+    "icao": "ESGE",
+    "lat": 57.695935,
+    "lon": 12.845002
+  },
+  {
+    "country": "Sweden",
+    "state": "Kronoberge lÃ¤n",
+    "city": "Ljungby",
+    "name": "Feringe Airport",
+    "icao": "ESMG",
+    "lat": 56.9502983093,
+    "lon": 13.9216995239
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "SkÃ¶vde",
+    "name": "SkÃ¶vde Airport",
+    "icao": "ESGR",
+    "lat": 58.4564018249511,
+    "lon": 13.9727001190185
+  },
+  {
+    "country": "Sweden",
+    "state": "Ã–rebro lÃ¤n",
+    "city": "Ã–rebro lÃ¤n",
+    "name": "Karlskoga Airport",
+    "icao": "ESKK",
+    "lat": 59.3459014892578,
+    "lon": 14.4959001541137
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stmanlanda lÃ¤n",
+    "city": "VÃ¤stmanlanda lÃ¤n",
+    "name": "Arboga Airport",
+    "icao": "ESQO",
+    "lat": 59.3866004943847,
+    "lon": 15.9240999221801
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤rmlanda lÃ¤n",
+    "city": "VÃ¤rmlanda lÃ¤n",
+    "name": "Sunne Airport",
+    "icao": "ESKU",
+    "lat": 59.8601989746093,
+    "lon": 13.1128997802734
+  },
+  {
+    "country": "Sweden",
+    "state": "Gotlands lÃ¤n",
+    "city": "Bunge",
+    "name": "Bunge Private Airport",
+    "icao": "ESVB",
+    "lat": 57.8497009277343,
+    "lon": 19.0349998474121
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "Ludvika",
+    "name": "Ludvika Airport",
+    "icao": "ESSG",
+    "lat": 60.0882987976074,
+    "lon": 15.0964002609252
+  },
+  {
+    "country": "Sweden",
+    "state": "Stockholms lÃ¤n",
+    "city": "Stockholm",
+    "name": "SkÃ¥-Edeby Airport",
+    "icao": "ESSE",
+    "lat": 59.345100402832,
+    "lon": 17.7404994964599
+  },
+  {
+    "country": "Sweden",
+    "state": "SkÃ¥ne lÃ¤n",
+    "city": "Vellinge",
+    "name": "Vellinge Airfield",
+    "icao": "ESTT",
+    "lat": 55.3912021148,
+    "lon": 13.0221033096
+  },
+  {
+    "country": "Sweden",
+    "state": "Stockholms lÃ¤n",
+    "city": "Stockholm",
+    "name": "Stockholm Tullinge Airport",
+    "icao": "ESCN",
+    "lat": 59.179401397705,
+    "lon": 17.9078006744384
+  },
+  {
+    "country": "Sweden",
+    "state": "Uppsala lÃ¤n",
+    "city": "Uppsala lÃ¤n",
+    "name": "Uppsala Airport",
+    "icao": "ESCM",
+    "lat": 59.8973007202148,
+    "lon": 17.5886001586914
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "Ã…lleberg",
+    "name": "Ã…lleberg Airport",
+    "icao": "ESGC",
+    "lat": 58.1344985961914,
+    "lon": 13.6026000976562
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "Dala JÃ¤rna",
+    "name": "Dala JÃ¤rna Airport",
+    "icao": "ESKD",
+    "lat": 60.5560989379882,
+    "lon": 14.3770999908447
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "Herrljunga",
+    "name": "Herrljunga Airport",
+    "icao": "ESGH",
+    "lat": 58.0293006896972,
+    "lon": 13.1082000732421
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "Idre",
+    "name": "Idre Airport",
+    "icao": "ESUE",
+    "lat": 61.869701385498,
+    "lon": 12.6893997192382
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stmanlanda lÃ¤n",
+    "city": "KÃ¶ping",
+    "name": "KÃ¶ping Airport",
+    "icao": "ESVQ",
+    "lat": 59.5275001525878,
+    "lon": 15.9696998596191
+  },
+  {
+    "country": "Sweden",
+    "state": "Stockholms lÃ¤n",
+    "city": "Stockholm",
+    "name": "Barkarby Airport",
+    "icao": "ESKB",
+    "lat": 59.4144743644,
+    "lon": 17.8821372986
+  },
+  {
+    "country": "Sweden",
+    "state": "Kalmar lÃ¤n",
+    "city": "Kalmar lÃ¤n",
+    "name": "Hultsfred Airport",
+    "icao": "ESSF",
+    "lat": 57.525799,
+    "lon": 15.8233
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sterbottens lÃ¤n",
+    "city": "VÃ¤sterbottens lÃ¤n",
+    "name": "Vilhelmina Airport",
+    "icao": "ESNV",
+    "lat": 64.5791015625,
+    "lon": 16.8335990905761
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "JÃ¤mtlande lÃ¤n",
+    "name": "Sveg Airport",
+    "icao": "ESND",
+    "lat": 62.0477981567382,
+    "lon": 14.4229001998901
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "Dalarnas lÃ¤n",
+    "name": "Orsa Airport",
+    "icao": "ESNR",
+    "lat": 61.1899986267089,
+    "lon": 14.7125997543334
+  },
+  {
+    "country": "Sweden",
+    "state": "GÃ¤vleborge lÃ¤n",
+    "city": "BollnÃ¤s",
+    "name": "BollnÃ¤s",
+    "icao": "SE-0003",
+    "lat": 61.356201171875,
+    "lon": 16.328800201416
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "DjurÃ¥s",
+    "name": "Gagnef Airport",
+    "icao": "ESVG",
+    "lat": 60.551700592041,
+    "lon": 15.0816001892089
+  },
+  {
+    "country": "Sweden",
+    "state": "SÃ¶dermanlands lÃ¤n",
+    "city": "Eskilstuna",
+    "name": "Ekeby Airport",
+    "icao": "ESSC",
+    "lat": 59.3838996887207,
+    "lon": 16.4419002532959
+  },
+  {
+    "country": "Sweden",
+    "state": "Ã–rebro lÃ¤n",
+    "city": "HÃ¤llefors",
+    "name": "HÃ¤llefors Airport",
+    "icao": "ESVH",
+    "lat": 59.8674011230468,
+    "lon": 14.4238996505737
+  },
+  {
+    "country": "Sweden",
+    "state": "Ã–rebro lÃ¤n",
+    "city": "LaxÃ¥",
+    "name": "LaxÃ¥ Airport",
+    "icao": "ESSH",
+    "lat": 58.9786987304687,
+    "lon": 14.666199684143
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤rmlanda lÃ¤n",
+    "city": "Lindfors",
+    "name": "Brattforshede Airport",
+    "icao": "ESSM",
+    "lat": 59.6083984375,
+    "lon": 13.9123001098632
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤rmlanda lÃ¤n",
+    "city": "Munkfors",
+    "name": "Munkfors Airport",
+    "icao": "ESKO",
+    "lat": 59.7988014221191,
+    "lon": 13.4906997680664
+  },
+  {
+    "country": "Sweden",
+    "state": "SkÃ¥ne lÃ¤n",
+    "city": "SÃ¶vdeborg",
+    "name": "SjÃ¶bo/SÃ¶vde Airport",
+    "icao": "ESMI",
+    "lat": 55.5982017516999,
+    "lon": 13.6746997833
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "Tidaholm",
+    "name": "BÃ¤mmelshed Airport",
+    "icao": "ESGD",
+    "lat": 58.1917991638183,
+    "lon": 13.9956998825073
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "Uddevalla",
+    "name": "RÃ¶rkÃ¤rr Airport",
+    "icao": "ESGU",
+    "lat": 58.3675994873046,
+    "lon": 11.7754001617431
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "Dalarnas lÃ¤n",
+    "name": "Norberg",
+    "icao": "SE-0004",
+    "lat": 60.1071572878999,
+    "lon": 15.9503996371999
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "JÃ¤mtlande lÃ¤n",
+    "name": "Ã…re / Molanda",
+    "icao": "SE-0005",
+    "lat": 63.3283291729,
+    "lon": 13.4257221221999
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stmanlanda lÃ¤n",
+    "city": "VÃ¤stmanlanda lÃ¤n",
+    "name": "FlygfÃ¤ltet LÃ¥ngtora",
+    "icao": "SE-0009",
+    "lat": 59.746288,
+    "lon": 17.144863
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "Timmele",
+    "name": "Timmele Airfield",
+    "icao": "SE-0049",
+    "lat": 57.872988,
+    "lon": 13.430448
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sterbottens lÃ¤n",
+    "city": "VÃ¤sterbottens lÃ¤n",
+    "name": "Lycksele Airport",
+    "icao": "ESNL",
+    "lat": 64.5483016967773,
+    "lon": 18.7161998748779
+  },
+  {
+    "country": "Sweden",
+    "state": "Kalmar lÃ¤n",
+    "city": "Kalmar lÃ¤n",
+    "name": "Oskarshamn Airport",
+    "icao": "ESMO",
+    "lat": 57.350498,
+    "lon": 16.497999
+  },
+  {
+    "country": "Sweden",
+    "state": "Norrbottena lÃ¤n",
+    "city": "Norrbottena lÃ¤n",
+    "name": "Pajala Airport",
+    "icao": "ESUP",
+    "lat": 67.2455978393554,
+    "lon": 23.068899154663
+  },
+  {
+    "country": "Sweden",
+    "state": "Norrbottena lÃ¤n",
+    "city": "Norrbottena lÃ¤n",
+    "name": "Hede Air Base",
+    "icao": "ESPJ",
+    "lat": 65.838302612305,
+    "lon": 21.468799591064
+  },
+  {
+    "country": "Sweden",
+    "state": "SÃ¶dermanlands lÃ¤n",
+    "city": "BjÃ¶rkvik",
+    "name": "BjÃ¶rkvik Air Base",
+    "icao": "ESKX",
+    "lat": 58.7907981872558,
+    "lon": 16.5711994171142
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sterbottens lÃ¤n",
+    "city": "FÃ¤llfors",
+    "name": "FÃ¤llfors Air Base",
+    "icao": "ESUF",
+    "lat": 65.107597351074,
+    "lon": 20.761100769043
+  },
+  {
+    "country": "Sweden",
+    "state": "Ã–stergÃ¶tlands lÃ¤n",
+    "city": "NorrkÃ¶ping",
+    "name": "BrÃ¥valla Air Base",
+    "icao": "ESCK",
+    "lat": 58.6109008789062,
+    "lon": 16.1035995483398
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "RÃ¥da",
+    "name": "RÃ¥da Air Base",
+    "icao": "ESFR",
+    "lat": 58.4981002807617,
+    "lon": 13.0531997680664
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "SÃ¥tenÃ¤s",
+    "name": "SÃ¥tenÃ¤s Air Base",
+    "icao": "ESIB",
+    "lat": 58.426399230957,
+    "lon": 12.7144002914428
+  },
+  {
+    "country": "Sweden",
+    "state": "SÃ¶dermanlands lÃ¤n",
+    "city": "StrÃ¤ngnÃ¤s",
+    "name": "StrÃ¤ngnÃ¤s Air Base",
+    "icao": "ESKS",
+    "lat": 59.3138,
+    "lon": 17.1091
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "JÃ¤mtlande lÃ¤n",
+    "name": "Hallviken Airport",
+    "icao": "ESNA",
+    "lat": 63.7383003234863,
+    "lon": 15.4582996368408
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "JÃ¤mtlande lÃ¤n",
+    "name": "Optand Airport",
+    "icao": "ESNM",
+    "lat": 63.1286010742187,
+    "lon": 14.8028001785278
+  },
+  {
+    "country": "Sweden",
+    "state": "Kronoberge lÃ¤n",
+    "city": "Ã„lmhult",
+    "name": "MÃ¶ckeln Airport",
+    "icao": "ESMU",
+    "lat": 56.5707015991,
+    "lon": 14.1665000916
+  },
+  {
+    "country": "Sweden",
+    "state": "Norrbottena lÃ¤n",
+    "city": "Ã„lvsbyn",
+    "name": "Ã„lvsbyn Airport",
+    "icao": "ESUV",
+    "lat": 65.6456985473632,
+    "lon": 21.0611000061035
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sternorrlands lÃ¤n",
+    "city": "Ã…nge",
+    "name": "TÃ¤lje Airport",
+    "icao": "ESUJ",
+    "lat": 62.5652999877929,
+    "lon": 15.8346996307373
+  },
+  {
+    "country": "Sweden",
+    "state": "Stockholms lÃ¤n",
+    "city": "Berga Naval Base",
+    "name": "Berga Heliport",
+    "icao": "ESQP",
+    "lat": 59.0702018738,
+    "lon": 18.1170005798
+  },
+  {
+    "country": "Sweden",
+    "state": "Norrbottena lÃ¤n",
+    "city": "Boden",
+    "name": "Boden Army Air Base",
+    "icao": "ESPG",
+    "lat": 65.810302734375,
+    "lon": 21.691299438477
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sterbottens lÃ¤n",
+    "city": "GargnÃ¤s",
+    "name": "GargnÃ¤s Airport",
+    "icao": "ESUG",
+    "lat": 65.3052978515625,
+    "lon": 17.9755001068115
+  },
+  {
+    "country": "Sweden",
+    "state": "Uppsala lÃ¤n",
+    "city": "Gimo",
+    "name": "Gimo Air Base",
+    "icao": "ESKA",
+    "lat": 60.1328010559082,
+    "lon": 18.1049003601074
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "Graftavallen",
+    "name": "Graftavallen Airport",
+    "icao": "ESUO",
+    "lat": 63.0416984558105,
+    "lon": 14.0013999938964
+  },
+  {
+    "country": "Sweden",
+    "state": "Kalmar lÃ¤n",
+    "city": "GrÃ¶nhÃ¶gen",
+    "name": "GrÃ¶nhÃ¶gen Airport",
+    "icao": "ESTG",
+    "lat": 56.275002,
+    "lon": 16.42
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sternorrlands lÃ¤n",
+    "city": "HÃ¤rnÃ¶sand",
+    "name": "Myran Airport",
+    "icao": "ESUH",
+    "lat": 62.632469177246,
+    "lon": 17.9817008972167
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "Hasslosa",
+    "name": "Hasslosa Air Base",
+    "icao": "ESFH",
+    "lat": 58.409698486328,
+    "lon": 13.26309967041
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "Hede",
+    "name": "Hedlanda Airport",
+    "icao": "ESNC",
+    "lat": 62.4089012145999,
+    "lon": 13.7472000121999
+  },
+  {
+    "country": "Sweden",
+    "state": "Kronoberge lÃ¤n",
+    "city": "Kosta",
+    "name": "Kosta Air Base",
+    "icao": "ESFQ",
+    "lat": 56.8445014954,
+    "lon": 15.4527997971
+  },
+  {
+    "country": "Sweden",
+    "state": "GÃ¤vleborge lÃ¤n",
+    "city": "Ljusdal",
+    "name": "Ljusdal Airport",
+    "icao": "ESUL",
+    "lat": 61.8170013427734,
+    "lon": 16.0042991638183
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sternorrlands lÃ¤n",
+    "city": "Mellansel",
+    "name": "Mellansel Airport",
+    "icao": "ESUI",
+    "lat": 63.3983001708984,
+    "lon": 18.3283004760742
+  },
+  {
+    "country": "Sweden",
+    "state": "SkÃ¥ne lÃ¤n",
+    "city": "Trelleborg",
+    "name": "Trelleborg Airport",
+    "icao": "ESMR",
+    "lat": 55.3833007812,
+    "lon": 13.0310001373
+  },
+  {
+    "country": "Sweden",
+    "state": "SkÃ¥ne lÃ¤n",
+    "city": "HÃ¤ssleholm",
+    "name": "HÃ¤ssleholm Vankivar Airport",
+    "icao": "ESMD",
+    "lat": 56.184700012207,
+    "lon": 13.7503004074096
+  },
+  {
+    "country": "Sweden",
+    "state": "SkÃ¥ne lÃ¤n",
+    "city": "SjÃ¶bo",
+    "name": "SjÃ¶bo Air Base",
+    "icao": "ESFJ",
+    "lat": 55.648998260498,
+    "lon": 13.6260995864868
+  },
+  {
+    "country": "Sweden",
+    "state": "Kronoberge lÃ¤n",
+    "city": "Tingsryd",
+    "name": "Tingsryd Airport",
+    "icao": "ESMW",
+    "lat": 56.5331001281738,
+    "lon": 14.9640998840332
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "city": "VÃ¤stra GÃ¶talands lÃ¤n",
+    "name": "Kattleberg Airport",
+    "icao": "SE-0008",
+    "lat": 57.98004,
+    "lon": 12.14489
+  },
+  {
+    "country": "Sweden",
+    "state": "Stockholms lÃ¤n",
+    "city": "Stockholms lÃ¤n",
+    "name": "TÃ¤by SjÃ¶flygklubb",
+    "icao": "SE-0011",
+    "lat": 59.448046,
+    "lon": 18.136212
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sternorrlands lÃ¤n",
+    "city": "VÃ¤sternorrlands lÃ¤n",
+    "name": "MajfÃ¤lt-OvansjÃ¶",
+    "icao": "SE-0013",
+    "lat": 62.235628,
+    "lon": 17.384825
+  },
+  {
+    "country": "Sweden",
+    "state": "Stockholms lÃ¤n",
+    "city": "Stockholms lÃ¤n",
+    "name": "FrÃ¶lunda Airfield",
+    "icao": "SE-0018",
+    "lat": 59.45837,
+    "lon": 17.71065
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sterbottens lÃ¤n",
+    "city": "VÃ¤sterbottens lÃ¤n",
+    "name": "Vindeln FlygfÃ¤lt",
+    "icao": "SE-0033",
+    "lat": 64.2676824,
+    "lon": 19.6187966
+  },
+  {
+    "country": "Sweden",
+    "state": "Hallands lÃ¤n",
+    "city": "Hallands lÃ¤n",
+    "name": "Duvhed flygfÃ¤lt UL",
+    "icao": "SE-0048",
+    "lat": 57.443448,
+    "lon": 12.164868
+  },
+  {
+    "country": "Sweden",
+    "state": "Stockholms lÃ¤n",
+    "city": "Stockholms lÃ¤n",
+    "name": "Myttinge Heliport",
+    "icao": "SE-0050",
+    "lat": 59.394406,
+    "lon": 18.4707801
+  },
+  {
+    "country": "Sweden",
+    "state": "Norrbottena lÃ¤n",
+    "city": "Norrbottena lÃ¤n",
+    "name": "Esrange Heliport",
+    "icao": "SE-0053",
+    "lat": 67.8920296,
+    "lon": 21.0855448
+  },
+  {
+    "country": "Sweden",
+    "state": "Norrbottena lÃ¤n",
+    "city": "Norrbottena lÃ¤n",
+    "name": "Ritsem Heliport",
+    "icao": "SE-0054",
+    "lat": 67.7169666,
+    "lon": 17.4794345
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "Ã„lvdalen",
+    "name": "Ã„lvdalens flygklubb",
+    "icao": "SE-0024",
+    "lat": 61.2139663,
+    "lon": 14.043191
+  },
+  {
+    "country": "Sweden",
+    "state": "Kronoberge lÃ¤n",
+    "city": "Alvesta",
+    "name": "Alvesta SmÃ¥landa Airfield",
+    "icao": "SE-0006",
+    "lat": 56.925822,
+    "lon": 14.542294
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤rmlanda lÃ¤n",
+    "city": "Charlottenberg",
+    "name": "Charlottenberg Airstrip",
+    "icao": "SE-0028",
+    "lat": 59.8942235,
+    "lon": 12.2722539
+  },
+  {
+    "country": "Sweden",
+    "state": "Ã–rebro lÃ¤n",
+    "city": "Degerfors",
+    "name": "Degerfors Grenlanda Airport",
+    "icao": "SE-0051",
+    "lat": 59.102878,
+    "lon": 14.300332
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sterbottens lÃ¤n",
+    "city": "Dorotea",
+    "name": "Dorotea flygfÃ¤lt",
+    "icao": "SE-0029",
+    "lat": 64.2645686,
+    "lon": 16.4899441
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "GÃ¤ddede",
+    "name": "Frostlanda flygfÃ¤lt",
+    "icao": "SE-0017",
+    "lat": 64.4820531,
+    "lon": 14.1044967
+  },
+  {
+    "country": "Sweden",
+    "state": "Uppsala lÃ¤n",
+    "city": "Gimo",
+    "name": "Gimo grÃ¤sfÃ¤lt",
+    "icao": "SE-0046",
+    "lat": 60.1770224,
+    "lon": 18.1941428
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "KolÃ¥sen",
+    "name": "KolÃ¥sens flygfÃ¤lt",
+    "icao": "SE-0031",
+    "lat": 63.764233,
+    "lon": 12.909206
+  },
+  {
+    "country": "Sweden",
+    "state": "SkÃ¥ne lÃ¤n",
+    "city": "Lund",
+    "name": "Lund Hospital Heliport",
+    "icao": "ESEM",
+    "lat": 55.7118123123,
+    "lon": 13.1986892223
+  },
+  {
+    "country": "Sweden",
+    "state": "Norrbottena lÃ¤n",
+    "city": "PÃ¥lstrÃ¤sk",
+    "name": "PÃ¥lstrÃ¤sket Airstrip",
+    "icao": "SE-0042",
+    "lat": 65.639347,
+    "lon": 21.231589
+  },
+  {
+    "country": "Sweden",
+    "state": "JÃ¤mtlande lÃ¤n",
+    "city": "RossÃ¶n",
+    "name": "Finlanda FlygfÃ¤lt",
+    "icao": "SE-0030",
+    "lat": 63.9118865,
+    "lon": 16.3228905
+  },
+  {
+    "country": "Sweden",
+    "state": "Dalarnas lÃ¤n",
+    "city": "SÃ¤len / Trysil",
+    "name": "Scandinavian Mountains Airport",
+    "icao": "SE-0016",
+    "lat": 61.158393,
+    "lon": 12.842503
+  },
+  {
+    "country": "Sweden",
+    "state": "Norrbottena lÃ¤n",
+    "city": "Satter",
+    "name": "Satter Airstrip",
+    "icao": "SE-0041",
+    "lat": 66.88023,
+    "lon": 21.91066
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sterbottens lÃ¤n",
+    "city": "Stalon",
+    "name": "Stalons flygfÃ¤lt",
+    "icao": "SE-0038",
+    "lat": 64.950554,
+    "lon": 15.826759
+  },
+  {
+    "country": "Sweden",
+    "state": "Norrbottena lÃ¤n",
+    "city": "Suddesjaur",
+    "name": "Suddesjaur",
+    "icao": "SE-0036",
+    "lat": 65.913351,
+    "lon": 19.1643
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤sternorrlands lÃ¤n",
+    "city": "Sundsvall",
+    "name": "BÃ¤nkÃ¥s HoppfÃ¤lt",
+    "icao": "SE-0020",
+    "lat": 62.389086,
+    "lon": 17.452807
+  },
+  {
+    "country": "Sweden",
+    "state": "VÃ¤stmanlanda lÃ¤n",
+    "city": "Vassunda",
+    "name": "Vassunda Private Airfield",
+    "icao": "SE-0022",
+    "lat": 59.7216732,
+    "lon": 17.7199959
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "country": "Tuvalu",
+    "state": "Nanumea",
+    "city": "Nanumea",
+    "name": "Nanumea Airfield",
+    "icao": "TV-0001",
+    "lat": -5.683334,
+    "lon": 176.129
+  },
+  {
+    "country": "Tuvalu",
+    "state": "Nukufetau",
+    "city": "Motulalo Island",
+    "name": "Nukufetau Airfield",
+    "icao": "TV-0002",
+    "lat": -8.065,
+    "lon": 178.377224
+  }
+]

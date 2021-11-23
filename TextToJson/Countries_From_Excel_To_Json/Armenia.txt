@@ -1,0 +1,83 @@
+[
+  {
+    "country": "Armenia",
+    "state": "Yerevan (capital district)",
+    "city": "Yerevan",
+    "name": "Zvartnots International Airport",
+    "icao": "UDYZ",
+    "lat": 40.1473007202,
+    "lon": 44.3959007263
+  },
+  {
+    "country": "Armenia",
+    "state": "Yerevan (capital district)",
+    "city": "Yerevan",
+    "name": "Yerevan Yegvard Airport",
+    "icao": "UD21",
+    "lat": 40.2941017150878,
+    "lon": 44.5646018981933
+  },
+  {
+    "country": "Armenia",
+    "state": "Vayots Dzor Province",
+    "city": "Dzhermuk",
+    "name": "Dzhermuk Airport",
+    "icao": "UGEJ",
+    "lat": 39.8240013123,
+    "lon": 45.6739997863999
+  },
+  {
+    "country": "Armenia",
+    "state": "Shirak Province",
+    "city": "Gyumri",
+    "name": "Gyumri Shirak Airport",
+    "icao": "UDSG",
+    "lat": 40.7504005432,
+    "lon": 43.8592987061
+  },
+  {
+    "country": "Armenia",
+    "state": "Lori Province",
+    "city": "Stepanavan",
+    "name": "Stepanavan Airport",
+    "icao": "UDLS",
+    "lat": 41.048500061,
+    "lon": 44.3372001647999
+  },
+  {
+    "country": "Armenia",
+    "state": "Yerevan (capital district)",
+    "city": "Yerevan",
+    "name": "Erebuni Airport",
+    "icao": "UDYE",
+    "lat": 40.1221008300999,
+    "lon": 44.4650001526
+  },
+  {
+    "country": "Armenia",
+    "state": "Tavush Province",
+    "city": "Berd",
+    "name": "Berd Airport",
+    "icao": "AM-0004",
+    "lat": 40.9254056063,
+    "lon": 45.4614043236
+  },
+  {
+    "country": "Armenia",
+    "state": "Syunik Province",
+    "city": "Kapan",
+    "name": "Kapan Airport",
+    "icao": "AM-0001",
+    "lat": 39.202999115,
+    "lon": 46.4550018311
+  },
+  {
+    "country": "Armenia",
+    "state": "Gegharkunik Province",
+    "city": "Mets Mazrik",
+    "name": "Mets Mazrik Airstrip",
+    "icao": "AM-0006",
+    "lat": 40.1998548891,
+    "lon": 45.7771110535
+  }
+]

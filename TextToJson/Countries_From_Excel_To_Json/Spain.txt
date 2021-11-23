@@ -1,0 +1,1973 @@
+[
+  {
+    "country": "Spain",
+    "state": "Baleares",
+    "city": "Palma De Mallorca",
+    "name": "Palma De Mallorca Airport",
+    "icao": "LEPA",
+    "lat": 39.551700592,
+    "lon": 2.73881006241
+  },
+  {
+    "country": "Spain",
+    "state": "Andaluc­a",
+    "city": "Malaga",
+    "name": "Malaga Airport",
+    "icao": "LEMG",
+    "lat": 36.6749000549316,
+    "lon": -4.49911022186279
+  },
+  {
+    "country": "Spain",
+    "state": "Canary Islands",
+    "city": "Gran Canaria Island",
+    "name": "Gran Canaria Airport",
+    "icao": "GCLP",
+    "lat": 27.931900024414,
+    "lon": -15.3865995407104
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Alicante",
+    "name": "Alicante International Airport",
+    "icao": "LEAL",
+    "lat": 38.2821998596191,
+    "lon": -0.558156013488769
+  },
+  {
+    "country": "Spain",
+    "state": "Andaluca",
+    "city": "Sevilla",
+    "name": "Sevilla Airport",
+    "icao": "LEZL",
+    "lat": 37.4179992675781,
+    "lon": -5.89310979843139
+  },
+  {
+    "country": "Spain",
+    "state": "Canary Islands",
+    "city": "Lanzarote Island",
+    "name": "Lanzarote Airport",
+    "icao": "GCRR",
+    "lat": 28.945499,
+    "lon": -13.6052
+  },
+  {
+    "country": "Spain",
+    "state": "Basque Country",
+    "city": "Bilbao",
+    "name": "Bilbao Airport",
+    "icao": "LEBB",
+    "lat": 43.3011016845703,
+    "lon": -2.91060996055603
+  },
+  {
+    "country": "Spain",
+    "state": "Canary Islands",
+    "city": "Fuerteventura Island",
+    "name": "Fuerteventura Airport",
+    "icao": "GCFV",
+    "lat": 28.4526996612548,
+    "lon": -13.8638000488281
+  },
+  {
+    "country": "Spain",
+    "state": "Baleares",
+    "city": "Menorca Island",
+    "name": "Menorca Airport",
+    "icao": "LEMH",
+    "lat": 39.8625984191894,
+    "lon": 4.21864986419677
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Reus",
+    "name": "Reus Air Base",
+    "icao": "LERS",
+    "lat": 41.1473999023437,
+    "lon": 1.16717004776
+  },
+  {
+    "country": "Spain",
+    "state": "Andaluca",
+    "city": "Granada",
+    "name": "Federico Garcia Lorca Airport",
+    "icao": "LEGR",
+    "lat": 37.1887016296386,
+    "lon": -3.77735996246337
+  },
+  {
+    "country": "Spain",
+    "state": "Galicia",
+    "city": "Vigo",
+    "name": "Vigo Airport",
+    "icao": "LEVX",
+    "lat": 42.2318000793457,
+    "lon": -8.62677001953125
+  },
+  {
+    "country": "Spain",
+    "state": "Cantabria",
+    "city": "Santander",
+    "name": "Santander Airport",
+    "icao": "LEXJ",
+    "lat": 43.4271011352539,
+    "lon": -3.82000994682312
+  },
+  {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "Madrid",
+    "name": "Cuatro Vientos Airport",
+    "icao": "LECU",
+    "lat": 40.370701,
+    "lon": -3.78514
+  },
+  {
+    "country": "Spain",
+    "state": "Asturias",
+    "city": "RanÃ³n",
+    "name": "Asturias Airport",
+    "icao": "LEAS",
+    "lat": 43.5635986328125,
+    "lon": -6.03461980819702
+  },
+  {
+    "country": "Spain",
+    "state": "Canary Islands",
+    "city": "Sta Cruz de la Palma, La Palma Island",
+    "name": "La Palma Airport",
+    "icao": "GCLA",
+    "lat": 28.626499,
+    "lon": -17.7556
+  },
+  {
+    "country": "Spain",
+    "state": "Galicia",
+    "city": "Culleredo",
+    "name": "A CoruÃ±a Airport",
+    "icao": "LECO",
+    "lat": 43.302101,
+    "lon": -8.37726
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "CastellÃ³n de La Plana",
+    "name": "Castellon De La Plana Aerodrome",
+    "icao": "LECN",
+    "lat": 39.999199,
+    "lon": 0.026111
+  },
+  {
+    "country": "Spain",
+    "state": "Baleares",
+    "city": "Mallorca Island",
+    "name": "Son Bonet Airport",
+    "icao": "LESB",
+    "lat": 39.5988998413085,
+    "lon": 2.70278000831604
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "MorÃ³n",
+    "name": "Moron Air Base",
+    "icao": "LEMO",
+    "lat": 37.1749000549316,
+    "lon": -5.61594009399414
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Rota",
+    "name": "Rota Naval Station Airport",
+    "icao": "LERT",
+    "lat": 36.645198822,
+    "lon": -6.34946012497
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "CÃ³rdoba",
+    "name": "CÃ³rdoba Airport",
+    "icao": "LEBA",
+    "lat": 37.841999053955,
+    "lon": -4.84887981414794
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Alp",
+    "name": "La Cerdanya Airport",
+    "icao": "LECD",
+    "lat": 42.3863983154296,
+    "lon": 1.86667001247406
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Trebujena",
+    "name": "Trebujena Airfield",
+    "icao": "ES-0001",
+    "lat": 36.8588888889,
+    "lon": -6.13916666667
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Muchamiel",
+    "name": "Muchamiel Airport",
+    "icao": "LEMU",
+    "lat": 38.44060134887,
+    "lon": -0.4752779901028
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Toledo",
+    "name": "La Mancha-Toledo Airport",
+    "icao": "LEMX",
+    "lat": 39.5620994567871,
+    "lon": -3.25075006484985
+  },
+  {
+    "country": "Spain",
+    "state": "Segovia",
+    "city": "MarugÃ¡n",
+    "name": "Air MarugÃ¡n",
+    "icao": "ES-0069",
+    "lat": 40.9111,
+    "lon": -4.370917
+  },
+  {
+    "country": "Spain",
+    "state": "Ceuta",
+    "city": "Ceuta",
+    "name": "Ceuta Heliport",
+    "icao": "GECE",
+    "lat": 35.8927993774414,
+    "lon": -5.30638980865478
+  },
+  {
+    "country": "Spain",
+    "state": "Murcia",
+    "city": "Alcantarilla",
+    "name": "Alcantarilla Air Base",
+    "icao": "LERI",
+    "lat": 37.951099,
+    "lon": -1.23032
+  },
+  {
+    "country": "Spain",
+    "state": "AragÃ³n",
+    "city": "Huesca",
+    "name": "Santa Cilia De Jaca Airport",
+    "icao": "LECI",
+    "lat": 42.569199,
+    "lon": -0.727778
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "MÃ¡laga",
+    "name": "La AxarquÃ­a-Leoni Benabu Airport",
+    "icao": "LEAX",
+    "lat": 36.8016662597656,
+    "lon": -4.1355562210083
+  },
+  {
+    "country": "Spain",
+    "state": "Baleares",
+    "city": "Menorca Island",
+    "name": "San Luis Airport",
+    "icao": "LESL",
+    "lat": 39.8622016906738,
+    "lon": 4.25832986831665
+  },
+  {
+    "country": "Spain",
+    "state": "AragÃ³n",
+    "city": "Monflorite/AlcalÃ¡ del Obispo",
+    "name": "Huesca/Pirineos Airport",
+    "icao": "LEHC",
+    "lat": 42.076099,
+    "lon": -0.316667
+  },
+  {
+    "country": "Spain",
+    "state": "Asturias",
+    "city": "Oviedo",
+    "name": "La Morgal Airport",
+    "icao": "LEMR",
+    "lat": 43.4291992188,
+    "lon": -5.83056020737
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Robledillo De Mohernando",
+    "name": "Robledillo De Mohernando Airport",
+    "icao": "LERM",
+    "lat": 40.8652992248535,
+    "lon": -3.24778008460998
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "Segovia",
+    "name": "Fuentemilanos Airport",
+    "icao": "LEFM",
+    "lat": 40.8886108397999,
+    "lon": -4.23750019073
+  },
+  {
+    "country": "Spain",
+    "state": "Baleares",
+    "city": "Baleares",
+    "name": "Vilafranca de Bonany-Es cruce Airfield (Aerodromo Mallorca)",
+    "icao": "ES-0058",
+    "lat": 39.576801,
+    "lon": 3.124647
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Valencia",
+    "name": "AerÃ³dromo forestal Castell de Castells",
+    "icao": "ES-0086",
+    "lat": 38.731,
+    "lon": -0.14471
+  },
+  {
+    "country": "Spain",
+    "state": "Albacete",
+    "city": "Albacete",
+    "name": "Pozo CaÃ±ada",
+    "icao": "ES-0015",
+    "lat": 38.798137,
+    "lon": -1.726842
+  },
+  {
+    "country": "Spain",
+    "state": "CÃ¡diz",
+    "city": "Algeciras",
+    "name": "Algeciras Heliport",
+    "icao": "AEI",
+    "lat": 36.12888,
+    "lon": -5.441118
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Barcelona",
+    "name": "Servei Generals Del Circuit De Catalunya Heliport",
+    "icao": "LETA",
+    "lat": 41.5740013122558,
+    "lon": 2.25715994834899
+  },
+  {
+    "country": "Spain",
+    "state": "Extremadura",
+    "city": "Guadalupe",
+    "name": "AerÃ³dromo de Guadalupe",
+    "icao": "LEGU",
+    "lat": 39.345699,
+    "lon": -5.19735
+  },
+  {
+    "country": "Spain",
+    "state": "AragÃ³n",
+    "city": "Teruel",
+    "name": "Teruel Airport",
+    "icao": "LETL",
+    "lat": 40.403,
+    "lon": -1.2183
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Albacete",
+    "name": "Albacete-Los Llanos Airport",
+    "icao": "LEAB",
+    "lat": 38.9485015869,
+    "lon": -1.86352002620999
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Armilla",
+    "name": "Armilla Air Base",
+    "icao": "LEGA",
+    "lat": 37.1332016,
+    "lon": -3.63568997
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "La Iglesuela",
+    "name": "El Tietar Airport",
+    "icao": "LETI",
+    "lat": 40.2439002990722,
+    "lon": -4.79443979263305
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Los Pozuelos De Calatrava",
+    "name": "Los Pozuelos De Calatrava Airport",
+    "icao": "LEPZ",
+    "lat": 38.9122009277,
+    "lon": -4.19111013412
+  },
+  {
+    "country": "Spain",
+    "state": "Galicia",
+    "city": "Lugo",
+    "name": "Rozas Airport",
+    "icao": "LERO",
+    "lat": 43.116901397705,
+    "lon": -7.47028017044067
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "Segovia",
+    "name": "Santo Tome Del Puerto Airport",
+    "icao": "LETP",
+    "lat": 41.2042007446289,
+    "lon": -3.59471988677978
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Torre de Juan Abad",
+    "name": "La Perdiz - Torre De Juan Abad Airport",
+    "icao": "LEIZ",
+    "lat": 38.5130996704,
+    "lon": -3.36433005333
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "ValdepeÃ±as",
+    "name": "La Calderera Airport",
+    "icao": "LELA",
+    "lat": 38.7478981018066,
+    "lon": -3.51455998420715
+  },
+  {
+    "country": "Spain",
+    "state": "Basque Country",
+    "city": "Basque Country",
+    "name": "Campo Gaviota Heliport",
+    "icao": "LEGV",
+    "lat": 43.4416999816894,
+    "lon": -2.75360989570617
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Catalonia",
+    "name": "Hospital General De Catalunya Heliport",
+    "icao": "LEHG",
+    "lat": 41.4735984802246,
+    "lon": 2.04250001907348
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Catalonia",
+    "name": "Sant MartÃ­ De Sescorts Heliport",
+    "icao": "LETM",
+    "lat": 42.0154991149902,
+    "lon": 2.31925010681152
+  },
+  {
+    "country": "Spain",
+    "state": "AragÃ³n",
+    "city": "AragÃ³n",
+    "name": "Vilaller Heliport",
+    "icao": "LEVR",
+    "lat": 42.3046989440918,
+    "lon": 0.713056027889251
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "AndalucÃ­a",
+    "name": "AeroSidonia",
+    "icao": "ES-0018",
+    "lat": 36.44026,
+    "lon": -5.94093
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Catalonia",
+    "name": "AerÃ²drom de Pals",
+    "icao": "ES-0020",
+    "lat": 42.0069903,
+    "lon": 3.1519175
+  },
+  {
+    "country": "Spain",
+    "state": "Girona",
+    "city": "Girona",
+    "name": "Camp de Vol de Palafolls",
+    "icao": "ES-0026",
+    "lat": 41.687222,
+    "lon": 2.748056
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Valencia",
+    "name": "Fuenterrobles",
+    "icao": "ES-0029",
+    "lat": 39.56601,
+    "lon": -1.36225
+  },
+  {
+    "country": "Spain",
+    "state": "Navarra",
+    "city": "Navarra",
+    "name": "Berbinzana",
+    "icao": "ES-0038",
+    "lat": 42.5225,
+    "lon": -1.803889
+  },
+  {
+    "country": "Spain",
+    "state": "Baleares",
+    "city": "Baleares",
+    "name": "AerÃ³drom de Binissalem",
+    "icao": "ES-0059",
+    "lat": 39.681743,
+    "lon": 2.878053
+  },
+  {
+    "country": "Spain",
+    "state": "Baleares",
+    "city": "Baleares",
+    "name": "AerÃ³dromo de Son AlbertÃ­ (Llucmajor)",
+    "icao": "ES-0061",
+    "lat": 39.410395,
+    "lon": 2.863864
+  },
+  {
+    "country": "Spain",
+    "state": "Salamanca",
+    "city": "Salamanca",
+    "name": "AerÃ³dromo el MaÃ­llo",
+    "icao": "ES-0074",
+    "lat": 40.571167,
+    "lon": -6.2188167
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "AndalucÃ­a",
+    "name": "AerÃ³dromo La Balanzona",
+    "icao": "ES-0079",
+    "lat": 37.9617333333,
+    "lon": -4.80705
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Catalonia",
+    "name": "Alt Camp de Vallmoll",
+    "icao": "ES-0089",
+    "lat": 41.249924,
+    "lon": 1.241474
+  },
+  {
+    "country": "Spain",
+    "state": "LeÃ³n",
+    "city": "LeÃ³n",
+    "name": "Chozas de Abajo",
+    "icao": "ES-0092",
+    "lat": 42.497215,
+    "lon": -5.682669
+  },
+  {
+    "country": "Spain",
+    "state": "Navarra",
+    "city": "Navarra",
+    "name": "AerÃ³dromo de Tudela",
+    "icao": "ES-0095",
+    "lat": 42.109262,
+    "lon": -1.686976
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "AndalucÃ­a",
+    "name": "Guadix",
+    "icao": "ES-0096",
+    "lat": 37.412624,
+    "lon": -3.075759
+  },
+  {
+    "country": "Spain",
+    "state": "JaÃ©n",
+    "city": "JaÃ©n",
+    "name": "AerÃ³dromo \"Puente de Genave\"",
+    "icao": "ES-0114",
+    "lat": 38.3666778,
+    "lon": -2.7941751
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "AndalucÃ­a",
+    "name": "Villafranca de Cordoba",
+    "icao": "ES-0120",
+    "lat": 37.9367064,
+    "lon": -4.5326323
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Castilla-La Mancha",
+    "name": "ValdepeÃ±as",
+    "icao": "ES-0135",
+    "lat": 38.7923092,
+    "lon": -3.3715367
+  },
+  {
+    "country": "Spain",
+    "state": "AragÃ³n",
+    "city": "AragÃ³n",
+    "name": "AerÃ³dromo de Tardienta - Monegros",
+    "icao": "ES-0144",
+    "lat": 41.9599129,
+    "lon": -0.5434853
+  },
+  {
+    "country": "Spain",
+    "state": "La Rioja",
+    "city": "La Rioja",
+    "name": "San Torcuato",
+    "icao": "ES-0146",
+    "lat": 42.4791667,
+    "lon": -2.8716667
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Valencia",
+    "name": "Olocau UL",
+    "icao": "ES-0158",
+    "lat": 39.675517,
+    "lon": -0.548855
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "AndalucÃ­a",
+    "name": "AerÃ³dromo de Garrucha",
+    "icao": "ES-0202",
+    "lat": 37.197959,
+    "lon": -1.830627
+  },
+  {
+    "country": "Spain",
+    "state": "Alicante",
+    "city": "Alicante",
+    "name": "Villena",
+    "icao": "ES-0229",
+    "lat": 38.5868201,
+    "lon": -0.8559465
+  },
+  {
+    "country": "Spain",
+    "state": "Galicia",
+    "city": "Galicia",
+    "name": "Lires Heliport",
+    "icao": "ES-0241",
+    "lat": 42.981544,
+    "lon": -9.237198
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "AndalucÃ­a",
+    "name": "Pitres Heliport",
+    "icao": "ES-0243",
+    "lat": 36.932903,
+    "lon": -3.3404525
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Castilla-La Mancha",
+    "name": "Los YÃ©benes Airstrip",
+    "icao": "ES-0245",
+    "lat": 39.5094986,
+    "lon": -4.0259661
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Castilla-La Mancha",
+    "name": "Tomelloso Airstrip",
+    "icao": "ES-0247",
+    "lat": 39.11266,
+    "lon": -2.94219
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "AndalucÃ­a",
+    "name": "Atlas Center Vuelos de Drones",
+    "icao": "ES-0248",
+    "lat": 38.1392261,
+    "lon": -3.1738682
+  },
+  {
+    "country": "Spain",
+    "state": "Teruel",
+    "city": "Teruel",
+    "name": "Calamocha Airstrip",
+    "icao": "ES-0252",
+    "lat": 40.902364,
+    "lon": -1.298009
+  },
+  {
+    "country": "Spain",
+    "state": "Ciudad Real",
+    "city": "Ciudad Real",
+    "name": "El Robledo",
+    "icao": "ES-0253",
+    "lat": 39.2242833,
+    "lon": -4.3076333
+  },
+  {
+    "country": "Spain",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "San Jeronimo",
+    "icao": "ES-0255",
+    "lat": 37.8821167,
+    "lon": -4.8845333
+  },
+  {
+    "country": "Spain",
+    "state": "CÃ¡ceres",
+    "city": "CÃ¡ceres",
+    "name": "El Rinconcillo de Guadalupe",
+    "icao": "LEGP",
+    "lat": 39.5941266,
+    "lon": -6.2062759
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "AndalucÃ­a",
+    "name": "Cabezas Rubias Airstrip",
+    "icao": "ES-0257",
+    "lat": 37.748234,
+    "lon": -7.096699
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "AndalucÃ­a",
+    "name": "AerÃ³dromo  Forestal Villaviciosa de CÃ³rdoba",
+    "icao": "ES-0264",
+    "lat": 38.05406,
+    "lon": -5.04182
+  },
+  {
+    "country": "Spain",
+    "state": "Zaragoza",
+    "city": "Zaragoza",
+    "name": "La Font de la Figuera Airstrip",
+    "icao": "ES-0266",
+    "lat": 38.7867833,
+    "lon": -0.8763
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Ademuz",
+    "name": "AerÃ³dromo forestal de Ademuz",
+    "icao": "ES-0085",
+    "lat": 40.091464,
+    "lon": -1.210474
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Albacete",
+    "name": "Helicsa Heliport",
+    "icao": "LEHE",
+    "lat": 39.0712013244628,
+    "lon": -1.83434998989105
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Albalat de la Ribera",
+    "name": "Albalat de la Ribera",
+    "icao": "ES-0140",
+    "lat": 39.2261566,
+    "lon": -0.3665835
+  },
+  {
+    "country": "Spain",
+    "state": "Sevilla",
+    "city": "AlcalÃ¡ del RÃ­o",
+    "name": "AerÃ³dromo AlcalÃ¡ del RÃ­o",
+    "icao": "ES-0070",
+    "lat": 37.553279,
+    "lon": -5.980612
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "AlcazarÃ©n",
+    "name": "AerÃ³dromo de AlcazarÃ©n",
+    "icao": "ES-0039",
+    "lat": 41.3727778,
+    "lon": -4.6958333
+  },
+  {
+    "country": "Spain",
+    "state": "Alicante",
+    "city": "Alcocer de Planes",
+    "name": "La MontaÃ±a ULM",
+    "icao": "ES-0043",
+    "lat": 38.80213,
+    "lon": -0.3984167
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Alcolea",
+    "name": "Alcolea Airstrip",
+    "icao": "ES-0117",
+    "lat": 37.9456192,
+    "lon": -4.6154163
+  },
+  {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "AlcorcÃ³n",
+    "name": "Hospital AlcorcÃ³n Heliport",
+    "icao": "LEHA",
+    "lat": 40.3497023762999,
+    "lon": -3.83819013834
+  },
+  {
+    "country": "Spain",
+    "state": "CÃ¡ceres",
+    "city": "Aldeacentenara",
+    "name": "AerÃ³dromo de Aldeacentenara",
+    "icao": "ES-0199",
+    "lat": 39.5609167,
+    "lon": -5.6637222
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Algodor (Toledo)",
+    "name": "AerÃ³dromo de Algodor",
+    "icao": "ES-0100",
+    "lat": 39.9004,
+    "lon": -3.87338333
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Alhama de Granada",
+    "name": "Campo de Vuelo Alhama de Granada",
+    "icao": "ES-0215",
+    "lat": 36.996999,
+    "lon": -4.103608
+  },
+  {
+    "country": "Spain",
+    "state": "Huelva",
+    "city": "Almonte",
+    "name": "Aires de DoÃ±ana",
+    "icao": "ES-0126",
+    "lat": 37.25689,
+    "lon": -6.562895
+  },
+  {
+    "country": "Spain",
+    "state": "Segovia",
+    "city": "Arcones",
+    "name": "AerÃ³drome de Arcones",
+    "icao": "ES-0194",
+    "lat": 41.11453,
+    "lon": -3.73378
+  },
+  {
+    "country": "Spain",
+    "state": "Cantabria",
+    "city": "ArgÃ¼Ã©banes",
+    "name": "CamaleÃ±o-ArtaÃ±in ULM",
+    "icao": "ES-0112",
+    "lat": 43.17817,
+    "lon": -4.674958
+  },
+  {
+    "country": "Spain",
+    "state": "LeÃ³n",
+    "city": "Astorga",
+    "name": "Campo de Vuelo de Astorga",
+    "icao": "ES-0213",
+    "lat": 42.50323,
+    "lon": -6.026578
+  },
+  {
+    "country": "Spain",
+    "state": "Extremadura",
+    "city": "Badajoz",
+    "name": "El ManantÃ­o Airport",
+    "icao": "LEEM",
+    "lat": 38.7775077819824,
+    "lon": -6.9911241531372
+  },
+  {
+    "country": "Spain",
+    "state": "Granada",
+    "city": "BailÃ©n (Granada)",
+    "name": "El Barranco",
+    "icao": "ES-0263",
+    "lat": 38.03774,
+    "lon": -3.76585
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Barcelona",
+    "name": "Ciudad Sanitaria y Universitaria de Bellvitge Heliport",
+    "icao": "LEHB",
+    "lat": 41.3452987670898,
+    "lon": 2.10729002952575
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Barcelona",
+    "name": "Fira M2 Heliport",
+    "icao": "LEFR",
+    "lat": 41.3539009094238,
+    "lon": 2.12916994094848
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Barcelona",
+    "name": "Hotel Rey Juan Carlos I Heliport",
+    "icao": "LEJC",
+    "lat": 41.3824996948242,
+    "lon": 2.10916996002197
+  },
+  {
+    "country": "Spain",
+    "state": "Alicante",
+    "city": "Beneixama",
+    "name": "Benejama UL",
+    "icao": "ES-0217",
+    "lat": 38.696193,
+    "lon": -0.744936
+  },
+  {
+    "country": "Spain",
+    "state": "Alicante",
+    "city": "Benidorm",
+    "name": "Heliactivo",
+    "icao": "ES-0240",
+    "lat": 38.5632993,
+    "lon": -0.1511484
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Berga",
+    "name": "Berga Heliport",
+    "icao": "LERG",
+    "lat": 42.105598449707,
+    "lon": 1.85333001613616
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "BÃ©tera",
+    "name": "Basa AÃ©rea de Valencia-BÃ©tera",
+    "icao": "ES-0023",
+    "lat": 39.62447,
+    "lon": -0.472576
+  },
+  {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "Brunete",
+    "name": "AerÃ³dromo de Brunete",
+    "icao": "ES-0178",
+    "lat": 40.396556,
+    "lon": -4.023712
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Cadiz",
+    "name": "San Fernando Helicopter Base",
+    "icao": "ES-0273",
+    "lat": 36.441879,
+    "lon": -6.221244
+  },
+  {
+    "country": "Spain",
+    "state": "Pontevedra",
+    "city": "Caldas de Reis",
+    "name": "Godos Airport",
+    "icao": "ES-0013",
+    "lat": 42.5787,
+    "lon": -8.6968
+  },
+  {
+    "country": "Spain",
+    "state": "Salamanca",
+    "city": "Calzada de Valdunciel",
+    "name": "AerÃ³dromo Calzada de Valdunciel",
+    "icao": "ES-0207",
+    "lat": 41.07545,
+    "lon": -5.7280355
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Camarenilla",
+    "name": "AerÃ³dromo de Camarenilla",
+    "icao": "ES-0219",
+    "lat": 40.024702,
+    "lon": -4.0712017
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Campillos",
+    "name": "AerÃ³dromo de Campillos",
+    "icao": "ES-0097",
+    "lat": 39.94135,
+    "lon": -1.530533
+  },
+  {
+    "country": "Spain",
+    "state": "Zaragoza",
+    "city": "Caspe",
+    "name": "Campo de Vuelo de Caspe",
+    "icao": "ES-0214",
+    "lat": 41.2287652,
+    "lon": -0.085876
+  },
+  {
+    "country": "Spain",
+    "state": "(unassigned)",
+    "city": "CastejÃ³n de Sos",
+    "name": "CastejÃ³n de Sos",
+    "icao": "ES-0205",
+    "lat": 42.516675,
+    "lon": 0.483282
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "CastellÃ³n de La Plana",
+    "name": "BP Oil EspaÃ±a Heliport",
+    "icao": "LEBP",
+    "lat": 39.957901,
+    "lon": -0.011632
+  },
+  {
+    "country": "Spain",
+    "state": "Lleida",
+    "city": "Cervera",
+    "name": "AerÃ²drom de Cervera",
+    "icao": "ES-0216",
+    "lat": 41.687597,
+    "lon": 1.250494
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "Cillamayor",
+    "name": "AerÃ³dromo de Cillamayor",
+    "icao": "ES-0174",
+    "lat": 42.851348,
+    "lon": -4.279289
+  },
+  {
+    "country": "Spain",
+    "state": "Extremadura",
+    "city": "Coria",
+    "name": "AerÃ³dromo Coria",
+    "icao": "ES-0177",
+    "lat": 39.984617,
+    "lon": -6.554554
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Cuenca",
+    "name": "Casas de los Pinos Airport",
+    "icao": "LEPI",
+    "lat": 39.2981986999511,
+    "lon": -2.37872004508972
+  },
+  {
+    "country": "Spain",
+    "state": "Sevilla",
+    "city": "Dos Hermanas",
+    "name": "Base AÃ©rea de El Copero",
+    "icao": "LEEC",
+    "lat": 37.313164,
+    "lon": -5.999058
+  },
+  {
+    "country": "Spain",
+    "state": "Basque Country",
+    "city": "Durango",
+    "name": "Iurreta Heliport",
+    "icao": "LEIU",
+    "lat": 43.181900024414,
+    "lon": -2.64638996124267
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Ecija",
+    "name": "Ecija 2 private airfield",
+    "icao": "ES-0171",
+    "lat": 37.5142575,
+    "lon": -5.1213502
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "El Casar de Escalona",
+    "name": "AerÃ³dromo AerÃ³polis",
+    "icao": "ES-0065",
+    "lat": 40.020804,
+    "lon": -4.558266
+  },
+  {
+    "country": "Spain",
+    "state": "Tarragona",
+    "city": "El Pla de Santa MarÃ­a",
+    "name": "AerÃ²drom Municipal El Pla de Santa MarÃ­a",
+    "icao": "ES-0173",
+    "lat": 41.371467,
+    "lon": 1.30375
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Espiel",
+    "name": "AerÃ³dromo de Espiel",
+    "icao": "ES-0197",
+    "lat": 38.2628667,
+    "lon": -5.0442
+  },
+  {
+    "country": "Spain",
+    "state": "MÃ¡laga",
+    "city": "Estepona",
+    "name": "Estepona Airfield",
+    "icao": "ES-0237",
+    "lat": 36.495633,
+    "lon": -5.17816
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "FoixÃ ",
+    "name": "AerÃ²drom de FoixÃ ",
+    "icao": "ES-0170",
+    "lat": 42.029933,
+    "lon": 2.990761
+  },
+  {
+    "country": "Spain",
+    "state": "(unassigned)",
+    "city": "Folgueroles",
+    "name": "AerÃ²drom de Folgueroles",
+    "icao": "ES-0109",
+    "lat": 41.95289,
+    "lon": 2.30661
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "Fontioso",
+    "name": "AerÃ³dromo Fontioso",
+    "icao": "ES-0169",
+    "lat": 41.933305,
+    "lon": -3.784808
+  },
+  {
+    "country": "Spain",
+    "state": "Baleares",
+    "city": "Formentera Island",
+    "name": "Sa Sabina Heliport",
+    "icao": "LEBI",
+    "lat": 38.7165985107421,
+    "lon": 1.39996004104614
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Fuente Obejuna",
+    "name": "AerÃ³dromo de Fuente Obejuna",
+    "icao": "ES-0181",
+    "lat": 38.281802,
+    "lon": -5.40184
+  },
+  {
+    "country": "Spain",
+    "state": "AlmerÃ­a",
+    "city": "GÃ©rgal",
+    "name": "AerÃ³dromo de GÃ©rgal",
+    "icao": "ES-0048",
+    "lat": 37.12557,
+    "lon": -2.595571
+  },
+  {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "GriÃ±Ã³n",
+    "name": "AerÃ³dromo de GriÃ±Ã³n",
+    "icao": "ES-0209",
+    "lat": 40.2237809995,
+    "lon": -3.866911
+  },
+  {
+    "country": "Spain",
+    "state": "Sevilla",
+    "city": "Guillena",
+    "name": "Aeroguillena",
+    "icao": "ES-0163",
+    "lat": 37.561238,
+    "lon": -6.0308241
+  },
+  {
+    "country": "Spain",
+    "state": "Extremadura",
+    "city": "Herrera del Duque",
+    "name": "AerÃ³dromo forestal de Herrera del Duque",
+    "icao": "ES-0226",
+    "lat": 39.2264442,
+    "lon": -4.8863799
+  },
+  {
+    "country": "Spain",
+    "state": "AragÃ³n",
+    "city": "Huesca",
+    "name": "CastejÃ³n de los Monegros Airport",
+    "icao": "LECJ",
+    "lat": 41.6077995300293,
+    "lon": -0.21832700073719
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Huevar",
+    "name": "Huevar 2",
+    "icao": "ES-0122",
+    "lat": 37.386693,
+    "lon": -6.250106
+  },
+  {
+    "country": "Spain",
+    "state": "Baleares",
+    "city": "Ibiza Island",
+    "name": "Hospital Can Misses Heliport",
+    "icao": "LENM",
+    "lat": 38.9174995422363,
+    "lon": 1.41944003105163
+  },
+  {
+    "country": "Spain",
+    "state": "Huelva",
+    "city": "Isla Cristina",
+    "name": "Isla Cristina Agricultural Airstrip",
+    "icao": "ES-0138",
+    "lat": 37.242111,
+    "lon": -7.317649
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Jaen",
+    "name": "AerÃ³dromo de Jaen - Las Infantas",
+    "icao": "ES-0182",
+    "lat": 37.908577,
+    "lon": -3.800161
+  },
+  {
+    "country": "Spain",
+    "state": "Extremadura",
+    "city": "La Cervera",
+    "name": "Aeroclub CÃ¡ceres",
+    "icao": "ES-0017",
+    "lat": 39.329167,
+    "lon": -6.343611
+  },
+  {
+    "country": "Spain",
+    "state": "Albacete",
+    "city": "La Gineta",
+    "name": "La Gineta UL",
+    "icao": "ES-0189",
+    "lat": 39.110988,
+    "lon": -2.008452
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "La Yesa",
+    "name": "AerÃ³dromo forestal de La Yesa",
+    "icao": "ES-0083",
+    "lat": 39.909035,
+    "lon": -0.948624
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Lebrija",
+    "name": "Lebrija UL",
+    "icao": "ES-0168",
+    "lat": 36.896138,
+    "lon": -6.0393716
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Linares",
+    "name": "AerÃ³dromo de Linares",
+    "icao": "LELI",
+    "lat": 38.133211,
+    "lon": -3.642554
+  },
+  {
+    "country": "Spain",
+    "state": "Girona",
+    "city": "LlabiÃ¡",
+    "name": "AerÃ²drom de LlabiÃ¡",
+    "icao": "ES-0128",
+    "lat": 42.011798,
+    "lon": 3.089483
+  },
+  {
+    "country": "Spain",
+    "state": "Galicia",
+    "city": "Lugo",
+    "name": "Villaframil Airport",
+    "icao": "LEVF",
+    "lat": 43.5525016784668,
+    "lon": -7.08777999877929
+  },
+  {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "Madrid",
+    "name": "DirecciÃ³n General de TrÃ¡fico Heliport",
+    "icao": "LEDG",
+    "lat": 40.4492988586425,
+    "lon": -3.64613056182861
+  },
+  {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "Madrid",
+    "name": "Torre Picasso Heliport",
+    "icao": "LETS",
+    "lat": 40.4498291436999,
+    "lon": -3.69314432144
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "Madrigalejo Del Monte",
+    "name": "Madrigalejo Del Monte Airport",
+    "icao": "LEJO",
+    "lat": 42.1343994140625,
+    "lon": -3.7310299873352
+  },
+  {
+    "country": "Spain",
+    "state": "Sevilla",
+    "city": "Mairena del Alcor",
+    "name": "AerohÃ­spalis",
+    "icao": "ES-0033",
+    "lat": 37.3297,
+    "lon": -5.722783
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Manresa",
+    "name": "Hospital General De Manresa Heliport",
+    "icao": "LEHM",
+    "lat": 41.7200012207031,
+    "lon": 1.84055995941162
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "MatarÃ³",
+    "name": "Nou Hospital De MatarÃ³ Heliport",
+    "icao": "LENH",
+    "lat": 41.5607986450195,
+    "lon": 2.42971992492675
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "Medina de Pomar",
+    "name": "Base AÃ©rea Las Navas",
+    "icao": "ES-0045",
+    "lat": 42.953642,
+    "lon": -3.473773
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Mogente / Moixent",
+    "name": "Campo de Vuelo Moixent-Mogente",
+    "icao": "ES-0159",
+    "lat": 38.817024,
+    "lon": -0.833138
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "MoiÃ ",
+    "name": "MoiÃ  Les Umbertes",
+    "icao": "ES-0099",
+    "lat": 41.7868167,
+    "lon": 2.129783
+  },
+  {
+    "country": "Spain",
+    "state": "Albacete",
+    "city": "Molinicos",
+    "name": "AerÃ³dromo de Las CaÃ±adillas",
+    "icao": "ES-0042",
+    "lat": 38.5019808,
+    "lon": -2.270097
+  },
+  {
+    "country": "Spain",
+    "state": "Murcia",
+    "city": "Murcia",
+    "name": "Los MartÃ­nez Del Puerto Airport",
+    "icao": "LEMP",
+    "lat": 37.8368166667,
+    "lon": -1.09766666667
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Olula del RÃ­o",
+    "name": "Olula del RÃ­o",
+    "icao": "ES-0106",
+    "lat": 37.362538,
+    "lon": -2.331969
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Orce",
+    "name": "AerÃ³dromo Orce",
+    "icao": "ES-0066",
+    "lat": 37.73545,
+    "lon": -2.36425
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "Oteo",
+    "name": "Campo de Vuelo de Oteo",
+    "icao": "ES-0211",
+    "lat": 43.0168667,
+    "lon": -3.3120333
+  },
+  {
+    "country": "Spain",
+    "state": "LeÃ³n",
+    "city": "Pajares de Los Oteros",
+    "name": "AerÃ³dromo de los Oteros",
+    "icao": "LEOS",
+    "lat": 42.3330555556,
+    "lon": -5.4519444444
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Palma del Rio",
+    "name": "Palma Del RÃ­o Airport",
+    "icao": "LEPR",
+    "lat": 37.7153015136718,
+    "lon": -5.21356010437011
+  },
+  {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "Pelayos de la Presa",
+    "name": "AerÃ³dromo Pelayos de la Presa",
+    "icao": "ES-0185",
+    "lat": 40.3720107,
+    "lon": -4.3826756
+  },
+  {
+    "country": "Spain",
+    "state": "Guadalajara",
+    "city": "Peralveche",
+    "name": "Campo de AviaciÃ³n de Peralveche",
+    "icao": "ES-0152",
+    "lat": 40.6025245,
+    "lon": -2.4293518
+  },
+  {
+    "country": "Spain",
+    "state": "CastellÃ³n",
+    "city": "Piedrahita",
+    "name": "AerÃ³dromo de Piedrahita",
+    "icao": "ES-0154",
+    "lat": 40.4798546,
+    "lon": -5.3606761
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Pozuelo de Calatrava",
+    "name": "AerÃ³dromo Pozuelo de Calatrava",
+    "icao": "ES-0077",
+    "lat": 38.905198,
+    "lon": -3.852635
+  },
+  {
+    "country": "Spain",
+    "state": "Ciudad Real",
+    "city": "Puebla de Don Rodrigo",
+    "name": "AerÃ³dromo Forestal \"Puebla de Don Rodrigo\"",
+    "icao": "ES-0225",
+    "lat": 39.066067,
+    "lon": -4.488502
+  },
+  {
+    "country": "Spain",
+    "state": "CÃ¡ceres",
+    "city": "Pueblonuevo de Miramontes",
+    "name": "Pueblonuevo de Miramontes Airstrip",
+    "icao": "ES-0251",
+    "lat": 40.059082,
+    "lon": -5.363341
+  },
+  {
+    "country": "Spain",
+    "state": "Ciudad Real",
+    "city": "Ruidera",
+    "name": "Ruidera2",
+    "icao": "ES-0221",
+    "lat": 39.02495,
+    "lon": -2.911927
+  },
+  {
+    "country": "Spain",
+    "state": "Salamanca",
+    "city": "Salamanca",
+    "name": "Salamanca Fire Station Helipad",
+    "icao": "ES-0005",
+    "lat": 40.9793128692,
+    "lon": -5.66011816263
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Sallent",
+    "name": "AerÃ²drom del Pla de Bages",
+    "icao": "ES-0063",
+    "lat": 41.777586,
+    "lon": 1.890361
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "San Jeronimo",
+    "name": "AerÃ³dromo de San Jeronimo",
+    "icao": "ES-0142",
+    "lat": 37.884932,
+    "lon": -4.85157
+  },
+  {
+    "country": "Spain",
+    "state": "Ãvila",
+    "city": "SanchidriÃ¡n",
+    "name": "AerodrÃ³mo de SanchidriÃ¡n",
+    "icao": "ES-0049",
+    "lat": 40.89995,
+    "lon": -4.609617
+  },
+  {
+    "country": "Spain",
+    "state": "Lleida",
+    "city": "Sant Guim de Freixenet",
+    "name": "La Segarra Airfield",
+    "icao": "ES-0031",
+    "lat": 41.681294,
+    "lon": 1.414266
+  },
+  {
+    "country": "Spain",
+    "state": "La CoruÃ±a",
+    "city": "Santa Comba",
+    "name": "Castriz/Cambe Airfield",
+    "icao": "ES-0012",
+    "lat": 43.102502,
+    "lon": -8.7617
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "Santa Maria del PÃ¡ramo",
+    "name": "Aerodromo El Busto",
+    "icao": "ES-0104",
+    "lat": 42.34463,
+    "lon": -5.803481
+  },
+  {
+    "country": "Spain",
+    "state": "Zamora",
+    "city": "Santiago de la Requejada",
+    "name": "Rosinos de la Requejada Airport",
+    "icao": "ES-0006",
+    "lat": 42.0981,
+    "lon": -6.5262
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Sevilla",
+    "name": "Altarejos-Guadalcanal Private Airfield",
+    "icao": "LEGC",
+    "lat": 38.1717,
+    "lon": -5.73953
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Sollana",
+    "name": "Sollana Agro Airstrip",
+    "icao": "ES-0261",
+    "lat": 39.270605,
+    "lon": -0.364932
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Sonseca",
+    "name": "AerÃ³dromo de Sonseca",
+    "icao": "ES-0094",
+    "lat": 39.693244,
+    "lon": -3.933074
+  },
+  {
+    "country": "Spain",
+    "state": "Valencia",
+    "city": "Sot de Ferrer",
+    "name": "Aeroclub Alto Palancia",
+    "icao": "ES-0037",
+    "lat": 39.7986111,
+    "lon": -0.42
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "TarancÃ³n",
+    "name": "AerÃ³dromo TarancÃ³n",
+    "icao": "ES-0155",
+    "lat": 40.01248,
+    "lon": -2.977939
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Tarragona",
+    "name": "Heli MontsiÃ¡ - Amposta Heliport",
+    "icao": "LEMN",
+    "lat": 40.6664009094238,
+    "lon": 0.564722001552581
+  },
+  {
+    "country": "Spain",
+    "state": "Ciudad Real",
+    "city": "Terrinches",
+    "name": "Terrinches Agro Airstrip",
+    "icao": "ES-0271",
+    "lat": 38.61471,
+    "lon": -2.85748
+  },
+  {
+    "country": "Spain",
+    "state": "Galicia",
+    "city": "TrasmirÃ¡s",
+    "name": "AerÃ³dromo de TrasmirÃ¡s",
+    "icao": "ES-0046",
+    "lat": 42.0517681,
+    "lon": -7.5986285
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Tremp",
+    "name": "Tremp Heliport",
+    "icao": "LETR",
+    "lat": 42.1693992614746,
+    "lon": 0.892777979373931
+  },
+  {
+    "country": "Spain",
+    "state": "Burgos",
+    "city": "TreviÃ±o",
+    "name": "AerÃ³dromo de TreviÃ±o",
+    "icao": "ES-0151",
+    "lat": 42.7212725,
+    "lon": -2.6783924
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Turre",
+    "name": "Cortijo Grande",
+    "icao": "ES-0228",
+    "lat": 37.1351217,
+    "lon": -1.9360369
+  },
+  {
+    "country": "Spain",
+    "state": "Catalonia",
+    "city": "Ullastrell",
+    "name": "Ullastrell-Teresa VilÃ¡ Heliport",
+    "icao": "LEUL",
+    "lat": 41.524299621582,
+    "lon": 1.97158002853393
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Urda",
+    "name": "Urda Agricultural Airstrip",
+    "icao": "ES-0137",
+    "lat": 39.405432,
+    "lon": -3.829932
+  },
+  {
+    "country": "Spain",
+    "state": "Sevilla",
+    "city": "Utrera",
+    "name": "AerÃ³dromo de Utrera",
+    "icao": "ES-0081",
+    "lat": 37.153417,
+    "lon": -5.798882
+  },
+  {
+    "country": "Spain",
+    "state": "Teruel",
+    "city": "Valdecebro",
+    "name": "Pista forestal Valdecebro",
+    "icao": "ES-0133",
+    "lat": 40.353799,
+    "lon": -1.013488
+  },
+  {
+    "country": "Spain",
+    "state": "Huelva",
+    "city": "Valdelamusa",
+    "name": "Pista Forestal Valdelamusa",
+    "icao": "ES-0195",
+    "lat": 37.7763167,
+    "lon": -6.8826667
+  },
+  {
+    "country": "Spain",
+    "state": "Extremadura",
+    "city": "Valdetorres",
+    "name": "AerÃ³dromo Valdetorres",
+    "icao": "ES-0150",
+    "lat": 38.942651,
+    "lon": -6.127169
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla y LeÃ³n",
+    "city": "Valladolid",
+    "name": "Torozos Airport",
+    "icao": "LETZ",
+    "lat": 41.785301208496,
+    "lon": -4.86472988128662
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Valverde del Camino",
+    "name": "AerÃ³dromo de Valverde del Camino",
+    "icao": "ES-0080",
+    "lat": 37.5056,
+    "lon": -6.70245
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Vera",
+    "name": "Ultralight Aeroclub MÃ¼ller",
+    "icao": "ES-0024",
+    "lat": 37.26076,
+    "lon": -1.85236
+  },
+  {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "Villaconejos",
+    "name": "AerÃ³dromo de Villaconejos",
+    "icao": "ES-0050",
+    "lat": 40.0969757,
+    "lon": -3.5083487
+  },
+  {
+    "country": "Spain",
+    "state": "Valladolid",
+    "city": "Villanueva de Duero",
+    "name": "Base de aviones \"La Cerra\"",
+    "icao": "ES-0262",
+    "lat": 42.521305,
+    "lon": -4.855477
+  },
+  {
+    "country": "Spain",
+    "state": "Madrid",
+    "city": "Villanueva del Pardillo",
+    "name": "AerÃ³dromo Villanueva del Pardillo",
+    "icao": "ES-0111",
+    "lat": 40.5001069999,
+    "lon": -3.9920997
+  },
+  {
+    "country": "Spain",
+    "state": "La Rioja",
+    "city": "Villarejo",
+    "name": "AerÃ³dromo Forestal \"La FonfrÃ­a\"",
+    "icao": "ES-0233",
+    "lat": 42.3466117,
+    "lon": -2.9109476
+  },
+  {
+    "country": "Spain",
+    "state": "AndalucÃ­a",
+    "city": "Villarrubia",
+    "name": "AerÃ³dromo de CÃ³rdoba-Villarrubia",
+    "icao": "ES-0110",
+    "lat": 37.8367253,
+    "lon": -4.8964369
+  },
+  {
+    "country": "Spain",
+    "state": "Palencia",
+    "city": "Villaumbrales",
+    "name": "Villaumbrales UL",
+    "icao": "ES-0147",
+    "lat": 42.095282,
+    "lon": -4.595404
+  },
+  {
+    "country": "Spain",
+    "state": "Palencia",
+    "city": "Villoldo",
+    "name": "Villoldo Airport",
+    "icao": "ES-0009",
+    "lat": 42.2655,
+    "lon": -4.6479
+  },
+  {
+    "country": "Spain",
+    "state": "CastellÃ³n",
+    "city": "VinarÃ²s",
+    "name": "VinarÃ²s Airfield",
+    "icao": "ES-0002",
+    "lat": 40.519722222,
+    "lon": 0.390277778
+  },
+  {
+    "country": "Spain",
+    "state": "Castilla-La Mancha",
+    "city": "Viso del MarquÃ©s",
+    "name": "Viso del MarquÃ©s Airport",
+    "icao": "LEVI",
+    "lat": 38.5055999756,
+    "lon": -3.42615008353999
+  },
+  {
+    "country": "Spain",
+    "state": "CastellÃ³n",
+    "city": "Viver",
+    "name": "AerÃ³dromo de Viver",
+    "icao": "ES-0052",
+    "lat": 39.95398,
+    "lon": -0.623243
+  },
+  {
+    "country": "Spain",
+    "state": "Murcia",
+    "city": "Yecla",
+    "name": "Campo de Vuelo Yecla",
+    "icao": "ES-0160",
+    "lat": 38.58759,
+    "lon": -1.105
+  },
+  {
+    "country": "Spain",
+    "state": "Badajoz",
+    "city": "Zafra",
+    "name": "AerÃ³dromo Virgen de La Estrella",
+    "icao": "LEVE",
+    "lat": 38.4205555556,
+    "lon": -6.3569444444
+  },
+  {
+    "country": "Spain",
+    "state": "Basque Country",
+    "city": "Zalduondo",
+    "name": "Zalduendo ULM",
+    "icao": "ES-0040",
+    "lat": 42.873599,
+    "lon": -2.337437
+  },
+  {
+    "country": "Spain",
+    "state": "Vizcaya",
+    "city": "Zalla",
+    "name": "AerÃ³dromo de Zalla - Forestal",
+    "icao": "ES-0180",
+    "lat": 43.186232,
+    "lon": -3.1206308
+  },
+  {
+    "country": "Spain",
+    "state": "Zaragoza",
+    "city": "Zaragoza",
+    "name": "Cogullada",
+    "icao": "ES-0201",
+    "lat": 41.691623,
+    "lon": -0.85157
+  }
+]

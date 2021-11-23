@@ -1,0 +1,2801 @@
+[
+  {
+    "country": "Venezuela",
+    "state": "Nueva Esparta",
+    "city": "Isla Margarita",
+    "name": "Del Caribe Santiago MariÃ±o International Airport",
+    "icao": "SVMG",
+    "lat": 10.9126033782958,
+    "lon": -63.9665985107421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "Barcelona",
+    "name": "General JosÃ© Antonio Anzoategui International Airport",
+    "icao": "SVBC",
+    "lat": 10.111111,
+    "lon": -64.692222
+  },
+  {
+    "country": "Venezuela",
+    "state": "Merida",
+    "city": "MÃ©rida",
+    "name": "Alberto Carnevalli Airport",
+    "icao": "SVMD",
+    "lat": 8.582078,
+    "lon": -71.161041
+  },
+  {
+    "country": "Venezuela",
+    "state": "Falcon",
+    "city": "ParaguanÃ¡",
+    "name": "Josefa Camejo International Airport",
+    "icao": "SVJC",
+    "lat": 11.7807750701904,
+    "lon": -70.151496887207
+  },
+  {
+    "country": "Venezuela",
+    "state": "Carabobo",
+    "city": "Valencia",
+    "name": "Arturo Michelena International Airport",
+    "icao": "SVVA",
+    "lat": 10.1497325897216,
+    "lon": -67.9283981323242
+  },
+  {
+    "country": "Venezuela",
+    "state": "Dependencias Federales",
+    "city": "Gran Roque Island",
+    "name": "Los Roques Airport",
+    "icao": "SVRS",
+    "lat": 11.9499998093,
+    "lon": -66.6699981689
+  },
+  {
+    "country": "Venezuela",
+    "state": "Lara",
+    "city": "Barquisimeto",
+    "name": "Barquisimeto International Airport",
+    "icao": "SVBM",
+    "lat": 10.0427465438842,
+    "lon": -69.3586196899414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "Barinas Airport",
+    "icao": "SVBI",
+    "lat": 8.615,
+    "lon": -70.21416667
+  },
+  {
+    "country": "Venezuela",
+    "state": "Tachira",
+    "city": "Tachira",
+    "name": "Paramillo Airport",
+    "icao": "SVPM",
+    "lat": 7.80132007598876,
+    "lon": -72.2029037475586
+  },
+  {
+    "country": "Venezuela",
+    "state": "Delta Amacuro",
+    "city": "Tucupita",
+    "name": "Tucupita Airport",
+    "icao": "SVTC",
+    "lat": 9.08899402618408,
+    "lon": -62.0941734313964
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "San Carlos",
+    "name": "San Carlos Airport",
+    "icao": "SVCJ",
+    "lat": 9.64772033691406,
+    "lon": -68.5746994018554
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "Canaima",
+    "name": "Canaima Airport",
+    "icao": "SVCN",
+    "lat": 6.23198890686035,
+    "lon": -62.8544311523437
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "El Tigre",
+    "name": "San TomÃ© Airport",
+    "icao": "SVST",
+    "lat": 8.9451465606689,
+    "lon": -64.151084899902
+  },
+  {
+    "country": "Venezuela",
+    "state": "Aragua",
+    "city": "Maracay",
+    "name": "Escuela Mariscal Sucre Airport",
+    "icao": "SVBS",
+    "lat": 10.2499780654907,
+    "lon": -67.6494216918945
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Caicara del Orinoco Airport",
+    "icao": "SVCD",
+    "lat": 7.62551021575927,
+    "lon": -66.1628036499023
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Guasdalito Airport",
+    "icao": "SVGD",
+    "lat": 7.23333311080932,
+    "lon": -70.8000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Miranda",
+    "city": "Miranda",
+    "name": "Metropolitano Airport",
+    "icao": "SVMP",
+    "lat": 10.1331691741943,
+    "lon": -66.7878265380859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Santa BÃ¡rbara del Zulia Airport",
+    "icao": "SVSZ",
+    "lat": 8.97455024719238,
+    "lon": -71.9432525634765
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Valle de La Pascua Airport",
+    "icao": "SVVP",
+    "lat": 9.22202777863,
+    "lon": -65.9935836792
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "Anaco",
+    "name": "Anaco Airport",
+    "icao": "SVAN",
+    "lat": 9.43022537231445,
+    "lon": -64.4707260131836
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Calabozo Airport",
+    "icao": "SVCL",
+    "lat": 8.92465591430664,
+    "lon": -67.4170913696289
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Inglaterra",
+    "name": "San Fernando De Apure Airport",
+    "icao": "SVSR",
+    "lat": 7.88331985473632,
+    "lon": -67.4440002441406
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Kavac Airport",
+    "icao": "VE-0103",
+    "lat": 5.71500015258789,
+    "lon": -62.4066658020019
+  },
+  {
+    "country": "Venezuela",
+    "state": "Nueva Esparta",
+    "city": "Isla La Tortuga",
+    "name": "La Tortuga Punta Delgada Airport",
+    "icao": "SVDA",
+    "lat": 10.936667,
+    "lon": -65.223335
+  },
+  {
+    "country": "Venezuela",
+    "state": "Nueva Esparta",
+    "city": "La Blanquilla - Isla Margarita",
+    "name": "La Blanquilla Airport",
+    "icao": "SVLB",
+    "lat": 11.8205785751342,
+    "lon": -64.5862121582031
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "San Fernando de Atabapo",
+    "name": "San Fernando de Atabapo Airport",
+    "icao": "SVAT",
+    "lat": 4.05104017258,
+    "lon": -67.6996994019
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Predra Lais",
+    "name": "Tama Tama Field",
+    "icao": "VE-0211",
+    "lat": 3.14861111111,
+    "lon": -65.8611111111
+  },
+  {
+    "country": "Venezuela",
+    "state": "Tachira",
+    "city": "Santo Domingo",
+    "name": "Mayor Buenaventura Vivas International Airport",
+    "icao": "SVSO",
+    "lat": 7.56538,
+    "lon": -72.035103
+  },
+  {
+    "country": "Venezuela",
+    "state": "Sucre",
+    "city": "Sucre",
+    "name": "Guiria Airport",
+    "icao": "SVGI",
+    "lat": 10.5740776062,
+    "lon": -62.3126678467
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "Bolivar",
+    "name": "El Dorado Airport",
+    "icao": "SVED",
+    "lat": 6.73333311080932,
+    "lon": -61.5833320617675
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Palmarito",
+    "name": "Palmarito Airport",
+    "icao": "SVPT",
+    "lat": 7.56666994094848,
+    "lon": -70.1832962036132
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "San Juan de los Morros",
+    "name": "San Juan de Los Morros Airport",
+    "icao": "SVJM",
+    "lat": 9.90695285797119,
+    "lon": -67.379638671875
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "Cojedes",
+    "name": "La Culata Airport",
+    "icao": "VE-0210",
+    "lat": 9.27499961852999,
+    "lon": -68.3666687012
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Bachaquero Airport",
+    "icao": "SVBQ",
+    "lat": 10.0015001296997,
+    "lon": -71.0837020874023
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "El Guayabo del Zulia Airport",
+    "icao": "SVEB",
+    "lat": 8.67615985870361,
+    "lon": -72.3356018066406
+  },
+  {
+    "country": "Venezuela",
+    "state": "Aragua",
+    "city": "Aragua",
+    "name": "El Palmar Airport",
+    "icao": "SVEP",
+    "lat": 10.2066669464111,
+    "lon": -67.441665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "La Gran China Airport",
+    "icao": "SVGC",
+    "lat": 9.77707958221435,
+    "lon": -72.4868011474609
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Monagas",
+    "name": "Las Flores Airport",
+    "icao": "SVLM",
+    "lat": 9.49794006347656,
+    "lon": -62.9013061523437
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Monagas",
+    "name": "Santa BÃ¡rbara de Monagas Airport",
+    "icao": "SVOF",
+    "lat": 9.69849967956543,
+    "lon": -63.6222991943359
+  },
+  {
+    "country": "Venezuela",
+    "state": "Delta Amacuro",
+    "city": "Delta Amacuro",
+    "name": "Pedernales Airport",
+    "icao": "SVPE",
+    "lat": 9.97924041748046,
+    "lon": -62.2285995483398
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "El Pardillero Airport",
+    "icao": "SVPQ",
+    "lat": 8.59827041625976,
+    "lon": -69.7608032226562
+  },
+  {
+    "country": "Venezuela",
+    "state": "Falcon",
+    "city": "Falcon",
+    "name": "Cumarebo Airport",
+    "icao": "SVRB",
+    "lat": 11.51258,
+    "lon": -69.3115
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Los Siete Samanes Airport",
+    "icao": "SVSN",
+    "lat": 8.8756399154663,
+    "lon": -66.8398971557617
+  },
+  {
+    "country": "Venezuela",
+    "state": "Yaracuy",
+    "city": "Yaracuy",
+    "name": "La Bananera Airport",
+    "icao": "SVWB",
+    "lat": 10.4794998168945,
+    "lon": -68.4728012084961
+  },
+  {
+    "country": "Venezuela",
+    "state": "Falcon",
+    "city": "Falcon",
+    "name": "Punta Brava Airport",
+    "icao": "SVPB",
+    "lat": 10.7839002609252,
+    "lon": -68.3436965942382
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Aricuaisa Airport",
+    "icao": "SV74",
+    "lat": 9.58187007904052,
+    "lon": -72.7880020141601
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "IcabarÃº Airport",
+    "icao": "SVIC",
+    "lat": 4.33631992340087,
+    "lon": -61.7396011352539
+  },
+  {
+    "country": "Venezuela",
+    "state": "Falcon",
+    "city": "Falcon",
+    "name": "AdÃ­cora Airport",
+    "icao": "SVAR",
+    "lat": 11.9368000030517,
+    "lon": -69.8096008300781
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Monagas",
+    "name": "Temblador Airport",
+    "icao": "SVTR",
+    "lat": 9.01666736602783,
+    "lon": -62.7333335876464
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Uriman Airport",
+    "icao": "SVUM",
+    "lat": 5.33333301544189,
+    "lon": -62.7666664123535
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Arichuna Airport",
+    "icao": "SVAI",
+    "lat": 7.86666679382324,
+    "lon": -67.033332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Mata de CaÃ±a Airport",
+    "icao": "SVAM",
+    "lat": 7.31666707992553,
+    "lon": -69.1999969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "Cojedes",
+    "name": "Mata Oscura Airport",
+    "icao": "SVAQ",
+    "lat": 9.25,
+    "lon": -68.4833297729492
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Monagas",
+    "name": "El Alcaravan Airport",
+    "icao": "SVAV",
+    "lat": 9.27333259582519,
+    "lon": -63.4183311462402
+  },
+  {
+    "country": "Venezuela",
+    "state": "Sucre",
+    "city": "Sucre",
+    "name": "Araya Airport",
+    "icao": "SVAY",
+    "lat": 10.5833330154418,
+    "lon": -64.2466659545898
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Los Camorucos Airport",
+    "icao": "SVBD",
+    "lat": 7.61666679382324,
+    "lon": -69.0500030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Hato UraÃ±on Airport",
+    "icao": "SVBF",
+    "lat": 6.96666717529296,
+    "lon": -67.2166671752929
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Hato Viejo Airport",
+    "icao": "SVBJ",
+    "lat": 7.32166719436645,
+    "lon": -69.6699981689453
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Jobito Airport",
+    "icao": "SVBP",
+    "lat": 7.59999990463256,
+    "lon": -67.1999969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "Portuguesa",
+    "name": "Boquemonte Airport",
+    "icao": "SVBT",
+    "lat": 9.19999980926513,
+    "lon": -69.75
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Hato El Burro Airport",
+    "icao": "SVBW",
+    "lat": 7.13166713714599,
+    "lon": -63.4566688537597
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Achaguas Airport",
+    "icao": "SVCH",
+    "lat": 7.73999977111816,
+    "lon": -68.2399978637695
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Cazorla Airport",
+    "icao": "SVCQ",
+    "lat": 8.06060028076171,
+    "lon": -66.9699020385742
+  },
+  {
+    "country": "Venezuela",
+    "state": "Trujillo",
+    "city": "Trujillo",
+    "name": "ChinazÃ³n Airport",
+    "icao": "SVCW",
+    "lat": 9.32666683197021,
+    "lon": -70.9333343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "Cojedes",
+    "name": "DoÃ±a Bella Airport",
+    "icao": "SVDB",
+    "lat": 9.33333301544189,
+    "lon": -68.4333343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Punto Fijo Airport",
+    "icao": "SVDF",
+    "lat": 6.86666679382324,
+    "lon": -68.783332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Codsa Airport",
+    "icao": "SVDS",
+    "lat": 4.7916669845581,
+    "lon": -61.1199989318847
+  },
+  {
+    "country": "Venezuela",
+    "state": "Delta Amacuro",
+    "city": "Delta Amacuro",
+    "name": "Hato Puga Airport",
+    "icao": "SVDX",
+    "lat": 8.46666717529296,
+    "lon": -62.4833335876464
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "Cojedes",
+    "name": "El Guayabo de Cojedes Airport",
+    "icao": "SVEG",
+    "lat": 9.69999980926513,
+    "lon": -68.3333358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "El CapitÃ¡n Airport",
+    "icao": "SVEK",
+    "lat": 10.1135997772216,
+    "lon": -72.5765991210937
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "El Respiro Airport",
+    "icao": "SVER",
+    "lat": 7.21666717529296,
+    "lon": -68.9833297729492
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "Portuguesa",
+    "name": "La Esperanza Airport",
+    "icao": "SVEX",
+    "lat": 8.69999980926513,
+    "lon": -69.0749969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Hacienda Santa FÃ© Airport",
+    "icao": "SVFE",
+    "lat": 9.5,
+    "lon": -72.5833358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "FundaciÃ³n Layera Airport",
+    "icao": "SVFL",
+    "lat": 7.19999980926513,
+    "lon": -68.1333312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "El Fuentero Airport",
+    "icao": "SVFT",
+    "lat": 7.09999990463256,
+    "lon": -69.5833358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "Portuguesa",
+    "name": "Finca Yacurito Airport",
+    "icao": "SVFY",
+    "lat": 9.03333282470703,
+    "lon": -69.0999984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "Portuguesa",
+    "name": "GanaderÃ­a Pedernales Airport",
+    "icao": "SVGE",
+    "lat": 9.21000003814697,
+    "lon": -69.5816650390625
+  },
+  {
+    "country": "Venezuela",
+    "state": "Aragua",
+    "city": "Aragua",
+    "name": "La Guacharaca Airport",
+    "icao": "SVGH",
+    "lat": 9.53499984741211,
+    "lon": -66.7249984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Guesipo Airport",
+    "icao": "SVGP",
+    "lat": 9.63333320617675,
+    "lon": -67.1833343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "Anzoategui",
+    "name": "Las Guadalupes Airport",
+    "icao": "SVGX",
+    "lat": 8.75500011444091,
+    "lon": -63.5250015258789
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Hato Altamira de BolÃ­var Airport",
+    "icao": "SVHA",
+    "lat": 7.59999990463256,
+    "lon": -63.2166671752929
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Hato Rancho Alegre Airport",
+    "icao": "SVHE",
+    "lat": 9.56666660308837,
+    "lon": -67.566665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Aragua",
+    "city": "Aragua",
+    "name": "Hacienda Carutal Airport",
+    "icao": "SVHL",
+    "lat": 9.71666717529296,
+    "lon": -66.783332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Hato El Sesenta Airport",
+    "icao": "SVHS",
+    "lat": 8.25,
+    "lon": -65.5833358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Hato La Candelaria Airport",
+    "icao": "SVHX",
+    "lat": 8.68333339691162,
+    "lon": -67.7166671752929
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "Portuguesa",
+    "name": "Hato El CaimÃ¡n Airport",
+    "icao": "SVIM",
+    "lat": 9.10000038146972,
+    "lon": -69.620002746582
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Monagas",
+    "name": "Hato La LejanÃ­a Airport",
+    "icao": "SVJI",
+    "lat": 9.09718036651611,
+    "lon": -63.1185989379882
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "La VigÃ­a Oeste Airport",
+    "icao": "SVJO",
+    "lat": 9.6666669845581,
+    "lon": -67.0500030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "La Calzada Airport",
+    "icao": "SVKB",
+    "lat": 7.98333311080932,
+    "lon": -70.0999984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Piscuri Airport",
+    "icao": "SVKI",
+    "lat": 7.54665994644165,
+    "lon": -71.7883987426757
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "El Lucero del Zulia Airport",
+    "icao": "SVLE",
+    "lat": 10.4499998092651,
+    "lon": -71.3666687011718
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "La AlcancÃ­a Airport",
+    "icao": "SVLI",
+    "lat": 7.30000019073486,
+    "lon": -67.3333358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Falcon",
+    "city": "Falcon",
+    "name": "La Candelaria Airport",
+    "icao": "SVLN",
+    "lat": 10.7266998291015,
+    "lon": -68.3335037231445
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Las Corobas Airport",
+    "icao": "SVLS",
+    "lat": 6.76666688919067,
+    "lon": -68.3499984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "Carabobo",
+    "city": "Carabobo",
+    "name": "Los Aguacates Airport",
+    "icao": "SVLW",
+    "lat": 10.0683326721191,
+    "lon": -68.0216674804687
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "La Yagua Airport",
+    "icao": "SVLY",
+    "lat": 7.28333282470703,
+    "lon": -68.533332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "Carabobo",
+    "city": "Carabobo",
+    "name": "La Mona Airport",
+    "icao": "SVMA",
+    "lat": 10.1431999206542,
+    "lon": -68.1978988647461
+  },
+  {
+    "country": "Venezuela",
+    "state": "Delta Amacuro",
+    "city": "Delta Amacuro",
+    "name": "Mapire Airport",
+    "icao": "SVME",
+    "lat": 7.73862981796264,
+    "lon": -64.719497680664
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Macanillal Airport",
+    "icao": "SVMH",
+    "lat": 7.31666707992553,
+    "lon": -68.0
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "Cojedes",
+    "name": "El Milagro Cojedes Airport",
+    "icao": "SVMK",
+    "lat": 9.22999954223632,
+    "lon": -67.9700012207031
+  },
+  {
+    "country": "Venezuela",
+    "state": "Falcon",
+    "city": "Falcon",
+    "name": "MamÃ³n Airport",
+    "icao": "SVMM",
+    "lat": 11.2666673660278,
+    "lon": -70.25
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "Fundo la MarqueseÃ±a Airport",
+    "icao": "SVMQ",
+    "lat": 8.84166717529296,
+    "lon": -70.033332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Maroa Airport",
+    "icao": "SVMV",
+    "lat": 2.69250011444091,
+    "lon": -67.5188980102539
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Manapiare Airport",
+    "icao": "SVMY",
+    "lat": 5.30833292007446,
+    "lon": -66.0500030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Maripa Airport",
+    "icao": "SVNB",
+    "lat": 7.40000009536743,
+    "lon": -65.1833343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "El Mango Airport",
+    "icao": "SVNG",
+    "lat": 10.283332824707,
+    "lon": -72.4666671752929
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "Anzoategui",
+    "name": "Hato Mikitole Airport",
+    "icao": "SVNK",
+    "lat": 8.41777801513671,
+    "lon": -63.5677795410156
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "El Morichal Airport",
+    "icao": "SVNR",
+    "lat": 6.98333311080932,
+    "lon": -68.6333312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "San Lorenzo De Barinas Airport",
+    "icao": "SVOA",
+    "lat": 8.28472232818603,
+    "lon": -69.9166641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "San Luis Capanaparo Airport",
+    "icao": "SVOC",
+    "lat": 6.96666717529296,
+    "lon": -68.3333358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Santa BÃ¡rbara del Amazonas Airport",
+    "icao": "SVOG",
+    "lat": 3.94166707992553,
+    "lon": -67.0783309936523
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Los Indios Airport",
+    "icao": "SVOI",
+    "lat": 7.30000019073486,
+    "lon": -68.066665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Hato El Rosero Airport",
+    "icao": "SVOO",
+    "lat": 7.65000009536743,
+    "lon": -69.4166641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Santa MÃ³nica Airport",
+    "icao": "SVOQ",
+    "lat": 8.6666669845581,
+    "lon": -67.6666641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Los Cocos Airport",
+    "icao": "SVOS",
+    "lat": 7.46666717529296,
+    "lon": -68.6666641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Coco de Mono Airport",
+    "icao": "SVOW",
+    "lat": 7.19999980926513,
+    "lon": -68.5166702270507
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Hato La Ponderosa Airport",
+    "icao": "SVPD",
+    "lat": 7.09999990463256,
+    "lon": -67.9000015258789
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Perai Tepuy Airport",
+    "icao": "SVPH",
+    "lat": 4.56666707992553,
+    "lon": -61.4833335876464
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Pesurca Airport",
+    "icao": "SVPJ",
+    "lat": 6.28333282470703,
+    "lon": -69.316665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "El Pueblito Airport",
+    "icao": "SVPL",
+    "lat": 7.81666707992553,
+    "lon": -62.7166671752929
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Hato El Porvenir Airport",
+    "icao": "SVPO",
+    "lat": 7.55000019073486,
+    "lon": -68.25
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "Anzoategui",
+    "name": "Pelayo Airport",
+    "icao": "SVPW",
+    "lat": 9.0,
+    "lon": -63.6666679382324
+  },
+  {
+    "country": "Venezuela",
+    "state": "Carabobo",
+    "city": "Carabobo",
+    "name": "Palma Sola Airport",
+    "icao": "SVPY",
+    "lat": 10.4899997711181,
+    "lon": -68.1750030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Santa RosalÃ­a Airport",
+    "icao": "SVQA",
+    "lat": 7.46666717529296,
+    "lon": -65.566665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Santa MarÃ­a La Tigra Airport",
+    "icao": "SVQC",
+    "lat": 6.5,
+    "lon": -67.1333312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Tucupido Airport",
+    "icao": "SVQI",
+    "lat": 9.35000038146972,
+    "lon": -65.8000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "Torunos Airport",
+    "icao": "SVQN",
+    "lat": 8.31666660308837,
+    "lon": -70.0500030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Miquelon Airport",
+    "icao": "SVQP",
+    "lat": 9.05000019073486,
+    "lon": -71.3680572509765
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Santa Rita Airport",
+    "icao": "SVQS",
+    "lat": 7.6666669845581,
+    "lon": -66.8000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Tamatal Airport",
+    "icao": "SVQW",
+    "lat": 8.83333301544189,
+    "lon": -66.3666687011718
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "Santa Rosa de Barinas Airport",
+    "icao": "SVQZ",
+    "lat": 8.43333339691162,
+    "lon": -69.7333297729492
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Aracay Abajo Airport",
+    "icao": "SVRE",
+    "lat": 8.39333343505859,
+    "lon": -65.8666687011718
+  },
+  {
+    "country": "Venezuela",
+    "state": "Tachira",
+    "city": "Tachira",
+    "name": "Rancho Grande de TÃ¡chira Airport",
+    "icao": "SVRH",
+    "lat": 7.61666679382324,
+    "lon": -71.9833297729492
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "San Pancracio Airport",
+    "icao": "SVRL",
+    "lat": 8.51666736602783,
+    "lon": -69.6416702270507
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Monagas",
+    "name": "El TerrÃ³n Airport",
+    "icao": "SVRN",
+    "lat": 9.38333320617675,
+    "lon": -63.2666664123535
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Rosetta Airport",
+    "icao": "SVRQ",
+    "lat": 5.43333292007446,
+    "lon": -66.1341705322265
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Corocito Airport",
+    "icao": "SVRT",
+    "lat": 7.05000019073486,
+    "lon": -68.566665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Rosario Airport",
+    "icao": "SVRW",
+    "lat": 9.19999980926513,
+    "lon": -72.3833312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "El Corozo Airport",
+    "icao": "SVRZ",
+    "lat": 8.46666717529296,
+    "lon": -66.033332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "Portuguesa",
+    "name": "Sabana Dulce Airport",
+    "icao": "SVSD",
+    "lat": 8.81666660308837,
+    "lon": -69.6333312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "San Juan De RÃ­o Claro Airport",
+    "icao": "SVSH",
+    "lat": 7.18416690826416,
+    "lon": -67.1680526733398
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Central BolÃ­var Airport",
+    "icao": "SVSJ",
+    "lat": 8.9166669845581,
+    "lon": -71.9333343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Miranda",
+    "city": "Miranda",
+    "name": "Hacienda Santa Elena de Mirand Airport",
+    "icao": "SVSL",
+    "lat": 10.3166666030883,
+    "lon": -66.3000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "San Leonardo Airport",
+    "icao": "SVSQ",
+    "lat": 7.03333282470703,
+    "lon": -68.3333358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Carabobo",
+    "city": "Carabobo",
+    "name": "San Francisco De Carabobo Airport",
+    "icao": "SVSW",
+    "lat": 10.1022224426269,
+    "lon": -68.0833358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Merida",
+    "city": "Merida",
+    "name": "San Francisco de MÃ©rida Airport",
+    "icao": "SVSY",
+    "lat": 8.80000019073486,
+    "lon": -71.5833358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Antabare Airport",
+    "icao": "SVTE",
+    "lat": 6.48333311080932,
+    "lon": -62.8833312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "La Tigra Airport",
+    "icao": "SVTG",
+    "lat": 7.63333320617675,
+    "lon": -68.6999969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "La Trinidad de Barinas Airport",
+    "icao": "SVTN",
+    "lat": 8.13333320617675,
+    "lon": -68.6666641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "La Torta Airport",
+    "icao": "SVTT",
+    "lat": 9.5112600326538,
+    "lon": -66.5539016723632
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Mayupa Airport",
+    "icao": "SVUA",
+    "lat": 6.15000009536743,
+    "lon": -62.7000007629394
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Uruyen Airport",
+    "icao": "SVUY",
+    "lat": 5.68004989624023,
+    "lon": -62.4571990966796
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Valle Grande Airport",
+    "icao": "SVVD",
+    "lat": 8.26666736602783,
+    "lon": -67.1666641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Buena Vista del CaÃ±o Medio Airport",
+    "icao": "SVVM",
+    "lat": 6.9166669845581,
+    "lon": -68.1500015258789
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Villa del Rosario Airport",
+    "icao": "SVVS",
+    "lat": 10.3166666030883,
+    "lon": -72.3000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Los Venados Airport",
+    "icao": "SVVX",
+    "lat": 6.56166696548461,
+    "lon": -66.0016632080078
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Hato Santa Clara Airport",
+    "icao": "SVXF",
+    "lat": 7.15000009536743,
+    "lon": -69.25
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "El Yagual Airport",
+    "icao": "SVYG",
+    "lat": 7.46666717529296,
+    "lon": -68.4499969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Yopita Airport",
+    "icao": "SVYP",
+    "lat": 7.19999980926513,
+    "lon": -69.316665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "AcaÃ±ana Airport",
+    "icao": "VE-0001",
+    "lat": 3.23333311080932,
+    "lon": -65.9499969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Asisa (Alto Asisa) AirpÃ²rt",
+    "icao": "VE-0015",
+    "lat": 4.46888923645019,
+    "lon": -65.7691650390625
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Buena Vista del CaÃ±o Airport",
+    "icao": "VE-0023",
+    "lat": 3.5,
+    "lon": -65.3333358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Cacuri Airport",
+    "icao": "VE-0028",
+    "lat": 4.82166719436645,
+    "lon": -65.3399963378906
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Camani Airport",
+    "icao": "VE-0031",
+    "lat": 5.10833311080932,
+    "lon": -66.2583312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "CaÃ±o Iguana Sur Airport",
+    "icao": "VE-0034",
+    "lat": 5.05000019073486,
+    "lon": -65.6166687011718
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Cayoateri (Coyowateli) Airport",
+    "icao": "VE-0042",
+    "lat": 2.42151999473571,
+    "lon": -64.2973022460937
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Cerro BolÃ­var Airport",
+    "icao": "VE-0046",
+    "lat": 7.5,
+    "lon": -63.4000015258789
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Chaparalito Airport",
+    "icao": "VE-0051",
+    "lat": 6.58833312988281,
+    "lon": -68.2866668701171
+  },
+  {
+    "country": "Venezuela",
+    "state": "Lara",
+    "city": "Lara",
+    "name": "Chorobobo Airport",
+    "icao": "VE-0053",
+    "lat": 10.033332824707,
+    "lon": -69.25
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "El Carmen Airport",
+    "icao": "VE-0057",
+    "lat": 6.15000009536743,
+    "lon": -67.066665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "El Millanero Airport",
+    "icao": "VE-0061",
+    "lat": 8.31666660308837,
+    "lon": -67.1116638183593
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "El SamÃ¡n de GuÃ¡rico Airport",
+    "icao": "VE-0063",
+    "lat": 8.82499980926513,
+    "lon": -67.0183334350586
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Erebastina Airport",
+    "icao": "VE-0068",
+    "lat": 5.13333320617675,
+    "lon": -64.8499984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Guanay Airport",
+    "icao": "VE-0076",
+    "lat": 5.68280982971191,
+    "lon": -66.3580017089843
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "Hacienda Bella Vista Airport",
+    "icao": "VE-0079",
+    "lat": 8.05000019073486,
+    "lon": -69.8499984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Hato El Cujicito Airport",
+    "icao": "VE-0082",
+    "lat": 8.96666717529296,
+    "lon": -67.8000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Hato El SamÃ¡n Airport",
+    "icao": "VE-0084",
+    "lat": 8.80500030517578,
+    "lon": -67.1316680908203
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Hato Los Pozos Airport",
+    "icao": "VE-0087",
+    "lat": 9.63500022888183,
+    "lon": -65.8033294677734
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Hato San Antonio Airport",
+    "icao": "VE-0089",
+    "lat": 9.05000019073486,
+    "lon": -67.6500015258789
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Hato San Leonardo Airport",
+    "icao": "VE-0091",
+    "lat": 6.98999977111816,
+    "lon": -68.2616653442382
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Isla RatÃ³n Airport",
+    "icao": "VE-0096",
+    "lat": 5.05027818679809,
+    "lon": -67.8172225952148
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Kanarakuni Norte Airport",
+    "icao": "VE-0100",
+    "lat": 4.43333292007446,
+    "lon": -64.1333312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Kanaripo Airport",
+    "icao": "VE-0102",
+    "lat": 4.06666707992553,
+    "lon": -66.9499969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "Portuguesa",
+    "name": "La Cantara Airport",
+    "icao": "VE-0105",
+    "lat": 8.71666717529296,
+    "lon": -69.2416687011718
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "Cojedes",
+    "name": "La Yegua Airport",
+    "icao": "VE-0111",
+    "lat": 8.7316665649414,
+    "lon": -68.4700012207031
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Las Mercedes Capanaparo Airport",
+    "icao": "VE-0117",
+    "lat": 6.96666717529296,
+    "lon": -67.2666702270507
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Macagua Airport",
+    "icao": "VE-0121",
+    "lat": 8.27666664123535,
+    "lon": -62.3983345031738
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Majawa Airport",
+    "icao": "VE-0123",
+    "lat": 5.13333320617675,
+    "lon": -65.033332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Maraca Airport",
+    "icao": "VE-0126",
+    "lat": 5.96666717529296,
+    "lon": -66.9166641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Marueta Airport",
+    "icao": "VE-0128",
+    "lat": 4.30166721343994,
+    "lon": -66.2966690063476
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Mata de Guama Airport",
+    "icao": "VE-0130",
+    "lat": 7.98963022232055,
+    "lon": -69.2782974243164
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Mavaca II Airport",
+    "icao": "VE-0132",
+    "lat": 2.52068996429443,
+    "lon": -65.1990966796875
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Mayobateli Airport",
+    "icao": "VE-0134",
+    "lat": 2.73333311080932,
+    "lon": -64.0833358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Mikuski Airport",
+    "icao": "VE-0138",
+    "lat": 5.58333301544189,
+    "lon": -65.9499969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Moriche Airport",
+    "icao": "VE-0140",
+    "lat": 4.71666717529296,
+    "lon": -66.3333358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apure",
+    "name": "Pacicuchero Airport",
+    "icao": "VE-0145",
+    "lat": 6.59999990463256,
+    "lon": -68.4333343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Parupa Airport",
+    "icao": "VE-0148",
+    "lat": 5.48166704177856,
+    "lon": -63.6216659545898
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Pista Larga Airport",
+    "icao": "VE-0151",
+    "lat": 5.98333311080932,
+    "lon": -66.2333297729492
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Rancho Pando Airport",
+    "icao": "VE-0169",
+    "lat": 4.80000019073486,
+    "lon": -65.3833312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "RÃ­o Hacha Airport",
+    "icao": "VE-0174",
+    "lat": 4.78333282470703,
+    "lon": -65.3499984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "San JosÃ© de Kayama Airport",
+    "icao": "VE-0178",
+    "lat": 6.31833314895629,
+    "lon": -65.3766632080078
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "San Pedro de AdawaÃ±a Airport",
+    "icao": "VE-0180",
+    "lat": 5.36166715621948,
+    "lon": -64.2433319091796
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Santa MarÃ­a de Erebato Airport",
+    "icao": "VE-0182",
+    "lat": 4.94999980926513,
+    "lon": -64.8000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Tavi Tavi Airport",
+    "icao": "VE-0186",
+    "lat": 4.65000009536743,
+    "lon": -66.3000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Tenqua Airport",
+    "icao": "VE-0189",
+    "lat": 5.03333282470703,
+    "lon": -65.6333312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Trial Airport",
+    "icao": "VE-0192",
+    "lat": 8.10833263397216,
+    "lon": -66.4333343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Wasara Airport",
+    "icao": "VE-0199",
+    "lat": 4.73910999298095,
+    "lon": -65.2153015136718
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Amazonas",
+    "name": "Yajanamateli Airport",
+    "icao": "VE-0202",
+    "lat": 3.61666703224182,
+    "lon": -65.1999969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Anzoategui",
+    "name": "Curujujul Airport",
+    "icao": "SVJJ",
+    "lat": 7.44333314895629,
+    "lon": -67.7966690063476
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Apurito",
+    "name": "Apurito Airport",
+    "icao": "SVAP",
+    "lat": 7.91884994506835,
+    "lon": -68.4830017089843
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Arismendi",
+    "name": "Arismendi Airport",
+    "icao": "VE-0014",
+    "lat": 8.48416709899902,
+    "lon": -68.366943359375
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Banco del Medio",
+    "name": "Las Delicias Airport",
+    "icao": "SVLH",
+    "lat": 7.1666669845581,
+    "lon": -69.3833312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Barinas",
+    "name": "San Antonio De Barinas Airport",
+    "icao": "SVSG",
+    "lat": 8.56666660308837,
+    "lon": -70.0500030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Trujillo",
+    "city": "Bobures",
+    "name": "Central Venezuela Airport",
+    "icao": "SVBU",
+    "lat": 9.1666669845581,
+    "lon": -71.0999984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "Trujillo",
+    "city": "Bocono",
+    "name": "Bocono Airport",
+    "icao": "SVBK",
+    "lat": 9.26710033416748,
+    "lon": -70.2304992675781
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Cabimas",
+    "name": "Oro Negro Airport",
+    "icao": "SVON",
+    "lat": 10.3306999206542,
+    "lon": -71.3225021362304
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Carrizal",
+    "name": "CapitÃ¡n Manuel RÃ­os Airbase",
+    "icao": "SVCZ",
+    "lat": 9.37265014648437,
+    "lon": -66.9227981567382
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Casigua El Cubo",
+    "name": "Casigua El Cubo Airport",
+    "icao": "SVCG",
+    "lat": 8.75813961029052,
+    "lon": -72.5363006591796
+  },
+  {
+    "country": "Venezuela",
+    "state": "Yaracuy",
+    "city": "central Matilde",
+    "name": "Central Matilde Airport",
+    "icao": "SVTJ",
+    "lat": 10.1578998565673,
+    "lon": -68.8616027832031
+  },
+  {
+    "country": "Venezuela",
+    "state": "Falcon",
+    "city": "Churuguara",
+    "name": "Churuguara Airport",
+    "icao": "SVHH",
+    "lat": 10.8080997467041,
+    "lon": -69.6383972167968
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "CordereÃ±o",
+    "name": "CordereÃ±o Airport",
+    "icao": "SVDR",
+    "lat": 7.93333292007446,
+    "lon": -69.9000015258789
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "El Diero",
+    "name": "Santa Rita Airport ",
+    "icao": "SVQR",
+    "lat": 7.51666688919067,
+    "lon": -68.6833343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Aragua",
+    "city": "El Lechozo",
+    "name": "El Lechozo Airport",
+    "icao": "SVLU",
+    "lat": 9.30000019073486,
+    "lon": -66.6783294677734
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "El Lucero",
+    "name": "El Lucero de Apure Airport",
+    "icao": "SVLC",
+    "lat": 6.98333311080932,
+    "lon": -68.066665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "El Paraiso",
+    "name": "El Paraiso Airport",
+    "icao": "SVEM",
+    "lat": 8.33333301544189,
+    "lon": -70.375
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "El Poblado",
+    "name": "CaÃ±o Lucas Airport",
+    "icao": "SVCK",
+    "lat": 9.4166669845581,
+    "lon": -68.8833312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "El Roble",
+    "name": "San Diego De Cabrutica Airport",
+    "icao": "SV02",
+    "lat": 8.40443038940429,
+    "lon": -65.0155029296875
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "El SamÃ¡n de Apure",
+    "name": "El SamÃ¡n de Apure Airport",
+    "icao": "SVES",
+    "lat": 7.91235017776489,
+    "lon": -68.6927032470703
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "El Toco",
+    "name": "El Toco Airport",
+    "icao": "SVTO",
+    "lat": 9.19999980926513,
+    "lon": -64.8499984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "Guayabal",
+    "name": "Armando Schwarck Airport",
+    "icao": "SVAS",
+    "lat": 6.57805013656616,
+    "lon": -66.8169021606445
+  },
+  {
+    "country": "Venezuela",
+    "state": "Nueva Esparta",
+    "city": "Isla de Coche",
+    "name": "AndrÃ©s Miguel Salazar Marcano Airport",
+    "icao": "SVIE",
+    "lat": 10.794432,
+    "lon": -63.98159
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Juan Mateo",
+    "name": "Juan Mateo Airport",
+    "icao": "VE-0098",
+    "lat": 7.4316668510437,
+    "lon": -68.1366653442382
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "Kamarata",
+    "name": "Kamarata Airport",
+    "icao": "VE-0205",
+    "lat": 5.75,
+    "lon": -62.4160003661999
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "La Bombita",
+    "name": "Corral Viejo Airport",
+    "icao": "SVKV",
+    "lat": 9.6666669845581,
+    "lon": -70.9666671752929
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "La Ceiba",
+    "name": "La Vieja Airport",
+    "icao": "SVLJ",
+    "lat": 9.68333339691162,
+    "lon": -64.1833343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "La Cruz",
+    "name": "La Batalla Airport",
+    "icao": "SVBG",
+    "lat": 9.19999980926513,
+    "lon": -68.1666641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "La Esmeralda",
+    "name": "Aeropuerto La Esmeralda",
+    "icao": "VE-0107",
+    "lat": 3.166667,
+    "lon": -65.533333
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "La Guarandinga",
+    "name": "Mata de Turagua Airport",
+    "icao": "SVNT",
+    "lat": 7.69999980926513,
+    "lon": -69.3000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "La Leona",
+    "name": "Rancho Grande de Apure Airport",
+    "icao": "SVRG",
+    "lat": 7.34999990463256,
+    "lon": -69.3499984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "La Palmita",
+    "name": "El Oasis Airport",
+    "icao": "SVHO",
+    "lat": 8.36822032928466,
+    "lon": -69.9570999145507
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Lagunillas",
+    "name": "Lagunillas Airport",
+    "icao": "VE-0114",
+    "lat": 10.123999595642,
+    "lon": -71.2379989624023
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Las Campanas",
+    "name": "Cuartel Yaruro Airport",
+    "icao": "SVCY",
+    "lat": 6.93333292007446,
+    "lon": -68.6333312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Merida",
+    "city": "Las Clavellinasmer",
+    "name": "Las Clavellinas Airport",
+    "icao": "SVKL",
+    "lat": 9.32499980926513,
+    "lon": -70.9749984741211
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Las Mercedes del Llano",
+    "name": "Toromacho Airport",
+    "icao": "SVTY",
+    "lat": 9.13082580301,
+    "lon": -66.3911533356
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Las Queseritas",
+    "name": "La Verdad Airport",
+    "icao": "SVVK",
+    "lat": 7.13333320617675,
+    "lon": -69.0500030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "Los Caballos",
+    "name": "Los Caballos Airport",
+    "icao": "VE-0119",
+    "lat": 9.31166744232177,
+    "lon": -68.163330078125
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "Los Marimares",
+    "name": "Hato El Carito Airport",
+    "icao": "SVHR",
+    "lat": 9.5,
+    "lon": -67.9499969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Mantecal",
+    "name": "Mantecal Airport",
+    "icao": "SVMZ",
+    "lat": 7.55757999420166,
+    "lon": -69.1416015625
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Mata de Vino",
+    "name": "Las Brisas Airport",
+    "icao": "SVLD",
+    "lat": 7.20333290100097,
+    "lon": -69.5366668701171
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "MÃ©dano Alto",
+    "name": "Medano Alto Airport",
+    "icao": "SVAF",
+    "lat": 6.93333292007446,
+    "lon": -68.0166702270507
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Morichito",
+    "name": "Morichitos Airport",
+    "icao": "SVNF",
+    "lat": 7.38333320617675,
+    "lon": -68.8333358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Pedraza La Vieja",
+    "name": "Pedraza La Vieja Airport",
+    "icao": "SVPV",
+    "lat": 7.9166669845581,
+    "lon": -71.033332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "Lara",
+    "city": "Quebrada Arriba",
+    "name": "Venelac  Airport",
+    "icao": "SVVQ",
+    "lat": 10.2427997589111,
+    "lon": -70.5018005371093
+  },
+  {
+    "country": "Venezuela",
+    "state": "Lara",
+    "city": "Quibor",
+    "name": "Tinaquillo A Airport",
+    "icao": "VE-0190",
+    "lat": 9.93333339691162,
+    "lon": -69.6666641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Barinas",
+    "city": "Sabaneta",
+    "name": "Sabaneta Airport",
+    "icao": "SVOE",
+    "lat": 8.74413967132568,
+    "lon": -69.9138031005859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Tachira",
+    "city": "San Antonio de Caparo",
+    "name": "La Fortuna Airport",
+    "icao": "SVFU",
+    "lat": 7.58333301544189,
+    "lon": -71.4666671752929
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "San Isidro",
+    "name": "Santa Rosa de Guanare Airport",
+    "icao": "SVQU",
+    "lat": 8.74958038330078,
+    "lon": -69.7225036621093
+  },
+  {
+    "country": "Venezuela",
+    "state": "Miranda",
+    "city": "San JosÃ© de RÃ­o Chico",
+    "name": "RÃ­o Chico (Club Miami)",
+    "icao": "VE-0173",
+    "lat": 10.283332824707,
+    "lon": -65.8000030517578
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "San Salvador de Paul",
+    "name": "San Salvador de Paul Airport",
+    "icao": "VE-0208",
+    "lat": 7.0,
+    "lon": -62.0
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "Santa Ana",
+    "name": "San Roque Airport",
+    "icao": "SVOL",
+    "lat": 9.31666660308837,
+    "lon": -64.6333312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Apure",
+    "city": "Santa BÃ¡rbara",
+    "name": "Mata de Agua Airport",
+    "icao": "SVWA",
+    "lat": 7.31666707992553,
+    "lon": -67.908332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "SimaraÃ±a",
+    "name": "Carona Airport",
+    "icao": "VE-0041",
+    "lat": 4.59999990463256,
+    "lon": -63.9333343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Cojedes",
+    "city": "Tinaco",
+    "name": "CaÃ±ita Mendera Airport",
+    "icao": "SVCM",
+    "lat": 9.68333339691162,
+    "lon": -68.4166641235351
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "Urica",
+    "name": "Urica Airport",
+    "icao": "VE-0195",
+    "lat": 9.69999980926513,
+    "lon": -64.033332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "Wonken",
+    "name": "Wonken Airport",
+    "icao": "VE-0209",
+    "lat": 5.25,
+    "lon": -61.7333335876464
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Zaraza",
+    "name": "Zaraza Airport",
+    "icao": "VE-0204",
+    "lat": 9.349913,
+    "lon": -65.28078
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Monagas",
+    "name": "Accro  Heliport",
+    "icao": "VE-0004",
+    "lat": 9.57999992370605,
+    "lon": -63.6351661682128
+  },
+  {
+    "country": "Venezuela",
+    "state": "Miranda",
+    "city": "Miranda",
+    "name": "Balgres  Heliport",
+    "icao": "VE-0018",
+    "lat": 10.1525001525878,
+    "lon": -66.7471694946289
+  },
+  {
+    "country": "Venezuela",
+    "state": "Delta Amacuro",
+    "city": "Delta Amacuro",
+    "name": "Capure  Heliport",
+    "icao": "VE-0037",
+    "lat": 9.96666717529296,
+    "lon": -62.1500015258789
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Ensco III  Heliport",
+    "icao": "VE-0064",
+    "lat": 10.046667098999,
+    "lon": -71.586669921875
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Guarico",
+    "name": "Ensco VI  Heliport",
+    "icao": "VE-0066",
+    "lat": 9.59821033477783,
+    "lon": -66.1355972290039
+  },
+  {
+    "country": "Venezuela",
+    "state": "Miranda",
+    "city": "Miranda",
+    "name": "Florida Hill  Heliport",
+    "icao": "VE-0071",
+    "lat": 10.4750995635986,
+    "lon": -66.7698974609375
+  },
+  {
+    "country": "Venezuela",
+    "state": "Miranda",
+    "city": "Miranda",
+    "name": "Gaston  Heliport",
+    "icao": "VE-0074",
+    "lat": 10.3999996185302,
+    "lon": -67.0083312988281
+  },
+  {
+    "country": "Venezuela",
+    "state": "Delta Amacuro",
+    "city": "Delta Amacuro",
+    "name": "La Ladera Heliport",
+    "icao": "VE-0108",
+    "lat": 9.29083347320556,
+    "lon": -62.2883338928222
+  },
+  {
+    "country": "Venezuela",
+    "state": "Vargas",
+    "city": "Vargas",
+    "name": "Mantenimiento Del Via  SRL Heliport",
+    "icao": "VE-0125",
+    "lat": 10.6162004471,
+    "lon": -66.8252029419
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Monagas",
+    "name": "Muelle B. Uracoa Heliport",
+    "icao": "VE-0142",
+    "lat": 9.12527847290039,
+    "lon": -62.3280563354492
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "Planta Lagogas I Heliport",
+    "icao": "VE-0153",
+    "lat": 10.125,
+    "lon": -71.5350036621093
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "BolÃ­var",
+    "name": "Planta Sisor I  Heliport",
+    "icao": "VE-0158",
+    "lat": 8.0844440460205,
+    "lon": -63.4019432067871
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "Anzoategui",
+    "name": "Pueblo Nuevo  Heliport",
+    "icao": "VE-0164",
+    "lat": 9.94233322143554,
+    "lon": -64.0578308105468
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "Anzoategui",
+    "name": "Raulera  Heliport",
+    "icao": "VE-0171",
+    "lat": 10.0322217941284,
+    "lon": -64.04638671875
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Zulia",
+    "name": "San Francisco  Heliport",
+    "icao": "VE-0177",
+    "lat": 10.5416669845581,
+    "lon": -71.620002746582
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Monagas",
+    "name": "Uracoa Heliport",
+    "icao": "VE-0194",
+    "lat": 9.01666736602783,
+    "lon": -62.375
+  },
+  {
+    "country": "Venezuela",
+    "state": "Delta Amacuro",
+    "city": "Delta Amacuro",
+    "name": "Wousa  Heliport",
+    "icao": "VE-0201",
+    "lat": 8.18483257293701,
+    "lon": -60.0171661376953
+  },
+  {
+    "country": "Venezuela",
+    "state": "Portuguesa",
+    "city": "Acarigua",
+    "name": "Acarigua  Heliport",
+    "icao": "VE-0003",
+    "lat": 9.53833293914795,
+    "lon": -69.2300033569336
+  },
+  {
+    "country": "Venezuela",
+    "state": "Guarico",
+    "city": "Altagracia de Orituco",
+    "name": "Alto Ipare  Heliport",
+    "icao": "VE-0010",
+    "lat": 9.87166690826416,
+    "lon": -66.3083343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Aragua de MaturÃ­n",
+    "name": "Araguay Mujo  Heliport",
+    "icao": "VE-0011",
+    "lat": 9.93333339691162,
+    "lon": -63.5
+  },
+  {
+    "country": "Venezuela",
+    "state": "Sucre",
+    "city": "Buena Esperanza",
+    "name": "Cerro El Escondido  Heliport",
+    "icao": "VE-0048",
+    "lat": 10.4193334579467,
+    "lon": -63.2729988098144
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Campo Mara",
+    "name": "Planta Procesos Mara  Heliport",
+    "icao": "VE-0156",
+    "lat": 10.8800001144409,
+    "lon": -71.8866653442382
+  },
+  {
+    "country": "Venezuela",
+    "state": "Miranda",
+    "city": "Caracas",
+    "name": "Avila  Heliport",
+    "icao": "VE-0017",
+    "lat": 10.4813327789306,
+    "lon": -66.7064971923828
+  },
+  {
+    "country": "Venezuela",
+    "state": "Distrito Federal",
+    "city": "Caracas",
+    "name": "Parque Central  Heliport",
+    "icao": "VE-0147",
+    "lat": 10.5010004043579,
+    "lon": -66.9012985229492
+  },
+  {
+    "country": "Venezuela",
+    "state": "Distrito Federal",
+    "city": "Caracas",
+    "name": "Servicentro (Electricidad de Caracas)  Heliport",
+    "icao": "VE-0183",
+    "lat": 10.4855003356933,
+    "lon": -66.8519973754882
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Caripiro",
+    "name": "Caripito  Heliport",
+    "icao": "VE-0040",
+    "lat": 10.1062002182006,
+    "lon": -63.0974006652832
+  },
+  {
+    "country": "Venezuela",
+    "state": "Distrito Federal",
+    "city": "Chacao",
+    "name": "ClÃ­nica Avila Heliport",
+    "icao": "VE-0054",
+    "lat": 10.5165004730224,
+    "lon": -66.866096496582
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Colorado",
+    "name": "Yocucual  Heliport",
+    "icao": "VE-0203",
+    "lat": 10.1569995880126,
+    "lon": -63.4191665649414
+  },
+  {
+    "country": "Venezuela",
+    "state": "Sucre",
+    "city": "CumanÃ¡",
+    "name": "Aeroatun  Heliport",
+    "icao": "VE-0005",
+    "lat": 10.4716672897338,
+    "lon": -64.1849975585937
+  },
+  {
+    "country": "Venezuela",
+    "state": "Miranda",
+    "city": "El Encantado",
+    "name": "El Encantado  Heliport",
+    "icao": "VE-0060",
+    "lat": 10.4519996643066,
+    "lon": -66.7947998046875
+  },
+  {
+    "country": "Venezuela",
+    "state": "Anzoategui",
+    "city": "El JosÃ©",
+    "name": "Jose  Heliport",
+    "icao": "VE-0097",
+    "lat": 10.0698995590209,
+    "lon": -64.8678970336914
+  },
+  {
+    "country": "Venezuela",
+    "state": "Miranda",
+    "city": "La Carlota",
+    "name": "CorporaciÃ³n Venezolana de TelevisiÃ³n  Heliport",
+    "icao": "VE-0055",
+    "lat": 10.5001001358032,
+    "lon": -66.8677978515625
+  },
+  {
+    "country": "Venezuela",
+    "state": "Vargas",
+    "city": "La Guaira",
+    "name": "Melia Caribe  Heliport",
+    "icao": "VE-0135",
+    "lat": 10.6153478622,
+    "lon": -66.8402328490999
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "La Paz",
+    "name": "Planta Procesos la Paz  Heliport",
+    "icao": "VE-0155",
+    "lat": 10.7016668319702,
+    "lon": -71.9670028686523
+  },
+  {
+    "country": "Venezuela",
+    "state": "Yaracuy",
+    "city": "La Piedra",
+    "name": "Heliyasa  Heliport",
+    "icao": "VE-0094",
+    "lat": 10.1166667938232,
+    "lon": -69.0833358764648
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Lagunillas",
+    "name": "CapitÃ¡n Alfredo Sierra  Heliport",
+    "icao": "VE-0036",
+    "lat": 10.118332862854,
+    "lon": -71.2383346557617
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Las MÃºcuras",
+    "name": "Cabimas Hilton  Heliport",
+    "icao": "VE-0026",
+    "lat": 10.4666671752929,
+    "lon": -71.4499969482421
+  },
+  {
+    "country": "Venezuela",
+    "state": "Vargas",
+    "city": "Mamo",
+    "name": "Loma Azul  Heliport",
+    "icao": "VE-0118",
+    "lat": 10.5916671753,
+    "lon": -67.063331604
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Maracaibo",
+    "name": "Centro Miranda  Heliport",
+    "icao": "VE-0045",
+    "lat": 10.6483325958251,
+    "lon": -71.6299972534179
+  },
+  {
+    "country": "Venezuela",
+    "state": "Zulia",
+    "city": "Palmarejo",
+    "name": "Punta de Palma  Heliport",
+    "icao": "VE-0166",
+    "lat": 10.4399995803833,
+    "lon": -71.6299972534179
+  },
+  {
+    "country": "Venezuela",
+    "state": "Amazonas",
+    "city": "Puerto Ayacucho",
+    "name": "Planta Sidor  Heliport",
+    "icao": "VE-0157",
+    "lat": 5.69926023483276,
+    "lon": -67.5995025634765
+  },
+  {
+    "country": "Venezuela",
+    "state": "Trujillo",
+    "city": "Santa Isabel",
+    "name": "Motatan II  Heliport",
+    "icao": "VE-0141",
+    "lat": 9.62166690826416,
+    "lon": -70.8083343505859
+  },
+  {
+    "country": "Venezuela",
+    "state": "Monagas",
+    "city": "Temblador",
+    "name": "Temblador  Heliport",
+    "icao": "VE-0187",
+    "lat": 9.03333282470703,
+    "lon": -62.533332824707
+  },
+  {
+    "country": "Venezuela",
+    "state": "BolÃ­var",
+    "city": "Tumeremo",
+    "name": "Aeroservicios Ranger  Heliport",
+    "icao": "VE-0006",
+    "lat": 7.30055618286132,
+    "lon": -61.5013885498046
+  },
+  {
+    "country": "Venezuela",
+    "state": "Carabobo",
+    "city": "Valencia",
+    "name": "Protinal  Heliport",
+    "icao": "VE-0163",
+    "lat": 10.1816673278808,
+    "lon": -67.9766693115234
+  }
+]

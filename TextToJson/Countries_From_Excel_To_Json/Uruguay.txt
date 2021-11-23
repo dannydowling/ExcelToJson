@@ -1,0 +1,227 @@
+[
+  {
+    "country": "Uruguay",
+    "state": "Canelones Department",
+    "city": "Montevideo",
+    "name": "Carrasco International /General C L Berisso Airport",
+    "icao": "SUMU",
+    "lat": -34.838402,
+    "lon": -56.0308
+  },
+  {
+    "country": "Uruguay",
+    "state": "Montevideo Department",
+    "city": "Montevideo",
+    "name": "Angel S Adami Airport",
+    "icao": "SUAA",
+    "lat": -34.7892,
+    "lon": -56.264702
+  },
+  {
+    "country": "Uruguay",
+    "state": "Colonia Department",
+    "city": "Colonia del Sacramento",
+    "name": "Laguna de Los Patos International Airport",
+    "icao": "SUCA",
+    "lat": -34.456401824951,
+    "lon": -57.770599365234
+  },
+  {
+    "country": "Uruguay",
+    "state": "Cerro Largo Department",
+    "city": "Melo",
+    "name": "Cerro Largo International Airport",
+    "icao": "SUMO",
+    "lat": -32.3378982543945,
+    "lon": -54.2167015075683
+  },
+  {
+    "country": "Uruguay",
+    "state": "Artigas Department",
+    "city": "Bella Union",
+    "name": "Bella Union Airport",
+    "icao": "SUBU",
+    "lat": -30.3333339691,
+    "lon": -57.0833320618
+  },
+  {
+    "country": "Uruguay",
+    "state": "RÃ­o Negro Department",
+    "city": "Fray Bentos",
+    "name": "Villa Independencia Airport",
+    "icao": "UY-0001",
+    "lat": -33.14196,
+    "lon": -58.293759
+  },
+  {
+    "country": "Uruguay",
+    "state": "Cerro Largo Department",
+    "city": "Jaguarao",
+    "name": "Rio Branco Airport",
+    "icao": "SURB",
+    "lat": -32.5830574035644,
+    "lon": -53.4541664123535
+  },
+  {
+    "country": "Uruguay",
+    "state": "RÃ­o Negro Department",
+    "city": "Mercedes",
+    "name": "Ricardo Detomasi Airport",
+    "icao": "SUME",
+    "lat": -33.2489,
+    "lon": -58.0737
+  },
+  {
+    "country": "Uruguay",
+    "state": "Rocha Department",
+    "city": "Rocha",
+    "name": "Rocha Airport",
+    "icao": "UY-0002",
+    "lat": -34.4781,
+    "lon": -54.2799
+  },
+  {
+    "country": "Uruguay",
+    "state": "Treinta y Tres Department",
+    "city": "Treinta y Tres",
+    "name": "Treinta y Tres Airport",
+    "icao": "SUTR",
+    "lat": -33.195714,
+    "lon": -54.347246
+  },
+  {
+    "country": "Uruguay",
+    "state": "Rivera Department",
+    "city": "Vichadero",
+    "name": "Vichadero Airport",
+    "icao": "SUVO",
+    "lat": -31.7670001983642,
+    "lon": -54.6170005798339
+  },
+  {
+    "country": "Uruguay",
+    "state": "Tacuarembo Department",
+    "city": "Ansina",
+    "name": "Ansina Airstrip",
+    "icao": "UY-0006",
+    "lat": -31.869065,
+    "lon": -55.491636
+  },
+  {
+    "country": "Uruguay",
+    "state": "Rocha Department",
+    "city": "Chuy",
+    "name": "Chuy Airport",
+    "icao": "SUCH",
+    "lat": -33.71085,
+    "lon": -53.471334
+  },
+  {
+    "country": "Uruguay",
+    "state": "San JosÃ© Department",
+    "city": "Ecilda Paullier",
+    "name": "Ricardo Raver Airport",
+    "icao": "UY-0008",
+    "lat": -34.312485,
+    "lon": -57.041631
+  },
+  {
+    "country": "Uruguay",
+    "state": "Colonia Department",
+    "city": "Estancia Anchorena",
+    "name": "Anchorena Airport",
+    "icao": "SUAN",
+    "lat": -34.270516,
+    "lon": -57.964383
+  },
+  {
+    "country": "Uruguay",
+    "state": "Florida Department",
+    "city": "Florida",
+    "name": "Florida Aviation Center",
+    "icao": "UY-0013",
+    "lat": -34.08392,
+    "lon": -56.186665
+  },
+  {
+    "country": "Uruguay",
+    "state": "Paysandu Department",
+    "city": "GuichÃ³n",
+    "name": "GuichÃ³n Airfield",
+    "icao": "SUGN",
+    "lat": -32.3478,
+    "lon": -57.1894
+  },
+  {
+    "country": "Uruguay",
+    "state": "Lavalleja Department",
+    "city": "JosÃ© Pedro Varela",
+    "name": "JosÃ© Pedro Varela Airport",
+    "icao": "SUJP",
+    "lat": -33.4753,
+    "lon": -54.539702
+  },
+  {
+    "country": "Uruguay",
+    "state": "Rocha Department",
+    "city": "Lascano",
+    "name": "Saman Lascano Airport",
+    "icao": "UY-0010",
+    "lat": -33.755113,
+    "lon": -54.148823
+  },
+  {
+    "country": "Uruguay",
+    "state": "Lavalleja Department",
+    "city": "Minas",
+    "name": "La Calera Airport",
+    "icao": "SUCL",
+    "lat": -34.286766,
+    "lon": -55.354757
+  },
+  {
+    "country": "Uruguay",
+    "state": "Montevideo Department",
+    "city": "Montevideo",
+    "name": "CapitÃ¡n Juan Manuel Boiso Lanza Air Base",
+    "icao": "SUBL",
+    "lat": -34.811533,
+    "lon": -56.164317
+  },
+  {
+    "country": "Uruguay",
+    "state": "RÃ­o Negro Department",
+    "city": "Nuevo Berlin",
+    "name": "Estancia Nueva Mehlem Airport",
+    "icao": "SUNM",
+    "lat": -32.96963,
+    "lon": -57.982351
+  },
+  {
+    "country": "Uruguay",
+    "state": "Paysandu Department",
+    "city": "PaysandÃº",
+    "name": "Charles Chalkling Airport",
+    "icao": "SUPC",
+    "lat": -32.379601,
+    "lon": -58.029761
+  },
+  {
+    "country": "Uruguay",
+    "state": "Rivera Department",
+    "city": "Rivera",
+    "name": "La Lata Aeroclub Airport",
+    "icao": "UY-0007",
+    "lat": -30.952597,
+    "lon": -55.5353
+  },
+  {
+    "country": "Uruguay",
+    "state": "Tacuarembo Department",
+    "city": "TacuarembÃ³",
+    "name": "Frigorifico TacuarembÃ³ Airport",
+    "icao": "SUFT",
+    "lat": -31.703611,
+    "lon": -55.943056
+  }
+]

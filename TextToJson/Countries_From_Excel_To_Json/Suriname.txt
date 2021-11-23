@@ -1,0 +1,254 @@
+[
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Kabalebo",
+    "name": "Kabalebo Airport",
+    "icao": "SMKA",
+    "lat": 4.406,
+    "lon": -57.223
+  },
+  {
+    "country": "Suriname",
+    "state": "Marowijne",
+    "city": "Albina",
+    "name": "Albina Airport",
+    "icao": "SMBN",
+    "lat": 5.51272010803222,
+    "lon": -54.0500984191894
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Botopasi",
+    "name": "Botopasi Airport",
+    "icao": "GY-BTO",
+    "lat": 4.21751109352,
+    "lon": -55.4470539093
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Djumu-Djomoe",
+    "name": "Djumu-Djomoe Airport",
+    "icao": "GY-DOE",
+    "lat": 4.00571261057,
+    "lon": -55.4816436768
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Drietabbetje",
+    "name": "Drietabbetje Airport",
+    "icao": "SMDA",
+    "lat": 4.111359,
+    "lon": -54.672766
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Kayserberg",
+    "name": "Kayser Airport",
+    "icao": "SMKE",
+    "lat": 3.094343,
+    "lon": -56.472702
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Kwamalasoemoetoe Airport",
+    "name": "Kwamalasoemoetoe Airport",
+    "icao": "SMSM",
+    "lat": 2.354427,
+    "lon": -56.792431
+  },
+  {
+    "country": "Suriname",
+    "state": "Nickerie",
+    "city": "Nieuw Nickerie",
+    "name": "Nieuw Nickerie Airport",
+    "icao": "SMNI",
+    "lat": 5.95556020736694,
+    "lon": -57.0393981933593
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Paloemeu",
+    "name": "Vincent Fayks Airport",
+    "icao": "SMPA",
+    "lat": 3.34527993202209,
+    "lon": -55.4425010681152
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Sipaliwini",
+    "name": "Sipaliwini Airport",
+    "icao": "SMSI",
+    "lat": 2.026438,
+    "lon": -56.126412
+  },
+  {
+    "country": "Suriname",
+    "state": "Coronie",
+    "city": "Totness",
+    "name": "Totness Airport",
+    "icao": "SMCO",
+    "lat": 5.86582994461059,
+    "lon": -56.3274993896484
+  },
+  {
+    "country": "Suriname",
+    "state": "Nickerie",
+    "city": "Wageningen",
+    "name": "Wageningen Airstrip",
+    "icao": "SMWA",
+    "lat": 5.841128,
+    "lon": -56.673328
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Washabo",
+    "name": "Washabo Airport",
+    "icao": "GY-WSO",
+    "lat": 5.215277,
+    "lon": -57.185302
+  },
+  {
+    "country": "Suriname",
+    "state": "Brokopondo",
+    "city": "Brokopondo",
+    "name": "Gross Rosebel Airstrip",
+    "icao": "SMGR",
+    "lat": 5.091667,
+    "lon": -55.249167
+  },
+  {
+    "country": "Suriname",
+    "state": "Brokopondo",
+    "city": "Afobakka",
+    "name": "Afobakka Airstrip",
+    "icao": "SMAF",
+    "lat": 4.998505,
+    "lon": -54.992033
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Alalapadi",
+    "name": "Alalapadu Airstrip",
+    "icao": "SMDU",
+    "lat": 2.5235,
+    "lon": -56.3247
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Apetina",
+    "name": "Apetina Airstrip",
+    "icao": "SMPT",
+    "lat": 3.50278,
+    "lon": -55.058791
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Avanavero",
+    "name": "Avanavero Airstrip",
+    "icao": "SMVO",
+    "lat": 4.825685,
+    "lon": -57.282415
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Bakhuys",
+    "name": "Bakhuys Airstrip",
+    "icao": "SMBG",
+    "lat": 4.778882,
+    "lon": -56.768699
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Benzdorp",
+    "name": "Tabiki Airstrip",
+    "icao": "SMTA",
+    "lat": 3.679806,
+    "lon": -54.085207
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Cabana",
+    "name": "Cabana Airstrip",
+    "icao": "SMCB",
+    "lat": 4.852778,
+    "lon": -55.593056
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Gakaba",
+    "name": "Gakaba Airstrip",
+    "icao": "SMGA",
+    "lat": 4.454167,
+    "lon": -54.445833
+  },
+  {
+    "country": "Suriname",
+    "state": "Saramacca",
+    "city": "Jarikaba",
+    "name": "Jarikaba Airstrip",
+    "icao": "SMJA",
+    "lat": 5.826389,
+    "lon": -55.3375
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Lawa Cottica",
+    "name": "Cottica Airstrip",
+    "icao": "SMCT",
+    "lat": 3.85216,
+    "lon": -54.228201
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Poeketi",
+    "name": "Poeketi Airstrip",
+    "icao": "SMPE",
+    "lat": 4.126389,
+    "lon": -54.623611
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Ragoebarsing",
+    "name": "Ragoebarsing Airstrip",
+    "icao": "SMRN",
+    "lat": 4.884722,
+    "lon": -56.940278
+  },
+  {
+    "country": "Suriname",
+    "state": "Sipaliwini",
+    "city": "Ralleigh",
+    "name": "Ralleigh Airstrip",
+    "icao": "SMRA",
+    "lat": 4.722778,
+    "lon": -56.208333
+  },
+  {
+    "country": "Suriname",
+    "state": "Brokopondo",
+    "city": "Sarakreek",
+    "name": "Sarakreek Airstrip",
+    "icao": "SMSK",
+    "lat": 4.319444,
+    "lon": -54.966667
+  }
+]

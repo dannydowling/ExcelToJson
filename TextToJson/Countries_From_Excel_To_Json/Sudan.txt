@@ -1,0 +1,182 @@
+[
+  {
+    "country": "Sudan",
+    "state": "Khartoum State",
+    "city": "Khartoum",
+    "name": "Khartoum International Airport",
+    "icao": "HSSS",
+    "lat": 15.589500427246,
+    "lon": 32.5531997680664
+  },
+  {
+    "country": "Sudan",
+    "state": "North Darfur State",
+    "city": "El Fasher",
+    "name": "El Fasher Airport",
+    "icao": "HSFS",
+    "lat": 13.6148996353149,
+    "lon": 25.3246002197265
+  },
+  {
+    "country": "Sudan",
+    "state": "Red Sea State",
+    "city": "Port Sudan",
+    "name": "Port Sudan New International Airport",
+    "icao": "HSPN",
+    "lat": 19.4335994720459,
+    "lon": 37.2341003417968
+  },
+  {
+    "country": "Sudan",
+    "state": "Al Qadarif State",
+    "city": "Gedaref",
+    "name": "Azaza Airport",
+    "icao": "HSGF",
+    "lat": 14.1330003738403,
+    "lon": 35.3170013427734
+  },
+  {
+    "country": "Sudan",
+    "state": "North Kurdufan State",
+    "city": "Al-Ubayyid",
+    "name": "El Obeid Airport",
+    "icao": "HSOB",
+    "lat": 13.1532001495361,
+    "lon": 30.2327003479003
+  },
+  {
+    "country": "Sudan",
+    "state": "Kassala State",
+    "city": "Kassala",
+    "name": "Kassala Airport",
+    "icao": "HSKA",
+    "lat": 15.3874998092651,
+    "lon": 36.328800201416
+  },
+  {
+    "country": "Sudan",
+    "state": "River Nile State",
+    "city": "Atbara",
+    "name": "Atbara Airport",
+    "icao": "HSAT",
+    "lat": 17.7103443145751,
+    "lon": 34.0570182800293
+  },
+  {
+    "country": "Sudan",
+    "state": "South Kurdufan State",
+    "city": "Kadugli",
+    "name": "Kadugli Airport",
+    "icao": "HSLI",
+    "lat": 11.1379995346,
+    "lon": 29.7010993958
+  },
+  {
+    "country": "Sudan",
+    "state": "Northern State",
+    "city": "Merowe",
+    "name": "Merowe Airport",
+    "icao": "HSMR",
+    "lat": 18.455,
+    "lon": 31.8185
+  },
+  {
+    "country": "Sudan",
+    "state": "River Nile State",
+    "city": "Shendi",
+    "name": "Shendi Airport",
+    "icao": "HSND",
+    "lat": 16.7000007629394,
+    "lon": 33.4329986572265
+  },
+  {
+    "country": "Sudan",
+    "state": "West Darfur State",
+    "city": "Zalingei",
+    "name": "Zalingei Airport",
+    "icao": "HSZA",
+    "lat": 12.9437,
+    "lon": 23.5631
+  },
+  {
+    "country": "Sudan",
+    "state": "South Darfur State",
+    "city": "Gereida",
+    "name": "Gereida Airport",
+    "icao": "SD-0004",
+    "lat": 11.256023,
+    "lon": 25.143714
+  },
+  {
+    "country": "Sudan",
+    "state": "South Kurdufan State",
+    "city": "Heglig Oilfield",
+    "name": "Heglig Airport",
+    "icao": "HSHG",
+    "lat": 9.994933,
+    "lon": 29.397718
+  },
+  {
+    "country": "Sudan",
+    "state": "North Darfur State",
+    "city": "Kutum",
+    "name": "Kutum Airport",
+    "icao": "SD-0003",
+    "lat": 14.220586,
+    "lon": 24.633616
+  },
+  {
+    "country": "Sudan",
+    "state": "Northern State",
+    "city": "Merowe",
+    "name": "Merowe New Airport",
+    "icao": "HSMN",
+    "lat": 18.4433333333,
+    "lon": 31.8433333333
+  },
+  {
+    "country": "Sudan",
+    "state": "Khartoum State",
+    "city": "Khartoum",
+    "name": "Wadi Seidna Air Base",
+    "icao": "SD-0001",
+    "lat": 15.8173999786376,
+    "lon": 32.515998840332
+  },
+  {
+    "country": "Sudan",
+    "state": "Northern State",
+    "city": "Gogrial",
+    "name": "Gogrial Airport",
+    "icao": "HSGO",
+    "lat": 18.8670005798339,
+    "lon": 28.1170005798339
+  },
+  {
+    "country": "Sudan",
+    "state": "Kassala State",
+    "city": "New Halfa",
+    "name": "New Halfa Airport",
+    "icao": "HSNW",
+    "lat": 15.3556,
+    "lon": 35.727798
+  },
+  {
+    "country": "Sudan",
+    "state": "South Kurdufan State",
+    "city": "Baleela Base Camp",
+    "name": "Baleela Airport",
+    "icao": "BJE",
+    "lat": 11.1994444444,
+    "lon": 28.5230555556
+  },
+  {
+    "country": "Sudan",
+    "state": "Al Jazirah State",
+    "city": "Wad Medani",
+    "name": "Wad Medani Airport",
+    "icao": "HSWD",
+    "lat": 14.383605,
+    "lon": 33.526387
+  }
+]

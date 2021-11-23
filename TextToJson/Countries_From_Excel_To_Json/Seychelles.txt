@@ -1,0 +1,92 @@
+[
+  {
+    "country": "Seychelles",
+    "state": "Pointe La Rue",
+    "city": "Mahe Island",
+    "name": "Seychelles International Airport",
+    "icao": "FSIA",
+    "lat": -4.67434,
+    "lon": 55.521801
+  },
+  {
+    "country": "Seychelles",
+    "state": "Grand' Anse (Praslin)",
+    "city": "Praslin Island",
+    "name": "Praslin Airport",
+    "icao": "FSPP",
+    "lat": -4.31929016113281,
+    "lon": 55.6913986206054
+  },
+  {
+    "country": "Seychelles",
+    "state": "La Digue",
+    "city": "Desroches Island",
+    "name": "Desroches Airport",
+    "icao": "FSDR",
+    "lat": -5.6967,
+    "lon": 53.6558
+  },
+  {
+    "country": "Seychelles",
+    "state": "La Digue",
+    "city": "Bird Island",
+    "name": "Bird Island Airport",
+    "icao": "FSSB",
+    "lat": -3.72472,
+    "lon": 55.205299
+  },
+  {
+    "country": "Seychelles",
+    "state": "La Digue",
+    "city": "Alphonse Island",
+    "name": "Alphonse Airport",
+    "icao": "FSAL",
+    "lat": -7.00478,
+    "lon": 52.7262
+  },
+  {
+    "country": "Seychelles",
+    "state": "(unassigned)",
+    "city": "Assumption Island",
+    "name": "Assumption Island Airport",
+    "icao": "FSAS",
+    "lat": -9.7422199993,
+    "lon": 46.506802
+  },
+  {
+    "country": "Seychelles",
+    "state": "La Digue",
+    "city": "Coetivy Island",
+    "name": "Coetivy Airport",
+    "icao": "FSSC",
+    "lat": -7.13457,
+    "lon": 56.278198
+  },
+  {
+    "country": "Seychelles",
+    "state": "La Digue",
+    "city": "Denis Island",
+    "name": "Denis Island Airport",
+    "icao": "FSSD",
+    "lat": -3.80222,
+    "lon": 55.666901
+  },
+  {
+    "country": "Seychelles",
+    "state": "La Digue",
+    "city": "Remire Island",
+    "name": "Remire Island Airport",
+    "icao": "FSSR",
+    "lat": -5.11722,
+    "lon": 53.312199
+  },
+  {
+    "country": "Seychelles",
+    "state": "Ste Anne Helipad",
+    "city": "Ste Anne Helipad",
+    "name": "Ste Anne Helipad",
+    "icao": "SC-0003",
+    "lat": -4.614632,
+    "lon": 55.499347
+  }
+]

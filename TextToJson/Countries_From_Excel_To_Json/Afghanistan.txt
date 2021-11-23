@@ -1,0 +1,245 @@
+[
+  {
+    "country": "Afghanistan",
+    "state": "Kabul Province",
+    "city": "Kabul",
+    "name": "Hamid Karzai International Airport",
+    "icao": "OAKB",
+    "lat": 34.565899,
+    "lon": 69.212303
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Parwan Province",
+    "city": "Bagram",
+    "name": "Bagram Air Base",
+    "icao": "OAIX",
+    "lat": 34.9460983276,
+    "lon": 69.2649993895999
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Kandahar Province",
+    "city": "Kandahar Province",
+    "name": "Kandahar Airport",
+    "icao": "OAKN",
+    "lat": 31.5058002471923,
+    "lon": 65.8478012084961
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Farah Province",
+    "city": "Farah Province",
+    "name": "Shindand Airport",
+    "icao": "OASD",
+    "lat": 33.3913002014,
+    "lon": 62.2610015869
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Herat Province",
+    "city": "Herat Province",
+    "name": "Herat Airport",
+    "icao": "OAHR",
+    "lat": 34.2099990844726,
+    "lon": 62.2282981872558
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Faryab Province",
+    "city": "Faryab Province",
+    "name": "Maimana Airport",
+    "icao": "OAMN",
+    "lat": 35.9308013916015,
+    "lon": 64.7609024047851
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Khost Province",
+    "city": "Khost",
+    "name": "Salerno Airport",
+    "icao": "AF11",
+    "lat": 33.3638,
+    "lon": 69.9561
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Jowzjan Province",
+    "city": "Jowzjan Province",
+    "name": "Sheberghan Airport",
+    "icao": "OASG",
+    "lat": 36.7508010864257,
+    "lon": 65.9132003784179
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Balkh Province",
+    "city": "Balkh Province",
+    "name": "Dehdadi Airport",
+    "icao": "AF-0002",
+    "lat": 36.6460990905761,
+    "lon": 67.0323028564453
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Helmand Province",
+    "city": "Helmand Province",
+    "name": "Dostmohammadkhan Kalay Airport",
+    "icao": "AF-0004",
+    "lat": 31.0450000762939,
+    "lon": 64.1541976928711
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Takhar Province",
+    "city": "Takhar Province",
+    "name": "Khvej Ghar North Airport",
+    "icao": "AF06",
+    "lat": 37.0710983276367,
+    "lon": 69.495002746582
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Logar Province",
+    "city": "Logar Province",
+    "name": "Kotubkhel Airport",
+    "icao": "AF08",
+    "lat": 34.1929016113281,
+    "lon": 69.1356964111328
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Paktika Province",
+    "city": "Paktika Province",
+    "name": "Sarhawdza Landing Zone Airport",
+    "icao": "AF12",
+    "lat": 33.1561012268066,
+    "lon": 68.8197021484375
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Farah Province",
+    "city": "Farah Province",
+    "name": "Tapa Airport",
+    "icao": "AF14",
+    "lat": 32.7450981140136,
+    "lon": 62.5987014770507
+  },
+  {
+    "country": "Afghanistan",
+    "state": "GhÅr Province",
+    "city": "GhÅr Province",
+    "name": "Lal (Sarjangal) Airport",
+    "icao": "OALL",
+    "lat": 34.5070694108,
+    "lon": 66.2978768349
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Samangan Province",
+    "city": "Samangan Province",
+    "name": "Nili Airport",
+    "icao": "OANL",
+    "lat": 35.8879013061523,
+    "lon": 67.4885025024414
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Takhar Province",
+    "city": "Takhar Province",
+    "name": "Rustag Airport",
+    "icao": "OART",
+    "lat": 37.099998474121,
+    "lon": 69.9000015258789
+  },
+  {
+    "country": "Afghanistan",
+    "state": "GhÅr Province",
+    "city": "GhÅr Province",
+    "name": "Teh Wareh Airport",
+    "icao": "OATW",
+    "lat": 33.5400009155273,
+    "lon": 64.4250030517578
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Takhar Province",
+    "city": "Takhar Province",
+    "name": "Yangi Qala Airport",
+    "icao": "OAYQ",
+    "lat": 37.458999633789,
+    "lon": 69.6465988159179
+  },
+  {
+    "country": "Afghanistan",
+    "state": "GhÅr Province",
+    "city": "Chakcharan",
+    "name": "Chakcharan Airport",
+    "icao": "OACC",
+    "lat": 34.526465,
+    "lon": 65.27102
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Badakhshan Province",
+    "city": "Darwaz",
+    "name": "Darwaz Airport",
+    "icao": "OADZ",
+    "lat": 38.4611015319824,
+    "lon": 70.8824996948242
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Badakhshan Province",
+    "city": "Khwahan",
+    "name": "Khwahan Airport",
+    "icao": "OAHN",
+    "lat": 37.882999420166,
+    "lon": 70.2170028686523
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Badakhshan Province",
+    "city": "Kron Monajn",
+    "name": "Kron Monajn Airport",
+    "icao": "OAQM",
+    "lat": 36.1669998168945,
+    "lon": 70.7170028686523
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Ghazni Province",
+    "city": "Sardeh Band",
+    "name": "Sardeh Band Airport",
+    "icao": "OADS",
+    "lat": 33.3207015991,
+    "lon": 68.6364974976
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Takhar Province",
+    "city": "Taloqan",
+    "name": "Talolqan Airport",
+    "icao": "OATQ",
+    "lat": 36.7706985474,
+    "lon": 69.5319976807
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Badakhshan Province",
+    "city": "Eshkashem",
+    "name": "Eshkashem Airport",
+    "icao": "OAEM",
+    "lat": 36.710868,
+    "lon": 71.615182
+  },
+  {
+    "country": "Afghanistan",
+    "state": "Khost Province",
+    "city": "Khost",
+    "name": "Khost International Airport (U.C.)",
+    "icao": "AF-0005",
+    "lat": 33.284605,
+    "lon": 69.80734
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "country": "San Marino",
+    "state": "Domagnano",
+    "city": "Domagnano",
+    "name": "Aviosuperficie Torraccia",
+    "icao": "SM-0002",
+    "lat": 43.948679,
+    "lon": 12.510188
+  }
+]

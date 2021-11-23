@@ -1,0 +1,6293 @@
+[
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Seoul",
+    "name": "Incheon International Airport",
+    "icao": "RKSI",
+    "lat": 37.4691009521484,
+    "lon": 126.450996398925
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Gimpo International Airport",
+    "icao": "RKSS",
+    "lat": 37.5583,
+    "lon": 126.791
+  },
+  {
+    "country": "South Korea",
+    "state": "Gwangju Gwang'yeogsi",
+    "city": "Gwangju",
+    "name": "Gwangju Airport",
+    "icao": "RKJJ",
+    "lat": 35.123173,
+    "lon": 126.805444
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongbugdo",
+    "city": "Cheongju",
+    "name": "Cheongju International Airport/Cheongju Air Base (K-59/G-513)",
+    "icao": "RKTU",
+    "lat": 36.717008,
+    "lon": 127.498741
+  },
+  {
+    "country": "South Korea",
+    "state": "Ulsan Gwang'yeogsi",
+    "city": "Ulsan",
+    "name": "Ulsan Airport",
+    "icao": "RKPU",
+    "lat": 35.59349823,
+    "lon": 129.352005005
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Pohang",
+    "name": "Pohang Airport (G-815/K-3)",
+    "icao": "RKTH",
+    "lat": 35.987955,
+    "lon": 129.420383
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Yeosu",
+    "name": "Yeosu Airport",
+    "icao": "RKJY",
+    "lat": 34.842300415039,
+    "lon": 127.616996765136
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonrabugdo",
+    "city": "Kunsan",
+    "name": "Kunsan Air Base",
+    "icao": "RKJK",
+    "lat": 35.9038009643554,
+    "lon": 126.615997314453
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Jeju Island",
+    "name": "Jeongseok Airport",
+    "icao": "RKPD",
+    "lat": 33.3996009827,
+    "lon": 126.711997986
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Jinhae",
+    "name": "Jinhae Airbase/Airport (G-813/K-10)",
+    "icao": "RKPE",
+    "lat": 35.140248,
+    "lon": 128.696229
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Dongduchon",
+    "name": "Camp Casey-Dongduchon (Camp Mobile) (H-220) Airfield",
+    "icao": "RKST",
+    "lat": 37.920842,
+    "lon": 127.055361
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongbugdo",
+    "city": "Gimseang-ro",
+    "name": "Jungwon Air Base/Chungju Airport",
+    "icao": "RKTI",
+    "lat": 37.03024,
+    "lon": 127.886353
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "Suwon Airport",
+    "icao": "RKSW",
+    "lat": 37.2393989562988,
+    "lon": 127.007003784179
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Chungcheongnamdo",
+    "name": "G 500 Airport",
+    "icao": "RK20",
+    "lat": 36.111099243164,
+    "lon": 127.103996276855
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Gang'weondo",
+    "name": "G 317 Airport",
+    "icao": "RK41",
+    "lat": 38.215997,
+    "lon": 127.65697
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Chungcheongnamdo",
+    "name": "G 526 Airport",
+    "icao": "RK50",
+    "lat": 36.5838012695312,
+    "lon": 126.660003662109
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Jeonranamdo",
+    "name": "G 710 Airport",
+    "icao": "RK6D",
+    "lat": 35.3420982360839,
+    "lon": 127.029998779296
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongbugdo",
+    "city": "Chungcheongbugdo",
+    "name": "Seongmu Airport",
+    "icao": "RKTE",
+    "lat": 36.568199,
+    "lon": 127.5
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Cheongchangno",
+    "name": "Camp Beavers (G-227) Airfield",
+    "icao": "RK37",
+    "lat": 38.025626,
+    "lon": 127.11106
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Dosin-ri, Sinsei-myeon, Yeoncheon",
+    "name": "G 238 Airport",
+    "icao": "RK36",
+    "lat": 38.176646,
+    "lon": 127.102139
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Galji",
+    "name": "Yang Pyeong (G 301) Airport",
+    "icao": "RKRG",
+    "lat": 37.501147,
+    "lon": 127.630137
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Ganapri",
+    "name": "Ganapri (G 222) Airport",
+    "icao": "RKRA",
+    "lat": 37.830057,
+    "lon": 126.99013
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Gandong-myeon",
+    "name": "G 311 Airport",
+    "icao": "RK42",
+    "lat": 38.055851,
+    "lon": 127.797384
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Girin-myeon",
+    "name": "G 420 Airport",
+    "icao": "RK32",
+    "lat": 37.956177,
+    "lon": 128.31645
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Guri",
+    "name": "Guri Airport (G-203)",
+    "icao": "RK29",
+    "lat": 37.6437,
+    "lon": 127.149002
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Gyeongju",
+    "name": "Gyeongju Airfield (G-806)",
+    "icao": "RK58",
+    "lat": 35.8493,
+    "lon": 129.222908
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hongcheon-ro",
+    "name": "G 419 Airport",
+    "icao": "RK48",
+    "lat": 37.703542,
+    "lon": 127.905439
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Idong-myeon",
+    "name": "Idong Airport (G-231)",
+    "icao": "RK14",
+    "lat": 38.0266,
+    "lon": 127.366997
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Ilsin-ro",
+    "name": "Bu Cheon Airfield (G-103) Airport",
+    "icao": "RKRB",
+    "lat": 37.474918,
+    "lon": 126.747272
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jangsan-ri, Ganghyeon-myeon",
+    "name": "Sokcho (Mulchi Airfield) (G-407/K-50) Airport",
+    "icao": "RKND",
+    "lat": 38.142117,
+    "lon": 128.598318
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonrabugdo",
+    "city": "Jeon Ju",
+    "name": "Jeon Ju Airport (G-703)",
+    "icao": "RKJU",
+    "lat": 35.87808,
+    "lon": 127.119112
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jinbeol",
+    "name": "G 417 Airport",
+    "icao": "RK34",
+    "lat": 37.650036,
+    "lon": 128.569608
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Jinsangmi-ro",
+    "name": "Icheon Airfield (G-510)",
+    "icao": "RKRN",
+    "lat": 37.200715,
+    "lon": 127.469215
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Jochiwon",
+    "name": "Jochiwon Airfield (G-505)",
+    "icao": "RKUC",
+    "lat": 36.572716,
+    "lon": 127.297339
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jukgok-ro",
+    "name": "G 406 Airport",
+    "icao": "RK17",
+    "lat": 38.139645,
+    "lon": 128.009123
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Masan",
+    "name": "Pong Am Dong North R802 (íƒêµ¬ì•”ë™ ë…¸ìŠ¤ R802) (G-802) Airport",
+    "icao": "RKD1",
+    "lat": 35.257854,
+    "lon": 128.625328
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Munam",
+    "name": "G 233 Airport",
+    "icao": "RK18",
+    "lat": 38.083162,
+    "lon": 127.269037
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Pa Ju",
+    "name": "Pa Ju (G 110) Airport",
+    "icao": "RKRP",
+    "lat": 37.762912,
+    "lon": 126.792805
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Pocheon",
+    "name": "Pocheon G 217 Airport",
+    "icao": "RKRO",
+    "lat": 37.865283,
+    "lon": 127.177327
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Pogong-ro",
+    "name": "Yangin Airport (G-501)",
+    "icao": "RK52",
+    "lat": 37.286747,
+    "lon": 127.225446
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Sinpung, Hwacheon",
+    "name": "G 313 Airport",
+    "icao": "RK22",
+    "lat": 38.120023,
+    "lon": 127.686067
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Songdang-ri",
+    "name": "G 536 Airport",
+    "icao": "RKUL",
+    "lat": 36.269402,
+    "lon": 127.113998
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Wolgot-myeon",
+    "name": "Tongjin Airfield (G-107)",
+    "icao": "RK25",
+    "lat": 37.715263,
+    "lon": 126.56011
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Yongha-ri",
+    "name": "G 405 Airport",
+    "icao": "RK82",
+    "lat": 38.119736,
+    "lon": 128.040247
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Yulmun-ri",
+    "name": "G 307 Airport",
+    "icao": "RK31",
+    "lat": 37.929821,
+    "lon": 127.75737
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Incheon Gwang'yeogsi",
+    "name": "Ganghwa Do Heliport",
+    "icao": "KR-0004",
+    "lat": 37.767488,
+    "lon": 126.437163
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "N 200 Heliport",
+    "icao": "RKSD",
+    "lat": 37.171691,
+    "lon": 126.916266
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "C 102 Heliport",
+    "icao": "RK6R",
+    "lat": 37.88022,
+    "lon": 126.79866
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "C 243 Heliport",
+    "icao": "RK7B",
+    "lat": 37.6205555556,
+    "lon": 127.195833333
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "C 120 Heliport",
+    "icao": "RK7K",
+    "lat": 37.870001,
+    "lon": 126.778345
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Gyeongsangnamdo",
+    "name": "C 826 Heliport",
+    "icao": "RK5Z",
+    "lat": 35.1127777778,
+    "lon": 128.431666667
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "McDonald Barracks Heliport (C-114)",
+    "icao": "RK1F",
+    "lat": 37.829353,
+    "lon": 126.842989
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu Gwang'yeogsi",
+    "name": "C 823 Heliport",
+    "icao": "RK5X",
+    "lat": 35.762818,
+    "lon": 128.602081
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan Gwang'yeogsi",
+    "name": "H 809 Heliport",
+    "icao": "RK4W",
+    "lat": 35.196938,
+    "lon": 129.14911
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "C 181Heliport",
+    "icao": "RK2A",
+    "lat": 37.631898,
+    "lon": 126.674233
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Gyeongsangnamdo",
+    "name": "N 315 Helipad",
+    "icao": "RK9B",
+    "lat": 34.576841,
+    "lon": 126.628032
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Gang'weondo",
+    "name": "C 316 Heliport",
+    "icao": "KR-0010",
+    "lat": 38.168889,
+    "lon": 127.432222
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Jeonranamdo",
+    "name": "N 310 Helipad",
+    "icao": "RK8Y",
+    "lat": 34.70277,
+    "lon": 126.587257
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "N 210 Helipad",
+    "icao": "RH8H",
+    "lat": 37.754574,
+    "lon": 126.595346
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Incheon Gwang'yeogsi",
+    "name": "N 221 Helipad",
+    "icao": "RK9V",
+    "lat": 37.613184,
+    "lon": 126.373978
+  },
+  {
+    "country": "South Korea",
+    "state": "Gwangju Gwang'yeogsi",
+    "city": "Gwangju Gwang'yeogsi",
+    "name": "C 720 Heliport",
+    "icao": "RK5N",
+    "lat": 35.196911,
+    "lon": 126.907762
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonrabugdo",
+    "city": "Jeonrabugdo",
+    "name": "C 719 Heliport",
+    "icao": "RK5M",
+    "lat": 35.876108,
+    "lon": 127.132562
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan Gwang'yeogsi",
+    "name": "C 827 Heliport",
+    "icao": "RK6A",
+    "lat": 35.174419,
+    "lon": 129.15715
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Gyeongsangnamdo",
+    "name": "C 714 Heliport",
+    "icao": "RK5G",
+    "lat": 34.977001,
+    "lon": 127.83656
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "C 257 Heliport",
+    "icao": "RK2U",
+    "lat": 37.803691,
+    "lon": 127.004469
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "C 250 Heliport",
+    "icao": "RK2Q",
+    "lat": 37.8807,
+    "lon": 127.1689
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "C 192 Heliport",
+    "icao": "RK2L",
+    "lat": 37.683856,
+    "lon": 126.797888
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "C 202 Heliport",
+    "icao": "RK7Q",
+    "lat": 37.946457,
+    "lon": 126.977298
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "H 175 Heliport",
+    "icao": "RK6N",
+    "lat": 37.877004,
+    "lon": 126.793655
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Gyeongsangbugdo",
+    "name": "Yecheon Airport",
+    "icao": "KR-0036",
+    "lat": 36.628409,
+    "lon": 128.372755
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Jejudo",
+    "name": "Alddreu Airfield (K-40) (Cheju-do No. 2)",
+    "icao": "KR-0041",
+    "lat": 33.203935,
+    "lon": 126.271319
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Incheon Gwang'yeogsi",
+    "name": "C 182 Heliport",
+    "icao": "RK2B",
+    "lat": 37.754008,
+    "lon": 126.434821
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "Sv Ri San Helipad",
+    "icao": "RKSC",
+    "lat": 37.356983,
+    "lon": 126.902626
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "Camp Gary Owen Heliport (H-172)",
+    "icao": "KR-0050",
+    "lat": 37.866473,
+    "lon": 126.812332
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gyeonggido",
+    "name": "C-154 Heliport",
+    "icao": "KR-0054",
+    "lat": 37.780978,
+    "lon": 126.75402
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Gang'weondo",
+    "name": "C-430 Heliport",
+    "icao": "KR-0063",
+    "lat": 38.082725,
+    "lon": 127.954352
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Gyeongsangbugdo",
+    "name": "Dartboard Heliport (H-811)",
+    "icao": "KR-0071",
+    "lat": 35.740092,
+    "lon": 128.689052
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Ahopsari-ro",
+    "name": "C 426 Heliport",
+    "icao": "RK3T",
+    "lat": 37.804964,
+    "lon": 127.998518
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Andong",
+    "name": "G 602 Airfield",
+    "icao": "RK46",
+    "lat": 36.550464,
+    "lon": 128.758087
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Anma-gil",
+    "name": "N-306 Heliport",
+    "icao": "KR-0087",
+    "lat": 35.343414,
+    "lon": 126.029666
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Anyang",
+    "name": "C-149 Heliport",
+    "icao": "KR-0053",
+    "lat": 37.396095,
+    "lon": 126.898506
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Baealmi-dong",
+    "name": "Geomdansan Heliport",
+    "icao": "KR-0693",
+    "lat": 37.517666,
+    "lon": 127.249469
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Baegryeong-do Island",
+    "name": "N 207 Helipad",
+    "icao": "RKD4",
+    "lat": 37.947694,
+    "lon": 124.637667
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Baegyeon-ri",
+    "name": "C-122 Heliport",
+    "icao": "KR-0211",
+    "lat": 37.90143,
+    "lon": 126.735655
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Baengnyeong-ri",
+    "name": "Baengnyeong-ri Helipad",
+    "icao": "KR-0137",
+    "lat": 38.056628,
+    "lon": 126.887657
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Bakdal-dong",
+    "name": "Camp Thompson Heliport (C-100)",
+    "icao": "RK1C",
+    "lat": 37.387971,
+    "lon": 126.889005
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Bangtong-ri",
+    "name": "Bangtong-ri Helipad",
+    "icao": "KR-0148",
+    "lat": 38.286356,
+    "lon": 127.55021
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Banyeo-dong",
+    "name": "C 816 Heliport",
+    "icao": "RK5Q",
+    "lat": 35.202091,
+    "lon": 129.149238
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Barami, Andong",
+    "name": "Barami Heliport",
+    "icao": "KR-0035",
+    "lat": 36.538946,
+    "lon": 128.72847
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Beoman-ro, Doksan-dong",
+    "name": "C 143 Heliport",
+    "icao": "RK1Q",
+    "lat": 37.462558,
+    "lon": 126.893061
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Bia-ri",
+    "name": "Bia-ri Helipad",
+    "icao": "KR-0193",
+    "lat": 38.277833,
+    "lon": 128.042379
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Bia-ri",
+    "name": "Bia-ri East Helipad",
+    "icao": "KR-0195",
+    "lat": 38.261751,
+    "lon": 128.047036
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Boreumdo-ri, Boreumdo",
+    "name": "N 231 Helipad",
+    "icao": "RKA5",
+    "lat": 37.687425,
+    "lon": 126.194243
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Bugwon-ro",
+    "name": "C-451 Heliport",
+    "icao": "KR-0064",
+    "lat": 37.384438,
+    "lon": 127.94556
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Bukpo-ri, Baengnyeongdo",
+    "name": "Bukpo-ri Heliport",
+    "icao": "KR-0023",
+    "lat": 37.955365,
+    "lon": 124.669247
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Bunam-ri",
+    "name": "Bunam-ri Heliport",
+    "icao": "KR-0229",
+    "lat": 37.365801,
+    "lon": 129.249538
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Bundang-gu (Seongnam)",
+    "name": "Seoul National University Bundang Hospital Helipad",
+    "icao": "KR-0125",
+    "lat": 37.352297,
+    "lon": 127.123343
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Geumnyeonsan Heliport",
+    "icao": "KR-0310",
+    "lat": 35.163241,
+    "lon": 129.096439
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Minak Lotte Castle Giant Apartment Complex Heliports",
+    "icao": "KR-0312",
+    "lat": 35.158096,
+    "lon": 129.132872
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Haeundae I Park Marina Tower 1 Heliport",
+    "icao": "KR-0314",
+    "lat": 35.157954,
+    "lon": 129.142097
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Haeundae I Park Marina Tower 2 Heliport",
+    "icao": "KR-0316",
+    "lat": 35.155971,
+    "lon": 129.142104
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Hanhwa Resort Haeundae Heliport",
+    "icao": "KR-0318",
+    "lat": 35.15504,
+    "lon": 129.144801
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Kaiser Village Apartments Heliports",
+    "icao": "KR-0320",
+    "lat": 35.1551,
+    "lon": 129.146173
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Daewoo Worldmark Centrum Apartments Heliports",
+    "icao": "KR-0322",
+    "lat": 35.156495,
+    "lon": 129.146387
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Hyundai Hypherion Apartments Heliports",
+    "icao": "KR-0324",
+    "lat": 35.157846,
+    "lon": 129.1483
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Benecity Apartment Complex Heliports",
+    "icao": "KR-0326",
+    "lat": 35.159291,
+    "lon": 129.150451
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Ocean Tower Heliport",
+    "icao": "KR-0329",
+    "lat": 35.159123,
+    "lon": 129.153629
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Hanyang Water Marine Council Heliport",
+    "icao": "KR-0332",
+    "lat": 35.161157,
+    "lon": 129.155978
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Ace High Tech 21 Heliport",
+    "icao": "KR-0351",
+    "lat": 35.17339,
+    "lon": 129.129766
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Kang Lim CSP Heliport",
+    "icao": "KR-0353",
+    "lat": 35.173817,
+    "lon": 129.12585
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Pluq Inc. Heliport",
+    "icao": "KR-0355",
+    "lat": 35.175935,
+    "lon": 129.125935
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Centum Star Heliport",
+    "icao": "KR-0357",
+    "lat": 35.177182,
+    "lon": 129.124342
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Centum Park Apartments (1+2)",
+    "icao": "KR-0359",
+    "lat": 35.178509,
+    "lon": 129.121885
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Lotte Busan Hotel Heliport",
+    "icao": "KR-0361",
+    "lat": 35.157495,
+    "lon": 129.056004
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Sharp Central Star Apartments Heliports",
+    "icao": "KR-0363",
+    "lat": 35.15233,
+    "lon": 129.061522
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Halla Vivaldi Apartments Heliports",
+    "icao": "KR-0365",
+    "lat": 35.150933,
+    "lon": 129.066876
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Daewon Cantabile Members Apartments Heliports",
+    "icao": "KR-0367",
+    "lat": 35.171583,
+    "lon": 129.068139
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Busan Metrpolitan Police Agency Heliport",
+    "icao": "KR-0369",
+    "lat": 35.179195,
+    "lon": 129.074504
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Busan Employment Center Heliport",
+    "icao": "KR-0371",
+    "lat": 35.178347,
+    "lon": 129.074786
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Lotte Gallerium Heliport",
+    "icao": "KR-0373",
+    "lat": 35.176248,
+    "lon": 129.073052
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Kookje Daily News (Kookje Shinmum) Headquarters Heliport",
+    "icao": "KR-0375",
+    "lat": 35.196361,
+    "lon": 129.079238
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Busan Astar Apartments Heliport",
+    "icao": "KR-0377",
+    "lat": 35.217413,
+    "lon": 129.082427
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Hanil Ordew Heliport",
+    "icao": "KR-0379",
+    "lat": 35.155436,
+    "lon": 129.146379
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "SK Hub Olive Apartments Heliport",
+    "icao": "KR-0381",
+    "lat": 35.219112,
+    "lon": 129.084137
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "SK Hub Sky Apartments Heliports",
+    "icao": "KR-0383",
+    "lat": 35.221557,
+    "lon": 129.084983
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Bugok-dong Prugio Apartments Heliports",
+    "icao": "KR-0385",
+    "lat": 35.230142,
+    "lon": 129.090042
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Bando Bora Skyview Apartments Heliports",
+    "icao": "KR-0389",
+    "lat": 35.204784,
+    "lon": 129.069022
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Sajik Sports Complex Auxiliary Stadium Heliport",
+    "icao": "KR-0391",
+    "lat": 35.188589,
+    "lon": 129.054833
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Lotte Castle Apartments Heliports",
+    "icao": "KR-0393",
+    "lat": 35.191912,
+    "lon": 129.068893
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Geumjeong Fire Station Heliport",
+    "icao": "KR-0395",
+    "lat": 35.244136,
+    "lon": 129.092671
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Dongwon Royal Duke Vista Apartments Heliports",
+    "icao": "KR-0397",
+    "lat": 35.121699,
+    "lon": 129.044671
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Busan Hotel Heliport",
+    "icao": "KR-0399",
+    "lat": 35.100358,
+    "lon": 129.034628
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Buam 3(sam)-dong East Heliport",
+    "icao": "KR-0406",
+    "lat": 35.182463,
+    "lon": 129.024922
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Sanghaksan Heliport",
+    "icao": "KR-0408",
+    "lat": 35.229931,
+    "lon": 129.050516
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Goejeong 1(il)-dong Heliport",
+    "icao": "KR-0411",
+    "lat": 35.092053,
+    "lon": 128.986489
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Jangnim 1(il)-dong Heliport",
+    "icao": "KR-0413",
+    "lat": 35.065938,
+    "lon": 128.967283
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Dangni-dong East Heliport",
+    "icao": "KR-0415",
+    "lat": 35.123486,
+    "lon": 128.993705
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Doosan Weâ€™ve Cummins New Town Apartments Heliports",
+    "icao": "KR-0417",
+    "lat": 35.131957,
+    "lon": 129.055018
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Jinheung Majestry War Apartments Heliports",
+    "icao": "KR-0419",
+    "lat": 35.13793,
+    "lon": 129.065798
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Korea Telecommunications (KT) Heliport",
+    "icao": "KR-0421",
+    "lat": 35.137972,
+    "lon": 129.06271
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Samsan Lovech Apartments Heliport",
+    "icao": "KR-0424",
+    "lat": 35.136721,
+    "lon": 129.069716
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Bumil Station Irum Apartments Heliport",
+    "icao": "KR-0426",
+    "lat": 35.144523,
+    "lon": 129.061007
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Brahmin LH Apartments Heliports",
+    "icao": "KR-0428",
+    "lat": 35.14787,
+    "lon": 129.055538
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Seung In Nobil Apartments Heliport",
+    "icao": "KR-0430",
+    "lat": 35.14869,
+    "lon": 129.060916
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Samsung Finance Plaza Heliport",
+    "icao": "KR-0432",
+    "lat": 35.150154,
+    "lon": 129.05902
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Vertavill Apartments Heliport",
+    "icao": "KR-0434",
+    "lat": 35.154265,
+    "lon": 129.055645
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Hansol Polaris Hotel Heliport",
+    "icao": "KR-0436",
+    "lat": 35.157448,
+    "lon": 129.05408
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Semyeon Dongmun Goodmorning Hill Apartment Complex Heliports",
+    "icao": "KR-0438",
+    "lat": 35.162093,
+    "lon": 129.053341
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Busanjin-gu Office Heliport",
+    "icao": "KR-0440",
+    "lat": 35.163143,
+    "lon": 129.053268
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Santeview Apartments Heliport",
+    "icao": "KR-0442",
+    "lat": 35.15401,
+    "lon": 129.024549
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Seomyeon e-Pyeonhansesang Apartment Complex Heliports",
+    "icao": "KR-0444",
+    "lat": 35.156556,
+    "lon": 129.049305
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Good Samsun Hospital Heliport",
+    "icao": "KR-0446",
+    "lat": 35.150715,
+    "lon": 129.008329
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Crown Harbor Hotel Heliport",
+    "icao": "KR-0448",
+    "lat": 35.107823,
+    "lon": 129.036954
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Songdo Topsville Apartments Heliport",
+    "icao": "KR-0450",
+    "lat": 35.078205,
+    "lon": 129.01866
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Tusong Bando Heliport",
+    "icao": "KR-0452",
+    "lat": 35.046076,
+    "lon": 128.996375
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Mol-Udae Heliport",
+    "icao": "KR-0454",
+    "lat": 35.039737,
+    "lon": 128.969217
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "21 Century City Building Heliport",
+    "icao": "KR-0456",
+    "lat": 35.137403,
+    "lon": 129.100522
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Hwangnyeong Mountain View Heliport",
+    "icao": "KR-0458",
+    "lat": 35.157969,
+    "lon": 129.082588
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "GS Heights Xi Apartments Heliports",
+    "icao": "KR-0460",
+    "lat": 35.13306,
+    "lon": 129.110859
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Hanjin Family Town Apartments Heliport",
+    "icao": "KR-0462",
+    "lat": 35.112994,
+    "lon": 129.107679
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Oryukdo SK Apartments Heliports",
+    "icao": "KR-0464",
+    "lat": 35.10239,
+    "lon": 129.117819
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Youngdong Beach Tower Apartments Heliports",
+    "icao": "KR-0466",
+    "lat": 35.056227,
+    "lon": 128.971931
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Busan Jangan East Rest Area Helipad",
+    "icao": "KR-0491",
+    "lat": 35.382347,
+    "lon": 129.248566
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan",
+    "name": "Hyundai Camelia Haute Apartments Heliports",
+    "icao": "KR-0658",
+    "lat": 35.15785,
+    "lon": 129.150325
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan (Yeoung-do)",
+    "name": "Monte Bong-rae Heliport",
+    "icao": "KR-0401",
+    "lat": 35.086256,
+    "lon": 129.053962
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan (Yeoung-do)",
+    "name": "53rd ROK Army Division 125th Regiment Heliport",
+    "icao": "KR-0403",
+    "lat": 35.063286,
+    "lon": 129.079061
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Busan (Yeoung-do)",
+    "name": "Busan Coast Guard Base Heliport",
+    "icao": "KR-0405",
+    "lat": 35.081868,
+    "lon": 129.078442
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Byeollae-dong",
+    "name": "Central 119 Rescue Heliport",
+    "icao": "RKSH",
+    "lat": 37.670554,
+    "lon": 127.110167
+  },
+  {
+    "country": "South Korea",
+    "state": "Daejeon Gwang'yeogsi",
+    "city": "Camp Ames",
+    "name": "C 503 Heliport",
+    "icao": "KR-0006",
+    "lat": 36.4305555556,
+    "lon": 127.449722222
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Camp Carol",
+    "name": "H 832 Heliport",
+    "icao": "RK5C",
+    "lat": 35.9941666666999,
+    "lon": 128.419444444
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Camp Custer South",
+    "name": "C 171 Heliport",
+    "icao": "RK1Y",
+    "lat": 37.8275,
+    "lon": 126.8092
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Camp Edwards",
+    "name": "Camp Edwards (H 230) Heliport",
+    "icao": "RK06",
+    "lat": 37.779725,
+    "lon": 126.785276
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Camp Ethan Allen Hill 496",
+    "name": "H 173 Heliport",
+    "icao": "RK6M",
+    "lat": 37.907542,
+    "lon": 126.875829
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Camp Glant",
+    "name": "Camp Giant H-163 Heliport",
+    "icao": "RK6S",
+    "lat": 37.834088,
+    "lon": 126.815499
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Camp Howze",
+    "name": "H 108 Heliport",
+    "icao": "RK6H",
+    "lat": 37.748564,
+    "lon": 126.824606
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Camp Jackson",
+    "name": "Camp Jackson (H 248) Heliport",
+    "icao": "RK91",
+    "lat": 37.699072,
+    "lon": 127.044007
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Camp McNair",
+    "name": "Camp McNair Heliport (C-118)",
+    "icao": "RK1H",
+    "lat": 37.856336,
+    "lon": 126.863964
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Camp Nabors",
+    "name": "Camp Nabors (H 202) Heliport",
+    "icao": "RK03",
+    "lat": 37.940957,
+    "lon": 126.969984
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Camp Young",
+    "name": "Camp Young (C 166) Heliport",
+    "icao": "RKC3",
+    "lat": 37.92144,
+    "lon": 126.80125
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheondo-ri",
+    "name": "Cheondo-ri Helipad",
+    "icao": "KR-0185",
+    "lat": 38.240628,
+    "lon": 128.210988
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheondo-ri",
+    "name": "Cheondo-ri North Helipad North Helipad",
+    "icao": "KR-0191",
+    "lat": 38.230052,
+    "lon": 128.202126
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Cheongsin-ro",
+    "name": "Cheongsin-ro Helipad",
+    "icao": "KR-0526",
+    "lat": 37.980518000000004,
+    "lon": 127.075181
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheonmi-ri",
+    "name": "Cheonmi-ri Helipad",
+    "icao": "KR-0153",
+    "lat": 38.303598,
+    "lon": 127.889805
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheonmi-ri",
+    "name": "Cheonmi-ri South Heliport",
+    "icao": "KR-0504",
+    "lat": 38.247439,
+    "lon": 127.871211
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheonmi-ri",
+    "name": "Cheonmi-ri South Heliport",
+    "icao": "KR-0506",
+    "lat": 38.247439,
+    "lon": 127.871211
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheonmi-ri",
+    "name": "Cheonmi-ri South Heliport",
+    "icao": "KR-0508",
+    "lat": 38.247439,
+    "lon": 127.871211
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheonmi-ri",
+    "name": "Cheonmi-ri South Heliport",
+    "icao": "KR-0510",
+    "lat": 38.247439,
+    "lon": 127.871211
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheonmi-ri",
+    "name": "Cheonmi-ri South Heliport",
+    "icao": "KR-0512",
+    "lat": 38.247439,
+    "lon": 127.871211
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheonmi-ri",
+    "name": "Cheonmi-ri South Heliport",
+    "icao": "KR-0514",
+    "lat": 38.247439,
+    "lon": 127.871211
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheonmi-ri",
+    "name": "Cheonmi-ri South Heliport",
+    "icao": "KR-0516",
+    "lat": 38.247439,
+    "lon": 127.871211
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Cheonmi-ri",
+    "name": "Cheonmi-ri South Heliport",
+    "icao": "KR-0518",
+    "lat": 38.247439,
+    "lon": 127.871211
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Cheonpyeong-ri",
+    "name": "Kotar Range Heliport",
+    "icao": "RKNR",
+    "lat": 37.072043,
+    "lon": 128.864104
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongbugdo",
+    "city": "Chungbuk",
+    "name": "Chungbuk Provincial Police Agency Heliport",
+    "icao": "KR-0613",
+    "lat": 36.675574,
+    "lon": 127.500431
+  },
+  {
+    "country": "South Korea",
+    "state": "(unassigned)",
+    "city": "Châ€™odo-ri",
+    "name": "Châ€™odo-ri Heliport",
+    "icao": "KR-0225",
+    "lat": 38.486465,
+    "lon": 128.43701
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Concord FOC North",
+    "name": "H 247 Heliport",
+    "icao": "RK09",
+    "lat": 37.763077,
+    "lon": 127.00559
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Daecheong Island",
+    "name": "N 208 Helipad",
+    "icao": "RK9W",
+    "lat": 37.822591,
+    "lon": 124.715987
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu",
+    "name": "Camp Walker (H 805) Heliport",
+    "icao": "RK57",
+    "lat": 35.841195,
+    "lon": 128.591752
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu",
+    "name": "Centro Palace Apartments Heliports",
+    "icao": "KR-0468",
+    "lat": 35.86162,
+    "lon": 128.600912
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu",
+    "name": "Samjeong Green Core Apartments Heliports",
+    "icao": "KR-0470",
+    "lat": 35.863078,
+    "lon": 128.591637
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu",
+    "name": "Alianz Tower Building Heliport",
+    "icao": "KR-0472",
+    "lat": 35.865613,
+    "lon": 128.588241
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu",
+    "name": "Suseong Kolon Hanulche Apartments Heliports",
+    "icao": "KR-0474",
+    "lat": 35.855368,
+    "lon": 128.617625
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu",
+    "name": "Mercury Brownstone Apartments Heliport",
+    "icao": "KR-0476",
+    "lat": 35.859929,
+    "lon": 128.626599
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu",
+    "name": "MBC Cinema New Building Heliport",
+    "icao": "KR-0478",
+    "lat": 35.86604,
+    "lon": 128.628378
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu",
+    "name": "Hwaeseong Forest Park Dream Apartments Heliports",
+    "icao": "KR-0480",
+    "lat": 35.863691,
+    "lon": 128.627235
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu",
+    "name": "National 119 Rescue Headquarters",
+    "icao": "KR-1052",
+    "lat": 35.660225,
+    "lon": 128.386327
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daegu (Icheon-dong)",
+    "name": "Icheon-dong Heliport",
+    "icao": "KR-0482",
+    "lat": 35.856366,
+    "lon": 128.662609
+  },
+  {
+    "country": "South Korea",
+    "state": "Daegu Gwang'yeogsi",
+    "city": "Daeheung-dong",
+    "name": "Daegu Stadium Complex Heliport",
+    "icao": "KR-0635",
+    "lat": 35.826041,
+    "lon": 128.685922
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Daejon",
+    "name": "Daejon St. Maryâ€™s Hospital Heliport",
+    "icao": "KR-0294",
+    "lat": 36.322458,
+    "lon": 127.42046
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Daejon",
+    "name": "ROK Ministry of SMEs & Startups",
+    "icao": "KR-0296",
+    "lat": 36.361598,
+    "lon": 127.383943
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Daejon",
+    "name": "ROK Ministry of SMEs & Starups",
+    "icao": "KR-0298",
+    "lat": 36.361598,
+    "lon": 127.383943
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Daejon",
+    "name": "ROK Ministry of SMEs & Starups",
+    "icao": "KR-0300",
+    "lat": 36.361598,
+    "lon": 127.383943
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Daejon",
+    "name": "ROK Army 53rd Logstics Support Group Heliport",
+    "icao": "KR-0302",
+    "lat": 36.403103,
+    "lon": 127.351137
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Daejon",
+    "name": "Geumgang Axle Tower Complex Heliports",
+    "icao": "KR-0305",
+    "lat": 36.451924,
+    "lon": 127.42071
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Daejon",
+    "name": "Heli Korea Heliport",
+    "icao": "KR-1051",
+    "lat": 36.362345,
+    "lon": 127.403788
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Daesan",
+    "name": "Samsung Total Petrochemicals Daesan Heliport",
+    "icao": "KR-0227",
+    "lat": 37.005903,
+    "lon": 126.353156
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Daeseok-ri",
+    "name": "C-820 Heliport",
+    "icao": "KR-0212",
+    "lat": 35.386108,
+    "lon": 129.064072
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Daeseong-ri",
+    "name": "Yeongcheon Ammo Depot Heliport",
+    "icao": "KR-0616",
+    "lat": 35.957878,
+    "lon": 128.9933
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Dangsan-ro",
+    "name": "C-502 Heliport",
+    "icao": "KR-0065",
+    "lat": 36.563052,
+    "lon": 127.281431
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Dapgok-ri",
+    "name": "Dapgok-ri Heliport",
+    "icao": "KR-0564",
+    "lat": 37.955285,
+    "lon": 126.872197
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Deokcheon-ri",
+    "name": "Deokcheon-ri Helipad",
+    "icao": "KR-0549",
+    "lat": 37.923901,
+    "lon": 126.87669
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Deokcheon-ri",
+    "name": "Deokcheon-ri Heliport",
+    "icao": "KR-0619",
+    "lat": 35.284096,
+    "lon": 128.675084
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Deokgu-ri",
+    "name": "Deokgu-ri Heliport",
+    "icao": "KR-0605",
+    "lat": 37.074258,
+    "lon": 128.807622
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Deokpo-ri",
+    "name": "G-607 Heliport",
+    "icao": "KR-0599",
+    "lat": 37.166597,
+    "lon": 128.477045
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Deungdae-ri",
+    "name": "Deungdae-ri North Helipad",
+    "icao": "KR-0149",
+    "lat": 38.308304,
+    "lon": 127.745601
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Deungdae-ri",
+    "name": "Deungdae-ri East Helipad",
+    "icao": "KR-0204",
+    "lat": 38.284311,
+    "lon": 127.7766318
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "DMZ Service Center",
+    "name": "C 123 Heliport",
+    "icao": "RK1K",
+    "lat": 37.893679,
+    "lon": 126.724243
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Dokdo (Liancourt Rocks)",
+    "name": "N 105 Helipad",
+    "icao": "RKDD",
+    "lat": 37.239445,
+    "lon": 131.868781
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Dongducheon",
+    "name": "Hill 754 Helipad",
+    "icao": "KR-0537",
+    "lat": 37.874088,
+    "lon": 127.129524
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Donggeom-ri",
+    "name": "Chondung Sa Heliport",
+    "icao": "KR-0232",
+    "lat": 37.587476,
+    "lon": 126.514069
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Donghong-dong",
+    "name": "ROK Navy 301st Defense Squadron Miaksan Radar Site Helipad",
+    "icao": "KR-0288",
+    "lat": 33.30117,
+    "lon": 126.55571
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Dongsan-ri",
+    "name": "Palgong San Heliport",
+    "icao": "KR-0002",
+    "lat": 36.024612,
+    "lon": 128.696181
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Duhyeon-ri",
+    "name": "Duhyeon-ri Helipad",
+    "icao": "KR-0136",
+    "lat": 38.038308,
+    "lon": 126.886019
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Eopbeol (Oe-ri)",
+    "name": "Yeongheung Power Station Heliport",
+    "icao": "KR-0284",
+    "lat": 37.241964,
+    "lon": 126.441578
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Eunhaeng-dong",
+    "name": "C 286 Heliport",
+    "icao": "RK7C",
+    "lat": 37.457959,
+    "lon": 127.189861
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Eupnae-ri",
+    "name": "Eupnae-ri Helipad",
+    "icao": "KR-0208",
+    "lat": 38.295227,
+    "lon": 127.424122
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gaekhyeon-ri",
+    "name": "Gaekhyeon-ri Heliport",
+    "icao": "KR-0538",
+    "lat": 37.963991,
+    "lon": 126.968715
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Gaesin-dong",
+    "name": "Chungbuk National University Hospital Heliport",
+    "icao": "KR-0306",
+    "lat": 36.623297,
+    "lon": 127.460647
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Gajeon-ri",
+    "name": "Gajeon-ri West Helipad",
+    "icao": "KR-0161",
+    "lat": 38.351408,
+    "lon": 128.20568
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Gajeon-ri",
+    "name": "Gajeon-ri South Helipad",
+    "icao": "KR-0163",
+    "lat": 38.332784,
+    "lon": 128.270756
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Galjeon-ri",
+    "name": "Giljeon-ri Helipad",
+    "icao": "KR-0126",
+    "lat": 37.667765,
+    "lon": 126.452001
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Gamagol (ROK 32nd Division)",
+    "name": "C 528 Heliport",
+    "icao": "RK4P",
+    "lat": 36.56352,
+    "lon": 127.277735
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Gamcheon-ri",
+    "name": "Gamcheon-ri Heliport",
+    "icao": "KR-0626",
+    "lat": 35.210092,
+    "lon": 128.53549
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Gangdang",
+    "name": "C 523 Heliport",
+    "icao": "RK4N",
+    "lat": 36.337644,
+    "lon": 126.534667
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Gangjeong",
+    "name": "Jeju Island Naval Base Command Helipad",
+    "icao": "KR-0287",
+    "lat": 33.228556,
+    "lon": 126.482651
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Ganjeol-ri",
+    "name": "N-311 Heliport",
+    "icao": "KR-0088",
+    "lat": 34.663415,
+    "lon": 126.654565
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Gapo-dong",
+    "name": "Gapo-dong Wharf Heliport",
+    "icao": "KR-0625",
+    "lat": 35.174179,
+    "lon": 128.577062
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Gasan-ri",
+    "name": "Ipjang Service Area Heliport",
+    "icao": "KR-0638",
+    "lat": 36.941984,
+    "lon": 127.190264
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Geomjang-ri",
+    "name": "Geomjang-ri Helipad",
+    "icao": "KR-0181",
+    "lat": 38.543466,
+    "lon": 128.346904
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Geonsol-ri",
+    "name": "Geonsol-ri Helipad",
+    "icao": "KR-0196",
+    "lat": 38.283061,
+    "lon": 127.979133
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Geonsol-ri",
+    "name": "Geonsol-ri West Helipad",
+    "icao": "KR-0201",
+    "lat": 38.27359,
+    "lon": 127.960183
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Geoyeo-dong, Seoul",
+    "name": "C 271 Heliport",
+    "icao": "RK3A",
+    "lat": 37.487394,
+    "lon": 127.143182
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Geumil-ro",
+    "name": "H-610 Heliport",
+    "icao": "KR-0074",
+    "lat": 37.01656,
+    "lon": 127.523549
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Geumsu-ri",
+    "name": "Geumsu-ri South Heliport",
+    "icao": "KR-0571",
+    "lat": 38.365574,
+    "lon": 128.453165
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Go-Daero",
+    "name": "C-517 Heliport",
+    "icao": "RK4H",
+    "lat": 37.201187,
+    "lon": 126.847241
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Gomiseong-ri",
+    "name": "Gomiseong-ri Helipad",
+    "icao": "KR-0165",
+    "lat": 38.429852,
+    "lon": 128.339042
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goneung-ri",
+    "name": "Goneung-ri South Helipad",
+    "icao": "KR-0527",
+    "lat": 38.003355,
+    "lon": 127.033918
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Gonghyeonjinhanok-gil",
+    "name": "Gonghyeonjinhanok-gil Heliport",
+    "icao": "KR-0573",
+    "lat": 38.349471,
+    "lon": 128.499833
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gorangpo-ri",
+    "name": "Gorangpo-ri Helipad",
+    "icao": "KR-0135",
+    "lat": 37.977964,
+    "lon": 126.829604
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Goseong",
+    "name": "Goseong Heliport",
+    "icao": "KR-0501",
+    "lat": 38.586093,
+    "lon": 128.375963
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Goseong-gun",
+    "name": "Banam-ri ROK Army Base Heliport",
+    "icao": "KR-0500",
+    "lat": 38.413741,
+    "lon": 128.46516
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang",
+    "name": "Susaek (G 113) Airport",
+    "icao": "RKRS",
+    "lat": 37.600539,
+    "lon": 126.869516
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang",
+    "name": "Joongang Heights Ville Helipad",
+    "icao": "KR-0106",
+    "lat": 37.658781,
+    "lon": 126.767984
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang",
+    "name": "Samsung Laqvill Helipad",
+    "icao": "KR-0108",
+    "lat": 37.660989,
+    "lon": 126.765833
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang",
+    "name": "Kolon Lake Polls-II South Helipad",
+    "icao": "KR-0110",
+    "lat": 37.662466,
+    "lon": 126.764152
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang",
+    "name": "Kolon Lake Polls-III East Helipad",
+    "icao": "KR-0112",
+    "lat": 37.663714,
+    "lon": 126.764757
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang",
+    "name": "Yang Woo East Helipad",
+    "icao": "KR-0114",
+    "lat": 37.665011,
+    "lon": 126.76686
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang-si",
+    "name": "Modern Etro Revo Apartments Heliport",
+    "icao": "KR-1043",
+    "lat": 37.655371,
+    "lon": 126.774511
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang-si",
+    "name": "Hyundai Townville Officetel Heliport",
+    "icao": "KR-1045",
+    "lat": 37.656671,
+    "lon": 126.77426
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang-si",
+    "name": "SK City Tower Heliport",
+    "icao": "KR-1047",
+    "lat": 37.655211,
+    "lon": 126.771408
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Goyang-si",
+    "name": "Kolon Lake Poll Officetel Apartments Heliports",
+    "icao": "KR-1049",
+    "lat": 37.656479,
+    "lon": 126.769518
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gueup-ri",
+    "name": "Castle Hill Heliport",
+    "icao": "KR-0540",
+    "lat": 37.964333,
+    "lon": 126.919483
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Guksa-ro",
+    "name": "Guksa-ro Heliport",
+    "icao": "KR-0566",
+    "lat": 37.959019,
+    "lon": 126.879065
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Gunnae-gil",
+    "name": "N-313 Helipad",
+    "icao": "KR-0090",
+    "lat": 34.304782,
+    "lon": 126.765586
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Guseong-ri",
+    "name": "Guseong-ri Heliport",
+    "icao": "KR-0577",
+    "lat": 38.304964,
+    "lon": 128.477857
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonrabugdo",
+    "city": "Gusipoan-gil",
+    "name": "Yong Jung-ri Helipad",
+    "icao": "RKJO",
+    "lat": 35.438754,
+    "lon": 126.432488
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gwacheon-dong",
+    "name": "H-253 Heliport",
+    "icao": "KR-0073",
+    "lat": 37.447415,
+    "lon": 126.991283
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Gwangtan-myeon",
+    "name": "Camp Stanton Heliport (H-112)",
+    "icao": "RKSR",
+    "lat": 37.792728,
+    "lon": 126.845516
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Gyeonggang-ro",
+    "name": "Pyeongchang Service Area Heliport",
+    "icao": "KR-0591",
+    "lat": 37.605872,
+    "lon": 128.45403
+  },
+  {
+    "country": "South Korea",
+    "state": "(unassigned)",
+    "city": "Gyeryongdae-ro",
+    "name": "C-620 Heliport",
+    "icao": "KR-0068",
+    "lat": 36.312454,
+    "lon": 127.222321
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Gyodongdo",
+    "name": "C 183 Heliport",
+    "icao": "RK2C",
+    "lat": 37.815291,
+    "lon": 126.263275
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Haeannam-ro",
+    "name": "N-223 Heliport",
+    "icao": "KR-0085",
+    "lat": 37.610866,
+    "lon": 126.416875
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Haeundae (Busan)",
+    "name": "53rd ROK Army Division Heliport",
+    "icao": "KR-0328",
+    "lat": 35.191118,
+    "lon": 129.194541
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Haeundae (Busan)",
+    "name": "Novotel Ambassador Hotel Heliport",
+    "icao": "KR-0334",
+    "lat": 35.160197,
+    "lon": 129.162864
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Haeundae (Busan)",
+    "name": "Pale de Cz Hotel Heliports",
+    "icao": "KR-0336",
+    "lat": 35.160288,
+    "lon": 129.166938
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Haeundae (Busan)",
+    "name": "Haeundae Jugong Apartments Heliports",
+    "icao": "KR-0338",
+    "lat": 35.160736,
+    "lon": 129.178877
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Haeundae (Busan)",
+    "name": "Haeundae Doosan Weâ€™ve Centrum Apartments Heliport",
+    "icao": "KR-0340",
+    "lat": 35.168167,
+    "lon": 129.176299
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Haeundae (Busan)",
+    "name": "Haeundae Centrum Hotel Heliport",
+    "icao": "KR-0342",
+    "lat": 35.168229,
+    "lon": 129.132489
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Haeundae (Busan)",
+    "name": "Centrum Leaders Mark Apartments Heliport",
+    "icao": "KR-0344",
+    "lat": 35.166626,
+    "lon": 129.132172
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Haeundae (Busan)",
+    "name": "Haeundae Exordium Apartments Heliports",
+    "icao": "KR-0346",
+    "lat": 35.163258,
+    "lon": 129.137488
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Haeundae (Busan)",
+    "name": "Trump World Centrum City Heliports",
+    "icao": "KR-0348",
+    "lat": 35.17093,
+    "lon": 129.131756
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Hageum-ro",
+    "name": "C 249 Heliport",
+    "icao": "RK7R",
+    "lat": 37.753365,
+    "lon": 127.057614
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hagwangjeong-ri, Hyeonbu-myeon",
+    "name": "N 102 Helipad",
+    "icao": "RKC9",
+    "lat": 38.014981,
+    "lon": 128.72803
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hahwagye-ri",
+    "name": "C 329 Heliport",
+    "icao": "RK86",
+    "lat": 37.692495,
+    "lon": 127.859906
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Hakseong-ri",
+    "name": "C 723 Heliport",
+    "icao": "RK5P",
+    "lat": 35.250114,
+    "lon": 126.604943
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Hallasan",
+    "name": "N-317 Heliport",
+    "icao": "KR-0092",
+    "lat": 33.392276,
+    "lon": 126.495388
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Hapo-ri",
+    "name": "H 105 Heliport",
+    "icao": "RK6Y",
+    "lat": 37.926207,
+    "lon": 126.820046
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hawaksan-ro",
+    "name": "C-328 Heliport",
+    "icao": "RK79",
+    "lat": 38.054738,
+    "lon": 127.526872
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Heul-ri",
+    "name": "Masanbong Helipad",
+    "icao": "KR-0502",
+    "lat": 38.267919,
+    "lon": 128.399595
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Hill 436",
+    "name": "H 104 Heliport",
+    "icao": "RK6G",
+    "lat": 37.743877,
+    "lon": 126.436183
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hoenggye-ri",
+    "name": "Hoenggye-ri Heliport",
+    "icao": "KR-0587",
+    "lat": 37.756101,
+    "lon": 128.663547
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hoengseong-ro",
+    "name": "Camp Eagle (H 401) Heliport",
+    "icao": "RK55",
+    "lat": 37.453901,
+    "lon": 127.973299
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Hoguk-ro (Uijonbu)",
+    "name": "C-256 Heliport",
+    "icao": "KR-0094",
+    "lat": 37.736046,
+    "lon": 127.029588
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hojeo-ro",
+    "name": "C 415 Heliport",
+    "icao": "RK65",
+    "lat": 37.387969,
+    "lon": 127.944935
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "HQ Capital Corps",
+    "name": "C 150 Heliport",
+    "icao": "RK70",
+    "lat": 37.471965,
+    "lon": 126.748326
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Hu-ri",
+    "name": "Hu-ri Helipad",
+    "icao": "KR-0192",
+    "lat": 38.310573,
+    "lon": 128.148074
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hutan-ro",
+    "name": "Ssangyong Cement Yeongwol Plant Heliport",
+    "icao": "KR-0600",
+    "lat": 37.184139,
+    "lon": 128.320461
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Hwahrap-ro",
+    "name": "C 241 Heliport",
+    "icao": "RK2O",
+    "lat": 37.84965,
+    "lon": 127.015807
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hyangmok-ri",
+    "name": "Hyangmok-ri Heliport",
+    "icao": "KR-0572",
+    "lat": 38.364329,
+    "lon": 128.480222
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Hyeon-ri",
+    "name": "C 406 Heliport",
+    "icao": "RK3N",
+    "lat": 38.318124,
+    "lon": 128.109869
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Hyoseong-dong, Incheon",
+    "name": "C 194 Heliport",
+    "icao": "RKB1",
+    "lat": 37.534288,
+    "lon": 126.690439
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Icheon-ri",
+    "name": "Icheon-ri South Helipad",
+    "icao": "KR-0553",
+    "lat": 37.871537,
+    "lon": 126.833789
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Icheon-ri",
+    "name": "Icheon-ri Helipad",
+    "icao": "KR-0598",
+    "lat": 37.186916,
+    "lon": 129.240375
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Igi-dong",
+    "name": "Sangwol Mountain Helipad",
+    "icao": "KR-0592",
+    "lat": 37.493111,
+    "lon": 128.984937
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Ihyeon-ri",
+    "name": "Ihyeon-ri Helipad",
+    "icao": "KR-0157",
+    "lat": 38.320311,
+    "lon": 128.111755
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Ildong-ro",
+    "name": "C 187 Heliport",
+    "icao": "RK64",
+    "lat": 37.417138,
+    "lon": 126.94514
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Ilsin-dong (Incheon)",
+    "name": "C-104 Heliport",
+    "icao": "KR-0052",
+    "lat": 37.4794,
+    "lon": 126.736146
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Imjinnaru",
+    "name": "Camp Pelham Heliport (C-165)",
+    "icao": "KR-0057",
+    "lat": 37.879412,
+    "lon": 126.795731
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Incheon",
+    "name": "Majang-ro Heliport",
+    "icao": "KR-0038",
+    "lat": 37.496329,
+    "lon": 126.698308
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Incheon",
+    "name": "Sangok-dong Heliport",
+    "icao": "KR-0044",
+    "lat": 37.501438,
+    "lon": 126.697648
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Incheon Port",
+    "name": "Incheon Pier 7 Helipad",
+    "icao": "KR-0081",
+    "lat": 37.460084,
+    "lon": 126.595896
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Incheon Port",
+    "name": "Incheon Maritime Police Helipad",
+    "icao": "KR-0083",
+    "lat": 37.462443,
+    "lon": 126.595869
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Injeongoreum-ro",
+    "name": "N 319 Helipads",
+    "icao": "RKA7",
+    "lat": 33.295243,
+    "lon": 126.573717
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Iro-dong (Donghae)",
+    "name": "Ssangyong East Cement Plant Heliport",
+    "icao": "KR-0233",
+    "lat": 37.487569,
+    "lon": 129.064352
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Irwolbong",
+    "name": "Irwolbong Helipad",
+    "icao": "KR-0032",
+    "lat": 37.910285,
+    "lon": 126.813988
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Irwolsan",
+    "name": "Irwol San Heliport",
+    "icao": "KR-0003",
+    "lat": 36.803357,
+    "lon": 129.101661
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Jamdo Island",
+    "name": "Jamdo Heliport",
+    "icao": "KR-0629",
+    "lat": 35.059128,
+    "lon": 128.666564
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Jangam-ri",
+    "name": "Jangam-ri Heliport",
+    "icao": "KR-0530",
+    "lat": 38.041219,
+    "lon": 127.344241
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Jangbong-ri",
+    "name": "Jangbong-ri Heliport",
+    "icao": "KR-0217",
+    "lat": 37.522958,
+    "lon": 126.327245
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Jangdan",
+    "name": "Jangdan Helipad",
+    "icao": "KR-0134",
+    "lat": 37.939226,
+    "lon": 126.751208
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Janggo-do",
+    "name": "Janggo-do Heliport",
+    "icao": "KR-0045",
+    "lat": 36.388491,
+    "lon": 126.335561
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Janghyeon-ri",
+    "name": "Janghyeon-ri Heliport",
+    "icao": "KR-0556",
+    "lat": 37.980519,
+    "lon": 126.960206
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jangyo-ri",
+    "name": "Jangyo-ri Heliport",
+    "icao": "KR-0582",
+    "lat": 37.973747,
+    "lon": 128.709659
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Jawol-myeon",
+    "name": "Jawol-myeon Heliport (ìžì›”ë©´ í—¬ë¦¬ì½¥í„°)",
+    "icao": "KR-0098",
+    "lat": 37.249679,
+    "lon": 126.310622
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jejin",
+    "name": "Jejin Helipad",
+    "icao": "KR-0176",
+    "lat": 38.571418,
+    "lon": 128.393423
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jeongam-ri, Ganghyeon-myeon",
+    "name": "ROK Army 102nd Armor Brigade Heliport",
+    "icao": "KR-0034",
+    "lat": 38.145239,
+    "lon": 128.602998
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jeongyeong-gil",
+    "name": "Jeongyeong-gil Helipad",
+    "icao": "KR-0143",
+    "lat": 38.299242,
+    "lon": 127.347009
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Jikcheon-ri",
+    "name": "Jikcheon-ri Helipad",
+    "icao": "KR-0541",
+    "lat": 37.895453,
+    "lon": 126.899699
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Jinbeol-ro",
+    "name": "C-244 Heliport",
+    "icao": "RK7J",
+    "lat": 37.733712,
+    "lon": 127.223595
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jindong-ri",
+    "name": "Jindong-ri Helipad",
+    "icao": "KR-0581",
+    "lat": 37.996748,
+    "lon": 128.502185
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Jinhae",
+    "name": "Jinhae Naval Base (2 helipads)",
+    "icao": "KR-0222",
+    "lat": 35.146791,
+    "lon": 128.636902
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Jinhae",
+    "name": "Jinhae Airbase/Airport Heliport",
+    "icao": "KR-0224",
+    "lat": 35.136405,
+    "lon": 128.699126
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Jinhyeon-dong",
+    "name": "Bulguksa Heliport",
+    "icao": "KR-0617",
+    "lat": 35.789833,
+    "lon": 129.349814
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jinhyeon-ri",
+    "name": "Sungam-gogae Heliport",
+    "icao": "KR-0522",
+    "lat": 38.287701,
+    "lon": 127.587622
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Jogang-ri",
+    "name": "N 211 Helipad",
+    "icao": "RK8I",
+    "lat": 37.750906,
+    "lon": 126.593269
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "JSA Rear",
+    "name": "JSA Rear Heliport (H 127)",
+    "icao": "RK6J",
+    "lat": 37.933189,
+    "lon": 126.727172
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Jukgok-ri",
+    "name": "C 429 Heliport",
+    "icao": "RK83",
+    "lat": 38.131717,
+    "lon": 128.019012
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Jumundo Island",
+    "name": "N 220 Helipad",
+    "icao": "RK8M",
+    "lat": 37.650626,
+    "lon": 126.254371
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Kooni",
+    "name": "Kooni Range Heliport",
+    "icao": "RKSN",
+    "lat": 37.036498,
+    "lon": 126.759213
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Lcd-ro",
+    "name": "Lcd-ro Helipad",
+    "icao": "KR-0560",
+    "lat": 37.80876,
+    "lon": 126.771675
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Maejari",
+    "name": "C272 Heliport",
+    "icao": "RK6T",
+    "lat": 37.357537,
+    "lon": 127.255454
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mahyeon-ri",
+    "name": "Mahyeon-ri Helipad",
+    "icao": "KR-0048",
+    "lat": 38.238189,
+    "lon": 127.540616
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mahyeon-ri",
+    "name": "G-321 Airfield",
+    "icao": "KR-0207",
+    "lat": 38.268966,
+    "lon": 127.55613
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Majang-ri",
+    "name": "Majang-ri Helipad",
+    "icao": "KR-0561",
+    "lat": 37.782745,
+    "lon": 126.895197
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Mal-to Island",
+    "name": "C 186 Heliport",
+    "icao": "RK2F",
+    "lat": 37.688264,
+    "lon": 126.128182
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Mansusan-ro",
+    "name": "N-213 Heliport",
+    "icao": "KR-0084",
+    "lat": 37.764736,
+    "lon": 126.539843
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Mapo-ri",
+    "name": "Mapo-ri Helipad",
+    "icao": "KR-0210",
+    "lat": 37.999331,
+    "lon": 127.005775
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Meajuk-ri",
+    "name": "N 302 Helipad",
+    "icao": "RK8R",
+    "lat": 34.63784,
+    "lon": 128.573811
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Mibeop, Mibeopdo,",
+    "name": "Mibeop Helipad",
+    "icao": "KR-0030",
+    "lat": 37.725666,
+    "lon": 126.269817
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Misan-ri",
+    "name": "Misan-ri Helipad",
+    "icao": "KR-0584",
+    "lat": 37.883798,
+    "lon": 128.409074
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Mugeon-ri",
+    "name": "Mugeon-ri Helipad",
+    "icao": "KR-0547",
+    "lat": 37.920831,
+    "lon": 126.907738
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0235",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0237",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0239",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0241",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0243",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0245",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0247",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0249",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0251",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0253",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0255",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0257",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0259",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0261",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0263",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0265",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0267",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0269",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0271",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0273",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0275",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0277",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0279",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0281",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Mukho",
+    "name": "Mukho Port Heliport",
+    "icao": "KR-0283",
+    "lat": 37.540345,
+    "lon": 129.115255
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Mulgeum-ri",
+    "name": "Mulgeum-ri Heliport",
+    "icao": "KR-0634",
+    "lat": 35.320103,
+    "lon": 128.976388
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Munhak",
+    "name": "Munhak Heliport (C-107)",
+    "icao": "KR-0076",
+    "lat": 37.430769,
+    "lon": 126.675676
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Munsan-ri",
+    "name": "Neungamdeoksan Helipad",
+    "icao": "KR-0594",
+    "lat": 37.267575,
+    "lon": 128.550594
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Myeongho-ri",
+    "name": "Myeongho-ri Heliport",
+    "icao": "KR-0177",
+    "lat": 38.583822,
+    "lon": 128.363241
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Myeongjeong",
+    "name": "Myeongjeong-dong Heliport",
+    "icao": "KR-0226",
+    "lat": 34.851535,
+    "lon": 128.413149
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Myeongpa-ri",
+    "name": "Myeongpa-ri East Helipad",
+    "icao": "KR-0175",
+    "lat": 38.553256,
+    "lon": 128.399588
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Naban (Junction City)",
+    "name": "Junction City Heliport (C-521)",
+    "icao": "RK4M",
+    "lat": 36.850262,
+    "lon": 127.224558
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Naepâ€™yÅng-ni",
+    "name": "Naepâ€™yÅng-ni Helipad",
+    "icao": "KR-0101",
+    "lat": 37.250692,
+    "lon": 126.447441
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Namhyeon-dong",
+    "name": "ROK Army Capital Defense Command Heliport (C-277)",
+    "icao": "KR-0040",
+    "lat": 37.462462,
+    "lon": 126.984004
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Namsan-ri",
+    "name": "Namsan-ri Helipad",
+    "icao": "KR-0615",
+    "lat": 36.010232,
+    "lon": 128.642659
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Namyang",
+    "name": "Hyundai-Kia Automotive Group Namyang R&D Center Helipads",
+    "icao": "KR-0102",
+    "lat": 37.152711,
+    "lon": 126.815416
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Neulno-ri",
+    "name": "H 173A Heliport",
+    "icao": "RK0A",
+    "lat": 37.911791,
+    "lon": 126.878977
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Neulno-ri",
+    "name": "2/38th INF US Army Heliport",
+    "icao": "KR-0551",
+    "lat": 37.920332,
+    "lon": 126.858675
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Nodong-ri",
+    "name": "Gyebangsan Helipad",
+    "icao": "KR-0589",
+    "lat": 37.728296,
+    "lon": 128.465511
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Nogok-ri",
+    "name": "Nogok-ri Airfield (G-130)",
+    "icao": "RK6X",
+    "lat": 37.993567,
+    "lon": 126.919169
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Noinbong",
+    "name": "Whang Ryeong Helipad",
+    "icao": "RKNF",
+    "lat": 37.780276,
+    "lon": 128.639552
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Odu Mountain",
+    "name": "Odu Mountain Unification Observatory Helipad",
+    "icao": "KR-0130",
+    "lat": 37.773212,
+    "lon": 126.68008
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Odu Mountain",
+    "name": "Odu Mountain Unification Observatory Helipad",
+    "icao": "KR-0132",
+    "lat": 37.773212,
+    "lon": 126.68008
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Ojeon-ri",
+    "name": "C 288 Heliport",
+    "icao": "RK7D",
+    "lat": 37.451284,
+    "lon": 127.243081
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Okchuk-tong",
+    "name": "Okchuk-tong Heliport",
+    "icao": "KR-0047",
+    "lat": 37.843934,
+    "lon": 124.705631
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Paekado (Ul-do)",
+    "name": "Paekado Helipad",
+    "icao": "RKTB",
+    "lat": 37.025726,
+    "lon": 125.997423
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Piseo-ri (Muan)",
+    "name": "Muan International Airport",
+    "icao": "RKJB",
+    "lat": 34.991406,
+    "lon": 126.382814
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Pocheon-ro",
+    "name": "C-283 Heliport",
+    "icao": "RKC6",
+    "lat": 37.930347,
+    "lon": 127.190557
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Port Hamilton",
+    "name": "N 305 Helipad",
+    "icao": "RK8T",
+    "lat": 34.028933,
+    "lon": 127.304587
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Poseung",
+    "name": "N 201 Helipad",
+    "icao": "RK9P",
+    "lat": 36.990951,
+    "lon": 126.80819
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Pungsan-ri",
+    "name": "Pungsan-ri East Helipad",
+    "icao": "KR-0151",
+    "lat": 38.273386,
+    "lon": 127.81451
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Pungsan-ri",
+    "name": "Pungsan-ri South Helipad South Helipad",
+    "icao": "KR-0205",
+    "lat": 38.247116,
+    "lon": 127.785713
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Pyeongam-ri",
+    "name": "Pyeongam-ri Heliport",
+    "icao": "KR-0627",
+    "lat": 35.16916,
+    "lon": 128.419613
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Reno Hills",
+    "name": "C 504 Heliport",
+    "icao": "RK4A",
+    "lat": 36.5347222222,
+    "lon": 126.618055556
+  },
+  {
+    "country": "South Korea",
+    "state": "Daejeon Gwang'yeogsi",
+    "city": "Richmond Site",
+    "name": "H 502 Heliport",
+    "icao": "RK96",
+    "lat": 36.3016,
+    "lon": 127.4798
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "ROK 12th Division",
+    "name": "C 428 Heliport",
+    "icao": "RK3V",
+    "lat": 38.115545,
+    "lon": 128.195461
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "ROK 30th Division",
+    "name": "C 151 Heliport",
+    "icao": "RK1T",
+    "lat": 37.612034,
+    "lon": 126.874189
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Sabuk-ri",
+    "name": "Sabuk-ri Heliport",
+    "icao": "KR-0597",
+    "lat": 37.218616,
+    "lon": 128.822417
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Sacheon-ri",
+    "name": "Sacheon-ri Helipad",
+    "icao": "KR-0164",
+    "lat": 38.418166,
+    "lon": 128.311373
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Saemaeul-ro",
+    "name": "C 201 Heliport",
+    "icao": "RK6W",
+    "lat": 37.392468,
+    "lon": 127.151492
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Sagot-ro, Paengnyongdo",
+    "name": "Paengnyongdo Beach Airfield (Sagot Beach Airfield) (K-53)",
+    "icao": "KR-0025",
+    "lat": 37.947311,
+    "lon": 124.715424
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongbugdo",
+    "city": "Sajeong-ri",
+    "name": "Cheongwon Rest Area Heliport",
+    "icao": "KR-0636",
+    "lat": 36.716587,
+    "lon": 127.347062
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Salem Top",
+    "name": "H 608 Heliport",
+    "icao": "RK98",
+    "lat": 36.093005,
+    "lon": 128.299595
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Salgoji",
+    "name": "Salgoji Heliport",
+    "icao": "KR-0103",
+    "lat": 37.15602,
+    "lon": 126.651909
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Samcheok",
+    "name": "Samcheok Airfield",
+    "icao": "RKNS",
+    "lat": 37.454301,
+    "lon": 129.14551
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Samcheok",
+    "name": "Gyogoki Heliport",
+    "icao": "KR-0494",
+    "lat": 37.358844,
+    "lon": 129.179476
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongbugdo",
+    "city": "Sanae-ri",
+    "name": "C 527 Heliport",
+    "icao": "RK4O",
+    "lat": 36.526907,
+    "lon": 127.857811
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Sangjul-dong",
+    "name": "Yeongju Emergency Runway Airfield",
+    "icao": "KR-0611",
+    "lat": 36.837592,
+    "lon": 128.579607
+  },
+  {
+    "country": "South Korea",
+    "state": "Jeonranamdo",
+    "city": "Sangtae-do",
+    "name": "N 316 Helipad",
+    "icao": "RK9C",
+    "lat": 34.39441,
+    "lon": 125.299115
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Sangwolcheon-ri",
+    "name": "Sangwolcheon-ri Heliport",
+    "icao": "KR-0583",
+    "lat": 37.933425,
+    "lon": 128.697561
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Sangwon-ri",
+    "name": "Sangwon-ri West Helipad",
+    "icao": "KR-0183",
+    "lat": 38.399958,
+    "lon": 128.286519
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Sannam-ro",
+    "name": "Sannam-ro Helipads",
+    "icao": "KR-0133",
+    "lat": 37.705409,
+    "lon": 126.696686
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Satae-ri",
+    "name": "Heartbreak Ridge South Helipad",
+    "icao": "KR-0154",
+    "lat": 38.295924,
+    "lon": 128.013562
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Sejong",
+    "name": "G 532 Airport",
+    "icao": "RK51",
+    "lat": 36.541607,
+    "lon": 127.285833
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Seogeom-ri, Seogeomdo",
+    "name": "N 217 Helipad",
+    "icao": "RK9Z",
+    "lat": 37.73158,
+    "lon": 126.233291
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Seogwipo",
+    "name": "Seogwipo Heliport",
+    "icao": "KR-0020",
+    "lat": 33.238636,
+    "lon": 126.567154
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Seoheung-ri",
+    "name": "Seoheung-ri Helipad",
+    "icao": "KR-0188",
+    "lat": 38.200359,
+    "lon": 128.210699
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Seoksil-ro",
+    "name": "Deog So Heliport (G-290)",
+    "icao": "RKRD",
+    "lat": 37.607721,
+    "lon": 127.220521
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Seongjo-ro",
+    "name": "C-254 Heliport",
+    "icao": "RK75",
+    "lat": 38.022795,
+    "lon": 127.353601
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Seonyusil-ri",
+    "name": "Seonyusil-ri Helipad",
+    "icao": "KR-0576",
+    "lat": 38.316143,
+    "lon": 128.433781
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Kyunghee Medical Medical Hospital Heliport",
+    "icao": "KR-0117",
+    "lat": 37.5936,
+    "lon": 127.051496
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Poonglim Want North Helipad",
+    "icao": "KR-0122",
+    "lat": 37.389569,
+    "lon": 127.122549
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Poonglim Want South Helipad",
+    "icao": "KR-0124",
+    "lat": 37.388589,
+    "lon": 127.12239
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "State Tower Building Heliport",
+    "icao": "KR-0640",
+    "lat": 37.560458,
+    "lon": 126.9829
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Woori Bank Building Heliport",
+    "icao": "KR-0642",
+    "lat": 37.559422,
+    "lon": 126.981646
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Mesa Family Fashion Mall Heliport",
+    "icao": "KR-0644",
+    "lat": 37.560455,
+    "lon": 126.979605
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Bank of Korea Building Heliport",
+    "icao": "KR-0646",
+    "lat": 37.562709,
+    "lon": 126.979824
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte Insurance Building Heliport",
+    "icao": "KR-0648",
+    "lat": 37.559548,
+    "lon": 126.976208
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Samsung Life Insurance Building Heliport",
+    "icao": "KR-0650",
+    "lat": 37.561848,
+    "lon": 126.974892
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seoul City Hall Heliport",
+    "icao": "KR-0652",
+    "lat": 37.563121,
+    "lon": 126.975926
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Brown Suites Hotel Heliports",
+    "icao": "KR-0655",
+    "lat": 37.560866,
+    "lon": 126.96834
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "HSBC Building Heliport",
+    "icao": "KR-0657",
+    "lat": 37.560197,
+    "lon": 126.973013
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Joongang Daily Building Heliport",
+    "icao": "KR-0660",
+    "lat": 37.561657,
+    "lon": 126.970834
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Korea Chamber of Commerce and Industry Heliport",
+    "icao": "KR-0662",
+    "lat": 37.561161,
+    "lon": 126.973288
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Korea Express Building Heliport",
+    "icao": "KR-0664",
+    "lat": 37.561576,
+    "lon": 126.972961
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Korea Economic Daily Heliport",
+    "icao": "KR-0667",
+    "lat": 37.560251,
+    "lon": 126.967193
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Ace Tower Heliport",
+    "icao": "KR-0669",
+    "lat": 37.563817,
+    "lon": 126.969252
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Chong Kun Dong Building Heliport",
+    "icao": "KR-0671",
+    "lat": 37.559812,
+    "lon": 126.963402
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "SK Namsan Building Heliport",
+    "icao": "KR-0673",
+    "lat": 37.556739,
+    "lon": 126.975893
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seoul City Tower Heliport",
+    "icao": "KR-0675",
+    "lat": 37.554498,
+    "lon": 126.97409
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "T Tower Heliport",
+    "icao": "KR-0677",
+    "lat": 37.554245,
+    "lon": 126.975612
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Gateway Tower Heliport",
+    "icao": "KR-0679",
+    "lat": 37.553762,
+    "lon": 126.973557
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Yongsan Park Xi Apartments Heliports",
+    "icao": "KR-0681",
+    "lat": 37.536872,
+    "lon": 126.972545
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Hangang-ro Byucksan Megatrium 2005 Condominiums Heliports",
+    "icao": "KR-0683",
+    "lat": 37.53248,
+    "lon": 126.970172
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Yongsan City Apartments Heliports",
+    "icao": "KR-0685",
+    "lat": 37.526228,
+    "lon": 126.97022
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daewoo Trump World III Heliports",
+    "icao": "KR-0687",
+    "lat": 37.523131,
+    "lon": 126.962739
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Mapo Employment Center Heliport",
+    "icao": "KR-0689",
+    "lat": 37.542388,
+    "lon": 126.947809
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Masters Tower Apartments Heliport",
+    "icao": "KR-0691",
+    "lat": 37.543028,
+    "lon": 126.949351
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Jongam-dong Heliport",
+    "icao": "KR-0694",
+    "lat": 37.600592,
+    "lon": 127.026911
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Mecenatpolis Heliport",
+    "icao": "KR-0698",
+    "lat": 37.550669,
+    "lon": 126.913439
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "LIG Seoul Heliport",
+    "icao": "KR-0700",
+    "lat": 37.549448,
+    "lon": 126.911132
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "KODIT Heliport",
+    "icao": "KR-0702",
+    "lat": 37.545514,
+    "lon": 126.952853
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seoul Medicare Heliport",
+    "icao": "KR-0704",
+    "lat": 37.548059,
+    "lon": 126.954398
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "SK Hub Blue Apartments Heliport",
+    "icao": "KR-0706",
+    "lat": 37.552159,
+    "lon": 126.956571
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Yonsei University Severance Hospital Heliport",
+    "icao": "KR-0708",
+    "lat": 37.562254,
+    "lon": 126.940772
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "SBS Prism Contents Hub Heliport",
+    "icao": "KR-0710",
+    "lat": 37.579721,
+    "lon": 126.892897
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "CJ E&M Building Heliport",
+    "icao": "KR-0712",
+    "lat": 37.578456,
+    "lon": 126.891333
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Digital Media City Sungam Branch Building Heliport",
+    "icao": "KR-0714",
+    "lat": 37.579591,
+    "lon": 126.889602
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "S-Plex Center Heliport",
+    "icao": "KR-0717",
+    "lat": 37.575911,
+    "lon": 126.890078
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seoul World Cup Stadium Heliport",
+    "icao": "KR-0719",
+    "lat": 37.567833,
+    "lon": 126.894751
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Centre Pointe Building Heliport",
+    "icao": "KR-0721",
+    "lat": 37.573333,
+    "lon": 126.974275
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Gyeonghuiguigung Condominiums Heliports",
+    "icao": "KR-0723",
+    "lat": 37.574275,
+    "lon": 126.971202
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "ROK Government Complex Heliport",
+    "icao": "KR-0725",
+    "lat": 37.575095,
+    "lon": 126.975158
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Kyobo Building Heliport",
+    "icao": "KR-0727",
+    "lat": 37.570875,
+    "lon": 126.977829
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Officia Building Heliport",
+    "icao": "KR-0729",
+    "lat": 37.569952,
+    "lon": 126.974911
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Dong-A Ilbo Building Heliport",
+    "icao": "KR-0731",
+    "lat": 37.569706,
+    "lon": 126.977745
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Yeongpoong Building Heliport",
+    "icao": "KR-0733",
+    "lat": 37.56984,
+    "lon": 126.982184
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Yeongpoong Building Heliport",
+    "icao": "KR-0735",
+    "lat": 37.56984,
+    "lon": 126.982184
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "K Twin Towers Heliports",
+    "icao": "KR-0737",
+    "lat": 37.574768,
+    "lon": 126.978951
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Leema Building Heliport",
+    "icao": "KR-0739",
+    "lat": 37.574017,
+    "lon": 126.978991
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Le Meilleur Jongno Town Apartments Heliport",
+    "icao": "KR-0741",
+    "lat": 37.570902,
+    "lon": 126.979891
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Gran Seoul Office Tower Heliport",
+    "icao": "KR-0743",
+    "lat": 37.57099,
+    "lon": 126.981582
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Jong-ro Tower Heliport",
+    "icao": "KR-0745",
+    "lat": 37.571109,
+    "lon": 126.98374
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Koreana Hotel Heliport",
+    "icao": "KR-0747",
+    "lat": 37.568468,
+    "lon": 126.976598
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Hanmi Building Heliport",
+    "icao": "KR-0749",
+    "lat": 37.56874,
+    "lon": 126.98012
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "LG Dadong Building Heliport",
+    "icao": "KR-0751",
+    "lat": 37.568554,
+    "lon": 126.982251
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Kolon Building Heliport",
+    "icao": "KR-0753",
+    "lat": 37.567873,
+    "lon": 126.978747
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "President Hotel Heliport",
+    "icao": "KR-0755",
+    "lat": 37.565753,
+    "lon": 126.979464
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte Hotel Seoul Heliports",
+    "icao": "KR-0757",
+    "lat": 37.565565,
+    "lon": 126.980579
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte Department Store Avenuel Heliport",
+    "icao": "KR-0759",
+    "lat": 37.564242,
+    "lon": 126.981694
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Plaza Hotel Seoul Heliport",
+    "icao": "KR-0761",
+    "lat": 37.564735,
+    "lon": 126.978406
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Ferrum Tower Heliport",
+    "icao": "KR-0763",
+    "lat": 37.567342,
+    "lon": 126.984078
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Mirae Asset Center 1 Heliport",
+    "icao": "KR-0765",
+    "lat": 37.5676,
+    "lon": 126.984835
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Hanhwa Corporation Heliport",
+    "icao": "KR-0768",
+    "lat": 37.567788,
+    "lon": 126.986479
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Industrial Bank of Korea Heliport",
+    "icao": "KR-0770",
+    "lat": 37.566642,
+    "lon": 126.986239
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte E&C Apartment Building Heliport",
+    "icao": "KR-0772",
+    "lat": 37.566743,
+    "lon": 126.988058
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Signature Towers Heliports",
+    "icao": "KR-0774",
+    "lat": 37.567661,
+    "lon": 126.988193
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Industrial Bank of Korea Heliport",
+    "icao": "KR-0776",
+    "lat": 37.566115,
+    "lon": 126.986968
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Dongbu Fire Building Heliport",
+    "icao": "KR-0778",
+    "lat": 37.564827,
+    "lon": 126.991825
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Namsan Central Xii Apartments Heliports",
+    "icao": "KR-0780",
+    "lat": 37.562656,
+    "lon": 126.99756
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "CJ Food World Heliport",
+    "icao": "KR-0782",
+    "lat": 37.564081,
+    "lon": 127.003141
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Freya Tower Heliport",
+    "icao": "KR-0784",
+    "lat": 37.568933,
+    "lon": 127.007908
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte Castle Cheonjin Apartments Heliports",
+    "icao": "KR-0786",
+    "lat": 37.573803,
+    "lon": 127.016094
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Acro Square Apartments Heliport",
+    "icao": "KR-0788",
+    "lat": 37.566064,
+    "lon": 127.021552
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Evergreen Tower Heliport",
+    "icao": "KR-0791",
+    "lat": 37.542691,
+    "lon": 127.101502
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Prime Center Heliport",
+    "icao": "KR-0793",
+    "lat": 37.535541,
+    "lon": 127.096426
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Sharp Star City Apartment Complex Heliports",
+    "icao": "KR-0795",
+    "lat": 37.53855,
+    "lon": 127.072265
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Samsung Trapalace Apartment Complex Heliport",
+    "icao": "KR-0797",
+    "lat": 37.531884,
+    "lon": 127.068291
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seoul Forest Kolon Digital Tower Heliport",
+    "icao": "KR-0799",
+    "lat": 37.542737,
+    "lon": 127.052196
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Academy Tower Heliport",
+    "icao": "KR-0801",
+    "lat": 37.545355,
+    "lon": 127.057828
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daewoo Han River Benesse Apartments Heliport",
+    "icao": "KR-0803",
+    "lat": 37.540713,
+    "lon": 127.12574
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Familie Apartments Heliports",
+    "icao": "KR-0805",
+    "lat": 37.5372,
+    "lon": 127.134618
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Jamsil Shop Star Park Apartments Heliports",
+    "icao": "KR-0807",
+    "lat": 37.516972,
+    "lon": 127.102008
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Hanbat Plaza Heliport",
+    "icao": "KR-0809",
+    "lat": 37.515498,
+    "lon": 127.099855
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte Castle Apartments Heliports",
+    "icao": "KR-0811",
+    "lat": 37.515047,
+    "lon": 127.101109
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Luther Center Heliport",
+    "icao": "KR-0813",
+    "lat": 37.51552,
+    "lon": 127.103166
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte Hotel World Heliport",
+    "icao": "KR-0815",
+    "lat": 37.511775,
+    "lon": 127.100768
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Star River Apartments Heliport",
+    "icao": "KR-0817",
+    "lat": 37.517923,
+    "lon": 127.105334
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Galleria Palace Apartments Heliports",
+    "icao": "KR-0819",
+    "lat": 37.511185,
+    "lon": 127.094913
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Residencia Apartments Heliports",
+    "icao": "KR-0821",
+    "lat": 37.518589,
+    "lon": 126.93931
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Brown Stone Apartments Heliport",
+    "icao": "KR-0823",
+    "lat": 37.519658,
+    "lon": 126.938644
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daewoo Trump World I Heliports",
+    "icao": "KR-0825",
+    "lat": 37.517785,
+    "lon": 126.931964
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Alianz Life Marketing Building Heliport",
+    "icao": "KR-0827",
+    "lat": 37.518997,
+    "lon": 126.927739
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte Castle Empire Apartments Heliports",
+    "icao": "KR-0829",
+    "lat": 37.520261,
+    "lon": 126.926596
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Kookmin Bank HQ Heliport",
+    "icao": "KR-0831",
+    "lat": 37.521006,
+    "lon": 126.92781
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Korea Stock Exchange (KRX) Heliport",
+    "icao": "KR-0833",
+    "lat": 37.522623,
+    "lon": 126.927569
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Mirae Asset Daewoo Yeouido Heliport",
+    "icao": "KR-0835",
+    "lat": 37.522455,
+    "lon": 126.929759
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Miwon Building Heliport",
+    "icao": "KR-0837",
+    "lat": 37.521583,
+    "lon": 126.930719
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Trenue Building Heliport",
+    "icao": "KR-0839",
+    "lat": 37.523148,
+    "lon": 126.924015
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Hanhwa Investment & Securities Heliport",
+    "icao": "KR-0841",
+    "lat": 37.523504,
+    "lon": 126.923427
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "HMC Building Heliport",
+    "icao": "KR-0843",
+    "lat": 37.523957,
+    "lon": 126.924129
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "KMI Building Heliport",
+    "icao": "KR-0845",
+    "lat": 37.524411,
+    "lon": 126.924787
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Shinhan Investement Corporation Heliport",
+    "icao": "KR-0847",
+    "lat": 37.525183,
+    "lon": 126.924174
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "NH Securities & Investment HQ Heliport",
+    "icao": "KR-0849",
+    "lat": 37.524368,
+    "lon": 126.923301
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Financial Supervisory Service Heliport",
+    "icao": "KR-0851",
+    "lat": 37.523237,
+    "lon": 126.921245
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Industrial Bank of Korea Heliport",
+    "icao": "KR-0853",
+    "lat": 37.522159,
+    "lon": 126.922155
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Korea Telecommunications (KT) Building Heliport",
+    "icao": "KR-0855",
+    "lat": 37.521923,
+    "lon": 126.919062
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Korea Broadcasting System (KBS) Heliport",
+    "icao": "KR-0857",
+    "lat": 37.524159,
+    "lon": 126.916573
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "LG Twin Towers Heliports",
+    "icao": "KR-0859",
+    "lat": 37.52807,
+    "lon": 126.928678
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Times Square Heliport",
+    "icao": "KR-0861",
+    "lat": 37.517573,
+    "lon": 126.902626
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Ahyitieseu Engineering Heliport",
+    "icao": "KR-0863",
+    "lat": 37.514465,
+    "lon": 126.898641
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte Tower Heliport",
+    "icao": "KR-0865",
+    "lat": 37.537474,
+    "lon": 126.892669
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Boo Young II Apartment Heliport",
+    "icao": "KR-0867",
+    "lat": 37.536652,
+    "lon": 126.880968
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seonyu IS Biz Tower Heliport",
+    "icao": "KR-0869",
+    "lat": 37.536221,
+    "lon": 126.891843
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Tangshan SKV1 Center Heliports",
+    "icao": "KR-0871",
+    "lat": 37.530808,
+    "lon": 126.898693
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Hyundai 41 Tower Heliport",
+    "icao": "KR-0873",
+    "lat": 37.528266,
+    "lon": 126.875566
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "SBS Broadcasting Centre Heliport",
+    "icao": "KR-0875",
+    "lat": 37.529116,
+    "lon": 126.873329
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seoul Mobile Communication Building Heliport",
+    "icao": "KR-0877",
+    "lat": 37.527844,
+    "lon": 126.871727
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Korea Broadcasters Center Heliport",
+    "icao": "KR-0879",
+    "lat": 37.5272,
+    "lon": 126.871413
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Mokdong Hyperion 2nd Apartments Heliports",
+    "icao": "KR-0881",
+    "lat": 37.524952,
+    "lon": 126.870707
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Mokdong Samsung Cherville 2nd Apartments Heliports",
+    "icao": "KR-0883",
+    "lat": 37.521525,
+    "lon": 126.870348
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Mokdong Isabella Apartments Heliport",
+    "icao": "KR-0885",
+    "lat": 37.516164,
+    "lon": 126.862504
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "West Finance Center Heliport",
+    "icao": "KR-0887",
+    "lat": 37.507924,
+    "lon": 126.890202
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Parkville Apartments Heliport",
+    "icao": "KR-0889",
+    "lat": 37.500545,
+    "lon": 126.889823
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "7 Springs Building Heliport",
+    "icao": "KR-0891",
+    "lat": 37.48539,
+    "lon": 126.894901
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Woorim Ebiz Center 2nd Heliport",
+    "icao": "KR-0893",
+    "lat": 37.48674,
+    "lon": 126.895891
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daeryung Post Tower 7th Heliport",
+    "icao": "KR-0895",
+    "lat": 37.4873,
+    "lon": 126.894422
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Kolon Science Valley 2nd Heliport",
+    "icao": "KR-0897",
+    "lat": 37.484428,
+    "lon": 126.899192
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seoul Industry Information Education Center Heliport",
+    "icao": "KR-0899",
+    "lat": 37.483458,
+    "lon": 126.896467
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Ace Techno Tower Heliport",
+    "icao": "KR-0901",
+    "lat": 37.482319,
+    "lon": 126.89504
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Ace High-End Tower Heliport",
+    "icao": "KR-0903",
+    "lat": 37.481454,
+    "lon": 126.893173
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daeryung Post Tower 6th Heliport",
+    "icao": "KR-0905",
+    "lat": 37.48165,
+    "lon": 126.883703
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Leaders Tower Heliport",
+    "icao": "KR-0907",
+    "lat": 37.480451,
+    "lon": 126.884263
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "ENC Dream Tower 7 Heliports",
+    "icao": "KR-0909",
+    "lat": 37.479494,
+    "lon": 126.887648
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "World Meridian Venture Center 1st Heliport",
+    "icao": "KR-0911",
+    "lat": 37.477938,
+    "lon": 126.885644
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Ace High-End Tower 6 Heliport",
+    "icao": "KR-0913",
+    "lat": 37.476173,
+    "lon": 126.886198
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Byeoksan Digital Valley 2nd Heliport",
+    "icao": "KR-0915",
+    "lat": 37.484508,
+    "lon": 126.878047
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Kolon Digital Tower Aston Heliport",
+    "icao": "KR-0917",
+    "lat": 37.48452,
+    "lon": 126.880602
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Halla Sigma Valley Heliport",
+    "icao": "KR-0919",
+    "lat": 37.472894,
+    "lon": 126.88116
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daerung 12th Techno Town Heliport",
+    "icao": "KR-0921",
+    "lat": 37.469519,
+    "lon": 126.884334
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Duck Sung M & P Building Heliport",
+    "icao": "KR-0923",
+    "lat": 37.467744,
+    "lon": 126.886516
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daeryung Post Tower 17th Heliport",
+    "icao": "KR-0925",
+    "lat": 37.468808,
+    "lon": 126.887503
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Namsung Plaza Heliport",
+    "icao": "KR-0927",
+    "lat": 37.475566,
+    "lon": 126.881924
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "BYC High City Heliport",
+    "icao": "KR-0929",
+    "lat": 37.477155,
+    "lon": 126.881911
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "IT Castle 2nd Heliport",
+    "icao": "KR-0931",
+    "lat": 37.477572,
+    "lon": 126.882254
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Ace High-End Tower 3 Heliport",
+    "icao": "KR-0933",
+    "lat": 37.478093,
+    "lon": 126.881395
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lions Outlet Heliport",
+    "icao": "KR-0935",
+    "lat": 37.4807,
+    "lon": 126.882166
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Sammo Tower Heliport",
+    "icao": "KR-0937",
+    "lat": 37.482586,
+    "lon": 126.928776
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Lotte Kwanuk Department Store Heliport",
+    "icao": "KR-0939",
+    "lat": 37.490867,
+    "lon": 126.924968
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Boramae Samsung Chereville Heliport",
+    "icao": "KR-0941",
+    "lat": 37.491694,
+    "lon": 126.923229
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Haitai Boramae Tower Heliport",
+    "icao": "KR-0943",
+    "lat": 37.491345,
+    "lon": 126.924801
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Character Greenville Apartments Heliport",
+    "icao": "KR-0945",
+    "lat": 37.49191,
+    "lon": 126.925167
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Professional Construction Mutual Aid Association Heliport",
+    "icao": "KR-0947",
+    "lat": 37.492441,
+    "lon": 126.924298
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Samsung Omni Tower Heliport",
+    "icao": "KR-0949",
+    "lat": 37.492831,
+    "lon": 126.92354
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Sungwon Sangtaeville Apartments Heliports",
+    "icao": "KR-0951",
+    "lat": 37.487729,
+    "lon": 126.905989
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Trust Tower Heliport",
+    "icao": "KR-0953",
+    "lat": 37.477358,
+    "lon": 127.043779
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Vision 21 Heliport",
+    "icao": "KR-0955",
+    "lat": 37.48755,
+    "lon": 127.051535
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daelim Acrobil Condominiums Heliports",
+    "icao": "KR-0957",
+    "lat": 37.488482,
+    "lon": 127.050705
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Military Aid Association Heliport",
+    "icao": "KR-0959",
+    "lat": 37.48944,
+    "lon": 127.052907
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Samsung Tower Palace Apartments 1 Heliports",
+    "icao": "KR-0961",
+    "lat": 37.48814,
+    "lon": 127.054339
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "SK Leaders View Heliport",
+    "icao": "KR-0963",
+    "lat": 37.488549,
+    "lon": 127.048704
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "JW Marriott Hotel Seoul Heliport",
+    "icao": "KR-0965",
+    "lat": 37.50425,
+    "lon": 127.004665
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Raemian Firstige Apartments Heliports",
+    "icao": "KR-0967",
+    "lat": 37.502815,
+    "lon": 127.001996
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Acrovista Building Heliport",
+    "icao": "KR-0969",
+    "lat": 37.499161,
+    "lon": 127.012965
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seoul High Court & Seoul Central District Court Heliport",
+    "icao": "KR-0971",
+    "lat": 37.496336,
+    "lon": 127.011901
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seoul Central District Prosecutorsâ€™ Office Heliport",
+    "icao": "KR-0973",
+    "lat": 37.495092,
+    "lon": 127.007779
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Seocho Woosung 5th Apartments Heliports",
+    "icao": "KR-0975",
+    "lat": 37.494875,
+    "lon": 127.026723
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Samsung Engineering Research Institute Heliport",
+    "icao": "KR-0977",
+    "lat": 37.496234,
+    "lon": 127.026338
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Platinum Tower Heliport",
+    "icao": "KR-0979",
+    "lat": 37.496944,
+    "lon": 127.02498
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Samsung Town Heliport",
+    "icao": "KR-0981",
+    "lat": 37.497142,
+    "lon": 127.02697
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Hyundai Sungwoo Apartments Heliport",
+    "icao": "KR-0983",
+    "lat": 37.498386,
+    "lon": 127.024359
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Meritz Tower Heliport",
+    "icao": "KR-0985",
+    "lat": 37.497421,
+    "lon": 127.028558
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Samsung Electronics Seocho Building Heliport",
+    "icao": "KR-0987",
+    "lat": 37.491014,
+    "lon": 127.0301
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Tower 837 Building Heliport",
+    "icao": "KR-0989",
+    "lat": 37.491149,
+    "lon": 127.031478
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Prudential Tower Heliport",
+    "icao": "KR-0991",
+    "lat": 37.490173,
+    "lon": 127.031932
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daewoo The-Oâ€™Ville Heliport",
+    "icao": "KR-0993",
+    "lat": 37.497776,
+    "lon": 127.031205
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Handok Remedia Building Heliport",
+    "icao": "KR-0995",
+    "lat": 37.499519,
+    "lon": 127.033327
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Samsung Heavy Industries, Yeoksam Building Heliport",
+    "icao": "KR-0997",
+    "lat": 37.500234,
+    "lon": 127.032844
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Capital Tower Heliport",
+    "icao": "KR-0999",
+    "lat": 37.499981,
+    "lon": 127.035229
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Asea Tower Heliport",
+    "icao": "KR-1001",
+    "lat": 37.499128,
+    "lon": 127.03836
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "GS Gangnam Tower Heliport",
+    "icao": "KR-1003",
+    "lat": 37.502277,
+    "lon": 127.037376
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Sambu Building Heliport",
+    "icao": "KR-1005",
+    "lat": 37.503952,
+    "lon": 127.041729
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Yeoksan The Oville Heliport",
+    "icao": "KR-1007",
+    "lat": 37.501676,
+    "lon": 127.042819
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Gangnam Jaeil Building Heliport",
+    "icao": "KR-1009",
+    "lat": 37.503701,
+    "lon": 127.044441
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Hanshin Intervalley 24 Heliports",
+    "icao": "KR-1011",
+    "lat": 37.503326,
+    "lon": 127.046448
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Union Steel Building Heliport",
+    "icao": "KR-1013",
+    "lat": 37.504949,
+    "lon": 127.051272
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Daewoo I-Ville Heliport",
+    "icao": "KR-1015",
+    "lat": 37.505841,
+    "lon": 127.054237
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Dongbu Financial Center Heliport",
+    "icao": "KR-1017",
+    "lat": 37.506131,
+    "lon": 127.054697
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Posco Center, West Tower Heliport",
+    "icao": "KR-1019",
+    "lat": 37.506162,
+    "lon": 127.055721
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Haesung 2 Building Heliport",
+    "icao": "KR-1021",
+    "lat": 37.506781,
+    "lon": 127.058035
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Textile Center Heliport",
+    "icao": "KR-1023",
+    "lat": 37.507653,
+    "lon": 127.060675
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Grand InterContintental Seoul Parnas Heliport",
+    "icao": "KR-1025",
+    "lat": 37.509058,
+    "lon": 127.060908
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Trade Center Heliport",
+    "icao": "KR-1027",
+    "lat": 37.510528,
+    "lon": 127.061171
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Hotel Oakwood Premier Heliport",
+    "icao": "KR-1029",
+    "lat": 37.511105,
+    "lon": 127.058288
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "ASEM Tower Heliport",
+    "icao": "KR-1031",
+    "lat": 37.513124,
+    "lon": 127.060107
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "KEPCO HQ Heliport",
+    "icao": "KR-1033",
+    "lat": 37.512307,
+    "lon": 127.062407
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Jamsil Heliport",
+    "icao": "KR-1035",
+    "lat": 37.519276,
+    "lon": 127.072611
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Woolim Blue Nine Heliports",
+    "icao": "KR-1037",
+    "lat": 37.557177,
+    "lon": 126.864106
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "S Tower Heliport",
+    "icao": "KR-1039",
+    "lat": 37.569928,
+    "lon": 126.974113
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul",
+    "name": "Heungkuk Life Building Heliport",
+    "icao": "KR-1041",
+    "lat": 37.569855,
+    "lon": 126.971998
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Seoul (Mapo)",
+    "name": "JTBC Building Heliport",
+    "icao": "KR-0715",
+    "lat": 37.577162,
+    "lon": 126.889999
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Sincheorueon-ri",
+    "name": "Sincheorueon-ri North Helipad",
+    "icao": "KR-0533",
+    "lat": 38.130707,
+    "lon": 127.30907
+  },
+  {
+    "country": "South Korea",
+    "state": "(unassigned)",
+    "city": "Sinjae-ro",
+    "name": "G-603 Heliport",
+    "icao": "KR-0612",
+    "lat": 36.835617,
+    "lon": 128.592702
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Sinsul",
+    "name": "C 316 Heliport",
+    "icao": "RK3D",
+    "lat": 38.168958,
+    "lon": 127.431938
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Sinyangseo-gil (Ha-Chuja Island)",
+    "name": "N 325 Helipad",
+    "icao": "RK9K",
+    "lat": 33.939677,
+    "lon": 126.322973
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Socheong Island",
+    "name": "N 209 Helipad",
+    "icao": "RK9X",
+    "lat": 37.769224,
+    "lon": 124.756531
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Sohwang",
+    "name": "Woong Cheon Heliport",
+    "icao": "RKTW",
+    "lat": 36.219321,
+    "lon": 126.54962
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Soksa-ri",
+    "name": "ROK Air Force Education & Training Heliport",
+    "icao": "KR-0623",
+    "lat": 35.190489,
+    "lon": 128.149558
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Songgang-ri",
+    "name": "Songgang-ri Helipad",
+    "icao": "KR-0166",
+    "lat": 38.425887,
+    "lon": 128.342368
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Songgang-ri",
+    "name": "Songgang-ri North Helipad",
+    "icao": "KR-0168",
+    "lat": 38.43367,
+    "lon": 128.35271
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Songhyeon-ri",
+    "name": "Songhyeon-ri South Helipad",
+    "icao": "KR-0179",
+    "lat": 38.558955,
+    "lon": 128.347938
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Songjeong",
+    "name": "Songjeong-ri Heliport",
+    "icao": "KR-0386",
+    "lat": 35.298031,
+    "lon": 129.136962
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Sopungjeung",
+    "name": "C-422 Heliport",
+    "icao": "RK3R",
+    "lat": 38.226108,
+    "lon": 127.951895
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Soran",
+    "name": "C-514 Heliport",
+    "icao": "RK4F",
+    "lat": 36.767711,
+    "lon": 126.292512
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Soya-ri",
+    "name": "Soya-ri Heliport (ì†Œì•¼ë¦¬ í—¬ê¸°ìž¥)",
+    "icao": "KR-0097",
+    "lat": 37.212622,
+    "lon": 126.181589
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Soyo-dong",
+    "name": "H 252 Heliport",
+    "icao": "RKQ1",
+    "lat": 37.928202,
+    "lon": 127.063657
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Sucheol-ri",
+    "name": "Sucheol-ri Heliport",
+    "icao": "KR-0610",
+    "lat": 36.899608,
+    "lon": 128.437732
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Suin-ro, Maehwa-dong",
+    "name": "C 145 Heliport",
+    "icao": "RK6V",
+    "lat": 37.414733,
+    "lon": 126.826464
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Surihol-ro",
+    "name": "Surihol-ro Heliport",
+    "icao": "KR-0543",
+    "lat": 37.918985,
+    "lon": 126.880725
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Suseo-dong (Seoul)",
+    "name": "Rosedale Building North Helipad",
+    "icao": "KR-0119",
+    "lat": 37.487629,
+    "lon": 127.10338
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "TAC Site 34",
+    "name": "C 109 Heliport",
+    "icao": "RK1E",
+    "lat": 37.749109,
+    "lon": 126.929365
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongnamdo",
+    "city": "Taean",
+    "name": "Taean Airport",
+    "icao": "RKTA",
+    "lat": 36.59453,
+    "lon": 126.295803
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Taejanggongdan",
+    "name": "C-411 Heliport",
+    "icao": "RK3P",
+    "lat": 37.403692,
+    "lon": 127.95077
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "TaesÅ-ri, Sangchâ€™uja-do (Chujado Islands)",
+    "name": "TaesÅ-ri Heliport",
+    "icao": "KR-0019",
+    "lat": 33.965208,
+    "lon": 126.291626
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Tapdong-ri",
+    "name": "Tapdong-ri Heliport",
+    "icao": "KR-0574",
+    "lat": 38.349058,
+    "lon": 128.470593
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Tapyeol-ri",
+    "name": "Tapyeol-ri Helipad",
+    "icao": "KR-0170",
+    "lat": 38.399839,
+    "lon": 128.348492
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Tongilchon",
+    "name": "Warrior Base Heliport",
+    "icao": "KR-0056",
+    "lat": 37.917693,
+    "lon": 126.740094
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Topyonri",
+    "name": "C 265 Heliport",
+    "icao": "RK2Y",
+    "lat": 38.071136,
+    "lon": 127.351839
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Udo Island",
+    "name": "N 318 Helipad",
+    "icao": "RK9E",
+    "lat": 33.492923,
+    "lon": 126.962962
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Uijonbu",
+    "name": "Camp La Guardia Airfield",
+    "icao": "KR-0072",
+    "lat": 37.745175,
+    "lon": 127.043425
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Ulleung-do Island",
+    "name": "N 104 Helipad",
+    "icao": "RKDU",
+    "lat": 37.4791666666999,
+    "lon": 130.895555556
+  },
+  {
+    "country": "South Korea",
+    "state": "Ulsan Gwang'yeogsi",
+    "city": "Ulsan (Eomul-dong)",
+    "name": "Eomul-dong HAWK SAM Site Heliport",
+    "icao": "KR-0485",
+    "lat": 35.561428,
+    "lon": 129.411426
+  },
+  {
+    "country": "South Korea",
+    "state": "Ulsan Gwang'yeogsi",
+    "city": "Ulsan (Hwabong-dong)",
+    "name": "Hwabong-dong Radio Station Heliport",
+    "icao": "KR-0486",
+    "lat": 35.59224,
+    "lon": 129.399772
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Ungdam-ri",
+    "name": "Ungdam-ri Heliport",
+    "icao": "KR-0544",
+    "lat": 37.903403,
+    "lon": 126.888505
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Utsokgogaet-gil",
+    "name": "Yeoju Range Heliport",
+    "icao": "RKSU",
+    "lat": 37.436895,
+    "lon": 127.632886
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Wangbangsangogae",
+    "name": "C-255 Heliport",
+    "icao": "KR-0096",
+    "lat": 37.894467,
+    "lon": 127.155005
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Wolhak-ri",
+    "name": "Wolhak-ri Helipad",
+    "icao": "KR-0187",
+    "lat": 38.157743,
+    "lon": 128.203856
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Wolsan-ri",
+    "name": "Wolsan-ri West Helipad",
+    "icao": "KR-0158",
+    "lat": 38.320456,
+    "lon": 128.159953
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Wolsan-ri",
+    "name": "Wolsan-ri Stopover Heliport",
+    "icao": "KR-0618",
+    "lat": 35.725575,
+    "lon": 129.194153
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Wondeongmok",
+    "name": "C-516 Heliport",
+    "icao": "RK4G",
+    "lat": 36.948704,
+    "lon": 126.959671
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Wonhyo-san Mt.",
+    "name": "C 821 Heliport",
+    "icao": "RK5V",
+    "lat": 35.400238,
+    "lon": 129.107549
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Yagam-ri",
+    "name": "N 222 Helipad",
+    "icao": "RK8N",
+    "lat": 37.633518,
+    "lon": 126.563985
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Yanggu-gun",
+    "name": "I-ri Helipad",
+    "icao": "KR-0503",
+    "lat": 38.078158,
+    "lon": 127.960785
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Yangji-ri",
+    "name": "Yangji-ri East Helipad",
+    "icao": "KR-0146",
+    "lat": 38.284501,
+    "lon": 127.527034
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Yangji-ri",
+    "name": "Yangji-ri Heliport",
+    "icao": "KR-0534",
+    "lat": 38.270298,
+    "lon": 127.276241
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Yangwon-ri",
+    "name": "Yangwon-ri Heliport",
+    "icao": "KR-0558",
+    "lat": 37.978832,
+    "lon": 127.048952
+  },
+  {
+    "country": "South Korea",
+    "state": "Gang'weondo",
+    "city": "Yangyang",
+    "name": "Gwanmobang Heliport",
+    "icao": "KR-0497",
+    "lat": 38.111422,
+    "lon": 128.532144
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Yeojwa-dong",
+    "name": "Yeojwa-dong Helipad",
+    "icao": "KR-0630",
+    "lat": 35.164643,
+    "lon": 128.649444
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangbugdo",
+    "city": "Yeongcheon",
+    "name": "Yongchon Airport (G-801)",
+    "icao": "RKUY",
+    "lat": 36.025333,
+    "lon": 128.81945
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeongsangnamdo",
+    "city": "Yeongsandocheon-ro",
+    "name": "Namji Emergency Airfield",
+    "icao": "KR-0621",
+    "lat": 35.42819,
+    "lon": 128.510084
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Yeonpyeong Island",
+    "name": "N 206 Helipad",
+    "icao": "RKD3",
+    "lat": 37.66675,
+    "lon": 125.69774
+  },
+  {
+    "country": "South Korea",
+    "state": "Incheon Gwang'yeogsi",
+    "city": "Yeonpyeong-Myeon, Yeonpyeongdo",
+    "name": "Yeonpyeong-Myeon Heliport",
+    "icao": "KR-0027",
+    "lat": 37.664068,
+    "lon": 125.69797
+  },
+  {
+    "country": "South Korea",
+    "state": "Chungcheongbugdo",
+    "city": "Yeontan-ri",
+    "name": "C-507 Heliport",
+    "icao": "RK4B",
+    "lat": 36.801657,
+    "lon": 127.561725
+  },
+  {
+    "country": "South Korea",
+    "state": "Seoul Teugbyeolsi",
+    "city": "Yetgol-ro",
+    "name": "C 281 Heliport",
+    "icao": "RK12",
+    "lat": 37.426863,
+    "lon": 127.060554
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Yongchu-ro",
+    "name": "C-252 Heliport",
+    "icao": "RKC5",
+    "lat": 37.842478,
+    "lon": 127.491971
+  },
+  {
+    "country": "South Korea",
+    "state": "Jejudo",
+    "city": "Yongdami-dong",
+    "name": "Jeju International Airport Heliport",
+    "icao": "KR-0286",
+    "lat": 33.509467,
+    "lon": 126.49965
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Yonggang-ri",
+    "name": "N 214 Helipad",
+    "icao": "RK8K",
+    "lat": 37.762465,
+    "lon": 126.558811
+  },
+  {
+    "country": "South Korea",
+    "state": "Busan Gwang'yeogsi",
+    "city": "Yongho-dong, Nam-Gu, Busan",
+    "name": "Busan (Jakjeon) Naval Base Heliport",
+    "icao": "KR-0022",
+    "lat": 35.096114,
+    "lon": 129.102606
+  },
+  {
+    "country": "South Korea",
+    "state": "Gyeonggido",
+    "city": "Yukgoki-ri",
+    "name": "Yukgok-ri North Heliport",
+    "icao": "KR-0563",
+    "lat": 37.897465,
+    "lon": 126.831007
+  }
+]

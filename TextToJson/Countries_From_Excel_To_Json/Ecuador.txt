@@ -1,0 +1,515 @@
+[
+  {
+    "country": "Ecuador",
+    "state": "Pichincha Province",
+    "city": "Quito",
+    "name": "Mariscal Sucre International Airport",
+    "icao": "SEQM",
+    "lat": -0.129166666667,
+    "lon": -78.3575
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "Guayaquil",
+    "name": "Jose Joaquin de Olmedo International Airport",
+    "icao": "SEGU",
+    "lat": -2.15741991996999,
+    "lon": -79.8835983276
+  },
+  {
+    "country": "Ecuador",
+    "state": "Galapagos Province",
+    "city": "Baltra",
+    "name": "Seymour Airport",
+    "icao": "SEGS",
+    "lat": -0.453758001327514,
+    "lon": -90.2658996582031
+  },
+  {
+    "country": "Ecuador",
+    "state": "Azuay Province",
+    "city": "Cuenca",
+    "name": "Mariscal Lamar Airport",
+    "icao": "SECU",
+    "lat": -2.88947,
+    "lon": -78.984398
+  },
+  {
+    "country": "Ecuador",
+    "state": "Galapagos Province",
+    "city": "San CristÃ³bal",
+    "name": "San CristÃ³bal Airport",
+    "icao": "SEST",
+    "lat": -0.910206,
+    "lon": -89.617401
+  },
+  {
+    "country": "Ecuador",
+    "state": "Cotopaxi Province",
+    "city": "Latacunga",
+    "name": "Cotopaxi International Airport",
+    "icao": "SELT",
+    "lat": -0.906833,
+    "lon": -78.615799
+  },
+  {
+    "country": "Ecuador",
+    "state": "Orellana Province",
+    "city": "Coca",
+    "name": "Francisco De Orellana Airport",
+    "icao": "SECO",
+    "lat": -0.462886005640029,
+    "lon": -76.9868011474609
+  },
+  {
+    "country": "Ecuador",
+    "state": "Napo Province",
+    "city": "Tena",
+    "name": "Jumandy Airport",
+    "icao": "TNW",
+    "lat": -1.059722,
+    "lon": -77.583333
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "Salinas",
+    "name": "General Ulpiano Paez Airport",
+    "icao": "SESA",
+    "lat": -2.20499,
+    "lon": -80.988899
+  },
+  {
+    "country": "Ecuador",
+    "state": "El Oro Province",
+    "city": "Machala",
+    "name": "General Manuel Serrano Airport",
+    "icao": "SEMH",
+    "lat": -3.2689,
+    "lon": -79.961601
+  },
+  {
+    "country": "Ecuador",
+    "state": "Manabi Province",
+    "city": "Portoviejo",
+    "name": "Reales Tamarindos Airport",
+    "icao": "SEPV",
+    "lat": -1.04165005683898,
+    "lon": -80.4721984863281
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "Boca de Tenguel",
+    "name": "Tenguel Airport",
+    "icao": "SETG",
+    "lat": -2.99860000610351,
+    "lon": -79.7947006225586
+  },
+  {
+    "country": "Ecuador",
+    "state": "Los Rios Province",
+    "city": "Buena Fe",
+    "name": "Buena Fe Airport",
+    "icao": "SEBF",
+    "lat": -0.898137986660003,
+    "lon": -79.4855422973632
+  },
+  {
+    "country": "Ecuador",
+    "state": "El Oro Province",
+    "city": "Buenavista",
+    "name": "Banasur Airport",
+    "icao": "SE58",
+    "lat": -3.3409399986267,
+    "lon": -79.8638000488281
+  },
+  {
+    "country": "Ecuador",
+    "state": "El Oro Province",
+    "city": "Carabon",
+    "name": "Carabon Airport",
+    "icao": "EC-0001",
+    "lat": -3.62855005264282,
+    "lon": -80.1877975463867
+  },
+  {
+    "country": "Ecuador",
+    "state": "Manabi Province",
+    "city": "Coaque",
+    "name": "Coaque Airport",
+    "icao": "SECQ",
+    "lat": 9.99999997475242E-07,
+    "lon": -80.0999984741211
+  },
+  {
+    "country": "Ecuador",
+    "state": "Imbabura Province",
+    "city": "Cotacachi",
+    "name": "Cotachachi Airport",
+    "icao": "SEHI",
+    "lat": -0.302940011024475,
+    "lon": -78.2683029174804
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Curacay",
+    "name": "Curaray Airport",
+    "icao": "SECR",
+    "lat": -1.384465,
+    "lon": -76.938944
+  },
+  {
+    "country": "Ecuador",
+    "state": "Manabi Province",
+    "city": "Guale",
+    "name": "Guale Airport",
+    "icao": "SEGE",
+    "lat": -1.61667001247406,
+    "lon": -80.2332992553711
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "Hacienda Payo",
+    "name": "Payo Airport",
+    "icao": "SEPX",
+    "lat": -2.30999994277954,
+    "lon": -79.4599990844726
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "JosÃ© Real",
+    "name": "San Carlos Airport",
+    "icao": "SE14",
+    "lat": -2.16655206680297,
+    "lon": -79.4337005615234
+  },
+  {
+    "country": "Ecuador",
+    "state": "Los Rios Province",
+    "city": "Julia",
+    "name": "Hacienda La Julia Airport",
+    "icao": "SELJ",
+    "lat": -1.70438003540039,
+    "lon": -79.5522994995117
+  },
+  {
+    "country": "Ecuador",
+    "state": "Esmeraldas Province",
+    "city": "Lagartera",
+    "name": "Km 192 Airport",
+    "icao": "SEKK",
+    "lat": 0.184202998876571,
+    "lon": -79.3919982910156
+  },
+  {
+    "country": "Ecuador",
+    "state": "Sucumbios Province",
+    "city": "Limoncocha",
+    "name": "Limoncocha Airport",
+    "icao": "SELI",
+    "lat": -0.406363010406494,
+    "lon": -76.6238021850586
+  },
+  {
+    "country": "Ecuador",
+    "state": "Los Rios Province",
+    "city": "Loma Larga",
+    "name": "Loma Larga Airport",
+    "icao": "SELM",
+    "lat": -1.5015799999237,
+    "lon": -79.4809036254882
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "Lorenzo de Garaicoa",
+    "name": "San Carlos Costa Airport",
+    "icao": "SE08",
+    "lat": -2.05471992492675,
+    "lon": -79.4330978393554
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Montalvo",
+    "name": "El Carmen Airport",
+    "icao": "SEMO",
+    "lat": -2.06700992584228,
+    "lon": -76.9757003784179
+  },
+  {
+    "country": "Ecuador",
+    "state": "El Oro Province",
+    "city": "Pasaje",
+    "name": "Amable Calle Gutierrez Airport",
+    "icao": "SEPS",
+    "lat": -3.31966996192932,
+    "lon": -79.7692031860351
+  },
+  {
+    "country": "Ecuador",
+    "state": "Manabi Province",
+    "city": "Pedernales",
+    "name": "Pedernales Airport",
+    "icao": "SEPD",
+    "lat": 0.067619003355503,
+    "lon": -80.0504989624023
+  },
+  {
+    "country": "Ecuador",
+    "state": "Los Rios Province",
+    "city": "Pozuelos",
+    "name": "Hacienda Clementina Airport",
+    "icao": "SECM",
+    "lat": -1.70626997947692,
+    "lon": -79.3788986206054
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "Puerto Balao",
+    "name": "Maragrosa Airport",
+    "icao": "SEMX",
+    "lat": -2.85109996795654,
+    "lon": -79.803596496582
+  },
+  {
+    "country": "Ecuador",
+    "state": "Sucumbios Province",
+    "city": "Puerto Putumayo",
+    "name": "Putumayo Airport",
+    "icao": "SEPT",
+    "lat": 0.115949,
+    "lon": -75.85022
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "Puna",
+    "name": "Puna Airport",
+    "icao": "SEPU",
+    "lat": -2.73368000984191,
+    "lon": -79.915298461914
+  },
+  {
+    "country": "Ecuador",
+    "state": "Los Rios Province",
+    "city": "Quevedo",
+    "name": "Quevedo Airport",
+    "icao": "SEQE",
+    "lat": -0.989400029182434,
+    "lon": -79.465103149414
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "San Rafael",
+    "name": "San Rafael Airport",
+    "icao": "SE09",
+    "lat": -2.18166995048522,
+    "lon": -79.236701965332
+  },
+  {
+    "country": "Ecuador",
+    "state": "El Oro Province",
+    "city": "Santa Rosa",
+    "name": "Santa Rosa International Airport",
+    "icao": "SERO",
+    "lat": -3.441986,
+    "lon": -79.996957
+  },
+  {
+    "country": "Ecuador",
+    "state": "Morona-Santiago Province",
+    "city": "Santiago",
+    "name": "Gualaquiza Airport",
+    "icao": "SEGZ",
+    "lat": -3.42320990562438,
+    "lon": -78.5670013427734
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pichincha Province",
+    "city": "Santo Domingo de Los Colorades",
+    "name": "Santo Domingo de Los Colorados Airport",
+    "icao": "SESD",
+    "lat": -0.24822199344635,
+    "lon": -79.2144012451171
+  },
+  {
+    "country": "Ecuador",
+    "state": "Los Rios Province",
+    "city": "Vinces",
+    "name": "Vinces Airport",
+    "icao": "SE10",
+    "lat": -1.59610998630523,
+    "lon": -79.7260971069336
+  },
+  {
+    "country": "Ecuador",
+    "state": "Galapagos Province",
+    "city": "Galapagos Province",
+    "name": "USAAFB Baltra",
+    "icao": "EC-0002",
+    "lat": -0.472063445752,
+    "lon": -90.2877044678
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Pastaza Province",
+    "name": "Yuca Life Airstrip",
+    "icao": "EC-0009",
+    "lat": -1.497908,
+    "lon": -77.474409
+  },
+  {
+    "country": "Ecuador",
+    "state": "Morona-Santiago Province",
+    "city": "Morona-Santiago Province",
+    "name": "Santa Rosa 2 Airstrip",
+    "icao": "EC-0019",
+    "lat": -2.212734,
+    "lon": -77.572687
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Pastaza Province",
+    "name": "Kapawi Ecolodge Airstrip",
+    "icao": "EC-0034",
+    "lat": -1.649234,
+    "lon": -77.046579
+  },
+  {
+    "country": "Ecuador",
+    "state": "Morona-Santiago Province",
+    "city": "Ayuy",
+    "name": "Ayuy Airstrip",
+    "icao": "EC-0021",
+    "lat": -2.082567,
+    "lon": -77.580241
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Capauari",
+    "name": "Capauari Airstrip",
+    "icao": "EC-0025",
+    "lat": -2.07019,
+    "lon": -77.173326
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Copataza",
+    "name": "Copataza Airstrip",
+    "icao": "EC-0022",
+    "lat": -2.090505,
+    "lon": -77.446852
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Cotosaz",
+    "name": "Cotosaz Airstrip",
+    "icao": "EC-0026",
+    "lat": -2.023515,
+    "lon": -77.468726
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "Guayaquil",
+    "name": "Canal Uno Heliport",
+    "icao": "SE12",
+    "lat": -2.16555595397949,
+    "lon": -79.8969421386718
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Huito Molino",
+    "name": "Huito Molino Airstrip",
+    "icao": "EC-0013",
+    "lat": -1.828625,
+    "lon": -77.321688
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "JibarÃ­a AÃ±angu",
+    "name": "JibarÃ­a AÃ±angu Airstrip",
+    "icao": "EC-0024",
+    "lat": -2.463387,
+    "lon": -76.992629
+  },
+  {
+    "country": "Ecuador",
+    "state": "El Oro Province",
+    "city": "Machala",
+    "name": "Aviandina Heliport",
+    "icao": "SE07",
+    "lat": -3.26305603981018,
+    "lon": -79.961669921875
+  },
+  {
+    "country": "Ecuador",
+    "state": "Guayas Province",
+    "city": "Posorja",
+    "name": "Posorja Heliport",
+    "icao": "SE05",
+    "lat": -2.73166704177856,
+    "lon": -80.2458343505859
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Shivacocha",
+    "name": "Shivacocha Airstrip",
+    "icao": "EC-0007",
+    "lat": -1.384146,
+    "lon": -76.958786
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Tambo Borja",
+    "name": "Tambo Borja Airstrip",
+    "icao": "EC-0031",
+    "lat": -2.36646,
+    "lon": -76.513774
+  },
+  {
+    "country": "Ecuador",
+    "state": "Pastaza Province",
+    "city": "Teresa Mama",
+    "name": "Teresa Mama Airstrip",
+    "icao": "EC-0012",
+    "lat": -1.923175,
+    "lon": -77.211526
+  },
+  {
+    "country": "Ecuador",
+    "state": "Morona-Santiago Province",
+    "city": "Wasakentza",
+    "name": "Wasakentza Airstrip",
+    "icao": "EC-0029",
+    "lat": -2.543927,
+    "lon": -77.199249
+  },
+  {
+    "country": "Ecuador",
+    "state": "Morona-Santiago Province",
+    "city": "Yaupi",
+    "name": "Yaupi Airstrip",
+    "icao": "EC-0028",
+    "lat": -2.852915,
+    "lon": -77.941774
+  }
+]

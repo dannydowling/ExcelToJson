@@ -1,0 +1,29 @@
+[
+  {
+    "country": "Eritrea",
+    "state": "Semenawi Keyih Bahri",
+    "city": "Asmara",
+    "name": "Asmara International Airport",
+    "icao": "HHAS",
+    "lat": 15.2918996810913,
+    "lon": 38.9107017517089
+  },
+  {
+    "country": "Eritrea",
+    "state": "Semenawi Keyih Bahri",
+    "city": "Semenawi Keyih Bahri",
+    "name": "Dahalak Island Airfield",
+    "icao": "ER-0001",
+    "lat": 15.68151,
+    "lon": 40.104431
+  },
+  {
+    "country": "Eritrea",
+    "state": "Gash-Barka",
+    "city": "Agordat",
+    "name": "Agordat Airport",
+    "icao": "HHAG",
+    "lat": 15.536688,
+    "lon": 37.862933
+  }
+]

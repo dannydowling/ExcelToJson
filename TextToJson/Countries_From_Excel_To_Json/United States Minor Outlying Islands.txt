@@ -1,0 +1,29 @@
+[
+  {
+    "country": "United States Minor Outlying Islands",
+    "state": "Wake Island",
+    "city": "Wake Island",
+    "name": "Wake Island Airfield",
+    "icao": "PWAK",
+    "lat": 19.2821006774902,
+    "lon": 166.636001586914
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "state": "Midway Islands",
+    "city": "Eastern Island",
+    "name": "Midway Eastern Island Airfield",
+    "icao": "UM-0001",
+    "lat": 28.2093963623046,
+    "lon": -177.330902099609
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "state": "Palmyra Atoll",
+    "city": "Palmyra Island Atoll",
+    "name": "Palmyra (Cooper) Airport",
+    "icao": "PLPA",
+    "lat": 5.88874816894531,
+    "lon": -162.077865600585
+  }
+]

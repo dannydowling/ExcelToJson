@@ -1,0 +1,5456 @@
+[
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "London",
+    "name": "London Heathrow Airport",
+    "icao": "EGLL",
+    "lat": 51.4706,
+    "lon": -0.461941
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "London",
+    "name": "London Gatwick Airport",
+    "icao": "EGKK",
+    "lat": 51.148102,
+    "lon": -0.190278
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Manchester",
+    "name": "Manchester Airport",
+    "icao": "EGCC",
+    "lat": 53.3536987304687,
+    "lon": -2.27495002746582
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "London",
+    "name": "London Luton Airport",
+    "icao": "EGGW",
+    "lat": 51.874698638916,
+    "lon": -0.368333011865615
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Liverpool",
+    "name": "Liverpool John Lennon Airport",
+    "icao": "EGGP",
+    "lat": 53.3335990905761,
+    "lon": -2.8497200012207
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Newcastle",
+    "name": "Newcastle Airport",
+    "icao": "EGNT",
+    "lat": 55.037498474121,
+    "lon": -1.69166994094848
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Leeds",
+    "name": "Leeds Bradford Airport",
+    "icao": "EGNM",
+    "lat": 53.8658981323242,
+    "lon": -1.66057002544403
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Aberdeen",
+    "name": "Aberdeen Dyce Airport",
+    "icao": "EGPD",
+    "lat": 57.2019004821777,
+    "lon": -2.19777989387512
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Belfast",
+    "name": "George Best Belfast City Airport",
+    "icao": "EGAC",
+    "lat": 54.6180992126464,
+    "lon": -5.87249994277954
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Inverness",
+    "name": "Inverness Airport",
+    "icao": "EGPE",
+    "lat": 57.5424995422363,
+    "lon": -4.0475001335144
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Cardiff",
+    "name": "Cardiff International Airport",
+    "icao": "EGFF",
+    "lat": 51.3967018127441,
+    "lon": -3.34332990646362
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Exeter",
+    "name": "Exeter International Airport",
+    "icao": "EGTE",
+    "lat": 50.7344017028808,
+    "lon": -3.41388988494873
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Southend",
+    "name": "Southend Airport",
+    "icao": "EGMC",
+    "lat": 51.5713996887207,
+    "lon": 0.695555984973907
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bournemouth",
+    "name": "Bournemouth Airport",
+    "icao": "EGHH",
+    "lat": 50.7799987792968,
+    "lon": -1.84249997138977
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Doncaster",
+    "name": "Robin Hood Doncaster Sheffield Airport",
+    "icao": "EGCN",
+    "lat": 53.4805378105,
+    "lon": -1.01065635681
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lydd, Ashford",
+    "name": "Lydd Airport",
+    "icao": "EGMD",
+    "lat": 50.9561004638671,
+    "lon": 0.939167022705078
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Newquay",
+    "name": "Newquay Cornwall Airport",
+    "icao": "EGHQ",
+    "lat": 50.4406013488769,
+    "lon": -4.99540996551513
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Kidlington",
+    "name": "Oxford (Kidlington) Airport",
+    "icao": "EGTK",
+    "lat": 51.8368988037,
+    "lon": -1.32000005245
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Grimsby",
+    "name": "Humberside Airport",
+    "icao": "EGNJ",
+    "lat": 53.5744018554687,
+    "lon": -0.350832998752594
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Mildenhall",
+    "name": "RAF Mildenhall",
+    "icao": "EGUN",
+    "lat": 52.3619003295898,
+    "lon": 0.486405998468399
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Durham",
+    "name": "Durham Tees Valley Airport",
+    "icao": "EGNV",
+    "lat": 54.5092010498046,
+    "lon": -1.42940998077392
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Brize Norton",
+    "name": "RAF Brize Norton",
+    "icao": "EGVN",
+    "lat": 51.75,
+    "lon": -1.58362
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Lerwick",
+    "name": "Sumburgh Airport",
+    "icao": "EGPB",
+    "lat": 59.8788986206054,
+    "lon": -1.29556000232696
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Staverton",
+    "name": "Gloucestershire Airport",
+    "icao": "EGBJ",
+    "lat": 51.8941993713378,
+    "lon": -2.16722011566162
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Wick",
+    "name": "Wick Airport",
+    "icao": "EGPC",
+    "lat": 58.4589004516601,
+    "lon": -3.09306001663208
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Shaftesbury",
+    "name": "Compton Abbas Aerodrome",
+    "icao": "EGHA",
+    "lat": 50.9672012329101,
+    "lon": -2.1536099910736
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Manston",
+    "name": "Kent International Airport",
+    "icao": "EGMH",
+    "lat": 51.342201,
+    "lon": 1.34611
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Maidenhead",
+    "name": "White Waltham Airfield",
+    "icao": "EGLM",
+    "lat": 51.5008010863999,
+    "lon": -0.774443984032
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Basingstoke",
+    "name": "Popham Airfield",
+    "icao": "EGHP",
+    "lat": 51.193901,
+    "lon": -1.23472
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Northampton",
+    "name": "Sywell Aerodrome",
+    "icao": "EGBK",
+    "lat": 52.3053016663,
+    "lon": -0.7930560112
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Yateley",
+    "name": "Blackbushe Airport",
+    "icao": "EGLK",
+    "lat": 51.3238983154296,
+    "lon": -0.847500026226043
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Derry",
+    "name": "City of Derry Airport",
+    "icao": "EGAE",
+    "lat": 55.0428009033203,
+    "lon": -7.1611099243164
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lakenheath",
+    "name": "RAF Lakenheath",
+    "icao": "EGUL",
+    "lat": 52.4093017577999,
+    "lon": 0.56099998951
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bembridge",
+    "name": "Bembridge Airport",
+    "icao": "EGHJ",
+    "lat": 50.6781005859,
+    "lon": -1.10943996906
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stapleford Tawney",
+    "name": "Stapleford Aerodrome",
+    "icao": "EGSG",
+    "lat": 51.6525001526,
+    "lon": 0.155833005905
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wolverhampton",
+    "name": "Wolverhampton Halfpenny Green Airport",
+    "icao": "EGBO",
+    "lat": 52.5175018310546,
+    "lon": -2.25943994522094
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Dundee",
+    "name": "Dundee Airport",
+    "icao": "EGPN",
+    "lat": 56.4524993896484,
+    "lon": -3.02583003044128
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lyneham",
+    "name": "RAF Lyneham",
+    "icao": "EGDL",
+    "lat": 51.5051,
+    "lon": -1.99343
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Andover",
+    "name": "Thruxton Aerodrome",
+    "icao": "EGHO",
+    "lat": 51.2106018066406,
+    "lon": -1.60000002384185
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stratford-on-Avon",
+    "name": "Wellesbourne Mountford Airport",
+    "icao": "EGBW",
+    "lat": 52.1921997070312,
+    "lon": -1.61443996429443
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Woking",
+    "name": "Fairoaks Airport",
+    "icao": "EGTF",
+    "lat": 51.3480987549,
+    "lon": -0.558888971806
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Hawarden",
+    "name": "Hawarden Airport",
+    "icao": "EGNR",
+    "lat": 53.1781005859375,
+    "lon": -2.97778010368347
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Fairford",
+    "name": "RAF Fairford",
+    "icao": "EGVA",
+    "lat": 51.6822013855,
+    "lon": -1.79003000259
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Newtownards",
+    "name": "Newtownards Airport",
+    "icao": "EGAD",
+    "lat": 54.5811004639,
+    "lon": -5.69193983078
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Cranwell",
+    "name": "RAF Cranwell",
+    "icao": "EGYD",
+    "lat": 53.0303001404,
+    "lon": -0.48324200511
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Caernarfon",
+    "name": "Caernarfon Airport",
+    "icao": "EGCK",
+    "lat": 53.101819,
+    "lon": -4.337614
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "North Connel",
+    "name": "Oban Airport",
+    "icao": "EGEO",
+    "lat": 56.4635009765625,
+    "lon": -5.39967012405395
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Salisbury",
+    "name": "Old Sarum Airfield",
+    "icao": "EGLS",
+    "lat": 51.0989,
+    "lon": -1.78417
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Odiham",
+    "name": "RAF Odiham",
+    "icao": "EGVO",
+    "lat": 51.2341003418,
+    "lon": -0.94282501936
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Haverfordwest",
+    "name": "Haverfordwest Airport",
+    "icao": "EGFE",
+    "lat": 51.8330993652343,
+    "lon": -4.96111011505126
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "St. Athan",
+    "name": "St. Athan Airport",
+    "icao": "EGDX",
+    "lat": 51.4048,
+    "lon": -3.43575
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Warton",
+    "name": "Warton Aerodrome",
+    "icao": "EGNO",
+    "lat": 53.745098,
+    "lon": -2.88306
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Earles Colne",
+    "name": "Earls Colne Airfield",
+    "icao": "EGSR",
+    "lat": 51.9143981934,
+    "lon": 0.682500004768
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hinton-in-the-Hedges",
+    "name": "Hinton-in-the-Hedges Airfield",
+    "icao": "GB-0073",
+    "lat": 52.028717,
+    "lon": -1.207157
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Balivanich",
+    "name": "Benbecula Airport",
+    "icao": "EGPL",
+    "lat": 57.4810981750488,
+    "lon": -7.36278009414672
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Campbeltown",
+    "name": "Campbeltown Airport",
+    "icao": "EGEC",
+    "lat": 55.437198638916,
+    "lon": -5.6863899230957
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Angelsey",
+    "name": "Anglesey Airport",
+    "icao": "EGOV",
+    "lat": 53.2481002808,
+    "lon": -4.53533983231
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "St. Mary's",
+    "name": "St. Mary's Airport",
+    "icao": "EGHE",
+    "lat": 49.9132995605468,
+    "lon": -6.29166984558105
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Church Fenton",
+    "name": "Leeds East Airport",
+    "icao": "EGXG",
+    "lat": 53.834301,
+    "lon": -1.1955
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Thetford",
+    "name": "RAF Honington",
+    "icao": "EGXH",
+    "lat": 52.342601776123,
+    "lon": 0.772939026355743
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Belton",
+    "name": "Sandtoft Airfield",
+    "icao": "EGCF",
+    "lat": 53.5597000122,
+    "lon": -0.8583329916
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Burton upon Trent",
+    "name": "Tatenhill Airfield",
+    "icao": "EGBM",
+    "lat": 52.8147010803,
+    "lon": -1.76110994816
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Kirkbride",
+    "name": "Kirkbride Airfield",
+    "icao": "GB-0005",
+    "lat": 54.882,
+    "lon": -3.2006
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Perth",
+    "name": "Perth/Scone Airport",
+    "icao": "EGPT",
+    "lat": 56.4392013549804,
+    "lon": -3.37222003936767
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Peterborough",
+    "name": "Peterborough/Sibson Airport",
+    "icao": "EGSP",
+    "lat": 52.5558013916,
+    "lon": -0.386388987303
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Redhill",
+    "name": "Redhill Aerodrome",
+    "icao": "EGKR",
+    "lat": 51.2136001587,
+    "lon": -0.138611003757
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Upavon",
+    "name": "Upavon Aerodrome",
+    "icao": "EGDJ",
+    "lat": 51.2862014771,
+    "lon": -1.7820199728
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Worksop",
+    "name": "Netherthorpe Airfield",
+    "icao": "EGNF",
+    "lat": 53.3168983459,
+    "lon": -1.19639003277
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Yeovil",
+    "name": "Yeovil/Westland Aerodrome",
+    "icao": "EGHG",
+    "lat": 50.9399986267089,
+    "lon": -2.65861010551452
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Portland",
+    "name": "RNAS Portland Heliport",
+    "icao": "EGDP",
+    "lat": 50.5680999755859,
+    "lon": -2.44971990585327
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hullavington",
+    "name": "Hullavington Airfield",
+    "icao": "EGDV",
+    "lat": 51.526732,
+    "lon": -2.141555
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Penzance",
+    "name": "Penzance Heliport",
+    "icao": "EGHK",
+    "lat": 50.128101,
+    "lon": -5.51845
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Lossiemouth",
+    "name": "RAF Lossiemouth",
+    "icao": "EGQS",
+    "lat": 57.7052001953125,
+    "lon": -3.33916997909545
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Leeming",
+    "name": "RAF Leeming Air Base",
+    "icao": "EGXE",
+    "lat": 54.2924,
+    "lon": -1.5354
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Scampton",
+    "name": "RAF Scampton",
+    "icao": "EGXP",
+    "lat": 53.307800293,
+    "lon": -0.550832986832
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Dishforth",
+    "name": "RAF Dishforth",
+    "icao": "EGXD",
+    "lat": 54.1371994019,
+    "lon": -1.42025005817
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "St. Ives",
+    "name": "RAF Wyton",
+    "icao": "EGUY",
+    "lat": 52.3572006226,
+    "lon": -0.107832998037
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wittering",
+    "name": "RAF Wittering",
+    "icao": "EGXT",
+    "lat": 52.612598,
+    "lon": -0.476453
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Abingdon",
+    "name": "RAF Abingdon",
+    "icao": "EGUD",
+    "lat": 51.6902999877999,
+    "lon": -1.31666994095
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Cambridge",
+    "name": "Bourn Airfield",
+    "icao": "EGSN",
+    "lat": 52.210602,
+    "lon": -0.0425
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Derby",
+    "name": "Derby Airfield",
+    "icao": "EGBD",
+    "lat": 52.8596992493,
+    "lon": -1.61749994755
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Henlow",
+    "name": "RAF Henlow",
+    "icao": "EGWE",
+    "lat": 52.0181999207,
+    "lon": -0.303849995136
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Ilminster",
+    "name": "Merryfield RNAS Air Base",
+    "icao": "EGDW",
+    "lat": 50.962502,
+    "lon": -2.93556
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Leconfield",
+    "name": "RAF Leconfield",
+    "icao": "EGXV",
+    "lat": 53.875801,
+    "lon": -0.435
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Malmesbury",
+    "name": "Oaksey Park Airport",
+    "icao": "EGTW",
+    "lat": 51.6321983336999,
+    "lon": -2.01471996307
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Shetland Islands",
+    "name": "Unst Airport",
+    "icao": "EGPW",
+    "lat": 60.747200012207,
+    "lon": -0.853850007057189
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Shrewsbury",
+    "name": "Sleap Airport",
+    "icao": "EGCV",
+    "lat": 52.8339004516999,
+    "lon": -2.77167010307
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wroughton",
+    "name": "Wroughton Airfield",
+    "icao": "EGDT",
+    "lat": 51.5061,
+    "lon": -1.80194
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Upper Heyford",
+    "name": "RAF Upper Heyford",
+    "icao": "EGUA",
+    "lat": 51.9375,
+    "lon": -1.2488900423
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Spanhoe",
+    "icao": "GB-0010",
+    "lat": 52.5582207203,
+    "lon": -0.62019109726
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Bristol and Gloucestershire Gliding Club",
+    "icao": "GB-0022",
+    "lat": 51.713682,
+    "lon": -2.283697
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Dorset Gliding Club (Eyres Field)",
+    "icao": "GB-0025",
+    "lat": 50.708933,
+    "lon": -2.219496
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Little Rissington",
+    "icao": "EGVL",
+    "lat": 51.8675,
+    "lon": -1.695333
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Sandhill Farm Airstrip",
+    "icao": "GB-0221",
+    "lat": 51.6051516,
+    "lon": -1.6747292
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Northern Ireland",
+    "name": "Wild Geese Skydive Centre",
+    "icao": "GB-0238",
+    "lat": 54.9870612,
+    "lon": -6.6437758
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hunsdon Airfield",
+    "icao": "GB-0464",
+    "lat": 51.8078,
+    "lon": 0.069644
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bishops Waltham",
+    "name": "Lower Upham Airfield",
+    "icao": "GB-0042",
+    "lat": 50.972508,
+    "lon": -1.248493
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Chickerell",
+    "name": "Lower Manor Farm Airstrip",
+    "icao": "GB-0053",
+    "lat": 50.627714,
+    "lon": -2.517672
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Litton Cheney",
+    "name": "Stancombe Farm Airstrip (Private)",
+    "icao": "GB-0027",
+    "lat": 50.7245301059,
+    "lon": -2.63446569443
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Pymore Bridport",
+    "name": "Middle Pymore Farm Airstrip (Private)",
+    "icao": "GB-0031",
+    "lat": 50.7512824893,
+    "lon": -2.75954246521
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Sidford",
+    "name": "Farway Common Airfield",
+    "icao": "GB-0063",
+    "lat": 50.737107,
+    "lon": -3.179255
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stoke",
+    "name": "Stoke Airfield",
+    "icao": "GB-0366",
+    "lat": 51.4456,
+    "lon": 0.633467
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Swindon, Wiltshire, UK",
+    "name": "Redlands airfield",
+    "icao": "GB-0084",
+    "lat": 51.560833,
+    "lon": -1.704444
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "West Malling",
+    "name": "RAF West Malling",
+    "icao": "EGKM",
+    "lat": 51.27,
+    "lon": 0.4
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Linton-On-Ouse",
+    "name": "RAF Linton-On-Ouse",
+    "icao": "EGXU",
+    "lat": 54.0489006042,
+    "lon": -1.2527500391
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Fair Isle",
+    "name": "Fair Isle Airport",
+    "icao": "EGEF",
+    "lat": 59.5358009338378,
+    "lon": -1.62805998325347
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Foula",
+    "name": "Foula Airfield",
+    "icao": "GB-FOA",
+    "lat": 60.121725,
+    "lon": -2.053202
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "North Ronaldsay",
+    "name": "North Ronaldsay Airport",
+    "icao": "EGEN",
+    "lat": 59.3675003052,
+    "lon": -2.43443989754
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Papa Westray",
+    "name": "Papa Westray Airport",
+    "icao": "EGEP",
+    "lat": 59.3516998291,
+    "lon": -2.90027999878
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Stronsay",
+    "name": "Stronsay Airport",
+    "icao": "EGER",
+    "lat": 59.1553001404,
+    "lon": -2.64139008522
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stowmarket",
+    "name": "Wattisham Airfield",
+    "icao": "EGUW",
+    "lat": 52.127451,
+    "lon": 0.956189
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Cottesmore",
+    "name": "RAF Cottesmore",
+    "icao": "EGXJ",
+    "lat": 52.735699,
+    "lon": -0.648769
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Spadeadam",
+    "name": "RAF Spadeadam",
+    "icao": "EGOM",
+    "lat": 55.0499992371,
+    "lon": -2.54999995232
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Aberporth",
+    "name": "Aberporth Airport",
+    "icao": "EGFA",
+    "lat": 52.1152992249,
+    "lon": -4.55694007873999
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Andover",
+    "name": "Andover Airfield",
+    "icao": "EGWA",
+    "lat": 51.2079048157,
+    "lon": -1.528236866
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Ashaig",
+    "name": "Broadford Airstrip",
+    "icao": "XBRO",
+    "lat": 57.253399,
+    "lon": -5.8279
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Ballykelly",
+    "name": "RAF Ballykelly Air Base (abandoned)",
+    "icao": "EGQB",
+    "lat": 55.060299,
+    "lon": -7.02028
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Beccles",
+    "name": "Beccles Airfield",
+    "icao": "EGSM",
+    "lat": 52.435299,
+    "lon": 1.61833
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bedford",
+    "name": "Castle Mill Airfield",
+    "icao": "EGSB",
+    "lat": 52.1432991027999,
+    "lon": -0.406111001968
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bredhurst",
+    "name": "Farthing Corner/Stoneacre Farm Airfield",
+    "icao": "EGMF",
+    "lat": 51.332369,
+    "lon": 0.600126
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Brough",
+    "name": "Brough Airport",
+    "icao": "EGNB",
+    "lat": 53.7197,
+    "lon": -0.566333
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Burrington",
+    "name": "Eaglescott Airfield",
+    "icao": "EGHU",
+    "lat": 50.9286003112793,
+    "lon": -3.98943996429443
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Cambridge",
+    "name": "Fowlmere Airfield",
+    "icao": "EGMA",
+    "lat": 52.0774993896,
+    "lon": 0.0616669990122
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "East Dereham",
+    "name": "Shipdham Airfield",
+    "icao": "EGSA",
+    "lat": 52.6293983459,
+    "lon": 0.928056001663
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Fearn",
+    "name": "RNAS Fearn Air Base",
+    "icao": "EG73",
+    "lat": 57.757999,
+    "lon": -3.943
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Long Marston",
+    "name": "Long Marston Airfield",
+    "icao": "EGBL",
+    "lat": 52.14030075,
+    "lon": -1.75361001
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Maypole",
+    "name": "Maypole Airfield",
+    "icao": "EGHB",
+    "lat": 51.337508,
+    "lon": 1.155292
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Newmarket",
+    "name": "Newmarket Heath Airfield",
+    "icao": "EGSW",
+    "lat": 52.235147,
+    "lon": 0.350643
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Plockton",
+    "name": "Plockton Airstrip",
+    "icao": "XPLO",
+    "lat": 57.335499,
+    "lon": -5.67308
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "St. Neot's",
+    "name": "Little Gransden Airfield",
+    "icao": "EGMJ",
+    "lat": 52.1666984558105,
+    "lon": -0.153889000415802
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stowmarket",
+    "name": "Crowfield Airfield",
+    "icao": "EGSO",
+    "lat": 52.1711006164999,
+    "lon": 1.111109972
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Thorne",
+    "name": "RAF Thorne",
+    "icao": "EGCP",
+    "lat": 53.6222,
+    "lon": -0.928056
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Watford",
+    "name": "Leavesden Aerodrome",
+    "icao": "EGTI",
+    "lat": 51.6892013549804,
+    "lon": -0.420556008815765
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Welshpool",
+    "name": "Welshpool Airport",
+    "icao": "EGCW",
+    "lat": 52.6286010742187,
+    "lon": -3.15333008766174
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wethersfield",
+    "name": "Wethersfield Air Base",
+    "icao": "EGVT",
+    "lat": 51.971901,
+    "lon": 0.509444
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Whalsay",
+    "name": "Whalsay Airport",
+    "icao": "EGEH",
+    "lat": 60.3774986267089,
+    "lon": -0.925556004047393
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Whitchurch",
+    "name": "Tilstock Airfield",
+    "icao": "EGCT",
+    "lat": 52.9308013916015,
+    "lon": -2.64638996124267
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "York (Rufforth)",
+    "name": "Rufforth West",
+    "icao": "EG64",
+    "lat": 53.94829,
+    "lon": -1.185575
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Buckingham",
+    "name": "Silverstone Heliport",
+    "icao": "EGBV",
+    "lat": 52.0713996887207,
+    "lon": -1.0166699886322
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Cardiff",
+    "name": "Cardiff Heliport",
+    "icao": "EGFC",
+    "lat": 51.4674987792999,
+    "lon": -3.13750004768
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Chichester",
+    "name": "Goodwood Racecourse Heliport",
+    "icao": "EGKG",
+    "lat": 50.9006004333496,
+    "lon": -0.73972201347351
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Peterhead",
+    "name": "Peterhead Heliport",
+    "icao": "EGPS",
+    "lat": 57.5177993774414,
+    "lon": -1.86138999462127
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Full Sutton",
+    "name": "Full Sutton Airfield",
+    "icao": "EGNU",
+    "lat": 53.980598,
+    "lon": -0.864722
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Grimsby",
+    "name": "Binbrook Airfield",
+    "icao": "EGXB",
+    "lat": 53.4467010498,
+    "lon": -0.209999993443
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Culter Heliport",
+    "icao": "EGEA",
+    "lat": 57.1198600605,
+    "lon": -2.32116490602
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Brimpton Airfield",
+    "icao": "EGLP",
+    "lat": 51.383889,
+    "lon": -1.169167
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Roche Barton Farm Airstrip",
+    "icao": "GB-0056",
+    "lat": 50.419898,
+    "lon": -4.805596
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Great Massingham Airfield",
+    "icao": "GB-0078",
+    "lat": 52.7817928573,
+    "lon": 0.679607391357
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Methold",
+    "icao": "GB-0082",
+    "lat": 52.5119377023,
+    "lon": 0.548801422119
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Holyhead Heliport",
+    "icao": "EGCH",
+    "lat": 53.298848,
+    "lon": -4.616862
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Lundy Island Airfield",
+    "icao": "EGZV",
+    "lat": 51.170505,
+    "lon": -4.670758
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Great Orton",
+    "icao": "GB-0160",
+    "lat": 54.874393495708,
+    "lon": -3.0757531822383
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Wath Head airfield",
+    "icao": "GB-0162",
+    "lat": 54.817778,
+    "lon": -3.111111
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Brayton Park",
+    "icao": "GB-0164",
+    "lat": 54.773889,
+    "lon": -3.301111
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Glassonby Airfield",
+    "icao": "GB-0166",
+    "lat": 54.737994,
+    "lon": -2.651861
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Berrier Airstrip",
+    "icao": "GB-0168",
+    "lat": 54.656504,
+    "lon": -2.93365
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Burnfoot",
+    "icao": "GB-0170",
+    "lat": 54.987096827426,
+    "lon": -2.9843628088202
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Lingcroft Grass Airstrip",
+    "icao": "GB-0172",
+    "lat": 54.591769,
+    "lon": -3.43303
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Channel gliding club",
+    "icao": "GB-0175",
+    "lat": 51.179254,
+    "lon": 1.280945
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Great Oakley",
+    "icao": "GB-0177",
+    "lat": 51.912244,
+    "lon": 1.18207
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Sproston Green Airfield",
+    "icao": "GB-0178",
+    "lat": 53.1864591,
+    "lon": -2.3822782
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Strathaven Airfield",
+    "icao": "GB-0180",
+    "lat": 55.680333,
+    "lon": -4.115
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "East Kirkby",
+    "icao": "GB-0182",
+    "lat": 53.1382264,
+    "lon": 0.0025685
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Weybourne Airstrip",
+    "icao": "GB-0184",
+    "lat": 52.9478238,
+    "lon": 1.1232003
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Northern Ireland",
+    "name": "Bellarena",
+    "icao": "GB-0186",
+    "lat": 55.1397141,
+    "lon": -6.9690032
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Caunton Airstrip",
+    "icao": "GB-0189",
+    "lat": 53.119877,
+    "lon": -0.891481
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Cruglas Synod Inn Airstrip",
+    "icao": "GB-0191",
+    "lat": 52.1296089,
+    "lon": -4.3664332
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Bourne Park Airfield",
+    "icao": "GB-0193",
+    "lat": 51.2643784,
+    "lon": -1.4656348
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Easton Maudit Airstrip",
+    "icao": "GB-0195",
+    "lat": 52.2136163,
+    "lon": -0.7014104
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Tibenham Priory Farm Airstrip",
+    "icao": "GB-0198",
+    "lat": 52.4492811,
+    "lon": 1.1298679
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hanley Farm Airstrip",
+    "icao": "GB-0200",
+    "lat": 52.2990979,
+    "lon": -2.4698229
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Plaistows Airfield",
+    "icao": "GB-0204",
+    "lat": 51.7290068,
+    "lon": -0.3801541
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Wingland Airfield",
+    "icao": "GB-0206",
+    "lat": 52.8138048,
+    "lon": 0.1148968
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Wallis International",
+    "icao": "GB-0207",
+    "lat": 52.579011,
+    "lon": -0.113704
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Watchford Farm Airstrip",
+    "icao": "GB-0209",
+    "lat": 50.9023839,
+    "lon": -3.0981345
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Pear Tree Farm Airstrip",
+    "icao": "GB-0213",
+    "lat": 51.9031372,
+    "lon": -1.0760824
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Clutton Hill Airstrip",
+    "icao": "GB-0217",
+    "lat": 51.3414043,
+    "lon": -2.522437
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Spence Airfield",
+    "icao": "GB-0220",
+    "lat": 51.8386485,
+    "lon": -2.5914762
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Pent Farm Airstrip",
+    "icao": "GB-0223",
+    "lat": 51.1096929,
+    "lon": 1.0543112
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Stoodleigh Barton Private Airstrip",
+    "icao": "GB-0225",
+    "lat": 50.9572712,
+    "lon": -3.5301848
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Redmoor Farm Airstrip",
+    "icao": "GB-0228",
+    "lat": 53.8404059,
+    "lon": -0.9719151
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Oaklands Farm Airstrip",
+    "icao": "GB-0230",
+    "lat": 51.8471331,
+    "lon": -1.4397248
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Old Hay Airfield",
+    "icao": "GB-0233",
+    "lat": 51.1787584,
+    "lon": 0.4256228
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "High Cross Airstrip",
+    "icao": "GB-0235",
+    "lat": 51.8484111,
+    "lon": -0.00746
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Little Chase Farm Airstrip",
+    "icao": "GB-0237",
+    "lat": 52.357319,
+    "lon": -1.6209368
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Taw Mill Airstrip",
+    "icao": "GB-0241",
+    "lat": 50.7764813,
+    "lon": -3.9040791
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Melrose Farm Airstrip",
+    "icao": "GB-0243",
+    "lat": 53.868434,
+    "lon": -0.8379453
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Wharf Farm Airstrip",
+    "icao": "GB-0246",
+    "lat": 52.6273132,
+    "lon": -1.4184066
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Manor Farm Airstrip",
+    "icao": "GB-0079",
+    "lat": 51.3078209,
+    "lon": -1.6735274
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Chirk",
+    "icao": "GB-0251",
+    "lat": 52.9474365,
+    "lon": -3.0460473
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Gorrel Farm Airstrip",
+    "icao": "GB-0255",
+    "lat": 50.9438009,
+    "lon": -4.386336
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Swanton Morley Airstrip",
+    "icao": "GB-0256",
+    "lat": 52.7348042,
+    "lon": 0.9620111
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Clipgate Farm Airstrip",
+    "icao": "GB-0258",
+    "lat": 51.1870367,
+    "lon": 1.153392
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Top Farm Airfield",
+    "icao": "GB-0261",
+    "lat": 52.1225417,
+    "lon": -0.117631
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Lower Withial Fram Airstrip",
+    "icao": "GB-0265",
+    "lat": 51.1253177,
+    "lon": -2.5965937
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Rosemarket Airstrip",
+    "icao": "GB-0267",
+    "lat": 51.74526,
+    "lon": -4.9642344
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Ince Blundell Microlight",
+    "icao": "GB-0269",
+    "lat": 53.5355556,
+    "lon": -3.0297222
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Little Staughton Airfield",
+    "icao": "GB-0274",
+    "lat": 52.242757,
+    "lon": -0.3633024
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Deenethorpe",
+    "icao": "GB-0280",
+    "lat": 52.5062705,
+    "lon": -0.589011
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Lark Engine Farmhouse Airstrip",
+    "icao": "GB-0283",
+    "lat": 52.4226804,
+    "lon": 0.3776757
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Charterhall Airfield",
+    "icao": "GB-0287",
+    "lat": 55.7075978,
+    "lon": -2.3785037
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Ranston Airstrip",
+    "icao": "GB-0295",
+    "lat": 50.9151165,
+    "lon": -2.1853714
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hallwell Airstrip",
+    "icao": "GB-0297",
+    "lat": 50.3651272,
+    "lon": -3.7068994
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Green Farm Airstrip",
+    "icao": "GB-0298",
+    "lat": 52.1600872,
+    "lon": -1.5481724
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Claybrooke Farm Airstrip",
+    "icao": "GB-0302",
+    "lat": 52.509143,
+    "lon": -1.279523
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Lyminge Airstrip",
+    "icao": "GB-0305",
+    "lat": 51.146177,
+    "lon": 1.046066
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Bowldown Farm Airstrip",
+    "icao": "GB-0333",
+    "lat": 51.628872,
+    "lon": -2.237254
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Chilsfold Farm Airstrip",
+    "icao": "GB-0356",
+    "lat": 51.0600362,
+    "lon": -0.5936162
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Exning Airstrip",
+    "icao": "GB-0363",
+    "lat": 52.2901671,
+    "lon": 0.3698329
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Darley Moor Airfield",
+    "icao": "GB-0369",
+    "lat": 52.9693,
+    "lon": -1.74868
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Forest Farm Airstrip",
+    "icao": "GB-0373",
+    "lat": 52.669214,
+    "lon": -3.0299325
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Yorkshire Gliding Club",
+    "icao": "GB-0376",
+    "lat": 54.2306616,
+    "lon": -1.2111429
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Latch Farm Airstrip",
+    "icao": "GB-0379",
+    "lat": 55.8742,
+    "lon": -3.45464
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "North Hill Glider Field",
+    "icao": "GB-0380",
+    "lat": 50.851586,
+    "lon": -3.274816
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Seighford Glider Field",
+    "icao": "GB-0382",
+    "lat": 52.827545,
+    "lon": -2.208165
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hollym Airfield",
+    "icao": "GB-0387",
+    "lat": 53.7157,
+    "lon": 0.049669
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Coleman Green Airstrip",
+    "icao": "GB-0390",
+    "lat": 51.7918157,
+    "lon": -0.274944
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "South Wales Gliding Club",
+    "icao": "GB-0392",
+    "lat": 51.7193476,
+    "lon": -2.8487476
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Currock Hill Glider Field",
+    "icao": "GB-0393",
+    "lat": 54.9331,
+    "lon": -1.84681
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Main Hall Farm Airfield",
+    "icao": "GB-0395",
+    "lat": 52.2719444444,
+    "lon": -0.0708333333
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "St Michaels",
+    "icao": "GB-0398",
+    "lat": 53.8518,
+    "lon": -2.79346
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Lamb Holm Airfield",
+    "icao": "GB-0400",
+    "lat": 58.8876,
+    "lon": -2.89184
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Knockbain Farm Airstrip",
+    "icao": "GB-0402",
+    "lat": 57.5895,
+    "lon": -4.46539
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Norwood Lodge Airstrip",
+    "icao": "GB-0404",
+    "lat": 51.8361993,
+    "lon": 1.1157883
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Yearby Airstrip",
+    "icao": "GB-0407",
+    "lat": 54.5847,
+    "lon": -1.06953
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Skydive Strathallan",
+    "icao": "GB-0409",
+    "lat": 56.3253071,
+    "lon": -3.7492998
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Nether Huntlywood Airstrip",
+    "icao": "GB-0413",
+    "lat": 55.676638,
+    "lon": -2.60787
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Burnham Airstrip",
+    "icao": "GB-0425",
+    "lat": 52.938004,
+    "lon": 0.772644
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Drayton St. Leonard",
+    "icao": "GB-0428",
+    "lat": 51.6641,
+    "lon": -1.12693
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Lleweni Parc Glyndwr Soaring Club",
+    "icao": "GB-0429",
+    "lat": 53.210445,
+    "lon": -3.3855523
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Ludham Airfield",
+    "icao": "GB-0434",
+    "lat": 52.7185,
+    "lon": 1.55172
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Charlton Mires Airstrip",
+    "city": "Charlton Mires Airstrip",
+    "name": "Charlton Mires Airstrip",
+    "icao": "GB-0436",
+    "lat": 55.4793,
+    "lon": -1.72477
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Ayton Castle Airstrip",
+    "icao": "GB-0437",
+    "lat": 55.8512,
+    "lon": -2.11824
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Tarn Farm Airfield (Rossall Field)",
+    "icao": "GB-0440",
+    "lat": 53.9354,
+    "lon": -2.8432
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Park Hall Airstrip",
+    "icao": "GB-0445",
+    "lat": 52.9824,
+    "lon": -1.37108
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Northern Ireland",
+    "name": "Slieve Croob Airfield",
+    "icao": "GB-0448",
+    "lat": 54.329596,
+    "lon": -5.945292
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Witherenden Airstrip",
+    "icao": "GB-0450",
+    "lat": 51.0046,
+    "lon": 0.621697
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Mendlesham Airstrip",
+    "icao": "GB-0452",
+    "lat": 52.2295,
+    "lon": 1.12393
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Mitton Airstrip",
+    "icao": "GB-0454",
+    "lat": 52.732917,
+    "lon": -2.185017
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "London Colney",
+    "icao": "GB-0466",
+    "lat": 51.7056,
+    "lon": -0.274931
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Ewesley Airstrip",
+    "icao": "GB-0468",
+    "lat": 55.2205,
+    "lon": -1.92621
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Roserrow Airstrip",
+    "icao": "GB-0471",
+    "lat": 50.5617,
+    "lon": -4.89654
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Over Farm Microlight",
+    "icao": "GB-0473",
+    "lat": 51.8761,
+    "lon": -2.28139
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Onecoat Morridge Airstrip",
+    "icao": "GB-0477",
+    "lat": 53.1154,
+    "lon": -1.94472
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Rhedyn Coch Farm Airstrip",
+    "icao": "GB-0479",
+    "lat": 53.2833,
+    "lon": -3.36713
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Viners Airstrip",
+    "icao": "GB-0481",
+    "lat": 52.4806,
+    "lon": -1.34255
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Birds Edge Airstrip",
+    "icao": "GB-0484",
+    "lat": 53.567,
+    "lon": -1.68403
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Northern Ireland",
+    "name": "Loughbrickland Airstrip",
+    "icao": "GB-0487",
+    "lat": 54.326999,
+    "lon": -6.291662
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Bognor Regis",
+    "icao": "EGKC",
+    "lat": 50.801667,
+    "lon": -0.658847
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Northern Ireland",
+    "name": "Dunnamanagh Airstrip",
+    "icao": "GB-0491",
+    "lat": 54.889695,
+    "lon": -7.266047
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Northern Ireland",
+    "name": "Blackhill Airstrip",
+    "icao": "GB-0493",
+    "lat": 54.8042209,
+    "lon": -6.7556928
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Northorpe Fen Airstrip",
+    "icao": "GB-0501",
+    "lat": 52.7454779,
+    "lon": -0.3423425
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Weston-super-Mare Heliport",
+    "icao": "GB-0515",
+    "lat": 51.3389,
+    "lon": -2.9326
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Wood Farm Airstrip",
+    "icao": "GB-0522",
+    "lat": 52.1216274,
+    "lon": -0.6948611
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Pilmuir Farm Airstrip",
+    "icao": "GB-0525",
+    "lat": 56.2240212,
+    "lon": -2.9776945
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "North Moreton Airstrip",
+    "icao": "GB-0526",
+    "lat": 51.603506,
+    "lon": -1.184651
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Ballone Castle Airstrip",
+    "icao": "GB-0540",
+    "lat": 57.832293,
+    "lon": -3.808089
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Anniesfield Microlight Site",
+    "icao": "GB-0549",
+    "lat": 51.751637,
+    "lon": 0.699028
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Meppershall",
+    "icao": "GB-0552",
+    "lat": 52.02053,
+    "lon": -0.355031
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Carr Valley",
+    "icao": "GB-0554",
+    "lat": 53.688505,
+    "lon": -2.796592
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Blooms Farm Airstrip",
+    "icao": "GB-0556",
+    "lat": 51.994166,
+    "lon": 0.556438
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Northern Ireland",
+    "name": "Aughrim Airstrip",
+    "icao": "GB-0559",
+    "lat": 54.093811,
+    "lon": -6.045952
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF North Killingholme",
+    "icao": "GB-0566",
+    "lat": 53.636089,
+    "lon": -0.291481
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Stanton Harcourt Air Base",
+    "icao": "GB-0567",
+    "lat": 51.7462103,
+    "lon": -1.4014872
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Rivar Hill Glider Field",
+    "icao": "GB-0569",
+    "lat": 51.3414659,
+    "lon": -1.541894
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Poulton",
+    "icao": "GB-0571",
+    "lat": 53.129618,
+    "lon": -2.892399
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Kirriemuir Farm Strip",
+    "icao": "GB-0577",
+    "lat": 56.650081,
+    "lon": -3.027775
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Winkwood Farm Airstrip",
+    "icao": "GB-0581",
+    "lat": 51.1449,
+    "lon": -0.6650901
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Yoxford Airstrip",
+    "icao": "GB-0584",
+    "lat": 52.277934,
+    "lon": 1.50909
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Waterloo Hotel Helistrip",
+    "icao": "GB-0598",
+    "lat": 53.086877,
+    "lon": -3.797174
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Upottery Air Base",
+    "icao": "GB-0603",
+    "lat": 50.885745,
+    "lon": -3.160606
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Tunbridge Wells Hospital Helipad",
+    "icao": "GB-0605",
+    "lat": 51.149036,
+    "lon": 0.307619
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Stradishall Air Base",
+    "icao": "GB-0610",
+    "lat": 52.130551,
+    "lon": 0.520487
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "RAF Dallachy Air Base",
+    "icao": "GB-0043",
+    "lat": 57.656957,
+    "lon": -3.065902
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Staindrop Private Airstrip",
+    "icao": "GB-0093",
+    "lat": 54.57053,
+    "lon": -1.792738
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Ysbyty Gwynedd Hospital Heliport",
+    "icao": "GB-0396",
+    "lat": 53.208729,
+    "lon": -4.15706
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Faldingworth Air Base",
+    "icao": "GB-0519",
+    "lat": 53.3557506,
+    "lon": -0.4478305
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Woodditton Airstrip",
+    "icao": "GB-0521",
+    "lat": 52.1988831,
+    "lon": 0.4424435
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Wormingford Glider Field",
+    "icao": "GB-0530",
+    "lat": 51.941419,
+    "lon": 0.789459
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Woodwalton Private Airstrip",
+    "icao": "GB-0536",
+    "lat": 52.4211117,
+    "lon": -0.2485964
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Ridgewell Glider Field",
+    "icao": "GB-0538",
+    "lat": 52.0492464,
+    "lon": 0.5582719
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Warren Farm Airstrip",
+    "icao": "GB-0591",
+    "lat": 51.290216,
+    "lon": -2.719748
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Topcroft Farm Airstrip",
+    "icao": "GB-0593",
+    "lat": 52.465464,
+    "lon": 1.330176
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Darlton Gliding Club",
+    "icao": "GB-0616",
+    "lat": 53.244587,
+    "lon": -0.859207
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Ysbyty Glan Clywd Hospital Heliport",
+    "icao": "GB-0617",
+    "lat": 53.273738,
+    "lon": -3.498112
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Tongham Airstrip",
+    "icao": "GB-0621",
+    "lat": 51.227645,
+    "lon": -0.728329
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Dairy House Farm Airfield",
+    "icao": "GB-0622",
+    "lat": 53.106477,
+    "lon": -2.5037106
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Aintree University Hospital Heliport",
+    "icao": "GB-0625",
+    "lat": 53.4647107,
+    "lon": -2.9284169
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Louth Airstrip",
+    "icao": "GB-0627",
+    "lat": 53.3579863,
+    "lon": 0.0326153
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hold Farm Airstrip",
+    "icao": "GB-0629",
+    "lat": 52.342384,
+    "lon": -0.782441
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Royal Glamorgan Hospital Heliport",
+    "icao": "GB-0631",
+    "lat": 51.546332,
+    "lon": -3.394245
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Debach Airfield",
+    "icao": "GB-0632",
+    "lat": 52.1341341,
+    "lon": 1.2659579
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Southery Airstrip",
+    "icao": "GB-0634",
+    "lat": 52.53854,
+    "lon": 0.382986
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Shelsley-Beauchamp Airstrip",
+    "icao": "GB-0638",
+    "lat": 52.2603384,
+    "lon": -2.39192
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Ramsdean private airstrip",
+    "icao": "GB-0649",
+    "lat": 50.992342,
+    "lon": -0.993607
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF Ouston Air Base",
+    "icao": "GB-0386",
+    "lat": 55.024541,
+    "lon": -1.874803
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Barcombe-North Airstrip",
+    "icao": "GB-0594",
+    "lat": 50.935009,
+    "lon": 0.031887
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Pauncefoot Farm Airstrip",
+    "icao": "GB-0652",
+    "lat": 50.976818,
+    "lon": -1.520684
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Pencraig Airstrip",
+    "icao": "GB-0654",
+    "lat": 52.833151,
+    "lon": -3.419661
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Houghton Kepier Airstrip",
+    "icao": "GB-0657",
+    "lat": 54.8374549,
+    "lon": -1.4757603
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "RAF North Pickenham Air Base",
+    "icao": "GB-0659",
+    "lat": 52.627378,
+    "lon": 0.732724
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Morriston Hospital Helipad",
+    "icao": "GB-0663",
+    "lat": 51.684048,
+    "lon": -3.937201
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Middle Chinnock Airstrip",
+    "icao": "GB-0668",
+    "lat": 50.915318,
+    "lon": -2.736626
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Mayfield Farm Airstrip",
+    "icao": "GB-0670",
+    "lat": 55.645872,
+    "lon": -4.764698
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hendon Aerodrome",
+    "icao": "GB-0674",
+    "lat": 51.601,
+    "lon": -0.245
+  },
+  {
+    "country": "United Kingdom",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "RAF Leiston",
+    "icao": "GB-0676",
+    "lat": 52.2207,
+    "lon": 1.554995
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Marsh Hill Farm Airstrip",
+    "icao": "GB-0678",
+    "lat": 51.774904,
+    "lon": -0.832815
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Luss Seaplane Terminal",
+    "icao": "GB-0683",
+    "lat": 56.120657,
+    "lon": -4.650422
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Knettishall Airstrip",
+    "icao": "GB-0710",
+    "lat": 52.376512,
+    "lon": 0.88908
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Causey Park Airstrip UL",
+    "icao": "GB-0712",
+    "lat": 55.2547,
+    "lon": -1.7126
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Newton-on-Ratcliffe Airstrip",
+    "icao": "GB-0721",
+    "lat": 54.29,
+    "lon": -0.7443
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Thornton Watlass Airstrip UL",
+    "icao": "GB-0726",
+    "lat": 54.2617,
+    "lon": -1.6389
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Burton-Constable Airstrip",
+    "icao": "GB-0729",
+    "lat": 53.808811,
+    "lon": -0.193634
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Warrington Airstrip",
+    "icao": "GB-0736",
+    "lat": 53.4101,
+    "lon": -2.5093
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Dalcross Heliport",
+    "icao": "GB-0742",
+    "lat": 57.542328,
+    "lon": -4.068916
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Shempston Farm Airstrip",
+    "icao": "GB-0746",
+    "lat": 57.6958,
+    "lon": -3.3661
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Bovingdon Airstrip",
+    "icao": "GB-0751",
+    "lat": 51.7281,
+    "lon": -0.5474
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hamilton Farm Airstrip",
+    "icao": "GB-0753",
+    "lat": 51.093609,
+    "lon": 0.88829
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hill Farm Airstrip",
+    "icao": "GB-0755",
+    "lat": 53.840338,
+    "lon": -0.211895
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hawksview Airstrip",
+    "icao": "GB-0764",
+    "lat": 53.342349,
+    "lon": -2.52458
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Holly Hill Farm Airstrip",
+    "icao": "GB-0772",
+    "lat": 52.806,
+    "lon": 0.9585
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "White Fen Farm Airstrip",
+    "icao": "GB-0773",
+    "lat": 52.51564,
+    "lon": -0.005399
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "East Haxted Farm Airstrip",
+    "icao": "GB-0782",
+    "lat": 51.187884,
+    "lon": 0.038667
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Welcross Farm Airstrip",
+    "icao": "GB-0792",
+    "lat": 51.0589,
+    "lon": -0.3791
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Lavenham Airstrip",
+    "icao": "GB-0796",
+    "lat": 52.132909,
+    "lon": 0.773785
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Radley Farm Airstrip",
+    "icao": "GB-0798",
+    "lat": 51.435778,
+    "lon": -1.465924
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Elmham Lodge Airstrip",
+    "icao": "GB-0807",
+    "lat": 52.744866,
+    "lon": 0.933151
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hinderclay Meadows Glider Field",
+    "icao": "GB-0859",
+    "lat": 52.344475,
+    "lon": 0.975893
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Llangarron Private Airstrip",
+    "icao": "GB-0863",
+    "lat": 51.883035,
+    "lon": -2.699869
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hatchgate Farm Airstrip",
+    "icao": "GB-0864",
+    "lat": 51.341149,
+    "lon": -0.924697
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Hollym West",
+    "icao": "GB-0868",
+    "lat": 53.711034,
+    "lon": 0.036907
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Mosside Farm Airstrip",
+    "icao": "GB-0870",
+    "lat": 55.741982,
+    "lon": -3.810046
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Deptford Airstrip",
+    "icao": "GB-0871",
+    "lat": 51.1476,
+    "lon": -1.971
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Curry Rivel Airstrip",
+    "icao": "GB-0875",
+    "lat": 51.013215,
+    "lon": -2.883267
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Northern Ireland",
+    "name": "Coalisland Airstrip",
+    "icao": "GB-0878",
+    "lat": 54.53012,
+    "lon": -6.65808
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Scotland",
+    "name": "Crail",
+    "icao": "GB-0882",
+    "lat": 56.268619,
+    "lon": -2.606592
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Tiffenden Airstrip",
+    "icao": "GB-0884",
+    "lat": 51.094475,
+    "lon": 0.740868
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Batch End Farm Airstrip",
+    "icao": "GB-0886",
+    "lat": 51.2975,
+    "lon": -2.95579
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Grove Field Airstrip",
+    "icao": "GB-0889",
+    "lat": 52.229,
+    "lon": -1.61853
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Rydinghurst Farm Airstrip",
+    "icao": "GB-0891",
+    "lat": 51.146765,
+    "lon": -0.525563
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Wales",
+    "name": "Rhoshirwaun",
+    "icao": "GB-0893",
+    "lat": 52.84753,
+    "lon": -4.68153
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Wateringhill Farm Airstrip",
+    "icao": "GB-0896",
+    "lat": 52.51163,
+    "lon": 0.18349
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Trench Farm Airstrip",
+    "icao": "GB-0898",
+    "lat": 52.95193,
+    "lon": -2.92244
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "New Grimmet Farm Airstrip",
+    "icao": "GB-0904",
+    "lat": 55.361009,
+    "lon": -4.643065
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Tracy Island Airstrip",
+    "icao": "GB-0905",
+    "lat": 50.86442,
+    "lon": -2.91118
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "England",
+    "name": "Ravensworth Private Airstrip",
+    "icao": "GB-0907",
+    "lat": 54.46977,
+    "lon": -1.79088
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Aberdeenshire",
+    "name": "RAF Banff",
+    "icao": "GB-0109",
+    "lat": 57.666903,
+    "lon": -2.64053
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Allensmore",
+    "name": "Allensmore Airfield",
+    "icao": "GB-0318",
+    "lat": 51.989967,
+    "lon": -2.781699
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Arclid",
+    "name": "Arclid Airfield",
+    "icao": "GB-0320",
+    "lat": 53.14197,
+    "lon": -2.318138
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Arran",
+    "name": "Arran Heliport",
+    "icao": "GB-0322",
+    "lat": 55.57663,
+    "lon": -5.134378
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Ashford",
+    "name": "Lympne Airport",
+    "icao": "EGMK",
+    "lat": 51.08,
+    "lon": 1.013
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Ashton-In-Makerfield",
+    "name": "Haydock Park Airstrip",
+    "icao": "GB-0309",
+    "lat": 53.478357,
+    "lon": -2.622433
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Aubourn",
+    "name": "Blackmoor Farm Airstrip",
+    "icao": "GB-0695",
+    "lat": 53.157708,
+    "lon": -0.586567
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Banchory",
+    "name": "Raemoir House Hotel Helipad",
+    "icao": "GB-0636",
+    "lat": 57.08511,
+    "lon": -2.505362
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Baxterley",
+    "name": "Baxterley Aerodrome",
+    "icao": "GB-0324",
+    "lat": 52.56877,
+    "lon": -1.614299
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bealbury",
+    "name": "St Mellion Airstrip",
+    "icao": "GB-0488",
+    "lat": 50.4752449,
+    "lon": -4.3084034
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bedfordshire",
+    "name": "RAF Cardington",
+    "icao": "US-0221",
+    "lat": 52.108922,
+    "lon": -0.422499
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bedworth",
+    "name": "Camp Farm Airstrip",
+    "icao": "GB-0694",
+    "lat": 52.473919,
+    "lon": -1.446033
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Berkshire",
+    "name": "RAF Greenham Common",
+    "icao": "EWY",
+    "lat": 51.379,
+    "lon": -1.281
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bethersden",
+    "name": "Fridd Farm Airstrip",
+    "icao": "GB-0749",
+    "lat": 51.1423,
+    "lon": 0.7585
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bideford",
+    "name": "Lake Heliport Abbotsham",
+    "icao": "GB-0644",
+    "lat": 51.032554,
+    "lon": -4.251607
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Binham",
+    "name": "Manor Farm Airstrip",
+    "icao": "GB-0253",
+    "lat": 52.9126035,
+    "lon": 0.952548
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Birmingham",
+    "name": "Queen Elizabeth Hospital Helipad",
+    "icao": "GB-0346",
+    "lat": 52.452751,
+    "lon": -1.944705
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bitteswell",
+    "name": "Bitteswell Farm Airstrip",
+    "icao": "GB-0687",
+    "lat": 52.475,
+    "lon": -1.2076
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Blackdown / Ashow",
+    "name": "Bericote Farm Airstrip",
+    "icao": "GB-0693",
+    "lat": 52.32719,
+    "lon": -1.547935
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Blair Atholl",
+    "name": "Blair Atholl Airfield",
+    "icao": "GB-0329",
+    "lat": 56.763509,
+    "lon": -3.825599
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Blisworth",
+    "name": "Buttermilk Hall Farm",
+    "icao": "GB-0876",
+    "lat": 52.15371,
+    "lon": -0.92815
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Bonnybank",
+    "name": "Balgrummo Steading Airstrip",
+    "icao": "GB-0740",
+    "lat": 56.2178,
+    "lon": -3.0207
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Boreham",
+    "name": "Essex Police Heliport",
+    "icao": "GB-0338",
+    "lat": 51.781395,
+    "lon": 0.52142
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Boston",
+    "name": "Boston Aerodrome",
+    "icao": "GB-0058",
+    "lat": 52.9745654966,
+    "lon": -0.0707674026489
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Boughton",
+    "name": "Boughton North Airfield",
+    "icao": "GB-0330",
+    "lat": 52.590886,
+    "lon": 0.517013
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Boulmer",
+    "name": "RAF Boulmer",
+    "icao": "GB-0041",
+    "lat": 55.421025,
+    "lon": -1.600571
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bourton",
+    "name": "Thornborough Grounds Airstrip",
+    "icao": "GB-0208",
+    "lat": 52.005743,
+    "lon": -0.935664
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Brecon (Powys)",
+    "name": "Infantry Battle School Helicopter Base",
+    "icao": "GB-0861",
+    "lat": 51.942783,
+    "lon": -3.3601
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Breighton",
+    "name": "Breighton Airfield",
+    "icao": "EGBR",
+    "lat": 53.8024,
+    "lon": -0.915964
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bridgewater",
+    "name": "Westonzoyland Microlight",
+    "icao": "GB-0203",
+    "lat": 51.1077398,
+    "lon": -2.911336
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Bridlington",
+    "name": "Bridlington Airfield",
+    "icao": "GB-0335",
+    "lat": 54.120749,
+    "lon": -0.236527
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Brunton",
+    "name": "Brunton Airfield",
+    "icao": "GB-0039",
+    "lat": 55.5245496174,
+    "lon": -1.67790412903
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Buckingham",
+    "name": "Finmere Aerodrome",
+    "icao": "GB-0077",
+    "lat": 51.9849858607999,
+    "lon": -1.06515884399
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Buckna (Co Antrim)",
+    "name": "Slemish Airfield",
+    "icao": "GB-0879",
+    "lat": 54.902845,
+    "lon": -6.135285
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Burbage",
+    "name": "Bowden Farm Airstrip",
+    "icao": "GB-0839",
+    "lat": 51.3619,
+    "lon": -1.6873
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Burton-on-the-Wolds",
+    "name": "Horse Leys Farm Airstrip",
+    "icao": "GB-0036",
+    "lat": 52.784969,
+    "lon": -1.096687
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Caithness",
+    "name": "RAF Castletown",
+    "icao": "ADJ",
+    "lat": 58.5847198881,
+    "lon": -3.34816932678
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Calverton",
+    "name": "Salterford Farm Airfield",
+    "icao": "GB-0504",
+    "lat": 53.0617449,
+    "lon": -1.0942177
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Cambridgeshire",
+    "name": "RAF Castle Camps",
+    "icao": "BE-0005",
+    "lat": 52.051389,
+    "lon": 0.378611
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Canterbury",
+    "name": "Canterbury Airfield",
+    "icao": "GB-0067",
+    "lat": 51.291875,
+    "lon": 0.999584
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Cark",
+    "name": "Cark airfield",
+    "icao": "Cark",
+    "lat": 54.163753,
+    "lon": -2.962299
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Carrickmore",
+    "name": "Carrickmore Airstrip",
+    "icao": "GB-0546",
+    "lat": 54.572102,
+    "lon": -7.044873
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Castle Douglas",
+    "name": "Glenswinton Farm Airstrip",
+    "icao": "GB-0201",
+    "lat": 55.0475833333,
+    "lon": -4.0317666667
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Cefneithin, Maesybont, Carmarthenshire",
+    "name": "Coetir Bach Farm Airstrip",
+    "icao": "GB-0873",
+    "lat": 51.806638,
+    "lon": -4.106462
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Chapelton (Lanarkshire)",
+    "name": "Nethershields Farm Airstrip",
+    "icao": "GB-0741",
+    "lat": 55.712329,
+    "lon": -4.075713
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Charlemont, Co Armagh",
+    "name": "The Moy Airstrip",
+    "icao": "GB-0877",
+    "lat": 54.43514,
+    "lon": -6.67659
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Charmy Down",
+    "name": "Bath \"Charmy Down\" airstrip",
+    "icao": "GB-0853",
+    "lat": 51.4266,
+    "lon": -2.3511
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Chavenage Green",
+    "name": "Orange Grove Barn Airstrip",
+    "icao": "GB-0840",
+    "lat": 51.6677,
+    "lon": -2.1962
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Cheshire",
+    "name": "RAF Calveley",
+    "icao": "ABE",
+    "lat": 53.113333,
+    "lon": -2.603889
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Chulmleigh",
+    "name": "Eggesford Airfield",
+    "icao": "GB-0052",
+    "lat": 50.866929123,
+    "lon": -3.86366844177
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Coleraine",
+    "name": "Causeway Airfield",
+    "icao": "GB-0008",
+    "lat": 55.05811,
+    "lon": -6.5834
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Colonsay",
+    "name": "Colonsay Airstrip",
+    "icao": "EGEY",
+    "lat": 56.057499,
+    "lon": -6.24306
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "County Down",
+    "name": "RAF Bishopscourt",
+    "icao": "GB-0120",
+    "lat": 54.3074102846,
+    "lon": -5.57547569275
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Craigavon",
+    "name": "Tandragee Airstrip",
+    "icao": "GB-0410",
+    "lat": 54.3865651,
+    "lon": -6.4001751
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Croft",
+    "name": "Croft Airstrip",
+    "icao": "GB-0303",
+    "lat": 53.1231227,
+    "lon": 0.2522559
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Cromer",
+    "name": "Northrepps International Airport",
+    "icao": "GB-0040",
+    "lat": 52.901659,
+    "lon": 1.328642
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Dalby Forest",
+    "name": "South Moor Farm Airstrip",
+    "icao": "GB-0565",
+    "lat": 54.299574,
+    "lon": -0.606567
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Dale",
+    "name": "RNAS Dale Air Base",
+    "icao": "GB-0579",
+    "lat": 51.714807,
+    "lon": -5.194209
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Darlington",
+    "name": "Croft Farm Airstrip",
+    "icao": "GB-0713",
+    "lat": 54.4579,
+    "lon": -1.5608
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Defford",
+    "name": "Croft Farm Airfield",
+    "icao": "GB-0024",
+    "lat": 52.0856666667,
+    "lon": -2.13572222222
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Deighton",
+    "name": "Gilrudding Grange Airstrip",
+    "icao": "GB-0714",
+    "lat": 53.8936,
+    "lon": -1.0676
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Deptford (Wilts)",
+    "name": "Deptford \"Farm\" Airstrip",
+    "icao": "GB-0872",
+    "lat": 51.16246,
+    "lon": -1.97636
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Dinas",
+    "name": "Dinas Farm Private Airstrip",
+    "icao": "GB-0894",
+    "lat": 52.897419,
+    "lon": -4.572135
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Doncaster",
+    "name": "Doncaster Airfield",
+    "icao": "GB-0510",
+    "lat": 53.513889,
+    "lon": -1.11
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Doveridge",
+    "name": "Palmer Moor Farm Airstrip",
+    "icao": "GB-0596",
+    "lat": 52.899582,
+    "lon": -1.801554
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Droitwich",
+    "name": "Rotorspan",
+    "icao": "GB-0496",
+    "lat": 52.285500001,
+    "lon": -2.1823
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Drumshade",
+    "name": "Former Drumshade Glider Field",
+    "icao": "GB-0576",
+    "lat": 56.644171,
+    "lon": -3.025844
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Dunston Heath",
+    "name": "Valley Farm Airstrip",
+    "icao": "GB-0771",
+    "lat": 52.76239,
+    "lon": -2.12734
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Durley",
+    "name": "Hill Farm Airstrip",
+    "icao": "GB-0760",
+    "lat": 50.9343,
+    "lon": -1.2658
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "East Garston",
+    "name": "Manor Farm Airstrip",
+    "icao": "GB-0761",
+    "lat": 51.4957,
+    "lon": -1.4822
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "East Sussex",
+    "name": "RAF Chailey",
+    "icao": "US-0222",
+    "lat": 50.955278,
+    "lon": -0.055556
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Ebrington (Glos)",
+    "name": "Home Farm Airstrip",
+    "icao": "GB-0841",
+    "lat": 52.0533,
+    "lon": -1.729
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Eddsfield",
+    "name": "Eddsfield Airfield",
+    "icao": "GB-0066",
+    "lat": 54.111371,
+    "lon": -0.4617264
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Edington (Wilts)",
+    "name": "Edington Airstrip",
+    "icao": "GB-0762",
+    "lat": 51.267796,
+    "lon": -2.101908
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Egerton",
+    "name": "Egerton Airfield",
+    "icao": "GB-0069",
+    "lat": 51.1913670406,
+    "lon": 0.688490867615
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Errol",
+    "name": "RAF Errol (closed) Air Base",
+    "icao": "GB-0575",
+    "lat": 56.4034864,
+    "lon": -3.1850436
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Essex",
+    "name": "RAF Birch",
+    "icao": "GB-0118",
+    "lat": 51.8425,
+    "lon": 0.780556
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Essex",
+    "name": "RAF Bradwell Bay",
+    "icao": "GB-0133",
+    "lat": 51.735278,
+    "lon": 0.901667
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Fadmoor, Kirbymoorside",
+    "name": "Boon Hill Farm Airstrip",
+    "icao": "EG19",
+    "lat": 54.308086,
+    "lon": -0.983105
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Farley Chamberlain++",
+    "name": "Farley Farm Airstrip",
+    "icao": "GB-0763",
+    "lat": 51.04818,
+    "lon": -1.444627
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Felton",
+    "name": "New Farm Airstrip",
+    "icao": "GB-0844",
+    "lat": 51.391,
+    "lon": -2.677
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Finningley",
+    "name": "Finningley Village Airstrip",
+    "icao": "GB-0289",
+    "lat": 53.5081624,
+    "lon": -0.9409418
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Fisherwick (Staffordshire)",
+    "name": "Fisherwick Airfield",
+    "icao": "GB-0820",
+    "lat": 52.672908,
+    "lon": -1.723502
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Ford",
+    "name": "RNAS Ford",
+    "icao": "GB-0511",
+    "lat": 50.817216,
+    "lon": -0.590155
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Foulby, Nostell, Yorkshire",
+    "name": "YAA Nostell Helicopter Port",
+    "icao": "GB-0716",
+    "lat": 53.6556,
+    "lon": -1.3971
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Frandley",
+    "name": "Frandley House Airstrip",
+    "icao": "GB-0731",
+    "lat": 53.3047,
+    "lon": -2.5442
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Frensham",
+    "name": "Wishangar Farm private Airstrip",
+    "icao": "GB-0418",
+    "lat": 51.1504806,
+    "lon": -0.808142
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Fulking",
+    "name": "Folly Farm Airstrip",
+    "icao": "GB-0765",
+    "lat": 50.904454,
+    "lon": -0.228803
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Gamlingay",
+    "name": "Gamlingay Helicopter Strip",
+    "icao": "GB-0767",
+    "lat": 52.1482,
+    "lon": -0.2141
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Garford",
+    "name": "Landead Farm Airstrip",
+    "icao": "GB-0768",
+    "lat": 51.649,
+    "lon": -1.3722
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Gilling East, Yorkshire",
+    "name": "Lodge Field House Airstrip",
+    "icao": "GB-0717",
+    "lat": 54.194,
+    "lon": -1.0671
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Glasgow",
+    "name": "Glasgow City Heliport",
+    "icao": "EGEG",
+    "lat": 55.8613891601562,
+    "lon": -4.29694414138793
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Glatton (Cambs)",
+    "name": "Manor Farm Airstrip",
+    "icao": "GB-0680",
+    "lat": 52.468717,
+    "lon": -0.312767
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Gloucestershire",
+    "name": "RAF Babdown Farm",
+    "icao": "GB-0104",
+    "lat": 51.6443087221,
+    "lon": -2.22370147704999
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Grateley (Hamps)",
+    "name": "Manor House Farm Airstrip",
+    "icao": "GB-0769",
+    "lat": 51.1768,
+    "lon": -1.6216
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Graveley",
+    "name": "Graveley Airstrip",
+    "icao": "GB-0401",
+    "lat": 51.9407,
+    "lon": -0.203425
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Great Ashfield",
+    "name": "Great Ashfield Airstrip",
+    "icao": "GB-0301",
+    "lat": 52.2572538,
+    "lon": 0.9372999
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Great Heck",
+    "name": "Bridge Cottage Airstrip",
+    "icao": "GB-0719",
+    "lat": 53.6787,
+    "lon": -1.1017
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Great Missenden, Bucks",
+    "name": "Black Horse Ballooning Club",
+    "icao": "GB-0609",
+    "lat": 51.710142,
+    "lon": -0.712451
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Haddenham (Bucks)",
+    "name": "Haddenham Backstable Airstrip",
+    "icao": "GB-0774",
+    "lat": 51.772,
+    "lon": -0.9101
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Haddon (Cambs)",
+    "name": "Furze Farm Airstrip",
+    "icao": "GB-0776",
+    "lat": 52.5275,
+    "lon": -0.3528
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hampshire",
+    "name": "RNAS/RAF Calshot",
+    "icao": "ABL",
+    "lat": 50.8199131549,
+    "lon": -1.30677223206
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hampshire",
+    "name": "RAF Bisterne",
+    "icao": "GB-0121",
+    "lat": 50.818333,
+    "lon": -1.780556
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hardwick",
+    "name": "Nut Tree Farm Airstrip",
+    "icao": "GB-0780",
+    "lat": 52.447065,
+    "lon": 1.300228
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Hatton",
+    "name": "Hatton Airstrip",
+    "icao": "GB-0285",
+    "lat": 57.4067508,
+    "lon": -1.9115685
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Haywood",
+    "name": "Broadmeadow Farm Airstrip",
+    "icao": "GB-0459",
+    "lat": 52.0258,
+    "lon": -2.76321
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hertfordshire",
+    "name": "RAF Bovingdon",
+    "icao": "GB-0130",
+    "lat": 51.726944,
+    "lon": -0.543333
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hexham (Northumbria)",
+    "name": "Loadman Farm Airstrip",
+    "icao": "GB-0828",
+    "lat": 54.941689,
+    "lon": -2.143493
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "High Ham",
+    "name": "Langport Airstrip",
+    "icao": "GB-0847",
+    "lat": 51.0789,
+    "lon": -2.8269
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hitchin",
+    "name": "Rush Green Airstrip",
+    "icao": "GB-0311",
+    "lat": 51.9042754,
+    "lon": -0.248437
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hoghton",
+    "name": "Higher Barn Farm Airstrip",
+    "icao": "GB-0732",
+    "lat": 53.7451,
+    "lon": -2.6059
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Horsham (Sussex)",
+    "name": "Oakland Farm Airstrip",
+    "icao": "GB-0785",
+    "lat": 51.04,
+    "lon": -0.3309
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Horton-cum-Studley",
+    "name": "Ventfield Farm Airstrip",
+    "icao": "GB-0794",
+    "lat": 51.80892,
+    "lon": -1.156054
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hougham",
+    "name": "Glebe Farm Airstrip",
+    "icao": "GB-0353",
+    "lat": 53.006495,
+    "lon": -0.690165
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hughley",
+    "name": "Mill Farm Airstrip",
+    "icao": "GB-0508",
+    "lat": 52.5835,
+    "lon": -2.637706
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Hulcote",
+    "name": "Hulcote Helimech",
+    "icao": "GB-0786",
+    "lat": 52.0312,
+    "lon": -0.6143
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Huntingdon",
+    "name": "RAF Warboys Air Base",
+    "icao": "GB-0588",
+    "lat": 52.3951,
+    "lon": -0.0931
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Huntshaw Cross",
+    "name": "Belle Vue Airfield",
+    "icao": "GB-0326",
+    "lat": 50.976851,
+    "lon": -4.097184
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Isle of Wight",
+    "name": "Yafford House Private Airstrip",
+    "icao": "GB-0585",
+    "lat": 50.63144,
+    "lon": -1.36393
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Kenley",
+    "name": "Kenley Aerodrome",
+    "icao": "GB-0384",
+    "lat": 51.3054288,
+    "lon": -0.0959572
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Kent",
+    "name": "RFC All Hallows / RAF All Hallows",
+    "icao": "GB-0091",
+    "lat": 51.4657720416,
+    "lon": 0.634846687316999
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Kent",
+    "name": "RAF Bekesbourne",
+    "icao": "GB-0115",
+    "lat": 51.252397,
+    "lon": 1.160015
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Kimbolton",
+    "name": "Stow Longa",
+    "icao": "GB-0211",
+    "lat": 52.31454,
+    "lon": -0.3611127
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Kingsey",
+    "name": "Shrove Furlong Farm Airstrip",
+    "icao": "GB-0787",
+    "lat": 51.7475,
+    "lon": -0.9084
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Kingsmuir",
+    "name": "Kingsmuir Airfield",
+    "icao": "GB-0236",
+    "lat": 56.2691557,
+    "lon": -2.7508106
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Kington",
+    "name": "Green Acres Airstrip",
+    "icao": "GB-0697",
+    "lat": 52.2136,
+    "lon": -3.0696
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Kirkcudbright",
+    "name": "Lennox Plunton Airstrip",
+    "icao": "GB-0651",
+    "lat": 54.841753,
+    "lon": -4.15884
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Knocking",
+    "name": "Sandford Hall Airstrip",
+    "icao": "GB-0359",
+    "lat": 52.804565,
+    "lon": -2.990793
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Laindon",
+    "name": "Bensons Farm Airstrip",
+    "icao": "GB-0788",
+    "lat": 51.5937,
+    "lon": 0.4445
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lambley",
+    "name": "Jericho Farm Airstrip",
+    "icao": "GB-0214",
+    "lat": 53.010297,
+    "lon": -1.057039
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Langar",
+    "name": "Langar Airfield",
+    "icao": "GB-0030",
+    "lat": 52.89593,
+    "lon": -0.90101
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Langham",
+    "name": "Ranksborough Farm Airstrip",
+    "icao": "GB-0639",
+    "lat": 52.688977,
+    "lon": -0.775251
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Langwathby",
+    "name": "Great North Air Ambulance",
+    "icao": "GB-0618",
+    "lat": 54.6916425,
+    "lon": -2.6621042
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Launton",
+    "name": "Field Farm Helistrip",
+    "icao": "GB-0793",
+    "lat": 51.913581,
+    "lon": -1.098268
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Leicestershire",
+    "name": "RAF Bitteswell",
+    "icao": "GB-0122",
+    "lat": 52.459444,
+    "lon": -1.246111
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lichfield",
+    "name": "Streethay Farm Airstrip",
+    "icao": "GB-0308",
+    "lat": 52.691874,
+    "lon": -1.785665
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lichfield",
+    "name": "Roddige Airfield",
+    "icao": "GB-0514",
+    "lat": 52.715263,
+    "lon": -1.745357
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lincolnshire",
+    "name": "RAF Cammeringham / RAF Ingham",
+    "icao": "GB-0244",
+    "lat": 53.3408413998,
+    "lon": -0.548758506775
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lincolnshire",
+    "name": "RAF Bardney",
+    "icao": "GB-0110",
+    "lat": 53.225278,
+    "lon": -0.291944
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lincolnshire",
+    "name": "RAF Bracebridge Heath",
+    "icao": "GB-0132",
+    "lat": 53.19244,
+    "lon": -0.523584
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lincolnshire",
+    "name": "RAF North Witham",
+    "icao": "GB-0142",
+    "lat": 52.7936797412,
+    "lon": -0.598154067993
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Liss",
+    "name": "Berry Grove Farm Airstrip",
+    "icao": "GB-0826",
+    "lat": 51.052914,
+    "lon": -0.896695
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Little Thetford",
+    "name": "Bedwell Hey Farm Airstrip",
+    "icao": "GB-0800",
+    "lat": 52.3728,
+    "lon": 0.2249
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "London",
+    "name": "Heston Aerodrome",
+    "icao": "GB-0888",
+    "lat": 51.491815,
+    "lon": -0.393909
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "London",
+    "name": "Vanguard Heliport",
+    "icao": "GB-0342",
+    "lat": 51.490626,
+    "lon": -0.025373
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Long Crendon (Bucks)",
+    "name": "Baileys Fram Airstrip",
+    "icao": "GB-0801",
+    "lat": 51.7789,
+    "lon": -1.0192
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Longframlington",
+    "name": "Athey's Moor Airfield",
+    "icao": "GB-0685",
+    "lat": 55.316961,
+    "lon": -1.785493
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Lower Upham",
+    "name": "Roughay Farm Airfield",
+    "icao": "GB-0802",
+    "lat": 50.988908,
+    "lon": -1.253471
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Malborough",
+    "name": "Lower Upham Farm Airfield",
+    "icao": "GB-0044",
+    "lat": 51.4966945187,
+    "lon": -1.71270847321
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Malmesbury Wiltshire",
+    "name": "Charlton Park Airstrip",
+    "icao": "GB-0259",
+    "lat": 51.5996654,
+    "lon": -2.078113
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Manby",
+    "name": "RAF Manby",
+    "icao": "EGXA",
+    "lat": 53.3611111111,
+    "lon": 0.0861111111111
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Marlborough",
+    "name": "Clench Common Airfield",
+    "icao": "GB-0045",
+    "lat": 51.389941,
+    "lon": -1.733522
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Marshfield",
+    "name": "Garston Farm Airstrip",
+    "icao": "GB-0848",
+    "lat": 51.4606,
+    "lon": -2.3012
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Marthall",
+    "name": "Pear Tree Farm Airstrip",
+    "icao": "GB-0547",
+    "lat": 53.279333,
+    "lon": -2.297641
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Maydown, Co. Derry",
+    "name": "Maydown Heliport",
+    "icao": "GB-0666",
+    "lat": 55.031915,
+    "lon": -7.23381
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Melbourne",
+    "name": "Riding Bank Farm Airstrip",
+    "icao": "GB-0701",
+    "lat": 52.8216,
+    "lon": -1.4479
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Meldreth",
+    "name": "Whitehill Farm Airstrip",
+    "icao": "GB-0212",
+    "lat": 52.0970531,
+    "lon": 0.0164536
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Merthyr Tydfil",
+    "name": "Prince Charles Hospital Helipad",
+    "icao": "GB-0647",
+    "lat": 51.763496,
+    "lon": -3.386852
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Milden",
+    "name": "Milden Airstrip",
+    "icao": "GB-0292",
+    "lat": 52.0697469,
+    "lon": 0.8570614
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Milson",
+    "name": "Little Down Farm Airstrip",
+    "icao": "GB-0293",
+    "lat": 52.361555,
+    "lon": -2.545782
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Minchinhampton",
+    "name": "Aston Down Airfield",
+    "icao": "GB-0011",
+    "lat": 51.7080555556,
+    "lon": -2.13055555556
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Moreton Pinkney",
+    "name": "Niden Manor Farm Airstrip",
+    "icao": "GB-0278",
+    "lat": 52.1258096,
+    "lon": -1.1700706
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Nayland",
+    "name": "Nayland Airstrip",
+    "icao": "GB-0300",
+    "lat": 51.974486,
+    "lon": 0.849895
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Nesscliffe",
+    "name": "Nesscliffe Camp Helipad",
+    "icao": "EGEZ",
+    "lat": 52.757778,
+    "lon": -2.9275
+  },
+  {
+    "country": "United Kingdom",
+    "state": "(unassigned)",
+    "city": "New Lane End",
+    "name": "Kenyon Hall Farm Airstrip",
+    "icao": "GB-0734",
+    "lat": 53.4542,
+    "lon": -2.5813
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Newby Wiske",
+    "name": "Wathstones Farm Airstrip",
+    "icao": "GB-0900",
+    "lat": 54.28966,
+    "lon": -1.44706
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Newport (IoW)",
+    "name": "St Mary's Hospital Helipad",
+    "icao": "GB-0352",
+    "lat": 50.711058,
+    "lon": -1.298346
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Norfolk",
+    "name": "RAF Bacton",
+    "icao": "GB-0105",
+    "lat": 52.838,
+    "lon": 1.479
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Norfolk",
+    "name": "RAF Bircham Newton",
+    "icao": "GB-0119",
+    "lat": 52.875,
+    "lon": 0.657
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Norfolk",
+    "name": "RAF Burgh Castle",
+    "icao": "GB-0144",
+    "lat": 52.584806,
+    "lon": 1.668789
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "North Elmham (Norfolk)",
+    "name": "New Lane Farm Airstrip",
+    "icao": "GB-0808",
+    "lat": 52.77046,
+    "lon": 0.93137
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "North Yorkshire",
+    "name": "RAF Acaster Malbis",
+    "icao": "GB-0087",
+    "lat": 53.879806506,
+    "lon": -1.11983299255
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Northumberland",
+    "name": "RAF Boulmer Air Base",
+    "icao": "GB-0129",
+    "lat": 55.408309,
+    "lon": -1.597223
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Norton-Juxta-Twycross",
+    "name": "Cottage Farm Airstrip UL",
+    "icao": "GB-0034",
+    "lat": 52.669857,
+    "lon": -1.520657
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Norwich",
+    "name": "Norfolk and Norwich University Hospital Helipad",
+    "icao": "GB-0658",
+    "lat": 52.619178,
+    "lon": 1.220813
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Oakhampton",
+    "name": "Manstage Airfield",
+    "icao": "GB-0061",
+    "lat": 50.729461,
+    "lon": -4.124357
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Oakley",
+    "name": "Oakley Microlight",
+    "icao": "GB-0490",
+    "lat": 51.7832811,
+    "lon": -1.074364
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Oban",
+    "name": "Lorn and Islands District General Hospital Helipad",
+    "icao": "GB-0174",
+    "lat": 56.3995,
+    "lon": -5.4746
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Oldbury on Severn (Glos)",
+    "name": "Oldbury on Severn Airstrip",
+    "icao": "GB-0849",
+    "lat": 51.6308,
+    "lon": -2.5593
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Orkney Isle",
+    "name": "Hoy/Longhope Airfield",
+    "icao": "GB-0070",
+    "lat": 58.791779,
+    "lon": -3.216076
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Osbaston",
+    "name": "Osbaston Lodge Farm Airstrip",
+    "icao": "GB-0475",
+    "lat": 52.6367,
+    "lon": -1.39051
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Oulton, Norfolk",
+    "name": "RAF Oulton Air Base",
+    "icao": "GB-0655",
+    "lat": 52.798818,
+    "lon": 1.181889
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Overstrand (Norfolk)",
+    "name": "Ivy Farm Airstrip",
+    "icao": "GB-0810",
+    "lat": 52.91066,
+    "lon": 1.34007
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Oxenhope",
+    "name": "Oxenhope Airfield",
+    "icao": "GB-0151",
+    "lat": 53.813771,
+    "lon": -1.933444
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Oxfordshire",
+    "name": "RAF Broadwell",
+    "icao": "GB-0139",
+    "lat": 51.7595529887,
+    "lon": -1.64125442504999
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Peasdown St John",
+    "name": "White Ox Mead Airstrip",
+    "icao": "GB-0037",
+    "lat": 51.319831,
+    "lon": -2.400856
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Pembrokeshire",
+    "name": "RNAS Pembroke/RNAS Milton/RAF Carew Cheriton",
+    "icao": "bl",
+    "lat": 51.690117088,
+    "lon": -4.81235504149999
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Pembrokeshire",
+    "name": "RAF Talbenny",
+    "icao": "GB-0136",
+    "lat": 51.758239,
+    "lon": -5.141378
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Peterborough",
+    "name": "Milton Airfield",
+    "icao": "GB-0055",
+    "lat": 52.5840688827,
+    "lon": -0.32735824585
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Piddington",
+    "name": "New Farm Airfield",
+    "icao": "GB-0881",
+    "lat": 52.175419,
+    "lon": -0.830905
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Port Talbot",
+    "name": "Old Park Farm Airstrip",
+    "icao": "GB-0035",
+    "lat": 51.5472691274999,
+    "lon": -3.71732711792
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Portadown",
+    "name": "Tarsan Lane Microlights",
+    "icao": "GB-0558",
+    "lat": 54.457555,
+    "lon": -6.436968
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Porthtowan",
+    "name": "Porthtowan Airfield",
+    "icao": "GB-0060",
+    "lat": 50.2842116083,
+    "lon": -5.2298784256
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Portmoak",
+    "name": "Portmoak Glider Field",
+    "icao": "GB-0545",
+    "lat": 56.191031,
+    "lon": -3.328505
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Portsmouth",
+    "name": "Queen Alexandra Hospital Heliport",
+    "icao": "GB-0350",
+    "lat": 50.851178,
+    "lon": -1.069046
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Preston Capes",
+    "name": "Red House Farm Airstrip",
+    "icao": "GB-0495",
+    "lat": 52.178085,
+    "lon": -1.176136
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Rattlesden",
+    "name": "Rattlesden",
+    "icao": "GB-0492",
+    "lat": 52.170757,
+    "lon": 0.872081
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Northern Ireland",
+    "city": "Redrock",
+    "name": "Redrock Airstrip",
+    "icao": "GB-0489",
+    "lat": 54.302863,
+    "lon": -6.585688
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Rendcomb",
+    "name": "Rendcomb Airfield",
+    "icao": "GB-0533",
+    "lat": 51.78252,
+    "lon": -1.95159
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Ripe",
+    "name": "Kitty Hawk Farm Airstrip",
+    "icao": "GB-0815",
+    "lat": 50.8693,
+    "lon": 0.1166
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "RISELEY Bedfordshire",
+    "name": "Sackville Farm Airstrip",
+    "icao": "GB-0551",
+    "lat": 52.262422,
+    "lon": -0.486598
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "Ross and Cromarty",
+    "name": "RAF Alness / RAF Invergordon",
+    "icao": "GB-0092",
+    "lat": 57.68202,
+    "lon": -4.260309
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Rothwell",
+    "name": "Rothwell Lodge Farm Airstrip",
+    "icao": "GB-0543",
+    "lat": 52.41156,
+    "lon": -0.790025
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Saltby",
+    "name": "Saltby Glider Field",
+    "icao": "GB-0557",
+    "lat": 52.829667,
+    "lon": -0.7125
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Saltford",
+    "name": "Avon Lane Airfield",
+    "icao": "GB-0494",
+    "lat": 51.4102105,
+    "lon": -2.4477922
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Sarratt, Herts",
+    "name": "New Model Farm Airstrip",
+    "icao": "GB-0661",
+    "lat": 51.673899,
+    "lon": -0.490286
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Sedlescombe",
+    "name": "Spilsteads Farm Airstrip",
+    "icao": "GB-0457",
+    "lat": 50.937,
+    "lon": 0.52078
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Sheepwash",
+    "name": "Westover Farm Airstrip",
+    "icao": "GB-0268",
+    "lat": 50.8421544,
+    "lon": -4.1670387
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Sherlowe",
+    "name": "Lower Grounds Farm Airstrip",
+    "icao": "GB-0276",
+    "lat": 52.735708,
+    "lon": -2.601444
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Shotteswell",
+    "name": "Banbury Airfield",
+    "icao": "GB-0419",
+    "lat": 52.100634,
+    "lon": -1.381742
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Shropshire",
+    "name": "RAF Atcham",
+    "icao": "GB-0101",
+    "lat": 52.690278,
+    "lon": -2.636667
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Silloth",
+    "name": "Silloth Airfiefd",
+    "icao": "GB-0154",
+    "lat": 54.8698,
+    "lon": -3.366
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Skirwith, Penrith",
+    "name": "Skelling Farm Glider Field",
+    "icao": "GB-0340",
+    "lat": 54.697922,
+    "lon": -2.584196
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Slawston (Leicestershire)",
+    "name": "Manor Farm Airstrip",
+    "icao": "GB-0681",
+    "lat": 52.540136,
+    "lon": -0.867233
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Somerset",
+    "name": "RAF Charmy Down",
+    "icao": "GB-0149",
+    "lat": 51.428380519,
+    "lon": -2.34540939331
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "South Cave",
+    "name": "Mount Airey Airstrip",
+    "icao": "GB-0273",
+    "lat": 53.7723222,
+    "lon": -0.5759365
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "South Wraxall (Wiltshire)",
+    "name": "South Wraxall private Airstrip",
+    "icao": "GB-0852",
+    "lat": 51.3853,
+    "lon": -2.255
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Southam",
+    "name": "Glebe Farm Airstrip",
+    "icao": "GB-0503",
+    "lat": 52.2007,
+    "lon": -1.3651
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Scotland",
+    "city": "St. Kilda",
+    "name": "Hirta Heliport",
+    "icao": "GB-0862",
+    "lat": 57.810211,
+    "lon": -8.571793
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Staffordshire",
+    "name": "RAF Abbots Bromley",
+    "icao": "GB-0086",
+    "lat": 52.8250683,
+    "lon": -1.8915796
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stanton, Northumbria",
+    "name": "Selby House Farm Airstrip",
+    "icao": "GB-0725",
+    "lat": 55.203059,
+    "lon": -1.80046
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Steeple Bumpstead",
+    "name": "Wildings Farm Airstrip",
+    "icao": "GB-0819",
+    "lat": 52.029499,
+    "lon": 0.448358
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stockton",
+    "name": "Glebe Farm Airstrip",
+    "icao": "GB-0517",
+    "lat": 51.133265,
+    "lon": -2.034948
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stoke Golding",
+    "name": "Stoke Golding Airfield",
+    "icao": "GB-0279",
+    "lat": 52.5800833,
+    "lon": -1.4313333
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stour Row (Dorset)",
+    "name": "Great House Farm Airstrip",
+    "icao": "GB-0854",
+    "lat": 50.983593,
+    "lon": -2.259858
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Stretton",
+    "name": "RNAS Stretton",
+    "icao": "GB-0312",
+    "lat": 53.34524,
+    "lon": -2.522535
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Suffolk",
+    "name": "RAF Bungay / RAF Flixton",
+    "icao": "GB-0143",
+    "lat": 52.4300596218,
+    "lon": 1.41835212708
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Sunderland",
+    "name": "Nissan Helipad",
+    "icao": "GB-0528",
+    "lat": 54.90891,
+    "lon": -1.483143
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Swaffham (Norfolk)",
+    "name": "Great Friars Thornes Farm Airstrip",
+    "icao": "GB-0822",
+    "lat": 52.658476,
+    "lon": 0.64167
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Tavistock",
+    "name": "Brent Tor Glider Field",
+    "icao": "GB-0015",
+    "lat": 50.5925,
+    "lon": -4.145278
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Thirsk",
+    "name": "Felixkirk Airstrip",
+    "icao": "GB-0260",
+    "lat": 54.2518757,
+    "lon": -1.2949511
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Thorney",
+    "name": "Carr Farm Airstrip",
+    "icao": "GB-0707",
+    "lat": 53.2331,
+    "lon": -0.7303
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Thurgarton",
+    "name": "Bankwood Farm Airstrip",
+    "icao": "GB-0602",
+    "lat": 53.045801,
+    "lon": -0.997581
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Torquay",
+    "name": "Torbay Daddyhole Plain",
+    "icao": "GB-0613",
+    "lat": 50.455712,
+    "lon": -3.514665
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Upper Heyford",
+    "name": "Lodge Farm Airstrip",
+    "icao": "GB-0507",
+    "lat": 52.2348172,
+    "lon": -1.0144367
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wadswick",
+    "name": "Wadswick Farm Airstrip",
+    "icao": "GB-0185",
+    "lat": 51.4108921,
+    "lon": -2.2200765
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Warrington",
+    "name": "RAF Burtonwood",
+    "icao": "GB-0145",
+    "lat": 53.410415,
+    "lon": -2.654348
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Warwickshire",
+    "name": "Castle Bromwich Aerodrome/RAF Castle Bromwich",
+    "icao": "ZA-0102",
+    "lat": 52.517222,
+    "lon": -1.786667
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Warwickshire",
+    "name": "RAF Atherstone",
+    "icao": "GB-0102",
+    "lat": 52.161111,
+    "lon": -1.686667
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Waterbeach",
+    "name": "Waterbeach Airfield",
+    "icao": "EGUK",
+    "lat": 52.281742,
+    "lon": 0.184532
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Watton",
+    "name": "RAF Watton Air Base",
+    "icao": "GB-0563",
+    "lat": 52.5621892,
+    "lon": 0.865384
+  },
+  {
+    "country": "United Kingdom",
+    "state": "Wales",
+    "city": "Welshpool",
+    "name": "Breidden Airfield",
+    "icao": "GB-0334",
+    "lat": 52.702036,
+    "lon": -3.092449
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "West Rainton",
+    "name": "Field House Farm Airstrip UL",
+    "icao": "GB-0727",
+    "lat": 54.8093,
+    "lon": -1.4946
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "West Sussex",
+    "name": "RAF Bognor",
+    "icao": "GB-0126",
+    "lat": 50.796205,
+    "lon": -0.702928
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Weybread, Suffolk",
+    "name": "Laurel Farm Airstrip",
+    "icao": "GB-0909",
+    "lat": 52.37791,
+    "lon": 1.30868
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Whitwell (IoW)",
+    "name": "Stockbridge Airstrip",
+    "icao": "GB-0830",
+    "lat": 50.6043,
+    "lon": -1.2709
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wigan",
+    "name": "Bryn Gates Airfield",
+    "icao": "GB-0310",
+    "lat": 53.513189,
+    "lon": -2.625593
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wilburton",
+    "name": "Mitchell's Farm Airstrip",
+    "icao": "GB-0270",
+    "lat": 52.337386,
+    "lon": 0.182883
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Willingham (Cambs)",
+    "name": "Coldharbour Farm Airstrip",
+    "icao": "GB-0831",
+    "lat": 52.3077,
+    "lon": 0.0404
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wilsford",
+    "name": "Hanbeck Farm Airstrip",
+    "icao": "GB-0708",
+    "lat": 52.9767,
+    "lon": -0.4887
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wiltshire",
+    "name": "RAF Castle Combe",
+    "icao": "MJG",
+    "lat": 51.489722,
+    "lon": -2.2125
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wimbourne",
+    "name": "Bowerswaine Farm Airfield",
+    "icao": "GB-0049",
+    "lat": 50.8898779146,
+    "lon": -1.98431968689
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wing (Bucks)",
+    "name": "Holmbeck Farm Airfield",
+    "icao": "GB-0365",
+    "lat": 51.9103045,
+    "lon": -0.7286654
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Winkleigh",
+    "name": "RAF Winkleigh",
+    "icao": "GB-0643",
+    "lat": 50.868134,
+    "lon": -3.960743
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Winwick",
+    "name": "Dalkeith Farm Airstrip",
+    "icao": "GB-0832",
+    "lat": 52.4151,
+    "lon": -0.3886
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Wisbech",
+    "name": "Marshland Airfield",
+    "icao": "EGSI",
+    "lat": 52.643611,
+    "lon": 0.295
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Woodchurch (Kent)",
+    "name": "Little Engeham Farm Airstrip",
+    "icao": "GB-0834",
+    "lat": 51.1003,
+    "lon": 0.7789
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Woonton",
+    "name": "Woonton Airstrip",
+    "icao": "GB-0460",
+    "lat": 52.1626,
+    "lon": -2.9462
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Yorkletts (Kent)",
+    "name": "Lamberhurst Farm Airstrip",
+    "icao": "GB-0837",
+    "lat": 51.321836,
+    "lon": 0.996376
+  },
+  {
+    "country": "United Kingdom",
+    "state": "England",
+    "city": "Yorkshire",
+    "name": "RAF Bempton",
+    "icao": "GB-0116",
+    "lat": 54.1499,
+    "lon": -0.1778
+  }
+]

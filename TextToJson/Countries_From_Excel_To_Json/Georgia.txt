@@ -1,0 +1,128 @@
+[
+  {
+    "country": "Georgia",
+    "state": "Tbilisi",
+    "city": "Tbilisi",
+    "name": "Tbilisi International Airport",
+    "icao": "UGTB",
+    "lat": 41.6692008972,
+    "lon": 44.95470047
+  },
+  {
+    "country": "Georgia",
+    "state": "Autonomous Republic of Adjara",
+    "city": "Batumi",
+    "name": "Batumi International Airport",
+    "icao": "UGSB",
+    "lat": 41.6102981567,
+    "lon": 41.5997009277
+  },
+  {
+    "country": "Georgia",
+    "state": "Samegrelo-Zemo Svaneti",
+    "city": "Mestia",
+    "name": "Mestia Queen Tamar Airport",
+    "icao": "UGMS",
+    "lat": 43.053597,
+    "lon": 42.749012
+  },
+  {
+    "country": "Georgia",
+    "state": "Mtskheta-Mtianeti",
+    "city": "Natakhtari",
+    "name": "Natakhtari Airfield",
+    "icao": "UGSA",
+    "lat": 41.920994,
+    "lon": 44.714355
+  },
+  {
+    "country": "Georgia",
+    "state": "Imereti",
+    "city": "Kutaisi",
+    "name": "Kutaisi West Airport",
+    "icao": "UG26",
+    "lat": 42.2486000061035,
+    "lon": 42.624698638916
+  },
+  {
+    "country": "Georgia",
+    "state": "Tbilisi",
+    "city": "Tbilisi",
+    "name": "Tbilisi Soganlug Air Base",
+    "icao": "UG24",
+    "lat": 41.6492004394531,
+    "lon": 44.9364013671875
+  },
+  {
+    "country": "Georgia",
+    "state": "Autonomous Republic of Adjara",
+    "city": "Autonomous Republic of Adjara",
+    "name": "Kobuleti Airfield",
+    "icao": "GE-0006",
+    "lat": 41.8405990600585,
+    "lon": 41.799461364746
+  },
+  {
+    "country": "Georgia",
+    "state": "Autonomous Republic of Abkhazia",
+    "city": "Autonomous Republic of Abkhazia",
+    "name": "Pskhu",
+    "icao": "GE-0015",
+    "lat": 43.3666666667,
+    "lon": 40.8166666666999
+  },
+  {
+    "country": "Georgia",
+    "state": "Samegrelo-Zemo Svaneti",
+    "city": "Mestia",
+    "name": "Mestia Airport",
+    "icao": "GE-0014",
+    "lat": 43.0684802086999,
+    "lon": 42.754240036
+  },
+  {
+    "country": "Georgia",
+    "state": "Samegrelo-Zemo Svaneti",
+    "city": "Poti",
+    "name": "Poti East Airport",
+    "icao": "GE-0009",
+    "lat": 42.1629024102,
+    "lon": 41.7058074474
+  },
+  {
+    "country": "Georgia",
+    "state": "Kvemo Kartli",
+    "city": "Tsalka",
+    "name": "Tsalka Helipad",
+    "icao": "GE-0008",
+    "lat": 41.5933990478515,
+    "lon": 44.0761985778808
+  },
+  {
+    "country": "Georgia",
+    "state": "Shida Kartli",
+    "city": "Tskhinval",
+    "name": "Tskhinvali Air Base",
+    "icao": "GE-0003",
+    "lat": 42.1899986267,
+    "lon": 43.9399986267
+  },
+  {
+    "country": "Georgia",
+    "state": "Kakheti",
+    "city": "Tsnori",
+    "name": "Signakhi Airport",
+    "icao": "GE-0012",
+    "lat": 41.634417415,
+    "lon": 46.0128879547
+  },
+  {
+    "country": "Georgia",
+    "state": "Samegrelo-Zemo Svaneti",
+    "city": "Zugdidi",
+    "name": "Zugdidi Airport",
+    "icao": "GE-0002",
+    "lat": 42.489200592041,
+    "lon": 41.8186988830566
+  }
+]

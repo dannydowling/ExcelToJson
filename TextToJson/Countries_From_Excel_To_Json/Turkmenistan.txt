@@ -1,0 +1,101 @@
+[
+  {
+    "country": "Turkmenistan",
+    "state": "Balkan",
+    "city": "Krasnovodsk",
+    "name": "Turkmenbashi Airport",
+    "icao": "UTAK",
+    "lat": 40.063301,
+    "lon": 53.007198
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "Lebap",
+    "city": "TÃ¼rkmenabat",
+    "name": "Turkmenabat Airport",
+    "icao": "UTAV",
+    "lat": 39.0833015441894,
+    "lon": 63.6133003234863
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "DaÅŸoguz",
+    "city": "DaÅŸoguz",
+    "name": "DaÅŸoguz Airport",
+    "icao": "UTAT",
+    "lat": 41.761101,
+    "lon": 59.826698
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "Balkan",
+    "city": "Balkan",
+    "name": "Yangadzha Airport",
+    "icao": "UT1F",
+    "lat": 40.038101196289,
+    "lon": 53.3286018371582
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "Lebap",
+    "city": "Amudar'ya",
+    "name": "Pitnyak Airport",
+    "icao": "UT1E",
+    "lat": 41.1244010925293,
+    "lon": 61.415298461914
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "Balkan",
+    "city": "Balkanabat",
+    "name": "Balkanabat Airport",
+    "icao": "UT1H",
+    "lat": 39.480598,
+    "lon": 54.366001
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "Lebap",
+    "city": "Kerki",
+    "name": "Kerki Airport",
+    "icao": "TM-UT51",
+    "lat": 37.8089981079101,
+    "lon": 65.2125015258789
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "Mary",
+    "city": "Saraghs",
+    "name": "Saraghs Southeast Airport",
+    "icao": "TM-UT50",
+    "lat": 36.491901397705,
+    "lon": 61.2664985656738
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "Mary",
+    "city": "Turkmenkarakul",
+    "name": "Kala-I-Mor Airport",
+    "icao": "TM-UT58",
+    "lat": 35.6628990173339,
+    "lon": 62.5547981262207
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "Balkan",
+    "city": "Balkan",
+    "name": "Kizyl Atrek West Airport",
+    "icao": "TM-0005",
+    "lat": 37.6529245108,
+    "lon": 54.7513103485
+  },
+  {
+    "country": "Turkmenistan",
+    "state": "Balkan",
+    "city": "Bekdash",
+    "name": "Bekdash Airport",
+    "icao": "TM-0001",
+    "lat": 41.5470008850097,
+    "lon": 52.6129989624023
+  }
+]

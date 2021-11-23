@@ -1,0 +1,101 @@
+[
+  {
+    "country": "Kiribati",
+    "state": "Gilbert Islands",
+    "city": "Abaiang",
+    "name": "Abaiang Airport",
+    "icao": "NGAB",
+    "lat": 1.79860997200012,
+    "lon": 173.04100036621
+  },
+  {
+    "country": "Kiribati",
+    "state": "Line Islands",
+    "city": "Tabuaeran Island",
+    "name": "Tabuaeran Island Airport",
+    "icao": "PLFA",
+    "lat": 3.89944005012512,
+    "lon": -159.389007568359
+  },
+  {
+    "country": "Kiribati",
+    "state": "Gilbert Islands",
+    "city": "Gilbert Islands",
+    "name": "Tabiteuea North Airport",
+    "icao": "NGTE",
+    "lat": -1.22447001934051,
+    "lon": 174.776000976562
+  },
+  {
+    "country": "Kiribati",
+    "state": "Gilbert Islands",
+    "city": "Beru",
+    "name": "Beru Airport",
+    "icao": "NGBR",
+    "lat": -1.35471999645233,
+    "lon": 176.007003784179
+  },
+  {
+    "country": "Kiribati",
+    "state": "Gilbert Islands",
+    "city": "Buariki",
+    "name": "Aranuka Airport",
+    "icao": "NGUK",
+    "lat": 0.185278,
+    "lon": 173.636993
+  },
+  {
+    "country": "Kiribati",
+    "state": "Gilbert Islands",
+    "city": "Butaritari Atoll",
+    "name": "Butaritari Atoll Airport",
+    "icao": "NGTU",
+    "lat": 3.08583,
+    "lon": 172.811005
+  },
+  {
+    "country": "Kiribati",
+    "state": "Gilbert Islands",
+    "city": "Makin Island",
+    "name": "Makin Island Airport",
+    "icao": "NGMN",
+    "lat": 3.37443995475769,
+    "lon": 172.992004394531
+  },
+  {
+    "country": "Kiribati",
+    "state": "Gilbert Islands",
+    "city": "Nikunau",
+    "name": "Nikunau Airport",
+    "icao": "NGNU",
+    "lat": -1.31444001198,
+    "lon": 176.410003662
+  },
+  {
+    "country": "Kiribati",
+    "state": "Gilbert Islands",
+    "city": "Nonouti",
+    "name": "Nonouti Airport",
+    "icao": "NGTO",
+    "lat": -0.639721989631652,
+    "lon": 174.427993774414
+  },
+  {
+    "country": "Kiribati",
+    "state": "Gilbert Islands",
+    "city": "Tamana Island",
+    "name": "Tamana Island Airport",
+    "icao": "NGTM",
+    "lat": -2.48583006858825,
+    "lon": 175.970001220703
+  },
+  {
+    "country": "Kiribati",
+    "state": "Line Islands",
+    "city": "Teraina",
+    "name": "Washington Island Airstrip",
+    "icao": "PLWN",
+    "lat": 4.698359,
+    "lon": -160.394376
+  }
+]

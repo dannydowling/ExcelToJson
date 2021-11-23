@@ -1,0 +1,173 @@
+[
+  {
+    "country": "Azerbaijan",
+    "state": "Baku (city)",
+    "city": "Baku",
+    "name": "Heydar Aliyev International Airport",
+    "icao": "UBBB",
+    "lat": 40.4674987792968,
+    "lon": 50.0466995239257
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Nakhchivan Autonomous Republic",
+    "city": "Nakhchivan",
+    "name": "Nakhchivan Airport",
+    "icao": "UBBN",
+    "lat": 39.1888008117675,
+    "lon": 45.4584007263183
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Ganja (city)",
+    "city": "Ganja",
+    "name": "Ganja International Airport",
+    "icao": "UBBG",
+    "lat": 40.737701,
+    "lon": 46.3176
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Khojaly District",
+    "city": "Stepanakert",
+    "name": "Stepanakert Air Base",
+    "icao": "UB13",
+    "lat": 39.9014015197753,
+    "lon": 46.7869987487793
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Agstafa District",
+    "city": "Akstafa",
+    "name": "Akstafa Airport",
+    "icao": "UBBA",
+    "lat": 41.1223983764648,
+    "lon": 45.4248008728027
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Baku (city)",
+    "city": "Baku",
+    "name": "Baku Kala Air Base",
+    "icao": "UB18",
+    "lat": 40.4066009521484,
+    "lon": 50.2001991271972
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Balakan District",
+    "city": "Belokany",
+    "name": "Belokany Airport",
+    "icao": "UB16",
+    "lat": 41.7350006103515,
+    "lon": 46.3549995422363
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Samkir District",
+    "city": "Dollyar",
+    "name": "Dollyar Air Base",
+    "icao": "UG11",
+    "lat": 40.8875999450683,
+    "lon": 45.9570007324218
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Sumqayit (city)",
+    "city": "Nasosnaya",
+    "name": "Nasosnaya Air Base",
+    "icao": "UB12",
+    "lat": 40.5915985107421,
+    "lon": 49.5573997497558
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Khachmaz District",
+    "city": "Khachmaz District",
+    "name": "Khachmas Airfield",
+    "icao": "AZ-0002",
+    "lat": 41.4578767267,
+    "lon": 48.8303983211999
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Goranboy District",
+    "city": "Goranboy District",
+    "name": "Naftalan Airport",
+    "icao": "AZ-0004",
+    "lat": 40.5159198355999,
+    "lon": 46.8294811249
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Agdash District",
+    "city": "Agdash District",
+    "name": "Aghdas Airport",
+    "icao": "AZ-0006",
+    "lat": 40.6634276083,
+    "lon": 47.5140988827
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Goychay District",
+    "city": "Goychay District",
+    "name": "Bygyr Airport",
+    "icao": "AZ-0008",
+    "lat": 40.5290747125,
+    "lon": 47.8300738335
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Agjabadi District",
+    "city": "Agjabadi District",
+    "name": "Agdzhabedi Airport",
+    "icao": "AZ-0010",
+    "lat": 40.0222906243,
+    "lon": 47.4493503571
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Agdam District",
+    "city": "Agdam District",
+    "name": "Aghdam Airport",
+    "icao": "AZ-0012",
+    "lat": 39.9760019628,
+    "lon": 47.0001447200999
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Baku (city)",
+    "city": "Baku (city)",
+    "name": "Baku Lokbatan Airport",
+    "icao": "AZ-0014",
+    "lat": 40.3499619803,
+    "lon": 49.6697258949
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Baku (city)",
+    "city": "Baku (city)",
+    "name": "Pirsagat Airport",
+    "icao": "AZ-0016",
+    "lat": 39.8539990554,
+    "lon": 49.340018034
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Salyan District",
+    "city": "Salyan District",
+    "name": "Karachala Airport",
+    "icao": "AZ-0018",
+    "lat": 39.831790367,
+    "lon": 48.9667510986
+  },
+  {
+    "country": "Azerbaijan",
+    "state": "Bilasuvar District",
+    "city": "Bilasuvar District",
+    "name": "Pushkino East Air Base",
+    "icao": "AZ-0020",
+    "lat": 39.5160429898999,
+    "lon": 48.6906337737999
+  }
+]

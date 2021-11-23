@@ -1,0 +1,362 @@
+[
+  {
+    "country": "Latvia",
+    "state": "Riga (city)",
+    "city": "Riga",
+    "name": "Riga International Airport",
+    "icao": "EVRA",
+    "lat": 56.923599243164,
+    "lon": 23.9710998535156
+  },
+  {
+    "country": "Latvia",
+    "state": "LiepÄja District",
+    "city": "LiepÄja",
+    "name": "LiepÄja International Airport",
+    "icao": "EVLA",
+    "lat": 56.5175018310546,
+    "lon": 21.0969009399414
+  },
+  {
+    "country": "Latvia",
+    "state": "Riga (city)",
+    "city": "Riga",
+    "name": "Spilve Aerodrome",
+    "icao": "EVRS",
+    "lat": 56.9911003112999,
+    "lon": 24.0750007629
+  },
+  {
+    "country": "Latvia",
+    "state": "JÄ“kabpils District",
+    "city": "JÄ“kabpils",
+    "name": "JÄ“kabpils Air Base",
+    "icao": "EVKA",
+    "lat": 56.534698,
+    "lon": 25.8925
+  },
+  {
+    "country": "Latvia",
+    "state": "Jelgava (city)",
+    "city": "Jelgava",
+    "name": "Jelgava Airfield",
+    "icao": "EVEA",
+    "lat": 56.672798,
+    "lon": 23.679199
+  },
+  {
+    "country": "Latvia",
+    "state": "Riga (city)",
+    "city": "Riga",
+    "name": "Rumbula Air Base",
+    "icao": "LV-1288",
+    "lat": 56.8833007812,
+    "lon": 24.2266998291
+  },
+  {
+    "country": "Latvia",
+    "state": "LiepÄja District",
+    "city": "VaiÅ†ode",
+    "name": "VaiÅ†ode Air Base",
+    "icao": "EVFA",
+    "lat": 56.405602,
+    "lon": 21.8869
+  },
+  {
+    "country": "Latvia",
+    "state": "Saldus District",
+    "city": "Saldus District",
+    "name": "Saldus Airfield",
+    "icao": "LV-0003",
+    "lat": 56.6922177554999,
+    "lon": 22.4695301056
+  },
+  {
+    "country": "Latvia",
+    "state": "CÄ“sis District",
+    "city": "CÄ“sis District",
+    "name": "KazruÅ†Ä£is",
+    "icao": "LV-0005",
+    "lat": 57.5580332,
+    "lon": 25.8375718
+  },
+  {
+    "country": "Latvia",
+    "state": "Valmiera Airfield",
+    "city": "Valmiera Airfield",
+    "name": "Valmiera Airfield",
+    "icao": "LV-0009",
+    "lat": 57.5585521,
+    "lon": 25.4442962
+  },
+  {
+    "country": "Latvia",
+    "state": "MatÄ«Å¡u lidlauks",
+    "city": "MatÄ«Å¡u lidlauks",
+    "name": "MatÄ«Å¡u lidlauks",
+    "icao": "LV-0016",
+    "lat": 57.6880509,
+    "lon": 25.1666283
+  },
+  {
+    "country": "Latvia",
+    "state": "Jaunkalsnavas lidlauks",
+    "city": "Jaunkalsnavas lidlauks",
+    "name": "Jaunkalsnavas lidlauks",
+    "icao": "LV-0028",
+    "lat": 56.7061312,
+    "lon": 25.9119556
+  },
+  {
+    "country": "Latvia",
+    "state": "GrecuntÄles lidlauks",
+    "city": "GrecuntÄles lidlauks",
+    "name": "GrecuntÄles lidlauks",
+    "icao": "LV-0032",
+    "lat": 56.316524,
+    "lon": 24.332679
+  },
+  {
+    "country": "Latvia",
+    "state": "RoÅ¾upes lidlauks",
+    "city": "RoÅ¾upes lidlauks",
+    "name": "RoÅ¾upes lidlauks",
+    "icao": "LV-0036",
+    "lat": 56.351531,
+    "lon": 26.334265
+  },
+  {
+    "country": "Latvia",
+    "state": "Talsi District",
+    "city": "Talsi District",
+    "name": "Garlene Airstrip",
+    "icao": "LV-0045",
+    "lat": 57.2668037,
+    "lon": 22.8155028
+  },
+  {
+    "country": "Latvia",
+    "state": "LiepÄja District",
+    "city": "LiepÄja District",
+    "name": "Ezere abandoned airfield",
+    "icao": "LV-0046",
+    "lat": 56.4045457,
+    "lon": 22.3372077
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "(unassigned)",
+    "name": "Zaicevas Airstrip",
+    "icao": "LV-0047",
+    "lat": 57.4683523,
+    "lon": 27.5088805
+  },
+  {
+    "country": "Latvia",
+    "state": "Riga District",
+    "city": "Adazi",
+    "name": "Adazi Airfield",
+    "icao": "EVAD",
+    "lat": 57.098598,
+    "lon": 24.2658
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "Aloja",
+    "name": "Alojas Lidlauks",
+    "icao": "LV-0019",
+    "lat": 57.774561,
+    "lon": 24.887069
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "Barkava",
+    "name": "Barkavas lidlauks",
+    "icao": "LV-0023",
+    "lat": 56.7498863,
+    "lon": 26.5976995
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "BÄ“rze",
+    "name": "BÄ“rzes lidlauks",
+    "icao": "LV-0035",
+    "lat": 56.6813459,
+    "lon": 23.4640273
+  },
+  {
+    "country": "Latvia",
+    "state": "CÄ“sis District",
+    "city": "Cesis",
+    "name": "Cesis Airport",
+    "icao": "EVCA",
+    "lat": 57.3244438171386,
+    "lon": 25.3236103057861
+  },
+  {
+    "country": "Latvia",
+    "state": "LiepÄja District",
+    "city": "CÄ«rava",
+    "name": "CÄ«rava Airport",
+    "icao": "EVIA",
+    "lat": 56.738062,
+    "lon": 21.359786
+  },
+  {
+    "country": "Latvia",
+    "state": "Daugavpils (city)",
+    "city": "Daugavpils",
+    "name": "Griva Airfield",
+    "icao": "LV-0002",
+    "lat": 55.883999,
+    "lon": 26.471001
+  },
+  {
+    "country": "Latvia",
+    "state": "KuldÄ«ga District",
+    "city": "Gudenieki",
+    "name": "Gudenieku lidlauks",
+    "icao": "LV-0044",
+    "lat": 56.903657,
+    "lon": 21.639275
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "KarÄ·i",
+    "name": "KarÄ·u lidlauks",
+    "icao": "LV-0025",
+    "lat": 57.7866855,
+    "lon": 25.6034554
+  },
+  {
+    "country": "Latvia",
+    "state": "Ogre District",
+    "city": "LielvÄrde",
+    "name": "M-Sola Heliport",
+    "icao": "EVSM",
+    "lat": 56.665556,
+    "lon": 24.903056
+  },
+  {
+    "country": "Latvia",
+    "state": "LimbaÅ¾i District",
+    "city": "LimbaÅ¾i",
+    "name": "Langaci-LimbaÅ¾i Airport",
+    "icao": "EVAH",
+    "lat": 57.4849,
+    "lon": 24.672126
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "Lube",
+    "name": "Lubes lidlauks",
+    "icao": "LV-0022",
+    "lat": 57.440644,
+    "lon": 22.58316
+  },
+  {
+    "country": "Latvia",
+    "state": "Ludza District",
+    "city": "Ludza",
+    "name": "Ludza Helipad",
+    "icao": "EVLU",
+    "lat": 56.521111,
+    "lon": 27.694167
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "MeÅ¾Äre",
+    "name": "MeÅ¾Äres lidlauks",
+    "icao": "LV-0017",
+    "lat": 56.515676,
+    "lon": 26.257966
+  },
+  {
+    "country": "Latvia",
+    "state": "Jelgava District",
+    "city": "NÄkotne",
+    "name": "Baltijas Helikopters heliport",
+    "icao": "EVHB",
+    "lat": 56.607936,
+    "lon": 23.458431
+  },
+  {
+    "country": "Latvia",
+    "state": "RÄ“zekne District",
+    "city": "RÄ“zekne",
+    "name": "RÄ“zekne Airfield",
+    "icao": "EVNA",
+    "lat": 56.556389,
+    "lon": 27.212778
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "RiebiÅ†i",
+    "name": "Zabulnieki Airstrip",
+    "icao": "LV-0012",
+    "lat": 56.4228938,
+    "lon": 26.7287
+  },
+  {
+    "country": "Latvia",
+    "state": "Talsi District",
+    "city": "Talsi",
+    "name": "Talsi Airfield",
+    "icao": "EVTE",
+    "lat": 57.2543984490999,
+    "lon": 22.5662183762
+  },
+  {
+    "country": "Latvia",
+    "state": "KuldÄ«ga District",
+    "city": "VÄrme",
+    "name": "VÄrmes lidlauks",
+    "icao": "LV-0043",
+    "lat": 56.854677,
+    "lon": 22.211771
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "ViÄ¼Äni",
+    "name": "ViÄ¼Änu lidlauks",
+    "icao": "LV-0033",
+    "lat": 56.592333,
+    "lon": 26.943647
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "ZaÄ¼enieki",
+    "name": "ZaÄ¼enieku lidlauks",
+    "icao": "LV-0021",
+    "lat": 56.5467182,
+    "lon": 23.534192
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "Zasa",
+    "name": "Zasas lidlauks",
+    "icao": "LV-0030",
+    "lat": 56.273317,
+    "lon": 26.034956
+  },
+  {
+    "country": "Latvia",
+    "state": "(unassigned)",
+    "city": "Å½ocene",
+    "name": "Å½ocenes lidlauks",
+    "icao": "LV-0026",
+    "lat": 57.5324639,
+    "lon": 22.6993897
+  }
+]

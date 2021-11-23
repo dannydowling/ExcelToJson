@@ -1,0 +1,6437 @@
+[
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Cancun",
+    "name": "Cancun International Airport",
+    "icao": "MMUN",
+    "lat": 21.0365009308,
+    "lon": -86.8770980835
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Mexico City",
+    "name": "Licenciado Benito Juarez International Airport",
+    "icao": "MMMX",
+    "lat": 19.4363,
+    "lon": -99.072098
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Puerto Vallarta",
+    "name": "Licenciado Gustavo DÃ­az Ordaz International Airport",
+    "icao": "MMPR",
+    "lat": 20.6800994873046,
+    "lon": -105.253997802734
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "San Jose del Cabo",
+    "name": "Los Cabos International Airport",
+    "icao": "MMSD",
+    "lat": 23.1518001556396,
+    "lon": -109.721000671386
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "name": "Don Miguel Hidalgo Y Costilla International Airport",
+    "icao": "MMGL",
+    "lat": 20.5217990875244,
+    "lon": -103.310997009277
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Tijuana",
+    "name": "General Abelardo L. Rodri­guez International Airport",
+    "icao": "MMTJ",
+    "lat": 32.5410995483398,
+    "lon": -116.970001220703
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Mazatlan",
+    "name": "General Rafael Buelna International Airport",
+    "icao": "MMMZ",
+    "lat": 23.1613998413,
+    "lon": -106.26599884
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "name": "General Ignacio P. Garcia International Airport",
+    "icao": "MMHO",
+    "lat": 29.0958995819,
+    "lon": -111.047996521
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Loreto",
+    "name": "Loreto International Airport",
+    "icao": "MMLT",
+    "lat": 25.989200592041,
+    "lon": -111.347999572753
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "La Paz",
+    "name": "Manuel MÃ¡rquez de LeÃ³n International Airport",
+    "icao": "MMLP",
+    "lat": 24.0727005004999,
+    "lon": -110.361999512
+  },
+  {
+    "country": "Mexico",
+    "state": "Mexico (state)",
+    "city": "Toluca",
+    "name": "Licenciado Adolfo Lopez Mateos International Airport",
+    "icao": "MMTO",
+    "lat": 19.3370990753,
+    "lon": -99.5660018921
+  },
+  {
+    "country": "Mexico",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "name": "Jesus Teran Paredo International Airport",
+    "icao": "MMAS",
+    "lat": 21.705601,
+    "lon": -102.318001
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Oaxaca",
+    "name": "XoxocotlÃ¡n International Airport",
+    "icao": "MMOX",
+    "lat": 16.9999008179,
+    "lon": -96.726600647
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Villahermosa",
+    "name": "Carlos Rovirosa PÃ©rez International Airport",
+    "icao": "MMVA",
+    "lat": 17.9969997406005,
+    "lon": -92.817398071289
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "name": "General Roberto Fierro Villalobos International Airport",
+    "icao": "MMCU",
+    "lat": 28.7028999329,
+    "lon": -105.964996338
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "San Felipe International Airport",
+    "icao": "MMSF",
+    "lat": 30.930200576782,
+    "lon": -114.80899810791
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Guaymas",
+    "name": "General JosÃ© MarÃ­a YÃ¡Ã±ez International Airport",
+    "icao": "MMGM",
+    "lat": 27.9689998626709,
+    "lon": -110.925003051757
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "General Rodolfo SÃ¡nchez Taboada International Airport",
+    "icao": "MMML",
+    "lat": 32.6306,
+    "lon": -115.241997
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Ciudad ObregÃ³n",
+    "name": "Ciudad ObregÃ³n International Airport",
+    "icao": "MMCN",
+    "lat": 27.3925991058349,
+    "lon": -109.833000183105
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "CuliacÃ¡n",
+    "name": "Bachigualato Federal International Airport",
+    "icao": "MMCL",
+    "lat": 24.7644996643,
+    "lon": -107.474998474
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Ixtapa",
+    "name": "Ixtapa Zihuatanejo International Airport",
+    "icao": "MMZH",
+    "lat": 17.601600647,
+    "lon": -101.460998535
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Los Mochis",
+    "name": "Valle del Fuerte International Airport",
+    "icao": "MMLM",
+    "lat": 25.6851997375,
+    "lon": -109.081001282
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Ciudad JuÃ¡rez",
+    "name": "Abraham GonzÃ¡lez International Airport",
+    "icao": "MMCS",
+    "lat": 31.6361007690429,
+    "lon": -106.429000854492
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "TorreÃ³n",
+    "name": "Francisco Sarabia International Airport",
+    "icao": "MMTC",
+    "lat": 25.5683002471999,
+    "lon": -103.411003113
+  },
+  {
+    "country": "Mexico",
+    "state": "Zacatecas",
+    "city": "Zacatecas",
+    "name": "General Leobardo C. Ruiz International Airport",
+    "icao": "MMZC",
+    "lat": 22.8971004486,
+    "lon": -102.68699646
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Saltillo",
+    "name": "Plan De Guadalupe International Airport",
+    "icao": "MMIO",
+    "lat": 25.5494995117187,
+    "lon": -100.929000854492
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Morelia",
+    "name": "General Francisco J. Mujica International Airport",
+    "icao": "MMMM",
+    "lat": 19.849899292,
+    "lon": -101.025001526
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "MinatitlÃ¡n",
+    "name": "MinatitlÃ¡n/Coatzacoalcos National Airport",
+    "icao": "MMMT",
+    "lat": 18.1033992767,
+    "lon": -94.5807037354
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Puerto Escondido",
+    "name": "Puerto Escondido International Airport",
+    "icao": "MMPS",
+    "lat": 15.8769,
+    "lon": -97.089103
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Sinaloa",
+    "name": "El Fuerte Airport",
+    "icao": "MM79",
+    "lat": 26.398199,
+    "lon": -108.612
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Guerrero Negro",
+    "name": "Guerrero Negro Airport",
+    "icao": "MMGR",
+    "lat": 28.0261,
+    "lon": -114.024002
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Ãlamos",
+    "name": "Ãlamos Airport",
+    "icao": "MX-XAL",
+    "lat": 27.035701,
+    "lon": -108.947998
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "La Paz",
+    "name": "Punta Pescadero Airport",
+    "icao": "MMPP",
+    "lat": 23.803400039673,
+    "lon": -109.70700073242
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Tapachula",
+    "name": "Tapachula International Airport",
+    "icao": "MMTP",
+    "lat": 14.7943000793,
+    "lon": -92.3700027466
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Solidaridad",
+    "name": "Playa del Carmen Airport",
+    "icao": "MX-PCM",
+    "lat": 20.622499465942,
+    "lon": -87.08219909668
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Campeche",
+    "name": "Ingeniero Alberto AcuÃ±a Ongay International Airport",
+    "icao": "MMCP",
+    "lat": 19.8167991638,
+    "lon": -90.5002975464
+  },
+  {
+    "country": "Mexico",
+    "state": "Colima",
+    "city": "Colima",
+    "name": "Licenciado Miguel de la Madrid Airport",
+    "icao": "MMIA",
+    "lat": 19.277,
+    "lon": -103.577002
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Xalapa",
+    "name": "El Lencero Airport",
+    "icao": "MMJA",
+    "lat": 19.4750995636,
+    "lon": -96.7975006104
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "BahÃ­a de los Ãngeles",
+    "name": "BahÃ­a de los Ãngeles Airport",
+    "icao": "BHL",
+    "lat": 28.9786,
+    "lon": -113.560997
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Alfonsina's Airstrip",
+    "icao": "MX-0004",
+    "lat": 29.8060090495,
+    "lon": -114.39663291
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Chetumal",
+    "name": "Chetumal International Airport",
+    "icao": "MMCM",
+    "lat": 18.5046997070312,
+    "lon": -88.3267974853515
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "MÃ©xico (state)",
+    "name": "Atizapan De Zaragoza Airport",
+    "icao": "MMJC",
+    "lat": 19.5748004913,
+    "lon": -99.2888031005999
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Bahia de Kino",
+    "name": "BahÃ­a de Kino Airport",
+    "icao": "MX-0008",
+    "lat": 28.8600997925,
+    "lon": -111.976997375
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Tulum",
+    "name": "Tulum Naval Air Station",
+    "icao": "MX-TUY",
+    "lat": 20.227301,
+    "lon": -87.438203
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Villas Mar de Cortez Airport",
+    "icao": "MX-0005",
+    "lat": 29.793059,
+    "lon": -114.401836
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "MulegÃ©",
+    "name": "Rancho San Cristobal Airstrip",
+    "icao": "MX-0007",
+    "lat": 26.851259,
+    "lon": -113.140211
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Coahuila",
+    "name": "Monclova International Airport",
+    "icao": "MMMV",
+    "lat": 26.9557,
+    "lon": -101.470001
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "MichoacÃ¡n",
+    "name": "Licenciado y General Ignacio Lopez Rayon Airport",
+    "icao": "MMPN",
+    "lat": 19.3966999053955,
+    "lon": -102.039001464843
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Ciudad del Carmen",
+    "name": "Ciudad del Carmen International Airport",
+    "icao": "MMCE",
+    "lat": 18.6536998748779,
+    "lon": -91.7990036010742
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Nuevo Laredo",
+    "name": "QuetzalcÃ³atl International Airport",
+    "icao": "MMNL",
+    "lat": 27.4438991547,
+    "lon": -99.5705032349
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Quintana Roo",
+    "name": "Isla Mujeres Airport",
+    "icao": "MMIM",
+    "lat": 21.2450008392334,
+    "lon": -86.7399978637695
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "San Luis PotosÃ­",
+    "name": "Tamuin Airport",
+    "icao": "MMTN",
+    "lat": 22.0383,
+    "lon": -98.806502
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "MichoacÃ¡n",
+    "name": "Coahuayana Airport",
+    "icao": "MM66",
+    "lat": 18.684601,
+    "lon": -103.676003
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Cuajinicuilapa",
+    "name": "Ta Lo De Soto Airport",
+    "icao": "MM29",
+    "lat": 16.463499,
+    "lon": -98.393006
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Nogales",
+    "name": "Nogales International Airport",
+    "icao": "MMNG",
+    "lat": 31.226101,
+    "lon": -110.975998
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "YÃ©cora",
+    "name": "YÃ©cora Airport",
+    "icao": "MX-0001",
+    "lat": 28.354700088501,
+    "lon": -108.92500305176
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Bahia de Banderas",
+    "name": "Valle de Banderas Airport",
+    "icao": "MX-0341",
+    "lat": 20.808405,
+    "lon": -105.255848
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Calakmul",
+    "name": "Xpujil Airport",
+    "icao": "MX-0182",
+    "lat": 18.51111,
+    "lon": -89.40226
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "San Sebastian Del Oeste",
+    "name": "San SebastiÃ¡n Airport",
+    "icao": "MX-0011",
+    "lat": 20.7658916667,
+    "lon": -104.8685
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Santa RosalÃ­a",
+    "name": "San Lucas Military Airstrip",
+    "icao": "MX-0028",
+    "lat": 27.208757,
+    "lon": -112.218034
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Talpa de Allende",
+    "name": "Trinidad Ramos Valdez Airport",
+    "icao": "MX-0009",
+    "lat": 20.370556,
+    "lon": -104.826111
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "LÃ¡zaro CÃ¡rdenas",
+    "name": "LÃ¡zaro CÃ¡rdenas Airport",
+    "icao": "MMLC",
+    "lat": 18.0016994476,
+    "lon": -102.221000671
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Guasave",
+    "name": "Camaguey-Campo Cuatro Milpas Airport",
+    "icao": "MM52",
+    "lat": 25.652200698853,
+    "lon": -108.53800201416
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Ixtepec",
+    "name": "Ixtepec Airport",
+    "icao": "MMIT",
+    "lat": 16.449301,
+    "lon": -95.093697
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Tuxtla GutiÃ©rrez",
+    "name": "TerÃ¡n Air Base",
+    "icao": "MMTB",
+    "lat": 16.739901,
+    "lon": -93.173301
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Nuevo LeÃ³n",
+    "name": "Agualeguas Airport",
+    "icao": "MMAL",
+    "lat": 26.334,
+    "lon": -99.542397
+  },
+  {
+    "country": "Mexico",
+    "state": "Tlaxcala",
+    "city": "Tlaxcala",
+    "name": "Tlaxcala Airport",
+    "icao": "MMTA",
+    "lat": 19.537992,
+    "lon": -98.173492
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Jalisco",
+    "name": "Zapopan Airport",
+    "icao": "MMZP",
+    "lat": 20.747922,
+    "lon": -103.461709
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Veracruz",
+    "name": "Fausto Vega Santander Airport",
+    "icao": "MM31",
+    "lat": 20.9468002319335,
+    "lon": -97.3750991821289
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Nuevo LeÃ³n",
+    "name": "Rancho San Salvador Northeast Airport",
+    "icao": "MM36",
+    "lat": 26.6784992218017,
+    "lon": -100.170997619628
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Nuevo LeÃ³n",
+    "name": "Agualeguas Old Airport",
+    "icao": "MM44",
+    "lat": 26.3043994903564,
+    "lon": -99.5502014160156
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Coahuila",
+    "name": "Rancho Guadalupe South Airport",
+    "icao": "MM51",
+    "lat": 26.6355991363525,
+    "lon": -100.889999389648
+  },
+  {
+    "country": "Mexico",
+    "state": "Hidalgo",
+    "city": "Hidalgo",
+    "name": "Ixmiquilpan Airport",
+    "icao": "MM61",
+    "lat": 20.4860000610351,
+    "lon": -99.2587966918945
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Baja California Sur",
+    "name": "Isla Socorro Airport",
+    "icao": "MM81",
+    "lat": 18.7742004394531,
+    "lon": -110.930000305175
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Abreojos",
+    "name": "Abreojos Airport",
+    "icao": "MX-AJS",
+    "lat": 26.7271995544433,
+    "lon": -113.55899810791
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "ApatzingÃ¡n",
+    "name": "Pablo L. Sidar Airport",
+    "icao": "MX-AZG",
+    "lat": 19.093399,
+    "lon": -102.393997
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "AutlÃ¡n de Navarro",
+    "name": "AutlÃ¡n Airport",
+    "icao": "MM63",
+    "lat": 19.7453,
+    "lon": -104.336998
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Canatlan",
+    "name": "El DurangueÃ±o Airport",
+    "icao": "MM11",
+    "lat": 24.418301,
+    "lon": -104.886001
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Chilpancingo",
+    "name": "Chilpancingo Airport",
+    "icao": "MMCH",
+    "lat": 17.574239,
+    "lon": -99.515424
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Ciudad AcuÃ±a",
+    "name": "Ciudad AcuÃ±a New International Airport",
+    "icao": "MMCC",
+    "lat": 29.332899,
+    "lon": -101.098998
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Ciudad Guzman",
+    "name": "CapitÃ¡n Piloto Aviador JosÃ© Covarrubias PÃ©rez Airport",
+    "icao": "MM25",
+    "lat": 19.7085,
+    "lon": -103.489998
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Ciudad Mante",
+    "name": "Ciudad Mante National Airport",
+    "icao": "MMDM",
+    "lat": 22.743177,
+    "lon": -99.017372
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "Ciudad Valles",
+    "name": "Cementos Mexicanos Airport",
+    "icao": "MM27",
+    "lat": 21.983999,
+    "lon": -98.961899
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "ComitÃ¡n",
+    "name": "San Antonio Copalar Airport",
+    "icao": "MMCO",
+    "lat": 16.176701,
+    "lon": -92.050598
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "CosalÃ¡",
+    "name": "CosalÃ¡ Airport",
+    "icao": "MM50",
+    "lat": 24.420098,
+    "lon": -106.698923
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Huetamo",
+    "name": "Huetamo Airport",
+    "icao": "MM73",
+    "lat": 18.52739906311,
+    "lon": -100.8509979248
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Magdalena de Kino",
+    "name": "TasÃ­curi-Magdalena de Kino / Rodolfo Soto Bartell Airport",
+    "icao": "MM69",
+    "lat": 30.674254,
+    "lon": -110.932171
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "Rancho Marina Vieja Airport",
+    "icao": "MM54",
+    "lat": 23.7381,
+    "lon": -98.061202
+  },
+  {
+    "country": "Mexico",
+    "state": "Hidalgo",
+    "city": "Tizayuca",
+    "name": "Tizayuca Airport",
+    "icao": "MM28",
+    "lat": 19.874000549316,
+    "lon": -98.943603515625
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Zacapu",
+    "name": "Jaujilla - Zacapu Municipal Airport",
+    "icao": "MM47",
+    "lat": 19.851499557495,
+    "lon": -101.75199890137
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Zapotiltic",
+    "name": "Zapotiltic - Tuxpan Airport",
+    "icao": "MMTX",
+    "lat": 19.5996,
+    "lon": -103.371
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Nayarit",
+    "name": "Isla MarÃ­a Airport",
+    "icao": "MX-0038",
+    "lat": 21.65023,
+    "lon": -106.53817
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Baja California",
+    "name": "Campamento Sur Helipad, Isla Guadelupe",
+    "icao": "MX-0141",
+    "lat": 28.883996,
+    "lon": -118.293915
+  },
+  {
+    "country": "Mexico",
+    "state": "Zacatecas",
+    "city": "Zacatecas",
+    "name": "Rancho El Tulillo Airport",
+    "icao": "MX-0204",
+    "lat": 23.82449,
+    "lon": -101.787196
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Tamaulipas",
+    "name": "Kilo Airport",
+    "icao": "MX-0406",
+    "lat": 25.837279,
+    "lon": -98.117336
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "name": "ChinatÃº Airstrip",
+    "icao": "MX-0458",
+    "lat": 26.182586,
+    "lon": -106.595219
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Acaponeta",
+    "name": "Acaponeta Airport",
+    "icao": "MX-0109",
+    "lat": 22.4832,
+    "lon": -105.4118
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Acapulco",
+    "name": "Casa Marlin Heliport",
+    "icao": "MX-0666",
+    "lat": 16.809624,
+    "lon": -99.839753
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Acapulco",
+    "name": "CompaÃ±Ã­a Periodistica Esto Heliport",
+    "icao": "MX-0857",
+    "lat": 16.851691,
+    "lon": -99.85614
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Acapulco",
+    "name": "Inite Heliport",
+    "icao": "MX-0933",
+    "lat": 16.828557,
+    "lon": -99.914417
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "AcuÃ±a",
+    "name": "Rancho El Salado Airstrip",
+    "icao": "MX-0554",
+    "lat": 29.639167,
+    "lon": -101.759166
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Agua Prieta",
+    "name": "Colonia Morelos Airstrip",
+    "icao": "MX-1190",
+    "lat": 30.8338,
+    "lon": -109.22592
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Agua Prieta",
+    "name": "San Bernardino Lagunas Airport",
+    "icao": "MX-1195",
+    "lat": 31.31526,
+    "lon": -109.27765
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Agualeguas",
+    "name": "La Gloria Airport",
+    "icao": "MX-0110",
+    "lat": 26.3304,
+    "lon": -99.4858
+  },
+  {
+    "country": "Mexico",
+    "state": "Aguascalientes",
+    "city": "Aguascalientes",
+    "name": "SSP Aguascalientes Heliport",
+    "icao": "MX-0398",
+    "lat": 21.877302,
+    "lon": -102.257426
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Aguililla",
+    "name": "Aerosam Airport",
+    "icao": "MX-0263",
+    "lat": 18.98022,
+    "lon": -102.71668
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Aguililla",
+    "name": "Tototan Airstrip",
+    "icao": "MX-1039",
+    "lat": 18.367495,
+    "lon": -102.772036
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Ahome",
+    "name": "Santa Paula Airport",
+    "icao": "MX-0088",
+    "lat": 25.8466,
+    "lon": -108.9707
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Ahome",
+    "name": "Pista Aerea Agricola Mayacoba",
+    "icao": "MX-0332",
+    "lat": 25.933889,
+    "lon": -109.210556
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Ahome",
+    "name": "Guayparime II Airport",
+    "icao": "MX-0876",
+    "lat": 25.7426,
+    "lon": -108.957343
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Ahome",
+    "name": "RodrÃ­guez Airport",
+    "icao": "MX-0974",
+    "lat": 26.317875,
+    "lon": -109.029528
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Aldama",
+    "name": "Malvinas Airstrip",
+    "icao": "MX-0090",
+    "lat": 22.686,
+    "lon": -97.9286
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Aldama",
+    "name": "Pueblito Airport",
+    "icao": "MX-0392",
+    "lat": 29.068194,
+    "lon": -105.126663
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Aldama",
+    "name": "El Nopal Airport",
+    "icao": "MX-0717",
+    "lat": 23.173322,
+    "lon": -98.113525
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Aldama",
+    "name": "Cuestecitas Airport",
+    "icao": "MX-0832",
+    "lat": 22.773537,
+    "lon": -98.050343
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Aldama",
+    "name": "Anna Airstrip",
+    "icao": "MX-1197",
+    "lat": 22.911556,
+    "lon": -98.310583
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Aldama",
+    "name": "El Cohete Airstrip",
+    "icao": "MX-1265",
+    "lat": 22.795757,
+    "lon": -98.140193
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Allende",
+    "name": "Piedras Blancas Airport",
+    "icao": "MX-1010",
+    "lat": 25.294266,
+    "lon": -100.016139
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Altamira",
+    "name": "La Escondida Airport",
+    "icao": "MX-0827",
+    "lat": 22.590583,
+    "lon": -97.996556
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Alvaro Obregon",
+    "name": "Plaza Corporativo Banamex Helipad",
+    "icao": "MX-0076",
+    "lat": 19.374,
+    "lon": -99.2588
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Alvaro Obregon",
+    "name": "Poligono 3 Heliport",
+    "icao": "MX-0337",
+    "lat": 19.385748,
+    "lon": -99.2462
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Alvaro Obregon",
+    "name": "Centro Medico ABC Santa Fe Heliport",
+    "icao": "MX-0456",
+    "lat": 19.357398,
+    "lon": -99.282896
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Alvaro Obregon",
+    "name": "Plaza Insurgentes Sur (3) Heliport",
+    "icao": "MX-0568",
+    "lat": 19.352302,
+    "lon": -99.187173
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Alvaro Obregon",
+    "name": "Corporativo 261 Heliport",
+    "icao": "MX-0627",
+    "lat": 19.357411,
+    "lon": -99.197744
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Alvaro Obregon",
+    "name": "ITAM Rio Hondo Heliport",
+    "icao": "MX-0830",
+    "lat": 19.345203,
+    "lon": -99.200829
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Alvaro Obregon",
+    "name": "Plaza Insurgentes Sur (4) Heliport",
+    "icao": "MX-0979",
+    "lat": 19.351939,
+    "lon": -99.187649
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Alvaro Obregon",
+    "name": "Aero Servicios Helipad",
+    "icao": "MX-1123",
+    "lat": 19.349063,
+    "lon": -99.190965
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Anahuac",
+    "name": "El Centenario Airstrip",
+    "icao": "MX-0891",
+    "lat": 26.948111,
+    "lon": -99.866389
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "AnÃ¡huac",
+    "name": "Rancho Los Gutierrez Airfield",
+    "icao": "MX-1256",
+    "lat": 27.119169,
+    "lon": -99.79944
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Angostura",
+    "name": "El Mochomo Airport",
+    "icao": "MX-0515",
+    "lat": 25.196893,
+    "lon": -108.068683
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Angostura",
+    "name": "La Esperanza Airport",
+    "icao": "MX-0725",
+    "lat": 25.354368,
+    "lon": -108.2187
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Antiguo Morelos",
+    "name": "San Pedro Airport",
+    "icao": "MX-0991",
+    "lat": 22.649481,
+    "lon": -99.175271
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Ario de Rosales",
+    "name": "Carlos DÃ­az Becerril Airport",
+    "icao": "MX-0265",
+    "lat": 19.2371,
+    "lon": -101.67952
+  },
+  {
+    "country": "Mexico",
+    "state": "Colima",
+    "city": "Armeria",
+    "name": "Hermanos Rodriguez Airport",
+    "icao": "MX-0588",
+    "lat": 18.935,
+    "lon": -103.954167
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Arteaga",
+    "name": "Los Capires Airport",
+    "icao": "MX-0266",
+    "lat": 18.354552,
+    "lon": -101.986662
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Ascencion",
+    "name": "El Fresnal Airport",
+    "icao": "MX-0385",
+    "lat": 31.038086,
+    "lon": -107.530996
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "AtizapÃ¡n de Zaragoza",
+    "name": "Centro Tecnologico Heliport",
+    "icao": "MX-0735",
+    "lat": 19.543493,
+    "lon": -99.275021
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Atoyac de Alvarez",
+    "name": "Atoyac Airstrip",
+    "icao": "MX-0255",
+    "lat": 17.219413,
+    "lon": -100.447935
+  },
+  {
+    "country": "Mexico",
+    "state": "Morelos",
+    "city": "Ayala",
+    "name": "Cuautla de Huitzililla Airport",
+    "icao": "MX-0305",
+    "lat": 18.700277,
+    "lon": -98.891944
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Azcapotzalco",
+    "name": "Arena Ciudad de Mexico Helipad I",
+    "icao": "MX-0086",
+    "lat": 19.4958,
+    "lon": -99.1757
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Azcapotzalco",
+    "name": "Hotel Tecnoparque Helipad",
+    "icao": "MX-0319",
+    "lat": 19.505984,
+    "lon": -99.179256
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Bacoachi",
+    "name": "Bacoachi Airstrip",
+    "icao": "MX-1240",
+    "lat": 30.646294,
+    "lon": -109.975526
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Bacum",
+    "name": "Fumigaciones Aereas Cervantes Airport",
+    "icao": "MX-0402",
+    "lat": 27.420556,
+    "lon": -110.1
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Badiraguato",
+    "name": "El Limon de Badiraguato Airstrip",
+    "icao": "MX-0116",
+    "lat": 25.8242,
+    "lon": -107.2327
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Badiraguato",
+    "name": "Badiraguato Airport",
+    "icao": "MX-0422",
+    "lat": 25.355589,
+    "lon": -107.556547
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Badiraguato",
+    "name": "Bamopa Airport",
+    "icao": "MX-0542",
+    "lat": 25.527798,
+    "lon": -107.296706
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Badiraguato",
+    "name": "Santiago de Los Caballeros Airstrip",
+    "icao": "MX-0583",
+    "lat": 25.557614,
+    "lon": -107.366323
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Badiraguato",
+    "name": "Batopito Airstrip",
+    "icao": "MX-0754",
+    "lat": 25.295667,
+    "lon": -107.547722
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Badiraguato",
+    "name": "El Naranjo",
+    "icao": "MX-1038",
+    "lat": 25.013333,
+    "lon": -99.477222
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Badiraguato",
+    "name": "Huixiopa de La Loma Colorada Airport",
+    "icao": "MX-1150",
+    "lat": 25.762523,
+    "lon": -107.194666
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Badiraguato",
+    "name": "El Roble Gordo Airstrip",
+    "icao": "MX-1156",
+    "lat": 25.849289,
+    "lon": -107.337456
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Bahia de Banderas",
+    "name": "Hospital Bahia de Banderas Helipad",
+    "icao": "MX-1226",
+    "lat": 20.747441,
+    "lon": -105.267735
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Batopilas",
+    "name": "San Ignacio 2 Airport",
+    "icao": "MX-1133",
+    "lat": 26.841456,
+    "lon": -107.840139
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Bavispe",
+    "name": "Rancho Oaxaca Airport",
+    "icao": "MX-0773",
+    "lat": 30.727366,
+    "lon": -109.057456
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Bavispe",
+    "name": "Bavispe Airport",
+    "icao": "MX-1220",
+    "lat": 30.47439,
+    "lon": -108.953305
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Bavispe",
+    "name": "San Miguelito Airstrip",
+    "icao": "MX-1247",
+    "lat": 30.529293,
+    "lon": -108.971747
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Bayosa",
+    "name": "Bayosa Airstrip",
+    "icao": "MX-0420",
+    "lat": 24.770113,
+    "lon": -106.77038
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Benito Juarez",
+    "name": "Centro Bancomer Heliport",
+    "icao": "MX-0795",
+    "lat": 19.361362,
+    "lon": -99.16852
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Benito Juarez",
+    "name": "I.M.S.S. Heliport",
+    "icao": "MX-0998",
+    "lat": 19.423293,
+    "lon": -99.173822
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Benito Juarez",
+    "name": "Moras Heliport",
+    "icao": "MX-1043",
+    "lat": 19.363866,
+    "lon": -99.175854
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Benito Juarez",
+    "name": "Centro Nacional SCT Heliport",
+    "icao": "MX-1099",
+    "lat": 19.394186,
+    "lon": -99.146731
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Benito Juarez",
+    "name": "Villa Juarez Airport",
+    "icao": "MX-1164",
+    "lat": 27.081861,
+    "lon": -109.845
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Benito Juarez/Cancun",
+    "name": "Lorenzos Airstrip",
+    "icao": "MX-0232",
+    "lat": 21.1112,
+    "lon": -86.83654
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Benito Juarez/CancÃºn",
+    "name": "Helipuerto Hospiten CancÃºn",
+    "icao": "MX-1100",
+    "lat": 21.138861,
+    "lon": -86.822725
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Boca del Rio",
+    "name": "Fiesta Americana Heliport",
+    "icao": "MX-0927",
+    "lat": 19.149444,
+    "lon": -96.094444
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Bocoyna",
+    "name": "San Juanito Airport",
+    "icao": "MX-0756",
+    "lat": 27.979306,
+    "lon": -107.595056
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Boquillas del Carmen",
+    "name": "Boquillas del Carmen Airport",
+    "icao": "MX-0140",
+    "lat": 29.177923,
+    "lon": -102.91133
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Buenavista TomatlÃ¡n",
+    "name": "Pista AÃ©rea Cadenas",
+    "icao": "MX-0267",
+    "lat": 19.205697,
+    "lon": -102.617601
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Caborca",
+    "name": "Los Olivos Airstrip",
+    "icao": "MX-0071",
+    "lat": 30.5782,
+    "lon": -112.9485
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Caborca",
+    "name": "La Rivera Airport",
+    "icao": "MX-0153",
+    "lat": 30.84809,
+    "lon": -112.92075
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Caborca",
+    "name": "Ejido Juan Alvarez Airport",
+    "icao": "MX-0821",
+    "lat": 31.168868,
+    "lon": -112.805623
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Caborca",
+    "name": "El Rocio Airport",
+    "icao": "MX-1263",
+    "lat": 30.851285,
+    "lon": -112.417184
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Cadereyta",
+    "name": "Aerodeportes Airfield",
+    "icao": "MX-0133",
+    "lat": 25.522305,
+    "lon": -100.079413
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Cadereyta",
+    "name": "Club de Vuelo Cadereyta S.C.",
+    "icao": "MX-1091",
+    "lat": 25.431694,
+    "lon": -99.9335
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Cajeme",
+    "name": "La Huerta Airport",
+    "icao": "MX-0370",
+    "lat": 27.455281,
+    "lon": -110.019717
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Cajeme",
+    "name": "Santa Cecilia Airport",
+    "icao": "MX-0513",
+    "lat": 27.369395,
+    "lon": -109.938403
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Cajeme",
+    "name": "Santa Barbara I Airport",
+    "icao": "MX-0550",
+    "lat": 27.476666,
+    "lon": -109.979722
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Cajeme",
+    "name": "San Joaquin Aitport",
+    "icao": "MX-0935",
+    "lat": 27.352154,
+    "lon": -109.965952
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Cajeme",
+    "name": "Solidaridad Airport",
+    "icao": "MX-1080",
+    "lat": 27.391331,
+    "lon": -110.01725
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Cajeme",
+    "name": "Aeroservicios La Victoria Airport",
+    "icao": "MX-1136",
+    "lat": 27.405433,
+    "lon": -109.959497
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Camargo",
+    "name": "El Cachorro Airport",
+    "icao": "MX-0681",
+    "lat": 27.524145,
+    "lon": -105.34933
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Campeche",
+    "name": "La Laguna Airport",
+    "icao": "MX-0174",
+    "lat": 19.80858,
+    "lon": -90.138868
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Campo RenÃ©",
+    "name": "BahÃ­a Ballenas Airstrip",
+    "icao": "MX-0018",
+    "lat": 26.805556,
+    "lon": -113.476389
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Candela",
+    "name": "Mesa de Cartujanos Airstrip",
+    "icao": "MX-0355",
+    "lat": 26.951026,
+    "lon": -100.713416
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Canelas Municipality",
+    "name": "Canelas Airstrip",
+    "icao": "MX-0416",
+    "lat": 25.128263,
+    "lon": -106.552689
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Carbo",
+    "name": "La Guacamaya Airport",
+    "icao": "MX-1213",
+    "lat": 29.724284,
+    "lon": -110.90385
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "CarichÃ­",
+    "name": "CarichÃ­ Airstrip",
+    "icao": "MX-0425",
+    "lat": 27.917501,
+    "lon": -107.043159
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Carlos Carrillo",
+    "name": "El Zopilote Airport",
+    "icao": "MX-0883",
+    "lat": 18.246933,
+    "lon": -95.721035
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Cerralvo",
+    "name": "Francisco Bruno Barrera Airport",
+    "icao": "MX-0584",
+    "lat": 26.083758,
+    "lon": -99.599239
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Cerro Azul",
+    "name": "Cerro Azul Airport",
+    "icao": "MX-0590",
+    "lat": 21.156879,
+    "lon": -97.756401
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Chamela",
+    "name": "Chamela Airport",
+    "icao": "MX-0591",
+    "lat": 19.533333,
+    "lon": -105.075278
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Champoton",
+    "name": "La Joya Airport",
+    "icao": "MX-0176",
+    "lat": 19.47314,
+    "lon": -90.662475
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Champoton",
+    "name": "Rancho Los Jabines Airport",
+    "icao": "MX-0700",
+    "lat": 19.099666,
+    "lon": -90.335201
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "name": "Comandancia Norte Heliport",
+    "icao": "MX-0450",
+    "lat": 28.70467,
+    "lon": -106.12176
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "name": "El Charco Airport",
+    "icao": "MX-0664",
+    "lat": 28.391899,
+    "lon": -106.208992
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Chihuahua",
+    "name": "Los Leones Heliport",
+    "icao": "MX-0936",
+    "lat": 28.739082,
+    "lon": -105.981582
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "ChimaltitÃ¡n",
+    "name": "ChimaltitÃ¡n Airstrip",
+    "icao": "MX-0443",
+    "lat": 21.787215,
+    "lon": -103.774474
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "China",
+    "name": "La Pinta Airport",
+    "icao": "MX-0329",
+    "lat": 25.447861,
+    "lon": -98.473083
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Chinipas de Almada",
+    "name": "Mina de Palmarejo Airport",
+    "icao": "MX-0614",
+    "lat": 27.382432,
+    "lon": -108.408217
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Choix",
+    "name": "San Pantaleon Airstrip",
+    "icao": "MX-0301",
+    "lat": 26.6532,
+    "lon": -108.094301
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Choix",
+    "name": "El Duraznito de Choix Airstrip",
+    "icao": "MX-1081",
+    "lat": 26.641581,
+    "lon": -108.013984
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Ciudad AcuÃ±a",
+    "name": "Santa Elena Airstrip",
+    "icao": "MX-0131",
+    "lat": 29.6391,
+    "lon": -101.8959
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Ciudad AcuÃ±a",
+    "name": "San Lorenzo AcuÃ±a Airport",
+    "icao": "MX-0334",
+    "lat": 29.308333,
+    "lon": -101.090278
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Ciudad AcuÃ±a",
+    "name": "Los Angeles Airport",
+    "icao": "MX-0487",
+    "lat": 29.500556,
+    "lon": -101.667571
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Ciudad AcuÃ±a",
+    "name": "Trampa Santa Rosa Airport",
+    "icao": "MX-0496",
+    "lat": 29.636925,
+    "lon": -101.469959
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Ciudad AcuÃ±a",
+    "name": "Rancho La Margarita Airport",
+    "icao": "MX-0562",
+    "lat": 29.224167,
+    "lon": -101.243611
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Ciudad Chihuahua",
+    "name": "Bodegas Generales del Campo Airport",
+    "icao": "MX-0680",
+    "lat": 28.775415,
+    "lon": -107.087487
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Ciudad del Carmen",
+    "name": "Sea Fox 2 Helipad",
+    "icao": "MX-0175",
+    "lat": 19.507449,
+    "lon": -92.000293
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Ciudad Del Carmen",
+    "name": "Los Bravos De Bonfil Airport",
+    "icao": "MX-0183",
+    "lat": 17.98953,
+    "lon": -91.68843
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Ciudad DÃ­az Ordaz",
+    "name": "Venecia Airport",
+    "icao": "MX-0494",
+    "lat": 26.202206,
+    "lon": -98.558212
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Ciudad Jimenez",
+    "name": "Rancho Madero Airport",
+    "icao": "MX-0117",
+    "lat": 27.3805,
+    "lon": -104.88
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Ciudad Jimenez",
+    "name": "Cerros Prietos Airport",
+    "icao": "MX-1041",
+    "lat": 27.198565,
+    "lon": -104.978905
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Ciudad Juarez",
+    "name": "El Pelon Airport",
+    "icao": "MX-1027",
+    "lat": 27.218032,
+    "lon": -104.841307
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Ciudad Juarez/Samalayuca",
+    "name": "Rancho Dos Cachorros Heliport",
+    "icao": "MX-1235",
+    "lat": 31.33461,
+    "lon": -106.46643
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Ciudad Mante",
+    "name": "Los Aztecas Airport",
+    "icao": "MX-0050",
+    "lat": 22.5141,
+    "lon": -98.6325
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Ciudad Mante",
+    "name": "Rancho El Trofis Airport",
+    "icao": "MX-0762",
+    "lat": 22.455043,
+    "lon": -98.763331
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Ciudad Mante",
+    "name": "El Siete Airport",
+    "icao": "MX-1072",
+    "lat": 22.601557,
+    "lon": -98.914564
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Ciudad Mier",
+    "name": "Mier Airfield",
+    "icao": "MX-1254",
+    "lat": 26.416581,
+    "lon": -99.153446
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Ciudad Obregon",
+    "name": "Familia Baldenebro Jaimes Airport",
+    "icao": "MX-0882",
+    "lat": 27.374776,
+    "lon": -109.937428
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "Ciudad Valles",
+    "name": "Chantol Airstrip",
+    "icao": "MX-0124",
+    "lat": 22.0943,
+    "lon": -99.0963
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Ciudad Victoria",
+    "name": "El Roble Helipad",
+    "icao": "MX-0281",
+    "lat": 23.762278,
+    "lon": -99.143389
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Ciudad Victoria",
+    "name": "Transpais Heliport",
+    "icao": "MX-0890",
+    "lat": 23.720194,
+    "lon": -99.081667
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Coatzintla",
+    "name": "Tango Heliport",
+    "icao": "MX-0976",
+    "lat": 20.486025,
+    "lon": -97.512659
+  },
+  {
+    "country": "Mexico",
+    "state": "Colima",
+    "city": "Comala",
+    "name": "La Joya Brun Airstrip",
+    "icao": "MX-0121",
+    "lat": 19.4444,
+    "lon": -103.6713
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "ComitÃ¡n",
+    "name": "Comitan Airport",
+    "icao": "MX-0691",
+    "lat": 16.267719,
+    "lon": -92.081566
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "ComondÃº",
+    "name": "CadejÃ© Airstrip",
+    "icao": "MX-0017",
+    "lat": 26.370833,
+    "lon": -112.513611
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "ComondÃº",
+    "name": "Ayuquila Airport",
+    "icao": "MX-0595",
+    "lat": 25.223621,
+    "lon": -111.759541
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Compostela",
+    "name": "Las Varas Airport",
+    "icao": "MX-0536",
+    "lat": 21.189617,
+    "lon": -105.149591
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Cordoba",
+    "name": "Hospital Cordoba Heliport",
+    "icao": "MX-0728",
+    "lat": 18.897115,
+    "lon": -96.942686
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Cosamaloapan",
+    "name": "Carlos A Carrillo Airport",
+    "icao": "MX-0589",
+    "lat": 18.390305,
+    "lon": -95.726691
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Coyame",
+    "name": "El Sacrificio Airstrip",
+    "icao": "MX-0837",
+    "lat": 29.694401,
+    "lon": -105.817049
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Coyoacan",
+    "name": "Grupo Imagen Heliport",
+    "icao": "MX-0715",
+    "lat": 19.3384,
+    "lon": -99.182172
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CoyoacÃ¡n",
+    "name": "SecretarÃ­a de Marina Abierto A La OperaciÃ³n Civil En Emergencia Heliport",
+    "icao": "MX-0881",
+    "lat": 19.32311,
+    "lon": -99.125722
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Coyoacan",
+    "name": "Corporativo 5010 Helipad",
+    "icao": "MX-1135",
+    "lat": 19.303783,
+    "lon": -99.182989
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Cozumel",
+    "name": "Isla de La Pasion Seaplane Base",
+    "icao": "MX-0679",
+    "lat": 20.543472,
+    "lon": -86.867778
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuahutemoc",
+    "name": "Torre Diana Heliport",
+    "icao": "MX-0682",
+    "lat": 19.426659,
+    "lon": -99.171773
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuahutÃ©moc",
+    "name": "Torre Libertad  Helipad",
+    "icao": "MX-1155",
+    "lat": 19.42566,
+    "lon": -99.17235
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuajimalpa",
+    "name": "Fideicomiso 869 Helipad",
+    "icao": "MX-0327",
+    "lat": 19.359694,
+    "lon": -99.276806
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuajimalpa",
+    "name": "Opcion Santa Fe III Heliport",
+    "icao": "MX-0532",
+    "lat": 19.357481,
+    "lon": -99.275128
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuajimalpa",
+    "name": "Torre Acuario Heliport",
+    "icao": "MX-0651",
+    "lat": 19.364445,
+    "lon": -99.260916
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuajimalpa",
+    "name": "One O One Heliport",
+    "icao": "MX-0662",
+    "lat": 19.359167,
+    "lon": -99.279083
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuajimalpa",
+    "name": "Espacio Santa Fe Heliport",
+    "icao": "MX-0723",
+    "lat": 19.363028,
+    "lon": -99.2815
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuajimalpa",
+    "name": "Terracota Cien Heliport",
+    "icao": "MX-0763",
+    "lat": 19.358591,
+    "lon": -99.276232
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuajimalpa",
+    "name": "World Plaza Heliport",
+    "icao": "MX-0987",
+    "lat": 19.359685,
+    "lon": -99.271258
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuajimalpa",
+    "name": "Torre Zentrum Heliport",
+    "icao": "MX-1073",
+    "lat": 19.358469,
+    "lon": -99.273183
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Cuajimalpa",
+    "name": "Pinfra Helipad",
+    "icao": "MX-1260",
+    "lat": 19.389438,
+    "lon": -99.251878
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Cuatro Cienegas",
+    "name": "La Palmosa Airstrip",
+    "icao": "MX-0783",
+    "lat": 26.395244,
+    "lon": -101.786209
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuauhtÃ©moc",
+    "name": "BBVA Bancomer Tower Helipad",
+    "icao": "MX-0161",
+    "lat": 19.422852,
+    "lon": -99.174745
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuauhtÃ©moc",
+    "name": "La Prensa Helipad",
+    "icao": "MX-0323",
+    "lat": 19.43719,
+    "lon": -99.148063
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "CuauhtÃ©moc",
+    "name": "Campo 107Airport",
+    "icao": "MX-0561",
+    "lat": 28.798056,
+    "lon": -107.0475
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "CuauhtÃ©moc",
+    "name": "Campo Diez Airport",
+    "icao": "MX-0577",
+    "lat": 28.738889,
+    "lon": -106.928333
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuauhtÃ©moc",
+    "name": "Tlatelolco II Heliport",
+    "icao": "MX-0656",
+    "lat": 19.433636,
+    "lon": -99.14412
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuauhtÃ©moc",
+    "name": "JV Nuevo LeÃ³n Heliport",
+    "icao": "MX-0704",
+    "lat": 19.403931,
+    "lon": -99.170963
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuauhtÃ©moc",
+    "name": "Torre Caballito Heliport",
+    "icao": "MX-0772",
+    "lat": 19.436599,
+    "lon": -99.148848
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuauhtÃ©moc",
+    "name": "Reforma 180 Heliport",
+    "icao": "MX-0814",
+    "lat": 19.429596,
+    "lon": -99.160895
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuauhtÃ©moc",
+    "name": "Torre Mayor Heliport",
+    "icao": "MX-0919",
+    "lat": 19.424278,
+    "lon": -99.175421
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuauhtÃ©moc",
+    "name": "SEIDO Heliport",
+    "icao": "MX-0961",
+    "lat": 19.44068,
+    "lon": -99.144342
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "CuauhtÃ©moc",
+    "name": "Milenio Diario Antes Novedades Editores Heliport",
+    "icao": "MX-1016",
+    "lat": 19.431855,
+    "lon": -99.148564
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Cuautla",
+    "name": "Cuautla Airport",
+    "icao": "MX-0192",
+    "lat": 20.191474,
+    "lon": -104.413804
+  },
+  {
+    "country": "Mexico",
+    "state": "Morelos",
+    "city": "Cuernavaca",
+    "name": "Cuernavaca Golf Club Heliport",
+    "icao": "MX-1211",
+    "lat": 18.910189,
+    "lon": -99.237807
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "Morris Airport",
+    "icao": "MX-0539",
+    "lat": 24.608317,
+    "lon": -107.449834
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "Las Salvias Airstrip",
+    "icao": "MX-0547",
+    "lat": 25.664613,
+    "lon": -107.499709
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "San Rafael Airport",
+    "icao": "MX-0576",
+    "lat": 24.66745,
+    "lon": -107.401428
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "La Campanera Airport",
+    "icao": "MX-0674",
+    "lat": 24.94838,
+    "lon": -107.469321
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "Carbonera Airport",
+    "icao": "MX-0688",
+    "lat": 24.762537,
+    "lon": -107.214607
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "El Pozo Airport",
+    "icao": "MX-0734",
+    "lat": 24.921469,
+    "lon": -107.256425
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "Lagarto Airport",
+    "icao": "MX-0870",
+    "lat": 24.629667,
+    "lon": -107.480297
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "La Miseria Airstrip",
+    "icao": "MX-0920",
+    "lat": 24.959335,
+    "lon": -107.606945
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "Campo Patricia Airport",
+    "icao": "MX-1052",
+    "lat": 24.549778,
+    "lon": -107.440116
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Culiacan",
+    "name": "La PequeÃ±a Joya Airport",
+    "icao": "MX-1200",
+    "lat": 24.678611,
+    "lon": -107.477222
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Cunduacan",
+    "name": "San AntÃ³nio Airport",
+    "icao": "MX-0209",
+    "lat": 17.979734,
+    "lon": -93.231776
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "De Garcia",
+    "name": "Club Aereo Francisco Lobo Airport",
+    "icao": "MX-0770",
+    "lat": 25.794346,
+    "lon": -100.446327
+  },
+  {
+    "country": "Mexico",
+    "state": "Guanajuato",
+    "city": "Doctor Mora",
+    "name": "La BegoÃ±a Airport",
+    "icao": "MX-0246",
+    "lat": 21.1259,
+    "lon": -100.40626
+  },
+  {
+    "country": "Mexico",
+    "state": "Guanajuato",
+    "city": "Dolores Hidalgo",
+    "name": "El Jaguey Airport",
+    "icao": "MX-0077",
+    "lat": 21.23115,
+    "lon": -100.836
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Durango",
+    "name": "Rancho La Nogalera Airport",
+    "icao": "MX-0755",
+    "lat": 23.965859,
+    "lon": -104.599429
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Durango",
+    "name": "El Sol de Durango Helipad",
+    "icao": "MX-1170",
+    "lat": 24.028606,
+    "lon": -104.645167
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "Ebano",
+    "name": "Los Cerones Airport",
+    "icao": "MX-0223",
+    "lat": 22.139843,
+    "lon": -98.516517
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "Ebano",
+    "name": "Plan de Iguala Airport",
+    "icao": "MX-0400",
+    "lat": 22.043206,
+    "lon": -98.473092
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Ecatepec de Morelos",
+    "name": "Ecatepec Heliport",
+    "icao": "MX-0397",
+    "lat": 19.598723,
+    "lon": -99.049292
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Ejido MelitÃ³n AlbÃ¡Ã±ez DomÃ­ngez",
+    "name": "MelitÃ³n AlbÃ¡Ã±ez DomÃ­nguez Airstrip",
+    "icao": "MX-0019",
+    "lat": 23.667222,
+    "lon": -110.442222
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "El Carmen",
+    "name": "Los Algodones Airport",
+    "icao": "MX-0132",
+    "lat": 25.8699,
+    "lon": -100.339
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "El Dorado",
+    "name": "El Dorado Airport",
+    "icao": "MX-0885",
+    "lat": 24.321481,
+    "lon": -107.398628
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "El Fuerte",
+    "name": "La Constancia Airport",
+    "icao": "MX-0157",
+    "lat": 25.95686,
+    "lon": -108.88524
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "El Fuerte",
+    "name": "Cedros Airport",
+    "icao": "MX-0867",
+    "lat": 25.886709,
+    "lon": -108.888927
+  },
+  {
+    "country": "Mexico",
+    "state": "QuerÃ©taro",
+    "city": "El Marquez",
+    "name": "Eurocopter de MÃ©xico Heliport",
+    "icao": "MX-0621",
+    "lat": 20.623578,
+    "lon": -100.170712
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "El Nayar",
+    "name": "Zoquipan Airstrip",
+    "icao": "MX-0488",
+    "lat": 22.013807,
+    "lon": -104.544069
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "El Nayar",
+    "name": "Higuera Gorda Airport",
+    "icao": "MX-0529",
+    "lat": 21.679373,
+    "lon": -104.531888
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "El Nayar",
+    "name": "Dolores Nay Airport",
+    "icao": "MX-0552",
+    "lat": 22.349301,
+    "lon": -104.949114
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "El Nayar",
+    "name": "Jesus Maria Airport",
+    "icao": "MX-0955",
+    "lat": 22.264644,
+    "lon": -104.486614
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "El Palmarito",
+    "name": "El Palmarito Airstrip",
+    "icao": "MX-0417",
+    "lat": 23.887633,
+    "lon": -105.719018
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "El Rosal, Guadalupe y Calvo",
+    "name": "Arroyo Verde Airstrip",
+    "icao": "MX-0709",
+    "lat": 26.445208,
+    "lon": -107.440052
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "El Rosario",
+    "name": "El Rosario Airstrip",
+    "icao": "MX-0434",
+    "lat": 22.990549,
+    "lon": -105.86842
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "El Salto",
+    "name": "El Salto Airport",
+    "icao": "MX-0325",
+    "lat": 23.77356,
+    "lon": -105.326658
+  },
+  {
+    "country": "Mexico",
+    "state": "Morelos",
+    "city": "Emiliano Zapata",
+    "name": "Hospital General de Alta Resolucion, ISSSTE Morelos Helipad",
+    "icao": "MX-1067",
+    "lat": 18.847314,
+    "lon": -99.197565
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Empalme",
+    "name": "Campo San Pablo Airstrip",
+    "icao": "MX-0905",
+    "lat": 28.013371,
+    "lon": -110.659224
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Empalme",
+    "name": "San Martin Airport",
+    "icao": "MX-1134",
+    "lat": 28.123504,
+    "lon": -110.680947
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Puertecitos Airport",
+    "icao": "MX-0055",
+    "lat": 30.3537,
+    "lon": -114.6394
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Punta Colonet Airport",
+    "icao": "MX-0081",
+    "lat": 30.9582,
+    "lon": -116.2409
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Rancho MagaÃ±a Airport",
+    "icao": "MX-0299",
+    "lat": 30.635,
+    "lon": -115.9577
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Punta Bufeo Airport",
+    "icao": "MX-0361",
+    "lat": 29.907,
+    "lon": -114.447676
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "El Buen Pastor Airstrip",
+    "icao": "MX-0371",
+    "lat": 30.571796,
+    "lon": -115.92079
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Lorenzos de Baja Airport",
+    "icao": "MX-0647",
+    "lat": 30.4895,
+    "lon": -115.977806
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "La Grulla Airport",
+    "icao": "MX-0761",
+    "lat": 31.699373,
+    "lon": -116.624772
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Paredones Airport",
+    "icao": "MX-1063",
+    "lat": 29.949722,
+    "lon": -114.511389
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Rancho Santa Cruz Airport",
+    "icao": "MX-1229",
+    "lat": 31.99882,
+    "lon": -116.639787
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Ensenada",
+    "name": "Sierra JuÃ¡rez Airstrip",
+    "icao": "MX-1238",
+    "lat": 32.13123,
+    "lon": -116.01599
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "EscÃ¡rcega",
+    "name": "EscÃ¡rcega Airport",
+    "icao": "MX-0173",
+    "lat": 18.60333,
+    "lon": -90.71525
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Escuintla",
+    "name": "La Providencia de Acapetahua Airport",
+    "icao": "MX-0544",
+    "lat": 15.286305,
+    "lon": -92.749889
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Felipe Carrillo Puerto",
+    "name": "Felipe Carrillo Puerto Airport",
+    "icao": "MX-0236",
+    "lat": 19.61013,
+    "lon": -88.074291
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Fronteras",
+    "name": "Mesa de Fronteras Airport",
+    "icao": "MX-0358",
+    "lat": 30.951281,
+    "lon": -109.753835
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "General Bravo",
+    "name": "Buenavista Airstrip",
+    "icao": "MX-0798",
+    "lat": 25.854755,
+    "lon": -98.638303
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "General Bravo",
+    "name": "Huizachitos Airfield",
+    "icao": "MX-1257",
+    "lat": 25.99301,
+    "lon": -98.70126
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "General Teran",
+    "name": "Dolores Airport",
+    "icao": "MX-0521",
+    "lat": 25.563105,
+    "lon": -98.607593
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Gonzalez",
+    "name": "Aero Fumigaciones David Airport",
+    "icao": "MX-0164",
+    "lat": 22.66174,
+    "lon": -98.44989
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Gonzalez",
+    "name": "Husky Airport",
+    "icao": "MX-0310",
+    "lat": 22.7891,
+    "lon": -98.49
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Gonzalez",
+    "name": "Betty Airport",
+    "icao": "MX-0314",
+    "lat": 22.8155,
+    "lon": -98.5574
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Gonzalez",
+    "name": "Alicia Airport",
+    "icao": "MX-0317",
+    "lat": 22.8728,
+    "lon": -98.5864
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Gonzalez",
+    "name": "Aerofumigaciones El Primo Airport",
+    "icao": "MX-0726",
+    "lat": 22.748998,
+    "lon": -98.411585
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Gonzalez",
+    "name": "Rancho PeÃ±itas Airport",
+    "icao": "MX-1077",
+    "lat": 22.748804,
+    "lon": -98.654265
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Gonzalez",
+    "name": "Pista El Rocio",
+    "icao": "MX-1205",
+    "lat": 22.505143,
+    "lon": -98.525519
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Granado",
+    "name": "Granados Airstrip",
+    "icao": "MX-0873",
+    "lat": 29.859648,
+    "lon": -109.321992
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guachochi",
+    "name": "Guachochi Airport",
+    "icao": "MX-0375",
+    "lat": 26.842652,
+    "lon": -107.061353
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guachochi",
+    "name": "Los Napuchis Airport",
+    "icao": "MX-1058",
+    "lat": 27.321838,
+    "lon": -107.515543
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "name": "Hospital Angeles del Carmen Helipad",
+    "icao": "MX-0639",
+    "lat": 20.680883,
+    "lon": -103.399016
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "name": "Desarrollo Las Americas Heliport",
+    "icao": "MX-0950",
+    "lat": 20.697928,
+    "lon": -103.373451
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Guadalajara",
+    "name": "Hospital San Javier Helipad",
+    "icao": "MX-1212",
+    "lat": 20.687923,
+    "lon": -103.389818
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Guadalupe",
+    "name": "Torrey Heliport",
+    "icao": "MX-0497",
+    "lat": 25.696056,
+    "lon": -100.177056
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guadalupe Y Calvo",
+    "name": "Baborigame Airport",
+    "icao": "MX-0367",
+    "lat": 26.433538,
+    "lon": -107.270901
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guadalupe y Calvo",
+    "name": "Buenavista de Atascaderos Airport",
+    "icao": "MX-0484",
+    "lat": 25.756865,
+    "lon": -106.797866
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guadalupe y Calvo",
+    "name": "Alicitos de Olivas Airstrip",
+    "icao": "MX-0650",
+    "lat": 26.184986,
+    "lon": -107.279808
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guadalupe y Calvo",
+    "name": "El Palmito Airstrip",
+    "icao": "MX-0964",
+    "lat": 25.942433,
+    "lon": -107.143053
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guadalupe y Calvo",
+    "name": "El Tigre Airstrip",
+    "icao": "MX-1102",
+    "lat": 26.110072,
+    "lon": -107.269309
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guadalupe y Calvo",
+    "name": "Cienega de Araujo Airport",
+    "icao": "MX-1168",
+    "lat": 26.013913,
+    "lon": -107.276602
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guadalupe y Calvo",
+    "name": "El Cajoncito Airport",
+    "icao": "MX-1171",
+    "lat": 25.935667,
+    "lon": -107.204056
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Guadalupe y Calvo",
+    "name": "Cinco Llagas Airport",
+    "icao": "MX-1215",
+    "lat": 26.210539,
+    "lon": -107.32471
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Guasave",
+    "name": "Las Cruces Airstrip",
+    "icao": "MX-0075",
+    "lat": 25.5792,
+    "lon": -108.4128
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Guasave",
+    "name": "Palos Dulces Airport",
+    "icao": "MX-0271",
+    "lat": 25.5385,
+    "lon": -108.490661
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Guasave",
+    "name": "Rancho BBB Airport",
+    "icao": "MX-0534",
+    "lat": 25.711499,
+    "lon": -108.30648
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Guasave",
+    "name": "Los Pinitos Airport",
+    "icao": "MX-0643",
+    "lat": 25.66475,
+    "lon": -108.513233
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Guasave",
+    "name": "Pista Aeroagricola Guayparime",
+    "icao": "MX-0797",
+    "lat": 25.751576,
+    "lon": -108.769897
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Guasave",
+    "name": "Pista Morgan",
+    "icao": "MX-0864",
+    "lat": 25.718111,
+    "lon": -108.726917
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Guasave",
+    "name": "Chicorrabias Airport",
+    "icao": "MX-0999",
+    "lat": 25.543494,
+    "lon": -108.57037
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Guasave",
+    "name": "Las Americas Airport",
+    "icao": "MX-1202",
+    "lat": 25.593455,
+    "lon": -108.310626
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Guaymas",
+    "name": "Leo Airport",
+    "icao": "MX-0352",
+    "lat": 27.9881,
+    "lon": -111.038887
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Guerrero",
+    "name": "La Burra Airport",
+    "icao": "MX-0150",
+    "lat": 28.06394,
+    "lon": -100.16332
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Guerrero",
+    "name": "Rancho El Papalote Airport",
+    "icao": "MX-0285",
+    "lat": 27.89929,
+    "lon": -100.50765
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Guerrero",
+    "name": "El Aguila Ranch Airport",
+    "icao": "MX-0507",
+    "lat": 27.986694,
+    "lon": -100.225724
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Guerrero",
+    "name": "La Gloria de Coahuila Airport",
+    "icao": "MX-0740",
+    "lat": 28.057181,
+    "lon": -100.491992
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Guerrero",
+    "name": "Las Cuevas Airport",
+    "icao": "MX-0900",
+    "lat": 28.073,
+    "lon": -100.391888
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Guerrero",
+    "name": "Carricitos Airport",
+    "icao": "MX-1028",
+    "lat": 28.047666,
+    "lon": -100.38445
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "name": "Pavlovich Aviation Airport",
+    "icao": "MX-0296",
+    "lat": 28.9979,
+    "lon": -111.0527
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "name": "El Socorro Airport",
+    "icao": "MX-0782",
+    "lat": 28.952572,
+    "lon": -111.253725
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Hermosillo",
+    "name": "8 de Mayo Airstrip",
+    "icao": "MX-0951",
+    "lat": 28.916686,
+    "lon": -111.357124
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Hopelchen",
+    "name": "El Cayal Airport",
+    "icao": "MX-0179",
+    "lat": 19.76752,
+    "lon": -90.170298
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Huachinera",
+    "name": "Pista Huachinera",
+    "icao": "MX-0737",
+    "lat": 30.206291,
+    "lon": -108.950653
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Huamuxtitlan",
+    "name": "Santa Cruz Airfield",
+    "icao": "MX-0040",
+    "lat": 17.768944,
+    "lon": -98.576988
+  },
+  {
+    "country": "Mexico",
+    "state": "Zacatecas",
+    "city": "Huanusco",
+    "name": "Guayaberos Airport",
+    "icao": "MX-0202",
+    "lat": 21.7406,
+    "lon": -102.9661
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "Huejotzingo",
+    "name": "Skytex Heliport",
+    "icao": "MX-1146",
+    "lat": 19.217155,
+    "lon": -98.404241
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Huimanguillo",
+    "name": "La Ceiba Airport",
+    "icao": "MX-0212",
+    "lat": 17.921538,
+    "lon": -93.57529
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Huixquilucan",
+    "name": "Cabo de PeÃ±as Heliport",
+    "icao": "MX-0469",
+    "lat": 19.402196,
+    "lon": -99.275016
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Huixquilucan",
+    "name": "El Cortijo Heliport",
+    "icao": "MX-0659",
+    "lat": 19.402732,
+    "lon": -99.276972
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Huixquilucan",
+    "name": "Magnocentro 26 Heliport",
+    "icao": "MX-0888",
+    "lat": 19.406889,
+    "lon": -99.271889
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Iguala de la Independencia",
+    "name": "Zacacoyuca Airport",
+    "icao": "MM62",
+    "lat": 18.269215,
+    "lon": -99.510887
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Imuris",
+    "name": "La Cienega Airstrip",
+    "icao": "MX-1243",
+    "lat": 30.925236,
+    "lon": -110.865633
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Inde",
+    "name": "Aguaje Blanco Airstrip",
+    "icao": "MX-1057",
+    "lat": 25.571001,
+    "lon": -104.884563
+  },
+  {
+    "country": "Mexico",
+    "state": "Guanajuato",
+    "city": "Irapuato",
+    "name": "SofÃ­a Airport",
+    "icao": "MX-0247",
+    "lat": 20.53887,
+    "lon": -101.45003
+  },
+  {
+    "country": "Mexico",
+    "state": "Guanajuato",
+    "city": "Irapuato",
+    "name": "Military Air Station 6",
+    "icao": "MX-0249",
+    "lat": 20.67486,
+    "lon": -101.3111
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Isla San Marcos",
+    "name": "San Marcos Airstrip",
+    "icao": "MX-0027",
+    "lat": 27.1875,
+    "lon": -112.07
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Ixtlan del Rio",
+    "name": "Cap. Jorge GarcÃ­a Lopez Airport",
+    "icao": "MX-0288",
+    "lat": 21.0413,
+    "lon": -104.4431
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Iztapalapa",
+    "name": "Estacion PFP Iztapalapa Heliport",
+    "icao": "MX-1092",
+    "lat": 19.372985,
+    "lon": -99.060901
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Janos",
+    "name": "Rancho Santa Anita Airport",
+    "icao": "MX-0697",
+    "lat": 30.864844,
+    "lon": -108.751778
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Janos",
+    "name": "Rancho Agua Blanca 2 Airstrip",
+    "icao": "MX-1193",
+    "lat": 30.778272,
+    "lon": -108.675213
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Janos",
+    "name": "Las Bolas / La Huato Airstrip",
+    "icao": "MX-1245",
+    "lat": 31.06689,
+    "lon": -108.7446
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Janos",
+    "name": "Hacienda San Francisco Airstrip",
+    "icao": "MX-1248",
+    "lat": 31.2358,
+    "lon": -108.6507
+  },
+  {
+    "country": "Mexico",
+    "state": "Aguascalientes",
+    "city": "Jesus Gomez Portugal de San Francisco de Los Romos",
+    "name": "Rancho Medio Kilo Airport",
+    "icao": "MX-0062",
+    "lat": 21.9998,
+    "lon": -102.2673
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Jimenez",
+    "name": "El Alamo Airport",
+    "icao": "MX-0558",
+    "lat": 29.097778,
+    "lon": -101.189388
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Jimenez",
+    "name": "El Caracol Airport",
+    "icao": "MX-0858",
+    "lat": 23.978613,
+    "lon": -98.519064
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "JuÃ¡rez",
+    "name": "San Antonio El Russio Airport",
+    "icao": "MX-0553",
+    "lat": 27.521079,
+    "lon": -100.800533
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "JuÃ¡rez",
+    "name": "Mirador Santa Rosa Airport",
+    "icao": "MX-0861",
+    "lat": 27.71831,
+    "lon": -100.86907
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "JuÃ¡rez",
+    "name": "Coyotillos Airport",
+    "icao": "MX-1037",
+    "lat": 27.681488,
+    "lon": -100.594043
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "La Cruz",
+    "name": "Ejidal Airstrip",
+    "icao": "MX-0419",
+    "lat": 23.909576,
+    "lon": -106.897357
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "La Huerta",
+    "name": "Cuixmala Airport",
+    "icao": "MX-0410",
+    "lat": 19.379351,
+    "lon": -104.987386
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "La Paz",
+    "name": "Olas Altas Heliport",
+    "icao": "MX-0872",
+    "lat": 24.034278,
+    "lon": -110.335833
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "La PurÃ­sima",
+    "name": "Palo Blanco Airstrip",
+    "icao": "MX-0026",
+    "lat": 26.148333,
+    "lon": -112.106667
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "La Ribera",
+    "name": "Punta Colorada Airport",
+    "icao": "MMPL",
+    "lat": 23.575011,
+    "lon": -109.535826
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "La Yesca",
+    "name": "Apozolco Airport",
+    "icao": "MX-0346",
+    "lat": 21.430033,
+    "lon": -103.905605
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "La Yesca",
+    "name": "El Trapiche Airport",
+    "icao": "MX-0348",
+    "lat": 21.442661,
+    "lon": -104.197225
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "La Yesca",
+    "name": "San Juan Ixtapalapa Airport",
+    "icao": "MX-0350",
+    "lat": 21.49986,
+    "lon": -104.067751
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "La Yesca",
+    "name": "Guadalupe Ocotan Airstrip",
+    "icao": "MX-0959",
+    "lat": 22.057279,
+    "lon": -104.295773
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Lagos de Moreno",
+    "name": "Francisco Primo de Verdad y Ramos Airport",
+    "icao": "LOM",
+    "lat": 21.2581,
+    "lon": -101.9441
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Lampazos",
+    "name": "San Roberto Airport",
+    "icao": "MX-0303",
+    "lat": 27.104167,
+    "lon": -100.831389
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Lampazos",
+    "name": "La Pitaya Airport",
+    "icao": "MX-0557",
+    "lat": 27.20518,
+    "lon": -100.600197
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Lampazos",
+    "name": "Rancho El Jabali Airport",
+    "icao": "MX-0806",
+    "lat": 27.1925,
+    "lon": -100.829444
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Lampazos de Naranjo",
+    "name": "Rancho San Gerardo Airport",
+    "icao": "MX-0321",
+    "lat": 26.979194,
+    "lon": -100.264721
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Lampazos de Naranjo",
+    "name": "Rancho El 13 Airstrip",
+    "icao": "MX-0748",
+    "lat": 27.324319,
+    "lon": -100.642845
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Las Choapas",
+    "name": "Las Choapas Airport",
+    "icao": "MX-0178",
+    "lat": 17.83925,
+    "lon": -94.098633
+  },
+  {
+    "country": "Mexico",
+    "state": "Guanajuato",
+    "city": "LeÃ³n",
+    "name": "Hospital Regional de Alta Especialidad del BajÃ­o Heliport",
+    "icao": "MX-0894",
+    "lat": 21.062138,
+    "lon": -101.577912
+  },
+  {
+    "country": "Mexico",
+    "state": "Guanajuato",
+    "city": "LeÃ³n",
+    "name": "Hospital Angeles Leon Helipad",
+    "icao": "MX-1103",
+    "lat": 21.157293,
+    "lon": -101.701029
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Linares",
+    "name": "Rancho La Nutria Airport",
+    "icao": "MX-0114",
+    "lat": 24.9,
+    "lon": -99.771132
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Llano Grande",
+    "name": "Llano Grande Airstrip",
+    "icao": "MX-0462",
+    "lat": 22.785651,
+    "lon": -105.100625
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Loma Bonita",
+    "name": "Air Station No. 8 Loma Bonita",
+    "icao": "MX-0413",
+    "lat": 18.023333,
+    "lon": -95.853611
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Los Cabos",
+    "name": "Cabo Real Heliport",
+    "icao": "MX-0404",
+    "lat": 22.993656,
+    "lon": -109.767664
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Los Cabos",
+    "name": "Destiladeras Cabo Este Heliport",
+    "icao": "MX-0986",
+    "lat": 23.163403,
+    "lon": -109.491564
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Macuspana",
+    "name": "Nicolas Bravo Airport",
+    "icao": "MX-0120",
+    "lat": 17.734577,
+    "lon": -92.62813
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Madera",
+    "name": "Mesa del HuracÃ¡n Airport",
+    "icao": "MX-0914",
+    "lat": 29.679606,
+    "lon": -108.251132
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Magdalena Contreras",
+    "name": "PFP Heliport",
+    "icao": "MX-0411",
+    "lat": 19.316187,
+    "lon": -99.22046
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Magdalena Contreras",
+    "name": "Hospital Angeles Heliport",
+    "icao": "MX-0810",
+    "lat": 19.312054,
+    "lon": -99.220525
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Magdalena Contreras",
+    "name": "Puebla Inversionista Heliport",
+    "icao": "MX-1015",
+    "lat": 19.329689,
+    "lon": -99.214151
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Malinalco",
+    "name": "Jalmolonga Heliport",
+    "icao": "MX-0716",
+    "lat": 18.91547,
+    "lon": -99.49497
+  },
+  {
+    "country": "Mexico",
+    "state": "Colima",
+    "city": "Manzanillo",
+    "name": "La Tigrera Airport",
+    "icao": "MX-0242",
+    "lat": 19.02606,
+    "lon": -104.23294
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Mapimi",
+    "name": "San Jacinto Airport",
+    "icao": "MX-0791",
+    "lat": 25.899278,
+    "lon": -103.988694
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Mascota",
+    "name": "General Gonzalo Curiel GarcÃ­a Airport",
+    "icao": "MX-0010",
+    "lat": 20.536136,
+    "lon": -104.802675
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Matamoros",
+    "name": "Los Ebanos Airport",
+    "icao": "MX-0146",
+    "lat": 25.34254,
+    "lon": -97.73329
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Matamoros",
+    "name": "Santa Elena Airport",
+    "icao": "MX-1142",
+    "lat": 25.990056,
+    "lon": -97.760083
+  },
+  {
+    "country": "Mexico",
+    "state": "Zacatecas",
+    "city": "Mazapil",
+    "name": "Cedros Airport",
+    "icao": "MX-0203",
+    "lat": 24.6353,
+    "lon": -101.79655
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Mazatan",
+    "name": "Marte R. Gomez Airport",
+    "icao": "MX-0505",
+    "lat": 14.905922,
+    "lon": -92.4465
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "MazatlÃ¡n",
+    "name": "Pesca Azteca Heliport",
+    "icao": "MX-0275",
+    "lat": 23.21403,
+    "lon": -106.3942
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Medellin de Bravo",
+    "name": "Ing. David Torres Heliport",
+    "icao": "MX-1232",
+    "lat": 19.090767,
+    "lon": -96.231092
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Melchor Muzquiz",
+    "name": "Hacienda Guadalupe Airport",
+    "icao": "MX-0051",
+    "lat": 29.0259,
+    "lon": -102.3968
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Melchor Muzquiz",
+    "name": "Ganaderia Santo Domingo Airport",
+    "icao": "MX-0366",
+    "lat": 28.942346,
+    "lon": -102.393098
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Melchor Muzquiz",
+    "name": "Santa Cruz Airport",
+    "icao": "MX-0560",
+    "lat": 28.216379,
+    "lon": -101.876637
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Melchor Muzquiz",
+    "name": "Rancho El Infante Airport",
+    "icao": "MX-0565",
+    "lat": 28.764444,
+    "lon": -101.935
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Mesa del Nayar",
+    "name": "Mesa del Nayar Airport",
+    "icao": "MX-0435",
+    "lat": 22.201221,
+    "lon": -104.647072
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Campeche Airport",
+    "icao": "MX-0052",
+    "lat": 32.5318,
+    "lon": -114.9898
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "San Luis Airport",
+    "icao": "MX-0063",
+    "lat": 32.4993,
+    "lon": -115.146
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Juarez Hermanos Airstrip",
+    "icao": "MX-0148",
+    "lat": 32.54633,
+    "lon": -114.92859
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Mosqueda Airport",
+    "icao": "MX-0155",
+    "lat": 32.16331,
+    "lon": -115.27344
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Lopez Airstrip",
+    "icao": "MX-0324",
+    "lat": 32.409944,
+    "lon": -115.049083
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "DirecciÃ³n de Seguridad PÃºblica Municipal Heliport",
+    "icao": "MX-0736",
+    "lat": 32.609342,
+    "lon": -115.477417
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Pista Queretaro",
+    "icao": "MX-0775",
+    "lat": 32.53233,
+    "lon": -115.156521
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Pista Campeche",
+    "icao": "MX-0789",
+    "lat": 32.55492,
+    "lon": -114.996577
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "El Alamo Airport",
+    "icao": "MX-0838",
+    "lat": 32.490878,
+    "lon": -115.184342
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Bonito Valle Airport",
+    "icao": "MX-0941",
+    "lat": 32.576638,
+    "lon": -114.983387
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Maran Airport",
+    "icao": "MX-1071",
+    "lat": 32.538278,
+    "lon": -115.423278
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Pista IÃ±iguez II",
+    "icao": "MX-1157",
+    "lat": 32.536358,
+    "lon": -115.081251
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Mexicali",
+    "name": "Zacatecas Airstrip",
+    "icao": "MX-1218",
+    "lat": 32.165907,
+    "lon": -115.039982
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Mezquital",
+    "name": "Nahuatl Airstrip",
+    "icao": "MX-0380",
+    "lat": 22.694137,
+    "lon": -104.620994
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Mezquital",
+    "name": "La Candelaria Airstrip",
+    "icao": "MX-0437",
+    "lat": 23.08303,
+    "lon": -104.545296
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Mezquital",
+    "name": "La Guajolota Airport",
+    "icao": "MX-1104",
+    "lat": 22.953498,
+    "lon": -104.63009
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Esmeralda Tower I Helipad",
+    "icao": "MX-0151",
+    "lat": 19.42944,
+    "lon": -99.205804
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "BBVA Bancomer Operating Center Helipad",
+    "icao": "MX-0162",
+    "lat": 19.44145,
+    "lon": -99.18399
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Inmobiliaria Montes Urales 770 Helipad",
+    "icao": "MX-0280",
+    "lat": 19.423962,
+    "lon": -99.20428
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Jumex 303 Heliport",
+    "icao": "MX-0394",
+    "lat": 19.440583,
+    "lon": -99.20325
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "J.W. Marriott Heliport",
+    "icao": "MX-0473",
+    "lat": 19.427299,
+    "lon": -99.194406
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Vertientes Heliport",
+    "icao": "MX-0500",
+    "lat": 19.408319,
+    "lon": -99.231275
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Irla Heliport",
+    "icao": "MX-0502",
+    "lat": 19.394245,
+    "lon": -99.239232
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Camino Real MÃ©xico Heliport",
+    "icao": "MX-0640",
+    "lat": 19.428945,
+    "lon": -99.178844
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Torre Gan Heliport",
+    "icao": "MX-0764",
+    "lat": 19.428267,
+    "lon": -99.180858
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Omega Heliport",
+    "icao": "MX-0777",
+    "lat": 19.428667,
+    "lon": -99.200036
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Hotel Nikko Heliport",
+    "icao": "MX-0780",
+    "lat": 19.42723,
+    "lon": -99.192743
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Parque Reforma Heliport",
+    "icao": "MX-0801",
+    "lat": 19.429259,
+    "lon": -99.202941
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Torre del Bosque Heliport",
+    "icao": "MX-0826",
+    "lat": 19.428465,
+    "lon": -99.204613
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Interpol MÃ©xico Heliport",
+    "icao": "MX-0843",
+    "lat": 19.452574,
+    "lon": -99.213989
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Legaria Heliport",
+    "icao": "MX-0848",
+    "lat": 19.447833,
+    "lon": -99.206944
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Edificio Falcon Heliport",
+    "icao": "MX-0852",
+    "lat": 19.442442,
+    "lon": -99.204703
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Edificio Viviendas 1 & 2",
+    "icao": "MX-0855",
+    "lat": 19.44252,
+    "lon": -99.204019
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "Corporativo Cervantes Heliport",
+    "icao": "MX-0966",
+    "lat": 19.4405,
+    "lon": -99.202669
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Miguel Hidalgo",
+    "name": "VZ Flights Helipad",
+    "icao": "MX-1167",
+    "lat": 19.428128,
+    "lon": -99.20628
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Minatitlan",
+    "name": "Najucal Heliport",
+    "icao": "MX-1121",
+    "lat": 18.354538,
+    "lon": -95.325275
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Mocorito",
+    "name": "Fumigaciones Aereas Perez Airport",
+    "icao": "MX-0377",
+    "lat": 24.9652,
+    "lon": -107.754583
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Mocorito",
+    "name": "Terrero Airstrip",
+    "icao": "MX-0667",
+    "lat": 25.675318,
+    "lon": -107.646194
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Mocorito",
+    "name": "General Rafael Buelna Tenorio Heliport",
+    "icao": "MX-0971",
+    "lat": 25.485986,
+    "lon": -107.926166
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Monclova",
+    "name": "Antair Heliport",
+    "icao": "MX-0871",
+    "lat": 26.882401,
+    "lon": -101.445925
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Montemorelos",
+    "name": "Montemorelos Airport",
+    "icao": "MX-0559",
+    "lat": 25.145338,
+    "lon": -99.844681
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Monterrey",
+    "name": "Nutec Heliport",
+    "icao": "MX-0128",
+    "lat": 25.6888,
+    "lon": -100.5067
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Monterrey",
+    "name": "Editora Helipad",
+    "icao": "MX-0318",
+    "lat": 25.674269,
+    "lon": -100.308161
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Monterrey",
+    "name": "Paseo Tec Heliport",
+    "icao": "MX-0379",
+    "lat": 25.654779,
+    "lon": -100.292795
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Monterrey",
+    "name": "Car One Gonzalitos Heliport",
+    "icao": "MX-0625",
+    "lat": 25.674393,
+    "lon": -100.353388
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Monterrey",
+    "name": "Torre Equss Sur Helipad",
+    "icao": "MX-0631",
+    "lat": 25.646751,
+    "lon": -100.353822
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Monterrey",
+    "name": "Hospital Cristus Muguerza Helipad",
+    "icao": "MX-0992",
+    "lat": 25.589176,
+    "lon": -100.25841
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Morelia",
+    "name": "Cinepolis Heliport",
+    "icao": "MX-0859",
+    "lat": 19.715171,
+    "lon": -101.119145
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Morelia",
+    "name": "C5i Michoacan Helipad",
+    "icao": "MX-1222",
+    "lat": 19.66864,
+    "lon": -101.300737
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Morelos",
+    "name": "Zarupa Airstrip",
+    "icao": "MX-0059",
+    "lat": 26.4642,
+    "lon": -107.7969
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Morelos",
+    "name": "Rancho de Burgos Airstrip",
+    "icao": "MX-0581",
+    "lat": 26.571449,
+    "lon": -107.933854
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Morelos",
+    "name": "Cienega Prieta Airport",
+    "icao": "MX-0824",
+    "lat": 26.419263,
+    "lon": -107.616613
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Morelos",
+    "name": "Masahiashi Airport",
+    "icao": "MX-1064",
+    "lat": 26.504838,
+    "lon": -107.730512
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "MulegÃ©",
+    "name": "BahÃ­a AsunciÃ³n Airstrip",
+    "icao": "MX-0015",
+    "lat": 27.183611,
+    "lon": -114.277222
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "MulegÃ©",
+    "name": "Rancho ChÃ¡vez Airstrip",
+    "icao": "MX-0023",
+    "lat": 26.895556,
+    "lon": -112.052222
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "MulegÃ©",
+    "name": "San Ignacio Downtown Airstrip",
+    "icao": "CYD",
+    "lat": 27.2906,
+    "lon": -112.8851
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Muzquiz",
+    "name": "Rancho La PeÃ±a Airport",
+    "icao": "MX-0137",
+    "lat": 28.6356,
+    "lon": -102.2231
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Muzquiz",
+    "name": "La Palma Airport",
+    "icao": "MX-0793",
+    "lat": 28.538646,
+    "lon": -102.397176
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Naco",
+    "name": "Naco Municipal Airport",
+    "icao": "MX-1188",
+    "lat": 31.326092,
+    "lon": -109.938898
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Nacori Chico",
+    "name": "Nacori Chico Airport",
+    "icao": "MX-0874",
+    "lat": 29.680817,
+    "lon": -108.982169
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Nacozari de GarcÃ­a",
+    "name": "El Chalet Airstrip",
+    "icao": "MX-1251",
+    "lat": 30.6756,
+    "lon": -109.3514
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Namiquipa",
+    "name": "Jagueyes Airport",
+    "icao": "MX-1050",
+    "lat": 29.243539,
+    "lon": -107.081405
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Naucalpan",
+    "name": "Parque Toreo III Heliport",
+    "icao": "MX-0689",
+    "lat": 19.454586,
+    "lon": -99.218205
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Naucalpan",
+    "name": "Los Pirules Heliport",
+    "icao": "MX-1001",
+    "lat": 19.508811,
+    "lon": -99.23216
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Navolato",
+    "name": "Capitan Birotes Airport",
+    "icao": "MX-0043",
+    "lat": 24.8317,
+    "lon": -107.6696
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Navolato",
+    "name": "El Gavilan Airport",
+    "icao": "MX-0340",
+    "lat": 24.760055,
+    "lon": -107.749174
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Navolato",
+    "name": "Campo Montelargo Airport",
+    "icao": "MX-0535",
+    "lat": 24.9392,
+    "lon": -107.864188
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Navolato",
+    "name": "La Perla Airport",
+    "icao": "MX-0543",
+    "lat": 24.719854,
+    "lon": -107.540039
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Navolato",
+    "name": "La Huerta Godoy Airport",
+    "icao": "MX-0623",
+    "lat": 24.721802,
+    "lon": -107.785007
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Navolato",
+    "name": "Aerofumigaciones Puerto Rico Airport",
+    "icao": "MX-0727",
+    "lat": 24.728997,
+    "lon": -107.680568
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Navolato",
+    "name": "Los Mangos Airport",
+    "icao": "MX-1009",
+    "lat": 24.684567,
+    "lon": -107.546934
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Navolato",
+    "name": "Chilicote Airport",
+    "icao": "MX-1106",
+    "lat": 24.869697,
+    "lon": -107.582581
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Navolato",
+    "name": "Sofi Airport",
+    "icao": "MX-1217",
+    "lat": 24.86272,
+    "lon": -107.614563
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Nueva Colonia",
+    "name": "Nueva Colonia Airstrip",
+    "icao": "MX-0439",
+    "lat": 22.316867,
+    "lon": -104.0207
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Nueva Italia",
+    "name": "La Curva Airport",
+    "icao": "MX-0298",
+    "lat": 18.9872,
+    "lon": -102.0851
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Nuevo Mexico",
+    "name": "Nuevo Mexico Airport",
+    "icao": "MX-1130",
+    "lat": 26.533098,
+    "lon": -104.226952
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Ocampo",
+    "name": "El Capiro Airstrip",
+    "icao": "MX-0548",
+    "lat": 28.231169,
+    "lon": -102.568148
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Ocampo",
+    "name": "El Divisadero Airport",
+    "icao": "MX-1026",
+    "lat": 27.562272,
+    "lon": -102.120187
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Ocotlan",
+    "name": "Ocotlan Airport",
+    "icao": "MX-0193",
+    "lat": 20.371175,
+    "lon": -102.773541
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Ojinaga",
+    "name": "Pista Algodonera Del Oasis",
+    "icao": "MX-0713",
+    "lat": 28.939497,
+    "lon": -104.644612
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Otaez",
+    "name": "Macho Bayo Airstrip",
+    "icao": "MX-0060",
+    "lat": 24.7462,
+    "lon": -106.2206
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Otaez",
+    "name": "Santa Maria de Otaez Airport",
+    "icao": "MX-0472",
+    "lat": 24.699766,
+    "lon": -106.0
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Otaez",
+    "name": "Bacis Airport",
+    "icao": "MX-0752",
+    "lat": 24.568748,
+    "lon": -105.890136
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Othon Pompeyo Blanco",
+    "name": "Kohunlinch Airport",
+    "icao": "MX-0237",
+    "lat": 18.453315,
+    "lon": -88.821866
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Ozuluama",
+    "name": "Isla Fronton Airport",
+    "icao": "MX-0818",
+    "lat": 21.80359,
+    "lon": -97.654501
+  },
+  {
+    "country": "Mexico",
+    "state": "Hidalgo",
+    "city": "Pachuca",
+    "name": "Real del Monte Heliport",
+    "icao": "MX-0732",
+    "lat": 20.137842,
+    "lon": -98.729175
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Padilla",
+    "name": "La Escuadra Airport",
+    "icao": "MX-0054",
+    "lat": 24.068,
+    "lon": -99.0108
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Palenque",
+    "name": "Palenque Old Airport",
+    "icao": "MX-0395",
+    "lat": 17.533596,
+    "lon": -91.984442
+  },
+  {
+    "country": "Mexico",
+    "state": "Campeche",
+    "city": "Palizada",
+    "name": "Palizada Airport",
+    "icao": "MX-0181",
+    "lat": 18.26775,
+    "lon": -92.0907
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Panuco",
+    "name": "La Poza Airport",
+    "icao": "MX-0295",
+    "lat": 22.132,
+    "lon": -98.2066
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Panuco",
+    "name": "El Frater Airport",
+    "icao": "MX-0816",
+    "lat": 21.947778,
+    "lon": -98.506389
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "ParÃ¡cuaro",
+    "name": "El Fenix Airport",
+    "icao": "MX-0982",
+    "lat": 19.018395,
+    "lon": -102.285012
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Paraiso",
+    "name": "Dos Bocas Heliport",
+    "icao": "MX-0828",
+    "lat": 18.431797,
+    "lon": -93.197542
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "Paras",
+    "name": "Santa Maria Paras Airstrip",
+    "icao": "MX-0506",
+    "lat": 26.446838,
+    "lon": -99.666483
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "PÃ¡tzcuaro",
+    "name": "PurÃ©pecha Airport",
+    "icao": "MX-0262",
+    "lat": 19.54572,
+    "lon": -101.57533
+  },
+  {
+    "country": "Mexico",
+    "state": "Guerrero",
+    "city": "Pilcaya",
+    "name": "Casa NayaÃ¡ Heliport",
+    "icao": "MX-0701",
+    "lat": 18.703868,
+    "lon": -99.488478
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Potrero de Bejarano",
+    "name": "El Jacal Airstrip",
+    "icao": "MX-1090",
+    "lat": 26.036023,
+    "lon": -107.323613
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "PrÃ¡xedis G. Guerrero",
+    "name": "El Aterrizaje Airstrip",
+    "icao": "MX-1258",
+    "lat": 31.250103,
+    "lon": -105.881349
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Progreso",
+    "name": "Rancho Don Roberto Airport",
+    "icao": "MX-0312",
+    "lat": 27.2385,
+    "lon": -100.9146
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Progreso",
+    "name": "Santa Christine Airport",
+    "icao": "MX-0491",
+    "lat": 27.364701,
+    "lon": -100.624465
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Progreso",
+    "name": "Monteverde Airport",
+    "icao": "MX-0877",
+    "lat": 27.355336,
+    "lon": -100.684444
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "Puebla",
+    "name": "Gobierno del Estado de Puebla Heliport",
+    "icao": "MX-0381",
+    "lat": 19.076367,
+    "lon": -98.164005
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "Puebla",
+    "name": "Triangulo Las Animas Heliport",
+    "icao": "MX-0657",
+    "lat": 19.04336,
+    "lon": -98.233921
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "Puebla",
+    "name": "Hospital de Traumatologia y Ortopedia Heliport",
+    "icao": "MX-0669",
+    "lat": 19.086501,
+    "lon": -98.198674
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "Puebla",
+    "name": "Hospital Angeles de Puebla Helipad",
+    "icao": "MX-1083",
+    "lat": 19.021194,
+    "lon": -98.235729
+  },
+  {
+    "country": "Mexico",
+    "state": "Morelos",
+    "city": "Puente de Ixtla",
+    "name": "Tequesquitengo Airport",
+    "icao": "MX-0839",
+    "lat": 18.6466,
+    "lon": -99.260941
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Puerto CortÃ©s",
+    "name": "Puerto CortÃ©s Airstrip",
+    "icao": "MX-0029",
+    "lat": 24.475,
+    "lon": -111.8258
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Puerto Palomas",
+    "name": "Puerto Palomas Airstrip",
+    "icao": "MX-1198",
+    "lat": 31.750303,
+    "lon": -107.635181
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Puerto PeÃ±asco",
+    "name": "Ultraligeros del Desierto Airport",
+    "icao": "MX-0279",
+    "lat": 31.39144,
+    "lon": -113.5371
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Puerto Vallarta",
+    "name": "Marina  Vallarta Heliport",
+    "icao": "MX-1055",
+    "lat": 20.653186,
+    "lon": -105.244269
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Punta Final",
+    "name": "Punta Final Airstrip",
+    "icao": "MX-0034",
+    "lat": 29.73536,
+    "lon": -114.31228
+  },
+  {
+    "country": "Mexico",
+    "state": "QuerÃ©taro",
+    "city": "Queretaro",
+    "name": "Pista de Jalpan",
+    "icao": "MX-0066",
+    "lat": 21.2509,
+    "lon": -99.4802
+  },
+  {
+    "country": "Mexico",
+    "state": "QuerÃ©taro",
+    "city": "Queretaro",
+    "name": "Centro de Congresos Queretaro Heliport",
+    "icao": "MX-0619",
+    "lat": 20.577556,
+    "lon": -100.347016
+  },
+  {
+    "country": "Mexico",
+    "state": "QuerÃ©taro",
+    "city": "QuerÃ©taro",
+    "name": "Hospital Star Medica Queretaro Heliport",
+    "icao": "MX-0722",
+    "lat": 20.617332,
+    "lon": -100.407158
+  },
+  {
+    "country": "Mexico",
+    "state": "QuerÃ©taro",
+    "city": "QuerÃ©taro",
+    "name": "Corporativo Nieto Heliport",
+    "icao": "MX-0948",
+    "lat": 20.586111,
+    "lon": -100.370832
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "Rafael Lara Grajales",
+    "name": "Loma Roja Airport",
+    "icao": "MX-0070",
+    "lat": 19.2526,
+    "lon": -97.6775
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Rancho El Caracol",
+    "name": "Rancho El Caracol Airfield",
+    "icao": "MX-0022",
+    "lat": 27.515833,
+    "lon": -113.329722
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Rancho Las Cruces Resort",
+    "name": "Rancho Las Cruces Airstrip",
+    "icao": "MX-0024",
+    "lat": 24.206667,
+    "lon": -110.084722
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "Real del Catorce",
+    "name": "Palula Airport",
+    "icao": "MX-0225",
+    "lat": 23.809294,
+    "lon": -101.408446
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Rio Bravo",
+    "name": "Los Fresnos Airport",
+    "icao": "MX-0822",
+    "lat": 25.918278,
+    "lon": -98.014096
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "Rio Verde",
+    "name": "Campo Rio Verde Airport",
+    "icao": "MX-0226",
+    "lat": 21.917274,
+    "lon": -99.939137
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Rosales",
+    "name": "Santo NiÃ±o Airport",
+    "icao": "MX-0915",
+    "lat": 28.265692,
+    "lon": -105.532416
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Rosarito",
+    "name": "Titanic Heliport",
+    "icao": "MX-0382",
+    "lat": 32.286711,
+    "lon": -117.037815
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Sahuaripa",
+    "name": "Sahuaripa Airport",
+    "icao": "MX-0013",
+    "lat": 29.0303285675,
+    "lon": -109.258024693
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Sahuaripa",
+    "name": "Estrella Airport",
+    "icao": "MX-1002",
+    "lat": 28.639387,
+    "lon": -108.773046
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Salvador Alvarado",
+    "name": "Guamuchil Evora Airport",
+    "icao": "MX-0556",
+    "lat": 25.406723,
+    "lon": -108.072245
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "San Andres Cholula",
+    "name": "Desarrollo Patrimonial City Heliport",
+    "icao": "MX-0714",
+    "lat": 19.027828,
+    "lon": -98.235799
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "San Andres Cholula",
+    "name": "Helipuerto Metropolitan",
+    "icao": "HYB",
+    "lat": 19.027753,
+    "lon": -98.237375
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "San AndrÃ©s Cohamiata",
+    "name": "San AndrÃ©s Cohamiata Airstrip",
+    "icao": "MX-0441",
+    "lat": 22.190108,
+    "lon": -104.244516
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "San Buenaventura",
+    "name": "El Fortin Airport",
+    "icao": "MX-0272",
+    "lat": 27.981798,
+    "lon": -102.094792
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "San Buenaventura",
+    "name": "Rancho Sierra Hermosa Airstrip",
+    "icao": "MX-0580",
+    "lat": 27.956056,
+    "lon": -102.066555
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "San Buenaventura",
+    "name": "Rancho El Alamo Airstrip",
+    "icao": "MX-1178",
+    "lat": 29.724806,
+    "lon": -107.132052
+  },
+  {
+    "country": "Mexico",
+    "state": "Guanajuato",
+    "city": "San Diego De La Union",
+    "name": "Rancho Santa Rosa Airstrip",
+    "icao": "MX-0047",
+    "lat": 21.4441,
+    "lon": -100.937
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "San Dimas",
+    "name": "Yamoriba Airstrip",
+    "icao": "MX-0455",
+    "lat": 24.233892,
+    "lon": -105.820197
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "San Fernando",
+    "name": "No Le Hace Airstrip",
+    "icao": "MX-0083",
+    "lat": 24.814,
+    "lon": -97.9204
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "San Fernando",
+    "name": "Paso Real Airstrip",
+    "icao": "MX-0407",
+    "lat": 24.824711,
+    "lon": -98.164431
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "San Fernando",
+    "name": "La PeÃ±ita Airport",
+    "icao": "MX-0808",
+    "lat": 25.203715,
+    "lon": -98.203898
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "San Gabriel",
+    "name": "San Gabriel Airport",
+    "icao": "MX-0194",
+    "lat": 19.696336,
+    "lon": -103.833835
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "San Ignacio",
+    "name": "San Agustin Airport",
+    "icao": "MX-0384",
+    "lat": 27.406389,
+    "lon": -110.233888
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "San Ignacio",
+    "name": "Campo El Patole Airport",
+    "icao": "MX-0760",
+    "lat": 23.73861,
+    "lon": -106.830833
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "San Jacinto Tlacotepec",
+    "name": "San Jacinto Tlacotepec Airport",
+    "icao": "MX-0972",
+    "lat": 16.523787,
+    "lon": -97.388194
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "San Jose Chiapa",
+    "name": "Planta Audi Mexico Heliport",
+    "icao": "MX-0945",
+    "lat": 19.216386,
+    "lon": -97.746389
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "San Juan Bautista Tuxtepec",
+    "name": "El Encinal Heliport",
+    "icao": "MX-0892",
+    "lat": 18.034834,
+    "lon": -96.156461
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "San Juan de Sabinas",
+    "name": "Rancho El Pato Airport",
+    "icao": "MX-0527",
+    "lat": 28.193321,
+    "lon": -101.555128
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "San Juanico",
+    "name": "San Juanico Airstrip",
+    "icao": "MX-0031",
+    "lat": 26.260833,
+    "lon": -112.486111
+  },
+  {
+    "country": "Mexico",
+    "state": "Guanajuato",
+    "city": "San Luis de La Paz",
+    "name": "La Roca Airport",
+    "icao": "MX-0836",
+    "lat": 21.247906,
+    "lon": -100.661987
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "San Luis Potosi",
+    "name": "Ãngeles Hospital Helipad",
+    "icao": "MX-0278",
+    "lat": 22.1519,
+    "lon": -101.0215
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "San Luis Rio Colorado",
+    "name": "Bonfil Airport",
+    "icao": "MX-0322",
+    "lat": 32.300833,
+    "lon": -114.975
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "San Luis Rio Colorado",
+    "name": "Pista Coahuila",
+    "icao": "MX-0533",
+    "lat": 32.276763,
+    "lon": -114.965679
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "San Luis Rio Colorado",
+    "name": "La Aurora Airport",
+    "icao": "MX-1144",
+    "lat": 32.236703,
+    "lon": -115.010247
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "San MartÃ­n de BolaÃ±os",
+    "name": "San MartÃ­n de BolaÃ±os Airstrip",
+    "icao": "MX-0470",
+    "lat": 21.509215,
+    "lon": -103.804158
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "San Mateo Otzacatipan",
+    "name": "GPM Aeroservicio Toluca Heliport",
+    "icao": "MX-0677",
+    "lat": 19.337221,
+    "lon": -99.590443
+  },
+  {
+    "country": "Mexico",
+    "state": "Guanajuato",
+    "city": "San Miguel de Allende",
+    "name": "Rancho El Girasol Heliport",
+    "icao": "MX-1006",
+    "lat": 20.962883,
+    "lon": -100.757674
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "San Pedro del Gallo",
+    "name": "El Dury Airport",
+    "icao": "MX-0357",
+    "lat": 25.757672,
+    "lon": -104.434218
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "San Pedro del Gallo",
+    "name": "Cerros Colorados Airport",
+    "icao": "MX-0641",
+    "lat": 25.792674,
+    "lon": -104.330372
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "San Pedro Garza Garcia",
+    "name": "Helipuerto Montemayor",
+    "icao": "MX-0738",
+    "lat": 25.670483,
+    "lon": -100.390233
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "San Pedro Garza GarcÃ­a",
+    "name": "Hospital Zambrano Hellion Heliport",
+    "icao": "MX-0784",
+    "lat": 25.646548,
+    "lon": -100.334233
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "San Pedro Garza Garcia",
+    "name": "Aurum Heliport",
+    "icao": "MX-0947",
+    "lat": 25.658536,
+    "lon": -100.342783
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "San Pedro Garza Garcia",
+    "name": "Zimas Heliport",
+    "icao": "MX-1139",
+    "lat": 25.639819,
+    "lon": -100.407872
+  },
+  {
+    "country": "Mexico",
+    "state": "Nuevo LeÃ³n",
+    "city": "San Pedro Garza Garcia",
+    "name": "Francisco Garza Airport",
+    "icao": "MX-1209",
+    "lat": 25.649689,
+    "lon": -100.41343
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "San Pedro Tapanatepec",
+    "name": "Llano Grande Airport",
+    "icao": "MX-0663",
+    "lat": 16.297562,
+    "lon": -94.164531
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "San QuintÃ­n",
+    "name": "Colonia LÃ¡zaro CÃ¡rdenas Airstrip",
+    "icao": "MX-1237",
+    "lat": 31.39129,
+    "lon": -115.72941
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "San Rafael",
+    "name": "La Pajarera Airport",
+    "icao": "MX-1059",
+    "lat": 20.152327,
+    "lon": -96.945939
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "San Vicente Tancuayalab",
+    "name": "Moctezuma Airport",
+    "icao": "MX-0227",
+    "lat": 21.916127,
+    "lon": -98.5521
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Santa Catarina de Tepehuanes",
+    "name": "Santa Catarina de Tepehuanes Airport",
+    "icao": "MX-0598",
+    "lat": 25.339002,
+    "lon": -105.739309
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Santa Clara",
+    "name": "Santa Clara Airstrip",
+    "icao": "MX-0442",
+    "lat": 22.236136,
+    "lon": -104.271938
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Santa Cruz Zenzontepec",
+    "name": "La Laguna Airport",
+    "icao": "MX-0633",
+    "lat": 16.537772,
+    "lon": -97.479874
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California Sur",
+    "city": "Santa Rosalia",
+    "name": "Palo Verde Airport",
+    "icao": "SRL",
+    "lat": 27.0927,
+    "lon": -112.0985
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Santiago Amoltepec",
+    "name": "Barranca Honda Airport",
+    "icao": "MX-0635",
+    "lat": 16.669065,
+    "lon": -97.468485
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Santiago Ixmatlahuacan",
+    "name": "El Amate Airport",
+    "icao": "MX-1107",
+    "lat": 18.383524,
+    "lon": -95.877728
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Santiago Papasquiaro",
+    "name": "San Juan de Camarones Airstrip",
+    "icao": "MX-0078",
+    "lat": 24.9237,
+    "lon": -106.4101
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Santiago Papasquiaro",
+    "name": "Santiago Papasquiaro Airport",
+    "icao": "MX-0599",
+    "lat": 25.085305,
+    "lon": -105.43466
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Santiago Papasquiaro",
+    "name": "Cienega de Nuestra SeÃ±ora Airport",
+    "icao": "MX-0605",
+    "lat": 25.065848,
+    "lon": -106.327951
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Santiago Papasquiaro",
+    "name": "El Guamuchil Airstrip",
+    "icao": "MX-0607",
+    "lat": 24.833722,
+    "lon": -106.54809
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Santiago Papasquiaro",
+    "name": "Las CaÃ±as Airport",
+    "icao": "MX-0609",
+    "lat": 24.954544,
+    "lon": -106.419465
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Santiago Papasquiaro",
+    "name": "Las Flores Airport",
+    "icao": "MX-0611",
+    "lat": 24.798599,
+    "lon": -106.467681
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Santiago Papasquiaro",
+    "name": "San Juan Viejo Airstrip",
+    "icao": "MX-0613",
+    "lat": 24.841584,
+    "lon": -106.442602
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Santiago Papasquiaro",
+    "name": "La Cienega Airstrip",
+    "icao": "MX-0931",
+    "lat": 24.863863,
+    "lon": -106.603749
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Satevo",
+    "name": "Rancho Cerro Blanco Airport",
+    "icao": "MX-0538",
+    "lat": 27.773338,
+    "lon": -106.015214
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Simon Bolivar",
+    "name": "PeÃ±a Flor Airport",
+    "icao": "MX-0409",
+    "lat": 24.563284,
+    "lon": -103.032122
+  },
+  {
+    "country": "Mexico",
+    "state": "Sinaloa",
+    "city": "Sinaloa de Leyva",
+    "name": "La Gran China Airport",
+    "icao": "MX-0759",
+    "lat": 25.744458,
+    "lon": -108.480475
+  },
+  {
+    "country": "Mexico",
+    "state": "Quintana Roo",
+    "city": "Solidaridad",
+    "name": "Xcaret Airport",
+    "icao": "MX-0239",
+    "lat": 20.58035,
+    "lon": -87.12706
+  },
+  {
+    "country": "Mexico",
+    "state": "Sonora",
+    "city": "Sonoyta",
+    "name": "Rancho Granja Orquidea Airport",
+    "icao": "MX-1184",
+    "lat": 31.88788,
+    "lon": -112.86867
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "El Zamora Airport",
+    "icao": "MX-0104",
+    "lat": 23.4243,
+    "lon": -97.9212
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "San Jorge Airport",
+    "icao": "MX-0304",
+    "lat": 23.612555,
+    "lon": -97.877543
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "Agua Zarca Airport",
+    "icao": "MX-0315",
+    "lat": 23.295,
+    "lon": -97.8875
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "El Contadero Airport",
+    "icao": "MX-0479",
+    "lat": 23.786944,
+    "lon": -97.878056
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "El Centenario Airport",
+    "icao": "MX-0519",
+    "lat": 23.662874,
+    "lon": -97.95002
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "Los Manueles Airport",
+    "icao": "MX-0787",
+    "lat": 23.441519,
+    "lon": -97.876035
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "Rancho Ebanos Airport",
+    "icao": "MX-0803",
+    "lat": 23.481217,
+    "lon": -97.7885
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "El LimÃ³n Airport",
+    "icao": "MX-0960",
+    "lat": 23.9542,
+    "lon": -97.784317
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "San JosÃ© de Los Leones Airport",
+    "icao": "MX-0990",
+    "lat": 24.272572,
+    "lon": -97.79021
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Soto La Marina",
+    "name": "El Brasil Airport",
+    "icao": "MX-1116",
+    "lat": 23.328188,
+    "lon": -97.774072
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Sto. Domingo Zanatepec",
+    "name": "C.P.A. Leonardo LÃ³pez Hernandez Airport",
+    "icao": "MX-0356",
+    "lat": 16.495761,
+    "lon": -94.39862
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Suchiate",
+    "name": "Santo Tomas Airport",
+    "icao": "MX-0106",
+    "lat": 14.6448,
+    "lon": -92.205
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Suchil",
+    "name": "Las Margaritas Airstrip",
+    "icao": "MX-1182",
+    "lat": 23.289692,
+    "lon": -104.250094
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Tacotalpa",
+    "name": "Lomas Tristes Airport",
+    "icao": "MX-0215",
+    "lat": 17.576836,
+    "lon": -92.569234
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "Alizal Airport",
+    "icao": "MX-0092",
+    "lat": 25.4541,
+    "lon": -106.9211
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "San Juan de Norotal Airstrip",
+    "icao": "MX-0365",
+    "lat": 25.151723,
+    "lon": -106.979489
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "Platanar Airstrip",
+    "icao": "MX-0431",
+    "lat": 25.204562,
+    "lon": -106.775905
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "La Pinosa Airstrip",
+    "icao": "MX-0454",
+    "lat": 25.168091,
+    "lon": -107.118611
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "El Tigre Airport",
+    "icao": "MX-1053",
+    "lat": 25.139332,
+    "lon": -106.896353
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "La Lagunita Airstrip",
+    "icao": "MX-1061",
+    "lat": 24.30658,
+    "lon": -106.441546
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "Palmarejo Airport",
+    "icao": "MX-1120",
+    "lat": 24.696077,
+    "lon": -106.422672
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "El Zapatero Airstrip",
+    "icao": "MX-1125",
+    "lat": 24.598065,
+    "lon": -106.381871
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "El Igualamo Airport",
+    "icao": "MX-1128",
+    "lat": 24.683404,
+    "lon": -106.600749
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "El Verano Airport",
+    "icao": "MX-1131",
+    "lat": 24.322994,
+    "lon": -106.499931
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "Las Trancas Airstrip",
+    "icao": "MX-1165",
+    "lat": 24.749131,
+    "lon": -106.636391
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tamazula",
+    "name": "Platanar de Coluta Airstrip",
+    "icao": "MX-1262",
+    "lat": 25.118535,
+    "lon": -106.73737
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Tampico El Alto",
+    "name": "Tampachiche Airport",
+    "icao": "MX-0566",
+    "lat": 21.981389,
+    "lon": -97.716111
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "Tamuin",
+    "name": "Hualul Airport",
+    "icao": "MX-0230",
+    "lat": 21.911766,
+    "lon": -98.730239
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Tapachula",
+    "name": "La Base Airport",
+    "icao": "MX-0107",
+    "lat": 14.7607,
+    "lon": -92.3414
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Tapachula",
+    "name": "Santa Teresa Airport",
+    "icao": "MX-0768",
+    "lat": 14.665036,
+    "lon": -92.327463
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Tapachula",
+    "name": "Helimaz Chiapas",
+    "icao": "MX-0937",
+    "lat": 14.772546,
+    "lon": -92.382491
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Tapachula",
+    "name": "El Hato Airport",
+    "icao": "MX-1181",
+    "lat": 14.639444,
+    "lon": -92.310278
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Teapa",
+    "name": "Rancho San Jose Airport",
+    "icao": "MX-0172",
+    "lat": 17.586968,
+    "lon": -92.950389
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Teapa",
+    "name": "La Florida",
+    "icao": "MX-0218",
+    "lat": 17.654391,
+    "lon": -92.967664
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Teapa",
+    "name": "Jorge Efrain Airport",
+    "icao": "MX-0220",
+    "lat": 17.674206,
+    "lon": -92.969815
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Teapa",
+    "name": "Monterrey Airport",
+    "icao": "MX-0222",
+    "lat": 17.661922,
+    "lon": -92.986369
+  },
+  {
+    "country": "Mexico",
+    "state": "Baja California",
+    "city": "Tecate",
+    "name": "Toyota Heliport",
+    "icao": "MX-1068",
+    "lat": 32.498443,
+    "lon": -116.72252
+  },
+  {
+    "country": "Mexico",
+    "state": "Colima",
+    "city": "TecomÃ¡n",
+    "name": "C.P.A. Roberto Nevarez Dominguez Airport",
+    "icao": "MX-0731",
+    "lat": 18.793401,
+    "lon": -103.786115
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Tecpatan",
+    "name": "Rancho Joali Airport",
+    "icao": "MX-0834",
+    "lat": 17.268044,
+    "lon": -93.537263
+  },
+  {
+    "country": "Mexico",
+    "state": "Morelos",
+    "city": "Temixco",
+    "name": "Torre Morelos Heliport",
+    "icao": "MX-0336",
+    "lat": 18.818611,
+    "lon": -99.218473
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Tempoal",
+    "name": "Tancholin Airport",
+    "icao": "MX-0108",
+    "lat": 21.652,
+    "lon": -98.5955
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Tepalcatepec",
+    "name": "FarÃ­as Airport",
+    "icao": "MX-0258",
+    "lat": 19.165125,
+    "lon": -102.856476
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Tepalcatepec",
+    "name": "Silva Airport",
+    "icao": "MX-0260",
+    "lat": 19.205658,
+    "lon": -102.831381
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Tepatitlan de Morelos",
+    "name": "Tepatitlan Municipal Airport",
+    "icao": "MX-0196",
+    "lat": 20.784594,
+    "lon": -102.674106
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Tepehuanes",
+    "name": "El Purgatorio Airstrip",
+    "icao": "MX-0878",
+    "lat": 25.485908,
+    "lon": -106.616914
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Tepic",
+    "name": "Las Bugambilias Airport",
+    "icao": "MX-0284",
+    "lat": 21.607,
+    "lon": -104.8325
+  },
+  {
+    "country": "Mexico",
+    "state": "Nayarit",
+    "city": "Tepic",
+    "name": "Dr. Aquiles Calles Ramirez Helipad",
+    "icao": "MX-1223",
+    "lat": 21.515619,
+    "lon": -104.813803
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Teuchitlan",
+    "name": "AerÃ³dromo VW",
+    "icao": "MX-0739",
+    "lat": 20.605191,
+    "lon": -103.839562
+  },
+  {
+    "country": "Mexico",
+    "state": "Puebla",
+    "city": "Teziutlan",
+    "name": "Hospital General de Teziutlan Heliport",
+    "icao": "MX-0660",
+    "lat": 19.821944,
+    "lon": -97.376916
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Tierra Blanca",
+    "name": "Felipe Terrones Acosta Airport",
+    "icao": "MX-0769",
+    "lat": 18.490008,
+    "lon": -96.359507
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Tlahuac",
+    "name": "Hospital 120 Camas Tlahuac Heliport",
+    "icao": "MX-0448",
+    "lat": 19.286887,
+    "lon": -99.052482
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Tlalixcoyan",
+    "name": "El Ahijadero Airport",
+    "icao": "MX-1013",
+    "lat": 18.752336,
+    "lon": -96.197277
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Tlalnepantla de Baz",
+    "name": "Tlalnepantla de Baz Heliport",
+    "icao": "MX-0942",
+    "lat": 19.538814,
+    "lon": -99.196401
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Tlalpan",
+    "name": "Elektra Heliport",
+    "icao": "MX-0464",
+    "lat": 19.296813,
+    "lon": -99.185982
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Tlalpan",
+    "name": "TV Azteca Heliport",
+    "icao": "MX-0466",
+    "lat": 19.30475,
+    "lon": -99.210278
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Tlalpan",
+    "name": "Hospital General Ajusco Medio Helipad",
+    "icao": "MX-0628",
+    "lat": 19.272389,
+    "lon": -99.207695
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Tlalpan",
+    "name": "El Financiero Heliport",
+    "icao": "MX-0719",
+    "lat": 19.303674,
+    "lon": -99.201274
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Tlalpan",
+    "name": "Medica Sur Heliport",
+    "icao": "MX-1034",
+    "lat": 19.29791,
+    "lon": -99.16207
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Tlalpan",
+    "name": "Centro Nacional de Rehabilitacion",
+    "icao": "MX-1048",
+    "lat": 19.289063,
+    "lon": -99.148952
+  },
+  {
+    "country": "Mexico",
+    "state": "Ciudad de MÃ©xico",
+    "city": "Tlalpan",
+    "name": "Bardahl Ajusco Heliport",
+    "icao": "MX-1124",
+    "lat": 19.2078,
+    "lon": -99.219033
+  },
+  {
+    "country": "Mexico",
+    "state": "Zacatecas",
+    "city": "Tlaltenango",
+    "name": "Ramon Lopez Velarde Airport",
+    "icao": "MX-0205",
+    "lat": 21.75929,
+    "lon": -103.30188
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Toliman",
+    "name": "El Petacal Airport",
+    "icao": "MX-0197",
+    "lat": 19.623799,
+    "lon": -103.84353
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Toluca",
+    "name": "Edificio de Justicia Estatal Heliport",
+    "icao": "MX-0453",
+    "lat": 19.289303,
+    "lon": -99.638334
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Toluca",
+    "name": "Helipuerto Estado de Mexico",
+    "icao": "MX-0799",
+    "lat": 19.293806,
+    "lon": -99.657389
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Toluca de Lerdo",
+    "name": "Prison 1 Helipad",
+    "icao": "MX-0603",
+    "lat": 19.421584,
+    "lon": -99.750799
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "TomatlÃ¡n",
+    "name": "Costalegre Airport",
+    "icao": "MX-0199",
+    "lat": 19.718896,
+    "lon": -105.232721
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Topia",
+    "name": "El Laurel Airstrip",
+    "icao": "MX-0378",
+    "lat": 25.237494,
+    "lon": -106.837591
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Topia",
+    "name": "El Rincon Airstrip",
+    "icao": "MX-0474",
+    "lat": 25.235992,
+    "lon": -106.769275
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Topia",
+    "name": "Sianori Airstrip",
+    "icao": "MX-1112",
+    "lat": 25.265214,
+    "lon": -106.754344
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Toro Bravo",
+    "name": "Toro Bravo Airport",
+    "icao": "MX-1086",
+    "lat": 18.12463,
+    "lon": -96.111918
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "TorreÃ³n",
+    "name": "La Joya Airport",
+    "icao": "MX-0065",
+    "lat": 25.5353,
+    "lon": -103.348
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Torreon",
+    "name": "Angeles de TorreÃ³n Heliport",
+    "icao": "MX-0912",
+    "lat": 25.516516,
+    "lon": -103.395063
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Tres Valles",
+    "name": "Jalisquillo Airport",
+    "icao": "MX-1084",
+    "lat": 18.34568,
+    "lon": -96.184795
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Tuxcacuesco",
+    "name": "Agricola La Tuxcana Airport",
+    "icao": "MX-0687",
+    "lat": 19.729351,
+    "lon": -103.977854
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Tuxpan",
+    "name": "Independencia I Platform Helipad",
+    "icao": "MX-0969",
+    "lat": 19.683333,
+    "lon": -95.785277
+  },
+  {
+    "country": "Mexico",
+    "state": "Chiapas",
+    "city": "Tuxtla Gutierrez",
+    "name": "Chiapas Tower Heliport",
+    "icao": "MX-0911",
+    "lat": 16.754619,
+    "lon": -93.081008
+  },
+  {
+    "country": "Mexico",
+    "state": "MÃ©xico (state)",
+    "city": "Valle de Bravo",
+    "name": "Aeroclub Valle de Bravo Airfield",
+    "icao": "MX-0245",
+    "lat": 19.145245,
+    "lon": -100.074855
+  },
+  {
+    "country": "Mexico",
+    "state": "San Luis PotosÃ­",
+    "city": "Vanegas",
+    "name": "Santa Ana de Vanegas Airport",
+    "icao": "MX-0231",
+    "lat": 24.171264,
+    "lon": -100.912954
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Veracruz",
+    "name": "La Muralla IV Platform Helipad",
+    "icao": "MX-0965",
+    "lat": 19.197463,
+    "lon": -95.157592
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Veracruz",
+    "name": "Rancho La Parroquia Heliport",
+    "icao": "MX-1173",
+    "lat": 19.146111,
+    "lon": -96.216389
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Villa Ahumada",
+    "name": "Agricola Las Isabeles Airport",
+    "icao": "MX-0042",
+    "lat": 30.2732,
+    "lon": -106.7503
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Villa Ahumada",
+    "name": "El Preson Airport",
+    "icao": "MX-0134",
+    "lat": 30.928714,
+    "lon": -106.4297
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Villa Ahumada",
+    "name": "Rancho Productor de Leche Villa Ahumada Airport",
+    "icao": "MX-0290",
+    "lat": 30.475351,
+    "lon": -106.514831
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Villa Ahumada",
+    "name": "Harpe Airport",
+    "icao": "MX-0676",
+    "lat": 30.132725,
+    "lon": -106.408644
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Villa Aldama",
+    "name": "El Palmoso",
+    "icao": "MX-1148",
+    "lat": 23.187312,
+    "lon": -97.887475
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Villa de Casas",
+    "name": "Mesa Loma Prieta Airport",
+    "icao": "MX-0524",
+    "lat": 23.763178,
+    "lon": -98.74587
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Villa Gonzalez",
+    "name": "Campo Verde Airport",
+    "icao": "MX-1162",
+    "lat": 22.697556,
+    "lon": -98.434333
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Villa Hidalgo",
+    "name": "Los Lobos Airport",
+    "icao": "MX-0545",
+    "lat": 26.043294,
+    "lon": -104.870018
+  },
+  {
+    "country": "Mexico",
+    "state": "Durango",
+    "city": "Villa Hidalgo",
+    "name": "Terrenates Airport",
+    "icao": "MX-1119",
+    "lat": 25.70654,
+    "lon": -104.644431
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Villa Lopez",
+    "name": "Huerta Los Sauces Airport",
+    "icao": "MX-0311",
+    "lat": 27.0992,
+    "lon": -105.0778
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "Villa Manuel",
+    "name": "Benny Airport",
+    "icao": "MX-0167",
+    "lat": 22.736377,
+    "lon": -98.3340101
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Villa Matamoros",
+    "name": "El Refugio Airport",
+    "icao": "MX-0503",
+    "lat": 26.814846,
+    "lon": -105.619571
+  },
+  {
+    "country": "Mexico",
+    "state": "Oaxaca",
+    "city": "Villa Tututepec",
+    "name": "Tututepec Airport",
+    "icao": "MX-0812",
+    "lat": 16.106927,
+    "lon": -97.614763
+  },
+  {
+    "country": "Mexico",
+    "state": "Tamaulipas",
+    "city": "VillagrÃ¡n",
+    "name": "Ganaderia 21 de Enero, S.A. de C.V. Airport",
+    "icao": "MX-0910",
+    "lat": 24.684838,
+    "lon": -99.401367
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Villahermosa",
+    "name": "Pemex Southern Region Administrative Technical Center Helipad",
+    "icao": "MX-0163",
+    "lat": 18.018495,
+    "lon": -92.953132
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Villahermosa",
+    "name": "Cantarell I Platform Helipad",
+    "icao": "MX-0686",
+    "lat": 18.69515,
+    "lon": -93.332928
+  },
+  {
+    "country": "Mexico",
+    "state": "Tabasco",
+    "city": "Villahermosa",
+    "name": "Torre Empresarial Helipad",
+    "icao": "MX-1118",
+    "lat": 17.995933,
+    "lon": -92.939224
+  },
+  {
+    "country": "Mexico",
+    "state": "Veracruz",
+    "city": "Xalapa",
+    "name": "Hospital Ãngeles de Xalapa Heliport",
+    "icao": "MX-1044",
+    "lat": 19.515619,
+    "lon": -96.881742
+  },
+  {
+    "country": "Mexico",
+    "state": "Morelos",
+    "city": "Xochitepec",
+    "name": "Chiconcuac Airport",
+    "icao": "MX-1261",
+    "lat": 18.775651,
+    "lon": -99.213962
+  },
+  {
+    "country": "Mexico",
+    "state": "Morelos",
+    "city": "Yautepec",
+    "name": "Yautepec Nieto Heliport",
+    "icao": "MX-0906",
+    "lat": 18.814527,
+    "lon": -99.094826
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Zapopan",
+    "name": "The Westin Heliport",
+    "icao": "MX-0618",
+    "lat": 20.653306,
+    "lon": -103.389431
+  },
+  {
+    "country": "Mexico",
+    "state": "Jalisco",
+    "city": "Zapotlan del Rey",
+    "name": "Los Cerritos Airport",
+    "icao": "MX-0201",
+    "lat": 20.418767,
+    "lon": -102.923414
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Zaragoza",
+    "name": "Rancho Las Hermanas Airstrip",
+    "icao": "MX-0101",
+    "lat": 28.591,
+    "lon": -101.6132
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Zaragoza",
+    "name": "El Desemboque Airport",
+    "icao": "MX-0489",
+    "lat": 28.781083,
+    "lon": -101.30071
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Zaragoza",
+    "name": "San Francisco Airport",
+    "icao": "MX-0746",
+    "lat": 28.564956,
+    "lon": -101.249529
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Zaragoza",
+    "name": "Los Pintos Airport",
+    "icao": "MX-0868",
+    "lat": 28.560555,
+    "lon": -101.679722
+  },
+  {
+    "country": "Mexico",
+    "state": "Coahuila",
+    "city": "Zaragoza",
+    "name": "Cedro Solo Airstrip",
+    "icao": "MX-1056",
+    "lat": 28.507972,
+    "lon": -101.408649
+  },
+  {
+    "country": "Mexico",
+    "state": "MichoacÃ¡n",
+    "city": "Zitacuaro",
+    "name": "Aero AnÃ¡huac Heliport",
+    "icao": "MX-1046",
+    "lat": 19.516706,
+    "lon": -100.41015
+  },
+  {
+    "country": "Mexico",
+    "state": "Chihuahua",
+    "city": "Zonda de Campeche",
+    "name": "Safe Regency Platform Heliport",
+    "icao": "MX-0869",
+    "lat": 19.400092,
+    "lon": -92.039283
+  }
+]
